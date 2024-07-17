@@ -10,7 +10,6 @@ The project is organized as follows:
 - `dlc/`: Contains JSON files for downloadable content (DLC)
 - `update/`: Contains JSON files for game updates
 - `retro/`: Contains JSON files for retro games
-- `forwarder/`: Contains JSON files for forwarders
 - `merge.py`: Script to merge all JSON files into a single database
 - `newcontent.py`: Script to add or update entries in the database
 
@@ -23,7 +22,7 @@ The `merge.py` script combines all JSON files from different directories into a 
 - base
 - dlc
 - update
-- forwarder
+- retro
 
 ### Adding and Updating Content (`newcontent.py`)
 
