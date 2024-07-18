@@ -79,13 +79,15 @@ def main():
     content_types = {
         1: 'base',
         2: 'dlc',
-        3: 'update'
+        3: 'update',
+        4: 'retro'
     }
 
     print("Select the type of content you want to add:")
     print("1. Base")
     print("2. DLC")
     print("3. Update")
+    print("4. Retro")
     choice = int(input("Enter the number corresponding to your choice: "))
 
     content_type = content_types.get(choice)
@@ -93,7 +95,26 @@ def main():
         print("Invalid choice. Exiting.")
         return
 
-    directory = content_type
+    if content_type == 'retro':
+        retro_path = 'retro'
+        subdirectories = [name for name in os.listdir(retro_path) if os.path.isdir(os.path.join(retro_path, name))]
+        if not subdirectories:
+            print("No subdirectories found in retro. Exiting.")
+            return
+
+        print("Select the console:")
+        for idx, subdir in enumerate(subdirectories, start=1):
+            print(f"{idx}. {subdir}")
+        console_choice = int(input("Enter the number corresponding to your choice: "))
+
+        if console_choice < 1 or console_choice > len(subdirectories):
+            print("Invalid choice. Exiting.")
+            return
+
+        directory = os.path.join(retro_path, subdirectories[console_choice - 1])
+    else:
+        directory = content_type
+
     os.makedirs(directory, exist_ok=True)
 
     game_id = input("Enter the ID of the game: ")
