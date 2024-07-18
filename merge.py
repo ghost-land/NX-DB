@@ -2,7 +2,7 @@ import json
 import os
 
 # Directories to traverse
-directories = ['base', 'dlc', 'update', 'forwarder']
+directories = ['base', 'dlc', 'update']
 
 # Dictionary to store the combined data
 combined_data = {"titledb": {}}
