@@ -59,15 +59,18 @@ def update_game_details(file_path):
     if new_region:
         game_details['region'] = new_region
 
-    new_release_date = input(f"Enter the release date (YYYYMMDD) (current: {game_details['releaseDate']}): ")
+    current_release_date = game_details.get('releaseDate', 'None')
+    new_release_date = input(f"Enter the release date (YYYYMMDD) (current: {current_release_date}): ")
     if new_release_date:
         game_details['releaseDate'] = int(new_release_date)
 
-    new_size = input(f"Enter the size (in bytes) (current: {game_details.get('size', 'None')}): ")
+    current_size = game_details.get('size', 'None')
+    new_size = input(f"Enter the size (in bytes) (current: {current_size}): ")
     if new_size:
         game_details['size'] = int(new_size)
 
-    new_version = input(f"Enter the version (current: {game_details['version']}): ")
+    current_version = game_details.get('version', 'None')
+    new_version = input(f"Enter the version (current: {current_version}): ")
     if new_version:
         game_details['version'] = int(new_version)
 
