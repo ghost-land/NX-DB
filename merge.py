@@ -1,6 +1,6 @@
 import json
 import os
-import re
+import re  # Ensure this import statement is present
 
 # Directories to traverse
 directories = ['base', 'dlc', 'update', 'retro']
@@ -9,34 +9,40 @@ directories = ['base', 'dlc', 'update', 'retro']
 combined_data = {"titledb": {}}
 
 def sanitize_text(text):
-    # Replace <br> and <br/> with newlines
-    text = re.sub(r'<br\s*/?>', '\n', text)
+    # Replace <br> and <br/> with spaces
+    text = text.replace('<br>', ' ').replace('<br/>', ' ')
     # Remove any other HTML tags
     text = re.sub(r'<.*?>', '', text)
-    # Replace unicode ellipsis with '...'
-    text = text.replace('\u2026', '...')
-    # Remove any extra spaces around newlines
-    text = re.sub(r'\n\s+', '\n', text)
-    # Ensure double quotes and backslashes are escaped for JSON
-    text = text.replace('\\', '\\\\').replace('"', '\\"')
-    # Add automatic line breaks
-    text = add_line_breaks(text, max_length=80)
+    # Replace specific characters with Unicode escape sequences
+    unicode_replacements = {
+        '…': '\\u2026',
+        '‘': '\\u2018',
+        '’': '\\u2019',
+        '“': '\\u201C',
+        '”': '\\u201D',
+        '—': '\\u2014',
+        '–': '\\u2013',
+        ' ': '\\u00A0',  # Non-breaking space
+        'é': '\\u00E9',
+        'à': '\\u00E0',
+        'è': '\\u00E8',
+        'ê': '\\u00EA',
+        'ç': '\\u00E7',
+        'ô': '\\u00F4',
+        'û': '\\u00FB',
+        'ù': '\\u00F9',
+        'î': '\\u00EE',
+        'ï': '\\u00EF',
+        'â': '\\u00E2',
+        'ä': '\\u00E4',
+        'ë': '\\u00EB',
+        'ö': '\\u00F6',
+        'ü': '\\u00FC',
+        'œ': '\\u0153'
+    }
+    for char, replacement in unicode_replacements.items():
+        text = text.replace(char, replacement)
     return text.strip()
-
-def add_line_breaks(text, max_length):
-    lines = []
-    for paragraph in text.split('\n'):
-        line = ''
-        for word in paragraph.split(' '):
-            if len(line) + len(word) + 1 > max_length:
-                lines.append(line)
-                line = word
-            else:
-                if line:
-                    line += ' '
-                line += word
-        lines.append(line)
-    return '\n'.join(lines)
 
 # Traverse each directory
 for directory in directories:
@@ -56,6 +62,6 @@ for directory in directories:
 
 # Write the combined data to fulldb.json
 with open('fulldb.json', 'w') as outfile:
-    json.dump(combined_data, outfile, indent=4)
+    json.dump(combined_data, outfile, indent=4, ensure_ascii=False)
 
 print("fulldb.json has been created successfully.")
