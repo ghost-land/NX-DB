@@ -19,7 +19,24 @@ def sanitize_text(text):
     text = re.sub(r'\n\s+', '\n', text)
     # Ensure double quotes and backslashes are escaped for JSON
     text = text.replace('\\', '\\\\').replace('"', '\\"')
+    # Add automatic line breaks
+    text = add_line_breaks(text, max_length=80)
     return text.strip()
+
+def add_line_breaks(text, max_length):
+    lines = []
+    for paragraph in text.split('\n'):
+        line = ''
+        for word in paragraph.split(' '):
+            if len(line) + len(word) + 1 > max_length:
+                lines.append(line)
+                line = word
+            else:
+                if line:
+                    line += ' '
+                line += word
+        lines.append(line)
+    return '\n'.join(lines)
 
 # Traverse each directory
 for directory in directories:
