@@ -49,6 +49,7 @@ async def process_games(directory):
             if name:
                 base_name = name.split('[')[0].strip()
                 game_info = await fetch_game_info(base_name)
+                
                 if game_info:
                     release_date = game_info.released
 
@@ -63,22 +64,24 @@ async def process_games(directory):
                     # Assign the formatted string directly if it's not None
                     if formatted_date is not None:
                         game_details['releaseDate'] = formatted_date
-                    
-                print('——————————————————————————————————————————————')
-                print(f"        Name | {game_info.name}")
-                print(f"    Released | {game_info.released or 'Not available'}")
-                print(f"      Rating | {game_info.rating or 'Not available'}")
-                print(f"    Website | {getattr(game_info, 'website', 'Not available') or 'Not available'}")
-                print(f"  Metacritic | {getattr(game_info, 'metacritic', 'Not available') or 'Not available'}")
-                print(f"Formatted String | {game_details.get('releaseDate', 'Not available')}")
-                print('——————————————————————————————————————————————')
-                print()
 
-                # Write the data back to the JSON file
-                with open(file_path, 'w') as json_file:
-                    json.dump(game_details, json_file, indent=4, separators=(',', ': '))
+                    print('——————————————————————————————————————————————')
+                    print(f"        Name | {game_info.name}")
+                    print(f"    Released | {game_info.released or 'Not available'}")
+                    print(f"      Rating | {game_info.rating or 'Not available'}")
+                    print(f"    Website | {getattr(game_info, 'website', 'Not available') or 'Not available'}")
+                    print(f"  Metacritic | {getattr(game_info, 'metacritic', 'Not available') or 'Not available'}")
+                    print(f"Formatted String | {game_details.get('releaseDate', 'Not available')}")
+                    print('——————————————————————————————————————————————')
+                    print()
+
+                    # Write the data back to the JSON file
+                    with open(file_path, 'w') as json_file:
+                        json.dump(game_details, json_file, indent=4, separators=(',', ': '))
+                else:
+                    print(f"No information found for the game '{base_name}'")
             else:
-                print(f"No information found for the game '{base_name}'")
+                print(f"No name found in the file '{file_name}'")
 
 async def main():
     content_types = {1: 'base', 2: 'dlc', 3: 'update', 4: 'retro'}
