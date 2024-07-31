@@ -7,6 +7,33 @@ import rawg
 # RAWG API configuration
 api_key = ''
 
+async def fetch_game_info(game_id):
+    """Fetches detailed game information from the RAWG API using the game's ID."""
+    async with rawg.ApiClient(rawg.Configuration(api_key={'key': api_key})) as api_client:
+        api = rawg.GamesApi(api_client)
+        try:
+            # Fetch game details using the game's ID
+            response = await api.games_read(id=game_id)
+            return response
+        except Exception as e:
+            print(f"Exception when calling GamesApi->games_read: {e}")
+            return None
+
+async def fetch_game_info_by_name(name):
+    """Fetches game information from the RAWG API using the game's name."""
+    async with rawg.ApiClient(rawg.Configuration(api_key={'key': api_key})) as api_client:
+        api = rawg.GamesApi(api_client)
+        try:
+            response = await api.games_list(search=name, search_precise=True)
+            if response.results:
+                return response.results[0]
+            else:
+                print(f"[INFO] No results found for the game '{name}'")
+                return None
+        except Exception as e:
+            print(f"Exception when calling GamesApi->games_list: {e}")
+            return None
+
 def reformat_date(date_str):
     """Reformats a date from the YYYY-MM-DD format to YYYYMMDD and returns it as an integer."""
     if isinstance(date_str, str):
@@ -21,21 +48,6 @@ def reformat_date(date_str):
     else:
         return None  # Default value if it's not a string
 
-async def fetch_game_info(name):
-    """Fetches game information from the RAWG API."""
-    async with rawg.ApiClient(rawg.Configuration(api_key={'key': api_key})) as api_client:
-        api = rawg.GamesApi(api_client)
-        try:
-            response = await api.games_list(search=name, search_precise=True)
-            if response.results:
-                return response.results[0]
-            else:
-                print(f"[INFO] No results found for the game '{name}'")
-                return None
-        except Exception as e:
-            print(f"Exception when calling GamesApi->games_list: {e}")
-            return None
-
 async def process_games(directory):
     """Processes each JSON file in the given directory to complete missing information."""
     for file_name in os.listdir(directory):
@@ -48,38 +60,49 @@ async def process_games(directory):
             name = game_details.get('name')
             if name:
                 base_name = name.split('[')[0].strip()
-                game_info = await fetch_game_info(base_name)
+                search_result = await fetch_game_info_by_name(base_name)
                 
-                if game_info:
-                    release_date = game_info.released
-
-                    # Convert the date to a string if necessary
-                    if isinstance(release_date, date):
-                        release_date = release_date.strftime('%Y-%m-%d')
+                if search_result:
+                    game_id = search_result.id
+                    game_info = await fetch_game_info(game_id)
                     
-                    print(f"String before formatting: {release_date}")  # Debugging
-                    formatted_date = reformat_date(release_date)
-                    print(f"String after formatting: {formatted_date}")
+                    if game_info:
+                        release_date = game_info.released
 
-                    # Assign the formatted string directly if it's not None
-                    if formatted_date is not None:
-                        game_details['releaseDate'] = formatted_date
+                        # Convert the date to a string if necessary
+                        if isinstance(release_date, date):
+                            release_date = release_date.strftime('%Y-%m-%d')
+                        
+                        print(f"String before formatting: {release_date}")  # Debugging
+                        formatted_date = reformat_date(release_date)
+                        print(f"String after formatting: {formatted_date}")
 
-                    print('——————————————————————————————————————————————')
-                    print(f"        Name | {game_info.name}")
-                    print(f"    Released | {game_info.released or 'Not available'}")
-                    print(f"      Rating | {game_info.rating or 'Not available'}")
-                    print(f"    Website | {getattr(game_info, 'website', 'Not available') or 'Not available'}")
-                    print(f"  Metacritic | {getattr(game_info, 'metacritic', 'Not available') or 'Not available'}")
-                    print(f"Formatted String | {game_details.get('releaseDate', 'Not available')}")
-                    print('——————————————————————————————————————————————')
-                    print()
+                        # Assign the formatted string directly if it's not None
+                        if formatted_date is not None:
+                            game_details['releaseDate'] = formatted_date
 
-                    # Write the data back to the JSON file
-                    with open(file_path, 'w') as json_file:
-                        json.dump(game_details, json_file, indent=4, separators=(',', ': '))
+                        # Correctly access the description field
+                        description = getattr(game_info, 'description', 'No description available')
+                        game_details['description'] = description
+
+                        print('——————————————————————————————————————————————')
+                        print(f"        Name | {game_info.name}")
+                        print(f"    Released | {game_info.released or 'Not available'}")
+                        print(f"      Rating | {game_info.rating or 'Not available'}")
+                        print(f"    Website | {getattr(game_info, 'website', 'Not available') or 'Not available'}")
+                        print(f"  Metacritic | {getattr(game_info, 'metacritic', 'Not available') or 'Not available'}")
+                        print(f"Description | {game_details.get('description', 'No description available')}")
+                        print(f"Formatted String | {game_details.get('releaseDate', 'Not available')}")
+                        print('——————————————————————————————————————————————')
+                        print()
+
+                        # Write the data back to the JSON file
+                        with open(file_path, 'w') as json_file:
+                            json.dump(game_details, json_file, indent=4, separators=(',', ': '))
+                    else:
+                        print(f"No detailed information found for the game ID '{game_id}'")
                 else:
-                    print(f"No information found for the game '{base_name}'")
+                    print(f"No search results found for the game '{base_name}'")
             else:
                 print(f"No name found in the file '{file_name}'")
 
