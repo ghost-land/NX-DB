@@ -1,5 +1,7 @@
 {
     "id": "0587200001330000",
     "name": "Dumbo's Flying Circus [A26]",
-    "size": 8261541
+    "size": 8261541,
+    "releaseDate": 20230328,
+    "description": "<p>This is a first-build test of a game that I began developing back in 2017 for mobile and the Playstation Vita using Unity 3D. The current build has very basic behavior with a single test-run involving a handful of enemies to shoot at and a stack of mechanics under the hood that aren't yet used.</p>\n<p>Controls are: Arrow keys to turn and space bar to fire.</p>\n<p>The game (Project title \"Open Skies\") is intended to have a \"home map\" with a strategic mission selection and a final goal of toppling the enemy base. I'm hoping to lean on random generation for mission creation, driven by player choice and showing immediate effects from the success of the player in the \"flight section\" of the game.</p>"
 }
