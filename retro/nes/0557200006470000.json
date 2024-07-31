@@ -1,5 +1,7 @@
 {
     "id": "0557200006470000",
     "name": "T&C Surf Designs - Thrilla's Surfari [NES]",
-    "size": 9939564
+    "size": 9939564,
+    "releaseDate": 20220829,
+    "description": "<p>A prototype game project made as a school graduation project.<br/></p>\n<p>It is heavily inspired by the Treasure Planet game on PS2 by\u00a0Bizarre Creations.</p>\n<p>It includes 2 levels, each with multiple challenges and activities you can do in any order you wish. These include:</p>\n<ul><li>Time-Trial - Race through the checkpoint gates\u00a0as quickly as you can to beat the best time.</li><li>Ring Race - Race through a series of rings before time runs out. Each ring will add to the timer.</li><li>Trick Challenge - Jump off of ramps and preform tricks in the air to earn points within the time limit. Try to beat the high-score. (This one is only in the mountain level. The one you start in.)</li><li>Collectables - In each level are a number of green orb...things. Get 'em all.</li></ul>\n<p>Since this was the first out of the two projects I did for my graduation, it is pretty rough around the edges. Most of the game was made in only a month and I spent an additional month during the following semester adding\u00a0new features, a new level and making it look a bit more presentable (the first level was just gray-box for that first month). So there are some bugs and jank due to that shaky foundation. If I could go back and\u00a0start over knowing what I know now I would do things pretty differently (Heck, maybe I will do that if I have time).</p>\n<p>The main bug to look out for is problems with the collision of the board. If it gets stuck in some way, try performing a trick with the Q,E or F keys, that should get you un-stuck.</p>"
 }
