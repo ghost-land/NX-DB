@@ -1,5 +1,7 @@
 {
     "id": "05852000036f0000",
     "name": "Nice de Shot [SNES]",
-    "size": 10558440
+    "size": 10558440,
+    "releaseDate": 20200417,
+    "description": "<p>Simple shoot'em-up style game meant to test out the Godot game engine.</p>\n<p>Control with arrows and space.</p><p>Score calculation:</p><ul><li>Shoot asteroid: <strong>10p</strong></li><li>Shot exit screen:\u00a0<strong>-5p</strong></li><li>Asteroid exit screen: <strong>-50p</strong></li></ul>"
 }

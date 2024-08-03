@@ -1,5 +1,7 @@
 {
     "id": "0585200004710000",
     "name": "Soldiers of Fortune [SNES]",
-    "size": 10965176
+    "size": 10965176,
+    "releaseDate": 20201220,
+    "description": "<p>Soldiers of Fortune is an arcade-ish strategy game made as a part of the Secret Santa Jam! In the game you play as a mercenary army, your goal is to expand your army and not mess any missions up.</p>\n<p>Each battle starts in the preparation phase, in this phase you can place soldiers of your army on the battlefield to prepare for the enemy attack! Afterwards comes the combat phase, in this phase you fight against the enemy until either your king dies or all of the enemies are dead.</p>\n\n<p><strong>The game is not in a finished state, i</strong>t is not really balanced in any way and doesn't contain all of the stuff I originally planned.</p>\n\n<p>PS: there is a little bug with pathfinding (more specifically the lack of it), it shows weird zigzag moves as illegal even though they are supposed to be legal, if you still want to perform it you sadly need to do it in 2-3 parts (same turn, just do it in 2 parts).</p>"
 }
