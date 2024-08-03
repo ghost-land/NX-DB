@@ -1,5 +1,7 @@
 {
     "id": "05444000009b0000",
     "name": "Global Defense [SMS]",
-    "size": 10115932
+    "size": 10115932,
+    "releaseDate": 20200712,
+    "description": "<p>Created for the\u00a0DC Jam Summer 2020\u00a0(Theme: \"Going Global\").</p>\n<p>Defend the planet from asteroids. There are two types of satellites: gun (fires quickly but low damage) and missile (fires slowly but high damage and tracks its target).</p>\n<p>The satellite speeds vary with orbital altitude according to Kepler's Laws.</p>\n<p>I probably should have spent more time on levels and progression. As it is, the game is very easy. Especially after getting going.</p>\n\n<p>Controls:</p>\n<p>Primarily mouse.</p>\n<p>Click to place a satellite at the desired altitude above the planet.\u00a0</p>\n<p>1 = Place a \"gun\" satellite (or click the buttons in the bottom right)</p>\n<p>2 = Place a \"missile\" satellite</p>\n<p>Space = pause</p>\n<p>Esc = cancel placing a satellite</p>"
 }

@@ -1,5 +1,7 @@
 {
     "id": "0544400000bf0000",
     "name": "Kung Fu Kid [SMS]",
-    "size": 10108906
+    "size": 10108906,
+    "releaseDate": 20150921,
+    "description": "<p><strong>Arrows to move, jump and crouch. 'z' and 'x' to punch and kick.</strong></p><p><strong>If you get caught - use left and right to shake them off!</strong></p><p>Originally intended to be used for the GameKid Raspberry Jam 2015 - but missed the deadline (too used to LD :P). It is a proof of concept and made using the Haxe language and using an alpha version of the Luxe Engine game framework.</p><p><strong>The version is runnable on an Raspberry PI</strong> (see separate download) - also a small twitter video running on an adafruit 2.8\" display. Insipred by the old classic \"<em>Kung Fu</em>\" on Arcade and multiple 8-bit machines.</p><p>I'll probably work a little bit more on this later.</p>"
 }
