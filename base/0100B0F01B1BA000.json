@@ -1,0 +1,8 @@
+{
+    "description": "In qrth-phyl you manoeuvre around, and within, three dimensional stages, leaving a persistent tail behind you that you must avoid. The stages are algorithmically generated and adapted according to how you play. Hidden in the game are documentary elements that chart the development and inception of Blockade/snake/worm videogames from 1976 to today.\n\nThe game plays in 3D, is adaptive and fuses elements of documentary.\n\nqrth-phyl continues the algorithmic, generative and metaphorical arcade game design ideas last seen in previous hermitgames/Verran release Leave Home.\n\nKey Features:\n- Sequence game mode: play through an infinite algorithmically generated sequence of stages collecting dots to unlock the exit and generate the next stage informed by how you've played.\n\n- Seed game mode: generate a single infinite stage from a chosen seed. Optimise the best seed for the highest score.\n\n- Box game mode: simple fixed size box 3D stage for hiscore chasing\n\n- Unique electronic soundtrack created using the AY-3-8912 audio chip\n\nBased on a prototype created in the deep south west of Cornwall circa 2004 it was (re)developed between 2011-2013 and then released publicly, revised again in 2018 and 2023. Built by one person with custom tools, self generating code and a modified AY-3-8912 audio chip.",
+    "id": "0100B0F01B1BA000",
+    "name": "qrth-phyl",
+    "publisher": "Verran",
+    "releaseDate": 20230915,
+    "version": 0
+}
