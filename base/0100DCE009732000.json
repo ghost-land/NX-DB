@@ -1,0 +1,8 @@
+{
+    "description": "What is \"Thud\"?\t\n\tif the sum of the hands matches other people's layout.\n\nBasic Rule\t\n\tYou can discard the same suit as the table card or a number card.\n\t\n☆1 \"Action Cards\"\n\tDepending on discards, there are special effects.\n\tA : Skip\n\t2 : Draw2\n\t5 :  The number of discards for the next player is 5 or less.\n\t8 / joker :  Almighty: You can discard any layout.  You can specify the mark for the next discard tag.\n\t9 :  Reverse the order\n\t\n☆2 \"Bonus Rate\"\t\n\tThe score is calculated by multiplying the discard bid by the bonus rate.\n\tBonus rate will be up according to conditions.\n\n☆3 \"Online play\"\t\n\tBonus rate starts from the number of players.\n\n☆4 \"Wireless Play\"\t\n\tBonus rate starts from the number of players.\n\n☆5 \"Online Ranking\"\t\n\tYou may be the best \"Thud\" player in the world!\n",
+    "id": "0100DCE009732000",
+    "name": "Poisoft Thud Card",
+    "publisher": "POISOFT",
+    "releaseDate": 20180302,
+    "version": 0
+}
