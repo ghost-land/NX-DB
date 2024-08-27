@@ -1,0 +1,8 @@
+{
+    "description": "Play from beginners level to top level ELO 1100 (very good level, if you beat your device here, respect!) in this high quality Chess Game Engine.\n\nComplete chess game logic available including castle move, en-passant move, pawn promotion(to knight/bishop/rook/queen), piece move rule, undo move, redo move, detecting if chess game is finished by checkmate or draw by fiftymoverule, three fold repetitions, insufficient materials, stalemate and extensible by draw agreement, timeout, and surrender.\n\nCalculate the change in position score after each move, as display on the black and white bar located right side of the GUI, letting you visualize the leading color on the board and how far you are against your opponent on the board position\n\nIf you need only one Chess Game, this one is for you",
+    "id": "0100CAB017BC0000",
+    "name": "ELO 1100 Chess",
+    "publisher": "Pix Arts",
+    "releaseDate": 20220304,
+    "version": 0
+}
