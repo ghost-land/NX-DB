@@ -3,7 +3,7 @@ import os
 import re
 
 # Directories to traverse
-directories = ['base', 'dlc', 'update', 'retro']
+directories = ['base', 'dlc', 'retro']
 
 # Dictionary to store the combined data
 combined_data = {"titledb": {}}
