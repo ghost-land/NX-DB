@@ -9,6 +9,9 @@ directories = ['base', 'dlc', 'update', 'retro']
 combined_data = {"titledb": {}}
 
 def sanitize_text(text):
+    if text is None:
+        return ""  # Return an empty string if the text is None
+
     # Replace <br> and <br/> with newlines
     text = re.sub(r'<br\s*/?>', '\n', text)
     # Remove any other HTML tags
@@ -44,18 +47,18 @@ for directory in directories:
         for filename in files:
             if filename.endswith(".json"):
                 filepath = os.path.join(root, filename)
-                with open(filepath, 'r') as f:
+                with open(filepath, 'r', encoding='utf-8') as f:
                     game_data = json.load(f)
                     game_id = game_data["id"]
                     
-                    # Sanitize the description field if it exists
-                    if "description" in game_data:
+                    # Sanitize the description field if it exists and is not None
+                    if "description" in game_data and game_data["description"] is not None:
                         game_data["description"] = sanitize_text(game_data["description"])
                     
                     combined_data["titledb"][game_id] = game_data
 
 # Write the combined data to fulldb.json
-with open('fulldb.json', 'w') as outfile:
+with open('fulldb.json', 'w', encoding='utf-8') as outfile:
     json.dump(combined_data, outfile, indent=4)
 
 print("fulldb.json has been created successfully.")
