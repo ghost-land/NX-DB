@@ -1,0 +1,8 @@
+{
+    "description": "Cube Decider is a logic puzzle game with RPG elements where you need to make your way through each level collecting power-up and deciding whom and when to attack using your logic and arithmetic skills.\n\nYou are a Cube with a sword; your default stats values are 1 damage point, 5 health points and 0 armor points.\n\nYour stats reset to the default values at the beginning of each game level. Then while you are making the way through the level, stats are changed depending on taken power-ups and defeated enemies.\n\nYou initiate all attacks and decide whom to attack first. The fight is turn based. After you attack an enemy, the enemy will attack in turn if it is still alive.\n\nYou can die if your health becomes below zero; but you can make successful attack even having zero health points. If you die, you will have to start the level from the beginning.  Also you can restart the current level any time.\n\nYou task is to attack enemies in the right order to have enough health, damage, and armor to be able to make it through the level to the exit point.\n\nFeatures:\n\n- 50 levels\n- 4 bonus levels\n-4 power-ups types\n- 28 collectible cards\n- turn based fights",
+    "id": "0100F0B0188D8000",
+    "name": "Cube Decider",
+    "publisher": "DillyFrame",
+    "releaseDate": 20220623,
+    "version": 0
+}
