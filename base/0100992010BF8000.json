@@ -4,5 +4,30 @@
     "name": "Ubongo",
     "publisher": "USM",
     "releaseDate": 20200408,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Puzzle your way across the Baobab Savanna, the Fang River, and the Canyon of Bones, or get the ultimate Ubongo party started!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000027394,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

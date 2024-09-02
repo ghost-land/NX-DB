@@ -4,5 +4,27 @@
     "name": "A Street Cat's Tale",
     "publisher": "CFK",
     "releaseDate": 20200312,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A Tale of a street cat left alone",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000027705,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

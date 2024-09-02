@@ -4,5 +4,32 @@
     "name": "Ageless",
     "publisher": "Team17",
     "releaseDate": 20200728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Ageless is a story driven puzzle platformer where you must alter the age of animals and plant life around you to progress.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027905,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

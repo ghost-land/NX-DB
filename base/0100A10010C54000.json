@@ -4,5 +4,29 @@
     "name": "Arcade Archives VS. MAH-JONG",
     "publisher": "HAMSTER",
     "releaseDate": 20200222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Arcade",
+        "Party",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Simple yet deep, this is a classic Mahjong game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000027446,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

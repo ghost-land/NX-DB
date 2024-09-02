@@ -4,5 +4,30 @@
     "name": "Tharsis",
     "publisher": "QubicGames",
     "releaseDate": 20200411,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Board Game",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Space. Dice. And Cannibalism. Tharsis is a turn-based, space survival strategy game where outcomes and actions are based on dice rolls and difficult moral decisions.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000027663,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

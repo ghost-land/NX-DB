@@ -4,5 +4,24 @@
     "name": "Chess Minimal",
     "publisher": "Hook Games",
     "releaseDate": 20201107,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Strategy",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Online multiplayer, global leaderboards, play with friend or AI - all you need from a chess game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000027547,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

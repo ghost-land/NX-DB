@@ -4,5 +4,28 @@
     "name": "Goblin Sword",
     "publisher": "Gelato Games",
     "releaseDate": 20200214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Embark on an epic quest to retrieve the legendary sword",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000027829,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

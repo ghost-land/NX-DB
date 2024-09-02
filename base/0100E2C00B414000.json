@@ -4,5 +4,33 @@
     "name": "RPG Maker MV",
     "publisher": "NIS America",
     "releaseDate": 20200918,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "New Game > Start",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027647,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

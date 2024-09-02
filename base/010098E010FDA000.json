@@ -4,5 +4,31 @@
     "name": "Starlit Adventures Golden Stars",
     "publisher": "Rockhead Studios",
     "releaseDate": 20200717,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Go on epic adventures that will have you explore fantastic worlds, fight nightmarish enemies, collect dazzling treasures, and solve brain-teasing puzzles using an array of Special Suits!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000027860,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

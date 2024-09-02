@@ -4,5 +4,34 @@
     "name": "Explosive Jake",
     "publisher": "Sometimes You",
     "releaseDate": 20200319,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Help the little skeleton to explode the way out from dark dungeon and not explode himself.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027319,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

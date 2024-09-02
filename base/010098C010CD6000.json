@@ -4,5 +4,32 @@
     "name": "FRACTER",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20201022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "FRACTER follows a veiled young hero who has set out on a perilous quest for light through a cryptic labyrinth of shadows.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000027500,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

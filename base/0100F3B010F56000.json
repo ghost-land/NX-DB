@@ -4,5 +4,24 @@
     "name": "Rogue Robots",
     "publisher": "Rust0 Games",
     "releaseDate": 20200612,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Your mission is to defeat the cops gone mad in this action-packed rogue-lite by destroying swarms of humans. Beware, their mission is to destroy humanity.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000027792,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

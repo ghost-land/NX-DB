@@ -4,5 +4,32 @@
     "name": "Cannibal Cuisine",
     "publisher": "Rocket Vulture",
     "releaseDate": 20200520,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Simulation",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A chaotic couch co-op cooking game with a cannibal twist!\n1-4 players hunt tourists through jungles, temples and volcanoes to feed the cannibal gods. Fine DIEning!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000027341,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
