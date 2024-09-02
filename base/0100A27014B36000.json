@@ -4,5 +4,24 @@
     "name": "My little fast food booth",
     "publisher": "Kistler Studios",
     "releaseDate": 20210506,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shop",
+        "Arcade",
+        "Board Game",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Run your own little fast food booth and serve delicious prepared burgers and drinks to keep your customers happy and satisfied !",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000041050,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

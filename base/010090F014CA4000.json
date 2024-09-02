@@ -4,5 +4,33 @@
     "name": "Space Warrior",
     "publisher": "Nikita Alexeevich",
     "releaseDate": 20210429,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A cool arcade scrolling shooter with incredible visuals!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000040505,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

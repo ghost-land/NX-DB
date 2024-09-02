@@ -4,5 +4,33 @@
     "name": "LEGO® Builder's Journey",
     "publisher": "LEGO System",
     "releaseDate": 20210622,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "LEGO Builder’s Journey is an atmospheric, geometric puzzle game that asks us to sometimes follow the instructions… and sometimes to break the rules.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040360,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

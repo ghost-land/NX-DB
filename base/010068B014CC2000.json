@@ -4,5 +4,27 @@
     "name": "Arcade Archives HACHA MECHA FIGHTER",
     "publisher": "HAMSTER",
     "releaseDate": 20210603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Cute characters and fun music! \nA user-friendly design that's great for all players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000040551,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

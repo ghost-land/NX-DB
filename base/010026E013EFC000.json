@@ -4,5 +4,36 @@
     "name": "Paint the Town Red",
     "publisher": "South East Games",
     "releaseDate": 20210729,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods and featuring a massive Rogue-Lite adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041036,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

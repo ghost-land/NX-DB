@@ -4,5 +4,35 @@
     "name": "Bear's Restaurant",
     "publisher": "Odencat",
     "releaseDate": 20210618,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Adventure game of tears&hopes",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041020,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

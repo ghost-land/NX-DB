@@ -4,5 +4,23 @@
     "name": "Dogworld",
     "publisher": "Lateralis",
     "releaseDate": 20210709,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Shoot, jump, and slide your way through a ruined, mysterious, dog-filled world as you fight to save humanity from the clutches of a rogue AI named Daddy.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000040920,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

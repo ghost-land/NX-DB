@@ -4,5 +4,30 @@
     "name": "Titan Chaser",
     "publisher": "Samustai",
     "releaseDate": 20210915,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Titan Chaser is a surreal driving and walking experience, where your job is to scout giant creatures and use the light to drive them off without fighting or killing.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000041154,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

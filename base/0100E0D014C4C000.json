@@ -4,5 +4,26 @@
     "name": "Space Revenge",
     "publisher": "JanduSoft",
     "releaseDate": 20210930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Space Revenge is an action-exploration game. With a top down perspective, twin stick controls and a sci-fi mood to explore the enemy base full of dangers.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es"
+    ],
+    "nsuId": 70010000040411,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

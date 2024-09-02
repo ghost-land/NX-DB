@@ -4,5 +4,35 @@
     "name": "Fantasy Checkers",
     "publisher": "Prison Games",
     "releaseDate": 20210510,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Sports",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Capture them all!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040998,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

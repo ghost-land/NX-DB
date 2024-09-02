@@ -4,5 +4,29 @@
     "name": "Where’s Samantha?",
     "publisher": "ROKiT Games",
     "releaseDate": 20210819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Where’s Samantha? That’s exactly what George, an unassuming swatch of fabric, is asking.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000041092,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

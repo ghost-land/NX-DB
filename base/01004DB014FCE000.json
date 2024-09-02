@@ -4,5 +4,24 @@
     "name": "Solitaire Card Games",
     "publisher": "Kistler Studios",
     "releaseDate": 20210513,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Arcade",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Enjoy a small collection of three solitaire card games, the classic klondike, tripeaks and spider solitaire in a simple and cartoony art style.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000041101,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Luciform",
     "publisher": "Chaos Minds",
     "releaseDate": 20210617,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Luciform is a precision platformer that demands quick reflexes and nerves of steel. Can you help “Luci” navigate a dangerous forest to save its people from the nasty Red-Eyed Gorilla?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040636,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }
