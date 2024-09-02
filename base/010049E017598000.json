@@ -4,5 +4,26 @@
     "name": "ZIC: Zombies in City",
     "publisher": "Megame",
     "releaseDate": 20220630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "First-Person Shooter",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The apocalypse has come to the city - all the people become zombies! You are a survivor and you must save this world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000051108,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

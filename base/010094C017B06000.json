@@ -4,5 +4,35 @@
     "name": "Prison Simulator",
     "publisher": "Console Labs",
     "releaseDate": 20230602,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Action",
+        "RPG",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Are you curious about prison life? Imagine you have the whole prison under control! Become a prison guard and deal with dangerous convicts. Will you handle it? You decide!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000051044,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug and Alcohol Reference",
+        "Language",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

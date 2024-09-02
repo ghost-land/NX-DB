@@ -4,5 +4,30 @@
     "name": "HARVESTELLA",
     "publisher": "SQUARE ENIX",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "SQUARE ENIX presents HARVESTELLA, a brand-new lifestyle simulation RPG.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000051139,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

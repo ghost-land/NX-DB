@@ -4,5 +4,35 @@
     "name": "IIN",
     "publisher": "Epopeia Games",
     "releaseDate": 20230406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "IIN is a puzzle platformer where you are a soul that controls cubes, overcoming challenges to bring them to the portal which is their goal.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051218,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null,
+    "rightsId": null
 }

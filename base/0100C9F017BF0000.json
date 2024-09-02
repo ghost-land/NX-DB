@@ -4,5 +4,30 @@
     "name": "Let's Sing ABBA",
     "publisher": "PLAION",
     "releaseDate": 20221004,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Party",
+        "Lifestyle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000051181,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Lyrics"
+    ],
+    "region": null,
+    "rightsId": null
 }

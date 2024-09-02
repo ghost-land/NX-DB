@@ -4,5 +4,35 @@
     "name": "Saint Kotar",
     "publisher": "Soedesco",
     "releaseDate": 20221122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Saint Kotar is a psychological horror detective game set in a cursed valley in rural Croatia.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050706,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Mild Sexual Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

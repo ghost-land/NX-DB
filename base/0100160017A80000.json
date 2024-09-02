@@ -4,5 +4,33 @@
     "name": "Hello Engineer",
     "publisher": "tinyBuild Games",
     "releaseDate": 20230817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Show-off your engineering skills and build the perfect mechanical creation!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050902,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

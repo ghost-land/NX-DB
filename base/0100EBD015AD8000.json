@@ -4,5 +4,32 @@
     "name": "The Wild Case",
     "publisher": "Maxim Ryadchik",
     "releaseDate": 20220308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Enter a mysterious world. The Wild Case is a 2D first-person point-and-click adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000051102,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Language",
+        "Tobacco Reference",
+        "Use of Alcohol",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

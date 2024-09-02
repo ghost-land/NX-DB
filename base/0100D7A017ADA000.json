@@ -4,5 +4,35 @@
     "name": "ABC Match with Me",
     "publisher": "Prison Games",
     "releaseDate": 20220304,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "A fun, intuitive and educational matching game for your child!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051000,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

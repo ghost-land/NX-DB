@@ -4,5 +4,32 @@
     "name": "Let's Build a Zoo",
     "publisher": "No More Robots",
     "releaseDate": 20220929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "It's time to Build a Zoo! Construct and decorate enclosures, buy and breed animals, hire zookeepers and vets... then try your hand at DNA splicing",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000050794,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Comic Mischief",
+        "Mild Blood",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

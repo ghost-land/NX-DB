@@ -4,5 +4,28 @@
     "name": "Soccer Story",
     "publisher": "No More Robots",
     "releaseDate": 20221129,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Puzzle",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "The world might as well be over - Soccer Inc. has closed down every local stadium, team and tournament. What kind of world can survive without the beautiful game? ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000050799,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
