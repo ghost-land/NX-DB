@@ -4,5 +4,32 @@
     "name": "Heavenly Bodies",
     "publisher": "2pt Interactive",
     "releaseDate": 20240229,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A game about cosmonauts, the body, and the absence of gravity.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073611,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

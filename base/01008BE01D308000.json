@@ -4,5 +4,32 @@
     "name": "Soviet Project",
     "publisher": "17Studio",
     "releaseDate": 20231019,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Explore an abandoned city and solve puzzles in a unique open world horror adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000073380,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

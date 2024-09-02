@@ -4,5 +4,24 @@
     "name": "Golf Guys",
     "publisher": "QubicGames",
     "releaseDate": 20231208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Face off against a dozen opponents in an ultimate golf battle royale, or invite friends to play in multiplayer mode for up to 4 players!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000073644,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "CLeM",
     "publisher": "Iceberg Interactive",
     "releaseDate": 20240206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A narrative-driven puzzle adventure where a voice wakes you with a purpose, guiding you to explore an apparently abandoned house, with the sole help of a mysterious notebook.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000073741,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

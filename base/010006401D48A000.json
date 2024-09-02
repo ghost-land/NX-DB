@@ -4,5 +4,28 @@
     "name": "Zomborg",
     "publisher": "Ratalaika Games",
     "releaseDate": 20231201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Mow down enormous mobs of zombies and save humanity",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000073803,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

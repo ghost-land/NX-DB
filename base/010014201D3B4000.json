@@ -4,5 +4,27 @@
     "name": "Arcade Archives LEGION",
     "publisher": "HAMSTER",
     "releaseDate": 20240523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Rescue your allies and shoot the crystal!\nYou are the one who can defeat the Dark Empire!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000073528,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "Mad Experiments 2: Escape Room",
     "publisher": "Nejcraft",
     "releaseDate": 20240329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Alone or with up to 5 friends, follow the story of Hildegarde and Professor Cheshire, explore rich environments to find clues, and solve mind-bending puzzles to escape!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000073892,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,25 @@
     "name": "Wood Guy",
     "publisher": "YSO Corp",
     "releaseDate": 20231211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Defy the laws of physics with the wooden puppet and journey through this 2D platformer in a 3D world of handicrafts! Play alone or with friends... or against friends",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000073551,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
