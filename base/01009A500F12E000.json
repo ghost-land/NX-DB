@@ -4,5 +4,33 @@
     "name": "ザ・パーク",
     "publisher": "テヨンジャパン",
     "releaseDate": 20200924,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アドベンチャー",
+        "シミュレーション",
+        "その他"
+    ],
+    "developer": null,
+    "intro": "夜の遊園地を舞台にしたホラーアドベンチャー",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022321,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪",
+        "麻薬"
+    ],
+    "region": null,
+    "rightsId": null
 }

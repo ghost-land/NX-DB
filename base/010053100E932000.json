@@ -4,5 +4,32 @@
     "name": "ビビエット",
     "publisher": "レイニーフロッグ",
     "releaseDate": 20190711,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アドベンチャー",
+        "パズル",
+        "アクション"
+    ],
+    "developer": null,
+    "intro": "突然、姿を消した３人の友達・・・\n恐怖と謎に包まれた屋敷で展開する、ホラーパズルゲーム・・・",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020842,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }
