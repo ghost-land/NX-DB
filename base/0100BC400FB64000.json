@@ -4,5 +4,31 @@
     "name": "Balthazar's Dream",
     "publisher": "Dolores Ent.",
     "releaseDate": 20191115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Balthazar's Dream is a platformer with puzzle elements",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000024397,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

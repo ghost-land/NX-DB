@@ -4,5 +4,31 @@
     "name": "Hayfever",
     "publisher": "Merge Games",
     "releaseDate": 20200226,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Help Thomas the Allergic Mailman gather all his lost letters in this challenging and unique 2D platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000024327,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

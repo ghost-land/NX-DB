@@ -4,5 +4,27 @@
     "name": "Arcade Archives FROGGER",
     "publisher": "HAMSTER",
     "releaseDate": 20191213,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Go on an adventure with a happy little frog! Can you guide it home safe?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000023729,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Outpost Delta",
     "publisher": "Hidden Achievement",
     "releaseDate": 20201020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A single player, 2-D side-scrolling sci-fi shooter. Take on the role of Delta, who along with her AI companion must defend the space station against alien intruders.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000024053,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

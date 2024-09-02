@@ -4,5 +4,34 @@
     "name": "ANIMUS: Harbinger",
     "publisher": "TROOOZE",
     "releaseDate": 20191108,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "The shadow of a dead king summons you to battle. Strike down the corrupt whom taint the land.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000024832,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

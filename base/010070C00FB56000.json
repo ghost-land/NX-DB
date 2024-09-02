@@ -4,5 +4,31 @@
     "name": "TERROR SQUID",
     "publisher": "Rubarb",
     "releaseDate": 20201015,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Create your own bullet hell in this relentlessly escalating symphony of destruction. How long can you survive?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000024388,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }
