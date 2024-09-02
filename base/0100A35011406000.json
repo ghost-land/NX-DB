@@ -4,5 +4,33 @@
     "name": "NecroWorm",
     "publisher": "Walkabout Games",
     "releaseDate": 20200327,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "It's midnight, you're dead, and got a bad case of the munchies.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028601,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

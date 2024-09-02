@@ -4,5 +4,29 @@
     "name": "A Glider's Journey",
     "publisher": "Emma Franklin",
     "releaseDate": 20210302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Racing",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A Glider's journey is a short, minimalist, yet challenging flight game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000028006,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

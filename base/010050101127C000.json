@@ -4,5 +4,33 @@
     "name": "The Persistence",
     "publisher": "Firesprite",
     "releaseDate": 20200521,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "A brutal sci-fi survival horror experience.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000028244,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

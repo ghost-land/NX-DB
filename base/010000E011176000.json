@@ -4,5 +4,31 @@
     "name": "Rover Wars",
     "publisher": "Sakari Games",
     "releaseDate": 20200417,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Action",
+        "Simulation",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Choose your faction and use your Rover to build an army with a variety of units. Bash the opposing forces or call in a devastating death-beam. Expand your build area by building factories and a",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000028073,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

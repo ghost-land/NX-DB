@@ -4,5 +4,31 @@
     "name": "Vigor - Closed Beta",
     "publisher": "Bohemia Interactive",
     "releaseDate": 20200410,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Vigor is a free-to-play shoot 'n' loot game where you build the Shelter in post-war Norway",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000028041,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Awesome Pea 2",
     "publisher": "Sometimes You",
     "releaseDate": 20200603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Awesome Pea 2 - next chapter of classic platformer game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028544,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

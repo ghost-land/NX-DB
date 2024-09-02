@@ -4,5 +4,23 @@
     "name": "Hamster Bob",
     "publisher": "SONKA",
     "releaseDate": 20200724,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "A coloring game for the little ones, featuring Bob the hamster!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000028258,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

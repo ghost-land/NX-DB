@@ -4,5 +4,30 @@
     "name": "The Experiment: Escape Room",
     "publisher": "OnSkull Development",
     "releaseDate": 20200513,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "\"The Experiment\" is an escape room puzzle game! You took part in an experiment that went out of control, can you escape the facilities before it's too late?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000028599,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

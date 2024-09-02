@@ -4,5 +4,24 @@
     "name": "I am Ball",
     "publisher": "ManolidisAimilios",
     "releaseDate": 20200304,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Control a ball that's bouncing non-stop! Gain new powers and explore mysterious worlds! Puzzle platforming goodness at its finest! Do you have what it takes?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000028336,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Monochrome World",
     "publisher": "CFK",
     "releaseDate": 20200507,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Behold the thrilling action puzzle game!\nColor the world rainbow!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "nsuId": 70010000028469,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "HyperBrawl Tournament",
     "publisher": "Milky Tea",
     "releaseDate": 20201020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Sports",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Smash. Brawl. Score!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028315,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

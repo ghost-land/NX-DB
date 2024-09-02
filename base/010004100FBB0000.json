@@ -4,5 +4,28 @@
     "name": "Chapeau",
     "publisher": "SaltCastleStudio",
     "releaseDate": 20200331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Party Hats Go Head to Head! Bounce, float and zoom through the air in this frantic party game and bring back memories from the good old days of couch co-op!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000028234,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

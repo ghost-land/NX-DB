@@ -4,5 +4,33 @@
     "name": "Aeolis Tournament",
     "publisher": "Forever Entertainment",
     "releaseDate": 20200723,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Use the power of the wind to compete in the various games of the Storm Championship in this charmingly chaotic 8-player action party game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000028363,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

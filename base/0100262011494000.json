@@ -4,5 +4,31 @@
     "name": "Blackwind",
     "publisher": "Blowfish Studios",
     "releaseDate": 20220120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Blackwind is a top-down sci-fi action game that puts you in the shoes of a teenager piloting a prototype battle armor suit during an alien invasion.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028576,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

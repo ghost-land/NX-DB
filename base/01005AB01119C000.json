@@ -4,5 +4,29 @@
     "name": "SUSHI REVERSI",
     "publisher": "Caerux",
     "releaseDate": 20200723,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "A big runaway of sushi running and jumping!\nMessed up real-time reversi!\nWhich sushiwill get the most dishes ...! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028094,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

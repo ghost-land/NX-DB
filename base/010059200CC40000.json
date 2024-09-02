@@ -4,5 +4,25 @@
     "name": "Mist Hunter",
     "publisher": "Flox Studios",
     "releaseDate": 20200320,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Arcade",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Mist Hunter - is a blistering fast rogue-like arena shooter. A deadly magic poison runs through your veins, there is no cure and your heart will stop beating in 90 seconds.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000028504,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
