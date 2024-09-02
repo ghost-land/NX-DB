@@ -4,5 +4,24 @@
     "name": "ネットキャッチャー　ネッチ",
     "publisher": "ネッチ",
     "releaseDate": 20181220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アーケード",
+        "パーティー",
+        "その他"
+    ],
+    "developer": null,
+    "intro": "インターネット経由でクレーンゲームを楽しむ事ができるサービスです。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000000623,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": "0100642003BCA0000000000000000007"
 }

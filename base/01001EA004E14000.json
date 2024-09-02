@@ -4,5 +4,32 @@
     "name": "ドットホラーストーリー",
     "publisher": "レイニーフロッグ",
     "releaseDate": 20191114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アドベンチャー",
+        "パズル",
+        "アクション"
+    ],
+    "developer": null,
+    "intro": "あなたの人生、お金より大事なものは何ですか？\n人間の倫理観を問う、サイコホラーアドベンチャーゲーム。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000001207,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }
