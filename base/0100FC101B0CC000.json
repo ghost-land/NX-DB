@@ -4,5 +4,31 @@
     "name": "Garlic",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A platformer spoofing your favorite genre classics",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000066065,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

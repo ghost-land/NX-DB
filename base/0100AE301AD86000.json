@@ -4,5 +4,33 @@
     "name": "Dig Deep",
     "publisher": "QubicGames",
     "releaseDate": 20230428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Grab a shovel and let's get digging! \nJoin the adventure, hire miners and dig for a treasure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000066196,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

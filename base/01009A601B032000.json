@@ -4,5 +4,33 @@
     "name": "WW2: Bunker Simulator",
     "publisher": "Art Games Studio",
     "releaseDate": 20230629,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "During WW2 you are an American soldier who captured the german bunker in Normandy. You must defend it and survive this World War II. Complete all missions with your crew.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000065934,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

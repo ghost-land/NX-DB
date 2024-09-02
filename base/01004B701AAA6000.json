@@ -4,5 +4,26 @@
     "name": "100animalease",
     "publisher": "woof",
     "releaseDate": 20230428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An action-adventure game where you work together \nwith a total of 100 animals to escape from a mysterious facility.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000066386,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

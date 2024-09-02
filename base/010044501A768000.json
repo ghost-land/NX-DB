@@ -4,5 +4,28 @@
     "name": "Moonleap",
     "publisher": "guselect",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Help our moon boy on his journey to recover shooting stars",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "it"
+    ],
+    "nsuId": 70010000066273,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

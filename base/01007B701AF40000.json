@@ -4,5 +4,24 @@
     "name": "Skyhook",
     "publisher": "Megastorm Games",
     "releaseDate": 20230914,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Party",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Fight with grappling hooks in this party brawler for one to four players. Play as a treasure hunting cat or a land swimming shark as you swing around the stage taking out your opponents.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000066190,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

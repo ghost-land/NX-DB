@@ -4,5 +4,33 @@
     "name": "SteamWorld Build",
     "publisher": "Thunderful",
     "releaseDate": 20231201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "We built SteamWorld. Now it's your turn!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000066642,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

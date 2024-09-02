@@ -4,5 +4,33 @@
     "name": "The Master’s Pupil",
     "publisher": "Pat Naoum",
     "releaseDate": 20230728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A hand-painted puzzle adventure game set inside Monet’s eye",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000065917,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "Sentry City",
     "publisher": "Flynns Arcade",
     "releaseDate": 20230928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Sentry City is a cyberpunk-style side-scroller. Traverse the city using your motorcycle,  and fight tough bosses to uncover who is behind the city's AI disruption.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000066396,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Tobacco Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

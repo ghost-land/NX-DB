@@ -4,5 +4,36 @@
     "name": "Zombie Soup",
     "publisher": "Astrolabe Games",
     "releaseDate": 20230810,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Shooter",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": " Top-down shooter combined with hack and slash action",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000066119,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Tobacco Reference",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

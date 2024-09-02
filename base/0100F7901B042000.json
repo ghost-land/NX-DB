@@ -4,5 +4,32 @@
     "name": "Mists of Noyah",
     "publisher": "QUByte Interactive",
     "releaseDate": 20240725,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hunt during the day, be hunted during the night",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000065949,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Fantasy Tower Defense",
     "publisher": "EpiXR Games",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Board Game",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "The monsters are attacking, build your towers and survive.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000065987,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
