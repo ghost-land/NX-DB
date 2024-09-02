@@ -4,5 +4,30 @@
     "name": "Skybolt Zack",
     "publisher": "GMG Publishing",
     "releaseDate": 20191024,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "It’s a platformer where you don’t jump, and a music game where you dictate your own rhythm. It feels like no other game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000020357,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

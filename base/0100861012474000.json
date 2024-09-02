@@ -4,5 +4,29 @@
     "name": "Frontline Zed",
     "publisher": "Forever Entertainment",
     "releaseDate": 20200806,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Defend your fortified barricade by night, collect weapons, and conduct repairs by day. Survive long enough to make your way through America and towards rescue.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000032028,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

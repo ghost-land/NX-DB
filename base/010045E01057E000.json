@@ -4,5 +4,25 @@
     "name": "Zombiotik",
     "publisher": "Totema Studio",
     "releaseDate": 20210611,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "In a colorful and minimalist apocalyptic universe, 1 to 8 players chase each other until only one survives the zombie epidemics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000026787,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

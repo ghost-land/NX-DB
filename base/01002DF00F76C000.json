@@ -4,5 +4,28 @@
     "name": "SAMURAI SHODOWN",
     "publisher": "SNK",
     "releaseDate": 20200225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "SAMURAI REBOOT!\nA brand new SAMURAI SHODOWN game takes aim for the world stage!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "nsuId": 70010000023208,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
