@@ -4,5 +4,27 @@
     "name": "Pesterquest",
     "publisher": "Fellow Traveller",
     "releaseDate": 20231207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A grimsical visual novel adventure set in the Homestuck / Hiveswap universe.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000047533,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

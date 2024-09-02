@@ -4,5 +4,35 @@
     "name": "FurryFury: Smash & Roll",
     "publisher": "Cosmic Publishing",
     "releaseDate": 20230320,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Fighting",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "FurryFury: Smash & Roll - the game of skills and tricks! Pick your beasty critter and smash the rivals in the tactical PvP brawls on deadly arenas!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000047671,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Blood",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

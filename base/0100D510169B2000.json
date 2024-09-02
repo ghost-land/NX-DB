@@ -4,5 +4,29 @@
     "name": "Archery Club",
     "publisher": "BoomBit Games",
     "releaseDate": 20220331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "First-Person Shooter",
+        "Sports",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Start your road to becoming an archery champion now!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000047278,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

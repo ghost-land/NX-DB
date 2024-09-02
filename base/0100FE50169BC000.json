@@ -4,5 +4,33 @@
     "name": "Teamfight Manager",
     "publisher": "Team Samoyed",
     "releaseDate": 20220106,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Sports",
+        "Strategy",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Teamfight Manager is a simulation game where you are the coach of an e-sports team.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000047392,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

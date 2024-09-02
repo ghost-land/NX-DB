@@ -4,5 +4,29 @@
     "name": "Who Is Zombie",
     "publisher": "CFK",
     "releaseDate": 20220224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "May you find salvation…\nA zombie apocalypse thriller game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000047136,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
