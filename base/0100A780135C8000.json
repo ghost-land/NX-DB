@@ -4,5 +4,32 @@
     "name": "Death Crown",
     "publisher": "Badland Publishing",
     "releaseDate": 20210513,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Action",
+        "Simulation",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Death Crown is a minimalist real time strategy game in a 1bit style. You will be play Death herself, commanding her legions and punishing humanity's Kingdom for its overconfidence.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035527,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

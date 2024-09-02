@@ -4,5 +4,26 @@
     "name": "Savage Halloween",
     "publisher": "QUByte Interactive",
     "releaseDate": 20210415,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "In Savage Halloween, the world is taken over by monsters from the afterlife who were trapped in the Earth after a Halloween party.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000035537,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

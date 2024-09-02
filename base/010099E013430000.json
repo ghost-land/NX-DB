@@ -4,5 +4,25 @@
     "name": "Void Source",
     "publisher": "TERNOX",
     "releaseDate": 20201229,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Classic multi-directional (360°) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000035157,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

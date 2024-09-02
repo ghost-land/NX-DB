@@ -4,5 +4,33 @@
     "name": "Rogue Star Rescue",
     "publisher": "Chute Apps",
     "releaseDate": 20210715,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Strategy",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Bullet Hell Insanity + Tower Defense Strategy. A quirky new type of rogue-like shooter. Blast your way through diverse planets. Play solo or online!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035144,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

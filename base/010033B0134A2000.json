@@ -4,5 +4,30 @@
     "name": "Freddy Spaghetti",
     "publisher": "Ratalaika Games",
     "releaseDate": 20201219,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Arcade",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Meet Freddy. Freddy is spaghetti. Oh, and conscious. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000035274,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

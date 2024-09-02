@@ -4,5 +4,35 @@
     "name": "Embr",
     "publisher": "Curve Digital",
     "releaseDate": 20210923,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Chaotic Co-Op Firefighting Mayhem",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035172,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

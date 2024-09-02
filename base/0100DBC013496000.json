@@ -4,5 +4,34 @@
     "name": "Wrestledunk Sports",
     "publisher": "TeamFractalAlligator",
     "releaseDate": 20210820,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Sports",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Wrestledunk is an explosive, colorful collection of super competitive multiplayer sports games! Face off online or locally with up to 8 players. Get into it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035262,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

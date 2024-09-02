@@ -4,5 +4,32 @@
     "name": "BodyQuest",
     "publisher": "Artax Games",
     "releaseDate": 20210326,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An epic journey full of science challenges. Explore the human body from its insides as never before!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000035252,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

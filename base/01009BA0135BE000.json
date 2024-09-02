@@ -4,5 +4,33 @@
     "name": "RPGolf Legends",
     "publisher": "KEMCO",
     "releaseDate": 20220121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Sports",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Become the legend in this golf-action-adventure and save golf in the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035518,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

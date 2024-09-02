@@ -4,5 +4,35 @@
     "name": "Mind Maze",
     "publisher": "Sometimes You",
     "releaseDate": 20210720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Mind Maze is a logical competitive game based on capturing of the playing field.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035562,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
