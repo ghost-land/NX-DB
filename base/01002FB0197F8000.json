@@ -4,5 +4,28 @@
     "name": "LASERPITIUM",
     "publisher": "eastasiasoft",
     "releaseDate": 20230531,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Blast off on a critical mission to free the galaxy from artificial governance in this side-scrolling 2D shoot’em up!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000059039,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

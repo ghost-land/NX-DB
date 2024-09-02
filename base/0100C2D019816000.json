@@ -4,5 +4,27 @@
     "name": "Billy 101",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Run, jump and zap your way through 30 levels of robo-fun",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000059071,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

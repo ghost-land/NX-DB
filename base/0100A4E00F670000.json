@@ -4,5 +4,29 @@
     "name": "Barony",
     "publisher": "Turning Wheel",
     "releaseDate": 20230801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Multiplayer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The premier first-person roguelike RPG with coop! Cryptic secrets, legendary treasures, brutal traps and devious monsters await you.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000059441,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

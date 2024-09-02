@@ -4,5 +4,31 @@
     "name": "The Guise",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230317,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A monstrous metroidvania adventure full of secrets and horror",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059062,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

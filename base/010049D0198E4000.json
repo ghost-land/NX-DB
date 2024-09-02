@@ -4,5 +4,32 @@
     "name": "Horror Tale 1: Kidnapper",
     "publisher": "EpiXR Games",
     "releaseDate": 20230223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Start a scary adventure and be the first to solve all the mysteries of this horror game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059366,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

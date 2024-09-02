@@ -4,5 +4,32 @@
     "name": "Cat Tales",
     "publisher": "RedDeer.Games",
     "releaseDate": 20221028,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Education",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Open the door to the magical world of Cat Tales. Let your imagination run wild.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059459,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Aquarist",
     "publisher": "Ultimate Games",
     "releaseDate": 20221010,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Education",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Run the best aquarium shop in town! Create, renew, manage, observe. See if you can create an aquarium empire.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059192,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

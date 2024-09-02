@@ -4,5 +4,33 @@
     "name": "Kirby’s Return to Dream Land™ Deluxe",
     "publisher": "Nintendo",
     "releaseDate": 20230224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Adventure through Dream Land with Kirby and his allies—solo or with friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000058797,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

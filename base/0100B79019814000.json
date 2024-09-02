@@ -4,5 +4,29 @@
     "name": "Pets at Work",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Cozy game full of adorable dogs and cats with local multiplayer",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000059068,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }
