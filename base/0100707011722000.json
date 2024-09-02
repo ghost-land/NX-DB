@@ -4,5 +4,25 @@
     "name": "Space Elite Force",
     "publisher": "QUByte Interactive",
     "releaseDate": 20231124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Adventure",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Space Elite Force is a side shooter for up to 2 players in local cooperative mode.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000029000,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

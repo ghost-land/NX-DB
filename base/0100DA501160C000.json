@@ -4,5 +4,36 @@
     "name": "World of Tanks Blitz",
     "publisher": "Wargaming Group",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Strategy",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Action-packed MMO with PvP tank battles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028919,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Sonic Colors: Ultimate",
     "publisher": "SEGA",
     "releaseDate": 20210907,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Non-Stop Sonic speed. Color the Universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000028905,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Project Warlock",
     "publisher": "Crunching Koalas",
     "releaseDate": 20220721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An unmissable treat for all fans of classic first person shooter games.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000028633,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

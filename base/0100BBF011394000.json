@@ -4,5 +4,35 @@
     "name": "Dicey Dungeons",
     "publisher": "Distractionware",
     "releaseDate": 20220120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Become a giant walking dice and battle to the end of an ever-changing dungeon! Can you escape the cruel whims of Lady Luck?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028411,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

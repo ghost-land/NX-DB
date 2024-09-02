@@ -4,5 +4,30 @@
     "name": "Alwa's Legacy",
     "publisher": "Elden Pixels",
     "releaseDate": 20240222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A modern retro adventure game filled with magic, secrets and exploration!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031488,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

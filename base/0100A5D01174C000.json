@@ -4,5 +4,31 @@
     "name": "/Connection Haunted <SERVER ERROR>",
     "publisher": "No Gravity Games",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "#Joining_server... #Players_Online: 1 #RED_flag_taken #New_player: {incorrect_string} #Players_online: 2 #PLAYER2_says: Connection_Lost...",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000029029,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

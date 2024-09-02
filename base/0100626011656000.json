@@ -4,5 +4,35 @@
     "name": "The Outer Worlds",
     "publisher": "Private Division",
     "releaseDate": 20200605,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "First-Person Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The Outer Worlds is a new single-player sci-fi RPG from Obsidian Entertainment and Private Division.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000028872,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Neon Abyss",
     "publisher": "Team17",
     "releaseDate": 20221013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028037,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Comic Mischief",
+        "Simulated Gambling",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

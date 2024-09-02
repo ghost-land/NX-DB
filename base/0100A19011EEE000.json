@@ -4,5 +4,32 @@
     "name": "Creepy Tale",
     "publisher": "No Gravity Games",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Find out the dark story that befell the once-calm and peaceful forest, turning it into a terrifying place filled with otherworldly evil. Solve the secrets of the forest and save your brother!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000030639,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

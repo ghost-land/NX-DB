@@ -4,5 +4,28 @@
     "name": "Zengeon",
     "publisher": "PQube",
     "releaseDate": 20211007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Slaughter your way through demonic hordes and mighty bosses!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000030527,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Valentina",
     "publisher": "QUByte Interactive",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "An adventure in an enchanted world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt"
+    ],
+    "nsuId": 70010000031021,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

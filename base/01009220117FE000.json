@@ -4,5 +4,24 @@
     "name": "Flewfie's Adventure",
     "publisher": "Valorware",
     "releaseDate": 20220601,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Join Flewfie and friends on an epic side-scrolling adventure! Zap, beam, and fly your way through unique worlds and put an end to Uzzu’s chaos!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000029117,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

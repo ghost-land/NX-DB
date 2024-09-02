@@ -4,5 +4,32 @@
     "name": "Blue Fire",
     "publisher": "Graffiti Games",
     "releaseDate": 20221112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A Dark World Awaits – Travel through the perished world of Penumbra to explore unique areas filled with diverse enemies, sharp 3D platforming challenges, quests, collectibles, and more. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000028084,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,36 @@
     "name": "ATOM RPG",
     "publisher": "ATENT GAMES",
     "releaseDate": 20230202,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "ATOM is an old school role-playing game, inspired by classic RPGs and gamebooks.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000030533,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Simulated Gambling",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

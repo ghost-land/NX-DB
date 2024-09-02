@@ -4,5 +4,35 @@
     "name": "OlliOlli World",
     "publisher": "Private Division",
     "releaseDate": 20220208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Sports",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "OlliOlli World is a bold new skateboarding action-platformer that’s bursting with personality.        ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000028266,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

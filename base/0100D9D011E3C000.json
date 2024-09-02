@@ -4,5 +4,34 @@
     "name": "Wildfire",
     "publisher": "Humble Games",
     "releaseDate": 20230623,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Master the elements in this stealth game where everything burns.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000030993,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

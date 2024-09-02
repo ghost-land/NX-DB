@@ -4,5 +4,35 @@
     "name": "Spellbreak",
     "publisher": "Proletariat",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Become the Ultimate Battlemage\n\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000028053,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
