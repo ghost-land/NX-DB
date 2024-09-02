@@ -4,5 +4,35 @@
     "name": "Sir Lovelot",
     "publisher": "pixel games",
     "releaseDate": 20210304,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Sir Lovelot is on a quest to find the love of his life. Join him in this wacky platformer, where impressing cheeky damsels is harder than a heart of stone!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037927,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Sexual References",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

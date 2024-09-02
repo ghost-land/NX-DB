@@ -4,5 +4,33 @@
     "name": "Little Mouse's Encyclopedia",
     "publisher": "RedDeer.Games",
     "releaseDate": 20210423,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Education",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "Explore the incredible world of nature with a charming little mouse. Beautiful, hand-painted graphics and an interesting collection of facts will awaken the naturalist's soul in everyone.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000038128,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

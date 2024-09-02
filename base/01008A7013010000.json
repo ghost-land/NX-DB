@@ -4,5 +4,28 @@
     "name": "Animal Doctor",
     "publisher": "Toplitz Productions",
     "releaseDate": 20210325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Simulation",
+        "Education",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Make your dreams come true with Animal Doctor!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000038320,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

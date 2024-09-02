@@ -4,5 +4,27 @@
     "name": "Reversi Let's Go",
     "publisher": "Studio Amateur",
     "releaseDate": 20210603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Classic Reversi with 4 modes. Play it with your family and friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038530,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

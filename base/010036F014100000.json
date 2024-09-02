@@ -4,5 +4,28 @@
     "name": "Magic Twins",
     "publisher": "Flying Beast Labs",
     "releaseDate": 20210319,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Magic Twins is a cooperative arcade puzzle game in which Abra and Cadabra must use their chromagic powers to defeat hordes of color elementals and stop the Colormageddon",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000037903,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

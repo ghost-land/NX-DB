@@ -4,5 +4,24 @@
     "name": "My little IceCream Booth",
     "publisher": "Kistler Studios",
     "releaseDate": 20210219,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A casual ice cream shop tycoon game where you need to make your customers happy by stacking up icecreams and make them even more delicious with toppings, syrups or dips!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000037682,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
