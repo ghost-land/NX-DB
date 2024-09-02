@@ -4,5 +4,29 @@
     "name": "SEGA® Mega Drive Classics™",
     "publisher": "SEGA",
     "releaseDate": 20181207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000014755,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Horror theme",
+        "Low level animated violence"
+    ],
+    "region": null,
+    "rightsId": "0100F7300B24E0000000000000000005"
 }

@@ -4,5 +4,28 @@
     "name": "Arcade Archives IKARI WARRIORS",
     "publisher": "HAMSTER",
     "releaseDate": 20190308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Blaze a path across the battlefield, and destroy the evil organization!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000014816,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010049400C7A80000000000000000007"
 }

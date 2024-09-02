@@ -4,5 +4,31 @@
     "name": "ITTA",
     "publisher": "Armor Games Studios",
     "releaseDate": 20200422,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Test your limits in ITTA, a bullet-hell, boss-rush style adventure where you play as a young girl armed with her father’s revolver and guided by a strange ghostly cat.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000014722,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

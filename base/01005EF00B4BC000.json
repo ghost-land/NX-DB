@@ -4,5 +4,34 @@
     "name": "Ms. Splosion Man",
     "publisher": "Twisted Pixel",
     "releaseDate": 20181122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "'Splode through this award-winning franchise solo or with friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000015017,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Sexual References"
+    ],
+    "region": null,
+    "rightsId": "01005EF00B4BC0000000000000000005"
 }

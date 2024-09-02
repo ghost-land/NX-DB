@@ -4,5 +4,27 @@
     "name": "Arcade Archives DONKEY KONG JR.",
     "publisher": "HAMSTER",
     "releaseDate": 20181222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Avoid enemies while going up and down the cranes, take the keys, and rescue Donkey Kong!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000014813,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100DDC00C7A60000000000000000007"
 }

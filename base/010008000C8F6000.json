@@ -4,5 +4,27 @@
     "name": "Lyrica",
     "publisher": "COSEN",
     "releaseDate": 20190329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Study",
+        "Education",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "A music game that has Chinese poetry as its theme and comes and goes between modern and ancient China",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015087,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010008000C8F60000000000000000007"
 }
