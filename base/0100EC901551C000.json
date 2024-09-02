@@ -4,5 +4,34 @@
     "name": "Lamentum",
     "publisher": "Neon Doctrine",
     "releaseDate": 20221220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Lamentum is a pixel art survival horror game, set in New England in the mid-nineteenth century.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042584,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "JARS",
     "publisher": "Daedalic Entertainment",
     "releaseDate": 20211020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "JARS is a strategy game featuring puzzles and elements of tower defense. Break all the jars and protect the Sarcophagus!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042885,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

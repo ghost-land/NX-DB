@@ -4,5 +4,31 @@
     "name": "Make Way",
     "publisher": "Secret Mode",
     "releaseDate": 20231204,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Build an epic track from wacky pieces as you battle in this chaotic party racer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042902,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

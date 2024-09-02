@@ -4,5 +4,30 @@
     "name": "Grapple Dog",
     "publisher": "Super Rare Games",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Jump, swing, and zip your way through colorful worlds and exciting challenges in this unique 2D action-platformer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000042605,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

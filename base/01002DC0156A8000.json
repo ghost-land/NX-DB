@@ -4,5 +4,33 @@
     "name": "Red Wings: American Aces",
     "publisher": "Untold Tales",
     "releaseDate": 20220331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Gather your squadron and win the day!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000042956,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

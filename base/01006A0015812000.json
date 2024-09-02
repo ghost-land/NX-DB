@@ -4,5 +4,33 @@
     "name": "Death's Gambit: Afterlife",
     "publisher": "Serenity Forge",
     "releaseDate": 20210930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A contract binds you to Death who seeks to eradicate immortality. Will you do his bidding and restore the natural order, or succumb to its power in this hardcore 2D action RPG?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000043149,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

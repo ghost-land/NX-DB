@@ -4,5 +4,33 @@
     "name": "Derpy Conga",
     "publisher": "Giant Door",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A physics-based puzzle-platformer about the importance of friendship!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000042583,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

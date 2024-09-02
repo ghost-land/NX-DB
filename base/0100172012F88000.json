@@ -4,5 +4,27 @@
     "name": "Teacup",
     "publisher": "Whitethorn Digital",
     "releaseDate": 20220520,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Explore a beautiful hand-drawn world.\nMeet a diverse cast of whimsical animals.\nHelp the residents of the forest.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000042306,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

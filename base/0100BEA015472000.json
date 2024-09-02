@@ -4,5 +4,28 @@
     "name": "Flippin Kaktus",
     "publisher": "No Gravity Games",
     "releaseDate": 20220512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Flippin Kaktus is a brutal, 2D action-platformer with retro-inspired graphics and an 80s vibe, featuring a spiky hero with a thorny past and a rage outbreak combat style.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042222,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

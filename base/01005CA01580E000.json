@@ -4,5 +4,30 @@
     "name": "Persona 5 Royal",
     "publisher": "SEGA",
     "releaseDate": 20221021,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Don the mask and join the Phantom Thieves of Hearts as they stage grand heists, infiltrate the minds of the corrupt, and make them change their ways!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000043147,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

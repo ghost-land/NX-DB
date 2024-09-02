@@ -4,5 +4,26 @@
     "name": "Negative Nancy",
     "publisher": "Effort Star",
     "releaseDate": 20211023,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Communication",
+        "Other",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A choose your “no” adventure for people who have had enough. An interactive sitcom where you can only say “no” (or nothing at all). Your choices control the story.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000042731,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Mario Party™ Superstars",
     "publisher": "Nintendo",
     "releaseDate": 20211029,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Join the party and prove you’re the board game superstar!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042934,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

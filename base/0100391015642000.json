@@ -4,5 +4,29 @@
     "name": "Trifox",
     "publisher": "Big Sugar",
     "releaseDate": 20221013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A phenomenal fox in an action-packed adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000042700,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

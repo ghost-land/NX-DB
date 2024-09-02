@@ -4,5 +4,33 @@
     "name": "WarioWare™: Get It Together!",
     "publisher": "Nintendo",
     "releaseDate": 20210910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Welcome to microgame mayhem!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042929,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Crude Humor"
+    ],
+    "region": null,
+    "rightsId": null
 }
