@@ -4,5 +4,28 @@
     "name": "Jump Challenge!",
     "publisher": "SOURCE BYTE",
     "releaseDate": 20230417,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Party",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Run, jump, survive - escape lava!\nLeap to new heights with friends.\nEndless obstacles, infinite fun.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000065567,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

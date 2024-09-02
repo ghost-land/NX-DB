@@ -4,5 +4,33 @@
     "name": "Chickenoidz Super Party",
     "publisher": "Redblack Spade",
     "releaseDate": 20230808,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Multiplayer top-down arena shooter for up to 4 players. You can play local. Steal the show using an array of incredible weapons, special equipment and even mutations.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000065851,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

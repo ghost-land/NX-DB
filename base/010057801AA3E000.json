@@ -4,5 +4,33 @@
     "name": "Super Adventure Hand",
     "publisher": "Devm Games",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Hands down the most adventurous and handsome hand in the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000065497,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Torn Away",
     "publisher": "OverGamez",
     "releaseDate": 20240203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Torn Away is an interactive story with a unique blend of adventure games, side-scrollers, and cinematic first-person levels. Help little Asya find her way home in the middle of war.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000065649,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

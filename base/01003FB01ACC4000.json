@@ -4,5 +4,26 @@
     "name": "Dude, Where Is My Beer?",
     "publisher": "Arik Games",
     "releaseDate": 20230418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An old school point and click adventure game about finding a pilsner in the confusing world of unnecessary craft beers and snobby hipsters.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000065297,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

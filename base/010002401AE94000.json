@@ -4,5 +4,31 @@
     "name": "Tiny Thor",
     "publisher": "Gameforge 4D",
     "releaseDate": 20230803,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Unleash the bouncy power of Mjölnir in this retro platformer. Use the mighty hammer and many other power-ups to travel the realms of Asgard.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000065428,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Zombie Town",
     "publisher": "Funbox Media",
     "releaseDate": 20230706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A fun quick-play game for all.  You play as the game’s hero, protecting your local neighbourhood from the zombie invasion.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000065798,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

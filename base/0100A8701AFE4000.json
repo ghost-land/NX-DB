@@ -4,5 +4,28 @@
     "name": "The Spy Who Shot Me",
     "publisher": "PixelHeart",
     "releaseDate": 20240104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "The spy who shot me™ is a comedy retro FPS inspired by classic shooters of the 90s.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000065865,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Mild Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

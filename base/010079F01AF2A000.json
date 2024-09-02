@@ -4,5 +4,30 @@
     "name": "Another Bar Game",
     "publisher": "Arik Games",
     "releaseDate": 20240229,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Become the most popular bartender in town",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000065638,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

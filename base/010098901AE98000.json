@@ -4,5 +4,30 @@
     "name": "Avia corporation",
     "publisher": "Elusor",
     "releaseDate": 20230609,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Over 100 airplane models with random generation\nChoose from routes to over 140 cities worldwide\nA passenger traffic accounting system based on population",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000065438,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

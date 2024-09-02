@@ -4,5 +4,33 @@
     "name": "Stumble Guys",
     "publisher": "Scopely",
     "releaseDate": 20240820,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Action",
+        "Updates"
+    ],
+    "developer": null,
+    "intro": "JOIN THE PARTY",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000065443,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

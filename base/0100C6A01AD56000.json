@@ -4,5 +4,24 @@
     "name": "Bloo Kid",
     "publisher": "winterworks",
     "releaseDate": 20230609,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Rescue your beloved one from the hands of the evil wizard in this retro-style 2D platformer with cute pixelart, chiptune soundtrack and challenging one-screen levels! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000065665,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
