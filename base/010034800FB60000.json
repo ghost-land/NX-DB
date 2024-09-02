@@ -4,5 +4,37 @@
     "name": "Spaceland",
     "publisher": "Ellada Games",
     "releaseDate": 20220913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "An incredibly dynamic turn-based strategy that brings back to life the traditions of old-school sci-fi tactics.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000024391,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

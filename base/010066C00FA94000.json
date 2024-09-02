@@ -4,5 +4,34 @@
     "name": "Dreamscaper",
     "publisher": "Freedom Games",
     "releaseDate": 20240208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "By night, delve into your subconscious and discover powerful artifacts to conquer your nightmares. By day, explore Redhaven and build relationships to unlock dream powers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000024168,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

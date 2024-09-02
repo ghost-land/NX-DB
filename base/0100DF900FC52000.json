@@ -4,5 +4,36 @@
     "name": "Tiny Gladiators",
     "publisher": "BoomBit Games",
     "releaseDate": 20240612,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "RPG",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A terrifically fun fighting game with a white-hot RPG core!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000024576,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

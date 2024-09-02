@@ -4,5 +4,31 @@
     "name": "Jack Axe",
     "publisher": "Neon Doctrine",
     "releaseDate": 20221220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Be Jack! Get an axe! Take Jack (and her sisters) on an axe tossing, single or multiplayer, adventure in a vibrant open world inspired by Filipino and Norse mythology.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022007,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

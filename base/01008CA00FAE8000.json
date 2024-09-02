@@ -4,5 +4,28 @@
     "name": "STAR WARS™ Jedi Knight: Jedi Academy",
     "publisher": "Aspyr",
     "releaseDate": 20210111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Forge your weapon and follow the path of the Jedi",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000024248,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

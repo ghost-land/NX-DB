@@ -4,5 +4,35 @@
     "name": "Boomerang Fu",
     "publisher": "Cranky Watermelon",
     "releaseDate": 20211104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Fighting",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Slice and dice your friends with boomerangs in this frantic physics party game for up to 6 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000021921,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

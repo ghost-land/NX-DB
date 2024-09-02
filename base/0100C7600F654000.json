@@ -4,5 +4,29 @@
     "name": "Juicy Realm",
     "publisher": "SpaceCan",
     "releaseDate": 20240131,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Adventure",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "This is a roguelite game in which players must square off against bizarre fruits all across the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022936,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

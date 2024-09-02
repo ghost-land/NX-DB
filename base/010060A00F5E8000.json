@@ -4,5 +4,29 @@
     "name": "Pixel Gladiator",
     "publisher": "Drageus Games",
     "releaseDate": 20220930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Defend and upgrade your base, grab big weapons and build deadly turrets to slaughter waves of furious creatures.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000022831,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

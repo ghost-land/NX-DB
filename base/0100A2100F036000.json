@@ -4,5 +4,34 @@
     "name": "Youropa",
     "publisher": "frecle",
     "releaseDate": 20221006,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A gravity defying puzzle platform paint adventure, about breaking rules, being upside down and thinking outside the box. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022223,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

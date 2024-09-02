@@ -4,5 +4,35 @@
     "name": "#Funtime",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20211014,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "#Funtime is an explosive twin-stick shooter where shooting isn't your only weapon.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000023330,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

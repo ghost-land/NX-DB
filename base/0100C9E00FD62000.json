@@ -4,5 +4,29 @@
     "name": "Farabel",
     "publisher": "Drageus Games",
     "releaseDate": 20220715,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "RPG",
+        "Board Game",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The strategy game that starts at the end! You know how to level up, but can you level down? Be smart to survive!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000024863,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

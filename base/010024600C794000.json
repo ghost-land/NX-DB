@@ -4,5 +4,34 @@
     "name": "Hellpoint",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000024531,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
