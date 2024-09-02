@@ -4,5 +4,25 @@
     "name": "METAL NINJA",
     "publisher": "LYUS",
     "releaseDate": 20221021,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Stop the time, and Go.\nNew style 2D scrolling action game.\nNinja who came from 2036 to save the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000059638,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

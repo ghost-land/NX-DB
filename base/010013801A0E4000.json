@@ -4,5 +4,30 @@
     "name": "Castle Renovator",
     "publisher": "Ultimate Games",
     "releaseDate": 20230413,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Education",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Build your own kingdom and customize it to your liking.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000061449,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

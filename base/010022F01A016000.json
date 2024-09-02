@@ -4,5 +4,29 @@
     "name": "Last Command",
     "publisher": "Winking",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Last Command is a fast-paced Bullet Hell x snake action game. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061427,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Fantasy Violence",
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

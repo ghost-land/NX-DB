@@ -4,5 +4,33 @@
     "name": "Missile Command: Recharged",
     "publisher": "Atari",
     "releaseDate": 20221101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Defend your cities from an assault of missiles, planes, tanks, and more!  Play solo or with a friend in co-op in this modern reimagining of the arcade classic.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000058351,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

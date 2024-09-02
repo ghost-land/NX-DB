@@ -4,5 +4,29 @@
     "name": "Ylands: Nintendo Switch™ Edition",
     "publisher": "Bohemia Interactive",
     "releaseDate": 20240620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Adventure awaits you in the world of Ylands! Set sail to explore, gather resources, craft tools and build anything.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000060209,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
