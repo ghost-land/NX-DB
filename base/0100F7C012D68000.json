@@ -4,5 +4,30 @@
     "name": "Juiced!",
     "publisher": "TimothyvanderHoeven",
     "releaseDate": 20201008,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Discover the secret of the magic crystals in this epic 2d platformer! Travel through colourful worlds packed with unique enemies, wacky weapons and challenging bosses!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000034338,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

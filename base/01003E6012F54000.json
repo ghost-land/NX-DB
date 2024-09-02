@@ -4,5 +4,27 @@
     "name": "THO Simulator",
     "publisher": "Aerosoft",
     "releaseDate": 20201022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Take control of various emergency forces and coordinate the interaction of the individual specialist groups of the THO.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000034252,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

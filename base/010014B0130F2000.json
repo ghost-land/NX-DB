@@ -4,5 +4,29 @@
     "name": "Adventure Llama",
     "publisher": "Orube Game Studio",
     "releaseDate": 20201101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Solve puzzles, avoid traps, and gallop madly to uncover ancient llama treasures!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000034521,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

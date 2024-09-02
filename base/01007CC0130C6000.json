@@ -4,5 +4,30 @@
     "name": "Renzo Racer",
     "publisher": "Joindots",
     "releaseDate": 20201204,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Renzo Racer is a fast-paced cartoon style racing game challenging your maneuverability and driving skills to cross the finish line first! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000034450,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

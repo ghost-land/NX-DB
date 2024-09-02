@@ -4,5 +4,28 @@
     "name": "Zombie's Cool",
     "publisher": "Game Museum",
     "releaseDate": 20201112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The largest zombie mop-up operation this world has ever seen is about to start! Mind you heads, zombies!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000034773,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
