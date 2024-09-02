@@ -4,5 +4,24 @@
     "name": "Kiki - A Vibrant 3D Platformer",
     "publisher": "eastasiasoft",
     "releaseDate": 20240911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Grab stars and keys as fast as you can while navigating colorful 3D obstacle courses!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000081203,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

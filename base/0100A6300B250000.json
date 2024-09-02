@@ -4,5 +4,28 @@
     "name": "SEGA Genesis Classics",
     "publisher": "SEGA",
     "releaseDate": 20210728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "SEGA Genesis Classics is the largest collection of retro classics on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000014756,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violência"
+    ],
+    "region": null,
+    "rightsId": "0100A6300B2500000000000000000005"
 }

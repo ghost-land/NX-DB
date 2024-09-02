@@ -4,5 +4,32 @@
     "name": "Disaster Band",
     "publisher": "Toplitz Productions",
     "releaseDate": 20240712,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Let's get the party started!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000079443,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

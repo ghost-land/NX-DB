@@ -4,5 +4,24 @@
     "name": "The Alpha Wolf",
     "publisher": "Halva Studio",
     "releaseDate": 20240627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Simulation",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The Alpha Wolf is an RPG simulator where you build and lead a wolf pack. Customise and upgrade your wolves, hunt for survival, unlock magic skills, solve quests, battle bosses.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000082170,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

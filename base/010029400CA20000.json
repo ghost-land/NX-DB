@@ -4,5 +4,31 @@
     "name": "Clue: Classic Edition",
     "publisher": "Marmalade Game Studio",
     "releaseDate": 20211022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "It’s Hasbro’s murder mystery board game, Clue. Roll the dice and start your investigation. Whodunit? With what weapon? Where? Race your friends and family to the truth!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000015232,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Compras on-line"
+    ],
+    "region": null,
+    "rightsId": "010029400CA200000000000000000006"
 }

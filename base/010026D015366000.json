@@ -4,5 +4,24 @@
     "name": "Bubble Bunny",
     "publisher": "Kistler Studios",
     "releaseDate": 20240405,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Shooter",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Help the bunny to solve puzzles and burst the bubbles.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000079905,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
