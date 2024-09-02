@@ -4,5 +4,29 @@
     "name": "The Great Perhaps",
     "publisher": "Drageus Games",
     "releaseDate": 20221028,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Time travel puzzle game about an astronaut returning to Earth destroyed by natural cataclysms.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000032161,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

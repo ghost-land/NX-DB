@@ -4,5 +4,35 @@
     "name": "Olija",
     "publisher": "Devolver Digital",
     "releaseDate": 20230613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Olija is a game about Faraday's quest, a man shipwrecked then trapped in the mysterious country of Terraphage. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031810,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Evergate",
     "publisher": "PQube",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Ignite your Soulflame",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032509,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Drugs"
+    ],
+    "region": null,
+    "rightsId": null
 }

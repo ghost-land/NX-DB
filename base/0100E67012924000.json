@@ -4,5 +4,37 @@
     "name": "The Witcher 3: Wild Hunt",
     "publisher": "CD PROJEKT",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033071,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "RiMS Racing",
     "publisher": "Nacon",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "The first motorcycling simulation that combines a realistic riding challenge with engineering and mechanics! ",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032799,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

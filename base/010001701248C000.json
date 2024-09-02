@@ -4,5 +4,28 @@
     "name": "Super Monkey Ball Banana Mania",
     "publisher": "SEGA",
     "releaseDate": 20221101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Party",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Go Bananas with your favorite monkey gang in the ultimate Super Monkey Ball adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000032056,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

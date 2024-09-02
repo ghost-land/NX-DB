@@ -4,5 +4,33 @@
     "name": "GONNER2",
     "publisher": "Raw Fury",
     "releaseDate": 20230524,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Death needs your help! Defeat bosses while navigating your way through a chaotic colourful procedurally generated platformer (with co-op), but... Don’t Lose Your Head!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032536,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

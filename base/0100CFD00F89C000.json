@@ -4,5 +4,31 @@
     "name": "Smash Boats",
     "publisher": "Smash House Games",
     "releaseDate": 20220818,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "LET’S GO SMASH! Bash, crash and smash through bizarre pools, enemies and hazards while trying to collect stars, solo or with a friend to become the ultimate SMASHER!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000032970,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor"
+    ],
+    "region": null,
+    "rightsId": null
 }

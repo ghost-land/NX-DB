@@ -4,5 +4,36 @@
     "name": "Hades",
     "publisher": "Supergiant Games",
     "releaseDate": 20201120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033131,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

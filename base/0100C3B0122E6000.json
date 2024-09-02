@@ -4,5 +4,30 @@
     "name": "FoxyLand Collection",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "~ FoxyLand + FoxyLand 2 ~",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000032107,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

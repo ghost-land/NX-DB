@@ -4,5 +4,36 @@
     "name": "Path of Titans",
     "publisher": "Alderon Games",
     "releaseDate": 20220812,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032175,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

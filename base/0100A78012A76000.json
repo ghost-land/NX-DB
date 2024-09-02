@@ -4,5 +4,30 @@
     "name": "Angry Alligator",
     "publisher": "Lion Castle",
     "releaseDate": 20211019,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Simulation",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Embark on a swamptastic adventure to grow into the biggest, baddest gator of your swamp town!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000033296,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

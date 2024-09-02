@@ -4,5 +4,33 @@
     "name": "Chocobo GP Lite",
     "publisher": "SQUARE ENIX",
     "releaseDate": 20220310,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "As the chequered flag waves, start an unpredictable and crazy fun race, where something unpredictable happens at every turn!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032071,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

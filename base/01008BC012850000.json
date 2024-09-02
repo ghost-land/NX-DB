@@ -4,5 +4,29 @@
     "name": "Ghostanoid",
     "publisher": "JoyBits",
     "releaseDate": 20220310,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The craziest arkanoid. Everyone has a normal job, and we have houses with ghosts. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000032601,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

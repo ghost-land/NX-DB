@@ -4,5 +4,31 @@
     "name": "My Diggy Dog 2",
     "publisher": "King Bird Games",
     "releaseDate": 20230720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Diggy Dog 2 is a game about a brave archaeologist dog named Marty, who helps his elderly master find his wife and solve the mysteries of the universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000032254,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
