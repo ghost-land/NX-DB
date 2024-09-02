@@ -4,5 +4,36 @@
     "name": "Goo Fighter",
     "publisher": "OHM",
     "releaseDate": 20240118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Combine as many powers as you can to wipe out all the Goo around you! Sounds simple, right? Let's see if you can get past stage 16!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000076163,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

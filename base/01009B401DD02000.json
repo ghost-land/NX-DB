@@ -4,5 +4,30 @@
     "name": "Orion Haste",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240315,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Battle your way through alien hordes to save humanity",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000076213,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

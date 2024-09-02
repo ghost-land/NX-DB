@@ -4,5 +4,33 @@
     "name": "Right and Down and Dice",
     "publisher": "mc2games",
     "releaseDate": 20240328,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Board Game",
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Explore randomly generated card dungeons where you can only move Right and Down and use Dice to defeat mighty enemies!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000076260,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

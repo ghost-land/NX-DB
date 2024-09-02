@@ -4,5 +4,27 @@
     "name": "Kitchen Crisis",
     "publisher": "Team Samoyed",
     "releaseDate": 20240405,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Puzzle",
+        "Simulation",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Kitchen Crisis is a culinary defense game where you are abducted by aliens and must quickly serve them food that they demand.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "nsuId": 70010000075745,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

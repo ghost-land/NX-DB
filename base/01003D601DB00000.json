@@ -4,5 +4,31 @@
     "name": "Tales from Candleforth",
     "publisher": "Feardemic",
     "releaseDate": 20240430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Dive right into the world of Tales from Candleforth, a folk horror 2D point-and-click game. Solve puzzles and outsmart the room mechanics bleeding out from an ancient book.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000075463,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

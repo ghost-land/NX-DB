@@ -4,5 +4,23 @@
     "name": "Sushi Shot",
     "publisher": "SAT-BOX",
     "releaseDate": 20240118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Shooter",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Aim your sushi and shoot!\nHit sushi of the same type to make them grow bigger and bigger!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000076155,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

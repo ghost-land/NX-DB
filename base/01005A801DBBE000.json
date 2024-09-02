@@ -4,5 +4,33 @@
     "name": "Heisting",
     "publisher": "QubicGames",
     "releaseDate": 20240405,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "What could be more exciting than the thrill of a perfectly performed heist?\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000075766,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

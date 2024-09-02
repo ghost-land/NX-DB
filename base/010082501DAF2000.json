@@ -4,5 +4,31 @@
     "name": "Hero of Fate",
     "publisher": "Happy Player",
     "releaseDate": 20240118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Unstoppable Rogue-like excitement! Unlock new classes, gather allies, and dive into unique adventures. Conquer the monster hordes and embark on an epic journey.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000075457,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
