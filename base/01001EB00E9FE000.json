@@ -4,5 +4,29 @@
     "name": "Beast Quest",
     "publisher": "Maximum Games",
     "releaseDate": 20191115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embark on an epic action-adventure to save the Kingdom of Avantia from ruin. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000021581,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

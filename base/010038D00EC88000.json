@@ -4,5 +4,33 @@
     "name": "Grand Brix Shooter",
     "publisher": "Intragames",
     "releaseDate": 20190829,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Challenge yourself to a new kind of bullet-hell fusion shooter. Change your aircraft to get new skills just when you need them against advancing foes. Aim for the top!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000021561,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

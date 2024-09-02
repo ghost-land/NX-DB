@@ -4,5 +4,33 @@
     "name": "JDM Racing",
     "publisher": "Nikita Alexeevich",
     "releaseDate": 20191220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Experience the real drive, sense the speed and feel a surge of adrenaline from skidding in a new racing game from the creators of Drift Legends! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000021684,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

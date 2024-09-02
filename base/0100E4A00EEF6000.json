@@ -4,5 +4,29 @@
     "name": "Gravity Duck",
     "publisher": "Ratalaika Games",
     "releaseDate": 20190816,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Help a Duck gravitate to golden eggs to become rich!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000021915,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

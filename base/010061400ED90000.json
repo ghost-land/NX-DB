@@ -4,5 +4,34 @@
     "name": "HyperParasite",
     "publisher": "Troglobytes Games",
     "releaseDate": 20200403,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "RPG",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A rogue-lite twin-stick shooter that never plays the same twice. Collect and control 60 different characters as the body-snatching alien Parasite with a grudge against humanity. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000021651,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

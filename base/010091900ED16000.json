@@ -4,5 +4,35 @@
     "name": "KungFu Kickball",
     "publisher": "Blowfish Studios",
     "releaseDate": 20220211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Sports",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "KungFu Kickball is the fighting-sports game where the best ball kicker wins!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000021626,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }
