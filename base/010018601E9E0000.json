@@ -4,5 +4,31 @@
     "name": "Bakery Simulator",
     "publisher": "Gaming Factory",
     "releaseDate": 20240410,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000079323,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "RPM - Road Punk Mayhem",
     "publisher": "eastasiasoft",
     "releaseDate": 20240717,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Hit the road for explosive bullet hell action through a post-apocalyptic wasteland!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "it"
+    ],
+    "nsuId": 70010000078489,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

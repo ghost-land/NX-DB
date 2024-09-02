@@ -4,5 +4,29 @@
     "name": "Yars Rising",
     "publisher": "Atari",
     "releaseDate": 20240910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Run, jump, sneak, and hack your way through an expansive mystery!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000076820,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

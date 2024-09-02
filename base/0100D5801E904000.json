@@ -4,5 +4,31 @@
     "name": "Caravan SandWitch",
     "publisher": "Plug In Digital",
     "releaseDate": 20240913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Discover vast landscapes in Caravan SandWitch, a narrative exploration adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000079062,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

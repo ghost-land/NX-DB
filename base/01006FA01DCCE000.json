@@ -4,5 +4,24 @@
     "name": "Kong Hero!",
     "publisher": "Artem Kritinin",
     "releaseDate": 20240306,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Kong Hero! - is an interesting platform game where the hero fights with enemies.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000076116,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
