@@ -4,5 +4,26 @@
     "name": "Crash Dummy",
     "publisher": "Funbox Media",
     "releaseDate": 20190228,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Crash Dummy is a challenging 2D platform game with multiple challenges to test even the most hardened gamer. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000013034,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

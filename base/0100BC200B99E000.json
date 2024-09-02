@@ -4,5 +4,28 @@
     "name": "Onigiri",
     "publisher": "CyberStep",
     "releaseDate": 20190131,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Free to play!\nJapanese style MMORPG battle action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000012354,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "0100BC200B99E0000000000000000007"
 }

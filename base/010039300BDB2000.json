@@ -4,5 +4,35 @@
     "name": "Defunct",
     "publisher": "Soedesco",
     "releaseDate": 20180913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Defunct is an indie adventure game with a focus on flow, speed and an engaging world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013189,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010039300BDB20000000000000000005"
 }

@@ -4,5 +4,28 @@
     "name": "Joggernauts",
     "publisher": "Graffiti Games",
     "releaseDate": 20181011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Party",
+        "Multiplayer",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "A cooperative switching game about\ntrying NOT to kill your friends!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000013179,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "rightsId": "0100EF100BD960000000000000000005"
 }

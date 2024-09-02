@@ -4,5 +4,25 @@
     "name": "Everything",
     "publisher": "David Oreilly",
     "releaseDate": 20190111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Communication",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Whoever you are, whatever you are and where ever you are, you're in the middle - that's the game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000012587,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": "010031F00B2460000000000000000005"
 }

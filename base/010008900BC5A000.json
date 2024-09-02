@@ -4,5 +4,35 @@
     "name": "DYSMANTLE",
     "publisher": "10tons",
     "releaseDate": 20220401,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The open world action RPG where you ruin everything.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012895,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

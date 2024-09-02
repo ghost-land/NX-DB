@@ -4,5 +4,34 @@
     "name": "Game Dev Story",
     "publisher": "Kairosoft",
     "releaseDate": 20181011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "RPG",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Work hard and you may reach the top of the video game industry!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013007,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100AF700BCD20000000000000000005"
 }

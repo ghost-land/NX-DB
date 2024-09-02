@@ -4,5 +4,32 @@
     "name": "Johnny Turbo's Arcade: Heavy Burger",
     "publisher": "Golem Entertainment",
     "releaseDate": 20181101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Blast, dodge, and charge your way through an array of classic 1980's Data East arcade machines. Heavy Burger is absolute local-multiplayer mayhem!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000012483,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010060400BA9A0000000000000000005"
 }
