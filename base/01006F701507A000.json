@@ -4,5 +4,31 @@
     "name": "Tested on Humans: Escape Room",
     "publisher": "mc2games",
     "releaseDate": 20210512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "You are the test subject. In this dark environment escape room, you have to solve various puzzles to escape from the research center where you are trapped. Will you escape?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000041223,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

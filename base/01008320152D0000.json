@@ -4,5 +4,34 @@
     "name": "Alveole",
     "publisher": "Sometimes You",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Music",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Alveole is a minimalistic puzzle where the player must understand how to run and why does he do it?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041742,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

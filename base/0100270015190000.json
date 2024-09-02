@@ -4,5 +4,26 @@
     "name": "Galaxy Squad",
     "publisher": "Big Way",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Galaxy squad is a turn-based tactical roguelike in which you are leading a squad of mercenaries through a randomly generated galaxy filled with different events.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000041433,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

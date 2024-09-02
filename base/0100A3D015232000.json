@@ -4,5 +4,30 @@
     "name": "123 Dots",
     "publisher": "Artax Games",
     "releaseDate": 20210805,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Puzzle",
+        "Utility",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Learn to count the numbers, basic skills and sequences for preschool children.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000041570,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

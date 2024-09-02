@@ -4,5 +4,30 @@
     "name": "My Singing Monsters Playground",
     "publisher": "Big Blue Bubble",
     "releaseDate": 20211109,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Swing, fling, and spring your way to victory with the Singing Monsters like you've never seen them before!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000041812,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild fantasy themes and violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

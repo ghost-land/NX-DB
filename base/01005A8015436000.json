@@ -4,5 +4,24 @@
     "name": "OS Omega",
     "publisher": "RockGame",
     "releaseDate": 20210729,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You are Binary Boy, an agent of OS Omega and your goal is to defeat the virus that wants to format the C drive of the computer you must protect.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000042141,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Monument",
     "publisher": "D-Games",
     "releaseDate": 20210708,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Old-school first person shooter.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000042181,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
