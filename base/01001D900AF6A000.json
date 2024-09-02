@@ -4,5 +4,22 @@
     "name": "Super Toy Cars",
     "publisher": "賈船",
     "releaseDate": 20180621,
-    "version": 0
+    "version": 0,
+    "category": [
+        "レース",
+        "スポーツ",
+        "アーケード"
+    ],
+    "developer": null,
+    "intro": "おもちゃだらけの子供部屋をサーキットにして楽しむ\nはちゃめちゃミニカーレース",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000010306,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": "01001D900AF6A0000000000000000004"
 }

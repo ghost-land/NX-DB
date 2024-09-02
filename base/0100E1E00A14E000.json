@@ -4,5 +4,31 @@
     "name": "Furi（フリー）",
     "publisher": "CIRCLE Ent.",
     "releaseDate": 20180531,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "シューティング",
+        "アドベンチャー"
+    ],
+    "developer": null,
+    "intro": "待ち受けるのはボス、ボス、そしてボス！\nサイケデリックな世界で、華麗なアクションをキメろ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000009789,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null,
+    "rightsId": "0100E1E00A14E0000000000000000004"
 }
