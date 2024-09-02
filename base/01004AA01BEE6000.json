@@ -4,5 +4,30 @@
     "name": "King 'n Knight",
     "publisher": "JeremyEntressangle",
     "releaseDate": 20240802,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Alone or with friends, go fight the darkness and restore peace in the kingdom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000078545,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

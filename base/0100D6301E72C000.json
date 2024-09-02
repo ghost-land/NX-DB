@@ -4,5 +4,34 @@
     "name": "Monster Panic",
     "publisher": "Happy Player",
     "releaseDate": 20240328,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Fast-paced Rogue-like! Battle endless monsters, enjoy rapid Rogue-like thrills! Double the choices, unlock more classes, build unique talents! You are the hero!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000078564,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

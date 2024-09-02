@@ -4,5 +4,30 @@
     "name": "Go Kart Mania",
     "publisher": "Baltoro Minis",
     "releaseDate": 20240329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Your Ticket to World Kart Racing!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000078680,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

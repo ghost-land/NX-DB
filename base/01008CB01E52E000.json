@@ -4,5 +4,35 @@
     "name": "DOOM + DOOM II",
     "publisher": "Bethesda",
     "releaseDate": 20240808,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000078053,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

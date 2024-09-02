@@ -4,5 +4,29 @@
     "name": "Baron of Blood",
     "publisher": "Castle Village Games",
     "releaseDate": 20240315,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A retro 2D pixelart action platformer game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000078692,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

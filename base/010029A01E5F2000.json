@@ -4,5 +4,27 @@
     "name": "Sky Survivors",
     "publisher": "Samustai",
     "releaseDate": 20240628,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Create your own overpowered build to survive against hordes of monsters!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000078268,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

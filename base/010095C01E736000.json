@@ -4,5 +4,27 @@
     "name": "Goliath Depot",
     "publisher": "Flynns Arcade",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Goliath Depot is a door-slamming 2D arcade game taken straight from the early 80's. Close all doors, kick the enemies and speedrun your way through 40 unique levels",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000078601,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
