@@ -4,5 +4,24 @@
     "name": "A Sound Plan",
     "publisher": "Studio Kumiho",
     "releaseDate": 20200220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Sports",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Local Multiplayer ZSport about luring zombies into eating your friends using sound.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000026789,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

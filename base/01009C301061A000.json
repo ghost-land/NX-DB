@@ -4,5 +4,31 @@
     "name": "One Dog Story",
     "publisher": "Big Way",
     "releaseDate": 20200720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Engaging pixel adventure game with RPG elements, gameplay that’ll get you hooked for hours. You wake up in an underground laboratory, free again after a horrific accident",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000026872,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

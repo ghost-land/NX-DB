@@ -4,5 +4,33 @@
     "name": "Deep Diving Adventures",
     "publisher": "Jujubee",
     "releaseDate": 20200317,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Education",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Submerge yourself in one of the most immersive diving simulators to date. Gather your gear, choose your diving spot and discover what lies beneath the surface.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000027002,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "Nowhere Prophet",
     "publisher": "No More Robots",
     "releaseDate": 20200731,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Prepare your decks and go on a pilgrimage through the wasteland! Travel across randomly generated maps and lead your followers in deep tactical combat.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000026647,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

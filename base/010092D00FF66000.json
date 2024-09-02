@@ -4,5 +4,29 @@
     "name": "Top Run",
     "publisher": "Fantastico Studio",
     "releaseDate": 20200211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Top Run is endless runner with platformer elements. It has everything we love: neon, pixel art, a bit of outrun, tiny piece of synthwave, scanlines, VHS effects.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000026944,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

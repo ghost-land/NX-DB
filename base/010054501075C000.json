@@ -4,5 +4,34 @@
     "name": "Curious Cases",
     "publisher": "OnSkull Development",
     "releaseDate": 20200115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "In this 3 chapter story, you play as a modern day legend, Detective Thomas Moore. He has solved more cases than one can count, where others hit dead-ends, he gets to work.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000026973,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

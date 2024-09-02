@@ -4,5 +4,31 @@
     "name": "Lydia",
     "publisher": "Nakana.io",
     "releaseDate": 20200117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Education",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Explore the mind of a child growing up with drunk and broken parents. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000026438,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

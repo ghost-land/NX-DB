@@ -4,5 +4,33 @@
     "name": "Piffle",
     "publisher": "Hipster Whale",
     "releaseDate": 20200902,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Play Piffle, an arcade puzzle adventure with cats!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000026915,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

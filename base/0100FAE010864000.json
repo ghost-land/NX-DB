@@ -4,5 +4,34 @@
     "name": "Minoria",
     "publisher": "DANGEN Entertainment",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A Tale of Ink and Blood.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027077,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

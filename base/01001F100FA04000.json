@@ -4,5 +4,34 @@
     "name": "Oddmar",
     "publisher": "Mobge",
     "releaseDate": 20200220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Action-adventure Platformer in Norse Mythology!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027025,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

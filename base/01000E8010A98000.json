@@ -4,5 +4,33 @@
     "name": "Escape First",
     "publisher": "OnSkull Development",
     "releaseDate": 20200218,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "\"Escape First\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000027264,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

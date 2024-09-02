@@ -4,5 +4,27 @@
     "name": "Rascal Fight",
     "publisher": "Coconut Island Games",
     "releaseDate": 20200402,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Rascal Fight is a casual battle arena brawler with a magical twist. You'll play as a rascal running wild in an environment filled with contraptions where you battle it out against your opponents.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000026964,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

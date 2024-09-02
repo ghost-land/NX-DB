@@ -4,5 +4,30 @@
     "name": "Ys Origin",
     "publisher": "DotEmu",
     "releaseDate": 20201001,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000027093,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Dog Duty",
     "publisher": "Soedesco",
     "releaseDate": 20200917,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "As some evil bigwig Octopus Commander and his army are threatening world-peace, it’s up to you and your squad of misfits to eliminate that octo-scum.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027033,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

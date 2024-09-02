@@ -4,5 +4,27 @@
     "name": "Silent World",
     "publisher": "CFK",
     "releaseDate": 20200319,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A post nuclear apocalyptic world that has lost light. Survive by escaping from mutants that roam the city!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000026867,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

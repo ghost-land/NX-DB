@@ -4,5 +4,27 @@
     "name": "Gunscape",
     "publisher": "Blowfish Studios",
     "releaseDate": 20230201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Gunscape is an FPS world-building hybrid in which gamers create, share and enjoy their own maps.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000026899,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
