@@ -4,5 +4,33 @@
     "name": "Rival Megagun",
     "publisher": "KOMODO",
     "releaseDate": 20181130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Manic. PVP. Battle. Shmup.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000004141,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100A7D0083920000000000000000005"
 }

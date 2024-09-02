@@ -4,5 +4,32 @@
     "name": "Hotshot Racing",
     "publisher": "Curve Digital",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Free new DLC! Brings an explosive new mode, Grand Prix and four new tracks to this best in class racer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000003503,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild themes",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

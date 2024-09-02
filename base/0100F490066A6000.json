@@ -4,5 +4,27 @@
     "name": "BILLIARD",
     "publisher": "D3PUBLISHER",
     "releaseDate": 20180215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Board Game",
+        "Simulation",
+        "System Tool"
+    ],
+    "developer": null,
+    "intro": "A 3D Pool billiards game that uses the Joy-Con™ to make it feel like you're holding a real cue!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000004290,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100F490066A60000000000000000003"
 }

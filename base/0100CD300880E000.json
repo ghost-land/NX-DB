@@ -4,5 +4,32 @@
     "name": "The Pinball Arcade",
     "publisher": "FarSight Studios",
     "releaseDate": 20180518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000004161,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Nudity",
+        "Mild Sexual References",
+        "Mild Themes",
+        "Mild Violence",
+        "Sexualised Imagery",
+        "Digital Purchases"
+    ],
+    "region": null,
+    "rightsId": "0100CD300880E0000000000000000004"
 }

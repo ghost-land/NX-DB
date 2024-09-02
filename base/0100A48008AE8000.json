@@ -4,5 +4,28 @@
     "name": "Bleed 2",
     "publisher": "Digerati",
     "releaseDate": 20180308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Be the greatest hero of all time!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000004360,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100A48008AE80000000000000000003"
 }

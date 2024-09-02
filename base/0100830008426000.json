@@ -4,5 +4,31 @@
     "name": "Just Shapes & Beats",
     "publisher": "Berzerk Studio",
     "releaseDate": 20180621,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Music",
+        "Party",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A game about shapes, and about beats.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000003652,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01008300084260000000000000000004"
 }
