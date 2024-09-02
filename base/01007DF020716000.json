@@ -4,5 +4,27 @@
     "name": "10-Second Ghost",
     "publisher": "Happy Player",
     "releaseDate": 20240912,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Platformer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A creative indie game from GameJam. Your past self will turn into a ghost and help your current self solve the puzzle together.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000086467,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

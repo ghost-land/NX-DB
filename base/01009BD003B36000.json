@@ -4,5 +4,30 @@
     "name": "Thimbleweed Park",
     "publisher": "Terrible Toybox",
     "releaseDate": 20170921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "In a town like Thimbleweed Park a dead body is the least of your problems.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000000493,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Mature Themes",
+        "Sexual References"
+    ],
+    "region": null,
+    "rightsId": "01009BD003B360000000000000000003"
 }

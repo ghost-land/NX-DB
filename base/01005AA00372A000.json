@@ -4,5 +4,30 @@
     "name": "UNO",
     "publisher": "Ubisoft",
     "releaseDate": 20171107,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000000304,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null,
+    "rightsId": "01005AA00372A0000000000000000003"
 }

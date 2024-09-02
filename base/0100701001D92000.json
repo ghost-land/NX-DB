@@ -4,5 +4,30 @@
     "name": "Human Resource Machine",
     "publisher": "Tomorrow Corporation",
     "releaseDate": 20170324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Program little office workers to solve puzzles. Be a good employee! The machines are coming... for your job.\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000000155,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100701001D920000000000000000000"
 }

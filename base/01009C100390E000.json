@@ -4,5 +4,28 @@
     "name": "League of Evil",
     "publisher": "Ratalaika Games",
     "releaseDate": 20170831,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "League of Evil is an action game where you, as a bionic super agent take on the mission to defeat the League of Evil.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000000393,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01009C100390E0000000000000000000"
 }

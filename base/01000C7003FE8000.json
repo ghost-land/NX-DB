@@ -4,5 +4,33 @@
     "name": "GORSD",
     "publisher": "SPRINGLOADED",
     "releaseDate": 20200918,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Intense arena combat, set deep inside the heart of darkness. Discover the story of the GORSD alone, or enter battle with up to 4 friends in local multiplayer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000000666,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

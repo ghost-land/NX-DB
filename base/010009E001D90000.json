@@ -4,5 +4,28 @@
     "name": "World of Goo",
     "publisher": "Tomorrow Corporation",
     "releaseDate": 20170324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "World of Goo is a multiple award winning physics based puzzle / construction game. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000000168,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010009E001D900000000000000000000"
 }

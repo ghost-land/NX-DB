@@ -4,5 +4,34 @@
     "name": "GoNNER",
     "publisher": "Raw Fury",
     "releaseDate": 20170629,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "GoNNER is a tough as hell score-based procedurally-generated platformer with roguelike elements. GoNNER is also a story about friendship between Ikk, Death, and a space whale named Sally.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000000426,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "01007C2002B3C0000000000000000000"
 }
