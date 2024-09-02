@@ -4,5 +4,34 @@
     "name": "RUN: The World In-Between",
     "publisher": "Plug In Digital",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Racing",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "RUN: The World In-Between is a “Die and Retry” procedural platformer game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000049629,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

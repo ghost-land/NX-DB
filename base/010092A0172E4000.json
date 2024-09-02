@@ -4,5 +4,38 @@
     "name": "It Takes Two",
     "publisher": "Electronic Arts",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "We're Better Together",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049281,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Saviorless",
     "publisher": "Plug In Digital",
     "releaseDate": 20240402,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Unveil the secrets of the Smiling Island in this hand-drawn action platformer",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049911,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "MARS 2120",
     "publisher": "QUByte Interactive",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Metroidvania with a mix of melee and ranged combats inspired by classics. Help Anna “Thirteen” Charlotte battle her way through the secrets of Mars!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es"
+    ],
+    "nsuId": 70010000049520,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

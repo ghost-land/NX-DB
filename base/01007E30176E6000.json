@@ -4,5 +4,28 @@
     "name": "Samurai Bringer",
     "publisher": "PLAYISM",
     "releaseDate": 20220421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Samurai-themed roguelite action\nwhere you cut down hordes of samurai and demons\nin the quest to defeat Yamata-no-Orochi.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049825,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Welcome to Elk",
     "publisher": "Triple Topping",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Explore Elk - An island with true stories",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko"
+    ],
+    "nsuId": 70010000049585,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

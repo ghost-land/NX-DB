@@ -4,5 +4,28 @@
     "name": "Kubi Adventures",
     "publisher": "Weakfish Studio",
     "releaseDate": 20220117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Kubi Adventures, 3D Cute Platformer Game!\nCollect keys and coins by passing enemies and obstacles! and finish the Levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko"
+    ],
+    "nsuId": 70010000049471,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

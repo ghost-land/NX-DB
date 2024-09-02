@@ -4,5 +4,31 @@
     "name": "Cassiodora",
     "publisher": "Plug In Digital",
     "releaseDate": 20230529,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Party",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Save princess Cassiodora from the hands of the evil sorcerer Kenzar!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049525,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

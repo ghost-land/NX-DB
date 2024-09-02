@@ -4,5 +4,37 @@
     "name": "DREDGE",
     "publisher": "Team17",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A single-player fishing adventure with a sinister undercurrent.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049267,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

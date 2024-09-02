@@ -4,5 +4,24 @@
     "name": "Smash Star",
     "publisher": "Origamihero Games",
     "releaseDate": 20220214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Deep below the world, in a place called Darkside, the Black Flame awaits. Smash your way through this retro 2d pixel platformer!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000049840,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Kao the Kangaroo",
     "publisher": "Tate Multimedia",
     "releaseDate": 20220527,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embark on an epic journey, master magical gloves and explore lush environments.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000049776,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
