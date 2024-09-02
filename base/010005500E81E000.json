@@ -4,5 +4,35 @@
     "name": "Space Cows",
     "publisher": "Untold Tales",
     "releaseDate": 20221010,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Leave no cow behind.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020688,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Fantasy Violence",
+        "Sexual Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "New Super Lucky's Tale",
     "publisher": "Playful",
     "releaseDate": 20191108,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Jump, burrow, and tail swipe your way to victory in this love letter to classic 3D platformers!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000020891,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

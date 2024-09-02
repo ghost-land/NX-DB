@@ -4,5 +4,27 @@
     "name": "DOOM 64",
     "publisher": "Bethesda",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000020406,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

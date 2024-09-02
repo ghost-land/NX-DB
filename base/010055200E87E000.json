@@ -4,5 +4,33 @@
     "name": "Metamorphosis",
     "publisher": "Untold Tales",
     "releaseDate": 20220325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A first-person adventure game whose mysterious story was inspired by the imagination of Franz Kafka.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020694,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

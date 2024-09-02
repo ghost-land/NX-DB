@@ -4,5 +4,26 @@
     "name": "STAR WARS™ Jedi Knight II: Jedi Outcast™",
     "publisher": "Aspyr",
     "releaseDate": 20220512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A Jedi outcast struggles with his past, his enemies, and his destiny.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000021136,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

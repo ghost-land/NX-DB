@@ -4,5 +4,30 @@
     "name": "Little Racer",
     "publisher": "Untold Tales",
     "releaseDate": 20220325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Sports",
+        "Arcade",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Little Racer is a dynamic racing game straight from your childhood. Enjoy various tracks, avoid obstacles and speed your way to the finish line. Slot cars are back in retro style!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020685,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

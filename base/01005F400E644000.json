@@ -4,5 +4,31 @@
     "name": "Invisigun Reloaded",
     "publisher": "Sombr Studio",
     "releaseDate": 20230102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "The ultimate stealth battle adventure where everyone’s invisible.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020226,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

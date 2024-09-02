@@ -4,5 +4,30 @@
     "name": "Chroma Squad",
     "publisher": "Plug In Digital",
     "releaseDate": 20230613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A tactical RPG about five stunt actors who decide to quit their jobs and start their own Power Rangers-inspired TV show!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000021093,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

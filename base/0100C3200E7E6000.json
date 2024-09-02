@@ -4,5 +4,34 @@
     "name": "Black Legend",
     "publisher": "Warcave",
     "releaseDate": 20211014,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A dark, immersive Turn Based Strategy RPG. Master the art of 17th century alchemy to liberate a doomed city from a bloodthirsty cult of the great alchemist Mephisto.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000020623,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Nudity",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

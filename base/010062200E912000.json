@@ -4,5 +4,37 @@
     "name": "Narita Boy",
     "publisher": "Team17",
     "releaseDate": 20221007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Strategy",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Flashback to the 80s. The Creator, a genius of his time, creates a video game console called Narita One with its flagship title being a game called Narita Boy. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020832,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

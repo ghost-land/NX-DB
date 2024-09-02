@@ -4,5 +4,29 @@
     "name": "Sweet Witches",
     "publisher": "Drageus Games",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Party",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Put on your magic hat, the quest for candies has begun! Master powerful spells and tricks to be victorious, on your own or with friends.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000021446,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

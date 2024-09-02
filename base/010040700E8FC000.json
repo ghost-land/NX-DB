@@ -4,5 +4,32 @@
     "name": "Florence",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20220217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A story about love and life",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020822,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

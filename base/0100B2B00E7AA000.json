@@ -4,5 +4,28 @@
     "name": "Dusk Diver",
     "publisher": "PQube",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000020542,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

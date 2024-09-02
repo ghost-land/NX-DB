@@ -4,5 +4,31 @@
     "name": "Alien: Isolation",
     "publisher": "SEGA EUR",
     "releaseDate": 20220418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Survive heart-pounding horror as you’re relentlessly hunted through a desolate space station, in the immersive game rooted in Ridley Scott’s masterpiece.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000020818,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

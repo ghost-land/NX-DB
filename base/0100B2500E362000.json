@@ -4,5 +4,30 @@
     "name": "Conan Chop Chop",
     "publisher": "Funcom Oslo",
     "releaseDate": 20220301,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A party roguelite for 1-4 players, set in a delightfully savage world full of epic boss fights, perilous dungeons, and endless amounts of loot!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000020359,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
