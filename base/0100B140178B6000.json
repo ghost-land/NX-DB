@@ -4,5 +4,32 @@
     "name": "Risen",
     "publisher": "THQ Nordic",
     "releaseDate": 20230124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000050426,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
