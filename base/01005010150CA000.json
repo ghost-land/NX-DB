@@ -4,5 +4,26 @@
     "name": "Vagante",
     "publisher": "BlitWorks",
     "releaseDate": 20220127,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Vagante is an action roguelike platformer in a dark fantasy world filled with dangers. Face this challenging game cooperatively with friends both locally and online, or solo.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000041280,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

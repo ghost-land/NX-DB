@@ -4,5 +4,32 @@
     "name": "XEL",
     "publisher": "Assemble Entertainment",
     "releaseDate": 20220901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "XEL is a 3D action-adventure set in a sci-fi fantasy setting. Play as Reid, shipwrecked on the strange world of XEL. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041893,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

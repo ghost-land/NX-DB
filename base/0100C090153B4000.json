@@ -4,5 +4,28 @@
     "name": "Crunchyroll",
     "publisher": "Crunchyroll",
     "releaseDate": 20220217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Video"
+    ],
+    "developer": null,
+    "intro": "Enjoy a world of anime on Crunchyroll",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000042000,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Diverse Content:  Discretion Advised",
+        "In-App Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

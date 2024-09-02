@@ -4,5 +4,36 @@
     "name": "A Juggler's Tale",
     "publisher": "Assemble Entertainment",
     "releaseDate": 20210929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Lead Abby the string puppet through a grim fairy tale world, while you solve riddles, evade traps, and shake off pursuers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041410,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

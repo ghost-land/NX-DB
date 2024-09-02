@@ -4,5 +4,28 @@
     "name": "Bridge Builder Racer",
     "publisher": "Levi Buck",
     "releaseDate": 20220331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Racing",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Build your bridge to race to the finish line!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000041989,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

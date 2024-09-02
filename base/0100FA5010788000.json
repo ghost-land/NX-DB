@@ -4,5 +4,33 @@
     "name": "Game Builder Garage™",
     "publisher": "Nintendo",
     "releaseDate": 20210611,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Programming made fun with help from the minds at Nintendo\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041267,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

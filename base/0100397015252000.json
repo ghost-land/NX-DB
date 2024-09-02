@@ -4,5 +4,25 @@
     "name": "Astrodogs",
     "publisher": "Digital Tribe Games",
     "releaseDate": 20220408,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Astrodogs is an on-rails arcade action game featuring a cast of space dogs that have to save the galaxy of WOOFER, a company that controls everything. Also run by dogs.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000041592,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

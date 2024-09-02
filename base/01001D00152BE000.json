@@ -4,5 +4,29 @@
     "name": "Backbeat",
     "publisher": "Ichigoichie",
     "releaseDate": 20230316,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Training",
+        "Board Game",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "A mashup of puzzle and turn-based strategy games.\nGuide your band through isometric maps. \nExperience a homage to 1990s ensemble dramedies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000041705,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor"
+    ],
+    "region": null,
+    "rightsId": null
 }

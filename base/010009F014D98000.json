@@ -4,5 +4,28 @@
     "name": "Pokémon TV",
     "publisher": "The Pokémon Company International",
     "releaseDate": 20210826,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Video",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Watch Pokémon! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000041440,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

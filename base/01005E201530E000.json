@@ -4,5 +4,34 @@
     "name": "MONOBOT",
     "publisher": "AOE Plus",
     "releaseDate": 20211202,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Sci-fi action puzzle game.An atmospheric and futuristic world presented by concise art style.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000041835,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

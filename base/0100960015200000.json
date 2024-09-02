@@ -4,5 +4,33 @@
     "name": "Fallen Knight",
     "publisher": "DigiPen Game Stu",
     "releaseDate": 20221013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Platformer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Become a descendant of Lancelot, and fight punishing bosses to protect the truth you were sworn to guard. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000041506,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

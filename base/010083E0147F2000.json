@@ -4,5 +4,29 @@
     "name": "Urban Cards",
     "publisher": "Hues Games",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The Cutthroat capitalist deckbuilder where cash is king. Make money to stay alive, build businesses, hire workaholic employees, and collect cards to destroy the competition!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000041149,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

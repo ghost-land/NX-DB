@@ -4,5 +4,30 @@
     "name": "Root",
     "publisher": "Dire Wolf Digital",
     "releaseDate": 20211116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A digital board game of woodland warfare.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000041423,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

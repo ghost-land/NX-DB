@@ -4,5 +4,25 @@
     "name": "Shapeshooter",
     "publisher": "QUByte Interactive",
     "releaseDate": 20211118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "SHAPESHOOTER is literally an on-rail shooter, you'll have to clear colonies across 4 planets from a little creatures infestation called polygoneers.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000042059,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

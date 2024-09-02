@@ -4,5 +4,30 @@
     "name": "Monster Outbreak",
     "publisher": "Freedom Games",
     "releaseDate": 20240516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Gather resources, build defenses, and upgrade your arsenal to defend the kingdom against waves of dangerous monsters!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000041842,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

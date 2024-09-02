@@ -4,5 +4,35 @@
     "name": "Twitch",
     "publisher": "Twitch Interactive",
     "releaseDate": 20211111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Video",
+        "Communication",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Watch, Discover, Join In\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042064,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
