@@ -4,5 +4,29 @@
     "name": "Jelly Battle",
     "publisher": "Silesia Games",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A simple pet care sim with puzzle-style battles! Take care of your jelly – feed it, play with it, clean it, customize it, and guide it through battles with other jellies!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000071043,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor"
+    ],
+    "region": null,
+    "rightsId": null
 }

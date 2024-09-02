@@ -4,5 +4,29 @@
     "name": "WEJAM",
     "publisher": "Interaction Ideas",
     "releaseDate": 20240711,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Unleash your musical genius with WEJAM and make music with people from around the world in real-time. Its intuitive design allows anyone to create stunning grooves.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000070918,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

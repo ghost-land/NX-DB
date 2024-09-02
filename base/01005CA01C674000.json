@@ -4,5 +4,34 @@
     "name": "Zombie Raft",
     "publisher": "QubicGames",
     "releaseDate": 20231013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Conquer the barren wastelands and defend your raft from  zombies!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000071058,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

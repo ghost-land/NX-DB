@@ -4,5 +4,31 @@
     "name": "Seed of Life",
     "publisher": "GS2 Games",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Seed of Life is an epic adventure game about the persistence of life. Will you be the light that conquers the darkness?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000070867,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

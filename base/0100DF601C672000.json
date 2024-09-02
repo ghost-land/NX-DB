@@ -4,5 +4,35 @@
     "name": "Z Escape",
     "publisher": "QubicGames",
     "releaseDate": 20231013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "First-Person Shooter",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Get to the chopper! Pick up the machine gun and destroy all of the zombies to save your crew!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000071059,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

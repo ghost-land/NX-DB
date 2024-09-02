@@ -4,5 +4,24 @@
     "name": "Astro Miner",
     "publisher": "QubicGames",
     "releaseDate": 20231123,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Embark on a Colorful Journey Through the Galaxy! \nExplore new planets and mine various minerals using your vacuum gun!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000071070,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

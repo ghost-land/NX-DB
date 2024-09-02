@@ -4,5 +4,36 @@
     "name": "Zombie Defense",
     "publisher": "QubicGames",
     "releaseDate": 20231013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Reinforce the barricades, pick up a weapon and destroy the approaching wave of zombies!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000071063,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

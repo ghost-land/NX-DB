@@ -4,5 +4,29 @@
     "name": "Super Brawl Rush",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230915,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Fight your way between swarms of bloodthirsty thugs, mutants and cultists.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000070921,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

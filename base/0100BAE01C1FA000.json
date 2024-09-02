@@ -4,5 +4,31 @@
     "name": "Aquarium Land",
     "publisher": "QubicGames",
     "releaseDate": 20231006,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Multiplayer",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "Dive into an aquatic world where amazing animals await you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko"
+    ],
+    "nsuId": 70010000071045,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

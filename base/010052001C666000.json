@@ -4,5 +4,26 @@
     "name": "War Zone Soldier: Battle Royale Shooter",
     "publisher": "Megame",
     "releaseDate": 20231109,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Welcome to the action-packed battle royale shooter! Grab your weapons and try to be the last one standing, shooter!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000070627,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

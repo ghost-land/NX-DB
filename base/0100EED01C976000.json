@@ -4,5 +4,27 @@
     "name": "Toonsters : Crossing Worlds",
     "publisher": "YSO Corp",
     "releaseDate": 20231013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Training",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Travel the world and catch many creatures to build your team and become the biggest Toonsters collector!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "nsuId": 70010000071139,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

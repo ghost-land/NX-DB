@@ -4,5 +4,33 @@
     "name": "Master Key",
     "publisher": "Achromi",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Master Key is a top-down adventure game with a strong focus on item-based exploration and secrets. Embark on a journey to discover what that key could be used for!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070354,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
