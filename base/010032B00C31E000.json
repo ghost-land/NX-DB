@@ -4,5 +4,30 @@
     "name": "Super Hyperactive Ninja",
     "publisher": "JanduSoft",
     "releaseDate": 20181026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "If you run out of coffee, it's GAME OVER!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "zh"
+    ],
+    "nsuId": 70010000014021,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": "010032B00C31E0000000000000000005"
 }

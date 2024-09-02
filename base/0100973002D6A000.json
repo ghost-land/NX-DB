@@ -4,5 +4,30 @@
     "name": "Inside My Radio",
     "publisher": "Seaven Studio",
     "releaseDate": 20190111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Music",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Can you beat the beat? Inside My Radio is a rhythmic platform adventure where your every action needs to be right on the beat!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000014506,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": "0100973002D6A0000000000000000005"
 }

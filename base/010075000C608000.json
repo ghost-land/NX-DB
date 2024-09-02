@@ -4,5 +4,31 @@
     "name": "Red Faction Guerrilla Re-Mars-tered",
     "publisher": "PLAION",
     "releaseDate": 20190702,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "- Fully reworked textures and graphics\n- Improved lighting and shadow rendering\n- Shader & Postprocessing rework",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000014593,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Gaming experience may change online",
+        "Strong violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

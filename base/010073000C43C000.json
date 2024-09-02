@@ -4,5 +4,33 @@
     "name": "Starman",
     "publisher": "Nada Studio",
     "releaseDate": 20181214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Guide Starman through breathtaking architectural sceneries with delicate atmospheres and elaborate puzzles. Recover the light, and bring life back!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000014427,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010073000C43C0000000000000000005"
 }

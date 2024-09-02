@@ -4,5 +4,28 @@
     "name": "Warhammer Quest",
     "publisher": "Chilled Mouse",
     "releaseDate": 20190206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Level up your party of Warhammer heroes! Loot weapons, armour and mysterious artefacts. Crush Orcs, Goblins, Trolls!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000014362,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

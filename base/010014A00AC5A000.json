@@ -4,5 +4,26 @@
     "name": "The Golf",
     "publisher": "D3PUBLISHER",
     "releaseDate": 20190214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Party",
+        "Communication",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Get a nice shot using the buttons or the Joy-Con™!\nA fun and easy golf game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000013823,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

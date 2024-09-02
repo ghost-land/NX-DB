@@ -4,5 +4,33 @@
     "name": "Damsel",
     "publisher": "Screwtape Studios",
     "releaseDate": 20190807,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Bite Sized Gameplay\nClassic Arcade Vibe\nComic Book Campaign",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013821,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }
