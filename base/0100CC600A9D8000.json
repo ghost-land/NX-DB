@@ -4,5 +4,27 @@
     "name": "Rush Rover",
     "publisher": "indienova",
     "releaseDate": 20201119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "シューティング",
+        "アーケード",
+        "アドベンチャー"
+    ],
+    "developer": null,
+    "intro": "ローグライク弾幕シューティング。武器をピックアップし、機械的な戦いを生き延びる！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000009286,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
