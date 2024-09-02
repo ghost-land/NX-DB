@@ -4,5 +4,34 @@
     "name": "Horror Tale 2: Samantha",
     "publisher": "EpiXR Games",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Start a scary adventure and be the first to solve all the mysteries of this horror game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000064365,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

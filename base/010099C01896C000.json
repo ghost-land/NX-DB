@@ -4,5 +4,35 @@
     "name": "Gripper",
     "publisher": "Heart Core",
     "releaseDate": 20230329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Arcade",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Gripper is a story-driven action game with boss fights on wheels. Tear your enemies apart with a grappling hook. Rip out their metal hearts to gain abilities. Rescue your family.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064243,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

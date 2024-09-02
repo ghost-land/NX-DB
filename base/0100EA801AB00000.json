@@ -4,5 +4,27 @@
     "name": "Nubla",
     "publisher": "GammeraNest",
     "releaseDate": 20240912,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Adventure",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Enter the world of Nubla through the paintings of the Thyssen Museum.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000064428,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

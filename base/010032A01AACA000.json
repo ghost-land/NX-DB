@@ -4,5 +4,29 @@
     "name": "A Tale For Anna",
     "publisher": "Top Hat Studios",
     "releaseDate": 20230630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "This colorful fairytale A Tale for Anna will transport you to an enchanting, mysterious world full of puzzles, magical creatures, and secrets.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000064384,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

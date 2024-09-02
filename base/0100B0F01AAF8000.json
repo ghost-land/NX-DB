@@ -4,5 +4,25 @@
     "name": "Mighty Mage",
     "publisher": "Weakfish Studio",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Mighty Mage is a top-down arena shooter rogue-lite where you play a cute mage wielding up to 5 elemental spells at a time to fight off hordes of enemies. Choose from a variety of upgrades ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000064417,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,25 @@
     "name": "Alice Sisters",
     "publisher": "PixelHeart",
     "releaseDate": 20230622,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Help Alice and her sister save their mother!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000064075,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

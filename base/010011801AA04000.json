@@ -4,5 +4,31 @@
     "name": "Cyber Neon Bundle",
     "publisher": "QUByte Interactive",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Racing",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Step into the neon-soaked world of Cyber Vibes with Cyber Neon Bundle - where you'll hunt, slash and survive your way to victory in two adrenaline-fueled games!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000064111,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

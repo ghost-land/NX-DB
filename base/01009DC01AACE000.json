@@ -4,5 +4,33 @@
     "name": "Rubberduck Wave Racer",
     "publisher": "Joindots",
     "releaseDate": 20230518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Sports",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Be a duckling - a squeaky duckling!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064357,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
