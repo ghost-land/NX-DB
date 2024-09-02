@@ -4,5 +4,28 @@
     "name": "Raven's Hike",
     "publisher": "QUByte Interactive",
     "releaseDate": 20220428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Raven needs to reach the top of the tower to restore equilibrium and save the world from oblivion.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000051971,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

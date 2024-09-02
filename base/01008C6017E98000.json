@@ -4,5 +4,26 @@
     "name": "Bunny Reversi",
     "publisher": "DillyFrame",
     "releaseDate": 20220428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Play reversi as a Bunny!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000052296,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

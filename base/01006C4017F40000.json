@@ -4,5 +4,29 @@
     "name": "Eastern Exorcist",
     "publisher": "BILIBILI HK",
     "releaseDate": 20230608,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A 2D side-scrolling action RPG set in a fantasy eastern world. Play as a skilled exorcist against chaotic evil to fight your way through the brutal world full of joy and sorrow.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000052198,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

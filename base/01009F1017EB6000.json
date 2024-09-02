@@ -4,5 +4,24 @@
     "name": "Super Mike: Classic Adventure Game",
     "publisher": "T-Bull",
     "releaseDate": 20220505,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A 2D adventure platformer with various levels full of opponents! Jump and fight!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000051985,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

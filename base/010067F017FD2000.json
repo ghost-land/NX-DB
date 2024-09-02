@@ -4,5 +4,30 @@
     "name": "Vesper: Zero Light Edition",
     "publisher": "Cordens Interactive",
     "releaseDate": 20220512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Thousands of years after the activation of the Vesper Protocol, a small android crosses a fallen world, hunted by merciless machines, to control the power of Light.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000052359,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

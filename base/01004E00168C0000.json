@@ -4,5 +4,33 @@
     "name": "Dungeons of Dreadrock",
     "publisher": "ChristophMinnameier",
     "releaseDate": 20220512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Dungeons of Dreadrock is a puzzle adventure game in which you set out to save your little brother.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000052497,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

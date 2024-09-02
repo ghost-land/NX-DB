@@ -4,5 +4,35 @@
     "name": "30XX",
     "publisher": "Batterystaple",
     "releaseDate": 20230901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Classic action-platforming with fluid movement, endless replayability, and full co-op.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000052292,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

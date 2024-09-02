@@ -4,5 +4,30 @@
     "name": "Kovox Pitch",
     "publisher": "Redblack Spade",
     "releaseDate": 20230905,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Music",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Kovox Pitch is a 2.5D rhythm game with post-punk music and wholesome story",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000052235,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "They Always Run",
     "publisher": "Plug In Digital",
     "releaseDate": 20230529,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Become a three-armed mutant who hunts the most dangerous bounties in the galaxy",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000052269,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

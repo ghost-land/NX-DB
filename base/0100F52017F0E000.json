@@ -4,5 +4,30 @@
     "name": "Robo Revenge Squad",
     "publisher": "Mill Games",
     "releaseDate": 20220817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "For 1-4 players, locally or online!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000052115,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

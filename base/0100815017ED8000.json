@@ -4,5 +4,25 @@
     "name": "SHMUP MANIA",
     "publisher": "Isaias Game Dev",
     "releaseDate": 20221024,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Save the galaxy in this fun and exciting Shoot 'em Up game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000052031,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

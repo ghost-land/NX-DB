@@ -4,5 +4,33 @@
     "name": "Blackguards 2",
     "publisher": "Daedalic Entertainment",
     "releaseDate": 20220615,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Blackguards 2 is a turn-based strategy RPG featuring challenging hexfield battles and a gritty story filled with violence and crime.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000051895,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

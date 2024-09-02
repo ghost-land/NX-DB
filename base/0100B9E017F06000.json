@@ -4,5 +4,30 @@
     "name": "ABC Search With Me",
     "publisher": "Prison Games",
     "releaseDate": 20220415,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Puzzle",
+        "Study",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Get ready for a crazy adventure with our little friends to find the hidden puzzles scattered around the world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000052095,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,36 @@
     "name": "FRAG Pro Shooter",
     "publisher": "Oh BiBi",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Sports",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "STOP HIDING, START FRAGGING!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000052472,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

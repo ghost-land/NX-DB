@@ -4,5 +4,30 @@
     "name": "Accident",
     "publisher": "Duality Games",
     "releaseDate": 20220916,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Education",
+        "Training",
+        "Practical"
+    ],
+    "developer": null,
+    "intro": "Become a journalist who researches old car accident cases. Help victims and perform first aid, obtain evidence and reconstruct the events to discover what really happened.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000052479,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

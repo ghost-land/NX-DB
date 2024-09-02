@@ -4,5 +4,33 @@
     "name": "Aeterna Noctis",
     "publisher": "Aeternum Game Studios",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Become the King of Darkness in an epic journey through 16 connected areas.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000052217,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
