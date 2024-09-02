@@ -4,5 +4,34 @@
     "name": "Mutant Express",
     "publisher": "Happy Player",
     "releaseDate": 20240516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Platformer Game. Tell a story about friendship. Deliver mysterious express and save your best friend Kiki who is about to turn into a fox.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000080169,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

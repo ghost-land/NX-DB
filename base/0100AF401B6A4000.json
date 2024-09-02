@@ -4,5 +4,30 @@
     "name": "Bread & Fred",
     "publisher": "Apogee Entertainment",
     "releaseDate": 20240523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000079721,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

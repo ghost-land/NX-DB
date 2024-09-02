@@ -4,5 +4,35 @@
     "name": "Cave Digger 2",
     "publisher": "Mekiwi",
     "releaseDate": 20240620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Go on an enigmatic adventure in this 1-4 player game set in an alternative western world. Discoveries, dangers and digging await the Prospectors.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000079564,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Drugs",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

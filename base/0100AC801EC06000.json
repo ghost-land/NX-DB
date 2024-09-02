@@ -4,5 +4,22 @@
     "name": "I am Titan",
     "publisher": "Entity3",
     "releaseDate": 20240525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Strategy",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Destroy the city as a Titan",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000079884,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "Cryptrio",
     "publisher": "Chequered Ink",
     "releaseDate": 20240412,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A monstrous match three arcade game with a twist! Connect the shapes in the right places to clear monsters from the dungeon and beat the bosses.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000079815,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

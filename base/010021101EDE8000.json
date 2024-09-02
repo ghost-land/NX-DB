@@ -4,5 +4,28 @@
     "name": "Golf VS Zombies",
     "publisher": "Untold Tales",
     "releaseDate": 20240726,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Golf VS Zombies is an arcade golf simulator with RPG elements which combines golfing precision with action-packed combat against the undead. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000080288,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

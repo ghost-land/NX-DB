@@ -4,5 +4,33 @@
     "name": "Garten of Banban 4",
     "publisher": "Feardemic",
     "releaseDate": 20240620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Explore the abandoned underground levels of Banban's Kindergarten, and continue the search for your missing child. Can you find them before the facility's residents find you?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000079844,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

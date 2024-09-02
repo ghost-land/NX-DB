@@ -4,5 +4,28 @@
     "name": "Astrune Academy",
     "publisher": "KEMCO",
     "releaseDate": 20240613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A fantasy RPG of a tale of fighting magical girls!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000079789,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

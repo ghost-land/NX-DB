@@ -4,5 +4,35 @@
     "name": "Taboo Trial",
     "publisher": "Happy Player",
     "releaseDate": 20240704,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "3D Rogue-like action game. You are a Valkyrie, choosing blessings from the Nordic gods to build your unique combat style. Go to complete the Taboo Trial guided by Loki.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000079603,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Neckbreak",
     "publisher": "RedDeer.Games",
     "releaseDate": 20240705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Fighting",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Fight your way out in this dirty retro-styled tactical FPS.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000079929,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
