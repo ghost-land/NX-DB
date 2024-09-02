@@ -4,5 +4,30 @@
     "name": "YesterMorrow",
     "publisher": "Blowfish Studios",
     "releaseDate": 20201105,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "In this 2D platformer adventure, follow Yui's journey into the past as she navigates parallel timelines to save her family and a world trapped in the Never-ending Night.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000025853,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

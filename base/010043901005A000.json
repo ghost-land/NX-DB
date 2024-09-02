@@ -4,5 +4,24 @@
     "name": "Junk Jack",
     "publisher": "Pixbits",
     "releaseDate": 20200402,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Simulation",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Make the world truly yours in Junk Jack! A relaxing 2D sandbox where you can explore, build and survive in randomly generated procedural worlds, full of monsters and hidden treasures!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000025536,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

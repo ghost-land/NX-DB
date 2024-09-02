@@ -4,5 +4,32 @@
     "name": "Dex",
     "publisher": "QubicGames",
     "releaseDate": 20200724,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Plug into the cyberpunk world of Dex, a 2D action-RPG with non-linear gameplay. Explore, fight, talk and hack through a neo-noir adventure! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000026198,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Nudity"
+    ],
+    "region": null,
+    "rightsId": null
 }

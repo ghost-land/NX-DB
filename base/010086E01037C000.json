@@ -4,5 +4,28 @@
     "name": "BREAK DOT",
     "publisher": "Caerux",
     "releaseDate": 20200903,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Board Game",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "This is  a RETRO-FUTURE breakout game.\nAll shall be blocks in this world.\nCreate your own stage and show it to the whole world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000026310,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

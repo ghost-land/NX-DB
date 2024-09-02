@@ -4,5 +4,29 @@
     "name": "FoxyLand 2",
     "publisher": "Ratalaika Games",
     "releaseDate": 20200125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Help Foxy rescue his pups!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000025503,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

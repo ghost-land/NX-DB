@@ -4,5 +4,24 @@
     "name": "Ember",
     "publisher": "N-Fusion",
     "releaseDate": 20200122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Ember is a homage to classic role-playing games that features a deep branching story, endless exploration across a huge open world, a robust skill system, and an intricate crafting system.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000025190,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

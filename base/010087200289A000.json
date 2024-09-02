@@ -4,5 +4,34 @@
     "name": "Riverbond",
     "publisher": "Cococucumber",
     "releaseDate": 20191211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Riverbond is a fun and frantic couch co-op adventure game for 1 to 4 players set in a stunning voxel world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000025347,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

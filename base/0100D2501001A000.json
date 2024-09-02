@@ -4,5 +4,28 @@
     "name": "FoxyLand",
     "publisher": "Ratalaika Games",
     "releaseDate": 20191130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Help Foxy rescue his girlfriend Jennie!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000025489,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

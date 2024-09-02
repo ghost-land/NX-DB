@@ -4,5 +4,32 @@
     "name": "Bake ‘n Switch",
     "publisher": "Streamline Media Group",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Violently cute couch co-op and PVP party brawler for 2-4 players. Catch, merge, and sacrifice delicious Dough creatures before time runs out!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000026171,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Crude Humour"
+    ],
+    "region": null,
+    "rightsId": null
 }

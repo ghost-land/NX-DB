@@ -4,5 +4,30 @@
     "name": "Space Pioneer",
     "publisher": "QubicGames",
     "releaseDate": 20191206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The universe is a dangerous place – and you’re on cleaning duty. Explore the galaxy as an intergalactic bounty hunter. Lock and load!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000026274,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,24 @@
     "name": "Dogurai",
     "publisher": "QUByte Interactive",
     "releaseDate": 20200325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Dogurai is a retro-styled platformer with animal-like characters, graphics, and soundtrack designed with old portable games in mind - down to the limited color ranges and sprite sizes!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000025707,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

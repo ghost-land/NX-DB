@@ -4,5 +4,31 @@
     "name": "Streets of Rage 4",
     "publisher": "DotEmu",
     "releaseDate": 20200430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000026149,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }
