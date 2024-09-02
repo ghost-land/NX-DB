@@ -4,5 +4,31 @@
     "name": "Sea King",
     "publisher": "Interactive Stone",
     "releaseDate": 20190617,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Fast-paced naval combat party game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000016171,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

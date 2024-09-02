@@ -4,5 +4,31 @@
     "name": "Robothorium",
     "publisher": "Forever Entertainment",
     "releaseDate": 20190201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Cyberpunk Dungeon Crawler",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000015857,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null,
+    "rightsId": "0100ACF00CD2E0000000000000000007"
 }

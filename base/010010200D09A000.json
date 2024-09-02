@@ -4,5 +4,29 @@
     "name": "Iron Snout",
     "publisher": "Ratalaika Games",
     "releaseDate": 20190419,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "This little piggy ran into a pack of wolves and gave them the beating of a lifetime.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000016208,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,21 @@
     "name": "Awesome Pea",
     "publisher": "Sometimes You",
     "releaseDate": 20190302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Help the greedy Pea make his way through a string of levels filled with deadly traps and cute (but dangerous) enemies and collect all the coins he can reach!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000016107,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

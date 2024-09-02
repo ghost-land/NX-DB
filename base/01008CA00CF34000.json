@@ -4,5 +4,26 @@
     "name": "Skellboy",
     "publisher": "Fabraz",
     "releaseDate": 20200131,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Travel across Cubold and take full advantage of your resurrected, skeletal body by swapping out body parts and acquiring new abilities during your adventures!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "nsuId": 70010000016025,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

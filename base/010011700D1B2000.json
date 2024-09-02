@@ -4,5 +4,34 @@
     "name": "Perchang",
     "publisher": "Chilled Mouse",
     "releaseDate": 20190604,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Strategy",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Puzzles, balls, gizmos and contraptions\nGet the balls from emitter to goal\nSo simple, yet so tricky",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000016384,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

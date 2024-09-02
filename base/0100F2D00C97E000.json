@@ -4,5 +4,32 @@
     "name": "CMS",
     "publisher": "ECC GAMES",
     "releaseDate": 20190216,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Racing",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Become the best car mechanic!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000016457,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

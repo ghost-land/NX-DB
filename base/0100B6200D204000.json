@@ -4,5 +4,24 @@
     "name": "LOVE",
     "publisher": "Mokuzai Studio",
     "releaseDate": 20190215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Set your own checkpoints in this challenging platformer",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000016460,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

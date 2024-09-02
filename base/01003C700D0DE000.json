@@ -4,5 +4,30 @@
     "name": "Rain City",
     "publisher": "CottonGame",
     "releaseDate": 20190627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Rain City: a city where rain always pours. This puzzle game features warm, picture book-like graphics and a story with lifelike animals.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000016294,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

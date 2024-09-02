@@ -4,5 +4,29 @@
     "name": "Bash The Bear",
     "publisher": "FuryLion Group",
     "releaseDate": 20190115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Hedgehog commandos at the defense of the forest",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000015850,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010023300CD520000000000000000006"
 }

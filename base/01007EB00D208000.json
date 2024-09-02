@@ -4,5 +4,35 @@
     "name": "The Shrouded Isle",
     "publisher": "Kitfox Games",
     "releaseDate": 20190118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation",
+        "RPG",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Your Excellency, we prepare for the awakening of our Lord. He hungers for human sacrifice.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000016464,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01007EB00D2080000000000000000007"
 }

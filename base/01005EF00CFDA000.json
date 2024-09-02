@@ -4,5 +4,30 @@
     "name": "A Knight's Quest",
     "publisher": "Curve Digital",
     "releaseDate": 20191011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A gorgeous action adventure on an epic scale. Play as Rusty, a clumsy adventurer who accidentally sets about the end of the world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000016116,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

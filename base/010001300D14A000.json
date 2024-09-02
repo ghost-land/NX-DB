@@ -4,5 +4,34 @@
     "name": "Castle Crashers Remastered",
     "publisher": "The Behemoth",
     "releaseDate": 20190917,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Hack and slash your way to victory in this Remastered edition of the popular 2D arcade adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000016300,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Switch 'N' Shoot",
     "publisher": "Matthew Glanville",
     "releaseDate": 20190410,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Endless arcade action with just ONE button - Switch directions whenever you shoot!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000015965,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
