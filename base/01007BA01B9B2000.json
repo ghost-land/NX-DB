@@ -4,5 +4,35 @@
     "name": "Pummel Party",
     "publisher": "Rebuilt Games",
     "releaseDate": 20240509,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Action",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Pummel Party is a 4 player local 8 player online multiplayer party game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068064,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

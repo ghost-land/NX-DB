@@ -4,5 +4,35 @@
     "name": "Evil Wizard",
     "publisher": "E-Home",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000067667,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

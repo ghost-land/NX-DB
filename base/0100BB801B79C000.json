@@ -4,5 +4,33 @@
     "name": "Hauntii",
     "publisher": "Firestoke",
     "releaseDate": 20240523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "No ghost can truly die in Eternity, but all can be led astray. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067594,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

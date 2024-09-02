@@ -4,5 +4,27 @@
     "name": "Elsie",
     "publisher": "Playtonic Friends",
     "releaseDate": 20240910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Rogue-like action, platforming, countless weapons & abilities. Embrace the chaos.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000067924,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

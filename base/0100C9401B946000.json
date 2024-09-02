@@ -4,5 +4,31 @@
     "name": "Rusted Moss",
     "publisher": "PLAYISM",
     "releaseDate": 20240620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A metroidvania where you grapple around and blast your way through enemies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067936,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

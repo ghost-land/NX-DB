@@ -4,5 +4,24 @@
     "name": "Sqroma",
     "publisher": "Woum",
     "releaseDate": 20230612,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "In this colorful world, you're the only one that can gather them all. Each color you pick up allows you to pass through every object of that color, such as enemies, bullets, doors!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000067537,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "STAR WARS™: Battlefront Classic Collection",
     "publisher": "Aspyr",
     "releaseDate": 20240314,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Shooter",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Fight in iconic battles from across the STAR WARS™ galaxy",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000067943,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

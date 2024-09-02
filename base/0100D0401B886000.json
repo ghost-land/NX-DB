@@ -4,5 +4,25 @@
     "name": "Jello",
     "publisher": "Froggy Frog Games",
     "releaseDate": 20240718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Jump, slap, slide, swim and roll! \nSquish and stretch Jello in a tactile unusual way\nComplete the challenging levels and help restore the world",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000067770,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

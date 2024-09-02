@@ -4,5 +4,31 @@
     "name": "BlackJack Waifu Tour",
     "publisher": "Dolores Ent.",
     "releaseDate": 20230518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation",
+        "Puzzle",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Feel like in Las Vegas, gamble without spending money at our real blackjack!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000067794,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }
