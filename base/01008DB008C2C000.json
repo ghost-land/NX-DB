@@ -4,5 +4,33 @@
     "name": "Pokémon™ Shield",
     "publisher": "Nintendo",
     "releaseDate": 20191115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Get ready for the next Pokémon adventure in the Pokémon™ Sword and Pokémon™ Shield games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000004492,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Cartoon Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

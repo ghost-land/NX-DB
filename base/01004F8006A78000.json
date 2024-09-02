@@ -4,5 +4,35 @@
     "name": "Super Meat Boy",
     "publisher": "BlitWorks",
     "releaseDate": 20221027,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000001990,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Cartoon Violence",
+        "Crude Humor",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": "01004F8006A780000000000000000003"
 }

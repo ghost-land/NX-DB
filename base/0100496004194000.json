@@ -4,5 +4,30 @@
     "name": "The Mummy Demastered",
     "publisher": "WayForward",
     "releaseDate": 20220811,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Break Ahmanet's curse in this retro-inspired horror adventure! Exploration meets blast-'em-up action!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000002701,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": "01004960041940000000000000000003"
 }

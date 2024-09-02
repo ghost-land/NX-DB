@@ -4,5 +4,35 @@
     "name": "Ultimate Chicken Horse",
     "publisher": "Clever Endeavour Games",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Build-As-You-Play Party Platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000002401,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100FCF002A580000000000000000005"
 }

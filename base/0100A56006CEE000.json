@@ -4,5 +4,32 @@
     "name": "Pawarumi",
     "publisher": "Manufacture 43",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Rock-Paper-Scissors... with LASERS! Now at 60FPS!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000002298,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Hollow Knight",
     "publisher": "Team Cherry",
     "releaseDate": 20181129,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Forge your own path in Hollow Knight! An epic action adventure through a vast, ruined kingdom of insects and heroes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000003208,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": "0100633007D480000000000000000004"
 }

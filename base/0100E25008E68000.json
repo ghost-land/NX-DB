@@ -4,5 +4,33 @@
     "name": "My Time at Portia",
     "publisher": "Team17",
     "releaseDate": 20221007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Start a new life in the enchanting town of Portia!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000004651,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

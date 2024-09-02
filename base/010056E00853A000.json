@@ -4,5 +4,31 @@
     "name": "A Hat in Time",
     "publisher": "Humble Games",
     "releaseDate": 20230630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000003813,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

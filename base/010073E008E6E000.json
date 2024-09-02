@@ -4,5 +4,31 @@
     "name": "Mugsters",
     "publisher": "Team17",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Aliens have taken over the planet and enslaved humanity. Only you have the know-how to drive back the dastardly threat, free your fellow Earthlings and SAVE THE WORLD.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000004654,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010073E008E6E0000000000000000004"
 }

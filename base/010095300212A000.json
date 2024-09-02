@@ -4,5 +4,33 @@
     "name": "Resident Evil Revelations 2",
     "publisher": "CAPCOM",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Evil is watching",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000001515,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "010095300212A0000000000000000003"
 }

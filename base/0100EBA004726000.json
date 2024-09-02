@@ -4,5 +4,35 @@
     "name": "Huntdown",
     "publisher": "Coffee Stain",
     "releaseDate": 20200512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Crime doesn’t pay – Unless you’re a bounty hunter",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000001487,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

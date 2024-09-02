@@ -4,5 +4,30 @@
     "name": "Lifeless Planet: Premiere Edition",
     "publisher": "Serenity Forge",
     "releaseDate": 20230911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An astronaut discovers an abandoned Soviet town on another planet...",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000003437,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01005B60081320000000000000000005"
 }

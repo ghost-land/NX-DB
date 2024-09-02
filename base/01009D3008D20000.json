@@ -4,5 +4,32 @@
     "name": "Furi",
     "publisher": "The Game Bakers",
     "releaseDate": 20220406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "\"You were captured. Look what they’ve done to you… \nThe jailer is the key, kill him and you’ll be free.\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000004582,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01009D3008D200000000000000000003"
 }
