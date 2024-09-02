@@ -4,5 +4,30 @@
     "name": "Song of Memories",
     "publisher": "Future Tech Lab",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "A story of love and crisis. A dramatic visual novel where your choices determine the ending of the story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044990,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Partial Nudity",
+        "Sexual Content"
+    ],
+    "region": null,
+    "rightsId": null
 }

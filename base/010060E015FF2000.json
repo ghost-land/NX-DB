@@ -4,5 +4,33 @@
     "name": "The Company Man",
     "publisher": "Leoful",
     "releaseDate": 20220121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Climb the corporate ladder and overthrow your boss!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045017,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "H.I.C.H.",
     "publisher": "Limkernel",
     "releaseDate": 20211118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Racing",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Online action game! Show and prove your skills in PvP shootouts, PvE missions, online drift and street races among other players-rebels and earn respect among them!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000045153,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

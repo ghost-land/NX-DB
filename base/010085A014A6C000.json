@@ -4,5 +4,31 @@
     "name": "Ocean's Heart",
     "publisher": "Nordcurrent",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Ocean’s Heart is an epic top-down action RPG in which you explore a beautiful archipelago as a young woman named Tilia. All done in beautiful, bright pixel art.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000045102,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

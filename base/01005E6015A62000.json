@@ -4,5 +4,29 @@
     "name": "Mindcell",
     "publisher": "VenomizedArt",
     "releaseDate": 20240214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Third-person shooter in a cyberpunk world",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000044826,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

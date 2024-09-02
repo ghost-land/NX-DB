@@ -4,5 +4,30 @@
     "name": "RiffTrax: The Game",
     "publisher": "Wide Right Interactive",
     "releaseDate": 20220505,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Video",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "RiffTrax: The Game is a multiplayer party game where players compete to make bad movies funny!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000044881,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Drug Reference",
+        "Language",
+        "Mild Blood",
+        "Mild Violence",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

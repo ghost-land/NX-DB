@@ -4,5 +4,35 @@
     "name": "Storyteller",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A puzzle game about building stories.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044948,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

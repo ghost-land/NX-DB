@@ -4,5 +4,32 @@
     "name": "Death Park",
     "publisher": "EpiXR Games",
     "releaseDate": 20220210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Try to escape from the deadly claws of a killer clown in this scary horror game! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000044758,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

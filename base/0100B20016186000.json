@@ -4,5 +4,27 @@
     "name": "Oaken",
     "publisher": "Goblinz Studio",
     "releaseDate": 20230720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Oaken is a turn-based tactical roguelike set in the spirit inhabited world. Wake the spirits and save the Oak!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000045406,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

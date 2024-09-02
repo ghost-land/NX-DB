@@ -4,5 +4,37 @@
     "name": "No Man's Sky",
     "publisher": "Hello Games",
     "releaseDate": 20221007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044642,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

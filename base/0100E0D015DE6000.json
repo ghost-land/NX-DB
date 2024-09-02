@@ -4,5 +4,32 @@
     "name": "Sockventure",
     "publisher": "Versus Evil",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044503,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

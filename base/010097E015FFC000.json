@@ -4,5 +4,34 @@
     "name": "Happy's Humble Burger Farm",
     "publisher": "tinyBuild Games",
     "releaseDate": 20220407,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Happy’s Humble Burger Farm is a first person adventure horror cooking game. Discover the dark secrets of the Happy’s Humble franchise by exploring New Elysian City. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045023,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

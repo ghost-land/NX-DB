@@ -4,5 +4,31 @@
     "name": "Creepy Tale 2",
     "publisher": "No Gravity Games",
     "releaseDate": 20220310,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Experience the creepy tension of a Brothers Grimm fairy tale in this puzzle adventure game. Follow the young and brave Lars as he embarks on a dangerous journey to save his sister!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045449,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
