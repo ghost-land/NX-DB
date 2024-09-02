@@ -4,5 +4,31 @@
     "name": "BPM: Bullets Per Minute",
     "publisher": "Playtonic Friends",
     "releaseDate": 20220908,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Fight as a mighty Valkyrie to repel the forces of the underworld from invading the world of Asgard.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000048667,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

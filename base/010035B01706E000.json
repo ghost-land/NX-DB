@@ -4,5 +4,27 @@
     "name": "Cold Silence",
     "publisher": "TERNOX",
     "releaseDate": 20211226,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "This is minimalistic horror platformer about survival at snowy mountains. Follow the mysterious voice from the radio, fight your fears and reveal the truth!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "ru"
+    ],
+    "nsuId": 70010000048812,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

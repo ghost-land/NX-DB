@@ -4,5 +4,25 @@
     "name": "Animal Revolt Battle Simulator",
     "publisher": "VDimension",
     "releaseDate": 20220120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Fighting",
+        "Strategy",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "The ultimate physics-based, sandbox battle simulator where you can create funny battles between all sorts of ragdoll creatures! You can also make your own monsters with the unit creator!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000049055,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

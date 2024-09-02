@@ -4,5 +4,31 @@
     "name": "Cosmos Bit",
     "publisher": "Ratalaika Games",
     "releaseDate": 20220311,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Discover an 8-bit world full of mystery, monsters, and challenges",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000049155,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

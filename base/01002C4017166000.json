@@ -4,5 +4,37 @@
     "name": "Despot's Game",
     "publisher": "tinyBuild Games",
     "releaseDate": 20230512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Roguelike, auto-battler, deep progression, gratuitous violence, pretzels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049020,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

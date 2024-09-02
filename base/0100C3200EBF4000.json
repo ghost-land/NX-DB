@@ -4,5 +4,27 @@
     "name": "CyberCorp",
     "publisher": "Megame",
     "releaseDate": 20250130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Solo and cooperative Loot Shooter in a cyberpunk world.\nGangs. Overpopulation. Blood.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000049074,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

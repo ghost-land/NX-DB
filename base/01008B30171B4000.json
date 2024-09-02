@@ -4,5 +4,32 @@
     "name": "BigChick",
     "publisher": "Maxim Nuriev",
     "releaseDate": 20220217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "BigChick is a family-friendly action-puzzle game where you make paths and escort nestlings.\nBe the Chicken Moses! Let your chickens go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049082,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,37 @@
     "name": "Sky Games",
     "publisher": "Prison Games",
     "releaseDate": 20211227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "An intergalactic party where only the chosen blobs will fit. Will there be space for you?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048539,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

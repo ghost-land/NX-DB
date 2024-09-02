@@ -4,5 +4,24 @@
     "name": "Dungeons of Shalnor",
     "publisher": "Johnny Ostad",
     "releaseDate": 20220121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "Puzzle",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A tactical Turn-based Roguelike game. Featuring a “Turn the Camera” mechanic that leads to expected and unexpected outcomes.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000048903,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

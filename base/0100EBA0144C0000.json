@@ -4,5 +4,30 @@
     "name": "World of One",
     "publisher": "Grimwood Team",
     "releaseDate": 20220408,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You are about to get on a journey around small planet-like worlds as if you were in the Little Prince's world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000049078,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

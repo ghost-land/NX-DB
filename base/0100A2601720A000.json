@@ -4,5 +4,33 @@
     "name": "Gas Station Simulator",
     "publisher": "MD GAMES",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Buy an abandoned gas station and restore it to its full glory. Renovate, upgrade and expand upon the offered services to keep up with your clients demands.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000049169,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
