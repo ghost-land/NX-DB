@@ -4,5 +4,30 @@
     "name": "Freaky Trip",
     "publisher": "RedDeer.Games",
     "releaseDate": 20231006,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Go through untypically typical places and solve totally absurd riddles on your rescue mission.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000071383,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

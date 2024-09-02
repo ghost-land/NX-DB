@@ -4,5 +4,22 @@
     "name": "The Jelly Adventure",
     "publisher": "PublishMe",
     "releaseDate": 20230924,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Simulation",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Dive into the bounciest, squishiest adventure today and discover the magic of The Jelly Adventure!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000071500,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Tenement",
     "publisher": "Tynepunk",
     "releaseDate": 20240211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A frantic 2D arena shooter against up to 40 bots. Play Free-For-All or Mission Mode. Unlock guns, perks and characters. Call in helicopters, airstrikes and nukes!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000071786,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

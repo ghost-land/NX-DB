@@ -4,5 +4,27 @@
     "name": "Colored Effects",
     "publisher": "Flynns Arcade",
     "releaseDate": 20231123,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Colored Effects is a puzzle platformer game where you use different colored abilities to advance. Switch between the colors to collect gems, defeat bosses, and solve fun puzzles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000071279,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

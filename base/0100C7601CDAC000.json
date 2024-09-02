@@ -4,5 +4,29 @@
     "name": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
     "publisher": "Game Mill",
     "releaseDate": 20240423,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Defeat the Mutants and Save New York",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000071814,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

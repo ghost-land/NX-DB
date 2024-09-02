@@ -4,5 +4,34 @@
     "name": "Just Crow Things",
     "publisher": "Unbound Creations",
     "releaseDate": 20240815,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "You're a little crow trying to prove herself to the world. Make new animal friends, poop on unsuspecting hoomans, and steal all the shiny trinkets! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000071826,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

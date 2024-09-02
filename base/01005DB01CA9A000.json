@@ -4,5 +4,30 @@
     "name": "ASTROSMASH",
     "publisher": "BBG Entertainment",
     "releaseDate": 20231012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "ASTROSMASH® was originally designed for the Intellivision® console in 1981. This reincarnation is much more exciting and more visually appealing.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000071247,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

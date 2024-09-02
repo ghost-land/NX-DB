@@ -4,5 +4,31 @@
     "name": "Project Downfall",
     "publisher": "RedDeer.Games",
     "releaseDate": 20240202,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Fighting",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Fight your way out in this dirty retro-styled tactical FPS.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "ru"
+    ],
+    "nsuId": 70010000071795,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "What The Duck",
     "publisher": "Untold Tales",
     "releaseDate": 20231109,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An action-adventure RPG with exploration, crafting, combat, and spirit animals",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000071816,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }
