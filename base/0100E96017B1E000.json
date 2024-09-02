@@ -4,5 +4,31 @@
     "name": "A Musical Story",
     "publisher": "eastasiasoft",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "音樂",
+        "冒險",
+        "動作"
+    ],
+    "developer": null,
+    "intro": "在這款獨特的節奏遊戲中，重新感受 70 年代的魅力！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051047,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

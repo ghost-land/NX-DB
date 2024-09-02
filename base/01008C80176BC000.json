@@ -4,5 +4,30 @@
     "name": "Ice Cream Surfer",
     "publisher": "eastasiasoft",
     "releaseDate": 20220623,
-    "version": 0
+    "version": 0,
+    "category": [
+        "射擊",
+        "動作",
+        "街機"
+    ],
+    "developer": null,
+    "intro": "幫助 Ice Cream Surfer 和他的甜甜朋友們打敗 \nBroccoli 的邪惡蔬菜軍團！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000049812,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

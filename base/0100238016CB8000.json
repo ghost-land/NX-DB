@@ -4,5 +4,25 @@
     "name": "Mindcell",
     "publisher": "RAINYFROG",
     "releaseDate": 20220120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "射擊",
+        "動作",
+        "冒險",
+        "街機"
+    ],
+    "developer": null,
+    "intro": "這是一款激烈的第三人稱射擊遊戲。在這個賽博龐克的世界裡，你必須逃出實驗室，否則將成為人體試驗的犧牲品。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000048062,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
