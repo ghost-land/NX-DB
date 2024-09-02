@@ -4,5 +4,27 @@
     "name": "BLEED: Arcade Arena Shooter",
     "publisher": "Megame",
     "releaseDate": 20230718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Fighting",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Dynamic top down arena shooter will drag you into the universe of eternal battle for the title of Grand Arena Champion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000057790,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

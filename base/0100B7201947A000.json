@@ -4,5 +4,23 @@
     "name": "Backgammon: Board Game Puzzle",
     "publisher": "Megame",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Backgammon is the ancient board game known all over the world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000058039,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Papertris",
     "publisher": "Flynns Arcade",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Party",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Papertris is a fast-paced, excitingly designed arcade puzzle game that combines classic gameplay with fresh new features. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000058034,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

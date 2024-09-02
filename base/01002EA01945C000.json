@@ -4,5 +4,30 @@
     "name": "AAA Clock 2",
     "publisher": "RedDeer.Games",
     "releaseDate": 20221103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Utility",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "In a world where most clocks are either boring or colorless, AAA Clock 2 is going to change everything. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000058003,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
