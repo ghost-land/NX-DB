@@ -4,5 +4,27 @@
     "name": "Devastator",
     "publisher": "eastasiasoft",
     "releaseDate": 20220721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "射擊",
+        "動作",
+        "街機"
+    ],
+    "developer": null,
+    "intro": "在受經典街機風格啟發的雙搖桿射擊戰鬥中將病毒通通根除！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000040499,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
