@@ -4,5 +4,28 @@
     "name": "Bat Boy",
     "publisher": "X PLUS",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Save your friends from the clutches of the evil Lord Vicious and stop the Trials of Darkness!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000053682,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

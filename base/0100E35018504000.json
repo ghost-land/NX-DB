@@ -4,5 +4,31 @@
     "name": "Kid Ball Adventure",
     "publisher": "eastasiasoft",
     "releaseDate": 20220824,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Bounce your way through 100 rooms packed with perilous traps and devious enemies on a quest to save your lost love!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000053802,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

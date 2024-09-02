@@ -4,5 +4,34 @@
     "name": "Super Hero Flying School",
     "publisher": "BoomHits",
     "releaseDate": 20220623,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Simulation",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Fly as far as you can, and train your heroes in the “Super Hero Flying School”",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053659,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

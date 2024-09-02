@@ -4,5 +4,31 @@
     "name": "Vernal Edge",
     "publisher": "Plug In Digital",
     "releaseDate": 20230703,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Explore the Kingdom of Haricot in this pixel art Metroidvania.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053453,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

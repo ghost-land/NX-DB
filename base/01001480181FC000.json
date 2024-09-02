@@ -4,5 +4,25 @@
     "name": "Soulsland",
     "publisher": "Nerd Games",
     "releaseDate": 20220910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Destroy Lord Zaiden's army and save captured souls in this medieval RPG which is set in a fictional place called Soulsland",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000053367,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

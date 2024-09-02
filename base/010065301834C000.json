@@ -4,5 +4,35 @@
     "name": "Into The Dark",
     "publisher": "Esenthel",
     "releaseDate": 20220903,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Fighting",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Action-Oriented Dungeon Crawler RPG",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000053468,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

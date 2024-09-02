@@ -4,5 +4,34 @@
     "name": "Maquette",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Solve imaginative puzzles while navigating memories hidden inside nested worlds",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053704,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Lyrics"
+    ],
+    "region": null,
+    "rightsId": null
 }

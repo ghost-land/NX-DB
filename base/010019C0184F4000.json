@@ -4,5 +4,30 @@
     "name": "Guntech 2",
     "publisher": "Utopos",
     "releaseDate": 20230102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "It's the return of the good old “cave flyer” shoot ’em ups genre! Retro-style twin-stick shooter with amazing graphics, smooth gameplay. Couch co-op for 4 players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000053771,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

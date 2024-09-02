@@ -4,5 +4,34 @@
     "name": "Itorah",
     "publisher": "Assemble Entertainment",
     "releaseDate": 20230421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Guide Itorah through a fantastic world inhabited by strange masked beings. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053661,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

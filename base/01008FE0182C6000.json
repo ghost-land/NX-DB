@@ -4,5 +4,28 @@
     "name": "Regular Factory: Escape Room",
     "publisher": "mc2games",
     "releaseDate": 20220518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You don't work in a regular assembly line. In this escape room, you will investigate what is really being manufactured in a secret factory. Will you discover the truth?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000053546,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

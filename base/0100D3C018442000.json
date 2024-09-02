@@ -4,5 +4,35 @@
     "name": "Bike Jump",
     "publisher": "BoomHits",
     "releaseDate": 20220614,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Sports",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Become a crazy bike stunt driver! How far can you jump?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053657,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "HEROish",
     "publisher": "Sunblink",
     "releaseDate": 20230102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Play as one of six epic heroes, summon troops, sling spells, and destroy enemy towers to achieve victory in this exciting head-to-head castle defense game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053318,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
