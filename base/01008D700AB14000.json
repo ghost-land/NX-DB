@@ -4,5 +4,30 @@
     "name": "The Bug Butcher",
     "publisher": "2Awesome Studio",
     "releaseDate": 20181109,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A fast paced action shooter inspired by the arcade classic Super Pang! Use a wide selection of weapons and powerups to tear through increasingly challenging levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000009623,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Crude Humour"
+    ],
+    "region": null,
+    "rightsId": "01008D700AB140000000000000000005"
 }

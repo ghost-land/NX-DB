@@ -4,5 +4,28 @@
     "name": "Inferno 2",
     "publisher": "2Awesome Studio",
     "releaseDate": 20190919,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "RPG",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "The ultimate twin-stick action-RPG/shooter is here! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000009621,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

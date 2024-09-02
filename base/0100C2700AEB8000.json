@@ -4,5 +4,35 @@
     "name": "Jenny LeClue - Detectivu",
     "publisher": "Mografi",
     "releaseDate": 20200826,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "An adventure game focused on exploration, story, and character. Tiny detective, big mystery!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000010181,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Shadow Fight 2",
     "publisher": "Nekki",
     "releaseDate": 20180913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Prepare to fight with shadows!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000009898,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100AB000ABFE0000000000000000005"
 }

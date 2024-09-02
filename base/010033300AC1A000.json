@@ -4,5 +4,28 @@
     "name": "The Mooseman",
     "publisher": "Sometimes You",
     "releaseDate": 20180718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "You are the Mooseman and you have the ability to see all that is hidden to the mortal eye. You are about to visit three layers of this universe - the first one is the Lower World where the spirits of the dead reside.\n\nWelcome to the mysterious world of ancient myth, based on finno-ugric culture of bygone pagan times.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000009765,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010033300AC1A0000000000000000004"
 }

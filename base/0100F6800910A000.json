@@ -4,5 +4,29 @@
     "name": "Hover",
     "publisher": "Plug In Digital",
     "releaseDate": 20180920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Single and multiplayer Parkour game!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000010304,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100F6800910A0000000000000000004"
 }
