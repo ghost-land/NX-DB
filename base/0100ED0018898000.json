@@ -4,5 +4,35 @@
     "name": "Slave Zero X",
     "publisher": "Ziggurat",
     "releaseDate": 20240411,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hack and slash your way through a dystopian future to kill a man-made god.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054730,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

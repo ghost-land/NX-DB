@@ -4,5 +4,33 @@
     "name": "The Pinball Wizard",
     "publisher": "Frosty Pop",
     "releaseDate": 20221027,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Ascend the castle tower. Level up your skills. Fulfill your destiny. Become the wizard you were born to be!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000055158,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

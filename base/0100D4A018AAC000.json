@@ -4,5 +4,30 @@
     "name": "LUNARK",
     "publisher": "WayForward",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Join the revolution in this cinematic sci-fi platformer",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000055294,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

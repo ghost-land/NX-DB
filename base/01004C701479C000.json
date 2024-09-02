@@ -4,5 +4,34 @@
     "name": "The Darkest Tales",
     "publisher": "101XP",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "When a nightmare creeps into reality, the only ones that can help are those whose magical powers we’ve believed in since childhood.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000055299,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

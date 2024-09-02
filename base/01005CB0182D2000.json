@@ -4,5 +4,32 @@
     "name": "Nadir: A Grimdark Deck Builder",
     "publisher": "Crunching Koalas",
     "releaseDate": 20230207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A grimdark deck-building roguelike adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000055195,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Partial Nudity"
+    ],
+    "region": null,
+    "rightsId": null
 }

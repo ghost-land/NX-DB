@@ -4,5 +4,32 @@
     "name": "DARK MINUTE: Kira's Adventure",
     "publisher": "Feardemic",
     "releaseDate": 20220630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Platform your way through a shadowy dungeon, grab the cells to unlock the exit, rush out before the clock hits 1 minute and the lights go out. Welcome to the darkest minute of your life!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000054616,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

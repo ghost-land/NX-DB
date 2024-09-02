@@ -4,5 +4,30 @@
     "name": "Mars Base",
     "publisher": "Freedom Games",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Welcome to Mars Base, humanity’s foothold on the Red Planet! Join the expedition as an interstellar botanist and make history.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000054853,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

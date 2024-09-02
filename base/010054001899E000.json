@@ -4,5 +4,33 @@
     "name": "Potion Craft: Alchemist Simulator",
     "publisher": "tinyBuild Games",
     "releaseDate": 20231212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "An alchemist simulator where you brew potions using tools and ingredients.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000054960,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Violent References"
+    ],
+    "region": null,
+    "rightsId": null
 }

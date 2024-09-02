@@ -4,5 +4,32 @@
     "name": "Funtasia",
     "publisher": "Freedom Games",
     "releaseDate": 20220929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Push pedal to metal, drive fast, and survive the Furry Road in this physics-based, side-scrolling racing game for single and co-op shenanigans!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000054703,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

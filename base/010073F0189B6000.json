@@ -4,5 +4,33 @@
     "name": "Fae Farm",
     "publisher": "Phoenix Labs",
     "releaseDate": 20230908,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Your magical home awaits!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054980,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

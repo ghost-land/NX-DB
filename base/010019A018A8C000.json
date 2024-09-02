@@ -4,5 +4,27 @@
     "name": "Re.Surs",
     "publisher": "Samustai",
     "releaseDate": 20231012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Re.Surs is a futuristic story-driven 2D side-scrolling shooter featuring unique heroes with various abilities",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000055268,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
