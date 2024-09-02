@@ -4,5 +4,26 @@
     "name": "Mystic Gate",
     "publisher": "ZOO Corporation",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Adventurers must challenge the \"trials\" that await them beyond the gate in order to make their wishes come true.\nA roguelike dungeon exploration shooting game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063330,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

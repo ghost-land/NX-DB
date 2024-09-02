@@ -4,5 +4,26 @@
     "name": "Swords & Bones 2",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Jump into the story of Beatrice. Help this sword maiden avoid deadly traps, and save her realm.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "it"
+    ],
+    "nsuId": 70010000063243,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

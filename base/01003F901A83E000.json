@@ -4,5 +4,34 @@
     "name": "PlateUp!",
     "publisher": "Yogscast Games",
     "releaseDate": 20240215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "PlateUp! combines chaotic kitchen and restaurant management with strategic planning and development to create a delightful roguelite dish unlike any other.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063645,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

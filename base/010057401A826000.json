@@ -4,5 +4,30 @@
     "name": "Bio Prototype",
     "publisher": "BD Games",
     "releaseDate": 20230518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A wave of irrational experimentation rushes towards you. Hurry up and mutate! evolution! Become scarier monsters than them! Use flesh and blood to bloom a way of survival",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063602,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

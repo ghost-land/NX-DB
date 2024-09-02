@@ -4,5 +4,25 @@
     "name": "Catgotchi: Virtual Pet",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230407,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Simulation",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Welcome to Catgotchi: Virtual Pet, the ultimate game for all cat lovers! Raise and care for your virtual pet. These adorable pixel-art cats are sure to steal your heart!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000063745,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Tintin Reporter - Cigars of the Pharaoh",
     "publisher": "Microids",
     "releaseDate": 20241017,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Follow Tintin & Snowy in one of their most famous adventures.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063867,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

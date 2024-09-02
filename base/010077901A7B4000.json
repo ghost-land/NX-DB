@@ -4,5 +4,25 @@
     "name": "Hunahpu Quest. Mechanoid",
     "publisher": "Valkyrie Initiative",
     "releaseDate": 20230223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The Mechanoid has stolen Hunahpu's brother, can you beat The Mechanoid and return your brother?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000063401,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

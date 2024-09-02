@@ -4,5 +4,25 @@
     "name": "FUR Squadron",
     "publisher": "Raptor Claw",
     "releaseDate": 20230317,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "An arcade space shooter which follows the adventure of a team of elite pilots during what seems at first a routine training in virtual reality.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000063647,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

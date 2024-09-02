@@ -4,5 +4,33 @@
     "name": "Volgarr the Viking II",
     "publisher": "Digital Eclipse",
     "releaseDate": 20240806,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A hardcore, 2D action-platformer where only precision can keep you from death.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063815,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

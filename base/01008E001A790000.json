@@ -4,5 +4,33 @@
     "name": "Right and Down",
     "publisher": "mc2games",
     "releaseDate": 20230124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A deep roguelike and card game that is played using only two buttons: Right and Down! Choose your hero and explore randomly generated card dungeons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000063332,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

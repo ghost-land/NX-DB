@@ -4,5 +4,34 @@
     "name": "The Legend of Zelda™: Tears of the Kingdom",
     "publisher": "Nintendo",
     "releaseDate": 20230512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063714,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

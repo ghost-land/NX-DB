@@ -4,5 +4,24 @@
     "name": "EcoMahjong",
     "publisher": "JetDogs",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "The classic Mahjong game with a thrilling story!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000063740,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Deflector",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Shooter",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Annihilate or get annihilated. Face the virus and don’t let it take control over the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000063529,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

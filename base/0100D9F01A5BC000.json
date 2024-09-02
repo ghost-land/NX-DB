@@ -4,5 +4,24 @@
     "name": "Yello Adventures",
     "publisher": "Weakfish Studio",
     "releaseDate": 20230421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000063443,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

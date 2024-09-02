@@ -4,5 +4,31 @@
     "name": "Arcane Vale",
     "publisher": "Dynamic Zero",
     "releaseDate": 20230331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Arcane Vale is an action packed open-world RPG. Embark on an adventure to discover a long-lost treasure in a vast and dangerous world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000063509,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

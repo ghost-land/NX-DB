@@ -4,5 +4,28 @@
     "name": "Arcadia: Colony",
     "publisher": "KibeSoftwareHouse",
     "releaseDate": 20240516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Embark on an epic action adventure through the Colony and battle behemothic bird puppets. Play as three plucky heroes with their own unique powers, all in a 2.5D anime art style.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000063702,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Metroid Prime™ Remastered",
     "publisher": "Nintendo",
     "releaseDate": 20230208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "First-Person Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Get behind the visor of intergalactic bounty hunter Samus Aran in her critically-acclaimed first-person adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000063709,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
