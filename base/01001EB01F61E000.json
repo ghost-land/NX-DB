@@ -4,5 +4,34 @@
     "name": "Underground Station",
     "publisher": "Guris",
     "releaseDate": 20240824,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "An adventure into the mysterious world of the underground Labour Office begins.\nHere, money decides everything.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000082113,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

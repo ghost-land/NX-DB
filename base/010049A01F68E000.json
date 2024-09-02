@@ -4,5 +4,24 @@
     "name": "Billy's Game Show",
     "publisher": "Sometimes You",
     "releaseDate": 20240904,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Stealth horror game in which you will face a dangerous enemy.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000082248,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

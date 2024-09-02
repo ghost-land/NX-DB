@@ -4,5 +4,34 @@
     "name": "Iron Meat",
     "publisher": "Screenwave Media",
     "releaseDate": 20240926,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Grab a friend and defend Earth against The Meat!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000082039,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

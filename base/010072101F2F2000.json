@@ -4,5 +4,30 @@
     "name": "Puzzle Playground",
     "publisher": "Asylum Square Interactive",
     "releaseDate": 20240714,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Adventure Awaits in Every Puzzle!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000081392,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

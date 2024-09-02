@@ -4,5 +4,35 @@
     "name": "Bumper Kitty",
     "publisher": "Max Interactive Studio",
     "releaseDate": 20240614,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Racing",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Bumper kart \nGO GO GO!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000082259,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null,
+    "rightsId": null
 }

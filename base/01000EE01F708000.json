@@ -4,5 +4,30 @@
     "name": "Flying Tank",
     "publisher": "Hexage",
     "releaseDate": 20240627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Blast aliens to smithereens!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000082381,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

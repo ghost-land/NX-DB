@@ -4,5 +4,31 @@
     "name": "Zombie Derby",
     "publisher": "Brinemedia",
     "releaseDate": 20240606,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Do you have the drive to survive? Take control of your car to see how far you can get and how many zombies you can kill – and if you can actually escape with your brains intact.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000081460,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
