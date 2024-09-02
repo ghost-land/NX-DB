@@ -4,5 +4,24 @@
     "name": "Adventures of Pip",
     "publisher": "TicToc Games",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Join Pip - a lowly single pixel in a 32-bit world - on an adventure that proves that you can’t judge a hero by the fidelity of his shaders.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000030904,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

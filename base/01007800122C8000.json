@@ -4,5 +4,31 @@
     "name": "Flipon",
     "publisher": "TyGAMES",
     "releaseDate": 20201009,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Flipon is a juicy and fun arcade puzzle game full of surprises!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000031733,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

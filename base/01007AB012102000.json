@@ -4,5 +4,32 @@
     "name": "Arrog",
     "publisher": "indienova",
     "releaseDate": 20210122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in a bizarre black-and-white world with color accents.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031134,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

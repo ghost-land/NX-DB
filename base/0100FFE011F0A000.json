@@ -4,5 +4,26 @@
     "name": "Mask of Mists",
     "publisher": "Sometimes You",
     "releaseDate": 20200902,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Mask of Mists is an action-adventure game in a first-person view in which you are immersed in exploring the world full of magic and secrets!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000030710,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

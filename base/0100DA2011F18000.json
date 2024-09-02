@@ -4,5 +4,28 @@
     "name": "Castle Pals",
     "publisher": "Ratalaika Games",
     "releaseDate": 20200529,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Punch and fly through a dangerous castle!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000030746,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Farm Builder",
     "publisher": "LAN - GAMES EOOD",
     "releaseDate": 20201001,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Build and connect your farm\nScore most points\nGrow and destroy your opponents",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031690,
+    "numberOfPlayers": 5,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Foregone",
     "publisher": "Big Blue Bubble",
     "releaseDate": 20201013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Foregone is a fast and fluid 2D action-platformer packed with legendary loot and stunning pixel art.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031211,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

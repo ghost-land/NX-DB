@@ -4,5 +4,28 @@
     "name": "Toolboy",
     "publisher": "Art Games Studio",
     "releaseDate": 20201023,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Help our Hero in this difficult mission, discover new powers, solve puzzles, climb, jump, swim and face the opponents.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000031749,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

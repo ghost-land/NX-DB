@@ -4,5 +4,24 @@
     "name": "Escape From Tethys",
     "publisher": "Sometimes You",
     "releaseDate": 20200812,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You're trapped, alone and cold on a distant planet. Pursued by a droid with only one purpose: killing everything.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000030986,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

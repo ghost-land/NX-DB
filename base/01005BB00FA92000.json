@@ -4,5 +4,34 @@
     "name": "Rogue Company Demo",
     "publisher": "Hi-Rez Studios",
     "releaseDate": 2020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Save the Day, Look Good, Get Paid.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000031182,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

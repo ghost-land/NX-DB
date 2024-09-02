@@ -4,5 +4,32 @@
     "name": "Kingdom Rush",
     "publisher": "Ironhide Game Studio",
     "releaseDate": 20200730,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Defend your kingdom against the hordes of evil in this epic action defense game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000031460,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

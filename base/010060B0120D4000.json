@@ -4,5 +4,30 @@
     "name": "Space Otter Charlie",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20210318,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Jump, Float, and Rocket through Otter Space in this Zero-G Puzzle Platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000031100,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

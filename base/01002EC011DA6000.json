@@ -4,5 +4,28 @@
     "name": "My Bewitching Perfume",
     "publisher": "OperaHouse",
     "releaseDate": 20200701,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "An exciting love simulation game for girls!\nIt's the ultimate romance game/otome game for ladies who love handsome guys!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000030736,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mature Themes",
+        "Sexualised Imagery",
+        "Sexual References"
+    ],
+    "region": null,
+    "rightsId": null
 }
