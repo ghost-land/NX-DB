@@ -4,5 +4,33 @@
     "name": "Splatter",
     "publisher": "Elusor",
     "releaseDate": 20210923,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "The puzzle platformer with its own atmosphere in which 50 exciting levels await you\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000045933,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

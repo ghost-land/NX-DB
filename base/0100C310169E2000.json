@@ -4,5 +4,26 @@
     "name": "Dungetris",
     "publisher": "Big Way",
     "releaseDate": 20220506,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Dungetris is a game in a Rogue-like genre with an original system of building a level and the elements of a card game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000047343,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

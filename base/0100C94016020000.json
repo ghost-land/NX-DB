@@ -4,5 +4,34 @@
     "name": "Scrapnaut",
     "publisher": "RockGame",
     "releaseDate": 20220121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Multiplayer",
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045053,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

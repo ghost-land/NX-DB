@@ -4,5 +4,30 @@
     "name": "A Boy and His Blob",
     "publisher": "Ziggurat",
     "releaseDate": 20211105,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A tale of friendship and jelly beans.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000045208,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Tempest 4000",
     "publisher": "Atari",
     "releaseDate": 20220324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Tempest 4000 is a visually stunning, action-packed tube shooter based on the classic hit arcade game, Tempest.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000046826,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

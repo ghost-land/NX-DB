@@ -4,5 +4,28 @@
     "name": "Krut: The Mythic Wings",
     "publisher": "Blowfish Studios",
     "releaseDate": 20220712,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Krut: The Mythic Wings is a fast-paced hack and slash, side-scrolling action platformer based on Southeast Asian mythology.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000045612,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
