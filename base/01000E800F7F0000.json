@@ -4,5 +4,34 @@
     "name": "SEN: Seven Eight Nine",
     "publisher": "Indie Champion",
     "releaseDate": 20200206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Music",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "A minimalist zen puzzle game where players learn the rules without instruction.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000023315,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

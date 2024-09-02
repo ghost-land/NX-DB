@@ -4,5 +4,35 @@
     "name": "Book of Demons",
     "publisher": "505 Games",
     "releaseDate": 20200430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Slay the armies of darkness and defeat the Archdemon to save the Paperverse!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022671,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Fantasy Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Oddworld: Stranger's Wrath",
     "publisher": "Oddworld Inhabitants",
     "releaseDate": 20200124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "In the dusty, undeveloped wastelands of Western Mudos, cantankerous townsfolk find their settlements besieged by belligerent outlaws.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022997,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Medium level animated violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

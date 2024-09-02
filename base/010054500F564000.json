@@ -4,5 +4,33 @@
     "name": "Bookbound Brigade",
     "publisher": "Intragames",
     "releaseDate": 20200130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "What if all the protagonists of books lost their memory? Venture into their world and beat the hell out of historical and literary characters you studied in school! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022787,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

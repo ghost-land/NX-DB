@@ -4,5 +4,24 @@
     "name": "Oddworld: Munch's Oddysee",
     "publisher": "Oddworld Inhabitants",
     "releaseDate": 20200514,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Meet Munch, hero of the Oddest Oddysee of all. His luck is about to change - for the worse.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000022994,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Low level animated violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

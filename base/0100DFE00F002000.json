@@ -4,5 +4,31 @@
     "name": "GREEN The Life Algorithm",
     "publisher": "ESTACION PI",
     "releaseDate": 20191126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "G.R.E.E.N. THE LIFE ALG0R1THM is a 2D action-adventure video game based in a world invaded by genetically altered vegetation.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000023536,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

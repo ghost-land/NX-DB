@@ -4,5 +4,35 @@
     "name": "Grimvalor",
     "publisher": "Direlight",
     "releaseDate": 20200407,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Grimvalor is an award-winning hack-n-slash action-platformer with compelling combat mechanics and exploration.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022735,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Horror Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

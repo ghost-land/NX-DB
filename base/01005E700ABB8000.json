@@ -4,5 +4,30 @@
     "name": "Oddworld: New 'n' Tasty",
     "publisher": "Oddworld Inhabitants",
     "releaseDate": 20201027,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Abe’s back on the menu!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000022996,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

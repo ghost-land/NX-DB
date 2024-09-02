@@ -4,5 +4,33 @@
     "name": "Medulla",
     "publisher": "Lemondo Games",
     "releaseDate": 20210115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Man can fly",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022848,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

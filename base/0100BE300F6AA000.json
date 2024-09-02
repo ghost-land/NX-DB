@@ -4,5 +4,31 @@
     "name": "Talisman: Digital Edition",
     "publisher": "Nomad Games",
     "releaseDate": 20200310,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The officially licensed multiplayer version of the classic fantasy adventure board game, Talisman. Includes three expansions!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000023009,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

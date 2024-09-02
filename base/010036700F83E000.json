@@ -4,5 +4,33 @@
     "name": "To the Moon",
     "publisher": "X.D. Network",
     "releaseDate": 20200116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A story-driven experience about two doctors traversing backward through a dying man's memories to artificially fulfill his last wish.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000023413,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

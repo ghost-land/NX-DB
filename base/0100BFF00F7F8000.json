@@ -4,5 +4,35 @@
     "name": "Roundguard",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20200313,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "RPG",
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A bouncy dungeon crawler with pinball physics, lots of loot, and a randomized castle full of weirdos.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000023328,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

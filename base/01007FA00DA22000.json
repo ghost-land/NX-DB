@@ -4,5 +4,31 @@
     "name": "The Story Goes On",
     "publisher": "Scarecrow Arts",
     "releaseDate": 20200302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A hack'n'slash adventure with heavy emphasis on exploration and dungeon crawling while using rogue-lite elements such as over-the-top items, permadeath, and random generation.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000023448,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

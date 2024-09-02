@@ -4,5 +4,25 @@
     "name": "Knowledge Trainer: Trivia",
     "publisher": "the binary family",
     "releaseDate": 20191128,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Party",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "The quiz app for smart people. It’s designed to stimulate your brain with over 6,000 high-quality, challenging, and informative questions. For one or more players. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000022974,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
