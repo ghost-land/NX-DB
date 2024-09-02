@@ -4,5 +4,27 @@
     "name": "Turbo Shell",
     "publisher": "RadioactiveDreams",
     "releaseDate": 20231115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Turbo Shell is a fast-paced precision platformer with a unique movement mechanic: instead of running and jumping, you push and pull yourself through levels. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000069055,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "The Ramsey",
     "publisher": "IKINAGAMES",
     "releaseDate": 20231130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A cute but fierce squirrel solves puzzles using various weapons. Explore maze-like islands and overcome difficult obstacles with the strongest squirrel in the universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "nsuId": 70010000069029,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

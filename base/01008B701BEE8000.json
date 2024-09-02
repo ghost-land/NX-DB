@@ -4,5 +4,34 @@
     "name": "Stacklands",
     "publisher": "Sokpop Collective",
     "releaseDate": 20240328,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Stacklands is a village builder where you stack cards to collect food, build structures, and fight creatures.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000069130,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

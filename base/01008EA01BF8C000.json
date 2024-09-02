@@ -4,5 +4,33 @@
     "name": "Savage Age",
     "publisher": "indienova",
     "releaseDate": 20240404,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Embark on a Wild Journey, Reclaim the Totem",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000069246,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

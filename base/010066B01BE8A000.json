@@ -4,5 +4,32 @@
     "name": "Forest Fire",
     "publisher": "Chute Apps",
     "releaseDate": 20230720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Be the Forest Fire and burn everything in sight! A Rogue-lite destruction-fest where every pixel is physically simulated.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000069020,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

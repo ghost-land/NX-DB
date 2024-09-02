@@ -4,5 +4,33 @@
     "name": "Beatbuddy: Tale of the Guardians",
     "publisher": "THREAKS",
     "releaseDate": 20240813,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Awakened from his slumber, Beatbuddy journeys through lush hand-painted environments on a quest to save his companions and his own immortality",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000069397,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

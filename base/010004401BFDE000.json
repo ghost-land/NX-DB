@@ -4,5 +4,34 @@
     "name": "Anomaly Agent",
     "publisher": "NAISU",
     "releaseDate": 20240125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Become Agent 70 and stop the anomalies threatening to destroy the balance of the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000069312,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

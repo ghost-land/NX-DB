@@ -4,5 +4,32 @@
     "name": "SONIC SUPERSTARS",
     "publisher": "SEGA",
     "releaseDate": 20231017,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Super Fast. Super Fun. Superstars!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000069430,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
