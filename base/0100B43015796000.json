@@ -4,5 +4,28 @@
     "name": "Arcade Archives SPACE CRUISER",
     "publisher": "HAMSTER",
     "releaseDate": 20210826,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Prepare for launch!\nDeploy your SPACE CRUISER to fight off the aliens!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000043165,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

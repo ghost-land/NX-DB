@@ -4,5 +4,34 @@
     "name": "Boulder Dash® Deluxe",
     "publisher": "BBG Entertainment",
     "releaseDate": 20210909,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Gem collecting puzzle action in an update of the classic game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000042876,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

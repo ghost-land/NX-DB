@@ -4,5 +4,30 @@
     "name": "Demons of Asteborg",
     "publisher": "Neofid Studios",
     "releaseDate": 20210801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Demons of Asteborg is an action-platform game, with elements of metroidvania. Play as Gareth and prevent Zadimus from destroying Asteborg! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000042472,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,24 @@
     "name": "Puzzle Car",
     "publisher": "QUByte Interactive",
     "releaseDate": 20210909,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Training",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "A minimalist and relaxing experience. Challenge yourself to move pieces to assemble a safe path for your car and collect all the items on the way, while listening to a relaxing soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000043343,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

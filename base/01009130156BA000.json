@@ -4,5 +4,26 @@
     "name": "Wildbus",
     "publisher": "Wildbus Studio",
     "releaseDate": 20210826,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Bus Modification Adventure RPG",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000042840,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Simulated Gambling"
+    ],
+    "region": null,
+    "rightsId": null
 }

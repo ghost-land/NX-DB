@@ -4,5 +4,24 @@
     "name": "My Little Fruit Juice Booth",
     "publisher": "Kistler Studios",
     "releaseDate": 20210705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shop",
+        "Arcade",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A casual fruit juice shop tycoon game where you make your customers happy by blending different fruits into delicious drinks and serve them to your customers.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000042842,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

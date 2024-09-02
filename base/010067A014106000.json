@@ -4,5 +4,26 @@
     "name": "A Night at the Races",
     "publisher": "Nakana.io",
     "releaseDate": 20210903,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "You have the night to win a clandestine tournament. Lead the rankings, get the prize, pay your debts, escape hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000043321,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
