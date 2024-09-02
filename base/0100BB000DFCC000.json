@@ -4,5 +4,27 @@
     "name": "Sail Forth",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20221222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "アドベンチャー",
+        "シミュレーション"
+    ],
+    "developer": null,
+    "intro": "ディープブルーの海を航海する、風変わりな海洋アドベンチャー！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000019322,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力 (軽度)"
+    ],
+    "region": null,
+    "rightsId": null
 }
