@@ -4,5 +4,32 @@
     "name": "Chess Ultra",
     "publisher": "Ripstone Publishing",
     "releaseDate": 20171103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Simulation",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Introducing the most breathtaking chess game ever made.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000000998,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100A5900472E0000000000000000003"
 }

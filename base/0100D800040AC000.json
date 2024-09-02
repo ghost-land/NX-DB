@@ -4,5 +4,31 @@
     "name": "Rocket Fist",
     "publisher": "Bitten Toast Games",
     "releaseDate": 20170810,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Party",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Fast-paced Rocket Dodgeball Arena",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000000754,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100D800040AC0000000000000000000"
 }

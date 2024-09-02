@@ -4,5 +4,31 @@
     "name": "Peasant Knight",
     "publisher": "Ratalaika Games",
     "releaseDate": 20190323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Peasant Knight is a challenging puzzle-platformer that you can play with only two buttons: jump and stop.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000001070,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

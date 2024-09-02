@@ -4,5 +4,31 @@
     "name": "Brawlout",
     "publisher": "Angry Mob Games",
     "releaseDate": 20171220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A new challenger has appeared in the platform fighter arena!\nBrawlout is the party fighting game, designed for couch play, online matches and competitive tournaments.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000740,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "01001FD0040F40000000000000000003"
 }

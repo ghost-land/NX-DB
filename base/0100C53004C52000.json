@@ -4,5 +4,35 @@
     "name": "Flat Heroes",
     "publisher": "Parallel Circles",
     "releaseDate": 20180802,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Dodge, jump, and dash your way through hundreds of \nterrifying geometric levels. Too tough? Bring your friends.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000001128,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100C53004C520000000000000000004"
 }

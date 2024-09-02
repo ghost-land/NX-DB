@@ -4,5 +4,27 @@
     "name": "Vaccine",
     "publisher": "RAINYFROG",
     "releaseDate": 20170706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "30 min time limit and random layouts!\nClassic survival horror re-invented!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000000844,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": "01009E2003FE20000000000000000000"
 }

@@ -4,5 +4,30 @@
     "name": "De Mambo",
     "publisher": "The Dangerous Kitchen",
     "releaseDate": 20170713,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Platformer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Spicy Action for 1-4 players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000000989,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01008E900471E0000000000000000000"
 }

@@ -4,5 +4,30 @@
     "name": "Guacamelee! 2",
     "publisher": "DrinkBox Studios",
     "releaseDate": 20181211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Juan saved the world once -- but this time, the entire Mexiverse is at stake!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000000885,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01007E100456C0000000000000000005"
 }

@@ -4,5 +4,32 @@
     "name": "Bombslinger",
     "publisher": "Plug In Digital",
     "releaseDate": 20180411,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Party",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A Wild West action game filled with explosive single player action and hectic 4 player deathmatch battles!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000000852,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010087300445A0000000000000000003"
 }

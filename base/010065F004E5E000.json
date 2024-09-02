@@ -4,5 +4,28 @@
     "name": "Super Chariot",
     "publisher": "Microids",
     "releaseDate": 20180510,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "WILL YOU PLAY ALONE OR TOGETHER?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000001215,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010065F004E5E0000000000000000004"
 }

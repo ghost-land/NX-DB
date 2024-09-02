@@ -4,5 +4,28 @@
     "name": "Poi: Explorer Edition",
     "publisher": "PolyKid",
     "releaseDate": 20171125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embark on a classic 3D platforming adventure as you set sail on an airship to collect Explorer Medallions and unravel the mysteries of the Milky Way Globe. Explore uncharted lands, and meet wild new characters, while on a journey to collect all the medallions and become a true Master Explorer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000000726,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01005EC0039E40000000000000000003"
 }

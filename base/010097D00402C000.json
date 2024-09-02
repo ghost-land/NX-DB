@@ -4,5 +4,31 @@
     "name": "Dusty Raging Fist",
     "publisher": "PD Design Studio",
     "releaseDate": 20190315,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Local co-op play of up to 3 Players.\n3 playable beat'em up characters, and 2 combat support characters.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000001146,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "010097D00402C0000000000000000007"
 }
