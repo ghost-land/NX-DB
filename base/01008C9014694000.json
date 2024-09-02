@@ -4,5 +4,31 @@
     "name": "My Friend Peppa Pig",
     "publisher": "Outright Games",
     "releaseDate": 20211022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Start a fun-filled adventure with Peppa Pig. Create your style, meet favorite characters, and play in Peppa’s world. It’s just like being in the TV show!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039168,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

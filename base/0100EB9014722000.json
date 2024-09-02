@@ -4,5 +4,26 @@
     "name": "CyberHive",
     "publisher": "Redblack Spade",
     "releaseDate": 20210506,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "CyberHive is a strategic space travel simulator with a non-linear story, in the cosmic opera setting, and in an anime visual style.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000039316,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

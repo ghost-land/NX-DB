@@ -4,5 +4,30 @@
     "name": "Raiders Of The Lost Island",
     "publisher": "Last Tales",
     "releaseDate": 20210319,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "LOCAL co-op party game where up to 4 players compete in looting treasures from a sinking island, while building a boat to survive the final wave.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000039208,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

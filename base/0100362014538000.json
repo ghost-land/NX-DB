@@ -4,5 +4,29 @@
     "name": "Storm Tale",
     "publisher": "Ultimate Games",
     "releaseDate": 20210401,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": " Embark on an epic adventure through medieval times. Help Annabelle and Erik build and safeguard a new medieval village. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000038857,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

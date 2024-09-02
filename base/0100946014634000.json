@@ -4,5 +4,35 @@
     "name": "Alchemist Adventure",
     "publisher": "Supergg.com",
     "releaseDate": 20210610,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Open a world full of adventure, mysteries and alchemy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000039102,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

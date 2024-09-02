@@ -4,5 +4,30 @@
     "name": "Horned Knight",
     "publisher": "2Awesome Studio",
     "releaseDate": 20210226,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Horned Knight is a challenging 2D action-platformer where you must overcome all fears, enemies, and traps as the Hero Knight. Rewrite destiny, with your trusty sword, young Knight!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000038812,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

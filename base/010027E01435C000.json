@@ -4,5 +4,24 @@
     "name": "Squabble",
     "publisher": "Atomic Realm",
     "releaseDate": 20210918,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Local multiplayer game that shouldn’t be missing at your next house party! Fight your friends with whatever toy you can grab and use it in your own unique way!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000038925,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

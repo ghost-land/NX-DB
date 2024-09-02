@@ -4,5 +4,33 @@
     "name": "Cooking Simulator - Pizza",
     "publisher": "Big Cheese Studio",
     "releaseDate": 20210513,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Arcade",
+        "Education",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "Learn how to bake authentic pizza and run your own Italian pizzeria!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000039128,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

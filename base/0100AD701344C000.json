@@ -4,5 +4,35 @@
     "name": "Mighty Goose",
     "publisher": "PLAYISM",
     "releaseDate": 20210605,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Travel the galaxy and hunt down evil.\nThis is the life of Mighty Goose!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000039158,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

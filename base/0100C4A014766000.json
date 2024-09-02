@@ -4,5 +4,30 @@
     "name": "Arkan: The dog adventurer",
     "publisher": "Sometimes You",
     "releaseDate": 20210630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A unique explosive mixture of platformer and arkanoid! Hit the ball! Move around, jump! Smash the bricks! Destroy the enemies! Destroy everything destroyable!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039383,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
