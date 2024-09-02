@@ -4,5 +4,35 @@
     "name": "Fledgling Heroes",
     "publisher": "Subtle Boom",
     "releaseDate": 20220819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Takeoff and take on the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017303,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

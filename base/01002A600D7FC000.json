@@ -4,5 +4,29 @@
     "name": "Collection of Mana",
     "publisher": "SQUARE ENIX",
     "releaseDate": 20240513,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "The long-awaited \"Trials of Mana\" is now available outside of Japan! Play all three games in the original Mana series!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000018086,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "West of Dead",
     "publisher": "Raw Fury",
     "releaseDate": 20230530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Welcome to Purgatory! Dodge for cover and outgun your enemies. The Wild West has never been this dark.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017655,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

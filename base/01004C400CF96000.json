@@ -4,5 +4,35 @@
     "name": "Dead by Daylight",
     "publisher": "Behaviour Interactive",
     "releaseDate": 20230307,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Death Is Not an Escape.\n\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000016124,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

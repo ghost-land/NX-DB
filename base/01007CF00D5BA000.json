@@ -4,5 +4,31 @@
     "name": "Devil May Cry 2",
     "publisher": "CAPCOM",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Dance with the Devil",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017206,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

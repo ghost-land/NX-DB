@@ -4,5 +4,32 @@
     "name": "Serious Sam Collection",
     "publisher": "Devolver Digital",
     "releaseDate": 20230829,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000016895,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Intense Violence",
+        "Partial Nudity",
+        "Strong Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

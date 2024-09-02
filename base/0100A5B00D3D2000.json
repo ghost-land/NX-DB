@@ -4,5 +4,31 @@
     "name": "Braveland Trilogy",
     "publisher": "Ellada Games",
     "releaseDate": 20220913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "A turn-based strategy with an old school feel. The complete trilogy and duels against your friends!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000017097,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

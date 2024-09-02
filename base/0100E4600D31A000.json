@@ -4,5 +4,32 @@
     "name": "Mechstermination Force",
     "publisher": "Hörberg Productions",
     "releaseDate": 20230117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Join the Mechstermination Force and save the world from the gigantic MegaMechs!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000016648,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Mosaic",
     "publisher": "Raw Fury",
     "releaseDate": 20230530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You live a monotonous life in a cold city, with no real sense of meaning - until one crucial day, when strange things start to happen and everything changes",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017646,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

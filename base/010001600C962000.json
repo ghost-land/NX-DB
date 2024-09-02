@@ -4,5 +4,23 @@
     "name": "BOMBFEST",
     "publisher": "Whitethorn Digital",
     "releaseDate": 20220520,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Explosive Fun!\nBlow the competition to bits, and be the last toy standing!\nA Physics-based party game for you and up to three friends!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000016552,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": "010001600C9620000000000000000007"
 }

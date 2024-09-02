@@ -4,5 +4,33 @@
     "name": "Fly TOGETHER!",
     "publisher": "Northplay",
     "releaseDate": 20220505,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Fly TOGETHER! is a multiplayer game of explosive airplane action that will challenge your inner air traffic controller.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000018295,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

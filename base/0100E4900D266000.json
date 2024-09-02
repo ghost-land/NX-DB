@@ -4,5 +4,29 @@
     "name": "Jet Kave Adventure",
     "publisher": "7Levels",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Jetpack through the prehistoric world in a “Stone fiction” adventure platformer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000016508,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

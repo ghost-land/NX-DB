@@ -4,5 +4,35 @@
     "name": "Cuphead",
     "publisher": "StudioMDHR",
     "releaseDate": 20190523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "The all-cartoon Magical Wondergame!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000016330,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

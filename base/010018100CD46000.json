@@ -4,5 +4,33 @@
     "name": "Resident Evil 5",
     "publisher": "CAPCOM",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Fear You Can't Forget",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015876,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

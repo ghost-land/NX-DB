@@ -4,5 +4,32 @@
     "name": "Preventive Strike",
     "publisher": "SimFabric",
     "releaseDate": 20230217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Control an overpowered attack helicopter with the objective to drive the enemy out of your land and make your way to the enemy base and eliminate the threat.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000016516,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

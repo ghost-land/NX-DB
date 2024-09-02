@@ -4,5 +4,38 @@
     "name": "Super Meat Boy Forever",
     "publisher": "Team Meat",
     "releaseDate": 20201223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Super Meat Boy is BACK!!\nPlay through literally thousands of levels!\nFight Bosses, find secrets, cry at an amazing story!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017523,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

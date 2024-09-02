@@ -4,5 +4,37 @@
     "name": "Resident Evil 6",
     "publisher": "CAPCOM",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "No Hope Left",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015880,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Suggestive Themes",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
