@@ -4,5 +4,30 @@
     "name": "Ghost 1.0",
     "publisher": "unepic fran",
     "releaseDate": 20180712,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000001386,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": "0100EEB005ACC0000000000000000004"
 }

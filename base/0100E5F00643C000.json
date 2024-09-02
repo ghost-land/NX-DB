@@ -4,5 +4,24 @@
     "name": "Astro Bears Party",
     "publisher": "SONKA",
     "releaseDate": 20170928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "A competitive party game featuring bears in space suits.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000001606,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100E5F00643C0000000000000000003"
 }

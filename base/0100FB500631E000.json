@@ -4,5 +4,31 @@
     "name": "ATOMINE",
     "publisher": "MixedBag",
     "releaseDate": 20180526,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Procedural! Rogue-like! Twin-stick shooter!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000001573,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100FB500631E0000000000000000004"
 }

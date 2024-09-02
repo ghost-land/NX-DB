@@ -4,5 +4,28 @@
     "name": "Binaries",
     "publisher": "Ant Workshop",
     "releaseDate": 20170928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A controller-smashingly tough BAFTA nominated platformer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000001721,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "01002A1004C480000000000000000003"
 }

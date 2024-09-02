@@ -4,5 +4,28 @@
     "name": "Bleed",
     "publisher": "Digerati",
     "releaseDate": 20171214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Shoot and dodge in style to become the Greatest Hero of All Time!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000001884,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010042C0064900000000000000000003"
 }

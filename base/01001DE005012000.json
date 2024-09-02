@@ -4,5 +4,29 @@
     "name": "Quest of Dungeons",
     "publisher": "Upfall Studios",
     "releaseDate": 20170914,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Choose your hero and enter the dungeons!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000001301,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "01001DE0050120000000000000000003"
 }

@@ -4,5 +4,30 @@
     "name": "RiME",
     "publisher": "Grey Box",
     "releaseDate": 20171118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A land of discovery stretches out before you. Explore the beautiful yet rugged world of RiME, a single-player puzzle adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000001783,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes and violence"
+    ],
+    "region": null,
+    "rightsId": "0100A620020420000000000000000003"
 }

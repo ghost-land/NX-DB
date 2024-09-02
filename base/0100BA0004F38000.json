@@ -4,5 +4,31 @@
     "name": "NeuroVoider",
     "publisher": "Plug In Digital",
     "releaseDate": 20170907,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "RPG",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Twin-stick shooter RPG. May include explosions.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000001245,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100BA0004F380000000000000000003"
 }
