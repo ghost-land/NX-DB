@@ -4,5 +4,32 @@
     "name": "MythForce",
     "publisher": "Aspyr",
     "releaseDate": 20230912,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Step into a Saturday Morning Cartoon! Adventure through crypts and castles with your friends in this First-person Melee Roguelike.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000057292,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

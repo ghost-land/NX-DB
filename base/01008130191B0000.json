@@ -4,5 +4,33 @@
     "name": "Rhythm Sprout",
     "publisher": "tinyBuild Games",
     "releaseDate": 20230201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Party",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Handcrafted rhythm action with original music and a wacky story mode.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000057124,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

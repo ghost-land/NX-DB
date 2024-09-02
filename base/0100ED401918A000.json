@@ -4,5 +4,30 @@
     "name": "Sea Horizon",
     "publisher": "eastasiasoft",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Embark on a perilous adventure in classic role-playing style with dice rolls and card-based actions to govern your fate!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000057067,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

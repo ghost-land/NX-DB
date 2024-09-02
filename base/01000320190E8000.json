@@ -4,5 +4,28 @@
     "name": "Pid",
     "publisher": "RedDeer.Games",
     "releaseDate": 20221118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Set out on a gravity defying journey, alongside Kurt, a boy lost in space. Find a way to lead him home using only your wits.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000056949,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

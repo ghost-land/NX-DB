@@ -4,5 +4,30 @@
     "name": "Spells & Secrets",
     "publisher": "Merge Games",
     "releaseDate": 20231109,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Explore the mysteries of magic in 'Spells & Secrets', a captivating Rogue-Lite adventure – play solo or in co-op mode!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000056928,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

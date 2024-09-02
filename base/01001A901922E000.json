@@ -4,5 +4,31 @@
     "name": "Ammo Pigs: Armed and Delicious",
     "publisher": "RedDeer.Games",
     "releaseDate": 20221007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A badass pig takes on an AI army to save all of pig-kind. Fight your way through hordes of enemies and carve your path to victory.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000057286,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

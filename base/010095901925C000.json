@@ -4,5 +4,32 @@
     "name": "Gunslingers & Zombies",
     "publisher": "Ultimate Games",
     "releaseDate": 20220915,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "The Wild West was known for its gunslinger duels. Everyone feared the relentless cowboys. Until a new threat appeared... Zombies! Now the Wild West is really crazy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000057351,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
