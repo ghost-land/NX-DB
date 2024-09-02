@@ -4,5 +4,32 @@
     "name": "INSIDE",
     "publisher": "Playdead",
     "releaseDate": 20230130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "From the Creators of LIMBO",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000005804,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100D2D0090280000000000000000004"
 }

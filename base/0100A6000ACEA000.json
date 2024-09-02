@@ -4,5 +4,32 @@
     "name": "Punch Club",
     "publisher": "tinyBuild Games",
     "releaseDate": 20230817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Fighting",
+        "Strategy",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Train hard, fight crocodiles and find love. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000010109,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100A6000ACEA0000000000000000004"
 }

@@ -4,5 +4,33 @@
     "name": "Celeste",
     "publisher": "Maddy Makes Games",
     "releaseDate": 20190516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Brave hundreds of hand-crafted challenges in this super-tight platformer, as you help Madeline survive her journey to the top of Celeste Mountain!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000006442,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": "01002B30028F60000000000000000004"
 }

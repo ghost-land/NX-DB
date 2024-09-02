@@ -4,5 +4,32 @@
     "name": "LIMBO",
     "publisher": "Playdead",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "From the Creators of INSIDE",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000005802,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01009C80090260000000000000000004"
 }

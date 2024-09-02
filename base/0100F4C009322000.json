@@ -4,5 +4,32 @@
     "name": "Pikmin™ 3 Deluxe",
     "publisher": "Nintendo",
     "releaseDate": 20201030,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Grow a squad of adorable, plantlike Pikmin to traverse a strange world and save your planet",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000005302,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

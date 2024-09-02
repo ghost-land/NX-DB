@@ -4,5 +4,33 @@
     "name": "PLANET ALPHA",
     "publisher": "Team17",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "PLANET ALPHA, a beautiful alien world filled with mystery and danger.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000006842,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010003C0099EE0000000000000000005"
 }

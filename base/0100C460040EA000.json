@@ -4,5 +4,28 @@
     "name": "Hunting Simulator",
     "publisher": "Nacon",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Live the adventure of the hunt, from Alberta to Texas, or perhaps in France, Colorado or Scotland. Play single or multiplayer, choose your hunting gear and firearms of choice, including Browning® and Winchester® models, and master tracking 37 different animal species each with realistic behaviours.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000005127,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100C460040EA0000000000000000003"
 }

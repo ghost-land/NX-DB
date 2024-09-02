@@ -4,5 +4,31 @@
     "name": "Tennis World Tour",
     "publisher": "Nacon",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The new standard developed by veterans of tennis simulations: play as one of 30 professional tennis players, learn all the shots, master each type of surface and experience a realistic career mode. Define your style of play and tactics to become n°1 in the world!",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000008632,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "01000920068140000000000000000004"
 }

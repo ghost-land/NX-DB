@@ -4,5 +4,31 @@
     "name": "Trine Enchanted Edition",
     "publisher": "Frozenbyte",
     "releaseDate": 20221103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Three Heroes Bound by a Magical Artifact",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000009108,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": "0100D9000A9300000000000000000005"
 }

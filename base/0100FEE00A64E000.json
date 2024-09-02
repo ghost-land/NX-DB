@@ -4,5 +4,37 @@
     "name": "Warframe",
     "publisher": "Digital Extremes",
     "releaseDate": 20220215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Ninjas Play Free!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000009425,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "0100FEE00A64E0000000000000000006"
 }

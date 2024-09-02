@@ -4,5 +4,22 @@
     "name": "Car Mechanic Pinball",
     "publisher": "SONKA",
     "releaseDate": 20220923,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Racing",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Play pinball using a car instead of a ball!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000008962,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

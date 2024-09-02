@@ -4,5 +4,32 @@
     "name": "Trine 2: Complete Story",
     "publisher": "Frozenbyte",
     "releaseDate": 20221103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Fantasy Action Platforming with Physics-Based Puzzles and Fairytale Adventures",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000009110,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

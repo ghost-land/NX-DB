@@ -4,5 +4,31 @@
     "name": "Dragon Quest Builders™",
     "publisher": "Nintendo",
     "releaseDate": 20180209,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Build to save the world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000006801,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Mild Suggestive Themes",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null,
+    "rightsId": "010008900705C0000000000000000003"
 }

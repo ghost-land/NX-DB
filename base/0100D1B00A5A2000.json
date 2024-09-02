@@ -4,5 +4,32 @@
     "name": "Iro Hero",
     "publisher": "eastasiasoft",
     "releaseDate": 20230302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "In a world where humans are used as power supplies, only one man has the will to change it all!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000008648,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": "0100D1B00A5A20000000000000000004"
 }

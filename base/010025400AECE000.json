@@ -4,5 +4,34 @@
     "name": "Fortnite",
     "publisher": "Epic Games",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Find it in Fortnite.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000010192,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Diverse Content:  Discretion Advised",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "010025400AECE0000000000000000005"
 }

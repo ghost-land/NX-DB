@@ -4,5 +4,30 @@
     "name": "KnightOut",
     "publisher": "2nd Studio",
     "releaseDate": 20220603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Strategy",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "KnightOut is a local party brawler for 1-4 players! Play with or against your friends in a frantic battle. Half the battle is won by building an epic castle with deadly weapons and traps.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000005724,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

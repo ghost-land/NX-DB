@@ -4,5 +4,33 @@
     "name": "Agent A: A puzzle in disguise",
     "publisher": "YAK",
     "releaseDate": 20220801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Your mission (should you choose to accept) is to infiltrate enemy spy Ruby La Rouge’s secret hideaway and put a stop to her evil plans!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000008805,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

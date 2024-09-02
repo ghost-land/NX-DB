@@ -4,5 +4,35 @@
     "name": "Blasphemous",
     "publisher": "Team17",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Blasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000007282,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
