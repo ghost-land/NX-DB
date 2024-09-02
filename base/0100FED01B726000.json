@@ -4,5 +4,33 @@
     "name": "NanoApostle",
     "publisher": "PQube",
     "releaseDate": 20240912,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Take on ferocious bosses in this dark Sci-Fi boss rush title!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067442,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

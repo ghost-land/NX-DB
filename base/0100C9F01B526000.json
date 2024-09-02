@@ -4,5 +4,33 @@
     "name": "The Jackbox Party Pack 10",
     "publisher": "Jackbox Games",
     "releaseDate": 20231019,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Communication",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Become a party legend! Fight drawing battles in Tee K.O. 2, win chaotic type-offs in FixyText, answer time's mysteries in Timejinx, roleplay hidden identities in Hypnotorious, and play sil",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000066983,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference",
+        "Language",
+        "Sexual Themes",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

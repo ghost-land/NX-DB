@@ -4,5 +4,29 @@
     "name": "Onigo Hunter",
     "publisher": "KEMCO",
     "releaseDate": 20230525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "What lies beyond the doors to the ruins? Become the best hunter in the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000067148,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

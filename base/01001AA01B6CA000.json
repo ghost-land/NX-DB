@@ -4,5 +4,30 @@
     "name": "Animal Kart Racer 2",
     "publisher": "TREVA",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Action",
+        "Sports",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Three, two, one - STEP ON IT!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000067314,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

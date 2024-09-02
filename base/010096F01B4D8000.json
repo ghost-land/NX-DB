@@ -4,5 +4,32 @@
     "name": "Shogun Showdown",
     "publisher": "Goblinz Studio",
     "releaseDate": 20240905,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Get ready to face the Shogun!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000066862,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

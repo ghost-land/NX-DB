@@ -4,5 +4,35 @@
     "name": "REMEDIUM: Sentinels",
     "publisher": "ESDigital Games",
     "releaseDate": 20230718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Roguelite auto-shooter set in the same world as REMEDIUM game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067028,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

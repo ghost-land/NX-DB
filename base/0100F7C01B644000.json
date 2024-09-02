@@ -4,5 +4,21 @@
     "name": "Bubble Bird",
     "publisher": "Artem Kritinin",
     "releaseDate": 20230515,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Education",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "The goal of the game is to go as far as possible without allowing the bird to collide with obstacles of other colors.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000067173,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

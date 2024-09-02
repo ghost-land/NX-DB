@@ -4,5 +4,33 @@
     "name": "Army of Ruin",
     "publisher": "Milkstone Studios",
     "releaseDate": 20230623,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Army of Ruin is an auto-shooter where you become the Bullet Hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000067357,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "A Castle Full of Cats",
     "publisher": "Silesia Games",
     "releaseDate": 20230817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "An atmospheric hidden object game with cat drama, cat betrayal… and cat love.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067310,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

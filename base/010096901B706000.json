@@ -4,5 +4,28 @@
     "name": "Adore",
     "publisher": "QUByte Interactive",
     "releaseDate": 20230803,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Explore, collect creatures, and build your team with real-time gameplay in Adore!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000067369,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

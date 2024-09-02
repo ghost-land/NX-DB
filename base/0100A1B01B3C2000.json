@@ -4,5 +4,30 @@
     "name": "Wild Legion",
     "publisher": "BluSped Studio",
     "releaseDate": 20230810,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "This is a survivor combat and tower defense game\nWield various weapons, engage in battles \nTake lost animal friends to the teleport",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000067229,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
