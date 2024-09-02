@@ -4,5 +4,31 @@
     "name": "Thibalryn",
     "publisher": "CoolJosh3k Games",
     "releaseDate": 20220804,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A love letter to classic games!\nExplore an ever-expanding, challenging maze filled with countless secrets.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000054575,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

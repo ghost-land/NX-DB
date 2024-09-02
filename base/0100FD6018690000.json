@@ -4,5 +4,30 @@
     "name": "Astronite",
     "publisher": "JanduSoft",
     "releaseDate": 20221130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A 1bit metroidvania",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000054251,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

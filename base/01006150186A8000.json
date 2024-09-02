@@ -4,5 +4,33 @@
     "name": "Space Raft",
     "publisher": "Nami Tentou",
     "releaseDate": 20240815,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embark on a rock 'n' roll 8-bit adventure with Space Raft and save the music!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054299,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

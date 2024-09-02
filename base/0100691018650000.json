@@ -4,5 +4,28 @@
     "name": "One True Hero",
     "publisher": "No Gravity Games",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "An epic, 3D platforming adventure featuring the only One True Hero the town really needs! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000054173,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

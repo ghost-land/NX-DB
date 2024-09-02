@@ -4,5 +4,34 @@
     "name": "The Testament of Sherlock Holmes",
     "publisher": "Frogwares",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Become the greatest detective of all time in The Testament of Sherlock Holmes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054422,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

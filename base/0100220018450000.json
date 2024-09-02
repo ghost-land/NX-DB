@@ -4,5 +4,28 @@
     "name": "Chicken Journey",
     "publisher": "loonyware",
     "releaseDate": 20231102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Play as an adorable chicken in this relaxing platformer. Jump, climb and solve puzzles to find the answer to the ULTIMATE question a chicken can ask...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000054035,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

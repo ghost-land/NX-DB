@@ -4,5 +4,29 @@
     "name": "Super Dungeon Maker",
     "publisher": "Rokaplay",
     "releaseDate": 20230503,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Super Dungeon Maker is a creative pixel art dungeon editor inspired by the best 2D adventure games.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000053917,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

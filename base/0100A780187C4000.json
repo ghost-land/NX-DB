@@ -4,5 +4,34 @@
     "name": "Falling Out",
     "publisher": "Firestoke",
     "releaseDate": 20221006,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "FALLING OUT is a light-hearted action-packed roguelite where you take control of an oddball couple who are on a vacation from hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054552,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
