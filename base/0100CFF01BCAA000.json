@@ -4,5 +4,30 @@
     "name": "SHARK! SHARK!",
     "publisher": "BBG Entertainment",
     "releaseDate": 20230928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Inspired by the legendary SHARK! SHARK!® game released in its original version from Intellivision® in 1982.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000068635,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Erra: Exordium",
     "publisher": "Kirkidexi",
     "releaseDate": 20240516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Erra: Exordium is a 2D action adventure game in Dieselpunk setting. Explore a world based on Sumerian-Akkadian mythology.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000068436,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

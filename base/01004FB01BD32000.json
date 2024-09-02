@@ -4,5 +4,33 @@
     "name": "Shuyan Saga",
     "publisher": "ESDigital Games",
     "releaseDate": 20230922,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Immersive action-adventure where action scenes come alive in fluid Kung-Fu combat",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068786,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

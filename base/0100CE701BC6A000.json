@@ -4,5 +4,25 @@
     "name": "Willy's Wonderland - The Game",
     "publisher": "QUByte Interactive",
     "releaseDate": 20240613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Defeat a group of Animatronics that come to life in Willy’s Wonderland!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000068529,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

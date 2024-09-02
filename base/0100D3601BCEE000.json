@@ -4,5 +4,29 @@
     "name": "Abathor",
     "publisher": "JanduSoft",
     "releaseDate": 20240725,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Abathor is a 2D arcade action platformer for up to 4 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000068726,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

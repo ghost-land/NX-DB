@@ -4,5 +4,31 @@
     "name": "Super Mario RPG™",
     "publisher": "Nintendo",
     "releaseDate": 20231117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Mario, Bowser, and Peach partner up to repair the wish-granting Star Road in this approachable role-playing adventure ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068683,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

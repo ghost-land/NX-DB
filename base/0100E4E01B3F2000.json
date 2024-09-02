@@ -4,5 +4,28 @@
     "name": "Alisa Developer's Cut",
     "publisher": "Top Hat Studios",
     "releaseDate": 20240206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Can you survive the Dollhouse? Alisa is a Horror-themed Action Adventure game, and a genuine throwback to the golden age of 90's 3D games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "it"
+    ],
+    "nsuId": 70010000068291,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

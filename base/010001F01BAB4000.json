@@ -4,5 +4,28 @@
     "name": "BOKURA",
     "publisher": "KODANSHA",
     "releaseDate": 20230810,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "Are you and I really seeing the world the same way?\nAn exclusively two-player puzzle adventure game that makes you question your reality.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068760,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Grounded",
     "publisher": "Microsoft Studios",
     "releaseDate": 20240416,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "The world is a vast, beautiful, and dangerous place – especially when you have been shrunken to the size of an ant.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068827,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

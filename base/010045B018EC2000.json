@@ -4,5 +4,32 @@
     "name": "WarioWare™: Move It!",
     "publisher": "Nintendo",
     "releaseDate": 20231103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Get moving with a multitude of motion-based microgames in a brand-new entry in the WarioWare™ series!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068678,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

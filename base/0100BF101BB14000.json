@@ -4,5 +4,29 @@
     "name": "Lunar Axe",
     "publisher": "QUByte Interactive",
     "releaseDate": 20240418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Find a way out and unravel the mystery of the inexplicable tremors before it's too late",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000068306,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

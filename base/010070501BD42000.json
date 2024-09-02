@@ -4,5 +4,28 @@
     "name": "Mystic Academy: Escape Room",
     "publisher": "mc2games",
     "releaseDate": 20230803,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Mystic Academy is an escape room that will put your wizard skills to the test. Solve puzzles, decipher magical artifacts, learn new spells, and find hidden objects!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000068822,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

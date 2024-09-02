@@ -4,5 +4,35 @@
     "name": "Zombie Hunter: D-Day",
     "publisher": "CFK",
     "releaseDate": 20230727,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "The apocalypse is here. Zombies flood in from all sides. You have 80 days until the rescue team arrives.\nYour desperate struggle for survival begins now!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000068379,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
