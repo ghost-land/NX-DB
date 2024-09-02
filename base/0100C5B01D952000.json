@@ -4,5 +4,22 @@
     "name": "Human Bowling",
     "publisher": "Entity3",
     "releaseDate": 20231225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Roll a human bowling ball",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000075082,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

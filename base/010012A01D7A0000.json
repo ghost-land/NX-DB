@@ -4,5 +4,26 @@
     "name": "Pocket Quest",
     "publisher": "QubicGames",
     "releaseDate": 20231225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Puzzle",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Step into an enchanting RPG world where you will fight in epic Match-3 battles as you traverse the lands to become a Pocket Quest legend!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000074747,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

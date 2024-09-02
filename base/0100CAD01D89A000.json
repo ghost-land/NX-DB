@@ -4,5 +4,35 @@
     "name": "Operation: Tango",
     "publisher": "Clever-Plays",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Adventure",
+        "Communication",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000075135,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
