@@ -4,5 +4,24 @@
     "name": "Suika Game",
     "publisher": "Aladdin X",
     "releaseDate": 20231020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "To prevent the fruits from overflowing from the box,  collide the same kind of fruit. As you collide fruits, their types change. Let's create big watermelons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000074332,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

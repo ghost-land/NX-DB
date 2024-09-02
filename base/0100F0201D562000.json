@@ -4,5 +4,33 @@
     "name": "ArcRunner",
     "publisher": "PQube",
     "releaseDate": 20240417,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000074121,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

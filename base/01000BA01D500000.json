@@ -4,5 +4,26 @@
     "name": "Touhou Mystia's Izakaya",
     "publisher": "Phoenixx",
     "releaseDate": 20240502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "An Izakaya simulation game set in Gensokyo, where the Touhou character Mystia Lorelei aims to revive her izakaya business!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073905,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Partial Nudity"
+    ],
+    "region": null,
+    "rightsId": null
 }

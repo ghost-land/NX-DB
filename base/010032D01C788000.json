@@ -4,5 +4,31 @@
     "name": "Super Bear Adventure",
     "publisher": "Earthkwak Games",
     "releaseDate": 20231212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Explore vast worlds in this sandbox-like 3D adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000074664,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

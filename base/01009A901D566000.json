@@ -4,5 +4,26 @@
     "name": "Xatrom Command",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Single player or multiplayer top-down shooting action",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000074054,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

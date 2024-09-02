@@ -4,5 +4,29 @@
     "name": "Anglerfish",
     "publisher": "Feardemic",
     "releaseDate": 20240229,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Go on an epic adventure equipped only with your shotgun, wit, and a strong stomach for disturbing exploration. The game only saves when you die. Can you survive a night?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000074388,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

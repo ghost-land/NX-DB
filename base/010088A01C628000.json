@@ -4,5 +4,26 @@
     "name": "Crystal Project",
     "publisher": "River Running Games",
     "releaseDate": 20240112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Platformer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Crystal Project is a non-linear JRPG where you are the maker of your own adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000074166,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Partial Nudity"
+    ],
+    "region": null,
+    "rightsId": null
 }
