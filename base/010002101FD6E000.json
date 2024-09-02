@@ -4,5 +4,29 @@
     "name": "Tactical Strike: Special Forces Shooter",
     "publisher": "Megame",
     "releaseDate": 20240815,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Your mission is to eliminate enemies, free hostages and defuse bombs to ensure safety and peace in an exciting first-person shooter!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000084040,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

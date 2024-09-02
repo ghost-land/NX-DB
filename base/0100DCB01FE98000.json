@@ -4,5 +4,25 @@
     "name": "Find the cat",
     "publisher": "MASK",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Study",
+        "Training",
+        "Party",
+        "Utility"
+    ],
+    "developer": null,
+    "intro": "Find one different cat among many cats!\nA brain training game that exercises your blink of an eye by finding cats!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000084361,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

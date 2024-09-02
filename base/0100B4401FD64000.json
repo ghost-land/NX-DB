@@ -4,5 +4,28 @@
     "name": "Samurai Kento",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Take up the samurai sword and save feudal Japan!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000084019,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Nerd Survivors",
     "publisher": "Heartbit",
     "releaseDate": 20240717,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Use pizzas, fidget spinners or katamari of monsters to fight countless enemies! Master the \"Forge\" and customize the ultimate weapon in this comedy action rogue-lite survivor.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000084012,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

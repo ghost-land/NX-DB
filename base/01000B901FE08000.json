@@ -4,5 +4,33 @@
     "name": "Aooni",
     "publisher": "GameStudio",
     "releaseDate": 20240726,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "[This is the origin of \"Blue Tragedy\"]\nThe legendary horror game \"Ao Oni\" is now available on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000084237,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
