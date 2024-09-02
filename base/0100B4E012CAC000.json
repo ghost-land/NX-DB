@@ -4,5 +4,27 @@
     "name": "Kingdom of Arcadia",
     "publisher": "eastasiasoft",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Will Sam find a way home after being sucked into his dad’s arcade cabinet?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000033669,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

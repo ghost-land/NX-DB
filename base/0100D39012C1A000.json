@@ -4,5 +4,31 @@
     "name": "Disney Dreamlight Valley",
     "publisher": "Gameloft",
     "releaseDate": 20220906,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000033556,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

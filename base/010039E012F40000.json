@@ -4,5 +4,34 @@
     "name": "Yu-Gi-Oh! Master Duel",
     "publisher": "KONAMI",
     "releaseDate": 20220118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Experience the next generation of Yu-Gi-Oh! – a digital trading card game!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000034186,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Partial Nudity",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,38 @@
     "name": "Beyond Blue",
     "publisher": "E-line Media",
     "releaseDate": 20211111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Beyond Blue is a single-player narrative adventure that takes you deep into our planet’s beating blue heart.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033662,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Blood",
+        "Mild Language",
+        "Violent References"
+    ],
+    "region": null,
+    "rightsId": null
 }

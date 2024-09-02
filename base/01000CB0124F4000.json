@@ -4,5 +4,35 @@
     "name": "Shotgun Farmers",
     "publisher": "Megastorm Games",
     "releaseDate": 20220930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Multiplayer",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Shotgun Farmers is an online multiplayer shooter where missed shots grow new guns! Fire your bullets into the ground to plant your ammo. The longer it grows the more ammo you will get!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000034215,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

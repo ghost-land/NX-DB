@@ -4,5 +4,30 @@
     "name": "Traffix",
     "publisher": "Nerd Monkeys",
     "releaseDate": 20230928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Traffix is the original traffic puzzle game.\nWith simple rules and minimalist design, you'll help drivers drive through chaotic rush hours all over the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000034097,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

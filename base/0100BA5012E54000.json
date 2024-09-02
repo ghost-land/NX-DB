@@ -4,5 +4,28 @@
     "name": "QUAKE",
     "publisher": "Bethesda",
     "releaseDate": 20221018,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000034060,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

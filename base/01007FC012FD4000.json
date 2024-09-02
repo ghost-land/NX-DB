@@ -4,5 +4,30 @@
     "name": "Georifters",
     "publisher": "Leoful",
     "releaseDate": 20211111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Manipulate the ground for victory, for honour, and for shiny crystals!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000034330,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

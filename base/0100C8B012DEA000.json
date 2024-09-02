@@ -4,5 +4,36 @@
     "name": "Temtem",
     "publisher": "Humble Games",
     "releaseDate": 20220906,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A massively multiplayer creature-collection adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033891,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Fantasy Violence",
+        "Use of Alcohol",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

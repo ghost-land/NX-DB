@@ -4,5 +4,32 @@
     "name": "Crown Trick",
     "publisher": "Team17",
     "releaseDate": 20221007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Enter a labyrinth that moves as you move, where mastering the elements is key to defeating enemies and uncovering the mysteries of this underground world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033487,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Simulated Gambling"
+    ],
+    "region": null,
+    "rightsId": null
 }

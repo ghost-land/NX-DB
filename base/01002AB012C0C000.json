@@ -4,5 +4,39 @@
     "name": "Project Winter",
     "publisher": "Other Ocean",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The perfect game to back-stab your friends. Project Winter is a multiplayer game focusing on social deception and survival. Communication and teamwork are essential to survival.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033543,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

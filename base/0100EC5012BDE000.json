@@ -4,5 +4,27 @@
     "name": "Project Starship X",
     "publisher": "eastasiasoft",
     "releaseDate": 20230316,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Dodge and blast your way through a parody-filled shmup as Swagthulhu!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "it"
+    ],
+    "nsuId": 70010000033523,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

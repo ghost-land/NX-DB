@@ -4,5 +4,31 @@
     "name": "HAAK",
     "publisher": "Blingame",
     "releaseDate": 20220825,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Welcome to HAAK, a world brimming with contraptions and dangers. Dangerous mutants walk the land while dark forces move in the shadows...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033827,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

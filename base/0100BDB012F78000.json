@@ -4,5 +4,35 @@
     "name": "Drunken Fist",
     "publisher": "eastasiasoft",
     "releaseDate": 20230316,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Beat ‘em up action meets drunken physics for a lawless good time!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000034244,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

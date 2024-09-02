@@ -4,5 +4,35 @@
     "name": "Minecraft Legends",
     "publisher": "Mojang",
     "releaseDate": 20230418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Uncover an epic legend from the Minecraft universe!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033696,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

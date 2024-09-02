@@ -4,5 +4,35 @@
     "name": "Airhead",
     "publisher": "HandyGames",
     "releaseDate": 20240607,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Help a body save a head-like organism full of air from a life-threatening leak.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000034372,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
