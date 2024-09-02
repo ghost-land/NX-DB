@@ -4,5 +4,31 @@
     "name": "EQI",
     "publisher": "Hyperstrange",
     "releaseDate": 20210423,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "EQI is a trippy first-person arcade game with spatial puzzles and a synthwave soul.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039795,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

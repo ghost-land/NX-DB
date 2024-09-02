@@ -4,5 +4,28 @@
     "name": "World Splitter",
     "publisher": "NeoBird",
     "releaseDate": 20210421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "World Splitter is a 2D² puzzle platformer, challenging you with multidimensional puzzles.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000039722,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "MiniGolf Tour",
     "publisher": "JanduSoft",
     "releaseDate": 20210902,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Arcade",
+        "Lifestyle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Show your skills and get a Hole in 1!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000039842,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

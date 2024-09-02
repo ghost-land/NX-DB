@@ -4,5 +4,32 @@
     "name": "Retro Machina",
     "publisher": "Supergg.com",
     "releaseDate": 20210512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Explore a world inhabited by robots and solve the mystery of a lost civilization",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000039924,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

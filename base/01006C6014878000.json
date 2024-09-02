@@ -4,5 +4,35 @@
     "name": "Ayo the Clown",
     "publisher": "Cloud M1",
     "releaseDate": 20210728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Let's go on an adventure to unite dog and clown!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040046,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

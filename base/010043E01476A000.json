@@ -4,5 +4,29 @@
     "name": "Foodtruck Arena",
     "publisher": "Ultimate Games",
     "releaseDate": 20210702,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Racing",
+        "Sports",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Foodtruck Arena an unconventional mix of car combat and football game, combines two things that make the world go round: food and sports.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000039429,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

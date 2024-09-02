@@ -4,5 +4,31 @@
     "name": "Football Drama",
     "publisher": "Open Lab",
     "releaseDate": 20210506,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "There is a story behind every goal. You're the manager Rocco Galliano: choose your own narrative, survive the drama, and play turn-based football matches via tactical cards and hard choices.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039597,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

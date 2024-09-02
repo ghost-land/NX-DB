@@ -4,5 +4,31 @@
     "name": "Mayhem Brawler",
     "publisher": "HERO CONCEPT",
     "releaseDate": 20210819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Mayhem Brawler is an urban fantasy themed beat 'em up that brings back the 90s arcade vibe to present day.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000039793,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "Sweets Swap",
     "publisher": "Kistler Studios",
     "releaseDate": 20210505,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Swap the sweets to match three of the same kind and advance to the next level. Simple enough but not always easy! Play now!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000040273,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

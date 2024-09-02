@@ -4,5 +4,30 @@
     "name": "Burger Bistro Story",
     "publisher": "Kairosoft",
     "releaseDate": 20220421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Open your own diner and create custom burgers in this management sim game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000039775,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
