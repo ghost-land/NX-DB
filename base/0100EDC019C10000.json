@@ -4,5 +4,33 @@
     "name": "Survive & Craft",
     "publisher": "Megame",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Survival on a raft in the middle of the endless ocean.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000060191,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

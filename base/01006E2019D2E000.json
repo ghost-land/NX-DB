@@ -4,5 +4,28 @@
     "name": "Celebrity Slot Machine",
     "publisher": "Funbox Media",
     "releaseDate": 20230406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Board Game",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Celebrity Slot Machine is a single player quick-play game that is fun for all the family - keeping Vegas-style slots in a fun and safe way for all.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000060529,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null,
+    "rightsId": null
 }

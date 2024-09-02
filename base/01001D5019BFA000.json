@@ -4,5 +4,33 @@
     "name": "XPOSED SWITCHED",
     "publisher": "Mass Creation",
     "releaseDate": 20230120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "XPOSED SWITCHED is a tribute to the golden era arcade games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060160,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

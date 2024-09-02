@@ -4,5 +4,32 @@
     "name": "RunBean Galactic",
     "publisher": "eastasiasoft",
     "releaseDate": 20230329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Run, jump and roll your way to a new high score as hazards and bonuses pop up all around the planet!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060685,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

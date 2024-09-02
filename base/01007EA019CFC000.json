@@ -4,5 +4,33 @@
     "name": "Planet Cube: Edge",
     "publisher": "Firestoke",
     "releaseDate": 20230223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Planet Cube is being invaded! Prepare to run, gun, jump and dash in this high-speed adventure set in a hand-crafted pixel art world, filled with precision platforming and thrills.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060495,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

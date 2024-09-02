@@ -4,5 +4,32 @@
     "name": "Sunwards",
     "publisher": "xiaoxiao",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "This is a challenging action adventure game. Freud said: dreams are the way to the heart. To explore in the dream of the Black Crow, smash the nightmare and finally face his heart.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060391,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

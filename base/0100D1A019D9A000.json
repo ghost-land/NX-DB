@@ -4,5 +4,32 @@
     "name": "The Blind Prophet",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230526,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Fighting",
+        "Strategy",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Take on the role of the Blind Prophet and save the residents of the corrupt city of Rotbork.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000060603,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

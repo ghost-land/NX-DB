@@ -4,5 +4,35 @@
     "name": "Papetura",
     "publisher": "Feardemic",
     "releaseDate": 20221201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "Join the unique world of hand-crafted paper creations in Papetura, an atmospheric adventure game filled with wonder and beautiful, fragile music.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060350,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Velocity Noodle",
     "publisher": "Top Hat Studios",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Help your little noodle stall by running, jumping, sliding, and teleporting to deliver noodles as quickly as you can in this high flying, breakneck speed platformer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060718,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

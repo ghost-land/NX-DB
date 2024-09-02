@@ -4,5 +4,33 @@
     "name": "Running Fable",
     "publisher": "Seashell Studio",
     "releaseDate": 20230809,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Strategy",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Running Fable is a cross-platform multiplayer racing-strategy game for up to 10 players, in which each player must place items and traps strategically before racing on fantastical levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060526,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

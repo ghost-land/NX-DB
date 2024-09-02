@@ -4,5 +4,33 @@
     "name": "THAT'S A COW",
     "publisher": "RedDeer.Games",
     "releaseDate": 20221118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Soar through the air and don't get milked in this cute game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060546,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

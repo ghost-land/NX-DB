@@ -4,5 +4,29 @@
     "name": "Homebody",
     "publisher": "Rogue Games",
     "releaseDate": 20230601,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A survival horror puzzle game with haunting memories of the past",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it"
+    ],
+    "nsuId": 70010000060673,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

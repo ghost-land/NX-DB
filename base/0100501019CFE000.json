@@ -4,5 +4,29 @@
     "name": "Space Gladiators",
     "publisher": "Seaven Studio",
     "releaseDate": 20230504,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "RPG",
+        "Platformer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Fight your way out of a planet prison in this 2D hand-drawn roguelite platformer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000060497,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

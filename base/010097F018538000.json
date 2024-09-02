@@ -4,5 +4,36 @@
     "name": "DAVE THE DIVER",
     "publisher": "NEXON",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Dive by day! Serve by night! \nThe best diving, harpooning, action-adventuring, and sushi restaurant managing experience you'll ever have.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060372,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Blood",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
