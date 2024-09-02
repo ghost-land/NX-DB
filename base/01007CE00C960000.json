@@ -4,5 +4,24 @@
     "name": "Job the Leprechaun",
     "publisher": "FrontView Studio",
     "releaseDate": 20181227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Help Job the Leprechaun in this retro-styled platformer adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000015230,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01007CE00C9600000000000000000006"
 }

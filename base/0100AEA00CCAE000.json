@@ -4,5 +4,35 @@
     "name": "Bleep Bloop",
     "publisher": "Zerouno Games",
     "releaseDate": 20190201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Party",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Meet Bleep and Bloop as they help each other overcome all the challenges that stand in their way.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015715,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100AEA00CCAE0000000000000000007"
 }

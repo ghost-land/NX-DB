@@ -4,5 +4,34 @@
     "name": "Mars or Die!",
     "publisher": "34BigThings",
     "releaseDate": 20190115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Glorious mix between roguelite and tower defense",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015713,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010048200B6060000000000000000006"
 }

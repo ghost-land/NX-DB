@@ -4,5 +4,28 @@
     "name": "Elli",
     "publisher": "BandanaKid",
     "releaseDate": 20190111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Guide Elli on her journey through the land of the Mandragora to reclaim the stolen Crystals of Time before her birthday is over!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000015291,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "010073C00BDB00000000000000000007"
 }

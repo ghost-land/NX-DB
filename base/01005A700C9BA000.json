@@ -4,5 +4,29 @@
     "name": "Hue",
     "publisher": "Curve Digital",
     "releaseDate": 20190606,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background colour.\nIncludes full colourblind support, using symbols as a colour aid.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000015191,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

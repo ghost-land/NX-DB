@@ -4,5 +4,32 @@
     "name": "Animal Hunter Z",
     "publisher": "STARSIGN",
     "releaseDate": 20181130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Animals on the island have been infected with an unknown virus! Shoot down the infected animals and restore peace to the island!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015219,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010035500CA0E0000000000000000005"
 }

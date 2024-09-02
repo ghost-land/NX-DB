@@ -4,5 +4,31 @@
     "name": "Minesweeper Genius",
     "publisher": "Blowfish Studios",
     "releaseDate": 20190212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Train your brain! Help Aristotle sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000015808,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Candleman",
     "publisher": "Candleman Games",
     "releaseDate": 20191003,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Despite only being able to burn for 10 seconds, a little candle journeys into the darkness, with the purpose of seeking the light.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015465,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

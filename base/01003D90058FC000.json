@@ -4,5 +4,29 @@
     "name": "CrossCode",
     "publisher": "Deck 13",
     "releaseDate": 20200709,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A retro-inspired 2D Action RPG. CrossCode combines 16-bit style graphics with smooth physics, fast combat , and engaging puzzle mechanics, served with a gripping sci-fi story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015327,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

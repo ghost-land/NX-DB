@@ -4,5 +4,28 @@
     "name": "Catan",
     "publisher": "Twin Sails",
     "releaseDate": 20190620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl"
+    ],
+    "nsuId": 70010000015165,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

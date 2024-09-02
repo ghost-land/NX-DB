@@ -4,5 +4,31 @@
     "name": "Mana Spark",
     "publisher": "QubicGames",
     "releaseDate": 20181223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A challenging action RPG with deep souls-like combat and rogue-like elements. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000015603,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "01005A700CC3C0000000000000000005"
 }
