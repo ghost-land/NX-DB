@@ -4,5 +4,24 @@
     "name": "Paint Ball",
     "publisher": "Kistler Studios",
     "releaseDate": 20230706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A fun platformer with a lot of wall slides, traps, tests of your skill and different stages",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000069661,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

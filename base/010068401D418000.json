@@ -4,5 +4,32 @@
     "name": "Miniland Adventure",
     "publisher": "RockGame",
     "releaseDate": 20240201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Miniland Adventure is a game where you can do anything you want to!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073642,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

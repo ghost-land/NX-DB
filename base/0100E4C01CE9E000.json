@@ -4,5 +4,34 @@
     "name": "Wall World",
     "publisher": "UniqueGames",
     "releaseDate": 20231220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Explore the mysterious Wall World on your giant robospider: mine for resources, upgrade equipment & fight off hordes of monsters. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073388,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "Krosfighter",
     "publisher": "Ankama Games",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Who will be the last one standing? Choose your hero from a wide range of universes and play with friends in this party shooter packed with colorful graphics and rogue-like features. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000072708,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "NeoSprint",
     "publisher": "Atari",
     "releaseDate": 20240627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Simulation",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "The exhilarating Atari racing classic “Sprint” series returns with NeoSprint!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000068302,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

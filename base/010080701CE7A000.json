@@ -4,5 +4,32 @@
     "name": "NecroBouncer",
     "publisher": "Ravenage Games",
     "releaseDate": 20240524,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Happy hour has arrived! Become the NecroBouncer and toss out rowdy guests in a roguelike adventure through the nightclub dungeon.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072086,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

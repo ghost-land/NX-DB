@@ -4,5 +4,26 @@
     "name": "Some Some Convenience Store",
     "publisher": "CFK",
     "releaseDate": 20240725,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Welcome to the convenience store where true love begins!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "nsuId": 70010000073129,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

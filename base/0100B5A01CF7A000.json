@@ -4,5 +4,32 @@
     "name": "Cyber Mission",
     "publisher": "eastasiasoft",
     "releaseDate": 20240821,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Fight for the future of the galaxy as a cyber trooper in a mix of shoot ’em up and run ’n gun action!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000072418,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

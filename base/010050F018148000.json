@@ -4,5 +4,23 @@
     "name": "Haunted House",
     "publisher": "Atari",
     "releaseDate": 20231012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Creep, sneak, and dash your way through hordes of ghouls and eerie ectoplasms in this roguelite reimagining of the classic Atari adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000068495,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

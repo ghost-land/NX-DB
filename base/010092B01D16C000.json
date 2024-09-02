@@ -4,5 +4,33 @@
     "name": "Pool Party",
     "publisher": "Mindscape",
     "releaseDate": 20240516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Sports",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Gather your friends and battle it out in chaotic physics-based party games in Pool Party! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072926,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

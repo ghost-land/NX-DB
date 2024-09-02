@@ -4,5 +4,25 @@
     "name": "Sir Questionnaire",
     "publisher": "Orange Pixel",
     "releaseDate": 20240116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A game of choice and chance, every room has two options, which do you pick to survive and descent deeper into the dungeon?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000070661,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

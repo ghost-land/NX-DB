@@ -4,5 +4,33 @@
     "name": "SOWON : The Toy Wonderland",
     "publisher": "CFK",
     "releaseDate": 20240502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "One night, the attic door, the one that was always closed, slid open, sending a girl falling into a strange world. Will she ever be able to get back home?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070934,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }
