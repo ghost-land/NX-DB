@@ -4,5 +4,33 @@
     "name": "Colossal Cave",
     "publisher": "Cygnus Entertainment",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Roberta Williams brings you a reimagining of the classic text adventure - venture deep into the earth and discover mystery & treasure. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000058519,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

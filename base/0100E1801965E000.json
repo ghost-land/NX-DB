@@ -4,5 +4,31 @@
     "name": "Petite Adventure",
     "publisher": "Ratalaika Games",
     "releaseDate": 20221209,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Simulation",
+        "Racing",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Control a miniature vehicle and drive your way around household obstacles",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "zh"
+    ],
+    "nsuId": 70010000058575,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

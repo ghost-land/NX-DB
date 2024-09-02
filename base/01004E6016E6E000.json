@@ -4,5 +4,36 @@
     "name": "The Crackpet Show",
     "publisher": "Ravenage Games",
     "releaseDate": 20221215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "The Crackpet Show is an action-packed rogue-lite shoot’em-up about mutated animals that fight in a bizarre TV show, crushing their opponents with a variety of weapons.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000058369,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,23 @@
     "name": "Snake Core",
     "publisher": "Orange Pixel",
     "releaseDate": 20230223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Command a range of different units as they battle aliens in a mission-based arcade game - Select your path to victory!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000058614,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,36 @@
     "name": "Red Dead Redemption",
     "publisher": "ROCKSTAR GAMES",
     "releaseDate": 20230817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Experience the epic western adventures that defined a generation",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000058660,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Drugs"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Titanium Hound",
     "publisher": "OverGamez",
     "releaseDate": 20230311,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Shooter",
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Titanium Hound is 2D retro-looking action platformer in cyberpunk genre, where you are going to pilot huge and agile exoskeleton to crush hordes of enemies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000058398,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

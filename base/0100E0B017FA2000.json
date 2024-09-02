@@ -4,5 +4,29 @@
     "name": "Mission 1985",
     "publisher": "Consulog",
     "releaseDate": 20221001,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "This game is a tribute to the Run \"N Gun games (Commando, Ikari Warrior, Heavy Barrel, Guerilla Wars, Mercs...) from the mid 1980's that you could find in arcades or on 16 bit consoles.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000058628,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

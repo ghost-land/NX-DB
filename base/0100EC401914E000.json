@@ -4,5 +4,33 @@
     "name": "Roller Drama",
     "publisher": "Open Lab",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Sports",
+        "Arcade",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Performance is a mindset!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000058332,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence",
+        "Sexual Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }
