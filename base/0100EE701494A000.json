@@ -4,5 +4,34 @@
     "name": "Tomb of the Mask",
     "publisher": "Happymagenta",
     "releaseDate": 20211027,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Test your reflexes in a mysterious labyrinth full of enemies and deadly traps!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000046832,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

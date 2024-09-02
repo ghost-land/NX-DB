@@ -4,5 +4,40 @@
     "name": "Capcom Arcade 2nd Stadium",
     "publisher": "CAPCOM",
     "releaseDate": 20220721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Play more of your favorite arcade hits from yesteryear.\nIncludes SONSON for free!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046673,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Mild Language",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Will You Snail?",
     "publisher": "No Gravity Games",
     "releaseDate": 20220309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Discover the dark secrets of the simulation and avoid all the dangers prepared by Squid, the evil AI that tries to defeat you by using the prediction of your movements! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000046243,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

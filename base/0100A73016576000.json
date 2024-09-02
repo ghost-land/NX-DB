@@ -4,5 +4,33 @@
     "name": "Tinykin",
     "publisher": "tinyBuild Games",
     "releaseDate": 20220830,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Catch hundreds of tinykin and use their powers to bring Milo back to his home planet!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000046218,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

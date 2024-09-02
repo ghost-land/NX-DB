@@ -4,5 +4,30 @@
     "name": "Guild of Ascension",
     "publisher": "Plug In Digital",
     "releaseDate": 20220119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Guild of Ascension is a Tactical-Action-RPG with rogue-lite elements, mixing turn-based combat with real-time action combo system.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046687,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

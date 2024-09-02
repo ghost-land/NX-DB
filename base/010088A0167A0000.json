@@ -4,5 +4,35 @@
     "name": "LOVE 3",
     "publisher": "Screenwave Media",
     "releaseDate": 20211207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Set your own checkpoints in this precision platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046646,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

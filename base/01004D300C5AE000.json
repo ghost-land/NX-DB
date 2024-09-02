@@ -4,5 +4,31 @@
     "name": "Kirby™ and the Forgotten Land",
     "publisher": "Nintendo",
     "releaseDate": 20220325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Join Kirby in an unforgettable journey through a mysterious world in a 3D platforming adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046405,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

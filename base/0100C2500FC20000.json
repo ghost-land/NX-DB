@@ -4,5 +4,35 @@
     "name": "Splatoon™ 3",
     "publisher": "Nintendo",
     "releaseDate": 20220909,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Ink, swim, and splat in the freshest shooter around",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046395,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Amazing Chicken Adventures",
     "publisher": "Piotr Rochala",
     "releaseDate": 20221031,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Start an adventure where gravity is your worst enemy & save the world one egg at a time in this 3D egg-rolling puzzle platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000046655,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
