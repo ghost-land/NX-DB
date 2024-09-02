@@ -4,5 +4,29 @@
     "name": "Star Ghost",
     "publisher": "Squarehead",
     "releaseDate": 20171201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Blast through waves of enemies as you confront the evil Metagon empire and save the human race!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000003201,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01002EB007D3A0000000000000000003"
 }

@@ -4,5 +4,34 @@
     "name": "The Final Station",
     "publisher": "tinyBuild Games",
     "releaseDate": 20180227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "RPG",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Travel by train through a dying world. Look after your passengers, keep your train operational, and make sure you can always reach the next station. Make your way through swarms of infected at each station. Explore mysterious and abandoned stations looking for supplies and survivors.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000002983,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100CDC00789E0000000000000000004"
 }

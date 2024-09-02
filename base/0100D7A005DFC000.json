@@ -4,5 +4,23 @@
     "name": "Tennis",
     "publisher": "D3PUBLISHER",
     "releaseDate": 20180125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "A simple yet exhilarating tennis game to play anytime!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000003428,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "0100D7A005DFC0000000000000000003"
 }

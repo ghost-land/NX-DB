@@ -4,5 +4,30 @@
     "name": "Runbow",
     "publisher": "Headup Games",
     "releaseDate": 20180703,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Are You Ready To Runbow?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000002581,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": "0100ADF00700E0000000000000000004"
 }

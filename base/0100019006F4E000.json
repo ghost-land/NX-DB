@@ -4,5 +4,33 @@
     "name": "I Am The Hero",
     "publisher": "Ratalaika Games",
     "releaseDate": 20181201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "I Am The Hero is a pixel art, beat 'em up, fighting game that tells the story of a \"Hero\" with a glorious but mysterious past. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000002501,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Sexualised Imagery",
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100019006F4E0000000000000000005"
 }

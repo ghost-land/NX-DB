@@ -4,5 +4,33 @@
     "name": "Ninjala",
     "publisher": "GUNGHOONLINE",
     "releaseDate": 20200625,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "An online action battle game featuring ninja and gum! \nAssume the role of a modern-day ninja and take part in the Ninjala tournament! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000002742,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

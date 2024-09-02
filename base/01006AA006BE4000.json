@@ -4,5 +4,29 @@
     "name": "Tallowmere",
     "publisher": "Teyon",
     "releaseDate": 20171110,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Strategy",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Raise your shield. Embrace Lady Tallowmere's dungeons. How far can you make it?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000002221,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": "01006AA006BE40000000000000000003"
 }

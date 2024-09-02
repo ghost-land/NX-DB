@@ -4,5 +4,34 @@
     "name": "Arena of Valor",
     "publisher": "Tencent Games",
     "releaseDate": 20181016,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Strategy",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000002021,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Shares Location",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": "01008D8006A6A0000000000000000005"
 }

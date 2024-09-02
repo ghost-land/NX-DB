@@ -4,5 +4,25 @@
     "name": "Ace of Seafood",
     "publisher": "Calappa Games",
     "releaseDate": 20180222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "In the seas of the distant future, humans have all but disappeared.\nNow fish and crustaceans fight great wars, shooting deadly rays of light at each other.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000002962,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100FF1004D560000000000000000003"
 }

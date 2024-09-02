@@ -4,5 +4,31 @@
     "name": "One More Dungeon",
     "publisher": "Ratalaika Games",
     "releaseDate": 20171216,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "One More Dungeon is a first person shooter roguelike with procedurally generated levels and pixel-art graphics.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000001962,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100BD3006A020000000000000000003"
 }

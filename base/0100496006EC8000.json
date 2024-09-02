@@ -4,5 +4,27 @@
     "name": "Arcade Archives FRONT LINE",
     "publisher": "HAMSTER",
     "releaseDate": 20190215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "You have only yourself to depend on. Make your way through the unforgiving battlefield and take out the enemy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000002465,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
