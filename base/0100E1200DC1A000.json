@@ -4,5 +4,32 @@
     "name": "Bounty Battle",
     "publisher": "Merge Games",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The ultimate indie fighting game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000018839,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

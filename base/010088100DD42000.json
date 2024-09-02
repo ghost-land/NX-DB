@@ -4,5 +4,34 @@
     "name": "Roof Rage",
     "publisher": "Early Melon",
     "releaseDate": 20191017,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Roof Rage is a Martial Arts Platform Fighter featuring epic rooftop battles. Multiplayer up to 8 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000018944,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

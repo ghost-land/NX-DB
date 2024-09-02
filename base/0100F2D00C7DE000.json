@@ -4,5 +4,29 @@
     "name": "Exception",
     "publisher": "Traxmaster Software",
     "releaseDate": 20190813,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Exception is a combat platformer set inside a computer system which has been hijacked by a totalitarian virus. Lead the resistance across stylistic transforming levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000018223,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

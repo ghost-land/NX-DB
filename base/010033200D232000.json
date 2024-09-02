@@ -4,5 +4,30 @@
     "name": "Domiverse",
     "publisher": "Haunted Tie",
     "releaseDate": 20191017,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Multiplayer",
+        "Platformer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Play against your friends in this frenzied arena fighting game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000018907,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null,
+    "rightsId": null
 }

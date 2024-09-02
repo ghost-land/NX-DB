@@ -4,5 +4,29 @@
     "name": "Automachef",
     "publisher": "Team17",
     "releaseDate": 20190723,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Welcome to Automachef, a resource management puzzler where you design kitchens, program machinery and watch your genius come to life!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000018361,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

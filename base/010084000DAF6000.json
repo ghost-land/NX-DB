@@ -4,5 +4,31 @@
     "name": "Vectronom",
     "publisher": "ARTE Experience",
     "releaseDate": 20190529,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Music",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A hypnotic video game about music, geometry and flow.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000018571,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

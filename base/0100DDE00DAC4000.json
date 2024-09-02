@@ -4,5 +4,28 @@
     "name": "Cubixx",
     "publisher": "Ghostlight",
     "releaseDate": 20191003,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Cubixx is a fast paced action puzzle game which sends high scoring, combo chasing gameplay to the third dimension!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000018607,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

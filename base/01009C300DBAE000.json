@@ -4,5 +4,31 @@
     "name": "Minefield",
     "publisher": "Vertical Reach",
     "releaseDate": 20190404,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Walking through the Minefield.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000018846,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

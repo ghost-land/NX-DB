@@ -4,5 +4,31 @@
     "name": "Vigor",
     "publisher": "Bohemia Interactive",
     "releaseDate": 20200708,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Outlive the apocalypse! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000018568,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

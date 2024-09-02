@@ -4,5 +4,25 @@
     "name": "OMG Zombies!",
     "publisher": "Ghostlight",
     "releaseDate": 20190327,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Puzzle",
+        "Strategy",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "OMG! Alert! Alert! The City of Redfield has been hit by an outbreak of exploding zombies!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000018767,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

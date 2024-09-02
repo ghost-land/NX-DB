@@ -4,5 +4,31 @@
     "name": "The Otterman Empire",
     "publisher": "Tri-Heart Interactive",
     "releaseDate": null,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "An intense quick-fire party shooter with jetpacks set in a world where otters rule!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000018782,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
