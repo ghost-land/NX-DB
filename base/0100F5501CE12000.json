@@ -4,5 +4,32 @@
     "name": "Fearmonium",
     "publisher": "Ratalaika Games",
     "releaseDate": 20231208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Discover the strange, mysterious secrets of a troubled mind in the role of a growing phobia",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000071935,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

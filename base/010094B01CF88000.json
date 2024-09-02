@@ -4,5 +4,35 @@
     "name": "House",
     "publisher": "Glowstick Entertainment",
     "releaseDate": 20240329,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Race against time to change fate...or fall into darkness yourself.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072434,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

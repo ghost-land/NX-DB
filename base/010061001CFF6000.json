@@ -4,5 +4,29 @@
     "name": "Spear Master",
     "publisher": "Osarion",
     "releaseDate": 20240227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "You are the son of a mighty hero. Now it's your turn to protect the world from an ancient evil.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "nsuId": 70010000072578,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Sokobond Express",
     "publisher": "Draknek",
     "releaseDate": 20240418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Sokobond Express is a beautifully minimalist puzzle game that combines chemical bonds and puzzling pathfinding in novel ways.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000071880,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

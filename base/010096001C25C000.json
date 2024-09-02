@@ -4,5 +4,36 @@
     "name": "Crossy Road Castle",
     "publisher": "Hipster Whale",
     "releaseDate": 20240911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Castle climbing co-op with the Crossy Road crew!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072145,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

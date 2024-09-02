@@ -4,5 +4,30 @@
     "name": "Clue",
     "publisher": "Marmalade Game Studio",
     "releaseDate": 20231225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Six suspects, one murder. Join detectives, gather evidence & solve the mystery!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000072283,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

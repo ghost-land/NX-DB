@@ -4,5 +4,31 @@
     "name": "SkateCat",
     "publisher": "Nami Tentou",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Embark on a purr-fect 8-bit adventure with SkateCat, the ultimate platformer game where you step into the paws of a fearless feline skater!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072286,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "Eldgear",
     "publisher": "KEMCO",
     "releaseDate": 20240307,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Live a grand adventure as an agent of Eldia to seal the ancient ruins!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000072482,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

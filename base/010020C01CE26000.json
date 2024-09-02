@@ -4,5 +4,25 @@
     "name": "Firebird",
     "publisher": "Ludogram",
     "releaseDate": 20231121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Firebird is a narrative road trip inspired by Slavic folklore. Aboard your truck, travel to the far north, meet colorful characters, and face the creatures inhabiting these sacred lands.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "ru"
+    ],
+    "nsuId": 70010000072046,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

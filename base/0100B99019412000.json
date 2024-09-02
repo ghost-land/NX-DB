@@ -4,5 +4,31 @@
     "name": "Mario vs. Donkey Kong™",
     "publisher": "Nintendo",
     "releaseDate": 20240216,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Donkey Kong has stolen the Mini-Marios! Solve platforming puzzles to get them back",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072191,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

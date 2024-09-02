@@ -4,5 +4,33 @@
     "name": "Hand in Hand",
     "publisher": "OverGamez",
     "releaseDate": 20240511,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Immerse yourself in the ethnic world of two heroes, solve puzzles and overcome obstacles together, explore the fairy forest and other locations, help each other.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072270,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

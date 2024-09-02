@@ -4,5 +4,30 @@
     "name": "Helix Jump",
     "publisher": "QubicGames",
     "releaseDate": 20231208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Party",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Blast your way through helix platforms, smash, bump and bounce to reach the end! Sounds easy? You wish!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000072363,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

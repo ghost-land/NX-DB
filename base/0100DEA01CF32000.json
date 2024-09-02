@@ -4,5 +4,27 @@
     "name": "Escape First Alchemist",
     "publisher": "OnSkull Development",
     "releaseDate": 20240222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Multiplayer",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "First-person adventure game, playable solo or co-op with up to 4 people. Solve riddles of a reclusive alchemist that trapped you in his workshop.  ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000072382,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor"
+    ],
+    "region": null,
+    "rightsId": null
 }
