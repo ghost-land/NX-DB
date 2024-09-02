@@ -4,5 +4,29 @@
     "name": "A Western Drama",
     "publisher": "IV Productions",
     "releaseDate": 20230522,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Follow a dramatic story in the typical spaghetti-western style.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000056018,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Understand",
     "publisher": "mazette!",
     "releaseDate": 20220707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An experimental puzzle game about guessing rules. In each level, you have to figure out the rules through trial and error, then draw a line satisfying all rules.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000055614,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

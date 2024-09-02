@@ -4,5 +4,30 @@
     "name": "EchoBlade",
     "publisher": "eastasiasoft",
     "releaseDate": 20230705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Venture forth in this puzzle-combat dungeon explorer where sound is your only guide!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000055940,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

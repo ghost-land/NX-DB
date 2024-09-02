@@ -4,5 +4,33 @@
     "name": "Monster destroyer",
     "publisher": "Elusor",
     "releaseDate": 20220806,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Survive and Roguelike\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000055871,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

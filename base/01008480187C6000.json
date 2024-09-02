@@ -4,5 +4,38 @@
     "name": "DARQ Ultimate Edition",
     "publisher": "Feardemic",
     "releaseDate": 20230303,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "DARQ tells the story of Lloyd, a boy who finds himself in the middle of a lucid nightmare. Unable to wake up, Lloyd has to face his fears and decipher the meaning of the dream.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000055601,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Catmaze",
     "publisher": "Ratalaika Games",
     "releaseDate": 20220909,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Nostalgic metroidvania with innovative role-playing game elements",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000056142,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

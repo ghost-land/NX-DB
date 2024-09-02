@@ -4,5 +4,28 @@
     "name": "TERAVIT",
     "publisher": "CyberStep",
     "releaseDate": 20231130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Racing",
+        "Communication",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Welcome to \"TERAVIT\", a sandbox game created by players! With its three elements of \"Create, Play, and Share\", you can enjoy adventure and endless creation!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000055773,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

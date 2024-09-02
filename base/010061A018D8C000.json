@@ -4,5 +4,27 @@
     "name": "Escape Goat",
     "publisher": "Adam Spragg Games",
     "releaseDate": 20220929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Escape Goat is a puzzle platformer where you take control of a goat, who has been imprisoned for witchcraft, and overcome traps and obstacles to escape the Prison of Agnus!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000056022,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

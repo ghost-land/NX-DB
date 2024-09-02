@@ -4,5 +4,27 @@
     "name": "Run Sausage Run!",
     "publisher": "QubicGames",
     "releaseDate": 20221111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "The most exciting sausage race in the world!\nLet the bodies hit the floor in a ketchup bath!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000055549,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

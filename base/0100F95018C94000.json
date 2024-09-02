@@ -4,5 +4,29 @@
     "name": "SAOMI",
     "publisher": "QUByte Interactive",
     "releaseDate": 20220915,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Come help Saomi in this great and amazing adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000055709,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
