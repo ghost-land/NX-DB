@@ -4,5 +4,24 @@
     "name": "SuperDuck!",
     "publisher": "House of Pandas",
     "releaseDate": 20220707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Explore levels, create paths for the ducklings to reach the exit and save them from being stranded in this puzzle platformer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000054483,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

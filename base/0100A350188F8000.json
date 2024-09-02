@@ -4,5 +4,26 @@
     "name": "OmegaBot",
     "publisher": "RED ART GAMES",
     "releaseDate": 20230120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "As the OmegaBot, dodge metallic dangers, acquire powerful weapons and blast your way through a ravaged world full of deadly machines.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000054821,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

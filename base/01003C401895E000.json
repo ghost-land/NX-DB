@@ -4,5 +4,32 @@
     "name": "GARFIELD LASAGNA PARTY",
     "publisher": "Microids",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Who will win the Lasagna Party?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054908,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

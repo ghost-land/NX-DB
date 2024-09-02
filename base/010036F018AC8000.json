@@ -4,5 +4,29 @@
     "name": "Nuclear Blaze",
     "publisher": "RED ART GAMES",
     "releaseDate": 20230428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Nuclear Blaze is a dynamic 2D Action game in which the player plays as a firefighter air-dropped in the middle of a mysterious burning facility.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000055376,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "PAW Patrol World",
     "publisher": "Outright Games",
     "releaseDate": 20230927,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Join the PAW Patrol pups in a free-roaming 3D adventure full of pup-tastic fun!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000055977,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General",
+        "In-game purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

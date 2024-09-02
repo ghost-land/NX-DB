@@ -4,5 +4,32 @@
     "name": "Rising Dusk",
     "publisher": "Shinyuden",
     "releaseDate": 20231214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Avoid the coins!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054122,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

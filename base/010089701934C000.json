@@ -4,5 +4,30 @@
     "name": "Helvetii",
     "publisher": "RED ART GAMES",
     "releaseDate": 20230203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Helvetii is a 2D brawler roguelite set in Gallic Celtic Mythology. Use the powers bestowed by primal deities to fight your way through hordes of creatures.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000057670,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

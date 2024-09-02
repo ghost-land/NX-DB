@@ -4,5 +4,29 @@
     "name": "Sophstar",
     "publisher": "RED ART GAMES",
     "releaseDate": 20221028,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Sophstar is a vertical arcade shoot'em up with lots of fast-blazing action and explosions, tons of boss fights, a risk/reward based score system!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000054031,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

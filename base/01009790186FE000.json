@@ -4,5 +4,34 @@
     "name": "SMURFS KART",
     "publisher": "Microids",
     "releaseDate": 20221116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Racing",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Who will be the fastest Smurf in town?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054395,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

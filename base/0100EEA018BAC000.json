@@ -4,5 +4,28 @@
     "name": "Scrap Riders",
     "publisher": "Microids",
     "releaseDate": 20230110,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Fighting",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Adventure game meets Point-N-Click and Beat 'Em Up!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000055558,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
