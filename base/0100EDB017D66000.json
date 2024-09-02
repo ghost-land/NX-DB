@@ -4,5 +4,31 @@
     "name": "Superola Champion Edition",
     "publisher": "JanduSoft",
     "releaseDate": 20220714,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Guide a burger loving llama in its quest to defeat the Hotdog Aliens",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000051667,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

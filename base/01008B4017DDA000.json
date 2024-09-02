@@ -4,5 +4,23 @@
     "name": "Balloon Flight",
     "publisher": "RedDeer.Games",
     "releaseDate": 20220527,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Simulation",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Use your balloon-gun to plant and destroy balloons in this physics based game. Get as far as possible on your glider, before you run out of time. Find a way to avoid falling off!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "nsuId": 70010000051768,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

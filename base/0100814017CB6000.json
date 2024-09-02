@@ -4,5 +4,31 @@
     "name": "The Jackbox Party Starter",
     "publisher": "Jackbox Games",
     "releaseDate": 20220630,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Communication",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000051403,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Fantasy Violence",
+        "Suggestive Themes",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

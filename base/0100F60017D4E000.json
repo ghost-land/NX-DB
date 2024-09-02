@@ -4,5 +4,37 @@
     "name": "Bravery and Greed",
     "publisher": "Team17",
     "releaseDate": 20221115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Bravery and Greed is a beat 'em up, roguelite, dungeon brawler for up to four players. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051637,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

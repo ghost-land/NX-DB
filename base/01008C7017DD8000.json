@@ -4,5 +4,28 @@
     "name": "Robotry!",
     "publisher": "Lockpickle",
     "releaseDate": 20221026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A platformer without a jump button. Create chaos with physics!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000051759,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

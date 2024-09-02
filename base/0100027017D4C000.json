@@ -4,5 +4,27 @@
     "name": "Beasties",
     "publisher": "JUST FOR GAMES",
     "releaseDate": 20220701,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Capture and become the master of all the Beasties! In this match-3 game, win your battles in turn-based puzzles!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000051628,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

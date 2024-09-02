@@ -4,5 +4,34 @@
     "name": "Mr. Prepper",
     "publisher": "Ultimate Games",
     "releaseDate": 20220603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Mr. Prepper is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000051680,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

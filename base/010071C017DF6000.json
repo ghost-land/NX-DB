@@ -4,5 +4,32 @@
     "name": "Blow & Fly",
     "publisher": "eastasiasoft",
     "releaseDate": 20220525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Propel yourself through the air with a blast of water and roll your way to freedom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000051819,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

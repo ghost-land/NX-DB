@@ -4,5 +4,33 @@
     "name": "Whisper Trip",
     "publisher": "OOO Valnat",
     "releaseDate": 20220428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Whisper Trip is a fast cooperative action side-scroller with a touch of cyberpunk. You’re a newly recruited \"Tactical Police Force\" agent.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000051639,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

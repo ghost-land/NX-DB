@@ -4,5 +4,23 @@
     "name": "Book Quest",
     "publisher": "eastasiasoft",
     "releaseDate": 20220810,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embark on a medieval adventure to reclaim a family heirloom of great power!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000051323,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

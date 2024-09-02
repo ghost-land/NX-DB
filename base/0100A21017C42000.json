@@ -4,5 +4,38 @@
     "name": "Another Crab's Treasure",
     "publisher": "Aggro Crab Games",
     "releaseDate": 20240425,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "A soulslike adventure set in a crumbling underwater world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051252,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

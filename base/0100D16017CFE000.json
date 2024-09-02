@@ -4,5 +4,27 @@
     "name": "Kofi Quest",
     "publisher": "Loftur Studio Games",
     "releaseDate": 20220825,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Not-so-serious adventure that unites mechanics from Action RPG and RTS games.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "zh"
+    ],
+    "nsuId": 70010000051485,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }
