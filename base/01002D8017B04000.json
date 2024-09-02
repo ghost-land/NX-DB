@@ -4,5 +4,27 @@
     "name": "Ashland Dossier",
     "publisher": "Console Labs",
     "releaseDate": 20220427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Take on the role of the leader of a special task force whose task is to hunt Nazis down. Bring these criminals to justice by gathering evidence of war crimes against them.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000051022,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

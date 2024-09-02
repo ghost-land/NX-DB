@@ -4,5 +4,35 @@
     "name": "SUPER CRAZY RHYTHM CASTLE",
     "publisher": "Konami Digital Entertainment GmbH",
     "releaseDate": 20231114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Party",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "It’s Super Crazy Rhythm Castle, the chaotic rhythm adventure! \nA puzzling co-op mashup unlike anything you've ever heard.\nCan you conquer the castle?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050206,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild fantasy themes, violence and occasional coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,24 @@
     "name": "Simple Mini Golf",
     "publisher": "Kistler Studios",
     "releaseDate": 20220302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Party",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Simply mini golf, playable up to 8 players!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000051339,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Resident Evil 2 Cloud",
     "publisher": "CAPCOM",
     "releaseDate": 20221111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "THIS GAME USES CLOUD STREAMING. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000054013,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and gore",
+        "High impact violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

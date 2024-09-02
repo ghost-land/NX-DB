@@ -4,5 +4,31 @@
     "name": "My Brother Ate My Pudding!",
     "publisher": "hap Inc.",
     "releaseDate": 20220421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Adventure",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "It's gone! Where is my pudding? My brother ate my pudding!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000051469,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

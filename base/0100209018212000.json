@@ -4,5 +4,27 @@
     "name": "Overrogue",
     "publisher": "KEMCO",
     "releaseDate": 20220707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A card deck-building roguelite! Explore labyrinths each time from level 1!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000053159,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mature Themes",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

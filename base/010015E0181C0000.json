@@ -4,5 +4,29 @@
     "name": "Mad Experiments: Escape Room",
     "publisher": "Ultimate Games",
     "releaseDate": 20221015,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Party",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Award-nominated escape game. Alone or with up to 5 players, explore 3 unique rooms, solve mind-bending puzzles, and unravel the dark secrets of the Professor Cheshire.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000053013,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

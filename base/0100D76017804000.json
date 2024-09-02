@@ -4,5 +4,27 @@
     "name": "Dino Galaxy Tennis",
     "publisher": "Forever Entertainment",
     "releaseDate": 20220211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Dino Galaxy Tennis is a 2D side-view action Tennis game set in space on the surface of various planets with all sorts of dinosaurs.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000050172,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
