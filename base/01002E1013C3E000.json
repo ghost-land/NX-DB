@@ -4,5 +4,26 @@
     "name": "Katana Kata",
     "publisher": "Samustai",
     "releaseDate": 20210227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Indie souls-like with innovative fight system where you practice your Katana on the path for endless improvement; again and again.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036834,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

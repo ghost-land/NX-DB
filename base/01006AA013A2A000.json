@@ -4,5 +4,30 @@
     "name": "Duel on Board",
     "publisher": "indienova",
     "releaseDate": 20210305,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Sports",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Duel on Board is a 1 vs 1 local multiplayer competitive / party game where pirates fight for the precious beer while sailing the dangerous high seas. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000036241,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

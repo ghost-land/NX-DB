@@ -4,5 +4,27 @@
     "name": "Arcade Archives HALLEY'S COMET",
     "publisher": "HAMSTER",
     "releaseDate": 20210129,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Halley's Comet is on a collision course \nwith the Solar System! \nYou've got to stop it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000036523,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Pyre on Fire",
     "publisher": "GAME NACIONAL",
     "releaseDate": 20210601,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A different game, in 8 languages. Exploration with dialogues and puzzles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000036614,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

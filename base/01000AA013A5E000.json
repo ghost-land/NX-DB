@@ -4,5 +4,32 @@
     "name": "Breathedge",
     "publisher": "HYPETRAIN DIGITAL",
     "releaseDate": 20210407,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Survive in outer space! Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000036318,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Crude Humour"
+    ],
+    "region": null,
+    "rightsId": null
 }

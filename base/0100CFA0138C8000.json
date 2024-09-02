@@ -4,5 +4,30 @@
     "name": "Missile Dancer",
     "publisher": "MoonGlass",
     "releaseDate": 20210122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Welcome to the dancehall! The only music here are the aircrafts soaring the skies! Make your way through the enemy lines and save us from the final war!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000036233,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

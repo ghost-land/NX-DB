@@ -4,5 +4,34 @@
     "name": "NUTS",
     "publisher": "Noodlecake",
     "releaseDate": 20210205,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Spy on squirrels in the forest",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036370,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

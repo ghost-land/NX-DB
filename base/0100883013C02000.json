@@ -4,5 +4,25 @@
     "name": "Dat Gaem",
     "publisher": "Ultimate Games",
     "releaseDate": 20210227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Dat Gaem is a humorous JRPG with stealth elements and logic puzzles for players at every age.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000036788,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

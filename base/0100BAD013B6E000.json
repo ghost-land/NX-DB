@@ -4,5 +4,29 @@
     "name": "Radio Commander",
     "publisher": "Console Labs",
     "releaseDate": 20210112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "In Radio Commander you are playing as an American military commander serving in US Army during the Vietnam War. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036633,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

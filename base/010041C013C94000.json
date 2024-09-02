@@ -4,5 +4,27 @@
     "name": "Together",
     "publisher": "Ultimate Games",
     "releaseDate": 20210616,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Discover a new world, but do not do it alone - take a friend, play together! Travel together through increasingly demanding levels of difficulty in many interesting biomes. Color the world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000036938,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Unbound: Worlds Apart",
     "publisher": "Alien Pixel Publishing",
     "releaseDate": 20210728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Summon portals to overcome vicious beasts, devious puzzles and fiendish platforming challenges. Master the powers of each portal to stop the collapse of reality.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036649,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

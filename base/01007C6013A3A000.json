@@ -4,5 +4,29 @@
     "name": "Mahjong Adventure",
     "publisher": "Fantastico Studio",
     "releaseDate": 20210112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Develop your mind and patience and strategy skills in Mahjong Adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000036271,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

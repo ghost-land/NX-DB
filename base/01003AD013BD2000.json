@@ -4,5 +4,28 @@
     "name": "Eight Dragons",
     "publisher": "JanduSoft",
     "releaseDate": 20210527,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "An old-school scrolling beat-'em-up for up to eight players!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036739,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
