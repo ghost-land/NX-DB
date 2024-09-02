@@ -4,5 +4,32 @@
     "name": "Sushi Bar Express",
     "publisher": "Funbox Media",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Board Game",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Experience the dizzying life of a top sushi chef as you prepare sushi dishes in this exciting time-management cooking adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061691,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

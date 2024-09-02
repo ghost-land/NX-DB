@@ -4,5 +4,34 @@
     "name": "emoji Kart™ Racer",
     "publisher": "Joindots",
     "releaseDate": 20230310,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "The time has finally come:\nthe first official emoji™ video game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061965,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

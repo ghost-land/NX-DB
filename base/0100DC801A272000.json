@@ -4,5 +4,31 @@
     "name": "Zoeti",
     "publisher": "Akupara Games",
     "releaseDate": 20230420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Strategy",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Zoeti is a turn-based roguelike that features a deck of playing cards to create card combos to activate skills in the heat of battle.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062039,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

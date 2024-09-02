@@ -4,5 +4,35 @@
     "name": "Summum Aeterna",
     "publisher": "Aeternum Game Studios",
     "releaseDate": 20230914,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Descend into the most dangerous deeps of Aeterna, and fight your way to the end!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062233,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

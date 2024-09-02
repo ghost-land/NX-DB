@@ -4,5 +4,32 @@
     "name": "Elta7",
     "publisher": "BluSped Studio",
     "releaseDate": 20230120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Roguelike Demon City shooting game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061738,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

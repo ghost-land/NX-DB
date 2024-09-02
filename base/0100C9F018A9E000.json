@@ -4,5 +4,30 @@
     "name": "Dogfight",
     "publisher": "Hound Picked Games",
     "releaseDate": 20230413,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Classic arcade shoot-’em-up action is back! Team up with the entire family for explosive action, signature humor and thrilling adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000061929,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

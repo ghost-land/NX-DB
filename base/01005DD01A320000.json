@@ -4,5 +4,34 @@
     "name": "Dragon Fury",
     "publisher": "Esenthel",
     "releaseDate": 20230113,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "1v1 Fighting. Ninjas, Pirates, Robots, Aliens and more.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000062194,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

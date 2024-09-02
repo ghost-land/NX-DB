@@ -4,5 +4,35 @@
     "name": "Brotato",
     "publisher": "Seaven Studio",
     "releaseDate": 20230803,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A top-down arena shooter roguelite",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062161,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

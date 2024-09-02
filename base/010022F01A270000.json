@@ -4,5 +4,30 @@
     "name": "Steel Defier",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The spaceship’s defense system is malfunctioning and you must survive!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000061973,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

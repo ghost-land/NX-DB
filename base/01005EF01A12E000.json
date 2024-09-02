@@ -4,5 +4,34 @@
     "name": "Bro Falls DELUXE",
     "publisher": "Boros Bros",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Platformer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Bro Falls is an asymmetric massively multiplayer party game with chaotic elements, trap activations, and big Falls. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000061884,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
