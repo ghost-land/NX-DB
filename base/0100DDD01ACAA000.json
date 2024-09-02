@@ -4,5 +4,32 @@
     "name": "The Entropy Centre",
     "publisher": "Playstack",
     "releaseDate": 20230727,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A mind-bending first-person adventure where you solve ingenious and complex puzzles by rewinding objects through time.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064936,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

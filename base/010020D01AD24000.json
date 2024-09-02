@@ -4,5 +4,32 @@
     "name": "ANIMAL WELL",
     "publisher": "Bigmode",
     "releaseDate": 20240509,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Explore the intricate labyrinth and uncover its many secrets",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000065090,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

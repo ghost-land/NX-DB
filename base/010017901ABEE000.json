@@ -4,5 +4,23 @@
     "name": "Air Hockey Arcade: Casual Board Game",
     "publisher": "Megame",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Arcade",
+        "Puzzle",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Classic arcade sport board game where you can challenge both AI and your friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000064725,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

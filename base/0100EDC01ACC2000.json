@@ -4,5 +4,22 @@
     "name": "Ratyboy Adventures",
     "publisher": "Weakfish Studio",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "In this 3D platformer game where we play as a mouse living in a big house, we try to collect the stars placed at certain points in the rooms of the house and overcome the challenging platform ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000065001,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

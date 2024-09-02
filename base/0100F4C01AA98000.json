@@ -4,5 +4,26 @@
     "name": "BroodStar",
     "publisher": "Schmidthoffer David",
     "releaseDate": 20230624,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "BroodStar is a classic arcade shmup with roguelike elements. Acquire crazy item combos, encounter strange events and fight challenging bosses.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000064836,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

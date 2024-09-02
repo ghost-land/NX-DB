@@ -4,5 +4,25 @@
     "name": "BookyPets Legends",
     "publisher": "DevilishGames",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Education",
+        "RPG",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "BookyPets Legends is an adventure, exploration and collecting videogame, designed to encourage reading among children from 7 to 12 years old in an easy and fun way.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000064546,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

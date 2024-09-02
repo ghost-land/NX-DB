@@ -4,5 +4,23 @@
     "name": "Sudoku: Casual Board Game",
     "publisher": "Megame",
     "releaseDate": 20230518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "Sudoku is a very old puzzle for training the mind, logic and attentiveness!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000064757,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

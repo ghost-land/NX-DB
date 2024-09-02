@@ -4,5 +4,31 @@
     "name": "The Answer is 42",
     "publisher": "Mens Sana Interactive",
     "releaseDate": 20230406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Board Game",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "The answer to life, the universe, and everything. Connect the numbers. Fill the board. You will find out.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000064903,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

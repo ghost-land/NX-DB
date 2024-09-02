@@ -4,5 +4,28 @@
     "name": "SUBNET - Escape Room Adventure",
     "publisher": "M9 GAMES",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An escape room inspired adventure. Play as an IT expert sent on a mission to track down and stop the hacker group drkFORCE and their underground subway exploit before they escape!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000064654,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

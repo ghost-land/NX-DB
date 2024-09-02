@@ -4,5 +4,30 @@
     "name": "Backpack Hero",
     "publisher": "Different Tales",
     "releaseDate": 20231114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The inventory management roguelike! Collect rare items, organize your backpack, and vanquish your foes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064674,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

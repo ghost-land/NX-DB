@@ -4,5 +4,31 @@
     "name": "The Making of Karateka",
     "publisher": "Digital Eclipse",
     "releaseDate": 20230829,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Play the history of Prince of Persia creator Jordan Mechner's landmark debut game, Karateka.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000065141,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

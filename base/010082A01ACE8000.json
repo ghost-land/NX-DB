@@ -4,5 +4,32 @@
     "name": "Paperman: Adventure Delivered",
     "publisher": "Mindscape",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Meet Paperman and the team in an adventure to find the lost mail and defeat the greedy dragon. Explore colorful worlds and collect all golden letters in this 3D collectathon platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000065025,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

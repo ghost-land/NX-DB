@@ -4,5 +4,32 @@
     "name": "Gastro Force",
     "publisher": "Ratalaika Games",
     "releaseDate": 20230901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "You are the last elite trooper fighting an enormous alien from within!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000065172,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

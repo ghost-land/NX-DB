@@ -4,5 +4,30 @@
     "name": "This Means Warp",
     "publisher": "Jagex",
     "releaseDate": 20231130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Strategy",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "It’s co-op space survival fun, Jim, but not as we know it. This Means Warp is an intense spaceship management roguelite experience for 1-4 players.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000065018,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

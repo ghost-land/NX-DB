@@ -4,5 +4,33 @@
     "name": "Super Ninja Miner",
     "publisher": "Silen Games",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "He slices! He dices! He... mines? Tag along with this crazy ninja on a treasure-filled adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000064520,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
