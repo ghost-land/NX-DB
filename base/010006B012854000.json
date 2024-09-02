@@ -4,5 +4,32 @@
     "name": "スペースクルー",
     "publisher": "テヨンジャパン",
     "releaseDate": 20210225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "ストラテジー",
+        "シミュレーション",
+        "アドベンチャー"
+    ],
+    "developer": null,
+    "intro": "乗組員管理ストラテジーゲームの続編！\nいざ、宇宙の彼方へと出撃！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032914,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }
