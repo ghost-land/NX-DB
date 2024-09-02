@@ -4,5 +4,31 @@
     "name": "Jessika",
     "publisher": "Assemble Entertainment",
     "releaseDate": 20220825,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "In this full motion video mystery adventure you are part of a group that specializes in processing digital footprints of deceased people - all on behalf of the relatives.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000043325,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

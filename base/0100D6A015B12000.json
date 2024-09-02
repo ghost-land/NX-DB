@@ -4,5 +4,31 @@
     "name": "Endless Puzzle Fun Collection",
     "publisher": "Mindscape",
     "releaseDate": 20210916,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Multiplayer",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Test your skills in two endless puzzle games. Play solo or battle it out in 1-vs-1 multiplayer for the highest score!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000044024,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

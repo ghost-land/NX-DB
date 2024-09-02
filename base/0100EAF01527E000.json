@@ -4,5 +4,34 @@
     "name": "Hello Neighbor 2",
     "publisher": "tinyBuild Games",
     "releaseDate": 20221206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Find out what your neighbors are hiding in the open-world of Raven Brooks.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000043413,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Lumberhill",
     "publisher": "Untold Tales",
     "releaseDate": 20220415,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Simulation",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A hilarious multiplayer party game full of lumberjacks and chaos. Travel around the world and through time in co-op, pvp, or solo mode!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000043546,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,37 @@
     "name": "Aeon Drive",
     "publisher": "Critical Reflex",
     "releaseDate": 20210930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Set in the neon-colored landscape of Neo Barcelona, Aeon Drive is an action platformer with a speedrunning twist!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044013,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

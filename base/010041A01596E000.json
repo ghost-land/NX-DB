@@ -4,5 +4,31 @@
     "name": "Enclave HD",
     "publisher": "Ziggurat",
     "releaseDate": 20230629,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "One Game. Two sides. This is Enclave HD. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000043440,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

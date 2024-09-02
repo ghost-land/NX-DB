@@ -4,5 +4,32 @@
     "name": "ANIQUILATION",
     "publisher": "Gamera Games",
     "releaseDate": 20220728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Twin Stick Shooter Multiplayer Action Game set in small planets that can be terraformed as you play! Where everything can be your weapon.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000044083,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

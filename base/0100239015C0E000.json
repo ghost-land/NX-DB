@@ -4,5 +4,32 @@
     "name": "Elderand",
     "publisher": "Graffiti Games",
     "releaseDate": 20230216,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Only the strong will conquer this gruesome action platformer with RPG elements.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000044111,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

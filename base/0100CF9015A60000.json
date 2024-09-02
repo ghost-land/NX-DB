@@ -4,5 +4,22 @@
     "name": "Chess Brain",
     "publisher": "QUByte Interactive",
     "releaseDate": 20211111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Study",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Chess Brain is a chess puzzle game. Draw the correct path and don't let the King get killed by the opposite pieces! Every second all the pieces will move!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000043707,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

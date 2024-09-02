@@ -4,5 +4,34 @@
     "name": "Pokémon UNITE",
     "publisher": "The Pokémon Company",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Team up and take down the opposition in Pokémon’s first 5-on-5 strategic team battle game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000043292,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

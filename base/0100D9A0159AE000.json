@@ -4,5 +4,31 @@
     "name": "Guns N' Runs",
     "publisher": "PixelHeart",
     "releaseDate": 20220929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Guns N’ Runs is a stylish platform game, action and shooter, containing super specials and Dash mechanics at a fast-pace.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "zh"
+    ],
+    "nsuId": 70010000043515,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }
