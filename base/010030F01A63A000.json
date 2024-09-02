@@ -4,5 +4,32 @@
     "name": "Sclash",
     "publisher": "JUST FOR GAMES",
     "releaseDate": 20240502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "2D samurai fighting game full of tension where one hit is enough to kill.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000062882,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

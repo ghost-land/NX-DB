@@ -4,5 +4,24 @@
     "name": "Deep Space Shooter",
     "publisher": "Valkyrie Initiative",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Again you are alone against the hordes of hostile spacecrafts where you can only rely on yourself. It is the victory or the death!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000062612,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

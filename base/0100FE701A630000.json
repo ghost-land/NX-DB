@@ -4,5 +4,31 @@
     "name": "Toasterball",
     "publisher": "Seaven Studio",
     "releaseDate": 20231130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Arcade",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "A multiplayer sports game… with toasters!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062868,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

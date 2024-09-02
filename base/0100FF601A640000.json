@@ -4,5 +4,27 @@
     "name": "The Adventures of Poppe",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Fighting",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A classic platformer experience with a TINY twist. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000062890,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

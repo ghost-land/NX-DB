@@ -4,5 +4,25 @@
     "name": "D-Corp",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Strategy",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Invite your friends for a conquest of a new planet in D-Corp.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000062891,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

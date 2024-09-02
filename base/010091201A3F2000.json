@@ -4,5 +4,28 @@
     "name": "BZZZT",
     "publisher": "Cinemax",
     "releaseDate": 20240919,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Become a tiny ZX8000 robot.\nTravel through beautiful pixel-art levels.\nAnd save the world, one platform challenge at a time!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000062421,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Gordian Quest",
     "publisher": "Maximum Games",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Gordian Quest is an epic deckbuilding RPG with roguelite elements and turn-based strategic combat. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062343,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

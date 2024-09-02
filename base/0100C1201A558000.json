@@ -4,5 +4,33 @@
     "name": "Speed Crew",
     "publisher": "Wild Fields",
     "releaseDate": 20230608,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Strategy",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "JOIN THE CREW, FIX THE CARS, WIN THE RACE",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000062730,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

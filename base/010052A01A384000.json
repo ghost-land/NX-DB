@@ -4,5 +4,28 @@
     "name": "The Creepy Syndrome",
     "publisher": "JanduSoft",
     "releaseDate": 20230427,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "\"The Creepy Syndrome\" is a horror anthology game with four different stories",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000062310,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

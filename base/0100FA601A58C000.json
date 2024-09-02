@@ -4,5 +4,31 @@
     "name": "Black Skylands",
     "publisher": "tinyBuild Games",
     "releaseDate": 20230815,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Captain an airship through skylands, fight for resources and unravel secrets.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000062776,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
