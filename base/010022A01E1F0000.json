@@ -4,5 +4,29 @@
     "name": "Fueled Up",
     "publisher": "No Gravity Games",
     "releaseDate": 20240718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A chaotic couch co-op game for up to four players. Fuel, fix and rescue damaged spaceships before the evil space octopus gets its tentacles on them!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000077332,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

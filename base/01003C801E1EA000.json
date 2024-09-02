@@ -4,5 +4,32 @@
     "name": "EMPTY SHELL",
     "publisher": "Hyperstrange",
     "releaseDate": 20240312,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Classic survival-horror fused with top-down roguelite shooter",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000077342,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

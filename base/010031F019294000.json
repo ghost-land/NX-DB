@@ -4,5 +4,34 @@
     "name": "Super Monkey Ball Banana Rumble",
     "publisher": "SEGA",
     "releaseDate": 20240625,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Party",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Let the Rumble Begin!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000077858,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "The Smurfs - Village Party",
     "publisher": "Microids",
     "releaseDate": 20240606,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Embark on a party game set in the Smurfs' Village, featuring an adventure mode!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000077585,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

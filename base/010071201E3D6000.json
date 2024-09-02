@@ -4,5 +4,28 @@
     "name": "Chrysolite",
     "publisher": "Firenut",
     "releaseDate": 20240724,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A narrative driven, pixel-art, 2D platformer with Soulslike inspirations.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000077778,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

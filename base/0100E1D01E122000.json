@@ -4,5 +4,31 @@
     "name": "Defense Master",
     "publisher": "Happy Player",
     "releaseDate": 20240201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Defense + Shooting + Roguelite, simple yet fun. Enemies will continuously appear from the right. Can you withstand the onslaught?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000077094,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

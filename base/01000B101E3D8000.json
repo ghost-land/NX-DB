@@ -4,5 +4,32 @@
     "name": "Builder Simulator",
     "publisher": "Frozen Way",
     "releaseDate": 20240424,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Builder Simulator is ideal for those who want to construct a house from scratch, brick by brick. Easy mode offers guidance; hard mode tests your skills without help.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000077724,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }
