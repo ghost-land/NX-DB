@@ -4,5 +4,31 @@
     "name": "Lost Wing",
     "publisher": "2Awesome Studio",
     "releaseDate": 20200801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Pilot a super fast ship through brutal environments, and try to top the leaderboards! Featuring numerous challenges, ships and enemies, Lost Wing is a shot of pure unadulterated adrenaline.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000022411,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

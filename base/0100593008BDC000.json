@@ -4,5 +4,35 @@
     "name": "Can't Drive This",
     "publisher": "Pixel Maniacs",
     "releaseDate": 20210319,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "One player drives, the other one builds the road. At the same time!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000022388,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

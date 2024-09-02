@@ -4,5 +4,30 @@
     "name": "Ritual",
     "publisher": "Hexage",
     "releaseDate": 20190913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Cut through monsters in endless dance with dagger!\nLeave magic mayhem in your wake.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000022248,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

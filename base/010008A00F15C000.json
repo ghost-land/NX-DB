@@ -4,5 +4,30 @@
     "name": "Cyber Hook",
     "publisher": "Graffiti Games",
     "releaseDate": 20210624,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Platformer",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Speed through a gorgeous retrowave world using parkour skills and a grappling hook to scale and ride walls in this fast-paced, 3D platformer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022312,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

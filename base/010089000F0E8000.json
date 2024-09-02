@@ -4,5 +4,31 @@
     "name": "Kine",
     "publisher": "Chump Squad",
     "releaseDate": 20191018,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Music",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A challenging 3D puzzle game about music, machines, and dreams",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000022244,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Shipped",
     "publisher": "QubicGames",
     "releaseDate": 20191011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Arcade",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "All hands on deck! Sail! Push! Shoot!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000022292,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

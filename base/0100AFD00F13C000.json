@@ -4,5 +4,27 @@
     "name": "CHOP",
     "publisher": "QubicGames",
     "releaseDate": 20190913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "CHOP is a 2D arena fighting game with a lot of gore and fast-paced action. Swords will fly, bodies will be chopped, friendships will break!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000022288,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

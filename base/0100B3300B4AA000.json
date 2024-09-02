@@ -4,5 +4,31 @@
     "name": "Hyper Jam",
     "publisher": "Bit Dragon",
     "releaseDate": 20200417,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The neon-soaked arena brawler full of lethal weapons, stackable perk drafting, furious combat and a killer synthwave soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000022475,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Doodle Derby",
     "publisher": "Headup Games",
     "releaseDate": 20200911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000022168,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

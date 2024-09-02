@@ -4,5 +4,25 @@
     "name": "Music Racer",
     "publisher": "Sometimes You",
     "releaseDate": 20200130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Music",
+        "Party",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Music Racer is the dynamic rhythm game loved by millions of players around the world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000022582,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

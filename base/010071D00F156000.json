@@ -4,5 +4,31 @@
     "name": "REZ PLZ",
     "publisher": "Graffiti Games",
     "releaseDate": 20200715,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "Death is just part of the adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022306,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

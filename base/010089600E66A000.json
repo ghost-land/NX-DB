@@ -4,5 +4,30 @@
     "name": "The Big Journey",
     "publisher": "Hook Games",
     "releaseDate": 20191101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Beautiful jump 'n' roll adventure of Mr. Whiskers.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000022075,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
