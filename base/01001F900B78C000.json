@@ -4,5 +4,30 @@
     "name": "SuperMash",
     "publisher": "Digital Continue",
     "releaseDate": 20200508,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Simulation",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "SuperMash is a game that makes games! Mash together two game genres to get a completely unique new game each time, then challenge your friends to see how they do!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000011658,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

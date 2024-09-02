@@ -4,5 +4,38 @@
     "name": "MilkChoco",
     "publisher": "GameParadiso",
     "releaseDate": 20191018,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "First-Person Shooter",
+        "Shooter",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Simple FPS Game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000011456,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Digital Purchases",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

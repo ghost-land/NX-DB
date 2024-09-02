@@ -4,5 +4,30 @@
     "name": "Pang Adventures",
     "publisher": "DotEmu",
     "releaseDate": 20190103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Guide two brothers around the world to save humankind from an alien invasion! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000011404,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very mild violence"
+    ],
+    "region": null,
+    "rightsId": "010087300B7300000000000000000006"
 }

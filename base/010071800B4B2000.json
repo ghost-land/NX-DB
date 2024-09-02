@@ -4,5 +4,31 @@
     "name": "Your Toy",
     "publisher": "VivaGames",
     "releaseDate": 20190516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000011313,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

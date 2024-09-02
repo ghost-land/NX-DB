@@ -4,5 +4,28 @@
     "name": "Pato Box",
     "publisher": "Bromio",
     "releaseDate": 20180709,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A surreal boxing quest with a duck!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000011258,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Simulated Gambling",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010031F006E760000000000000000004"
 }

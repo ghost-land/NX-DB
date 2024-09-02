@@ -4,5 +4,28 @@
     "name": "The Swindle",
     "publisher": "Curve Digital",
     "releaseDate": 20181012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "RPG",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The Swindle is a steampunk cybercrime caper about breaking into buildings, hacking their systems, stealing all their cash, and quickly running away again before the police show up.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000011761,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010040D00B7CE0000000000000000005"
 }
