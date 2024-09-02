@@ -4,5 +4,33 @@
     "name": "Circa Infinity",
     "publisher": "RedDeer.Games",
     "releaseDate": 20211105,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Test your skills in this brain-melting platformer with an incredible pulse-pounding soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000043463,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

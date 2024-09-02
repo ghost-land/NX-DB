@@ -4,5 +4,29 @@
     "name": "Luna's Fishing Garden",
     "publisher": "AbsoDev",
     "releaseDate": 20210903,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Luna's Fishing Garden is a short, cozy fishing and building game. Catch fish, trade it in and create the garden of your dreams!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000043637,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

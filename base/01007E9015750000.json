@@ -4,5 +4,33 @@
     "name": "Have a Blast",
     "publisher": "Firenut",
     "releaseDate": 20210826,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Have a Blast is a high energy, kinetic, multiplayer party game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000043396,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

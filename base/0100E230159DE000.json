@@ -4,5 +4,25 @@
     "name": "Ronister Adventure",
     "publisher": "Isaias Game Dev",
     "releaseDate": 20210930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A Brazilian game with everything a good classic platform game should have.\nA game from the developers of Ronik Game Group.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000043617,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

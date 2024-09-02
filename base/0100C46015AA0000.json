@@ -4,5 +4,27 @@
     "name": "Barry the Bunny",
     "publisher": "Ratalaika Games",
     "releaseDate": 20210813,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Move, hop, and rebuild bridges to aid your fellow bunnies.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000043776,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

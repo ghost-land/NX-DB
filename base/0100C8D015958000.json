@@ -4,5 +4,25 @@
     "name": "a",
     "publisher": "Banana Cat",
     "releaseDate": 20211014,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000044103,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

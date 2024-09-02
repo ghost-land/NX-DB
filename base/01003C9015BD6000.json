@@ -4,5 +4,26 @@
     "name": "Toroom (Roguelike)",
     "publisher": "GAME NACIONAL",
     "releaseDate": 20211008,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Toroom is a dungeon crawler roguelike top-down shooter. Fight your way through multiple biomes, clear rooms full of enemies, get as much loot as possible and defeat the bosses",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt"
+    ],
+    "nsuId": 70010000044105,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "JUMANJI: The Curse Returns",
     "publisher": "Marmalade Game Studio",
     "releaseDate": 20220613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Multiplayer",
+        "Adventure",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Play the Jumanji board game from the original 1995 movie. Roll the dice, read the riddles and face the dangers in card-based encounters. Add to your deck, work together and win!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000043591,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
