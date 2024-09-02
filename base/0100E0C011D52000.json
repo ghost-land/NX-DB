@@ -4,5 +4,29 @@
     "name": "Lunch A Palooza",
     "publisher": "Seashell Studio",
     "releaseDate": 20201104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Lunch A Palooza is a game for everyone! The goal is to be the last food standing! You must use special attacks and food items to dominate the opposition.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000030401,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

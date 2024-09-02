@@ -4,5 +4,35 @@
     "name": "Skate City",
     "publisher": "Snowman",
     "releaseDate": 20210506,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Sports",
+        "Simulation",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "Your perfect ride. Worldwide.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000030511,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

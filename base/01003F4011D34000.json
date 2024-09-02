@@ -4,5 +4,27 @@
     "name": "Arcade Archives GUERRILLA WAR",
     "publisher": "HAMSTER",
     "releaseDate": 20210226,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Save the hostages! Shoot the enemy!\nDon't miss essential weapons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000030362,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Skeletal Avenger",
     "publisher": "10tons",
     "releaseDate": 20211104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Guide a head-chucking skeletal warrior on a quest for vengeance!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000030492,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

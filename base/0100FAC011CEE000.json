@@ -4,5 +4,27 @@
     "name": "Arcade Archives PIRATE PETE",
     "publisher": "HAMSTER",
     "releaseDate": 20210610,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Depart on a swashbuckling adventure!\nSave the captured damsel in distress!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000030319,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

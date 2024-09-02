@@ -4,5 +4,26 @@
     "name": "Space Robinson",
     "publisher": "Crytivo",
     "releaseDate": 20200910,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Survive the unforgiving world in the action rogue-like adventures of Space Robinson.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000030384,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

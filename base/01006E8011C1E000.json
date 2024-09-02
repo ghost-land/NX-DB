@@ -4,5 +4,28 @@
     "name": "Ailment",
     "publisher": "Ultimate Games",
     "releaseDate": 20200527,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Ailment is a pixel-art action game which takes place on a spaceship in a far far galaxy.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000030136,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

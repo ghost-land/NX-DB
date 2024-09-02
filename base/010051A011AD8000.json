@@ -4,5 +4,35 @@
     "name": "Poopdie - Chapter One",
     "publisher": "Bulbware",
     "releaseDate": 20200625,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Dungeon crawler from PewDiePie & Bulbware.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000029847,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Crude Humour",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
