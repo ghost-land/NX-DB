@@ -4,5 +4,33 @@
     "name": "BROK the InvestiGator",
     "publisher": "COWCAT",
     "releaseDate": 20230301,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The very first PUNCH & CLICK!\nIn a grim world where animals have replaced mankind, what kind of detective will you be?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000059695,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

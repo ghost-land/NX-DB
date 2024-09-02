@@ -4,5 +4,30 @@
     "name": "Hellboy Web of Wyrd",
     "publisher": "Good Shepherd",
     "releaseDate": 20231018,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Hellboy Web of Wyrd is a roguelike action brawler with an original story created in partnership with Dark Horse Comics and Hellboy creator Mike Mignola.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000060065,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "WORLD OF HORROR",
     "publisher": "Ysbryd Games",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A 1-bit roguelite RPG adventure inspired by Japanese horror and H.P. Lovecraft. Amid turn-based combat and unforgiving choices, experience the quiet cosmic horror of Shiokawa.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000059936,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

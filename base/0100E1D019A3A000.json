@@ -4,5 +4,35 @@
     "name": "Spectator",
     "publisher": "Neko Machine",
     "releaseDate": 20230911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Featuring Backrooms, Slender, FazPizza, and many more locations based on Creepy stories!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059655,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

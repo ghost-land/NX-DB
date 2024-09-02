@@ -4,5 +4,35 @@
     "name": "Kamikaze Veggies",
     "publisher": "Red Limb Studio",
     "releaseDate": 20221111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A stealth adventure game with an absurd-driven story and third-person perspective for a single-player or co-op. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000060012,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Legion of Doom",
     "publisher": "IceTorch",
     "releaseDate": 20230210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Casual yet action-packed, reverse bullet hell RPG. You don't have to dodge - THEY have.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000059890,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

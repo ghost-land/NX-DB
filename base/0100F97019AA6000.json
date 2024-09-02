@@ -4,5 +4,27 @@
     "name": "Raging Bytes",
     "publisher": "KEMCO",
     "releaseDate": 20230627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A story-driven zombie RPG full of drama and pixels! Survive the raging bytes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000059812,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

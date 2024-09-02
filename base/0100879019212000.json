@@ -4,5 +4,38 @@
     "name": "Clunky Hero",
     "publisher": "chaosmonger studio",
     "releaseDate": 20230125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A crazy platformer with a touch of RPG and tons of quirky but challenging things! For a world crowded with funny creatures and bizarre weapons.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000059896,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

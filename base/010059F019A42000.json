@@ -4,5 +4,26 @@
     "name": "Another Crusade",
     "publisher": "Limited Run Games",
     "releaseDate": 20230915,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Discover a 3D wooden puppet style world while exploring as a platformer, and taking battles in a turn-based combat as an old school RPG where timing and strategy is all!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000059665,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

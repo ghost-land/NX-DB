@@ -4,5 +4,30 @@
     "name": "Vampire Slayer: The Resurrection",
     "publisher": "Wobbly Tooth",
     "releaseDate": 20230102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Multiplayer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Vampire Slayer is a fast paced multiplayer team game featuring two completely different teams, Vampires and Slayers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000060001,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

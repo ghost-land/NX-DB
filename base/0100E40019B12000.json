@@ -4,5 +4,31 @@
     "name": "Witchtastic",
     "publisher": "ASHGAMES",
     "releaseDate": 20231122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "CHALLENGING 2-4 PLAYER COUCH/ONLINE COOP GAME ABOUT BREWING MAGIC POTIONS AS FAST AS POSSIBLE.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000059898,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
