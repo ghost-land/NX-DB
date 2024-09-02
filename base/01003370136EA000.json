@@ -4,5 +4,37 @@
     "name": "Cozy Grove",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20210408,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Lifestyle",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Come for the view, stay for the friends.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035711,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Use of Alcohol",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

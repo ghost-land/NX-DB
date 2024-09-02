@@ -4,5 +4,30 @@
     "name": "Graviter",
     "publisher": "No Gravity Games",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "A real world physics-based game about manipulating the gravitational forces. Shrink and enlarge bodies, move them around to find your way through over 100 different levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036351,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

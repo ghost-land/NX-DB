@@ -4,5 +4,29 @@
     "name": "My Magic Florist",
     "publisher": "Baltoro Minis",
     "releaseDate": 20211025,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Magic is the key to success in this flower shop!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000035725,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

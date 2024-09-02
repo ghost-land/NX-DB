@@ -4,5 +4,35 @@
     "name": "Secret Neighbor",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Explore the Hello Neighbor house with your friends, but beware - one of you is the Neighbor in disguise. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035225,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

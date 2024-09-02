@@ -4,5 +4,33 @@
     "name": "OctaFight",
     "publisher": "Pixel Almost Perfect",
     "releaseDate": 20220121,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Arcade",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Move, jump, shield, throw and trigger your bomb on time to be the last in one piece!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000034818,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

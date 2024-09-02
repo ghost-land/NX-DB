@@ -4,5 +4,34 @@
     "name": "Tunche",
     "publisher": "HYPETRAIN DIGITAL",
     "releaseDate": 20220118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A beautiful hand-drawn adventure awaits! With 5 playable characters (featuring Hat Kid) and a 4-player couch co-op, this beat ‘em up will capture your heart!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036193,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

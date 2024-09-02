@@ -4,5 +4,31 @@
     "name": "Jetboard Joust",
     "publisher": "Freedom Games",
     "releaseDate": 20231103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Fast & fluid arcade-style SHMUP meets hardcore roguelike! Take flight on a pimped-up jetboard and face off against massive, multi-stage bosses. A classic for the next generation!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000036065,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,38 @@
     "name": "Among Us",
     "publisher": "Innersloth",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Communication",
+        "Party",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "An online and local party game of teamwork and betrayal for 4-15 players...in space! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036098,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
