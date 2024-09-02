@@ -4,5 +4,23 @@
     "name": "Gunvein",
     "publisher": "NGDEV",
     "releaseDate": 20230511,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Gunvein is a dynamic, aggression-based bullet hell shoot em up where you use lock on lasers, charged weapons, bombs & hypers to overwhelm the enemies before they overwhelm you. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000063882,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

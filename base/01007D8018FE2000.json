@@ -4,5 +4,40 @@
     "name": "Palia",
     "publisher": "Singularity 6",
     "releaseDate": 20231215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Welcome to Palia, a cozy community sim MMO made for you and your friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064807,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Mild Crude Humour",
+        "Mild Sexual References",
+        "Mild Themes",
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases",
+        "Mild Gambling Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Split",
     "publisher": "FREEMIND",
     "releaseDate": 20230323,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "First-person puzzle game with the unique mechanics of creating copies of yourself and manipulating time.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000064502,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

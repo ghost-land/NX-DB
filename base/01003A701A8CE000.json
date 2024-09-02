@@ -4,5 +4,32 @@
     "name": "Nick Jr. Party Adventure",
     "publisher": "Outright Games",
     "releaseDate": 20241011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Join your favorite Nick Jr. friends in this colorful puzzle platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000063796,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

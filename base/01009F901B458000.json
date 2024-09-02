@@ -4,5 +4,27 @@
     "name": "Lunar Lander Beyond",
     "publisher": "Atari",
     "releaseDate": 20240423,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Guide a roster of colorful pilots, eclectic advisors and state-of-the-art landers through a taxing series of missions. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000066755,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes and violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

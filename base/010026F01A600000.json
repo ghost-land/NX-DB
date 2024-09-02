@@ -4,5 +4,31 @@
     "name": "qomp2",
     "publisher": "Atari",
     "releaseDate": 20240220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An artful reimagining of Pong.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000063535,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

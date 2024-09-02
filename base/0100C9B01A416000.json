@@ -4,5 +4,34 @@
     "name": "Astro Duel 2",
     "publisher": "Wild Rooster",
     "releaseDate": 20240308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Party",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "A sci-fi combat game combining top-down space dog fights with up-close platforming action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062461,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
