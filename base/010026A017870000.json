@@ -4,5 +4,24 @@
     "name": "Taco Tom 2",
     "publisher": "Penguin Pop Games",
     "releaseDate": 20220629,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Ingredients are falling, collect them to make tacos!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000050309,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

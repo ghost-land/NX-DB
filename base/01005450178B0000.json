@@ -4,5 +4,31 @@
     "name": "HammerHelm",
     "publisher": "Silesia Games",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "HammerHelm is a unique blend of third-person adventuring and strategic town building. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000050415,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

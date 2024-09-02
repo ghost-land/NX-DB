@@ -4,5 +4,35 @@
     "name": "Portal",
     "publisher": "Valve Corporation",
     "releaseDate": 20220628,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050319,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

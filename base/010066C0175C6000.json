@@ -4,5 +4,34 @@
     "name": "SongPop Party",
     "publisher": "Gameloft",
     "releaseDate": 20220922,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Music",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Can you guess the song? Step up and prove your music knowledge with this fast-paced, competitive, music-based trivia game. Party up locally or online with up to eight players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050536,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Lyrics"
+    ],
+    "region": null,
+    "rightsId": null
 }

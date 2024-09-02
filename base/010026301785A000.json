@@ -4,5 +4,27 @@
     "name": "Goonya Monster",
     "publisher": "MUTAN",
     "releaseDate": 20221204,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "3 Minute quick Matches!\nA 3 vs 1 party game with a rampage playing as characters designed by Terada Tera!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050263,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

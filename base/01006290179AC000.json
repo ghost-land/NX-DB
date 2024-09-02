@@ -4,5 +4,34 @@
     "name": "Meg's Monster",
     "publisher": "Odencat",
     "releaseDate": 20230302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "if she cries, the whole world dies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000050683,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }
