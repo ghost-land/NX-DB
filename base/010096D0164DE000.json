@@ -4,5 +4,33 @@
     "name": "Terra Alia: The Language Discovery RPG",
     "publisher": "BoomBox",
     "releaseDate": 20231011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Adventure",
+        "RPG",
+        "Study"
+    ],
+    "developer": null,
+    "intro": "Discover a new language with Terra Alia – a unique language learning experience where you can embark on a thrilling RPG adventure in the world full of magic and mysteries!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000046181,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

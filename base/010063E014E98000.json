@@ -4,5 +4,34 @@
     "name": "King of the Hat",
     "publisher": "Hat Games",
     "releaseDate": 20230824,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "A 2D party platformer where you fight with a hat!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045558,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Sonic Origins",
     "publisher": "SEGA",
     "releaseDate": 20220623,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Classic Sonic Re-Defined ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045649,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

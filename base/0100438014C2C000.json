@@ -4,5 +4,35 @@
     "name": "Dwerve",
     "publisher": "Half Human Games",
     "releaseDate": 20231012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "An epic action-adventure with tower defense combat! Dungeon crawl through a ruined kingdom, fending off hordes with turrets and traps! Punch them into pits! Pull them into spinblades!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045715,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

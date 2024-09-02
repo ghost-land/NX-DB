@@ -4,5 +4,29 @@
     "name": "Vivid Knight",
     "publisher": "Asobism",
     "releaseDate": 20220119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Vivid Knight is a roguelike adventure game in which you save your friends from being turned into jewels and combine their abilities to form the ultimate party!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000045626,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

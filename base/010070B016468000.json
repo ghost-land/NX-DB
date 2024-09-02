@@ -4,5 +4,30 @@
     "name": "Family Man",
     "publisher": "No More Robots",
     "releaseDate": 20220914,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "First-Person Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "You owe us money, Joe, and we plan to collect. We don't care where it comes from, but you'd better not skip town on us. Otherwise, your family will be searching the river for your body.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000046045,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

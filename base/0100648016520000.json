@@ -4,5 +4,35 @@
     "name": "Exitman Deluxe",
     "publisher": "RAINYFROG",
     "releaseDate": 20230202,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Ruuuuuuuun!\nThe sky is falling!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046165,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

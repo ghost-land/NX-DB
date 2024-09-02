@@ -4,5 +4,26 @@
     "name": "THE Table Game",
     "publisher": "D3PUBLISHER",
     "releaseDate": 20220217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Training",
+        "Strategy",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "Play classics like Othello, Mahjong, Shogi, Go, and Texas Hold 'em,Chase, Backgammon,all in one game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000045942,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Simulated Gambling",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

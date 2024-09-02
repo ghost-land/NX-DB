@@ -4,5 +4,36 @@
     "name": "SpiderHeck",
     "publisher": "tinyBuild Games",
     "releaseDate": 20220922,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Spiders with laser swords! Swing, stab, shoot with style and cool parkour.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046214,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

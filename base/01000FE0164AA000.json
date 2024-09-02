@@ -4,5 +4,30 @@
     "name": "Maximus 2",
     "publisher": "Four Fats",
     "releaseDate": 20230105,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Co-Op Fantasy Beat Em Up!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046087,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

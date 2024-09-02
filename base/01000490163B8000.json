@@ -4,5 +4,32 @@
     "name": "Bulanci",
     "publisher": "SleepTeam",
     "releaseDate": 20231221,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Party",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Bulanci is an action multiplayer and easy-to-play party game where you take pillow fights with your frenemies to the next level.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045881,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

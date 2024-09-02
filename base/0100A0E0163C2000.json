@@ -4,5 +4,33 @@
     "name": "Splash Cars",
     "publisher": "eastasiasoft",
     "releaseDate": 20220309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Paint the world one neighborhood at a time using your car in an isometric free driving experience!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045891,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "Pinball Freedom",
     "publisher": "CGA Studio Games",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Puzzle",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Grab your walk-man, and take a trip to your favourite arcade with our classic retro Pinball machines.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045788,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

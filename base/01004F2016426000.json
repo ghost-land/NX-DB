@@ -4,5 +4,27 @@
     "name": "Galacticon",
     "publisher": "Flynns Arcade",
     "releaseDate": 20220522,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Galacticon is a arcade cabinet game from the early 80's in the style of Williams classics, with the gameplay of legendary games and with touches of \"puzzle\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000046002,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

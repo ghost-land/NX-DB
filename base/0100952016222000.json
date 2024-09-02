@@ -4,5 +4,35 @@
     "name": "Sophia's World",
     "publisher": "Asylum Square Interactive",
     "releaseDate": 20211007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Education",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The platform game for the entire family",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000045540,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

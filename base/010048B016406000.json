@@ -4,5 +4,31 @@
     "name": "Between Time: Escape Room",
     "publisher": "mc2games",
     "releaseDate": 20210928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "You are going to steal a time machine. In this escape room, you must travel through time, explore mysterious places and solve puzzles to obtain untold treasures. Will you come back alive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000045957,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

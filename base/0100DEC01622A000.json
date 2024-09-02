@@ -4,5 +4,31 @@
     "name": "Chicory: A Colorful Tale",
     "publisher": "Finji",
     "releaseDate": 20211215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A painting adventure game about trying to be somebody",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000045561,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

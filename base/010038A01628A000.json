@@ -4,5 +4,35 @@
     "name": "LEGO® Brawls",
     "publisher": "LEGO System",
     "releaseDate": 20220902,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Action",
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Build your way to the top in this lighthearted, team action brawler where anything can happen.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000046171,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

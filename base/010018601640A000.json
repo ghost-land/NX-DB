@@ -4,5 +4,24 @@
     "name": "El Gancho",
     "publisher": "eastasiasoft",
     "releaseDate": 20230420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Use a laser-hook to navigate out-of-this-world platforming stages and rescue your fellow cocos!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000045962,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

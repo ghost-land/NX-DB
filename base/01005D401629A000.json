@@ -4,5 +4,24 @@
     "name": "Jeopardy! PlayShow",
     "publisher": "Sony Pictures Television",
     "releaseDate": 20220811,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Puzzle",
+        "Multiplayer",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "!NOTICE: Game services will end by September 29, 2023! \nPlay real Jeopardy! episodes with friends, family, and the actual contestants!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000046158,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }
