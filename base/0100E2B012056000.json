@@ -4,5 +4,35 @@
     "name": "KeyWe",
     "publisher": "Fireshine Games",
     "releaseDate": 20210831,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "The mail must flow!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033647,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Very mild themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

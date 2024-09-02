@@ -4,5 +4,34 @@
     "name": "Beat Me!",
     "publisher": "Red Limb Studio",
     "releaseDate": 20201114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Fighting",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Beat Me! is a physics-based multiplayer game for up to 6 players. Challenge your friends locally or beat others over the internet!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033559,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

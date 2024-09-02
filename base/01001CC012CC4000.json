@@ -4,5 +4,32 @@
     "name": "Teratopia",
     "publisher": "eastasiasoft",
     "releaseDate": 20211223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Rid the land of evil invaders and rescue your friends in this colorful 3D action brawler!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033681,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Drug Use"
+    ],
+    "region": null,
+    "rightsId": null
 }

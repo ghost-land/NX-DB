@@ -4,5 +4,30 @@
     "name": "Skyforge",
     "publisher": "MY.GAMES",
     "releaseDate": 20210205,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Multiplayer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A universe of adventures at your fingertips",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000033932,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Online Interactivity",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

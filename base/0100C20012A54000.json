@@ -4,5 +4,33 @@
     "name": "Nevaeh",
     "publisher": "CFK",
     "releaseDate": 20200917,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A girl's journey to bring back the light",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033270,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

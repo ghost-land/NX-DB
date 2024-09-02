@@ -4,5 +4,27 @@
     "name": "Rhythm Fighter",
     "publisher": "Coconut Island Games",
     "releaseDate": 20210114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Music",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "This is a roguelike horizontal action game that players need to follow the beats to defeat opponents. Beats to follow, fist to the bone. Face the foe, and dance to kill!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033737,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null,
+    "rightsId": null
 }

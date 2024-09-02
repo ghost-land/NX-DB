@@ -4,5 +4,32 @@
     "name": "Yum Yum Line",
     "publisher": "Mindscape",
     "releaseDate": 20201217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Match 5 tiles of the same colour, clear lines and make sure you don't get stuck. Can you make it to the top of the leaderboard?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033899,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

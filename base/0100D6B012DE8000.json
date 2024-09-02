@@ -4,5 +4,32 @@
     "name": "Candy 2048 Challenge",
     "publisher": "Mindscape",
     "releaseDate": 20201225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Take on the 2048 challenge alone or battle it out in a 1-vs-1 multiplayer mode with friends!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033887,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

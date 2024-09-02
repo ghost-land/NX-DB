@@ -4,5 +4,26 @@
     "name": "Firework",
     "publisher": "Fantastico Studio",
     "releaseDate": 20200911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Jump, fire, dash in midair and save the Facility from burning in the action platformer FIREWORK!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "it"
+    ],
+    "nsuId": 70010000033397,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

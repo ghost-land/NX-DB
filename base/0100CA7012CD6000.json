@@ -4,5 +4,31 @@
     "name": "Hide & Dance!",
     "publisher": "hap Inc.",
     "releaseDate": 20201001,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Action",
+        "Party",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Dance to the rhythm of the music hiding from your incoming parent!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033718,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
