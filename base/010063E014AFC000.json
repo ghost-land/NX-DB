@@ -4,5 +4,29 @@
     "name": "Revita",
     "publisher": "Plug In Digital",
     "releaseDate": 20220421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A fast paced twin-stick roguelite platformer. Climb a clock tower in a series of procedural rooms and challenging boss fights to reclaim your lost memory.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000040124,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

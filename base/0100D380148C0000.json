@@ -4,5 +4,35 @@
     "name": "A Musical Story",
     "publisher": "Digerati",
     "releaseDate": 20220303,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music"
+    ],
+    "developer": null,
+    "intro": "‘A Musical Story’ is a rhythm game set against a 70s backdrop.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000039582,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Nudity",
+        "Sexual Content",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

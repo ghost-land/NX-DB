@@ -4,5 +4,33 @@
     "name": "Timelie",
     "publisher": "Merge Games",
     "releaseDate": 20211215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Every second matters in Timelie, a stealth puzzle adventure, where you control time like a media player. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040329,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

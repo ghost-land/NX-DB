@@ -4,5 +4,24 @@
     "name": "ReactorX",
     "publisher": "TERNOX",
     "releaseDate": 20211025,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "This is a relaxing game about moving boxes on energy grids in a sci-fi setting, in order to repair the space ship which was hit by a meteor.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000040161,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

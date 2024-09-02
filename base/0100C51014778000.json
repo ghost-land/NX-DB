@@ -4,5 +4,30 @@
     "name": "Arcadian Atlas",
     "publisher": "Serenity Forge",
     "releaseDate": 20231130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A tactical RPG where decisions made for love and power can tear a kingdom apart.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039392,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

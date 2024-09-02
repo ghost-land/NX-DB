@@ -4,5 +4,24 @@
     "name": "Rogue Explorer",
     "publisher": "eastasiasoft",
     "releaseDate": 20230406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Side-scrolling pixel art action combines with roguelike challenge for a customizable adventure into the Abyss Tower!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000040601,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,37 @@
     "name": "Arcade Paradise",
     "publisher": "Wired Productions",
     "releaseDate": 20220811,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Simulation",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "From Rags to Arcade Riches!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040572,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Lyrics",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "The Lightbringer",
     "publisher": "Merge Games",
     "releaseDate": 20211007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "The Lightbringer is a story-driven adventure platform game, set in a beautiful world claimed by a vile corruption.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000039968,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Sherlock Holmes: Crimes and Punishments",
     "publisher": "Frogwares",
     "releaseDate": 20220203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Become Sherlock Holmes and solve crimes on the go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000040742,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

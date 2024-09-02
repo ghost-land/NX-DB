@@ -4,5 +4,32 @@
     "name": "Tower Princess",
     "publisher": "AwekTeam",
     "releaseDate": 20220908,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A charming 3D roguelite platformer about a normal day in the life of a knight! Sharpen the spear and make the Dragon run in fear!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000040225,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

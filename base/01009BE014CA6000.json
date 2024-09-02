@@ -4,5 +4,31 @@
     "name": "Cat Cafe Manager",
     "publisher": "Freedom Games",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Lifestyle",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Welcome to Caterwaul Way, stranger! Heard you've inherited the old cat cafe. You’ll need to rebuild if you mean to give the poor stray cats a proper home and us townsfolk a tavern!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000040812,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,36 @@
     "name": "Soundfall",
     "publisher": "Noodlecake",
     "releaseDate": 20220511,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Music",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Feel the Beat. Use the Beat. Defend the Beat. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000039856,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

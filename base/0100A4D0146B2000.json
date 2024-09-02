@@ -4,5 +4,31 @@
     "name": "Archvale",
     "publisher": "Humble Games",
     "releaseDate": 20211202,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Take up your weapon in this RPG bullet-hell world and embark on a journey to defeat the evil forces of the Undying guardians and reunite the world with the fabled Archvale.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000040301,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

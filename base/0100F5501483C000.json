@@ -4,5 +4,25 @@
     "name": "Rift Adventure",
     "publisher": "QUByte Interactive",
     "releaseDate": 20211008,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Rift Adventure is a pixelart platform in a magical world full of adventures and with a functional tax system.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000039521,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
