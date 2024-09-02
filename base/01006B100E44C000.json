@@ -4,5 +4,34 @@
     "name": "The Alto Collection",
     "publisher": "Snowman",
     "releaseDate": 20201126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Sports",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Across the endless desert and atop an alpine expanse two journeys full of wonder await. Choose your path and set off on a thrilling adventure with Alto & friends.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020369,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

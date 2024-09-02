@@ -4,5 +4,31 @@
     "name": "Molecats",
     "publisher": "Vidroid",
     "releaseDate": 20190905,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Study",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Аn indirect-control tile-twisting puzzled adventure ...with traps!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000019780,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

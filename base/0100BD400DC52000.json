@@ -4,5 +4,33 @@
     "name": "Spiritfarer",
     "publisher": "Thunder Lotus Games",
     "releaseDate": 20200819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Spiritfarer is a cozy management game about dying.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020665,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild themes and coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

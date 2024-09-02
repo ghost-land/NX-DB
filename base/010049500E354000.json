@@ -4,5 +4,29 @@
     "name": "Arcade Archives Pinball",
     "publisher": "HAMSTER",
     "releaseDate": 20190830,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Board Game",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Use your skills to manipulate the ball, and use the features to your advantage to shoot for a high score!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000019822,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

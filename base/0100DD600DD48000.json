@@ -4,5 +4,35 @@
     "name": "Stranger Things 3: The Game",
     "publisher": "BonusXP",
     "releaseDate": 20190705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "One summer can change everything...better bring a friend!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000019937,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes",
+        "Mature Themes",
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

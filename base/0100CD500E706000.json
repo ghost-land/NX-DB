@@ -4,5 +4,31 @@
     "name": "Ziggurat",
     "publisher": "Milkstone Studios",
     "releaseDate": 20190705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Dungeon-Crawling First Person Shooting at its finest!\nFast-paced combat!\nDozens of perks, spells and enemies!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000020353,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

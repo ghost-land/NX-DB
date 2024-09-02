@@ -4,5 +4,28 @@
     "name": "Battlestar Galactica Deadlock",
     "publisher": "Slitherine Software",
     "releaseDate": 20191009,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "3D strategy game set in the Battlestar Galactica universe!\nFight amazing tactical battles against the Cylons and save mankind!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000019851,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

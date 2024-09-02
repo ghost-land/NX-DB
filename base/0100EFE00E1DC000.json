@@ -4,5 +4,30 @@
     "name": "Headliner: NoviNews",
     "publisher": "Unbound Creations",
     "releaseDate": 20190905,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Education",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Award-winning adventure where you control the news and its impact on society, your friends and career. Different choices lead to unique combinations of endings. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000020499,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,27 @@
     "name": "Duck Life: Battle",
     "publisher": "Wix Games",
     "releaseDate": 20190818,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "RPG",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The ducks are back, but this time they're angrier. Forget racing, now it's time to battle! NO FEATHER WILL BE LEFT UNRUFFLED! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000020397,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

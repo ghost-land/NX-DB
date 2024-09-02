@@ -4,5 +4,30 @@
     "name": "Boxing Champs",
     "publisher": "Raz Games",
     "releaseDate": 20190620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Fighting",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Step into the ring and become a boxing champ!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000020262,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

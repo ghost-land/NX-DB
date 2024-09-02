@@ -4,5 +4,31 @@
     "name": "Samurai Jack: Battle Through Time",
     "publisher": "Adult Swim Games",
     "releaseDate": 20200822,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Become Samurai Jack, the greatest warrior across time. Journey through time to finally stop Aku’s evil reign in this new adventure told by the creators of Samurai Jack.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000019996,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

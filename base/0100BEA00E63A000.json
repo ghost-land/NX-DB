@@ -4,5 +4,24 @@
     "name": "Hero Express",
     "publisher": "Fantastico Studio",
     "releaseDate": 20190705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "It doesn't take a hero to save the world.\nHero Express: \"Heroic deliveries, right on time!\"",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000020204,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

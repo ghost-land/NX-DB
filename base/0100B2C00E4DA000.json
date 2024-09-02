@@ -4,5 +4,32 @@
     "name": "Served!",
     "publisher": "Light Maze",
     "releaseDate": 20200227,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Party",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Race + food = Served!\nA top-down multiplayer racing game taking place in a fun culinary universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000020037,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
