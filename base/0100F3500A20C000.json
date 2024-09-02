@@ -4,5 +4,29 @@
     "name": "BlobCat",
     "publisher": "BySamb",
     "releaseDate": 20180809,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Party",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The BlobCats are after the DiceMice!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "nsuId": 70010000008521,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100F3500A20C0000000000000000004"
 }

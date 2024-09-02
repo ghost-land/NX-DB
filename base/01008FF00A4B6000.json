@@ -4,5 +4,29 @@
     "name": "Squids Odyssey",
     "publisher": "The Game Bakers",
     "releaseDate": 20180705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Build your team of Squid heroes for epic turn-based battles against corrupted crabs and shrimps!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000008501,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01008FF00A4B60000000000000000004"
 }

@@ -4,5 +4,34 @@
     "name": "Eternal Card Game",
     "publisher": "Dire Wolf Digital",
     "releaseDate": 20191009,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Join the battle in the new strategy card game of unlimited choices and fun.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000008081,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Suggestive Themes",
+        "Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Hacky Zack",
     "publisher": "Digerati",
     "releaseDate": 20180823,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Bounce! Bounce! Keep it up!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000008821,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "01003BA00A67E0000000000000000005"
 }

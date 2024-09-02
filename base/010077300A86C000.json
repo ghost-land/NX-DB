@@ -4,5 +4,31 @@
     "name": "PIANISTA",
     "publisher": "Pianista company",
     "releaseDate": 20181026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000009081,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": "010077300A86C0000000000000000005"
 }

@@ -4,5 +4,30 @@
     "name": "The Way Remastered",
     "publisher": "SONKA",
     "releaseDate": 20180420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A remastered version of an award-winning puzzle platformer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000008652,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": "0100F8900A5B00000000000000000004"
 }

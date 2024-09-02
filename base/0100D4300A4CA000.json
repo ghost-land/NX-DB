@@ -4,5 +4,33 @@
     "name": "Infernium",
     "publisher": "Carlos Coronado",
     "releaseDate": 20180412,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "First-Person Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Infernium, a non-linear first person survival horror that will shake you to the core!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000008640,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null,
+    "rightsId": "0100D4300A4CA0000000000000000004"
 }

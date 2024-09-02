@@ -4,5 +4,25 @@
     "name": "Operation Hardcore",
     "publisher": "Cosmocat Games",
     "releaseDate": 20180601,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An action-packed 2D side-scrolling shooter inspired by classic twitchy action games of yesteryear, but with modern touches and conveniences.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000008401,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010039C00A45C0000000000000000004"
 }
