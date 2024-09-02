@@ -4,5 +4,25 @@
     "name": "Galacide",
     "publisher": "Puny Human",
     "releaseDate": 20201023,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Command destructive spaceships to obliterate hordes of enemy vessels, while quickly solving puzzles to weave through networks of vibrantly colorful, adversarial machines.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000029057,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

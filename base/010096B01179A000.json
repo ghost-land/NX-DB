@@ -4,5 +4,32 @@
     "name": "Ponpu",
     "publisher": "Merge Games",
     "releaseDate": 20201130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Get ready to break some eggs in this frantic multiplayer party-game! Ponpu mixes classic gameplay with new crazy mechanics, all packaged in one of the coolest art-styles ever seen! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000029062,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

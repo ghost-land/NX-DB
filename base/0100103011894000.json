@@ -4,5 +4,30 @@
     "name": "Naught",
     "publisher": "Wild Sphere",
     "releaseDate": 20200731,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Test your skills on your Nintendo Switch™, take control of the environment, and guide Naught through deep underground labyrinths full of mystery.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000029324,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

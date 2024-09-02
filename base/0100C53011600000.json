@@ -4,5 +4,29 @@
     "name": "Anarkade",
     "publisher": "Blowfish Studios",
     "releaseDate": 20240924,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Anarkade is a Multiplayer Arena Shooter with 2D platforming mechanics that features multiple weapons, randomly generated arenas, and humorously bloody animations.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000028822,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
