@@ -4,5 +4,28 @@
     "name": "Slime's Journey",
     "publisher": "Ratalaika Games",
     "releaseDate": 20221118,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A slime’s adventure through a magical fantasy land",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000048446,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

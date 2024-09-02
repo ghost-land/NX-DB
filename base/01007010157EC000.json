@@ -4,5 +4,36 @@
     "name": "The Past Within",
     "publisher": "Rusty Lake",
     "releaseDate": 20230706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Adventure",
+        "Puzzle",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "The Past Within is the new co-op experience from Rusty Lake! Play together with someone you deem trustworthy: one in The Past, the other in The Future.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048419,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

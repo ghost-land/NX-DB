@@ -4,5 +4,30 @@
     "name": "Patrick's Parabox",
     "publisher": "Draknek",
     "releaseDate": 20230726,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A mind-bending recursive puzzle game about boxes within boxes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000047951,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

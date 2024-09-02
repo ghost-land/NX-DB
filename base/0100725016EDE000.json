@@ -4,5 +4,29 @@
     "name": "Super Sunny Island",
     "publisher": "Ratalaika Games",
     "releaseDate": 20220902,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Run and jump your way to the sunshine with this classic action platformer",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000048445,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

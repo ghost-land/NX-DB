@@ -4,5 +4,29 @@
     "name": "Nature",
     "publisher": "Game Museum",
     "releaseDate": 20220120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Simulation",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Become a dandelion seed and soar to the sky.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048121,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

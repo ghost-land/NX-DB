@@ -4,5 +4,38 @@
     "name": "Capcom Fighting Collection",
     "publisher": "CAPCOM",
     "releaseDate": 20220624,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Ten of Capcom's most popular arcade games in one epic collection!\nAll titles support online play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048350,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Mild Language",
+        "Partial Nudity",
+        "Use of Tobacco",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

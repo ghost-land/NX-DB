@@ -4,5 +4,25 @@
     "name": "Guardian of Lore",
     "publisher": "Top Hat Studios",
     "releaseDate": 20240501,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "In this meticulous 2D RPG, play as Prince Sayri, and save the memory of ancient civilizations from wicked magic that aims to destroy the stories contained within.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000048083,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

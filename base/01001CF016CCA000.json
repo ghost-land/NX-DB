@@ -4,5 +4,25 @@
     "name": "Hammer Kid",
     "publisher": "Gameforge 4D",
     "releaseDate": 20220122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A charming pixel art adventure reminiscent of the good old 16-bit era.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "nsuId": 70010000048077,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

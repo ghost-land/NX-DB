@@ -4,5 +4,23 @@
     "name": "My Name is Mayo",
     "publisher": "Green Lava Studios",
     "releaseDate": 20230404,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "This is a clicking adventure that simulates the real-life tapping of a Mayo Jar! You will unveil its story and (maybe) you will learn from it!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000048273,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }
