@@ -4,5 +4,28 @@
     "name": "Otherwar",
     "publisher": "Untold Tales",
     "releaseDate": 20240802,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Strategy",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Build and manage fortifications to defend the Gate of Heaven against the Hordes of Hell in a surprising mash-up of Tower Defense and Bullet Hell!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000082691,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

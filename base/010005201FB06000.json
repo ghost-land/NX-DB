@@ -4,5 +4,25 @@
     "name": "EvoMon",
     "publisher": "RedDeer.Games",
     "releaseDate": 20240802,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Arcade",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Take care of the little pet creatures, train them to become the ultimate fighters and become an EvoMon Champion!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000083464,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

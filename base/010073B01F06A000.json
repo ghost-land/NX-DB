@@ -4,5 +4,28 @@
     "name": "Badminton Time",
     "publisher": "DECATHLON",
     "releaseDate": 20240905,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Get ready to move your arms to hit the badminton shuttlecock and become the new champion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000083588,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,35 @@
     "name": "Ballz",
     "publisher": "Max Interactive Studio",
     "releaseDate": 20240712,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Simulation",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Relax your brain with the ultimate time killer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000082680,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null,
+    "rightsId": null
 }

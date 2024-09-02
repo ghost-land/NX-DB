@@ -4,5 +4,25 @@
     "name": "Photographic Memory Test",
     "publisher": "MASK",
     "releaseDate": 20240718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Study",
+        "Education",
+        "Training",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Memorize a photo in 1 minute and answer the quiz!\nYour memory will be tested with a very difficult quiz.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000083058,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

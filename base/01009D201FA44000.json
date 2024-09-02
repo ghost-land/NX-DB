@@ -4,5 +4,26 @@
     "name": "My Virtual Pet",
     "publisher": "GAME NACIONAL",
     "releaseDate": 20240706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Lifestyle",
+        "Simulation",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Adopt a cute and friendly virtual pet",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "nsuId": 70010000083551,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

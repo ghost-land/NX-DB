@@ -4,5 +4,35 @@
     "name": "Moonshot",
     "publisher": "Max Interactive Studio",
     "releaseDate": 20240811,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Blast off in Project Moonshot: The Addictive Rocket Adventure You Can't Put Down!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000083214,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null,
+    "rightsId": null
 }
