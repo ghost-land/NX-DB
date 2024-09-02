@@ -4,5 +4,27 @@
     "name": "Mangavania",
     "publisher": "Sometimes You",
     "releaseDate": 20230426,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Old school action platformer game with pixel art graphics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "nsuId": 70010000061343,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

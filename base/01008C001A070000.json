@@ -4,5 +4,32 @@
     "name": "Bone's Cafe",
     "publisher": "Acute Owl Studio",
     "releaseDate": 20230331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Party",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Bone's Cafe is a fast paced, 1-4 Players couch co-op, cooking game. Customize the layout of your kitchen to guarantee your success. Specialize your menu and design your ultimate cafe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000061306,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

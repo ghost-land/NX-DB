@@ -4,5 +4,31 @@
     "name": "Highwater",
     "publisher": "Rogue Games",
     "releaseDate": 20240314,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A whimsical adventure with turn-based combat in a flooded world\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060872,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

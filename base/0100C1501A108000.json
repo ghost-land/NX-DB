@@ -4,5 +4,32 @@
     "name": "Gravity Thrust",
     "publisher": "Sprakelsoft",
     "releaseDate": 20230102,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Fly many solomissions or fight against other players in multiplayer and relive the good old arcade times!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000061493,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

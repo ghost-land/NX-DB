@@ -4,5 +4,24 @@
     "name": "Arcade Machine: Gopher's Revenge",
     "publisher": "QubicGames",
     "releaseDate": 20221111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "New Arcade Machine for 1 or 2 players!\nWhack-a-gopher or two before they get you!\nBUT DON'T HIT CUTE WOMBATS!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000060897,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

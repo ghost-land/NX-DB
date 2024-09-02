@@ -4,5 +4,25 @@
     "name": "Fight Club - Join us if you can",
     "publisher": "Cooking & Publishing",
     "releaseDate": 20221219,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The fight club is a select secret group in which everyone wants to enter, but you will have to prove that you are worthy. Answer the questions of its members right without failing.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000061018,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Violent References"
+    ],
+    "region": null,
+    "rightsId": null
 }

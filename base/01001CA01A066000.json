@@ -4,5 +4,33 @@
     "name": "RoboDunk",
     "publisher": "Jollypunch Games",
     "releaseDate": 20230925,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "DUNK FROM SPACE in the 1st roguelite basketball game! Upgrade robots & unlock skills in the 1-2 player campaign. Blast & tackle in 4 player versus!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061294,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

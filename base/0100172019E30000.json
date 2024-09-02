@@ -4,5 +4,30 @@
     "name": "Sandream",
     "publisher": "BluSped Studio",
     "releaseDate": 20230706,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Sand painting style RPG action adventure game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060985,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

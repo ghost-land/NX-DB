@@ -4,5 +4,32 @@
     "name": "Mr. Sun's Hatbox",
     "publisher": "Raw Fury",
     "releaseDate": 20230420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Strategy",
+        "Arcade",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Mr Sun’s Hatbox is a slapstick, roguelite platformer about getting the job done at all costs.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000061446,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

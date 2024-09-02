@@ -4,5 +4,33 @@
     "name": "Snake Game",
     "publisher": "Peaksel",
     "releaseDate": 20230112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Snake Game is back! Try this classic retro game and test all the options.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060856,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

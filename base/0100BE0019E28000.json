@@ -4,5 +4,32 @@
     "name": "Bish Bash Bots",
     "publisher": "Firestoke",
     "releaseDate": 20231019,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Team up, build turrets and bash bots in this casual tower defense brawler.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060902,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

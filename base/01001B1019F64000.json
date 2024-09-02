@@ -4,5 +4,34 @@
     "name": "Blade of Darkness",
     "publisher": "QubicGames",
     "releaseDate": 20221124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Pick one of four characters to hack and slash through a gory quest to save the world from the forces of Chaos.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000060967,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

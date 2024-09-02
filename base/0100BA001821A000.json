@@ -4,5 +4,29 @@
     "name": "IGS Classic Arcade Collection",
     "publisher": "IGS",
     "releaseDate": 20230413,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "IGS classic arcade game is transplanted for the first time!\nIntegrate 8 IGS popular arcade games into one piece.\nSupport up to 4 people online combat!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060915,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

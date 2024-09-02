@@ -4,5 +4,31 @@
     "name": "Package Inc",
     "publisher": "Nerd Monkeys",
     "releaseDate": 20221221,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Package Inc is a beautiful game about building a delivery system for a growing city. Build a connection between hubs and destinations to deliver packages and generate profit!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000061193,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Pocket Witch",
     "publisher": "eastasiasoft",
     "releaseDate": 20230215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Help the little witch escape a deadly dungeon in pixel art platforming style!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000061527,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

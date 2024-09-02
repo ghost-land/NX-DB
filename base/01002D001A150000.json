@@ -4,5 +4,32 @@
     "name": "Uzzuzzu My Pet",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Hop into the lives of four adorable animals. Uzzuzzu My Pet lets you experience a wacky world of absurd scenarios. Relax and sink into the world they inhabit.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000061577,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

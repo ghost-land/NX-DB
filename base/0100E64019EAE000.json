@@ -4,5 +4,37 @@
     "name": "Ugly",
     "publisher": "Graffiti Games",
     "releaseDate": 20230918,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Unravel the secrets of a tormented nobleman’s traumatic past in this stirring puzzle platformer with an innovative mirror mechanic, challenging puzzle rooms, and towering bosses.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000060847,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Partial Nudity",
+        "Sexual Content",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }
