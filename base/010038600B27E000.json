@@ -4,5 +4,27 @@
     "name": "Bastion",
     "publisher": "Supergiant Games",
     "releaseDate": 20180913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000010935,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence and drug references"
+    ],
+    "region": null,
+    "rightsId": "010038600B27E0000000000000000005"
 }

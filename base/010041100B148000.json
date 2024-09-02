@@ -4,5 +4,31 @@
     "name": "Pinstripe",
     "publisher": "Serenity Forge",
     "releaseDate": 20181026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "An ex-minister ventures through the frozen depths of Hell in search of his kidnapped daughter.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000010699,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "010041100B1480000000000000000005"
 }

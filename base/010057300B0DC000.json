@@ -4,5 +4,29 @@
     "name": "Heroki",
     "publisher": "Picomy",
     "releaseDate": 20180720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "CLEAR THE SKIES FOR A NEW HERO!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "nsuId": 70010000011237,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": "010057300B0DC0000000000000000004"
 }

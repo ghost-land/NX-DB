@@ -4,5 +4,32 @@
     "name": "PixARK",
     "publisher": "Snail Games USA",
     "releaseDate": 20190601,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Welcome to PixARK, a vast, wild world filled with vicious dinosaurs, magical creatures and endless adventure! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000011001,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

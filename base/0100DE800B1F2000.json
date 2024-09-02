@@ -4,5 +4,30 @@
     "name": "JumpHead: Battle4Fun!",
     "publisher": "Light Maze",
     "releaseDate": 20190719,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "It’s all about stomping down on your friends! Up to 4 players, dive head first into this party game with crazy, easy to learn gameplay!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000010837,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Drug Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }
