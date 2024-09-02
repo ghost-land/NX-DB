@@ -4,5 +4,32 @@
     "name": "A Gummy's Life",
     "publisher": "EP Games",
     "releaseDate": 20211007,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Action",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Local & Online party game for up to 8 players. Play with friends, family and/or AIs in multiple manic game modes! Choose your favorite gummy and show who rules over the sugar!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000012971,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": "0100ABC0097080000000000000000005"
 }

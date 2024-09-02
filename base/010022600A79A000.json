@@ -4,5 +4,36 @@
     "name": "Niffelheim",
     "publisher": "Ellada Games",
     "releaseDate": 20220912,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Survive in this hostile world, ransack the neighbor lands, explore dangerous dungeons and find your way to Valhalla!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000011349,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

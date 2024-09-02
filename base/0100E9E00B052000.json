@@ -4,5 +4,27 @@
     "name": "Arcade Archives DONKEY KONG",
     "publisher": "HAMSTER",
     "releaseDate": 20220303,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Save Lady from her kidnapper Donkey Kong!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000010531,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": "0100E9E00B0520000000000000000004"
 }

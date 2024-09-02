@@ -4,5 +4,38 @@
     "name": "ARK: Survival Evolved",
     "publisher": "Snail Games USA",
     "releaseDate": 20221117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "First-Person Shooter",
+        "Multiplayer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Now updated to the latest version of Unreal Engine 4 with improved visuals, increased performance and tons of new content!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000010940,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100D4A00B2840000000000000000005"
 }

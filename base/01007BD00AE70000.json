@@ -4,5 +4,36 @@
     "name": "Car Quest",
     "publisher": "Ezone",
     "releaseDate": 20211101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Hit the road to epic adventure in Car Quest: drive, collect, explore, solve, discover.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000011892,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Comic Mischief",
+        "Suitable for All Users"
+    ],
+    "region": null,
+    "rightsId": "01007BD00AE700000000000000000005"
 }

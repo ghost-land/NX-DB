@@ -4,5 +4,28 @@
     "name": "Panda Hero",
     "publisher": "TREVA",
     "releaseDate": 20230224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Release the panda in you!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000013216,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": "01002A300BDE20000000000000000005"
 }

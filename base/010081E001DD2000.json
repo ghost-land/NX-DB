@@ -4,5 +4,27 @@
     "name": "Arcade Archives Renegade",
     "publisher": "HAMSTER",
     "releaseDate": 20220317,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Save your good friend Hiroshi! Your enemy: the mob. In this battle your life is on the line!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000011962,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "010081E001DD20000000000000000004"
 }

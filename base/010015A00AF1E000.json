@@ -4,5 +4,32 @@
     "name": "Whispering Willows",
     "publisher": "Akupara Games",
     "releaseDate": 20221003,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Interact with the spirits of the dead, solve the puzzles of the mysterious mansion, and help Elena find her missing father.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000011385,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010015A00AF1E0000000000000000005"
 }

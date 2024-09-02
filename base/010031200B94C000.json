@@ -4,5 +4,35 @@
     "name": "My Friend Pedro",
     "publisher": "Devolver Digital",
     "releaseDate": 20190620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012124,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

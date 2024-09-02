@@ -4,5 +4,37 @@
     "name": "Diablo III: Eternal Collection",
     "publisher": "Blizzard Entertainment",
     "releaseDate": 20191212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Raise Some Hell",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012305,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "01001B300B9BE0000000000000000005"
 }

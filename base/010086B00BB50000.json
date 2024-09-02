@@ -4,5 +4,36 @@
     "name": "Farm Together",
     "publisher": "Milkstone Studios",
     "releaseDate": 20220224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Lifestyle",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Grow your own farm all by yourself, or cooperate with your friends in this unique, relaxing farming experience!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013165,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "010086B00BB500000000000000000007"
 }

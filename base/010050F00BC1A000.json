@@ -4,5 +4,30 @@
     "name": "Resident Evil",
     "publisher": "CAPCOM",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Relive the nightmare.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012854,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

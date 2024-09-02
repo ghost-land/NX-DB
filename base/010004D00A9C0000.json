@@ -4,5 +4,34 @@
     "name": "Aggelos",
     "publisher": "PQube",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Aggelos is the perfect combination of retro style and modern-day game design!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012683,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

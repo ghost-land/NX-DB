@@ -4,5 +4,29 @@
     "name": "Arcade Archives Sky Skipper",
     "publisher": "HAMSTER",
     "releaseDate": 20220317,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Fly through the sweeping skies in your biplane to save the king and animals!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000010534,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": "010008F00B0540000000000000000004"
 }

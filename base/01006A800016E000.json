@@ -4,5 +4,37 @@
     "name": "Super Smash Bros.™ Ultimate",
     "publisher": "Nintendo",
     "releaseDate": 20181207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "New characters and stages join the entire legacy roster!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000012332,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief",
+        "Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "01006A800016E0000000000000000005"
 }

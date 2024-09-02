@@ -4,5 +4,35 @@
     "name": "Hello Neighbor",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "First-Person Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000010714,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100FAA00B1680000000000000000004"
 }
