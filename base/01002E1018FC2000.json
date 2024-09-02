@@ -4,5 +4,29 @@
     "name": "Elite Soldier Shooter",
     "publisher": "Megame",
     "releaseDate": 20220929,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Where the special forces can not cope — one soldier and a rifle will achieve the goal.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000056639,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

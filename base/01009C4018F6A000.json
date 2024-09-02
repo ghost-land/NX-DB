@@ -4,5 +4,30 @@
     "name": "Arenas Of Tanks",
     "publisher": "Ratalaika Games",
     "releaseDate": 20220819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Use skill and strategy to defeat enemy tanks and upgrade your team",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "zh"
+    ],
+    "nsuId": 70010000056532,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

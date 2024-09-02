@@ -4,5 +4,34 @@
     "name": "Temp Zero",
     "publisher": "Alexandre Kadri",
     "releaseDate": 20221013,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Music",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Temp Zero is a minimalist roguelike which mixes intense action and musical bullet hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056327,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

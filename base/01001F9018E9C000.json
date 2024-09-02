@@ -4,5 +4,29 @@
     "name": "Smilemo",
     "publisher": "CFK",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Run, jump, and bounce?\nYou can't let your guard down for a second\nin this side-scrolling cyberspace action game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056309,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

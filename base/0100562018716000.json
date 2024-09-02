@@ -4,5 +4,32 @@
     "name": "The Captain",
     "publisher": "Sysiac Games",
     "releaseDate": 20221220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "You are Captain Thomas Welmu, lost on the other side of the galaxy. Dark forces are en route to Earth to destroy our planet - and you are carrying the only thing that can stop them. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056255,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

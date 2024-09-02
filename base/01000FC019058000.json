@@ -4,5 +4,33 @@
     "name": "BACKGAMMON PRO for Nintendo Switch",
     "publisher": "SUCCESS",
     "releaseDate": 20230420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Study",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Utilizing AI machine learning and game record analysis, this is as authentic as Backgammon gets!\nIt even supports online multiplayer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056804,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

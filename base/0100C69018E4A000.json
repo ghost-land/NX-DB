@@ -4,5 +4,36 @@
     "name": "The Last Faith",
     "publisher": "Playstack",
     "releaseDate": 20231115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "An unholy alliance of metroidvania and soulslike.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056206,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

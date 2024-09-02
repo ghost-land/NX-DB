@@ -4,5 +4,30 @@
     "name": "Minimal Move",
     "publisher": "TakoStudio",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A story-driven cooperative puzzle game.  ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056774,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

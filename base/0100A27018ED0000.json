@@ -4,5 +4,31 @@
     "name": "Rise of Fox Hero",
     "publisher": "2Awesome Studio",
     "releaseDate": 20230217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Armed with a sword and a shield, jump and fight your way through beautiful and colorful levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000056358,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "FINAL FANTASY II",
     "publisher": "SQUARE ENIX",
     "releaseDate": 20230419,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "The original FINAL FANTASY II comes to life with completely new graphics and audio as a 2D pixel remaster!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056572,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

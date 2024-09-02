@@ -4,5 +4,32 @@
     "name": "Kirby’s Dream Buffet™",
     "publisher": "Nintendo",
     "releaseDate": 20220817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Bump, battle, and boost your way to sweet victory",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000056620,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

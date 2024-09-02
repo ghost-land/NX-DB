@@ -4,5 +4,30 @@
     "name": "Die After Sunset",
     "publisher": "PQube",
     "releaseDate": 20230817,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Blast into an action-packed roguelite adventure through time, where Earth is under attack by aliens! \n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000056599,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

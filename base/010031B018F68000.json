@@ -4,5 +4,30 @@
     "name": "RUNOUT",
     "publisher": "Ratalaika Games",
     "releaseDate": 20221021,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Solve platform puzzles and save the world in this cyberpunk thriller",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000056516,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }
