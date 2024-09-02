@@ -4,5 +4,34 @@
     "name": "FAR: Lone Sails",
     "publisher": "Assemble Entertainment",
     "releaseDate": 20190819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "FAR: Lone Sails is a vehicle adventure game. It’s just you and your machine vs. the big nothing.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020679,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

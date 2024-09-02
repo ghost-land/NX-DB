@@ -4,5 +4,33 @@
     "name": "Bite the Bullet",
     "publisher": "Graffiti Games",
     "releaseDate": 20200813,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Run, Gun and Eat your way through this roguelite RPG shooter where every enemy is edible. Shoot fast. Eat big. Satisfy your appetite for destruction.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000021114,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

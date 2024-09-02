@@ -4,5 +4,32 @@
     "name": "Beats Runner",
     "publisher": "FuryLion Group",
     "releaseDate": 20191004,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Music"
+    ],
+    "developer": null,
+    "intro": "Just follow the beats and rush forward!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000021075,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

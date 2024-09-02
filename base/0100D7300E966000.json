@@ -4,5 +4,27 @@
     "name": "SELF",
     "publisher": "indienova",
     "releaseDate": 20200117,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "SELF is a suspenseful Kafkaesque text-based adventure game with simulation and puzzle mechanics.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000020870,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

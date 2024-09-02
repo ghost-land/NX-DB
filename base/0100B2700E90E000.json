@@ -4,5 +4,33 @@
     "name": "Brunch Club",
     "publisher": "Yogscast Games",
     "releaseDate": 20190829,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Communication",
+        "Arcade",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A 1 - 4 player, cooperative and competitive food frenzy party game! Working together and communication is key to getting the best times on the leaderboards!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000021019,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

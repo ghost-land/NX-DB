@@ -4,5 +4,33 @@
     "name": "Ministry of Broadcast",
     "publisher": "Hitcents",
     "releaseDate": 20200430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A country divided by The Wall. To cross it and reach your family, you must compete on - and win - a reality TV show broadcast by the Regime.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000021245,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

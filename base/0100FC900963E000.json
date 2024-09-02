@@ -4,5 +4,32 @@
     "name": "Yuri",
     "publisher": "Fingerlab",
     "releaseDate": 20191031,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Warm up your fingers, close your eyes and take a deep breath…\nYou’re about to enter the depths of Yuri’s world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020937,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

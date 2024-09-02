@@ -4,5 +4,25 @@
     "name": "Dungeon Warfare",
     "publisher": "Singlecore Games",
     "releaseDate": 20190801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Action",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Become a dungeon lord to defend your dungeons with deadliest of traps and insidious contraptions against greedy adventurers and wanna-be heroes.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "nsuId": 70010000021201,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

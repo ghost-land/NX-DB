@@ -4,5 +4,35 @@
     "name": "64.0",
     "publisher": "indienova",
     "releaseDate": 20191101,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A minimal fast-paced arcade game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000020867,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
