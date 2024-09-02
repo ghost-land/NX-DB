@@ -4,5 +4,26 @@
     "name": "Party Arcade",
     "publisher": "FarSight Studios",
     "releaseDate": 20181217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A collection of popular party and arcade games.\nSet in an immersive arcade environment with multiplayer support for 1–4 players on local networks or online.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000007741,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Digital Purchases"
+    ],
+    "region": null,
+    "rightsId": "01007FC00A0400000000000000000005"
 }

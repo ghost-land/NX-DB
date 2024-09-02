@@ -4,5 +4,31 @@
     "name": "Kero Blaster",
     "publisher": "PLAYISM",
     "releaseDate": 20180823,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A frog has the adventure of a lifetime\nin this lovely stage-based action game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000007781,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100DA200A09A0000000000000000004"
 }

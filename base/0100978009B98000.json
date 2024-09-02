@@ -4,5 +4,29 @@
     "name": "A Normal Lost Phone",
     "publisher": "Plug In Digital",
     "releaseDate": 20180302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "You have just found a phone. Now find out the truth.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000007226,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Themes"
+    ],
+    "region": null,
+    "rightsId": "0100978009B980000000000000000003"
 }

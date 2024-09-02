@@ -4,5 +4,34 @@
     "name": "Little Triangle",
     "publisher": "CottonGame",
     "releaseDate": 20180301,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Little Kingdom was invaded by the enemies!\nSave your friends and fight to take back the kingdom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000007486,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null,
+    "rightsId": "01000690085BE0000000000000000004"
 }

@@ -4,5 +4,34 @@
     "name": "Guts & Glory",
     "publisher": "tinyBuild Games",
     "releaseDate": 20180719,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "The objective is simple: Race to the finish line while everything tries to kill you.\t",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000007542,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": "01005E5009EF20000000000000000004"
 }

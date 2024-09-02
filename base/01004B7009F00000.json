@@ -4,5 +4,31 @@
     "name": "Miles & Kilo",
     "publisher": "Four Horses",
     "releaseDate": 20180705,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Race across a curious island in this \nfast-paced, light-hearted platformer",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000007549,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01004B7009F000000000000000000004"
 }

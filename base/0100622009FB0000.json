@@ -4,5 +4,25 @@
     "name": "Stick Fight: The Game",
     "publisher": "Landfall Games",
     "releaseDate": 20210402,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Multiplayer",
+        "Shooter",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Stick Fight is a physics-based couch/online fighting game where you battle it out as the iconic stick figures from the golden age of the internet.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000007643,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

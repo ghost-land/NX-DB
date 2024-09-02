@@ -4,5 +4,33 @@
     "name": "Party Hard",
     "publisher": "tinyBuild Games",
     "releaseDate": 20181123,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "It's 3:00 a.m. Your neighbors are having a loud party. Stop \nthem. Party Hard is tinyBuild's award-winning stealth strategy \ngame about ruining parties by any means.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000007271,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Crude Humour",
+        "Strong Violence"
+    ],
+    "region": null,
+    "rightsId": "010076E009C5E0000000000000000005"
 }

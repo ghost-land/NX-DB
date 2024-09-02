@@ -4,5 +4,33 @@
     "name": "Soap Dodgem",
     "publisher": "Zsolt Fabian",
     "releaseDate": 20181116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Board Game",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Cleaning is the new fun!\nSlide the soap squad and clear your enemies through the mazes of a bathroom.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000006981,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "010025C0078920000000000000000005"
 }

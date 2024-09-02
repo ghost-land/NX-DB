@@ -4,5 +4,33 @@
     "name": "MathLand",
     "publisher": "Artax Games",
     "releaseDate": 20200225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Educational video game for kids. Improve your mathematical level in addition, subtraction and multiplication.\nIt is not just a math app—it's a real educational adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000007945,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Chicken Range",
     "publisher": "Funbox Media",
     "releaseDate": 20181025,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "First-Person Shooter",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Playing Chicken Range is simple, shoot as many chickens as you can before you get covered in eggs!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000007702,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null,
+    "rightsId": "0100F6C00A0160000000000000000005"
 }

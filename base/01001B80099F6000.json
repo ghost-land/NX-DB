@@ -4,5 +4,29 @@
     "name": "Dracula's Legacy",
     "publisher": "Joindots",
     "releaseDate": 20181026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Mystery Hidden Object Adventure Puzzle Game!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000006848,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01001B80099F60000000000000000005"
 }
