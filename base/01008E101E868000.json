@@ -4,5 +4,36 @@
     "name": "Bum Simulator",
     "publisher": "Console Labs",
     "releaseDate": 20240716,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Embrace the inner Bum. The streets of Bumsville await.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000078887,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

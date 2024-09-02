@@ -4,5 +4,33 @@
     "name": "Scarlet Tower",
     "publisher": "Pyxeralia",
     "releaseDate": 20240523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Arcade",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Hunt during the day, be hunted during the Night! Scarlet Tower is a gothic horror casual game with roguelike and RPG elements, like talent trees, classes, familiars and more!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000079076,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

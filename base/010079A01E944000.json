@@ -4,5 +4,27 @@
     "name": "Undercat",
     "publisher": "OverGamez",
     "releaseDate": 20240518,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Undercat is a non-restrictive 2D platformer with co-op mode. Help the Resistance to overthrow the Cats' tyranny and liberate the animal city!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000079126,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

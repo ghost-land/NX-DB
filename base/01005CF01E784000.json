@@ -4,5 +4,35 @@
     "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
     "publisher": "Super Evil Mega Corp",
     "releaseDate": 20240717,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Unleash the Turtles in a roguelike quest to rescue Splinter from the Foot Clan!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000078903,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

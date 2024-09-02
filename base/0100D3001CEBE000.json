@@ -4,5 +4,33 @@
     "name": "Ikki Unite",
     "publisher": "SUNSOFT",
     "releaseDate": 20240418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The game you loved to hate is back ! Ikki Unite plants the seeds of rebellion. Enlist up to 16 friends in this Roguelite madness!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000078969,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

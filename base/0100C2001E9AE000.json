@@ -4,5 +4,35 @@
     "name": "SCHiM",
     "publisher": "Extra Nice",
     "releaseDate": 20240718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "SCHiM is a game about jumping from shadow to shadow.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000079300,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
