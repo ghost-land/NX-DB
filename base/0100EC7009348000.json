@@ -4,5 +4,27 @@
     "name": "Rogue Aces",
     "publisher": "Thalamus Digital",
     "releaseDate": 20180412,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Join the Rogue Aces today as Wings Mc.Pilot & Co, in this procedurally generated, adrenaline-fuelled fight to the last plane! Avoid incoming fire from land, sea and air while taking back the captured land from The Baron!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000005312,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100EC70093480000000000000000004"
 }

@@ -4,5 +4,31 @@
     "name": "Old School Musical",
     "publisher": "Plug In Digital",
     "releaseDate": 20180913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Music",
+        "Party",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "A rhythm game full of chiptunes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000005092,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100C3D00923A0000000000000000005"
 }

@@ -4,5 +4,30 @@
     "name": "Alteric",
     "publisher": "Sometimes You",
     "releaseDate": 20180331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "You are alone. Are you lonely? You're lost. Or stuck? Somewhere...but where? And most importantly, who are you?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000005341,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01004DB00935A0000000000000000003"
 }

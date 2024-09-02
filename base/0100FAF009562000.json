@@ -4,5 +4,28 @@
     "name": "Deep Ones",
     "publisher": "Sometimes You",
     "releaseDate": 20180411,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "«Deep Ones» is a retro arcade-platformer with multigenre parts, inspired by ZX Spectrum and works of H. P. Lovecraft.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000005805,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null,
+    "rightsId": "0100FAF0095620000000000000000003"
 }

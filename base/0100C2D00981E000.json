@@ -4,5 +4,27 @@
     "name": "Arcade Archives RYGAR",
     "publisher": "HAMSTER",
     "releaseDate": 20180913,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Argus... Now is the time to strike down your enemies with the legendary Diskarmor!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000006281,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "0100C2D00981E0000000000000000005"
 }
