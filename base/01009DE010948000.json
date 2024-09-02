@@ -4,5 +4,24 @@
     "name": "Cosmonauta",
     "publisher": "QUByte Interactive",
     "releaseDate": 20231120,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "During a space expedition, our hero experiences issues with the navigation systems on his ship and now needs to face the dangers of the unknown to find his way back",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000027142,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

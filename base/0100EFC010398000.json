@@ -4,5 +4,27 @@
     "name": "Aborigenus",
     "publisher": "Drageus Games",
     "releaseDate": 20220715,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Adventure-RPG Platformer in a primal world. Choose your class, hunt the aggressive fauna, learn new abilities and fight the enemy army. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+    ],
+    "nsuId": 70010000026335,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Crysis 3 Remastered",
     "publisher": "Crytek",
     "releaseDate": 20211015,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Experience the single-player experience  from the iconic first-person shooter, Crysis 3, optimized to take advantage of today's hardware in Crysis 3 Remastered.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000027475,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

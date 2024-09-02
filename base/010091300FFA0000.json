@@ -4,5 +4,31 @@
     "name": "Grizzland",
     "publisher": "eastasiasoft",
     "releaseDate": 20230302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Jump, slash and explore a broken world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000025418,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

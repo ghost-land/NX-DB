@@ -4,5 +4,32 @@
     "name": "EMERGENCY HQ",
     "publisher": "PromotionSoftware",
     "releaseDate": 20220525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Command firefighters, paramedics and many other rescue units. \nBuild your base and expand your team.\nSave lives. Be a hero.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000027581,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

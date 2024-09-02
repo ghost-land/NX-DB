@@ -4,5 +4,32 @@
     "name": "No Time to Relax",
     "publisher": "Porcelain Fortress",
     "releaseDate": 20220303,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Simulation",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "No Time to Relax is a life simulation game where up to 4 players online or locally compete against each other in the ultimate game of life.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000025070,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

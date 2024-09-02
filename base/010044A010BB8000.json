@@ -4,5 +4,27 @@
     "name": "Robozarro",
     "publisher": "eastasiasoft",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "2D physics mayhem!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000027368,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

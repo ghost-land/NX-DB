@@ -4,5 +4,34 @@
     "name": "Marooners",
     "publisher": "M2H",
     "releaseDate": 20220110,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "The most chaotic multiplayer party game on the planet!\nParty game madness!\nPick your Marooner!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000025053,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

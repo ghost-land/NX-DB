@@ -4,5 +4,30 @@
     "name": "Vitamin Connection",
     "publisher": "WayForward",
     "releaseDate": 20220728,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Co-pilot the Capsule Ship on a microscopic journey as Vita-Boy & Mina-Girl!\nBattle bacteria to save the Sable family...and the world!?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000027322,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

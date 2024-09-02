@@ -4,5 +4,35 @@
     "name": "Truck Driver",
     "publisher": "Soedesco",
     "releaseDate": 20220401,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Racing",
+        "Adventure",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000027012,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

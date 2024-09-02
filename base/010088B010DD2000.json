@@ -4,5 +4,26 @@
     "name": "Dongo Adventure",
     "publisher": "QUByte Interactive",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Embark on a great adventure and help Dongo escape from dangerous enemies and challenging environments!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000027591,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }
