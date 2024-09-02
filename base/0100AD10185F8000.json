@@ -4,5 +4,35 @@
     "name": "Nintendo World Championships: NES™ Edition",
     "publisher": "Nintendo",
     "releaseDate": 20240718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Party",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Bring the Nintendo World Championships to your living room",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000080664,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

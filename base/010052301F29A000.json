@@ -4,5 +4,34 @@
     "name": "Burst Hero",
     "publisher": "Happy Player",
     "releaseDate": 20240530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Deck-building Rogue-like shooting game. Imaginative featured bullets, 19 heroes, 41 weapons, 31 types of bullets, 76 cards. Both automatic aiming and manual aiming are allowed. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000081292,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

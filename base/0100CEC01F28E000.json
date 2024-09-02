@@ -4,5 +4,23 @@
     "name": "Cat Warrior",
     "publisher": "Sadi Makes Games",
     "releaseDate": 20240525,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "action platformer\nnice pixel art graphics\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000081207,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

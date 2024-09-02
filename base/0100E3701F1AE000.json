@@ -4,5 +4,28 @@
     "name": "Cat's Request",
     "publisher": "Sometimes You",
     "releaseDate": 20240814,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Cat's Request is a fantastic detective story about an extraterrestrial cat named Ash and his virtual assistant, living in a metropolis governed by artificial intelligence.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000081082,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

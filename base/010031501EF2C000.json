@@ -4,5 +4,23 @@
     "name": "Matsutake Game",
     "publisher": "Mamekujira",
     "releaseDate": 20240502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Board Game",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Aim for a high score by creating large matsutake mushrooms!\nStick mushrooms together to evolve them!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000080902,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

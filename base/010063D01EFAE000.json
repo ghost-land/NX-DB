@@ -4,5 +4,31 @@
     "name": "SlidePuzzle",
     "publisher": "SUCCESS",
     "releaseDate": 20240523,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "A new type of falling object puzzle in which you slide and erase blocks by aligning them.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000080653,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

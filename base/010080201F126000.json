@@ -4,5 +4,34 @@
     "name": "Let's Journey",
     "publisher": "Upscale Studio",
     "releaseDate": 20240708,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Choose your hero, roll dice and embark on an epic adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000081282,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violent References"
+    ],
+    "region": null,
+    "rightsId": null
 }

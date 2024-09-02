@@ -4,5 +4,32 @@
     "name": "FROGUE",
     "publisher": "QUByte Interactive",
     "releaseDate": 20240627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Embark in a procedurally generated journey in FROGUE, a Roguelike Bullet Hell Platformer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000080722,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "The Eerie Surroundings",
     "publisher": "SURPRISED HOTDOG",
     "releaseDate": 20240425,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "You are trying to find the exit but you are stuck in a loop. To find the exit, observe your surroundings and get familiar with it. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000080755,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
