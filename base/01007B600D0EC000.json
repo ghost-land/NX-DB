@@ -4,5 +4,32 @@
     "name": "Candle",
     "publisher": "Merge Games",
     "releaseDate": 20190718,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アドベンチャー",
+        "パズル",
+        "アクション"
+    ],
+    "developer": null,
+    "intro": "神秘の力を宿す炎をその手に\n一族の命運をかけたパズルアドベンチャー！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000016271,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }

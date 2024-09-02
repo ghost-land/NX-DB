@@ -4,5 +4,27 @@
     "name": "ジョガーノート",
     "publisher": "Digital Bards",
     "releaseDate": 20200116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "パズル",
+        "コミュニケーション",
+        "パーティー"
+    ],
+    "developer": null,
+    "intro": "ジョグ、ジャンプ、スイッチ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000016929,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
