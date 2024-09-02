@@ -4,5 +4,33 @@
     "name": "Coffee Talk",
     "publisher": "Chorus Worldwide Games",
     "releaseDate": 20200130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Communication",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Coffee Talk is a coffee brewing and heart-to-heart talking simulator about listening to peoples’ problems and helping them by serving a warm drink or two.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000019678,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

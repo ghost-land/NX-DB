@@ -4,5 +4,32 @@
     "name": "Curious Expedition",
     "publisher": "Thunderful",
     "releaseDate": 20200403,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Board Game",
+        "Strategy",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Go explore, adventure awaits!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000019464,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference"
+    ],
+    "region": null,
+    "rightsId": null
 }

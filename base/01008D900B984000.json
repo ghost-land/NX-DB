@@ -4,5 +4,32 @@
     "name": "FEZ",
     "publisher": "Polytron",
     "releaseDate": 20210415,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Gomez is a 2D creature living in a 2D world. Or is he?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019237,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

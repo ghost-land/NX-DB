@@ -4,5 +4,32 @@
     "name": "Forest Home",
     "publisher": "NextGen Reality",
     "releaseDate": 20190620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Something's gone wrong in the forest! All the animals are lost, and only you can guide them home.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000019478,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

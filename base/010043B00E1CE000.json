@@ -4,5 +4,32 @@
     "name": "PictoQuest",
     "publisher": "Plug In Digital",
     "releaseDate": 20190808,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Logic puzzles with a light RPG twist, here comes PictoQuest!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019665,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Darksiders Genesis",
     "publisher": "THQ Nordic",
     "releaseDate": 20200215,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Explore the epic world of Darksiders and wreak havoc with a friend in two-player cooperative mode",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019235,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

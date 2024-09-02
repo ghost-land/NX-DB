@@ -4,5 +4,29 @@
     "name": "Tiny Derby",
     "publisher": "Triple Boris",
     "releaseDate": 20190604,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Racing",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Help the good guys win!\nEverything is allowed!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000019636,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

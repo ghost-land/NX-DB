@@ -4,5 +4,31 @@
     "name": "7th Sector",
     "publisher": "Sometimes You",
     "releaseDate": 20200206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Welcome to the 7th Sector, set in a mysterious cyberpunk world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000019281,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

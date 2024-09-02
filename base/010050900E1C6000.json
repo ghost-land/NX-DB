@@ -4,5 +4,32 @@
     "name": "Anarcute",
     "publisher": "Plug In Digital",
     "releaseDate": 20190530,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Simulation",
+        "Fighting",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Anarcute is the cutest riot game, with a catchy art direction and unique crowd-beat’em all gameplay!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019663,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

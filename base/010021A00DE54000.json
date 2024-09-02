@@ -4,5 +4,32 @@
     "name": "Blazing Beaks",
     "publisher": "Untold Tales",
     "releaseDate": 20190510,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "RPG",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Roguelite - where too much greediness can be fatal. A colourful world with armed birds blazing their way through piles of mutants, monsters and creepy creatures.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019203,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
