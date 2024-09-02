@@ -4,5 +4,29 @@
     "name": "FoxyRush",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240517,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "An exciting adventure that will appeal to all fans of foxes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000076720,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

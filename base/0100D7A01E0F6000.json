@@ -4,5 +4,29 @@
     "name": "DROS",
     "publisher": "RedDeer.Games",
     "releaseDate": 20240712,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Fighting",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Explore the Tower, meet its strange inhabitants, collect alchemical treasures, and discover twists around every corner.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000077019,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

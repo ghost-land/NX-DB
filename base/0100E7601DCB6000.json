@@ -4,5 +4,31 @@
     "name": "Return",
     "publisher": "Dead Unicorn",
     "releaseDate": 20240517,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Return to your home planet after 200 years of space travel in this atmospheric, art-driven adventure. Shoot, slash, and roll your way through dangerous enemies and ancient bosses.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000076793,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

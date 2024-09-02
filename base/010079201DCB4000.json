@@ -4,5 +4,31 @@
     "name": "The jump guys",
     "publisher": "Elusor",
     "releaseDate": 20240223,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Multiplayer",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "A physics-based platformer. 40 levels to pass. 12 fight arenas. Play with friends by local multiplayer or online multiplayer for up to 4 players",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000076592,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

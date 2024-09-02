@@ -4,5 +4,30 @@
     "name": "Racine",
     "publisher": "Goblinz Studio",
     "releaseDate": 20240620,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Racine is an Autobattler Strategy Roguelike. Use your cards to increase your heroes stats or cast powerful spells. Find some artifacts and new cards to develop your own play style.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000077072,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

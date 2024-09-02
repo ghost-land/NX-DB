@@ -4,5 +4,31 @@
     "name": "Awesome Pea 3",
     "publisher": "Sometimes You",
     "releaseDate": 20240515,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Fast precision platformer about the adventures of Pea, who loves gold",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000076871,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

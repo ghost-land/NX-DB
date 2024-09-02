@@ -4,5 +4,27 @@
     "name": "Swing By",
     "publisher": "ANIQ",
     "releaseDate": 20240322,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Party",
+        "Racing",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Spin your ship around planets, collect as many valuable prizes as possible, and play solo or with up to 4 players. It's super fun either way!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000076366,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

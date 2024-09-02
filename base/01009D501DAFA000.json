@@ -4,5 +4,26 @@
     "name": "The Nom",
     "publisher": "QubicGames",
     "releaseDate": 20240209,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "Fighting",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "You were turned into a dark creature by evil scientists and finally managed to break free! It's time for revenge!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000076852,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

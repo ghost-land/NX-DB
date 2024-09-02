@@ -4,5 +4,24 @@
     "name": "Taser Gun",
     "publisher": "Entity3",
     "releaseDate": 20240302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Take out the enemies with the taser gun",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000076714,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

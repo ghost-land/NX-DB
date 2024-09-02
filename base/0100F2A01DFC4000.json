@@ -4,5 +4,31 @@
     "name": "Balloony",
     "publisher": "JOID Games",
     "releaseDate": 20240314,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Roll, jump and fly through Balloony's adventures! For 1-4 Players",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "nsuId": 70010000076768,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
