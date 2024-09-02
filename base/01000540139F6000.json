@@ -4,5 +4,34 @@
     "name": "Speed Limit",
     "publisher": "Gamechuck",
     "releaseDate": 20210218,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Fight - Die - Repeat\nA thrilling genre-switching rollercoaster that will test the limits of your reflexes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036211,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

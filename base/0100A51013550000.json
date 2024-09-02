@@ -4,5 +4,25 @@
     "name": "Death Tales",
     "publisher": "Arcade Distillery",
     "releaseDate": 20201204,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Play as a new reaper, completing quests, collecting spells, and gathering equipment to fight through hordes of enemies in this grim but whimsical 2D adventure!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000035722,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

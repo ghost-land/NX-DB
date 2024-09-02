@@ -4,5 +4,25 @@
     "name": "Spirit Arena",
     "publisher": "JanduSoft",
     "releaseDate": 20201225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Fight incoming waves of monsters with a friend! Control powerful wizards as you free 4 different worlds from the grasp of those evil beings. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000036152,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

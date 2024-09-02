@@ -4,5 +4,34 @@
     "name": "Spinny's Journey",
     "publisher": "Thunder Sparrow",
     "releaseDate": 20210119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Spinny's Journey is a challenging 2D action-puzzle game. Help Spinny to find his way through mazes, dodge traps and repair his spaceship to get back home.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035816,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

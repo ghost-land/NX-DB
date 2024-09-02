@@ -4,5 +4,33 @@
     "name": "Area 86",
     "publisher": "SimDevs",
     "releaseDate": 20201111,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Welcome to Area 86, a physics-based escape room puzzle game. The secret space station AI has gone rogue, and it's your task to stop it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035598,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

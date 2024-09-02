@@ -4,5 +4,32 @@
     "name": "My Hidden Things",
     "publisher": "Big Way",
     "releaseDate": 20210114,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "My Hidden Things is a bold experiment: it's a mixture of a visual novel and hidden object adventure with unusual mechanics",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000036121,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

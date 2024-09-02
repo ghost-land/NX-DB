@@ -4,5 +4,30 @@
     "name": "BraveMatch",
     "publisher": "Playstige Interactive",
     "releaseDate": 20210422,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Arcade",
+        "Puzzle",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "BraveMatch is a tile-matching inspired RPG game with lots of fun!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035744,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

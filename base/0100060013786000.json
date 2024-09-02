@@ -4,5 +4,31 @@
     "name": "MazM: The Phantom of the Opera",
     "publisher": "CFK",
     "releaseDate": 20210325,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A thrilling love story unfolds in a majestic Parisian opera house.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000035807,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Business Tour",
     "publisher": "8Floor Games",
     "releaseDate": 20211008,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Become the richest business shark in online multiplayer game for up to 4 players. Grow your wealth in tournaments and build a collection of characters and dice.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000035777,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,25 @@
     "name": "Elliot",
     "publisher": "JanduSoft",
     "releaseDate": 20201225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Elliot is a colourful 2D platformer inspired by 16-bit classics, with a touch of hardcore.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "nsuId": 70010000035772,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
