@@ -4,5 +4,23 @@
     "name": "Art Heist - Escape Room Adventure",
     "publisher": "M9 GAMES",
     "releaseDate": 20230928,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "An escape room inspired adventure. A stormy night, a secluded villa. A precious artwork has been stolen during a heist. Will you track down the missing painting before the culprit escapes?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000072886,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

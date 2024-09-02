@@ -4,5 +4,31 @@
     "name": "Core Keeper",
     "publisher": "Fireshine Games",
     "releaseDate": 20240917,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Explore an endless cavern of creatures, relics and resources in a mining sandbox adventure for 1-4 players. Mine, build, fight, craft and farm to unravel the mystery of the ancient Core.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073033,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

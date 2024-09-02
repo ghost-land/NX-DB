@@ -4,5 +4,31 @@
     "name": "C.A.R.D.S. RPG: The Misty Battlefield",
     "publisher": "ACQUIRE",
     "releaseDate": 20240522,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "RPG",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "This game combines roguelike-style deckbuilding with SRPGs to create an all-new experience!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000072848,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

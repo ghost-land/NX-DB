@@ -4,5 +4,34 @@
     "name": "Tchia",
     "publisher": "Kepler Interactive",
     "releaseDate": 20240627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A game inspired by New Caledonia.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000073167,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Crude Humor",
+        "Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

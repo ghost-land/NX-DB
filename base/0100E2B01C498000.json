@@ -4,5 +4,32 @@
     "name": "Chef Chen",
     "publisher": "buho",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Strategy",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Chef Chen is a multiplayer co-op hunting and cooking game for 1-4 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000073212,
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

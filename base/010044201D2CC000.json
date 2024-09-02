@@ -4,5 +4,27 @@
     "name": "Felix the Cat",
     "publisher": "KONAMI",
     "releaseDate": 20240328,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Felix the Cat returns in his greatest adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000073274,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

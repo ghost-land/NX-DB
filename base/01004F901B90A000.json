@@ -4,5 +4,29 @@
     "name": "Dani and Evan: Dinosaur books",
     "publisher": "Cooking & Publishing",
     "releaseDate": 20231221,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Adventure",
+        "Study",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Read, play and learn about dinosaurs with interactive and educational books!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000073090,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,22 @@
     "name": "Umbrella Drop",
     "publisher": "Entity3",
     "releaseDate": 20230930,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Use umbrellas to slow your fall",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000072986,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
