@@ -4,5 +4,29 @@
     "name": "Reverie Knights Tactics",
     "publisher": "Fulqrum Publishing",
     "releaseDate": 20220125,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Reverie Knights Tactics is a turn-based tactical RPG with strategic battles in isometric grids where every decision can alter the story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000037572,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

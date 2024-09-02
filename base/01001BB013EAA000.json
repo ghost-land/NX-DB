@@ -4,5 +4,31 @@
     "name": "Tetragon",
     "publisher": "ESDigital Games",
     "releaseDate": 20220511,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A 2D puzzle game set in a square-shaped world whose walls can suddenly change position, rearranging the game’s gravity force",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000037378,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

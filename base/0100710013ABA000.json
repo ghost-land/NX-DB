@@ -4,5 +4,35 @@
     "name": "Spelunky",
     "publisher": "Mossmouth",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "The classic \"roguelike platformer\" that paved the way for other roguelike-inspired indie titles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036423,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

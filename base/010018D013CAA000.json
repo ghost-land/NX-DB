@@ -4,5 +4,33 @@
     "name": "Super Magbot",
     "publisher": "Team17",
     "releaseDate": 20221104,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A precise 2D platformer with a twist. NO JUMPING. Master your magnetic powers to beat each level with speed and skill.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036958,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

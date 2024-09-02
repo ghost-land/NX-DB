@@ -4,5 +4,32 @@
     "name": "Anuchard",
     "publisher": "Freedom Games",
     "releaseDate": 20220421,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The kingdom of Anuchard has fallen.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037670,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

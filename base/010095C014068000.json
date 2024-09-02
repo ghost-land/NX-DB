@@ -4,5 +4,28 @@
     "name": "Sheepo",
     "publisher": "Top Hat Studios",
     "releaseDate": 20240501,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Sheepo is a quirky metroidvania platformer featuring a shape-shifting sheep-thing, who must traverse an uncharted planet in order to collect samples of each living species.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000037792,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

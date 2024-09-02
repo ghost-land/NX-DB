@@ -4,5 +4,37 @@
     "name": "Neon White",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20220616,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "A lightning fast first-person action platformer set beyond the pearly gates of Heaven.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000037795,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Mild Suggestive Themes",
+        "Use of Tobacco"
+    ],
+    "region": null,
+    "rightsId": null
 }

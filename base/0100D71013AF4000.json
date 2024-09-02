@@ -4,5 +4,25 @@
     "name": "Gemini",
     "publisher": "QUByte Interactive",
     "releaseDate": 20230309,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Gemini is an action game in defense of the tower, where your objective is to protect the crystal while staying alive.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es"
+    ],
+    "nsuId": 70010000036495,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

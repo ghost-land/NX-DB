@@ -4,5 +4,34 @@
     "name": "Dungeon Escape",
     "publisher": "eastasiasoft",
     "releaseDate": 20230330,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Find a way out or die trying repeatedly in this challenging 2D platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037853,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

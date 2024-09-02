@@ -4,5 +4,32 @@
     "name": "SnowRunner",
     "publisher": "Focus Entertainment",
     "releaseDate": 20220301,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Racing",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Get ready for the next-generation off-road experience!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036415,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

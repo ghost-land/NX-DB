@@ -4,5 +4,31 @@
     "name": "Ampersat",
     "publisher": "CheckMate Publishing",
     "releaseDate": 20220610,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "A shooty, slashy, RPG-y game mixing retro and modern sensibilities. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000036943,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

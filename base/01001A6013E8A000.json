@@ -4,5 +4,34 @@
     "name": "Nira",
     "publisher": "Graffiti Games",
     "releaseDate": 20211014,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Multiplayer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Explore procedurally generated islands in this fast-paced, sandbox survival adventure filled with building, crafting, fighting, farming and quests.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000037364,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

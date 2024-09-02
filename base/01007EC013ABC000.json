@@ -4,5 +4,35 @@
     "name": "Spelunky 2",
     "publisher": "Mossmouth",
     "releaseDate": 20210920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Spelunky returns in this greatly-expanded sequel to the original roguelike platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000036428,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Simulated Gambling",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
