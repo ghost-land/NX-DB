@@ -4,5 +4,33 @@
     "name": "Graveyard Keeper",
     "publisher": "tinyBuild Games",
     "releaseDate": 20200206,
-    "version": 0
+    "version": 0,
+    "category": [
+        "ロールプレイング",
+        "アドベンチャー",
+        "シミュレーション"
+    ],
+    "developer": null,
+    "intro": "中世の墓地をなんとしても \n繁盛した商売へと発展させよう！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000022577,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null,
+    "rightsId": null
 }
