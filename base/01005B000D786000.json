@@ -4,5 +4,31 @@
     "name": "DC Universe™ Online",
     "publisher": "Daybreak Game Company",
     "releaseDate": 20190806,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Your character. Our universe. Create your own Superhero or Supervillain in DC Universe Online.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000017752,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

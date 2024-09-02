@@ -4,5 +4,30 @@
     "name": "Happy Words",
     "publisher": "LAN - GAMES EOOD",
     "releaseDate": 20190529,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Board Game",
+        "Strategy",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Create words and connect them to the existing ones.\nScore high points and defeat your friends.\nPlay online, solo or in local mode with your friends and family.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000017401,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

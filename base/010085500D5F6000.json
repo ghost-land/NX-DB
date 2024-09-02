@@ -4,5 +4,26 @@
     "name": "Turok",
     "publisher": "Nightdive Studios",
     "releaseDate": 20190318,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A world where time has no meaning and evil knows no bounds. Torn from a world long gone, the time traveling warrior Turok has found himself thrust into a savage land torn by conflict.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000017338,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010085500D5F60000000000000000007"
 }

@@ -4,5 +4,33 @@
     "name": "Crazy Zen Mini Golf",
     "publisher": "CGA Studio Games",
     "releaseDate": 20191224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Sports",
+        "Party",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Fun pick up and play mini-golf game with a touch of marble madness",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000018018,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

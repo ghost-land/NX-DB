@@ -4,5 +4,30 @@
     "name": "Caterpillar Royale",
     "publisher": "STARSIGN",
     "releaseDate": 20190220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Racing",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "It's the caterpillars' merciless growth competition!\nDefeat everyone else and be the last caterpillar standing!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000018033,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

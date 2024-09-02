@@ -4,5 +4,30 @@
     "name": "Northgard",
     "publisher": "Shiro Games",
     "releaseDate": 20190926,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Northgard is a strategy game based on Norse mythology in which you control a clan of Vikings vying for the control of a mysterious newfound continent. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000018125,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild themes, violence and coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

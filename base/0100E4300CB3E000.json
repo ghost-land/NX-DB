@@ -4,5 +4,36 @@
     "name": "Feather",
     "publisher": "Samurai Punk",
     "releaseDate": 20190405,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A serene game about the joy of flight.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017544,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

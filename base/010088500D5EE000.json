@@ -4,5 +4,32 @@
     "name": "KORAL",
     "publisher": "Carlos Coronado",
     "releaseDate": 20190516,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Arcade",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "Dive into the beautiful underwater world to bring coral reefs back to life. Solve puzzles to ecosystems and explore the beauty of the oceans.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000017281,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

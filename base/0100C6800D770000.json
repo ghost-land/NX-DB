@@ -4,5 +4,30 @@
     "name": "Super Toy Cars 2",
     "publisher": "Eclipse Games",
     "releaseDate": 20200612,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Super Toy Cars 2 is a fast-paced arcade racing game where you control miniature cars that speed across amazing tracks made of supersized everyday objects",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000017721,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

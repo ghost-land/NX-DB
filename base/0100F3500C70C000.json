@@ -4,5 +4,29 @@
     "name": "Jet Lancer",
     "publisher": "Armor Games Studios",
     "releaseDate": 20200512,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000017532,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

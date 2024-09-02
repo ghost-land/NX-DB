@@ -4,5 +4,30 @@
     "name": "Black Paradox",
     "publisher": "Fantastico Studio",
     "releaseDate": 20190503,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hyper-stylized shoot ‘em up chaos!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000018094,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

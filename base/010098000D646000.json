@@ -4,5 +4,27 @@
     "name": "Goonya Fighter",
     "publisher": "MUTAN",
     "releaseDate": 20190627,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Party",
+        "Action",
+        "Communication"
+    ],
+    "developer": null,
+    "intro": "A different kind of fighting game! Even with just one Nintendo Switch™ device, up to 4 people can fight it out. Are you ready to become a Goonya Fighter?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000017496,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

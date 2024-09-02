@@ -4,5 +4,27 @@
     "name": "SolSeraph",
     "publisher": "SEGA",
     "releaseDate": 20190710,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Strategy",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Retro-inspired tower defense and action platformer SolSeraph reinvents the classics!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000017535,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
