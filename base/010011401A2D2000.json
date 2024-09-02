@@ -4,5 +4,28 @@
     "name": "Zoeti",
     "publisher": "SOFT SOURCE",
     "releaseDate": 20240613,
-    "version": 0
+    "version": 0,
+    "category": [
+        "冒險",
+        "策略",
+        "角色扮演",
+        "益智"
+    ],
+    "developer": null,
+    "intro": "Zoeti 是一款回合制 Roguelike 遊戲，以一副撲克牌為特色，可以組建紙牌組合，在激烈的戰鬥中啟動技能。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000062066,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
