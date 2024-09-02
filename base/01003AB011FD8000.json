@@ -4,5 +4,34 @@
     "name": "Super Puzzle Pack",
     "publisher": "Mindscape",
     "releaseDate": 20201029,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Party",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "The biggest collection of puzzles ever! Play with friends or go on solo adventures, there is a game for everyone!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000032764,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

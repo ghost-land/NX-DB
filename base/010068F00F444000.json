@@ -4,5 +4,37 @@
     "name": "Brawl Chess",
     "publisher": "RedDeer.Games",
     "releaseDate": 20201119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Education",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Compete with family and friends in the most epic chess game ever made. If you enjoy putting pressure on your opponent, then the Queen's Gambit is a perfect opening for you.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000033052,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

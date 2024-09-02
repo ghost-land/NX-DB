@@ -4,5 +4,32 @@
     "name": "Escape First 2",
     "publisher": "OnSkull Development",
     "releaseDate": 20210212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "\"Escape First 2\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033125,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

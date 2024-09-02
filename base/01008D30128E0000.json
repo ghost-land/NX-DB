@@ -4,5 +4,34 @@
     "name": "Bamerang",
     "publisher": "Lululu Entertainment",
     "releaseDate": 20210422,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Fighting",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "A fast paced boomerang fighting game for two to four players. Fight for the favor of the goddess in an outlandish, colorful world in this local multiplayer game. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033014,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

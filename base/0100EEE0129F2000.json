@@ -4,5 +4,29 @@
     "name": "Street Racer Underground",
     "publisher": "JanduSoft",
     "releaseDate": 20201010,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Arcade",
+        "Simulation",
+        "Sports"
+    ],
+    "developer": null,
+    "intro": "Live the thrill of street racing in this fast-paced car game. Dodge the traffic, escape from the police and get the highest score.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000033177,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

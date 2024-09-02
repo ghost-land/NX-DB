@@ -4,5 +4,30 @@
     "name": "INSTANT Chef Party",
     "publisher": "JUST FOR GAMES",
     "releaseDate": 20201028,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "A delicious party game! Compete in several culinary mini-games, prepare burgers, wash dishes... Who will become the best cook?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "zh"
+    ],
+    "nsuId": 70010000033178,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

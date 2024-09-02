@@ -4,5 +4,30 @@
     "name": "Country Tales",
     "publisher": "Ocean Media",
     "releaseDate": 20200730,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Explore the Wild West and help Ted and his friends in their adventures!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000033257,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

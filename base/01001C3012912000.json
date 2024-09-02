@@ -4,5 +4,31 @@
     "name": "Say No! More",
     "publisher": "Thunderful",
     "releaseDate": 20210409,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Say No! More is the world’s first NPG (NO!-Playing Game)",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033057,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

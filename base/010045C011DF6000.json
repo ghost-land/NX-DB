@@ -4,5 +4,33 @@
     "name": "Endurance - space action",
     "publisher": "Ivan Panasenko",
     "releaseDate": 20200917,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Searching for a new game with an engaging story, immersive battles in a dungeon crawler setting or a rogue-like game with RPG elements? If so, then Endurance is the best choice for you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000033045,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Baila Latino",
     "publisher": "My World",
     "releaseDate": 20201203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Party",
+        "Multiplayer",
+        "Lifestyle"
+    ],
+    "developer": null,
+    "intro": "A fun dance game for all your family and friends!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000033191,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Sexual References",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

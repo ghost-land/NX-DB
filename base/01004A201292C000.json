@@ -4,5 +4,32 @@
     "name": "Bunny Adventure",
     "publisher": "11Sheep",
     "releaseDate": 20200820,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Move tiles around to form a path for the bunny to get to the goal.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000032742,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
