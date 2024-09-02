@@ -4,5 +4,33 @@
     "name": "The Jackbox Party Pack 9",
     "publisher": "Jackbox Games",
     "releaseDate": 20221020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Communication",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000052826,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violent References",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

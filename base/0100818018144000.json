@@ -4,5 +4,26 @@
     "name": "Ruggnar",
     "publisher": "Plug In Digital",
     "releaseDate": 20230830,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Help Ruggnar explore gloomy places with his bag and a few candles as his sole equipment.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "nsuId": 70010000052849,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

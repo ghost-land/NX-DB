@@ -4,5 +4,31 @@
     "name": "Illuminaria",
     "publisher": "Selva Interactive",
     "releaseDate": 20231026,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A resource management game where you command a swarm of intelligent robots in a quest to save the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000052784,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

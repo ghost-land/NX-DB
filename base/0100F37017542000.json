@@ -4,5 +4,29 @@
     "name": "The Rusty Sword: Vanguard Island",
     "publisher": "Plow Games",
     "releaseDate": 20221219,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "A short, top-down adventure game inspired by several 16-Bit classic games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000053212,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

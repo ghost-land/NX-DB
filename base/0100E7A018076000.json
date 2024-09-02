@@ -4,5 +4,36 @@
     "name": "The Gallery",
     "publisher": "Aviary Studios",
     "releaseDate": 20220908,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000052599,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

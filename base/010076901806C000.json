@@ -4,5 +4,36 @@
     "name": "Ship of Fools",
     "publisher": "Team17",
     "releaseDate": 20221122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Ship of Fools is a seafaring roguelite co-op game where you play the Fools, the only creatures fool enough to brave the sea. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000052587,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

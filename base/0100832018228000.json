@@ -4,5 +4,35 @@
     "name": "Shukuchi Ninja",
     "publisher": "2Awesome Studio",
     "releaseDate": 20230331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Shukuchi Ninja is a fast-paced, high intensity game with unique controls.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000053172,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

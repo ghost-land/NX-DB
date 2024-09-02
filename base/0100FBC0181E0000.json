@@ -4,5 +4,24 @@
     "name": "Jim's Adventure",
     "publisher": "Gametry",
     "releaseDate": 20220415,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Do you have what it takes to save Jim and get him one step closer to his goals?\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000053059,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,25 @@
     "name": "Gangsta Magic",
     "publisher": "Nerd Games",
     "releaseDate": 20220709,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Action and adventure with some puzzles",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000052676,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

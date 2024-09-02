@@ -4,5 +4,30 @@
     "name": "Thunder Ray",
     "publisher": "Purple Play",
     "releaseDate": 20230914,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Sports",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Get ready for the ultimate Arcade Boxing, Retro-like experience in a game brimming with blood and violence.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000052808,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

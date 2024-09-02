@@ -4,5 +4,33 @@
     "name": "Kaiju Wars",
     "publisher": "Klabater",
     "releaseDate": 20221220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Simulation",
+        "Puzzle",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": "Seismic activity detected! Kaiju are approaching the city!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000052819,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

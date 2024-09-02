@@ -4,5 +4,32 @@
     "name": "Dust & Neon",
     "publisher": "Rogue Games",
     "releaseDate": 20230216,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Dust & Neon is a best-in-class twin-stick roguelite shooter set in a post-apocalyptic Wild West.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000052943,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
