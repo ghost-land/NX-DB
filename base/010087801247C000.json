@@ -4,5 +4,29 @@
     "name": "Super Toy Cars2",
     "publisher": "賈船",
     "releaseDate": 20201022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "レース",
+        "スポーツ",
+        "アクション"
+    ],
+    "developer": null,
+    "intro": "おもちゃの車を操作して、巨大な日用品で作られたトラックを走り抜ける。1人でも、友達と一緒でも、小さなおもちゃの車でレースを楽しもう",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000032040,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
