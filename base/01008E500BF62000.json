@@ -4,5 +4,27 @@
     "name": "MagiCat",
     "publisher": "Toge Productions",
     "releaseDate": 20180920,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Retro side-scrolling platformer featuring a cute magical cat adventuring 63 levels, each with their own unique boss battle spread across 7 worlds.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000013607,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01008E500BF620000000000000000005"
 }

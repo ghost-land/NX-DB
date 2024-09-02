@@ -4,5 +4,33 @@
     "name": "Cluedo: Classic Edition",
     "publisher": "Marmalade Game Studio",
     "releaseDate": 20181130,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "It’s Hasbro’s murder mystery board game, Cluedo. Roll the dice and start your investigation. Whodunit? With what weapon? Where? Race your friends and family to the truth!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000013341,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "01008AD00BE3E0000000000000000005"
 }

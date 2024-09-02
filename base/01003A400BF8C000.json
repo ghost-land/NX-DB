@@ -4,5 +4,28 @@
     "name": "Destruction",
     "publisher": "COSEN",
     "releaseDate": 20181116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A special forces action game that can be four people can play together!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013504,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01003A400BF8C0000000000000000005"
 }

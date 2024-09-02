@@ -4,5 +4,29 @@
     "name": "Gunlord X",
     "publisher": "NGDEV",
     "releaseDate": 20190522,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Gunlord X is a eurostyle platformer with emphasis on exploring huge worlds and blasting off enemies. Jump! Shoot! Explore!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000013589,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

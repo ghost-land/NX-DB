@@ -4,5 +4,39 @@
     "name": "LASTFIGHT",
     "publisher": "Joindots",
     "releaseDate": 20191231,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Sports",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Play in local multiplayer mode, for up to 4 players, or one-player story mode, with a cast of 10 characters inspired by the comic book LASTMAN.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013205,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Mature Themes",
+        "Nudity",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

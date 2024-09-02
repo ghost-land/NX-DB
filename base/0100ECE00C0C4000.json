@@ -4,5 +4,32 @@
     "name": "Fury Unleashed",
     "publisher": "Awesome Games",
     "releaseDate": 20200509,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Shoot your way through the pages of an ever-changing comic book in this fast-paced roguelike. Play solo, in local or online co-op, and grow stronger with each run.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013647,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,36 @@
     "name": "Levelhead",
     "publisher": "Butterscotch",
     "releaseDate": 20200430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Build, play, share and compete in Levelhead, the platformer maker!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000013276,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
