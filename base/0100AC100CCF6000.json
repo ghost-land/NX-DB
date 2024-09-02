@@ -4,5 +4,26 @@
     "name": "Cryogear",
     "publisher": "PolarityFlow,",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Shooter",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Metroidvania inspired Pixel Art platformer, set in an open sci-fi world and driven by rewarded exploration.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "nsuId": 70010000018891,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

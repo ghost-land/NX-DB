@@ -4,5 +4,30 @@
     "name": "The Elder Scrolls®: Blades",
     "publisher": "Bethesda",
     "releaseDate": 20220308,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Quest. Create. Conquer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000019006,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

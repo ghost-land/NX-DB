@@ -4,5 +4,37 @@
     "name": "Just Dance® 2020",
     "publisher": "Ubisoft",
     "releaseDate": 20191105,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Music",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000018623,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Lyrics",
+        "Mild Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

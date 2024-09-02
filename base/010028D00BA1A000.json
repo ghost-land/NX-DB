@@ -4,5 +4,36 @@
     "name": "The Sinking City",
     "publisher": "Frogwares",
     "releaseDate": 20220707,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The Sinking City is an adventure and investigation game set in an open world inspired by the universe of H.P. Lovecraft, the master of Horror. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000019162,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

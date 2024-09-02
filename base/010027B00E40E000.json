@@ -4,5 +4,34 @@
     "name": "Ashen",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20220217,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Ashen is an open world co-op action RPG about a wanderer in search of a place to call home. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000019940,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

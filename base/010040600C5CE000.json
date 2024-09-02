@@ -4,5 +4,32 @@
     "name": "Tetris® 99",
     "publisher": "Nintendo",
     "releaseDate": 20190213,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Battle your way to the top in Tetris® matches!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000018547,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "010040600C5CE0000000000000000007"
 }

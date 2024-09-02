@@ -4,5 +4,28 @@
     "name": "Sail Forth",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20221221,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Simulation",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Sail across the Deepblue in a quirky nautical adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000019320,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

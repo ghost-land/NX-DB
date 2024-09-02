@@ -4,5 +4,27 @@
     "name": "Where the Water Tastes Like Wine",
     "publisher": "Serenity Forge",
     "releaseDate": 20231020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "A narrative-adventure game about traveling, sharing stories, and surviving manifest destiny.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000019363,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language"
+    ],
+    "region": null,
+    "rightsId": null
 }

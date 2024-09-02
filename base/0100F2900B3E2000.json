@@ -4,5 +4,31 @@
     "name": "Killer Queen Black",
     "publisher": "Liquid Bit",
     "releaseDate": 20191011,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "A strategic team platformer that offers endless party fun and killer competition.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000019648,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Quest Hunter",
     "publisher": "2 Zombie Games",
     "releaseDate": 20221019,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Action-RPG where your choice drives the story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000019462,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

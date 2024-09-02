@@ -4,5 +4,35 @@
     "name": "Overwatch® 2",
     "publisher": "Blizzard Entertainment",
     "releaseDate": 20221004,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "OVERWATCH 2, A FUTURE WORTH FIGHTING FOR! \nOverwatch 2 is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000019691,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Tobacco",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

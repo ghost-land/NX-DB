@@ -4,5 +4,34 @@
     "name": "Monster Sanctuary",
     "publisher": "Team17",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Monster taming meets metroidvania. Collect, train and battle monsters in a lovely side-view pixel world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000018422,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Tobacco Reference",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }
