@@ -4,5 +4,31 @@
     "name": "Life is Strange 2",
     "publisher": "スクウェア・エニックス",
     "releaseDate": 20230502,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "developer": null,
+    "intro": "ひとつの選択だけで　人生は決まらないから",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000039199,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "飲酒・喫煙",
+        "麻薬"
+    ],
+    "region": null,
+    "rightsId": null
 }

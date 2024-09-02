@@ -4,5 +4,33 @@
     "name": "PONPU \nポンプ",
     "publisher": "ハイブリッド・スクアード",
     "releaseDate": 20210805,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アドベンチャー",
+        "アーケード",
+        "アクション",
+        "パーティー"
+    ],
+    "developer": null,
+    "intro": "タマゴを武器にして戦うアヒルPONPU(ポンプ)が\nさまざまなボス戦に乗り出す！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000039911,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,32 @@
     "name": "Spinny's Journey",
     "publisher": "Thunder Sparrow",
     "releaseDate": 20210115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アーケード",
+        "アクション",
+        "アドベンチャー",
+        "パズル"
+    ],
+    "developer": null,
+    "intro": "Spinny's Journey は、やりがいのある2Dアクションパズルゲームです。迷路を通り抜け、トラップをかわし、宇宙船を修理して家に帰るためにスピニーを助けよう。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000036419,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
