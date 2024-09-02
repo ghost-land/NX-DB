@@ -4,5 +4,34 @@
     "name": "Knights of Braveland",
     "publisher": "Ellada Games",
     "releaseDate": 20240201,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Smash your way to victory solo or in a team up to 4 knights. Infinite replayable action RPG in Braveland universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070176,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

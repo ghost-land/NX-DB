@@ -4,5 +4,30 @@
     "name": "Anime Clock",
     "publisher": "RedDeer.Games",
     "releaseDate": 20230720,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Study",
+        "Practical",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Brighten up every moment of your day with Anime Clock.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko"
+    ],
+    "nsuId": 70010000070192,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

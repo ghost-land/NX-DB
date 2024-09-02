@@ -4,5 +4,36 @@
     "name": "Evolings",
     "publisher": "Super Rare Games",
     "releaseDate": 20230921,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade",
+        "RPG",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "Evolings is a minimalistic monster-catching roguelike where you battle through hordes of evil monsters by recruiting, evolving and fusing your own team of deadly - but cute - creatures!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000069966,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

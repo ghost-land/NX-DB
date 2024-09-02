@@ -4,5 +4,35 @@
     "name": "Quadroids",
     "publisher": "JUST FOR GAMES",
     "releaseDate": 20240222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "QUADROIDS IS A MIND-TWISTING PUZZLE-PLATFORMER GAME THAT LETS YOU CONTROL 4 SCREENS SIMULTANEOUSLY! SOLVE MORE THAN 100 LEVELS !",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070141,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

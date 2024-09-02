@@ -4,5 +4,28 @@
     "name": "METRO QUESTER",
     "publisher": "KEMCO",
     "releaseDate": 20231214,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Seek the truth of a lost world in a hack and slash dungeon exploration RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000070086,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

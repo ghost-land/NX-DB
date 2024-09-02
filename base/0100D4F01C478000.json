@@ -4,5 +4,33 @@
     "name": "Swapshot",
     "publisher": "eastasiasoft",
     "releaseDate": 20231025,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Use your teleportation gun to solve puzzles and reach higher platforms in a charming 2D adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070185,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

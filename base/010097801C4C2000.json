@@ -4,5 +4,27 @@
     "name": "Kitten Hero",
     "publisher": "Ratalaika Games",
     "releaseDate": 20240112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Help this kitten save his human friend from an evil computer",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "it"
+    ],
+    "nsuId": 70010000070248,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

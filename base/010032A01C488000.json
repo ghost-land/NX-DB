@@ -4,5 +4,34 @@
     "name": "Capitals Quizzer",
     "publisher": "Supergonk",
     "releaseDate": 20231221,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Education",
+        "Study",
+        "Training",
+        "Other"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070208,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,33 @@
     "name": "Toy Rider",
     "publisher": "EpiXR Games",
     "releaseDate": 20240222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Action",
+        "Simulation",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Toy Rider is a racing game with lots of powerups, cars, levels & more. The Miniature Open World Racing setup makes it a unique racing game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000069647,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

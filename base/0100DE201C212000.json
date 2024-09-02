@@ -4,5 +4,31 @@
     "name": "Trinity Fusion",
     "publisher": "Angry Mob Games",
     "releaseDate": 20240801,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Fighting",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Take control of your parallel selves on a mission to save the dying multiverse in this rogue-lite action platformer! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "nsuId": 70010000069738,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

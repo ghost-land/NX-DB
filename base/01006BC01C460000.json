@@ -4,5 +4,33 @@
     "name": "Druidwalker",
     "publisher": "AbsoDev",
     "releaseDate": 20231020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "You are a druid preparing the forest for winter. Traverse the paths at your own pace, meet the animals, enjoy the music, all wrapped in a peaceful roguelike experience.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000070164,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
