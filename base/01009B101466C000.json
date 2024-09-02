@@ -4,5 +4,32 @@
     "name": "502's Arcade",
     "publisher": "502 Studios",
     "releaseDate": 20240222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000039132,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

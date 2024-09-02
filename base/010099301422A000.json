@@ -4,5 +4,29 @@
     "name": "Rick Henderson",
     "publisher": "eastasiasoft",
     "releaseDate": 20220831,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Blast through menacing enemy fleets in retro side-scrolling shoot’em up style!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000038163,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

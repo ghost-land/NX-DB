@@ -4,5 +4,34 @@
     "name": "The Legend of Zelda™: Skyward Sword HD",
     "publisher": "Nintendo",
     "releaseDate": 20210716,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Solve puzzles, explore dungeons, and soar the skies\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038612,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

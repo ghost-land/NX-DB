@@ -4,5 +4,37 @@
     "name": "Diablo® II: Resurrected™",
     "publisher": "Blizzard Entertainment",
     "releaseDate": 20210923,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Relive the epic adventure that defined the action RPG genre for decades",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038819,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

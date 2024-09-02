@@ -4,5 +4,36 @@
     "name": "Twelve Minutes",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20211207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "An interactive thriller about a man trapped in a time loop. Featuring James McAvoy, Daisy Ridley, and Willem Dafoe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038402,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Sexual Content",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

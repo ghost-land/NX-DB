@@ -4,5 +4,31 @@
     "name": "A Day Without Me",
     "publisher": "Silesia Games",
     "releaseDate": 20220119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "You just woke up and without knowing it, you were the only person left in the city.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000038078,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

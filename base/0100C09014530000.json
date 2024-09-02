@@ -4,5 +4,33 @@
     "name": "Boomerang X",
     "publisher": "Devolver Digital",
     "releaseDate": 20240208,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Adventure",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Harness the power of a mystical boomerang to fling yourself through the air. Slice, fly, and blast through arenas swarming with evil creatures. Stay agile or meet your doom.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038848,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

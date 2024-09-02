@@ -4,5 +4,33 @@
     "name": "Bob Help Them",
     "publisher": "No Gravity Games",
     "releaseDate": 20230119,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Adventure",
+        "Lifestyle",
+        "Education"
+    ],
+    "developer": null,
+    "intro": "A highly relaxing timer-based game where you help NPCs with their daily chores.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038170,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Coromon",
     "publisher": "Freedom Games",
     "releaseDate": 20220721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Coromon is a modern take on the classic monster-taming genre.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000038334,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null,
+    "rightsId": null
 }

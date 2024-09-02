@@ -4,5 +4,35 @@
     "name": "Game of Dragons",
     "publisher": "14Dimension",
     "releaseDate": 20220916,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "A full-fledged card deck building full 3D RPG game.\nSubdue boss monsters and collect materials to craft and strengthen weapons and armors.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000038344,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }

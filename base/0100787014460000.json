@@ -4,5 +4,36 @@
     "name": "Nobody Saves the World",
     "publisher": "DrinkBox Studios",
     "releaseDate": 20220414,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Change forms, combine abilities, save the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000038707,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

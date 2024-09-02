@@ -4,5 +4,34 @@
     "name": "35MM",
     "publisher": "Sometimes You",
     "releaseDate": 20220302,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "First-Person Shooter"
+    ],
+    "developer": null,
+    "intro": "Post-apocalyptic story about two travelers who set out on a long journey in the wasteland.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000038260,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

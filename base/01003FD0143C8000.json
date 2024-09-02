@@ -4,5 +4,34 @@
     "name": "ProtoCorgi",
     "publisher": "PLAION",
     "releaseDate": 20230615,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Get ready to Bark’em Up!\nJoin the Bark Side!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038460,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

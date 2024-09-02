@@ -4,5 +4,27 @@
     "name": "Crumble",
     "publisher": "Brute Force",
     "releaseDate": 20220103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Crumble is a dynamic physics platformer. Move as a Slime, jump like a Ball, and swing with your tongue!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000038949,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,31 @@
     "name": "A Pretty Odd Bunny",
     "publisher": "2Awesome Studio",
     "releaseDate": 20211112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A Pretty Odd Bunny is a stealth platformer about a rabbit who likes eating pigs. You play as a red-eyed rabbit and help him reach the pig at the end of every level.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000038329,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

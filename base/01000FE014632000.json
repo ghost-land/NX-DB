@@ -4,5 +4,26 @@
     "name": "Red Ronin",
     "publisher": "QUByte Interactive",
     "releaseDate": 20211014,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Red Ronin is a Turn-based but fast paced dash 'n slash game where a bloodthirsty ronin and her companion bot search for revenge.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "nsuId": 70010000039099,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

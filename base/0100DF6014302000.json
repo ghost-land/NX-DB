@@ -4,5 +4,32 @@
     "name": "Turbo Shot",
     "publisher": "Wizard Games",
     "releaseDate": 20220113,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Blast bots, solve puzzles and fight to win in an ever growing Story and online PvP mode.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038428,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "STAR WARS™: The Force Unleashed™",
     "publisher": "Aspyr",
     "releaseDate": 20220420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Unleash the power of the Force!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000038880,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

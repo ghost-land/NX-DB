@@ -4,5 +4,31 @@
     "name": "Outer Wilds",
     "publisher": "Annapurna Interactive",
     "releaseDate": 20231207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An open world mystery about a solar system trapped in an endless time loop.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000038712,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

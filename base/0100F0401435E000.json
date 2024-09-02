@@ -4,5 +4,35 @@
     "name": "Disney Speedstorm",
     "publisher": "Gameloft",
     "releaseDate": 20230418,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Drift into the ultimate hero-based combat racing game, set on high-speed circuits inspired by Disney and Pixar worlds. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000038418,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }
