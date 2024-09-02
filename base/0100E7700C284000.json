@@ -4,5 +4,34 @@
     "name": "My Memory of Us",
     "publisher": "Crunching Koalas",
     "releaseDate": 20220721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Experience a touching tale of a friendship between a girl and a boy, during the darkest moments of our times.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013913,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null,
+    "rightsId": "0100E7700C2840000000000000000007"
 }

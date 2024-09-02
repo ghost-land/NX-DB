@@ -4,5 +4,39 @@
     "name": "SMITE",
     "publisher": "Hi-Rez Studios",
     "releaseDate": 20211116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Strategy",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Battleground of the Gods",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000014335,
+    "numberOfPlayers": 10,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": "01005A600C3180000000000000000005"
 }

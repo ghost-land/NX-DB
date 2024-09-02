@@ -4,5 +4,35 @@
     "name": "Rain World",
     "publisher": "Akupara Games",
     "releaseDate": 20221003,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Multiplayer",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Rain World simulates a harsh, complex ecosystem- one where you are both predator and prey, hunter and hunted in unforgiving, apocalyptic climes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013493,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Tobacco Reference"
+    ],
+    "region": null,
+    "rightsId": "010047600BF720000000000000000006"
 }

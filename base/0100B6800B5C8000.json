@@ -4,5 +4,35 @@
     "name": "Graveyard Keeper",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Expand a medieval cemetery into a thriving \nbusiness, whatever it takes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013397,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": null
 }

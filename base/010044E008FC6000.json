@@ -4,5 +4,34 @@
     "name": "PlataGO! Super Platform Game Maker",
     "publisher": "PQube",
     "releaseDate": 20211012,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Utility",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The fastest, easiest way to make platform games!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015486,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

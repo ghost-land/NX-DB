@@ -4,5 +4,35 @@
     "name": "SpeedRunners",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Platformer",
+        "Racing",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Grapple your friends to outrun them in this competitive multiplayer platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000014367,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null,
+    "rightsId": null
 }

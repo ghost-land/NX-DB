@@ -4,5 +4,34 @@
     "name": "Lost Castle",
     "publisher": "Neon Doctrine",
     "releaseDate": 20221219,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Four player dungeon crawling chaos for friends and family!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000014749,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,34 @@
     "name": "Viviette",
     "publisher": "DYA GAMES",
     "releaseDate": 20211025,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Exploration, puzzles and a touch of classic horror awaits you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000015364,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010037900CB1C0000000000000000006"
 }

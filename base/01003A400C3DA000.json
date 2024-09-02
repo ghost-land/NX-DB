@@ -4,5 +4,32 @@
     "name": "YouTube",
     "publisher": "Google",
     "releaseDate": 20201207,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Video"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000014303,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "01003A400C3DA0000000000000000005"
 }

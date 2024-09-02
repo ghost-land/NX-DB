@@ -4,5 +4,27 @@
     "name": "Cake Laboratory",
     "publisher": "GRIMTALIN",
     "releaseDate": 20220922,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Education",
+        "Arcade",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Build the highest cake in the world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000015512,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": "0100B8E00CBB00000000000000000006"
 }

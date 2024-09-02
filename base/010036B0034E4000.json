@@ -4,5 +4,33 @@
     "name": "Super Mario Party™",
     "publisher": "Nintendo",
     "releaseDate": 20181005,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Super-charged fun for friends and family—now with online play in board game mode and minigames!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000014158,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "010036B0034E40000000000000000005"
 }

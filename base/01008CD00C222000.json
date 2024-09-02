@@ -4,5 +4,34 @@
     "name": "Streets of Rogue",
     "publisher": "tinyBuild Games",
     "releaseDate": 20211220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Fight, sneak, and hack your way through randomly generated cities. It's an anarchy riddled Twin-Stick, Rogue-lite, RPG, Immersive Sim, that goes completely insane.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000013848,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug and Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Simulated Gambling"
+    ],
+    "region": null,
+    "rightsId": null
 }

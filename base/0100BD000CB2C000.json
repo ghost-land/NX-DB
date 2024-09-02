@@ -4,5 +4,32 @@
     "name": "Sword of the Vagrant",
     "publisher": "RAINYFROG",
     "releaseDate": 20221222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Fighting"
+    ],
+    "developer": null,
+    "intro": "Battle through hordes of monsters on a journey to\nreunite your family in a fantasy 2D action RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000015371,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
