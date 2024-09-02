@@ -4,5 +4,27 @@
     "name": "BORIS THE ROCKET",
     "publisher": "Big Way",
     "releaseDate": 20210430,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Puzzle",
+        "Simulation",
+        "Strategy"
+    ],
+    "developer": null,
+    "intro": "As a moustached Soviet nuclear missile operator, you’re the last frontier of your Motherland’s defense.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000037607,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

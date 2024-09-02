@@ -4,5 +4,26 @@
     "name": "Strange Field Football",
     "publisher": "Wildbus Studio",
     "releaseDate": 20210128,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Strange Field Football is a 3D cartoon pixel style 5v5 football game with up to 4 local players.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000037569,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

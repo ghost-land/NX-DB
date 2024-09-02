@@ -4,5 +4,31 @@
     "name": "Persephone",
     "publisher": "Momo-pi gamestudio",
     "releaseDate": 20210212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Persephone is a puzzle game that explores the following possibility: what if death isn't the end, but the key to solve puzzles?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037598,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

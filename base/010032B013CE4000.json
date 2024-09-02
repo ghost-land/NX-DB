@@ -4,5 +4,27 @@
     "name": "Razion EX",
     "publisher": "NGDEV",
     "releaseDate": 20210916,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "RAZION EX is a 16 bit CGI style horizontal shooting game originally made for arcades, ported and upgraded to Nintendo Switch™",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000036997,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

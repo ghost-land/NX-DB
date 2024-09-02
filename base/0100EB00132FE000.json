@@ -4,5 +4,33 @@
     "name": "Color Your World",
     "publisher": "Mindscape",
     "releaseDate": 20210520,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Strategy",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Think fast to solve 100 colourful labyrinth puzzles and colour your world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037517,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,29 @@
     "name": "Alfred Hitchcock - Vertigo",
     "publisher": "Microids",
     "releaseDate": 20220927,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Immerse yourself in a psychological thriller of a new kind, playing with the limits between reality and fantasy. Freely inspired by Alfred Hitchcock’s universe. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000037476,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Violence and coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

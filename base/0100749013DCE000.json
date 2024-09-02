@@ -4,5 +4,32 @@
     "name": "The Solitaire Conspiracy",
     "publisher": "Ant Workshop",
     "releaseDate": 20210612,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy",
+        "Board Game"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000037171,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null,
+    "rightsId": null
 }

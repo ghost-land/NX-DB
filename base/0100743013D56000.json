@@ -4,5 +4,34 @@
     "name": "Blizzard® Arcade Collection",
     "publisher": "Blizzard Entertainment",
     "releaseDate": 20210220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Racing",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Relive the Legacy ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000037080,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

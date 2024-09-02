@@ -4,5 +4,27 @@
     "name": "The Lost Cube",
     "publisher": "JanduSoft",
     "releaseDate": 20210226,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Ulrik must find the magical red cube that combined with his guitar can breathe life back into his village.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "nsuId": 70010000037011,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

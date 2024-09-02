@@ -4,5 +4,30 @@
     "name": "Vaporum: Lockdown",
     "publisher": "Fatbot Games",
     "releaseDate": 20210322,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Grid-based dungeon crawler RPG in an original steampunk setting.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000037524,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

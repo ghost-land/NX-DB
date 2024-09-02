@@ -4,5 +4,27 @@
     "name": "Joe's Diner",
     "publisher": "UIG Entertainment",
     "releaseDate": 20210122,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000037256,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

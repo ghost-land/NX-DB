@@ -4,5 +4,24 @@
     "name": "CyberTaxi",
     "publisher": "Ultimate Games",
     "releaseDate": 20210405,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Racing",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "CyberTaxi is an action-packed driving first-person shooter and taxi simulator set in a grim vision of the future. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000037617,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
