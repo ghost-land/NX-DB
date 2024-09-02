@@ -4,5 +4,30 @@
     "name": "QV",
     "publisher": "CFK",
     "releaseDate": 20201126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Start a dimension-jumping adventure with Quby!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000032524,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,28 @@
     "name": "Golf Zero",
     "publisher": "Ratalaika Games",
     "releaseDate": 20200911,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Sports",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "A relaxing golf outing soon builds into a crazy physics obstacle course!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000032183,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

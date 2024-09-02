@@ -4,5 +4,31 @@
     "name": "Adventures of Chris",
     "publisher": "Graffiti Games",
     "releaseDate": 20201008,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Embark on a global adventure in this ‘90s-inspired platformer about a chubby underdog kid with wacky superpowers.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru"
+    ],
+    "nsuId": 70010000031840,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

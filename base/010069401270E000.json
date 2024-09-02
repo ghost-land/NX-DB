@@ -4,5 +4,30 @@
     "name": "PUSS!",
     "publisher": "Samustai",
     "releaseDate": 20210220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "An insane, absurd, and intense avoid-’em-up game about a cat!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000032431,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

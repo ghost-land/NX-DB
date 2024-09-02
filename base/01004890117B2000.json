@@ -4,5 +4,24 @@
     "name": "A Short Hike",
     "publisher": "Whippoorwill",
     "releaseDate": 20200819,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000032368,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

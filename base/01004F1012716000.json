@@ -4,5 +4,31 @@
     "name": "Collapsed",
     "publisher": "OverGamez",
     "releaseDate": 20200829,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Collapsed is a roguelike platformer set in a post-apocalyptic world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000032442,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

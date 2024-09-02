@@ -4,5 +4,28 @@
     "name": "Thomas Was Alone",
     "publisher": "Ant Workshop",
     "releaseDate": 20210220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Thomas Was Alone, and then, well, he wasn’t.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000032416,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

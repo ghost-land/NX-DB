@@ -4,5 +4,35 @@
     "name": "Johnny Rocket",
     "publisher": "Restless Corp",
     "releaseDate": 20201016,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "“Johnny Rocket” is a 2D comic adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000032131,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

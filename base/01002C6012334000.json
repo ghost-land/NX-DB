@@ -4,5 +4,26 @@
     "name": "My Aunt is a Witch",
     "publisher": "Sometimes You",
     "releaseDate": 20201126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "‘My Aunt is a Witch’ is a Visual Novel full of adventures and quests in the world of magic",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000031838,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,25 @@
     "name": "I, AI",
     "publisher": "Sometimes You",
     "releaseDate": 20201210,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "I, AI is a classic scrolling shooter with modern graphics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "nsuId": 70010000032276,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }
