@@ -4,5 +4,31 @@
     "name": "The Elder Scrolls V: Skyrim",
     "publisher": "Bethesda",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Epic Fantasy Reborn",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000001369,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": "01000A10041EA0000000000000000003"
 }

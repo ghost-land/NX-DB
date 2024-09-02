@@ -4,5 +4,26 @@
     "name": "Splatoon™ 2",
     "publisher": "Nintendo",
     "releaseDate": 20170721,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Ink-splatting action is back and fresher than ever",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "nsuId": 70010000000529,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null,
+    "rightsId": "01003BC0000A00000000000000000000"
 }

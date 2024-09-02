@@ -4,5 +4,31 @@
     "name": "NAMCO MUSEUM",
     "publisher": "BANDAI NAMCO Entertainment",
     "releaseDate": 20240412,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Play some of the most popular Namco games, anytime, anywhere!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000722,
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "010002F0012200000000000000000000"
 }

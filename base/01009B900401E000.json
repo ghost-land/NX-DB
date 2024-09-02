@@ -4,5 +4,29 @@
     "name": "Overcooked Special Edition",
     "publisher": "Team17",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Party",
+        "Communication",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Overcooked is a chaotic couch co-op cooking game for one to four players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000883,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": "01009B900401E0000000000000000000"
 }

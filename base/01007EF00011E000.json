@@ -4,5 +4,33 @@
     "name": "The Legend of Zelda™: Breath of the Wild",
     "publisher": "Nintendo",
     "releaseDate": 20170303,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "STEP INTO A WORLD OF ADVENTURE",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "nsuId": 70010000000025,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null,
+    "rightsId": "01007EF00011E0000000000000000000"
 }

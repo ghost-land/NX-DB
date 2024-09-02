@@ -4,5 +4,32 @@
     "name": "Sonic Mania",
     "publisher": "SEGA",
     "releaseDate": 20231225,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The Ultimate Celebration of Past and Future",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000000809,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null,
+    "rightsId": "01009AA000FAA0000000000000000000"
 }

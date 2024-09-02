@@ -4,5 +4,35 @@
     "name": "Mario Kart™ 8 Deluxe",
     "publisher": "Nintendo",
     "releaseDate": 20170428,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Race with Mario and friends anytime, anywhere!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000000153,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Comic Mischief",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null,
+    "rightsId": "01001520000220000000000000000000"
 }

@@ -4,5 +4,29 @@
     "name": "ACA NEOGEO SAMURAI SHODOWN",
     "publisher": "HAMSTER",
     "releaseDate": 20220224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Test your mettle against fierce warriors from around the globe! Your skill with the blade will determine the fate of the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000230,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01005C9002B420000000000000000000"
 }

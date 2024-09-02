@@ -4,5 +4,27 @@
     "name": "Arcade Archives Mario Bros.",
     "publisher": "HAMSTER",
     "releaseDate": 20220224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The origin of The Mario series! \nWill you work together or...or against each other...?!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000917,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null,
+    "rightsId": "01007550046080000000000000000003"
 }

@@ -4,5 +4,37 @@
     "name": "Minecraft",
     "publisher": "Mojang",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Create, explore and survive alone or with friends.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000000964,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Music Downloads Not Rated by the ESRB.",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100D710046940000000000000000004"
 }

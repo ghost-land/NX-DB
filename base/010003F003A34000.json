@@ -4,5 +4,32 @@
     "name": "Pokémon™: Let’s Go, Pikachu!",
     "publisher": "Nintendo",
     "releaseDate": 20181116,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "The next step in your Pokémon™ journey starts here",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000000447,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "010003F003A340000000000000000005"
 }

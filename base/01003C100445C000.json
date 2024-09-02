@@ -4,5 +4,28 @@
     "name": "Castle of Heart",
     "publisher": "7Levels",
     "releaseDate": 20230126,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "developer": null,
+    "intro": "Prove that under the skin of stone beats a heart of a true hero!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "nsuId": 70010000000911,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "01003C100445C0000000000000000003"
 }

@@ -4,5 +4,32 @@
     "name": "ARMS™",
     "publisher": "Nintendo",
     "releaseDate": 20170616,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Multiplayer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Reach beyond the average fighter",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "nsuId": 70010000000392,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null,
+    "rightsId": "01009B500007C0000000000000000000"
 }

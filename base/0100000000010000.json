@@ -4,5 +4,32 @@
     "name": "Super Mario Odyssey™",
     "publisher": "Nintendo",
     "releaseDate": 20171027,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Embark on a cap-tivating, globe-trotting adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000001130,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief"
+    ],
+    "region": null,
+    "rightsId": "01000000000100000000000000000003"
 }

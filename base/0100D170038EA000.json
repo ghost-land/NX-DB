@@ -4,5 +4,28 @@
     "name": "ACA NEOGEO SENGOKU",
     "publisher": "HAMSTER",
     "releaseDate": 20220324,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Play as a ninja or a cowboy, and fight against ghosts who came back to life from troubled times!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000360,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100D170038EA0000000000000000000"
 }

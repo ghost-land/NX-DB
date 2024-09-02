@@ -4,5 +4,32 @@
     "name": "DOOM",
     "publisher": "Bethesda",
     "releaseDate": 20210901,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Fight Like Hell",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000001367,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "0100416004C000000000000000000003"
 }

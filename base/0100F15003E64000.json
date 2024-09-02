@@ -4,5 +4,29 @@
     "name": "Fire Emblem Warriors",
     "publisher": "Nintendo",
     "releaseDate": 20171020,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "RPG",
+        "Strategy",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "Battle as Chrom, Lissa, Marth, Corrin, Xander and more!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000000600,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": "0100F15003E640000000000000000003"
 }

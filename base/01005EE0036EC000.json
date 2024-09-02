@@ -4,5 +4,32 @@
     "name": "Rocket League®",
     "publisher": "Epic Games",
     "releaseDate": 20210916,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Sports",
+        "Racing",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "PLAY ROCKET LEAGUE FOR FREE!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "nsuId": 70010000000457,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Lyrics",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": "01005EE0036EC0000000000000000003"
 }
