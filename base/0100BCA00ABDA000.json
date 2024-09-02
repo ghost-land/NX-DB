@@ -4,5 +4,29 @@
     "name": "Furi",
     "publisher": "H2 INTERACTIVE",
     "releaseDate": 20200213,
-    "version": 0
+    "version": 0,
+    "category": [
+        "動作",
+        "格鬥",
+        "射擊",
+        "冒險"
+    ],
+    "developer": null,
+    "intro": "尋找為自由的路！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000009737,
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
 }
