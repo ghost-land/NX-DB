@@ -4,5 +4,29 @@
     "name": "Conan Chop Chop",
     "publisher": "DMM GAMES",
     "releaseDate": 20220331,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "ロールプレイング",
+        "パーティー"
+    ],
+    "developer": null,
+    "intro": "オンラインでもオフラインでも最大4人で一緒にあそべるローグライクなアクションRPG！英雄コナンになりきってトート・アモン率いる敵を倒しまくれ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000028990,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }

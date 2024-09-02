@@ -4,5 +4,28 @@
     "name": "BOSSGARD",
     "publisher": "DMM GAMES",
     "releaseDate": 20200702,
-    "version": 0
+    "version": 0,
+    "category": [
+        "アクション",
+        "パーティー"
+    ],
+    "developer": null,
+    "intro": "この戦いは公平ではない――\n５対１非対称マルチプレイヤー・ボス・バトル",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl"
+    ],
+    "nsuId": 70010000027488,
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null,
+    "rightsId": null
 }

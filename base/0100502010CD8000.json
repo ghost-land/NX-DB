@@ -4,5 +4,32 @@
     "name": "FRACTER",
     "publisher": "The Quantum Astrophysicists Guild",
     "releaseDate": 20201022,
-    "version": 0
+    "version": 0,
+    "category": [
+        "パズル",
+        "アドベンチャー",
+        "ストラテジー",
+        "アクション"
+    ],
+    "developer": null,
+    "intro": "影に包まれた世界を探索するベールに包まれた若いヒーローに参加しましょう。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000027501,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恐怖を引き起こすコンテンツ",
+        "暴力 (軽度)"
+    ],
+    "region": null,
+    "rightsId": null
 }
