@@ -4,5 +4,26 @@
     "name": "JEWEL WARS",
     "publisher": "TOMCREATE",
     "releaseDate": 20200124,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Battle head-to-head with up to 4 players in this exciting action game!\nGet more money than anyone else!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000016472,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

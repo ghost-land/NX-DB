@@ -4,5 +4,30 @@
     "name": "Devil Engine",
     "publisher": "Poppy Works",
     "releaseDate": 20190222,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Lightning Strikes Again! Take control of the AI ship Andraste and blast through hordes to destroy the Devil Engine!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017124,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

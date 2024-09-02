@@ -4,5 +4,32 @@
     "name": "Tetsumo Party",
     "publisher": "Monster Couch",
     "releaseDate": 20190727,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "The Ministry of Silly Poses in Sumo world",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000016697,
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Nudity",
+        "Sexualised Imagery"
+    ],
+    "region": null,
+    "rightsId": null
 }

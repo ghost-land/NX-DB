@@ -4,5 +4,23 @@
     "name": "War Theatre",
     "publisher": "Arcade Distillery",
     "releaseDate": 20190411,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "RPG"
+    ],
+    "developer": null,
+    "intro": "Turn-based strategy with RPG elements. Take command of seven unique heroes, each with a specialization to change the course of every battle.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000017064,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

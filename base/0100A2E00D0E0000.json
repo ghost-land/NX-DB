@@ -4,5 +4,32 @@
     "name": "Alien Cruise",
     "publisher": "CottonGame",
     "releaseDate": 20190314,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "Party"
+    ],
+    "developer": null,
+    "intro": "Fun to play both alone and with a friend!\nA comical shooting game featuring cute pop-design veget!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000016482,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

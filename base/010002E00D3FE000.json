@@ -4,5 +4,28 @@
     "name": "Arcade Archives DONKEY KONG 3",
     "publisher": "HAMSTER",
     "releaseDate": 20190406,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Protect the garden and its flowers by ridding it of the rampaging DONKEY KONG and bees with your Sprayer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000016851,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

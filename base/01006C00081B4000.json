@@ -4,5 +4,25 @@
     "name": "GoatPunks",
     "publisher": "MELLIFONT SANTIAGO",
     "releaseDate": 20190420,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "GoatPunks is a rip-roaring multiplayer party game with fire-throwing goats that headbutt their way up mountain tops to become the ultimate king of the hill.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000016612,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity"
+    ],
+    "region": null,
+    "rightsId": null
 }

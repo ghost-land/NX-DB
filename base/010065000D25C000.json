@@ -4,5 +4,31 @@
     "name": "Clan N",
     "publisher": "Creamative",
     "releaseDate": 20200806,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "Fight alone or with your friends, master the art of battle and bring peace back to the land in this arcade inspired epic brawler!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "nsuId": 70010000017099,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

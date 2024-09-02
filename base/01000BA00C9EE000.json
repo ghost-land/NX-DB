@@ -4,5 +4,27 @@
     "name": "Duck Hunting Challenge",
     "publisher": "BoomBox",
     "releaseDate": 20190212,
-    "version": 0
+    "version": 0,
+    "category": [
+        "First-Person Shooter",
+        "Sports",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Duck Hunt Challenge combines classic hunting game elements with engaging play modes to create a unique, fun hunting trip across the US.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000017066,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": "01000BA00C9EE0000000000000000007"
 }

@@ -4,5 +4,26 @@
     "name": "JUNK PLANET",
     "publisher": "Happinet Corporation",
     "releaseDate": 20190321,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "A 2D sandbox with a Japanese twist!\nWork to recover a planet covered in junk!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000016585,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

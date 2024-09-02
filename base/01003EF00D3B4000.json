@@ -4,5 +4,27 @@
     "name": "Arcade Archives NINJA GAIDEN",
     "publisher": "HAMSTER",
     "releaseDate": 20190509,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "developer": null,
+    "intro": "Jump! Fight! Grab! Use the assassination arts known as the Five Ninja Fighting Arts to put an end to this unwanted evil!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000016727,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

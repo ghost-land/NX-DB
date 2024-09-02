@@ -4,5 +4,31 @@
     "name": "BATTLLOON",
     "publisher": "UNTIES",
     "releaseDate": 20190228,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "developer": null,
+    "intro": "A battle of bouncy balloons bumping it out!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000017216,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }
