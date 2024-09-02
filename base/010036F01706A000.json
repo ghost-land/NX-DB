@@ -4,5 +4,30 @@
     "name": "Grand Mountain Adventure",
     "publisher": "Microids",
     "releaseDate": 20220311,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Sports",
+        "Racing",
+        "Simulation"
+    ],
+    "developer": null,
+    "intro": "An open-world skiing and snowboarding adventure for Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "nsuId": 70010000048797,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild themes and coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,30 @@
     "name": "Souldiers",
     "publisher": "Plug In Digital",
     "releaseDate": 20220603,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "Hone your skills in a retro metroidvania featuring crunchy soulslike combat.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048722,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

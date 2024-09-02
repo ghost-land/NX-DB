@@ -4,5 +4,33 @@
     "name": "Jumanji: Wild Adventures",
     "publisher": "Outright Games",
     "releaseDate": 20231103,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "Explore Jumanji’s lost world of dangerous beasts and secret treasures.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000049606,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

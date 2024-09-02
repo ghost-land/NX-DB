@@ -4,5 +4,26 @@
     "name": "Real Time Battle Shogi Online",
     "publisher": "SILVERSTAR",
     "releaseDate": 20211224,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Board Game",
+        "Strategy",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "This is shōgi esports!\nThink ahead! Aim for being the best of the whole world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "nsuId": 70010000047968,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null,
+    "rightsId": null
 }

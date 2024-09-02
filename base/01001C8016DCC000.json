@@ -4,5 +4,29 @@
     "name": "Monster Fruit Academy",
     "publisher": "WOWWOW Technology",
     "releaseDate": 20220203,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Other"
+    ],
+    "developer": null,
+    "intro": "Monster Fruit Academy, this game features parkour gameplay, competitions, and adventures, create a world of monsters",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048263,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

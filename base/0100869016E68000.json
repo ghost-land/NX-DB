@@ -4,5 +4,26 @@
     "name": "Cat Go! Ultimate Challenge",
     "publisher": "DEV4PLAY",
     "releaseDate": 20220115,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Education",
+        "Racing"
+    ],
+    "developer": null,
+    "intro": "Help Your kitten to save Barsikgrad from bad cats and restore peace in a cozy town.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000048368,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

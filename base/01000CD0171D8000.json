@@ -4,5 +4,29 @@
     "name": "Itadaki Smash",
     "publisher": "Selecta Play",
     "releaseDate": 20220701,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Fighting",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Gain new skills, unleash an arsenal of combos and special attacks, and revive the spirit of the arcade!",
+    "isDemo": false,
+    "languages": [
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it"
+    ],
+    "nsuId": 70010000049714,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

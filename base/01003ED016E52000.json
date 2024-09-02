@@ -4,5 +4,34 @@
     "name": "Capcom Fighting Collection",
     "publisher": "CAPCOM",
     "releaseDate": 20220624,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048351,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Fantasy violence and nudity"
+    ],
+    "region": null,
+    "rightsId": null
 }

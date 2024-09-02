@@ -4,5 +4,33 @@
     "name": "Breakout: Recharged",
     "publisher": "Atari",
     "releaseDate": 20220211,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "developer": null,
+    "intro": "The original brick breaker returns with its toughest challenge yet. Survive as long as you can in arcade or take on one of 50 challenges picking up game-changing power-ups along the way",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "nsuId": 70010000048234,
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null,
+    "rightsId": null
 }

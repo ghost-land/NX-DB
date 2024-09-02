@@ -4,5 +4,31 @@
     "name": "Yum Yum Cookstar",
     "publisher": "PLAION",
     "releaseDate": 20221112,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Simulation",
+        "Lifestyle",
+        "Education",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Cook your way to stardom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "nsuId": 70010000048442,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild crude humour and coarse language"
+    ],
+    "region": null,
+    "rightsId": null
 }

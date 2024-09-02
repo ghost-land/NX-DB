@@ -4,5 +4,34 @@
     "name": "REDO!",
     "publisher": "Top Hat Studios",
     "releaseDate": 20220622,
-    "version": 0
+    "version": 0,
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "developer": null,
+    "intro": "REDO! is a game about a girl trying to find what remains of a dystopian world overrun by biomachines. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "nsuId": 70010000048194,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null,
+    "rightsId": null
 }

@@ -4,5 +4,26 @@
     "name": "Calturin",
     "publisher": "Samustai",
     "releaseDate": 20220128,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "developer": null,
+    "intro": "Calturin is a Bullet Hell Boss Rush game. You have to go through mysterious portals and face dangerous creatures and get freedom from the necromancer.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "nsuId": 70010000047652,
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null,
+    "rightsId": null
 }

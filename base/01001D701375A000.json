@@ -4,5 +4,33 @@
     "name": "PUZZLE & DRAGONS Nintendo Switch Edition",
     "publisher": "GUNGHOONLINE",
     "releaseDate": 20220220,
-    "version": 0
+    "version": 0,
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Party",
+        "Action"
+    ],
+    "developer": null,
+    "intro": "Casual puzzles meet big adventures, whether alone or with friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "nsuId": 70010000049298,
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null,
+    "rightsId": null
 }
