@@ -1,4 +1,27 @@
 {
     "id": "010053900F4BA800",
-    "version": 196608
+    "base_tid": "010053900F4BA000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20200205,
+    "latest_update_release_date": 20200601,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200601
+    },
+    "versions": {
+        "65536": 20200205,
+        "131072": 20200310,
+        "196608": 20200601
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }

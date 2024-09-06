@@ -1,4 +1,27 @@
 {
     "id": "0100527019282800",
-    "version": 196608
+    "base_tid": "0100527019282000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20221110,
+    "latest_update_release_date": 20230203,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230203
+    },
+    "versions": {
+        "65536": 20221110,
+        "131072": 20221201,
+        "196608": 20230203
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }
