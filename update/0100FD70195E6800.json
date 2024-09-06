@@ -1,4 +1,31 @@
 {
     "id": "0100FD70195E6800",
-    "version": 131072
+    "base_tid": "0100FD70195E6000",
+    "name": "Cubic Figures",
+    "description": "Cubic Figures is a minimalistic puzzle game where you need to make up different figures from a number of given shaped blocks.\n\nTake the block, rotate if needed and put it into the outlined figure to fill it. Repeat until all the blocks will be revealed and the outline of the figure will be filled with shaped blocks.\n\nFeatures:\n-\t150 levels\n-\t3 difficulty levels\n-\tbeautiful and relaxing atmosphere",
+    "publisher": "DillyFrame",
+    "developer": null,
+    "base_release_date": 20220921,
+    "first_update_release_date": 20221027,
+    "latest_update_release_date": 20230913,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230913
+    },
+    "versions": {
+        "65536": 20221027,
+        "131072": 20230913
+    },
+    "category": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "Fill in the shape!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100FD800D594800",
-    "version": 65536
+    "base_tid": "0100FD800D594000",
+    "name": "Cook, Serve, Delicious! 2!!",
+    "description": "Cook, Serve, Delicious! 2!! is the massive sequel to the surprise best selling original, one of the few games that gives players complete control on how they want to build their restaurant.\n\nFeatures include:\n\n   - A 60+ hour experience as you build your restaurant from a roach infested eatery to a World Class Platinum Star experience by either running your own restaurant or branching out as a chef for hire, where you take jobs within the tower and various restaurants as you gain experience with the large array of foods, which spans 400 levels across 33 restaurants!\n\n    -All new gameplay features and additions, with a greater flexibility of difficulty for those who like it casual or insanely difficult.\n\n    -New local co-op mode! The all new split screen co-op feature allows you to play through the entire game with two players, with the ability for players to drop in and out during your progress within the game.\n\n    -Design your restaurant with over 1,200 unlockable objects.",
+    "publisher": "Vertigo Gaming",
+    "developer": null,
+    "base_release_date": 20231030,
+    "first_update_release_date": 20190326,
+    "latest_update_release_date": 20190326,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190326
+    },
+    "versions": {
+        "65536": 20190326
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Delicious dishes, intense gameplay, now available to-go! Run your restaurant and pick up shifts in your quest to be the best chef in the world.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Language",
+        "Mild Violence",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

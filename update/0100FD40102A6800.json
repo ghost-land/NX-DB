@@ -1,4 +1,39 @@
 {
     "id": "0100FD40102A6800",
-    "version": 327680
+    "base_tid": "0100FD40102A6000",
+    "name": "Stay Safe",
+    "description": "A roguelite survival adventure with an ever changing world!\n\nBreak out the deep prison and escape this subterranean dungeon 35 floors underground.\n\nExplore\nEach play session is different, explore every inch of the map for precious loot, trinkets and gems with added effects to help you on your journey to the top.\n\nFight\nBattle you way through each floor using a variety of ranged and melee weapons or spells. Over 50+ different creatures to encounter, coming at you with evil intent.\n\nMagic\nFind magic scrolls and unleash strange powers upon your enemies or yourself. Use scrolls often to learn them permanently, casting them from your own spellbook instead!\n\nCraft\nCreate better gear, tools, arrows for your bows and more. Craft a variety of items to increase your odds at surviving, or even to make a little coin.\n\nOther players are also your enemies\nEvery so often, you'll meet face to face with another escapee - a copy of another real player. Don't worry, it's not real-time... Their playthrough, gear, items, the progress they had: it's all there. Ready to fight you!\n\nDefeating this copy of another player will then make you the new champion of that floor! Now you, your copy, will be encountered by other players! Survive, and make sure nobody else does. Above all else, stay safe.\n\nFEATURES\n- Unique generation system! Use buttons on the controller to create your random dungeon, items and gems!\n- Randomized characters! Start off with a random weapon, spells and helpful items, different each time.\n- Leaderboards! Record your gear, level, kills, alive time... How did you do?\n- Earn trophies as you play!\n- Colorblind mode! Deuteranopia, Tritanopia and Protanpoia all supported!\n- Offline mode for when you'd rather not encounter other players.\n- Rebind every action for your controller!",
+    "publisher": "Yellowcake Games",
+    "developer": null,
+    "base_release_date": 20210814,
+    "first_update_release_date": 20210816,
+    "latest_update_release_date": 20220317,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220317
+    },
+    "versions": {
+        "65536": 20210816,
+        "131072": 20210824,
+        "196608": 20210919,
+        "262144": 20211214,
+        "327680": 20220317
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Many came before, many failed. Copies of previous players are still scattered throughout the dungeon! Explore, craft, learn spells and more on your journey to the top! Will you stay safe?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

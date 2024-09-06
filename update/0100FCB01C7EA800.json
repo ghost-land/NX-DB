@@ -1,4 +1,39 @@
 {
     "id": "0100FCB01C7EA800",
-    "version": 65536
+    "base_tid": "0100FCB01C7EA000",
+    "name": "WEJAM",
+    "description": "Regardless of age or musical knowledge WEJAM allows you to create beautiful melodies and connect with people around the globe for a multiplayer jam session. WEJAM is built with smart algorithms that will make your jam sessions always sound great and in tune.\n\nKey Features:\n• Realtime Multiplayer Music Making\n• 100% kid-friendly, safe and anonymous (no chat, no avatars)\n• Create a private jam session with just your friends or family\n• Nobody online? Just jam with Loopy, a super simple recorder that's always there for you\n• Various Instruments and Beats in different styles for full creative freedom\n• Super intuitive: Zero musical knowledge is required to make catchy grooves",
+    "publisher": "Interaction Ideas",
+    "developer": null,
+    "base_release_date": 20240711,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240719
+    },
+    "category": [
+        "Music",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Unleash your musical genius with WEJAM and make music with people from around the world in real-time. Its intuitive design allows anyone to create stunning grooves.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

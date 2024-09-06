@@ -1,4 +1,44 @@
 {
     "id": "0100FD101186C800",
-    "version": 65536
+    "base_tid": "0100FD101186C000",
+    "name": "Life is Strange 2",
+    "description": "A traumatic incident unleashed your younger brother Daniel’s telekinetic power, forcing you to run from home, the police hot on your trail! \n\nAs sixteen year-old Sean, you're now solely responsible for Daniel’s safety, shelter, and upbringing. But when someone so young has so much power, life lessons about right and wrong will create dramatic and life-changing consequences…\n\nIf you can reach Mexico you will be safe, but the journey will be winding, filled with joy, awe, and danger. This trip of a lifetime will bond Sean and Daniel forever... or tear their brotherhood apart.\n\n• Award-winning storytelling and performances\n• Daniel is always learning from Sean – and what you teach him has far-reaching consequences.\n• Stunning visuals and hand-painted textures.\n• Emotive original soundtrack from Jonathan Morali, composer of the original Life is Strange - plus licensed tracks from Phoenix, The Streets, Bloc Party, First Aid Kit, and more. \n\nPre-order to receive bonus Arcadia Bay Patches and the Mascot Bundle.",
+    "publisher": "Square Enix Europe LTD",
+    "developer": null,
+    "base_release_date": 20230202,
+    "first_update_release_date": 20230203,
+    "latest_update_release_date": 20230203,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230203
+    },
+    "versions": {
+        "65536": 20230203
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Use of Drugs and Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

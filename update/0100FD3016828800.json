@@ -1,4 +1,39 @@
 {
     "id": "0100FD3016828800",
-    "version": 262144
+    "base_tid": "0100FD3016828000",
+    "name": "Gunborg: Dark Matters",
+    "description": "Gunborg: Dark Matters is an arcade style, action packed platformer in space, with smooth gameplay and a slick 80’s synthwave soundtrack.\n\nArmed with a fierce blade and a powerful shield your challenge is to fight your way through a mad alien spaceship filled with nefarious creatures and capture the fearsome bosses defending it.\n\nDo you have what it takes to face constant threats while staying on your feet in the heat of combat? Can you keep your cool when chaos is descending upon you?\n\nFeatures:\n-Skill based arcade-style gameplay \n-Three difficulty settings\n-All enemy weapons can be picked up by the player\n-A powerful shield to deflect enemy bullets\n-Dark energy super charges your weapons\n-Smooth gameplay and fluid animations\n-Super fast addictive respawn cycle",
+    "publisher": "RED ART GAMES",
+    "developer": null,
+    "base_release_date": 20220304,
+    "first_update_release_date": 20220127,
+    "latest_update_release_date": 20221209,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221209
+    },
+    "versions": {
+        "65536": 20220127,
+        "131072": 20220201,
+        "196608": 20220304,
+        "262144": 20221209
+    },
+    "category": [
+        "Platformer",
+        "Shooter"
+    ],
+    "intro": "Gunborg: Dark Matters is an arcade style, action packed platformer in space, with smooth gameplay and a slick 80’s synthwave soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

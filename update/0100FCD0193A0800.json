@@ -1,4 +1,34 @@
 {
     "id": "0100FCD0193A0800",
-    "version": 65536
+    "base_tid": "0100FCD0193A0000",
+    "name": "Project Blue",
+    "description": "Hidden in the outskirts of the Dezone, a secret bio-weapons lab is conducting unspeakable experiments on the homeless youth of that concrete wasteland. \n\nThe most promising test subject, codenamed PROJECT BLUE, manages to break free following an overly successful bio-energy augmentation. \n\nNow it's up to YOU to help Blue escape from Theta Lab and bring down the shadowy multinational conglomerate running Neo Hong Kong! \n\nPut your skill, wits and reflexes to the test as you jump, swim, and blast your way through four massive areas in this exciting new action platformer.\n\n- 256 screens of heart-pounding action!\n- A huge, original soundtrack of 22 songs!\n- 3 layout-changing difficulty modes!\n- Secret rooms and alternate routes galore!",
+    "publisher": "8 Bit Legit",
+    "developer": null,
+    "base_release_date": 20231006,
+    "first_update_release_date": 20230922,
+    "latest_update_release_date": 20230922,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230922
+    },
+    "versions": {
+        "65536": 20230922
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Put your skill, wits and reflexes to the test!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100FE000BA42800",
-    "version": 65536
+    "base_tid": "0100FE000BA42000",
+    "name": "Battle Group 2",
+    "description": "A deadly new terrorist group has emerged. The Talon seeks vengeance for an unknown crime, commanding seemingly unlimited resources and striking against innocents with precision, efficiency, and savage force. They take no prisoners...but neither do we!\nBattle Group 2 puts you in control of an advanced naval fleet assembled as a last resort against this deadly new enemy. Command powerful battleships and fire newly developed satellite strikes in a final strike against this deadly new terrorist superpower.",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20181012,
+    "first_update_release_date": 20181128,
+    "latest_update_release_date": 20181128,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181128
+    },
+    "versions": {
+        "65536": 20181128
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

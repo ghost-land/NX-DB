@@ -1,4 +1,39 @@
 {
     "id": "0100FE000EC24800",
-    "version": 131072
+    "base_tid": "0100FE000EC24000",
+    "name": "Asdivine Menace",
+    "description": "A century after the events of Asdivine Dios, peace has finally settled in. That is, until a visitor from another world suddenly shows up proclaiming the entire universe is about to be destroyed. Hearing this, Izayoi sets off in an attempt to reverse this seemingly pronounced fate with a trio of very idiosyncratic spirits as they criss-cross four worlds in search of an answer. But what is the answer they find...?\n\nExperience immersive turn-based battles with cooperative attacks and new limit break skills! With all quests, collecting and crafting, the battle arena, and even post-game content, Asdivine Menace comes packed with enough elements to satisfy JRPG-hungry gamers. As Izayoi deepens his bonds of trust with his spirit companions, their fates together move in new and meaningful directions!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20210819,
+    "latest_update_release_date": 20230918,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230918
+    },
+    "versions": {
+        "65536": 20210819,
+        "131072": 20230918
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Travel the galaxy to bring the truth full circle in an epic fantasy RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Scary Scenes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100FCB00BF40800",
-    "version": 196608
+    "base_tid": "0100FCB00BF40000",
+    "name": "R.B.I. Baseball 19",
+    "description": "R.B.I. Baseball 19 takes the field delivering heightened authenticity for a genuine MLB experience. We’ve added hundreds of new animations, updated player models, every official 2019 uniform, more player gear, improved ball physics and environments, and more!\n\n• Your Franchise: Manage your dream team across multiple seasons! Add pieces at the trade deadline, win over free agents, call up rookies and bring on new two-way players.\n\n• MLB Legends: Play as 165+ all-time greats like Jackie Robinson, Ted Williams, or Reggie Jackson! \n\n• Legends Teams: New Legends Teams on Exhibition Mode.\n\n• Home Run Derby, Your Way: Pick any MLB player or Legend, any MLB ballpark and customize your bracket. \n\n• Weekly Roster Updates: Weekly, season-long roster updates with performance-based statistical tuning.\n\n• Bumpin’ Soundtrack: Music from artists including Evaride, Banzai, OneRepublic, and more!",
+    "publisher": "MLBAM",
+    "developer": null,
+    "base_release_date": 20190305,
+    "first_update_release_date": 20190305,
+    "latest_update_release_date": 20190426,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190426
+    },
+    "versions": {
+        "65536": 20190305,
+        "131072": 20190325,
+        "196608": 20190426
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Take the Field!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

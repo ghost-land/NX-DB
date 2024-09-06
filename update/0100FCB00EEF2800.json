@@ -1,4 +1,45 @@
 {
     "id": "0100FCB00EEF2800",
-    "version": 262144
+    "base_tid": "0100FCB00EEF2000",
+    "name": "Pet Shop Snacks",
+    "description": "Welcome to Pet Shop Snacks!\n\nUpgrade your bar, beautify it and stock up on the very best ingredients. Let your restaurant be the talk of the town!\n\nLearn crazy recipes from the famous dog star chef! \n\nDeliver orders on time, but be careful not to mix them up! \n\nTo work!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20211025,
+    "first_update_release_date": 20200313,
+    "latest_update_release_date": 20230419,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230419
+    },
+    "versions": {
+        "65536": 20200313,
+        "131072": 20210602,
+        "196608": 20220907,
+        "262144": 20230419
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Take care of the kittens.  Become the owner of a pet cafe today!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

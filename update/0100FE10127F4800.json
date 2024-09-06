@@ -1,4 +1,32 @@
 {
     "id": "0100FE10127F4800",
-    "version": 131072
+    "base_tid": "0100FE10127F4000",
+    "name": "Puddle Knights",
+    "description": "A mud-based puzzle game where you arrange snake-like capes of chivalrous knights to cover puddles and other hazards. Help the nobles to reach their goal in this lighthearted medieval mindmuck!\n\nKey features:\n\n* 100+ head-scratching levels of increasing difficulty, playtime 10-35h\n* Step on heads\n* Tear up capes, hold down drawbridges and perform other inventive tactical maneuvers\n* A fresh take on logic puzzles: no pressure plates, keys to collect or boxes to push\n* Mistake-making and experimentation enabled by Undo and Reset functions\n* No rush: all the time in the world to think and analyze",
+    "publisher": "Lockpickle",
+    "developer": null,
+    "base_release_date": 20201009,
+    "first_update_release_date": 20201023,
+    "latest_update_release_date": 20201023,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201023
+    },
+    "versions": {
+        "131072": 20201023
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Solve your way through 100 puddle puzzles.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

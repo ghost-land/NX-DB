@@ -1,4 +1,37 @@
 {
     "id": "0100FD1014726800",
-    "version": 65536
+    "base_tid": "0100FD1014726000",
+    "name": "Baldur's Gate: Dark Alliance",
+    "description": "Experience the massively popular world of Baldur's Gate as never before. Baldur's Gate: Dark Alliance thrusts you into an epic Dungeons & Dragons adventure filled with intense action, intricate puzzles and sinister intrigue, where your mastery of cold steel and devastating spells is the only thing between you and ultimate evil.",
+    "publisher": "Interplay",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210519,
+    "latest_update_release_date": 20210519,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210519
+    },
+    "versions": {
+        "65536": 20210519
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A new legacy begins...",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

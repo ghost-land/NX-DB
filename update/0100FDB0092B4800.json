@@ -1,4 +1,40 @@
 {
     "id": "0100FDB0092B4800",
-    "version": 65536
+    "base_tid": "0100FDB0092B4000",
+    "name": "Where Are My Friends?",
+    "description": "Features:\n- 4 DIFFERENT GENRES IN ONE GAME!\nEvery level is a separate genre: runner, metroidvania, point'n'click quest and puzzle-platformer.\n\n- GAME WITHOUT WORDS\nThe plot will be understandible to each one of you, since the story is told without using a single word.\n\n- UNIQUE VISUAL STYLE OF EACH LEVEL\nColorful graphics created using different tools - from hand drawing to CG flat-design.\n\n- ATMOSPHERIC SOUNDTRACK\nOriginal music which builds up enjoyment received from playing the game.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180425,
+    "first_update_release_date": 20180420,
+    "latest_update_release_date": 20180420,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180420
+    },
+    "versions": {
+        "65536": 20180420
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Eye on the ball named Wheye had come to the planet where his friends studied local species. His friends went missing, the planet is about to blow and only Wheye can save everyone. He will have to face different trials on his own.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

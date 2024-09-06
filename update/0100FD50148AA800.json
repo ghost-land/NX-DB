@@ -1,4 +1,43 @@
 {
     "id": "0100FD50148AA800",
-    "version": 65536
+    "base_tid": "0100FD50148AA000",
+    "name": "12 Labours of Hercules IV: Mother Nature",
+    "description": "The legendary hero Hercules and his wife Megara are back, ready to embark on their next adventure! The Gods are outraged at their defeat and have summoned a fearsome beast who can match Hercules's god-like strength. The beast has trampled the countryside, turning lush gardens into desert wastelands! Restore the world's beauty by using everything at your disposal, from Megara's magical abilities to even a fire hydrant! Team up with friendly allies like King Midas and Epeius with his famous Trojan Horse to save Mother Nature from destruction.\n\n- Over 50 levels with new music and a new story!\n- Secret Challenges! Certain levels have hidden objects!\n- Build the mighty Trojan Horse!",
+    "publisher": "JetDogs",
+    "developer": null,
+    "base_release_date": 20210831,
+    "first_update_release_date": 20220325,
+    "latest_update_release_date": 20220325,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220325
+    },
+    "versions": {
+        "65536": 20220325
+    },
+    "category": [
+        "Strategy",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

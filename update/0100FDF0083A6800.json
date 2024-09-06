@@ -1,4 +1,41 @@
 {
     "id": "0100FDF0083A6800",
-    "version": 196608
+    "base_tid": "0100FDF0083A6000",
+    "name": "Regalia: Of Men and Monarchs - Royal Edition",
+    "description": "Regalia: Of Men and Monarchs is a tactical RPG about the restoration of a fallen kingdom to its former glory. Embark on an adventure that will remind you of your best jRPG experiences - assemble a party of valiant individuals, manage your realms, forge alliances, and vanquish your foes in challenging turn-based combat!\n \nAfter your father’s passing you inherit a wondrous land far, far away... There’s a catch, however, your realm is drowning in terrible debt. Now, through some good old-fashioned adventuring, you have to return your family seat to its long gone greatness!\n\n• Traverse through lands of robust turn-based battles, diverse quests and distinct bosses.\n• Bond with dozens of colorful, fearless characters who will help you in your journey. \n• Tons of humor and a fair amount of epicness; Samurai dwarves?!\n• Hours of demanding gameplay that bring back the best jRPG memories.\n\nThe Royal Edition includes all additional in-game content.",
+    "publisher": "Crunching Koalas",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20180413,
+    "latest_update_release_date": 20181214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181214
+    },
+    "versions": {
+        "65536": 20180413,
+        "131072": 20180507,
+        "196608": 20181214
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Regalia: Of Men and Monarchs is a modern jRPG with skippable battles that delivers a mix of good old adventuring and dynamic storytelling.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Fantasy Violence",
+        "Language",
+        "Sexual Themes"
+    ],
+    "region": null
 }
