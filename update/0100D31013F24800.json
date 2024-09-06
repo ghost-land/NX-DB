@@ -1,4 +1,44 @@
 {
     "id": "0100D31013F24800",
-    "version": 65536
+    "base_tid": "0100D31013F24000",
+    "name": "Toon Shooters 2: The Freelancers",
+    "description": "Five years after the fall of the Galactic Fleet, the Toons are back in action to wreck threats old and new... it was a massacre, on both sides!\n\n- 15 STAGES of various puzzles and memorable bosses.\n\n- LOCAL MULTIPLAYER Up to 4 Co-Operative players.\n\n- ONLINE MULTIPLAYER Clear roles for each player using the different characters.\n\n- 8 CHARACTERS, 7 Wingmen ‘Pets’.",
+    "publisher": "Four Fats",
+    "developer": null,
+    "base_release_date": 20210326,
+    "first_update_release_date": 20210413,
+    "latest_update_release_date": 20210413,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210413
+    },
+    "versions": {
+        "65536": 20210413
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "intro": "Blast your way across the galaxy in a classic inspired multiplayer arcade side-scrolling shooter!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

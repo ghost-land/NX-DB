@@ -1,4 +1,34 @@
 {
     "id": "0100D1D015956800",
-    "version": 65536
+    "base_tid": "0100D1D015956000",
+    "name": "Titans Black Ops",
+    "description": "Titans Black Ops is a 2D jump n gun about mercenaries trying to save the world and then go home and take a well-deserved nap.\nChoose your gun, purchase an arsenal of more powerful guns and grenades then blow EVERYTHING up and save the world by the way.\nLock and load!\n\nFeatures:\n- 2D jump n gun \n- 24 Levels\n- different difficulties\n- a variety of guns\n- Dailies and Achievements",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210827,
+    "first_update_release_date": 20210820,
+    "latest_update_release_date": 20210820,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210820
+    },
+    "versions": {
+        "65536": 20210820
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Rescue the world and get a well-earned nap!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

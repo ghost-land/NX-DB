@@ -1,4 +1,37 @@
 {
     "id": "0100D2400AFB0800",
-    "version": 65536
+    "base_tid": "0100D2400AFB0000",
+    "name": "ACA NEOGEO CROSSED SWORDS",
+    "description": "“CROSSED SWORDS” is an action game released by SNK in 1991. In order to defeat the demon Nausizz, use Weapon Attacks, Magic Attacks, and your Defend ability as you make your way through seven intense stages. Up to two players can play simultaneously with the unique 3D perspective. Buy weapons with accumulated GOLD. Characters also grow in strength through an RPG-like system.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20180823,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20180829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180829
+    },
+    "versions": {
+        "65536": 20180829
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Experience the legend of the world’s strongest knights. Sparks fly in this realistic battle RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100D35019004800",
-    "version": 131072
+    "base_tid": "0100D35019004000",
+    "name": "Once Upon a Jester",
+    "description": "Embark on an adventure as Jester - you and your best friend Sok travel the kingdom to improvise shows and perform on stages far and wide. Sing your hearts out, crack jokes and impress audiences to bond with your companions and become the star of the famous Royal Theatrical Spectacle!\n\nBest friends Sok & Jester devise a mischievous scheme to steal the Royal Diamond!\nTo complete their master plan, they will need to start an improv theatre show and outperform all the other artists. Becoming the best show in the kingdom is the only way to get invited to\nthe Royal Theatrical Spectacle inside the Royal Palace, where the gem is kept.\n\nThey embark on a grand adventure across the kingdom, meeting scores of wacky characters, performing improvised shows and singing their hearts out. Along the way, they discover the freedom and happiness that creative arts bring them. Will they change their wicked ways?",
+    "publisher": "Crunching Koalas",
+    "developer": null,
+    "base_release_date": 20221109,
+    "first_update_release_date": 20221109,
+    "latest_update_release_date": 20221205,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221205
+    },
+    "versions": {
+        "65536": 20221109,
+        "131072": 20221205
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "A musical, theatrical adventure with improvised shows and a cursed diamond.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

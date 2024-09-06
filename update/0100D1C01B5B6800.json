@@ -1,4 +1,38 @@
 {
     "id": "0100D1C01B5B6800",
-    "version": 262144
+    "base_tid": "0100D1C01B5B6000",
+    "name": "The Case of the Golden Idol",
+    "description": "Discover clues surrounding 12 strange and gruesome deaths and build your own theory. Pick your suspect, deduce the motive, unmask the awful truth.\n\nStep into the shoes of an 18th century detective and uncover the mystery behind twelve strange deaths spanning 40 years, all somehow connected. Unmask the true killers in this sprawling narrative and discover their devious motives.\n\nObserve closely and reconstruct each scene of death. Your skills of deduction can identify each suspect, motive and murder weapon.\n\nReveal the true nature of the mysterious Golden Idol and those who covet it. Follow the journey of a cursed aristocratic family as you untangle a web of deceit and villainy in your hunt for the truth behind this dark conspiracy.\n",
+    "publisher": "Playstack",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230520,
+    "latest_update_release_date": 20230829,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230829
+    },
+    "versions": {
+        "65536": 20230520,
+        "131072": 20230608,
+        "196608": 20230621,
+        "262144": 20230829
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "A new kind of detective game that allows you to think and investigate freely. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

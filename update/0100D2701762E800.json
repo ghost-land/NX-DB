@@ -1,4 +1,40 @@
 {
     "id": "0100D2701762E800",
-    "version": 65536
+    "base_tid": "0100D2701762E000",
+    "name": "Flying Neko Delivery",
+    "description": "Take on the role of Onigiri, a feline witch who lives in a cottage and delivers packages flying on a broomstick. Customize your cottage, explore new worlds, forage plants and fungi, and meet quirky villagers along the way, while enjoying music by Mark Sparling, the composer for A Short Hike.\n\nDeliver packages on a flying broomstick which you can upgrade. Simple and forgiving controls let you enjoy flying without worrying about crashing or combat. Explore diverse worlds and forage wild plants along the way!\n\nReturn to your cottage to cook food, craft upgrades, and unlock new abilities. Express yourself by decorating the cottage with customizable furniture. Shop for new furniture while you're out on deliveries!\n\nDelivering packages to the same villager deepens your relationship with them. Become close friends to unlock rewards and open portals to new worlds!",
+    "publisher": "Fractal Phase",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20221220,
+    "latest_update_release_date": 20221220,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221220
+    },
+    "versions": {
+        "65536": 20221220
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Racing",
+        "Other"
+    ],
+    "intro": "A cat witch life simulator!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

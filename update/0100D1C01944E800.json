@@ -1,4 +1,36 @@
 {
     "id": "0100D1C01944E800",
-    "version": 65536
+    "base_tid": "0100D1C01944E000",
+    "name": "The Smile Alchemist",
+    "description": "In Polta Kolta, a town where humans and beasts live together, the young Nayc becomes an apprentice and is training hard under the famous alchemist.\nHis aim is to become the best alchemist in the world for a promise made with his precious friend, but a matter of great concern is worrying him...\n\nThe Smile Alchemist is an alchemist simulator containing the fun elements of character development, collection and above all not to forget alchemy!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20230402,
+    "latest_update_release_date": 20230402,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230402
+    },
+    "versions": {
+        "65536": 20230402
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Follow the growth of a young alchemist aiming to become the best in the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

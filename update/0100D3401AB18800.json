@@ -1,4 +1,34 @@
 {
     "id": "0100D3401AB18800",
-    "version": 65536
+    "base_tid": "0100D3401AB18000",
+    "name": "The Fairy's Song",
+    "description": "Marnie has been palmed off in her grandmother’s care in the boring backwater English village of Fenchapel.\n\nDespite her grandmother’s constant ravings about fairies, Marnie wanders into the forest… She happens upon a young female knight in a glade, clutching a sword. The knight has been sleeping for many centuries, but Marnie inadvertently awakes her.\n\nTogether, the two young girls go on an adventure, and their feelings toward one another grow.\n\n\nFeatures\n* 85,000 words of text\n\t* A kinetic story\n* Detailed character and event artwork\n* An entirely original soundtrack\n* A sweet yuri love story",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20230616,
+    "first_update_release_date": 20230608,
+    "latest_update_release_date": 20230608,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230608
+    },
+    "versions": {
+        "65536": 20230608
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A fairy fantasy kinetic novel full of mystery, romance, and danger",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100D30010C42800",
-    "version": 131072
+    "base_tid": "0100D30010C42000",
+    "name": "Monster Truck Championship",
+    "description": "From Las Vegas to Orlando, go head-to-head against experienced drivers in drag races and freestyle competitions! But before you can pull off doughnuts, wheelies and bicycles, you must first tune your truck to perfection. These machines are colossal and spectacular yet highly technical to drive. The game faithfully reproduces all the unique demands of mastering these powerful trucks, including independent front and rear wheel management, mass transfer anticipation in bends, and predicting bounces after jumps.\nBut what's performance without style? Customise your monster truck to reflect your style and show it off to your 7 opponents in online mode.\n• 16 Monster Trucks\n• Over 50 customisable elements\n• 25 arenas\n• 3 leagues",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20201009,
+    "latest_update_release_date": 20210108,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210108
+    },
+    "versions": {
+        "65536": 20201009,
+        "131072": 20210108
+    },
+    "category": [
+        "Racing",
+        "Simulation"
+    ],
+    "intro": "A true Monster Truck simulation!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Use of Tobacco",
+        "Users Interact"
+    ],
+    "region": null
 }

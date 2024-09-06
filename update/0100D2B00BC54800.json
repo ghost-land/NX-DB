@@ -1,4 +1,44 @@
 {
     "id": "0100D2B00BC54800",
-    "version": 524288
+    "base_tid": "0100D2B00BC54000",
+    "name": "Heroes of Hammerwatch - Ultimate Edition",
+    "description": "Encounter endless hordes of enemies, traps, puzzles, secrets and tons of loot, as you battle your way through procedurally generated levels to reach the top of the Forsaken Spire. Upgrade to grant your persistent heroes with various enhancements that will further help you in your quest, and even bring them to your friends' game!\n\nFEATURES:\n- Procedurally generated levels that will bring you a new challenge with each run.\n- Persistent progression: Your heroes will retain the experience gained from a run, becoming more powerful as they level up.\n- Online Co-op: Play with up to 3 friends in online co-op!\n- Town upgrades: Revamp 10 different buildings to grant your heroes with various enhancements.\n- 9 different classes: Each one with unique stats, abilities and play styles.\n- Over 100 unique items of various rarities.\n- Includes all 3 DLCs: Witch Hunter, Pyramid of Prophecy and Moon Temple. With many additional skills, items, areas to explore, 2 new game modes, 2 new classes and much more!\n- New Game+: Get ready for a real challenge, and even if you beat it, the challenge never ends!",
+    "publisher": "BlitWorks",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20220826,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220826
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200808,
+        "196608": 20200827,
+        "262144": 20200910,
+        "327680": 20201123,
+        "393216": 20210118,
+        "458752": 20210211,
+        "524288": 20220826
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "Action RPG rogue-lite Heroes of Hammerwatch is finally out on Nintendo Switch™ in its most complete form, as this Ultimate Edition comes with all the DLCs!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Simulated Gambling",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

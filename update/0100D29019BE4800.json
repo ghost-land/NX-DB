@@ -1,4 +1,49 @@
 {
     "id": "0100D29019BE4800",
-    "version": 786432
+    "base_tid": "0100D29019BE4000",
+    "name": "Sixtar Gate: STARTRAIL",
+    "description": "The button-based rhythm game that sends you on a voyage through space, Sixtar Gate: STARTRAIL, is finally available on the Nintendo Switch™!\n\nTake command of the research vessel Ausflug alongside your partner Shii as you unravel the mysteries of the Sixtar Cluster!\n\n★Meet your stellar partner, overflowing with charm\nYour cute, cheery, ever-smiling partner, Operator Shii, is standing by!\n\n★More lanes for the notes to flow down\nThe central gate will open as each song progresses, meaning more lanes to focus on!\nThis never-before-seen gate mechanic means you always have to be on your toes.\n\n★New content optimized for the Nintendo Switch™\nThis version features new song visualizations optimized for the Joy-Con™ controllers!\nExclusive \"Shift Notes\" make use of the Joy-Con™ sticks for added enjoyment!\n\n★Rich additions and new game modes!\n- This game boasts over 100 songs, including licensed hits from the Touhou Project, Vocaloid series, and more!\n- Test your limits and see where you rank in the new \"Outer Space\" mode!\n- The Nintendo Switch™ version also features a new \"Adventure Mode\"!\nVarious quests await you that will unlock the secrets of the vast Sixtar Cluster.",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20240624,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20240624
+    },
+    "versions": {
+        "65536": 20230217,
+        "131072": 20230223,
+        "196608": 20230302,
+        "262144": 20230308,
+        "327680": 20230331,
+        "393216": 20230424,
+        "458752": 20230608,
+        "524288": 20230809,
+        "589824": 20230913,
+        "655360": 20231123,
+        "720896": 20240125,
+        "786432": 20240624
+    },
+    "category": [
+        "Music",
+        "Adventure",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Go on a musical space voyage with your companion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

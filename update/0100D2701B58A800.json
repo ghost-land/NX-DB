@@ -1,4 +1,32 @@
 {
     "id": "0100D2701B58A800",
-    "version": 65536
+    "base_tid": "0100D2701B58A000",
+    "name": "PictoPull",
+    "description": "Each puzzle in PictoPull is created from pixel art. Puzzles are simple to learn, but complex to master as you learn how to create new paths, bridge gaps and understand the connections between the special block types. As puzzles get larger and more detailed, you’ll discover new mechanics to keep the fun going!\n\n* 150 Story Levels spread across 10 unique environments, from beaches to futuristic laboratories, and even a construction site\n* Puzzles come in many shapes, some inspired by real-world objects, animals, monsters, locations and more\n* Work your way through puzzles with twists on the gameplay such as opposite blocks, union blocks and timer blocks\n",
+    "publisher": "Bearded Ants",
+    "developer": null,
+    "base_release_date": 20231003,
+    "first_update_release_date": 20230913,
+    "latest_update_release_date": 20230913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230913
+    },
+    "versions": {
+        "65536": 20230913
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Are you ready to push, pull, and climb your way to the top of each block-based puzzle?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

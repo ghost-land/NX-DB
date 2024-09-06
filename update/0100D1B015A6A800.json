@@ -1,4 +1,42 @@
 {
     "id": "0100D1B015A6A800",
-    "version": 65536
+    "base_tid": "0100D1B015A6A000",
+    "name": "POST VOID",
+    "description": "\"POST VOID is a hypnotic scramble of early first-person shooter design that values speed above all else. Keep your head full and reach the end. Kill what you can to see it mend. Get the high score or try again.\n\nAn incredibly fast-paced, surreal headache of an FPS where the rules are very simple - make it to the end of the level. The only way to live is to keep killing to stop your health idol from running out. Gain upgrades at the end of each level and try to reach the end of the void in a single run. POST VOID is fast, frantic, adrenaline-pumping action that requires speed, skill, and determination.\n\nAn all-out assault on the senses, from its daringly unique visual aesthetics and hypnotic animations, to its blink-and-you'll-miss-it lightning speed action.\"",
+    "publisher": "Super Rare Games",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230316
+    },
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Embark on a unique, deeply atmospheric and blinding haze of retro-styled violence.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

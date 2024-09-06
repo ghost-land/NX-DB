@@ -1,4 +1,39 @@
 {
     "id": "0100D24013466800",
-    "version": 131072
+    "base_tid": "0100D24013466000",
+    "name": "DREAMO",
+    "description": "DREAMO is a puzzle-solving journey through a shifting landscape of recollections.\n\nIn DREAMO, you wake up on an island as Jack Winslow. Guided by the voice of Tara Moreau, an inventor/therapist, you set out to piece together your missing memories. These fragments are locked in \"Artifacts\", which manifest in your mind as cubes with misplaced gears. As you delve deeper into your mind, the puzzles grow more complex in an effort to keep your memories locked away.\n\nCan you decipher them and unlock the secrets of your mind?\n\nFEATURES\n- First-person puzzle-adventure game,\n- Dozens of individually designed, challenging 3D puzzles with moving components and a variety of modifiers.\n- Fully voiced, narration-based story that explores themes of memory, choice, and consequence,\n- Vibrant low-poly artstyle.\n- An engaging three-chapter storyline\n- Relaxing gameplay formula...\n- ...And a challenge mode, for those who want the hardest possible puzzles.",
+    "publisher": "Pineapple Works",
+    "developer": null,
+    "base_release_date": 20201119,
+    "first_update_release_date": 20201104,
+    "latest_update_release_date": 20201118,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201118
+    },
+    "versions": {
+        "65536": 20201104,
+        "131072": 20201118
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Explore strange landscapes and solve mind-bending cube puzzles to unlock mysteries of a dream-like world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

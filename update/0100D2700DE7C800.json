@@ -1,4 +1,46 @@
 {
     "id": "0100D2700DE7C800",
-    "version": 655360
+    "base_tid": "0100D2700DE7C000",
+    "name": "Rivals of Aether",
+    "description": "RIVALS OF AETHER is an indie fighting game set in a world where warring civilizations summon the power of Fire, Water, Air, and Earth. Praised for its competitive gameplay, smooth movement, and extensive training tools, Rivals of Aether is the perfect addition to the Platform Fighter genre.\n\nGame Features\n- Choose VERSUS MODE to duke it out in competitive 1v1 or 2v2 fights, or jump into a free-for-all.\n- Play STORY MODE to learn the backstory behind each rival and begin to uncover the hidden mysteries of Aether.\n- Dive into ABYSS MODE to see how many waves of shadowy fighters you can defeat and reach the leaderboards alone or with a friend. Customize your Abyss Mode builds and challenge your friends in ABYSS VERSUS .\n- Take your skills online in ONLINE VERSUS ! Play against your friends or test your skills in RANKED MODE to climb the leaderboard.\n- Study TUTORIAL MODE to hone your skills from beginner to advanced lessons. Or boot up PRACTICE MODE to get your hands on all the frame data and hitbox visualizations.",
+    "publisher": "Dan Fornace",
+    "developer": null,
+    "base_release_date": 20200924,
+    "first_update_release_date": 20200914,
+    "latest_update_release_date": 20230629,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20230629
+    },
+    "versions": {
+        "65536": 20200914,
+        "131072": 20200928,
+        "196608": 20201215,
+        "262144": 20210127,
+        "327680": 20210916,
+        "393216": 20211021,
+        "458752": 20220201,
+        "524288": 20220420,
+        "589824": 20220428,
+        "655360": 20230629
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "intro": "Rivals of Aether has finally arrived!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact"
+    ],
+    "region": null
 }
