@@ -1,4 +1,34 @@
 {
     "id": "01008280119B2800",
-    "version": 131072
+    "base_tid": "01008280119B2000",
+    "name": "Lair of the Clockwork God",
+    "description": "WHY PLAY ONLY ONE GENRE OF GAME when you could be playing two slightly different ones at the same time?\n\nBEN is a die-hard, old-school Adventure game fan.\nHe has one foot stuck in the 90s, and he’s happiest collecting any old junk he can lay his hands on, in hope of combining it all together to solve a satisfying puzzle. \n\nHis cohort and sidekick DAN\n...has aspirations to be the next big indie platforming character. He's got everything he needs: he's hip, sensitive, and his nose is a different colour to the rest of his face.\n\nLAIR OF THE CLOCKWORK GOD sees you switching between Ben and Dan and using their unique abilities together in an effort to stop all the Apocalypses happening simultaneously, by teaching an old computer about feelings. \n\nSolve classic point-and-click puzzles as Ben to create unique upgrade items for Dan, so he can jump higher, run faster and blast everything away with a shiny new gun. Then, run and jump as Dan to unlock new areas and exciting puzzles for Ben!",
+    "publisher": "Ant Workshop",
+    "developer": null,
+    "base_release_date": 20200904,
+    "first_update_release_date": 20200925,
+    "latest_update_release_date": 20201214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201214
+    },
+    "versions": {
+        "65536": 20200925,
+        "131072": 20201214
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "A classic Point-and-Click adventure AND an indie platfomer in one! Join Ben and Dan in a race against time to stop all the Apocalypses happening at the same time.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Crude Humour"
+    ],
+    "region": null
 }

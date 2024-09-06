@@ -1,4 +1,35 @@
 {
     "id": "010081D0100F0800",
-    "version": 262144
+    "base_tid": "010081D0100F0000",
+    "name": "Rhythm of the Gods",
+    "description": "Solve the problems that the mortal realm faces in this auto-running, Greek-inspired rhythm game. Fight a variety of mythological monsters that are causing a chorus of chaos to impress each god and earn your right to challenge them one-on-one - in a battle of rhythm, of course. Keep in time and reveal each gods’ true tune to persuade them that you have what it takes.\n\nUnique Beatmaps\nClear the base stage to unlock God Mode’s special beatmap and challenge the Gods of Rhythm one-on-one. Enjoy these fast-paced rhythmic battles set to addictive original music from composer Nathan Fitzpatrick. \n\nMarathon Mode\nTest your rhythmic stamina in Marathon mode! See how long you can last and refine your skills.\n\nHigh Scores & Trophies\nKeep track of your best scores and take on a variety of tasks to earn all the trophies.\n\nWe recommend playing with headphones to truly appreciate the beat. ",
+    "publisher": "Nellyvision",
+    "developer": null,
+    "base_release_date": 20200323,
+    "first_update_release_date": 20200321,
+    "latest_update_release_date": 20201006,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201006
+    },
+    "versions": {
+        "131072": 20200321,
+        "262144": 20201006
+    },
+    "category": [
+        "Music",
+        "Arcade",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Join the strongest mortal warrior, Lyrik, and slide, jump & slash to the beat to please the Gods of Rhythm! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "010082601BD78800",
-    "version": 327680
+    "base_tid": "010082601BD78000",
+    "name": "Long Gone Days",
+    "description": "Long Gone Days is an RPG set in the real world about human connection during war, focusing on civilians, language barriers, and borders.\n\nFollow Rourke, young man trained from birth to be a sniper for The Core— a subterranean paramilitary state.\n\nOn his first mission, he is sent to the surface under orders of great significance. Motivated to finally be able to show the fruits of his training, he carries out his first orders to perfection only to find out that The Core was far from being the noble organization he thought he knew.\n\nA Nuanced Look at War: Experience the clash of modern conflict against civilian life through the contrast of intense RPG combat and slower, slice-of-life gameplay.\n\nCommunication is Key: As Long Gone Days is set in the real world, you'll encounter several language barriers. Recruit interpreters in order to communicate with others and forge bonds beyond borders.\n\nKeep Morale High: Choose dialogue options wisely to boost morale in battle. Every character has distinct personality traits and motivations.\n\nSniper Mode: Long Gone Days has two battle systems. Using Rourke's rifle, spot your enemies and take down your targets.\n\nNo Random Encounters: Long Gone Days features front-view, turn-based battles with a body-targeting system. Every battle is hand-crafted and directly related to the plot.",
+    "publisher": "Serenity Forge",
+    "developer": null,
+    "base_release_date": 20231010,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20231010,
+        "131072": 20231013,
+        "196608": 20231031,
+        "262144": 20231213,
+        "327680": 20240125
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "RPG exploring modern conflict, language barriers, and empathy during war.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,49 @@
 {
     "id": "010082201B00C800",
-    "version": 655360
+    "base_tid": "010082201B00C000",
+    "name": "AK-xolotl",
+    "description": "The cutest, deadliest and ONLY top-down roguelike shooter featuring AK-wielding Axolotls. Blast your way through the animal kingdom with an arsenal of kick-ass guns, mighty power-ups and even raise an army of trigger-happy baby axolotls.\n\nWhile cute in appearance, the Axolotl is packing some serious heat and will shoot down anything that stands between them and their next meal. Blast a path through a variety of biomes and conquer randomly generated rooms with a dastardly boss at the end of every biome. \n\nFind Axolotl eggs and raise new powerful Axolittles by turning them into highly specialized little killing machines. Take their firepower to the next level by cooking up permanent, stat-improving recipes. Turn your enemies into ingredients, eat everything, and become unstoppable.",
+    "publisher": "Playstack",
+    "developer": null,
+    "base_release_date": 20230914,
+    "first_update_release_date": 20230904,
+    "latest_update_release_date": 20240515,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240515
+    },
+    "versions": {
+        "131072": 20230904,
+        "196608": 20230913,
+        "393216": 20231031,
+        "458752": 20231129,
+        "524288": 20231208,
+        "589824": 20240205,
+        "655360": 20240515
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The Cutest and Deadliest Roguelite",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

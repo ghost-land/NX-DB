@@ -1,4 +1,40 @@
 {
     "id": "010082400ED18800",
-    "version": 196608
+    "base_tid": "010082400ED18000",
+    "name": "Shiny Ski Resort",
+    "description": "Your story starts with a small hotel on a snowy mountain. Develop land to build a spectacular ski course, and obtain materials for use in constructing new hotel facilities. Make your hotel popular, and your ski course will benefit as well! Plus you'll become able to make products to sell in hotel shops and restaurants.\n\nExpand your ski course and watch your guests polish their skills until they become ski pros, then have them represent your resort in ski contests, sporting sponsored items. Help your racer pull awesome tricks off ski jumps to win the race, and your sponsors will reward you handsomely, and value you even more.\n\nMake skiing all the rage. Top all rankings, creating the ultimate ski resort.\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20200206,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20230306,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230306
+    },
+    "versions": {
+        "65536": 20210526,
+        "131072": 20230228,
+        "196608": 20230306
+    },
+    "category": [
+        "Simulation",
+        "Action",
+        "Puzzle",
+        "Sports"
+    ],
+    "intro": "Enjoy building and running\na ski resort in this cool\nsimulation game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,60 @@
 {
     "id": "010081A00EE62800",
-    "version": 1245184
+    "base_tid": "010081A00EE62000",
+    "name": "Boomerang Fu",
+    "description": "Join a crew of your favorite foods as you grill, chill and spill your enemies. Discover ridiculous power-ups and stack them together in deadly combinations to become the ultimate Boomerang Fu master.\n\nLOCAL MULTIPLAYER CHAOS\nRoast and toast your friends in lightning-fast rounds of cute physics combat for up to 6 players. Perfect for parties!\n\nSTACK POWER-UPS TOGETHER\nDiscover a ridiculous range of power-ups like explosive boomerangs, disguises and telekinesis. Then stack your power-ups together to form outrageous combinations!\n\nTEAM UP\nJoin forces with your friends to take on the ingenious AI opponents in couch co-op mode.\n\nHIDE AND SEEK\nScramble to find the perfect hiding spot or hunt down your friends in this tense game mode.\n\nSIMPLE CONTROLS\nIt only takes one stick and three buttons to pulverize your pals. Anyone can play immediately, but hardcore players will love mastering the advanced techniques of this lost martial art. Deflect attacks, recall dropped boomerangs, and curve your throws around corners to become a powerful boomerang assassin.\n\nOVER 30 ARENAS\nJourney to an edible world as you do battle in over 30 Kung Fu arenas, each filled with unique tools and traps. Jump over moving platforms and sneak through lush foliage. Trigger sliding walls to squish your foes. Dive between giant rolling pins and delight the Toaster King.\n\nCHANGE THE RULES\nPlay with only the power-ups you love. Turn off shields. Turn on friendly fire. You change the rules to suit your tastes!\n\nUNLOCK COSTUMES\nEarn experience points every time you play to unlock new hats and outfits for your favourite foods.",
+    "publisher": "Cranky Watermelon",
+    "developer": null,
+    "base_release_date": 20211104,
+    "first_update_release_date": 20200916,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "1245184",
+        "release_date": 20240728
+    },
+    "versions": {
+        "131072": 20200916,
+        "196608": 20201015,
+        "262144": 20201022,
+        "327680": 20201028,
+        "393216": 20201214,
+        "458752": 20210513,
+        "524288": 20210517,
+        "589824": 20210530,
+        "655360": 20210805,
+        "786432": 20211116,
+        "851968": 20220512,
+        "917504": 20220810,
+        "983040": 20240612,
+        "1114112": 20240617,
+        "1179648": 20240702,
+        "1245184": 20240728
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Slice and dice your friends with boomerangs in this frantic physics party game for up to 6 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010082501B6E4800",
-    "version": 131072
+    "base_tid": "010082501B6E4000",
+    "name": "STAR WARS™: Dark Forces Remaster",
+    "description": "Star Wars™: Dark Forces Remaster has been brought to life by the team at Nightdive Studios, fully remastered through its proprietary KEX engine. New and returning players will enjoy Star Wars: Dark Forces Remaster’s upgraded gameplay, high-resolution textures, enhanced lighting and rendering, and support for gamepads.\n\nThe original 1995 Star Wars: Dark Forces raised the bar for FPS games, offering players a significant degree of movement and interactivity, a large selection of items and power-ups, and engaging environments.\n\nIn the first Star Wars FPS video game, players assume the role of Kyle Katarn, a defector of the Galactic Empire turned mercenary for hire. Katarn joins the Rebel Alliance’s covert operations division tasked with infiltrating the Galactic Empire, where he discovers the secret Dark Trooper Project. The development of this powerful new series of Imperial battle droids and power-armored stormtroopers stands to strengthen the Empire’s grip on the galaxy unless Katarn and the Rebel Alliance intervene.\n\n\nKey Features\n\n- Access to “The Vault”. Enjoy a thoughtfully curated collection of various types of development material and in-game assets showcasing the rich history of this iconic title.\n- Engaging first-person ground combat featuring ten weapons and twenty types of enemies\n- Advanced 3D rendering enables updated lighting and atmospheric effects.\n- A variety of power-ups are made available to the player, including health, shields, weapons and ammunition.\n- For combat, the player may use fists, explosive landmines and thermal detonators, as well as blasters and other ranged weapons.\n- Includes immersive environmental puzzles and mazes. ",
+    "publisher": "Nightdive Studios",
+    "developer": null,
+    "base_release_date": 20240228,
+    "first_update_release_date": 20240312,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240312,
+        "131072": 20240510
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

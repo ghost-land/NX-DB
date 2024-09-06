@@ -1,4 +1,33 @@
 {
     "id": "010082201E1E4800",
-    "version": 65536
+    "base_tid": "010082201E1E4000",
+    "name": "Exiled",
+    "description": "Charlotte is missing.\n\nA note has been left on her desk talking of \"the ancient evil\" and \"banishment to a different realm.\" The eldritch tome and an untranslated scrap she had been studying act as the only clues to her disappearance. Use clues found in the book to translate an ancient language, evade the lurking horrors, and solve the mystery of the strange objects around you!\n\nA compact, detailed puzzle thriller ala The Room or Myst that acted as the precursor for mechanics that would make their way into My Friendly Neighborhood. Made by John Szymanski, director of My Friendly Neighborhood.",
+    "publisher": "Ducky Dev Games",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20240222,
+    "latest_update_release_date": 20240222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240222
+    },
+    "versions": {
+        "65536": 20240222
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Charlotte is missing. Translate a tome, investigate a mystery, and stay away from ancient monsters in this compact puzzle thriller.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

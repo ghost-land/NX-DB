@@ -1,4 +1,36 @@
 {
     "id": "010081B00D890800",
-    "version": 65536
+    "base_tid": "010081B00D890000",
+    "name": "Strangers of the Power 3",
+    "description": "Strangers of the Power 3 tells a story about a woman named Marion who has gift of healing. This gift made her want to become an adventurer. After passing the trials, her first job is less than a glamorous one; take care of a critter problem that a city has.\n\nHowever, this seemingly simple first job takes a turn for worse that threatens the lives of many people, potentially changing the lives of everyone around Marion…\n\nThis game is a love letter to the oldschool RPGs that I grew up playing, with retro graphics and handpainted character portrait art. The game features 360 degree rotatable camera within 3D enviroment, with plenty of emphasis on hidden items and secrets thanks to this.",
+    "publisher": "Tuomo’s Games",
+    "developer": null,
+    "base_release_date": 20200614,
+    "first_update_release_date": 20200924,
+    "latest_update_release_date": 20200924,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200924
+    },
+    "versions": {
+        "65536": 20200924
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Young adventurer's trial by fire gets out of hand and threatens the lives of multiple people. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Crude Humour",
+        "Mild Sexual References",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

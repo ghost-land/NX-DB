@@ -1,4 +1,30 @@
 {
     "id": "01008280155FA800",
-    "version": 65536
+    "base_tid": "01008280155FA000",
+    "name": "Martial Knight",
+    "description": "Train with inspirational avatars in amazing sceneries to gain fitness, strength and personal power! Martial Knight is a creative and enjoyable way to a healthier and happier you, both physically and mentally.  This is the moment to awaken your own inner superhero!\n\nNow you can access the training methods of the great kung fu masters anywhere, anytime.  They are ready and waiting for you to take action.  Complete all 15 levels and become a Martial Knight.  Experience the transformation for yourself!  The future is in your hands!",
+    "publisher": "Smashbyte Games",
+    "developer": null,
+    "base_release_date": 20221115,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20230411,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230411
+    },
+    "versions": {
+        "65536": 20230411
+    },
+    "category": [
+        "Training",
+        "Action"
+    ],
+    "intro": "Transform Your Mind & Body",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

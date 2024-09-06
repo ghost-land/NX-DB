@@ -1,4 +1,39 @@
 {
     "id": "0100828019728800",
-    "version": 327680
+    "base_tid": "0100828019728000",
+    "name": "Ein's Sword",
+    "description": "～Story～\nThe Age of the Reign of the Sword Sage.\n\nIn a world where the sword is the only sign of power, everyone was eager to obtain it.\n\nIn the meantime, Ein hears a rumor of a legendary sword.\n\nThe Lost Tower is said to reach to the sky. \nOn the top of it, there is a sword that can make any wish come true.\n\nEin immediately headed for the Lost Tower. \nThe rumors continued. \nNo one who entered the Lost Tower ever returned.\n\nWill Ein be able to obtain the legendary sword?\n\n～About～\nA familiar game system with field battles as the key element.\nThe game design allows the player to gain an advantage as he or she progresses through the stages.\n\nThe game is set in the \"Lost Tower\" with its own dungeons and unique characters.\n\nFirst 3D action game by Infinite Game.\n\nIn Search of the Legendary Sword―",
+    "publisher": "Infinite Game",
+    "developer": null,
+    "base_release_date": 20230216,
+    "first_update_release_date": 20221207,
+    "latest_update_release_date": 20230510,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230510
+    },
+    "versions": {
+        "65536": 20221207,
+        "131072": 20230113,
+        "196608": 20230208,
+        "262144": 20230411,
+        "327680": 20230510
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": "A familiar game system with field battles as the key element.\nFirst 3D action game by Infinite Game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

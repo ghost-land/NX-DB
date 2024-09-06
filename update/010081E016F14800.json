@@ -1,4 +1,35 @@
 {
     "id": "010081E016F14800",
-    "version": 327680
+    "base_tid": "010081E016F14000",
+    "name": "Treasure Temples",
+    "description": "Join two young explorers as they discover the remnants of a long-lost civilization hidden deep beneath the snow. Endless riches await, but the path that leads to them is a challenging one. Floor tiles collapse with every step the explorers take, traps and ancient guardians lie in wait for them and all that glittering gold seems to have caught the eye of something else, something big...\n\nFeatures:\n- Over 140 handcrafted levels of varying difficulties\n- No time constraints, puzzle at your own pace\n- Crumbling floors, deadly traps, undead guardians and other obstacles\n- Duo exploration mode, in which you control two characters\n- Unique treasures at the end of each level pack\n- Charming hand drawn environments\n- Mysterious aquatic life forms, possibly dangerous",
+    "publisher": "GAMEDIA",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20220204,
+    "latest_update_release_date": 20220513,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220513
+    },
+    "versions": {
+        "131072": 20220204,
+        "196608": 20220225,
+        "262144": 20220318,
+        "327680": 20220513
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Puzzle your way through ancient treasure chambers in Antarctica.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

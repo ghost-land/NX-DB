@@ -1,4 +1,36 @@
 {
     "id": "0100820012ADE800",
-    "version": 196608
+    "base_tid": "0100820012ADE000",
+    "name": "Slither Loop",
+    "description": "Slither Loop - draw lines between the dots to form a single loop without crossings or branches. The numbers indicate how many lines surround it.\n\n- 90 challenging puzzles, Easy/Medium/Hard difficulties\n- Beautiful abstract artstyle\n- Chill background music",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20201031,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20210305,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210305
+    },
+    "versions": {
+        "65536": 20201110,
+        "131072": 20201124,
+        "196608": 20210305
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Study"
+    ],
+    "intro": "Tricky brain challenge for everyday!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
