@@ -1,4 +1,39 @@
 {
     "id": "0100401003A0C800",
-    "version": 196608
+    "base_tid": "0100401003A0C000",
+    "name": "Dimension Drive",
+    "description": "This intense space shoot ’em up challenges you to fight across two battlefields on one splitscreen. Instantly switch between them to dodge waves of bullets, reach secret areas, or surprise your enemies. Play solo or turn it up to 11 with a local co-op partner to give your enemies hell when you team up on one screen, or split up to grab as much loot as possible.\n\nUnlock and power up a variety of weapons like the Flak Shotgun - an overpowered beast that blasts ships to atoms at point blank range or the burning wall of space death streaming from the flame-thrower like Plasma Torch. Master advanced techniques like the Drift Drive that lets you dodge bullets in a split second or even flip into Reverse Drive to hit enemies when they least expect it. \n\nFight through a richly detailed sci-fi adventure and unfold the secrets of the Dimension Drives, then climb the global leaderboards in four different difficulty modes ranging from Normal for a balanced challenge to Insane for whoever can take the pain. Still too easy? Step into the 13 zones of the Mirror Dimension in New Game+.\n\nFeatures\n\n- Space shoot 'em up action switching between two battlefields on one splitscreen\n- Play solo or in local co-op\n- 13 levels of story campaign and 13 more in New Game+ mode\n- Online leaderboards and four difficulty modes offer the ultimate challenge\n- Advanced gameplay strategies including Drift and Reverse Drive to test your skill\n- Find secret data cubes to unlock and power-up new weapons like the Flak Shotgun or the Pulse Cannon\n- Unfold the secrets of the Dimension Drives in a rich sci-fi adventure\n- Created by two ex-space engineers",
+    "publisher": "2Awesome Studio",
+    "developer": null,
+    "base_release_date": 20171208,
+    "first_update_release_date": 20171205,
+    "latest_update_release_date": 20180725,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180725
+    },
+    "versions": {
+        "65536": 20171205,
+        "131072": 20180404,
+        "196608": 20180725
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

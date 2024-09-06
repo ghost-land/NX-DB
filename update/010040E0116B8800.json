@@ -1,4 +1,45 @@
 {
     "id": "010040E0116B8800",
-    "version": 458752
+    "base_tid": "010040E0116B8000",
+    "name": "Sonic Colors: Ultimate",
+    "description": "Join Sonic in the high-speed adventure of a lifetime! The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions – but he’s powering it with a captured alien race called “Wisps.” Use Sonic’s lightning speed to free the Wisps and learn the secrets of their amazing powers as you explore six unique colorful worlds, each filled with dangerous enemies and hurdles to overcome. Now with stunning upscaled visuals, additional features, a new game mode, and enhanced gameplay- it's the Ultimate Sonic Colors experience. Sonic will be tested on this exciting journey to free the Wisps - but with their help, and yours, it's a test he'll pass with flying Colors!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210907,
+    "first_update_release_date": 20210723,
+    "latest_update_release_date": 20211215,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20211215
+    },
+    "versions": {
+        "65536": 20210723,
+        "131072": 20210823,
+        "196608": 20210903,
+        "262144": 20210913,
+        "327680": 20211028,
+        "393216": 20211122,
+        "458752": 20211215
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Non-Stop Sonic speed. Color the Universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

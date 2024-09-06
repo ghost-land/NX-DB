@@ -1,4 +1,44 @@
 {
     "id": "010041100CE7E800",
-    "version": 458752
+    "base_tid": "010041100CE7E000",
+    "name": "Lovecraft´s Untold Stories",
+    "description": "Lovecraft’s Untold Stories is an action rogue-lite with RPG elements. You explore randomly generated levels based in H.P. Lovecraft stories, fighting cultists and all kinds of monsters from the Mythos, improving your weapons and gear, solving puzzles and challenges, and looking for clues and knowledge to defeat the Great Old Ones and the Outer Gods.\n\n* Fight hundreds monsters from the Cthulhu Mythos in this intense action roguelite \n* Explore Lovecraft’s stories: every character has a storyline that crosses randomly generated levels set in different locations such as the hospital, the jungle, or Innsmouth to name a few\n* Face the Great Old Ones: Cthulhu, Nyarlathotep, Dagon, Shub-Niggurath, and Azathoth await you\n* Learn about the Mythos to fight them: to have a chance fighting the Great Old Ones you need information about them, or their mere presence will drive you insane\n* Madness awaits: in your adventures you will have to make decisions and taking the wrong ones will shake your sanity. If you go mad you will take your own life\n* Pick your hero: 5 different characters, detective, thief, professor, witch, and ghoul. Each one has a different combat style and skills\n* Collect weapons, items, and artifacts. Each character has a set of weapons and items, and there are hundreds of other items you can find and use!",
+    "publisher": "Fulqrum Publishing",
+    "developer": null,
+    "base_release_date": 20190510,
+    "first_update_release_date": 20190506,
+    "latest_update_release_date": 20190731,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20190731
+    },
+    "versions": {
+        "65536": 20190506,
+        "131072": 20190508,
+        "196608": 20190514,
+        "262144": 20190605,
+        "327680": 20190624,
+        "393216": 20190731,
+        "458752": 20190731
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

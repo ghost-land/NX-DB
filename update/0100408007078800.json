@@ -1,4 +1,39 @@
 {
     "id": "0100408007078800",
-    "version": 65536
+    "base_tid": "0100408007078000",
+    "name": "Tales of the Tiny Planet",
+    "description": "«Tales of the Tiny Planet» tells the story of a Planet searching through the galaxies for his lost friends. You have the ability to manipulate the world elements to guide him safely through the galaxies in this Physics-Puzzle-Adventure. Will the missing planet be behind the next portal? Find out, Beat the high-score or compete with your friends in this new Physics-Puzzle!\n\nOne button controls everything - Think that it's simple?\n\nUse one button to control a group of complex mechanisms. The timing of the button press must be precise to carry the planet through the portal to the next level. Try to beat the levels as fast as possible to collect stars that will unlock more levels. Each world brings new elements, mechanics and surprises. Find out how you can bring all the planet-friends back together!\n\n- Fun 2-Player-Mode\n- 6 lovingly crafted worlds\n- 84 varied levels\n- Stars and stuff\n- Lots of achievements\n- Rankings - to compete and overtake your friends\n- Infinite vastness and endless joy",
+    "publisher": "Pixelsplit",
+    "developer": null,
+    "base_release_date": 20180119,
+    "first_update_release_date": 20180118,
+    "latest_update_release_date": 20180118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180118
+    },
+    "versions": {
+        "65536": 20180118
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Lifestyle",
+        "Party"
+    ],
+    "intro": "One button controls everything - Think that it's simple?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

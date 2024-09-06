@@ -1,4 +1,31 @@
 {
     "id": "010040800BA8A800",
-    "version": 65536
+    "base_tid": "010040800BA8A000",
+    "name": "Box Align",
+    "description": "Discover the power of the Box Align puzzles! \n\nA simple yet challenging Puzzle Game where you put your brain to work while trying to eliminate all the boxes with as few moves as possible.\n\nWhy play Box Align?\n\n- Enhances your Memory and Problem Solving skills by strengthening the existing connections between brain cells, while also establishing new ones;\n- It lightens your mood by increasing the production of dopamine in your brain - Get smarter, feel lighter, feel better!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20221226,
+    "first_update_release_date": 20190817,
+    "latest_update_release_date": 20190817,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190817
+    },
+    "versions": {
+        "65536": 20190817
+    },
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Study"
+    ],
+    "intro": "Relax, have a peaceful moment and boost your brain!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

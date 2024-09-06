@@ -1,4 +1,37 @@
 {
     "id": "010040C01D248800",
-    "version": 65536
+    "base_tid": "010040C01D248000",
+    "name": "The Legend of Heroes: Trails through Daybreak",
+    "description": "The spriggan known as Van Arkride is an underground professional that accepts work from any client and acts as a detective, negotiator or bounty hunter with no allegiance. However, the course of his life will change forever when he takes on a strange case that threatens the entire nation. Slash your way through intense combat that springs to life with beautiful visuals, and craft your own gameplay experience in Calvard with features such as high-speed mode and a new alignment system!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20240705,
+    "first_update_release_date": 20240612,
+    "latest_update_release_date": 20240612,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240612
+    },
+    "versions": {
+        "65536": 20240612
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Between law and chaos lies the dawn of adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010040A00EA26800",
-    "version": 65536
+    "base_tid": "010040A00EA26000",
+    "name": "Taimumari: Complete Edition",
+    "description": "Take control of the Himari, the young female wizard travelling across various ages to settle the balance in time across the whole world! \n\nFeatures:\nVarious levels;\nA lot of abilities to learn;\nHardcore action gameplay, which won't leave you bored;\nControl the time and space!\nAll villains are people just like you: learn what's the reason behind them turning into their current state, or just fight them without further ado;\nCharacter leveling system;\nThree difficulty levels;\nSecret stuff and easter eggs.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20231123,
+    "first_update_release_date": 20191001,
+    "latest_update_release_date": 20191001,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191001
+    },
+    "versions": {
+        "65536": 20191001
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": "Retro-style platform game in keeping with the best traditions of games of our childhood! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

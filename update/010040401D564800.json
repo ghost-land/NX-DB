@@ -1,4 +1,46 @@
 {
     "id": "010040401D564800",
-    "version": 327680
+    "base_tid": "010040401D564000",
+    "name": "MotoGP™24",
+    "description": "Challenge your abilities in MotoGP™, Moto2™ and Moto3™ categories, and immerse yourself in the exhilarating journey of the 2024 campaign. Experience the thrill of official rosters and tracks exclusive to MotoGP™24!\n\nAN UNPREDICTABLE CAREER\nEmbark on your quest to become a MotoGP™ legend and shape your own epic saga. From humble beginnings to triumphant heights, the path is yours to forge. Engage in thrilling rivalries, build your reputation, and leave your mark on the history of your beloved team.\n\nBut wait, there's more! As a new season dawns, the winds of change are sweeping through the pit crews. With the groundbreaking Riders market, riders can now transfer between teams to reshuffle the deck and inject a surge of unpredictability into the competition!\n\nThe MotoGP™ EXPERIENCE\nDid you take a shortcut? Was there irregular contact from the AI? With MotoGP™ Stewards oversight, individuals who misbehave will face consequences. MotoGP™24 raises the stakes for fair play, penalising rule-breakers — no exceptions!\n\nCUSTOMIZABLE GAME\nWhether you're chasing professional thrills or just starting out, MotoGP™24 welcomes you with open arms! With the MotoGP™24 Academy and our neural help system, we've got your back every step of the way. And introducing our newest ally: Adaptive Difficulty. It tailors your gaming experience to your skills and results, ensuring every ride is uniquely yours!\n\nSHOWCASE YOUR STYLE\nElevate your MotoGP™ experience with our four graphic editors: Stickers, Rider Stickers, Numbers, and Helmets. Stand out with a style that's truly yours as you conquer the finish line!",
+    "publisher": "Milestone",
+    "developer": null,
+    "base_release_date": 20240502,
+    "first_update_release_date": 20240404,
+    "latest_update_release_date": 20240805,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240805
+    },
+    "versions": {
+        "65536": 20240404,
+        "131072": 20240510,
+        "196608": 20240603,
+        "262144": 20240704,
+        "327680": 20240805
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "It only happens in MotoGP™24.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

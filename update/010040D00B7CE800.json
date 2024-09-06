@@ -1,4 +1,39 @@
 {
     "id": "010040D00B7CE800",
-    "version": 131072
+    "base_tid": "010040D00B7CE000",
+    "name": "The Swindle",
+    "description": "London, 1849. Scotland Yard will soon activate its breakthrough surveillance technology, 'The Devil's Basilisk'. \nIts surveillance capabilities will be total, and your career as a master thief will be over. \nSteal it, before that can happen.\nFrom the safety of your rickety airship, you can modify your thief with new skills, tools, and all manner of technological horrors to tackle the wealthiest and most secure buildings in London.\nAll the buildings you’ll be robbing are randomly-generated, so you’ll never get the same level twice.\nHave you got what it takes to pull off The Swindle?",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20181012,
+    "first_update_release_date": 20180918,
+    "latest_update_release_date": 20181109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181109
+    },
+    "versions": {
+        "65536": 20180918,
+        "131072": 20181109
+    },
+    "category": [
+        "Platformer",
+        "RPG",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "The Swindle is a steampunk cybercrime caper about breaking into buildings, hacking their systems, stealing all their cash, and quickly running away again before the police show up.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

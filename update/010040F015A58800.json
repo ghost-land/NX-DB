@@ -1,4 +1,35 @@
 {
     "id": "010040F015A58800",
-    "version": 65536
+    "base_tid": "010040F015A58000",
+    "name": "Buissons",
+    "description": "Move when the night is dark and use the day as an opportunity to observe and flush out your opponents. Use the secrets of nature to your advantage and prepare for surprises: each game comes with a new forest of its own. Only one bush will survive... And do not forget to drop a fart from time to time, after all it's a lethal weapon.\n\nYou and your friends will laugh!\n- A unique hide and seek game mixing action, observation and humor.\n- Easy to play, there is only one button to fart. But only the most observants will win!\n- Charming characters and settings, drawn and animated by hand\n- Buissons is a 2 to 4 players competitive local game.\n\nOnly the best will win\n- Each game comes with a new randomly generated forest!\n- 4 ecosystems with their own dangers to master and turn against your opponents.\n- A really quick day and night cycle that makes you act and think under pressure\n- The more you train, the more bushes you can add to a game to increase its difficulty",
+    "publisher": "Seaven Studio",
+    "developer": null,
+    "base_release_date": 20210819,
+    "first_update_release_date": 20210830,
+    "latest_update_release_date": 20210830,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210830
+    },
+    "versions": {
+        "65536": 20210830
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "Take control of a bush and challenge your friends in a hide and seek game up to 4 players.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null
 }

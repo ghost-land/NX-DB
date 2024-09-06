@@ -1,4 +1,36 @@
 {
     "id": "010040701787A800",
-    "version": 65536
+    "base_tid": "010040701787A000",
+    "name": "Pad of Time",
+    "description": "Pad of Time is a classic action-adventure game with a retro aesthetic with a twist! \nIn this game you’re able to use a time machine to swap between past, present, and future of every level.\nEnjoy 4 playable characters, use the time machine to find ancient relics and face though bosses.",
+    "publisher": "Markanime Studios",
+    "developer": null,
+    "base_release_date": 20220413,
+    "first_update_release_date": 20221115,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20221115
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "The time is in your hands",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100402016908800",
-    "version": 131072
+    "base_tid": "0100402016908000",
+    "name": "Baby Storm",
+    "description": "Maintain order, run, clean and feed your way to the highest score, in solo or local multiplayer mode with up to 4 players!\n\nYour mission is to take care of adorable (and sometimes troublemaking) kids in a kindergarten!\n\nYou are equipped with toys for playtime, food for mealtime, wipes, and diapers for you-know-what time, and even a nifty radio-controlled vacuum robot to help you with cleaning. If you’re alone in this task, there are useful power-ups: a Teleporter that lets you move around quickly, and Maracas to distract the kids when they are fighting.\n\nMake sure to complete the babies’ desires on time to avoid making them cry which will reset your score combo! A quick tip: these kids might act tough, but they just need a bit of love and hugs. Just steer clear of the ones who bite!\n\nYour journey will bring you to many different environments with vibrant art and music – visit places all around the world and even time travel! Make your way through clever and original levels, earn loads of points, unlock new stages and features, and encounter special babies with mysterious powers...\n\nShould you succeed in your mission, you’ll become the best babysitter in the universe!\n",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20220122,
+    "first_update_release_date": 20211222,
+    "latest_update_release_date": 20220127,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220127
+    },
+    "versions": {
+        "65536": 20211222,
+        "131072": 20220127
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Watch over unpredictable kids as they unleash chaos in your kindergarten! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null
 }
