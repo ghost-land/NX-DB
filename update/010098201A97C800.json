@@ -1,4 +1,36 @@
 {
     "id": "010098201A97C800",
-    "version": 262144
+    "base_tid": "010098201A97C000",
+    "name": "Wild Dogs",
+    "description": "The world is under a frantic alien attack. Amidst the chaos and with the army virtually subdued, the deadliest and most inconsequential pair of specialists are called upon to do what must be done. Join the war hunting aliens around the world and in every way possible.\n\nGame Features\n\n- 2D platformer with classic and varied mechanics;\n- Shoot in 8 directions;\n- Pilot planes, mecha and everything that is within your reach;\n- Most bizarre and varied boss fights;\n- Rain bullets with varied and powerful shots;\n- Switch between multiple color palettes.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230417,
+    "latest_update_release_date": 20230520,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230520
+    },
+    "versions": {
+        "65536": 20230417,
+        "131072": 20230421,
+        "196608": 20230508,
+        "262144": 20230520
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Hunt the aliens in every way possible!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

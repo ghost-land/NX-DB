@@ -1,4 +1,45 @@
 {
     "id": "010096F00FF22800",
-    "version": 131072
+    "base_tid": "010096F00FF22000",
+    "name": "Borderlands: The Handsome Collection",
+    "description": "Shoot and loot as you explore the mayhem-filled world of Pandora in Borderlands 2 and the lunar madness of Borderlands: The Pre-Sequel in Borderlands: The Handsome Collection. Experience the award-winning FPS-RPG series, including its bazillions of guns, trademark cooperative gameplay, and piles of bonus add-on content.\nBorderlands: The Handsome Collection includes:\n• The critically acclaimed BORDERLANDS 2 and BORDERLANDS: THE PRE-SEQUEL games in one package.\n\n• Piles of bonus add-on content for both games, adding 100+ hours of gameplay at an incredible value*\n\n• Cooperative gameplay for up to four players online.\n",
+    "publisher": "2K",
+    "developer": null,
+    "base_release_date": 20200529,
+    "first_update_release_date": 20201102,
+    "latest_update_release_date": 20201202,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201202
+    },
+    "versions": {
+        "65536": 20201102,
+        "131072": 20201202
+    },
+    "category": [
+        "First-Person Shooter",
+        "RPG",
+        "Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Language",
+        "Sexual Themes",
+        "Use of Alcohol",
+        "Users Interact"
+    ],
+    "region": null
 }

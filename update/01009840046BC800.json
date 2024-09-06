@@ -1,4 +1,42 @@
 {
     "id": "01009840046BC800",
-    "version": 65536
+    "base_tid": "01009840046BC000",
+    "name": "Semispheres",
+    "description": "Semispheres is a meditative parallel puzzle game that places dual realities at the heart of its challenge.\n\nIts unique single-player split-screen mechanic challenges your brain by putting you in control of two characters at the same time. \n\nYour left and right side must work together to unfold the mystery by solving clever puzzles in an entrancing ambience.\n\nUsing portals and other abilities to avoid sentries, devise and execute your plan, reuniting the parallel worlds of Semispheres.\n\nKey Features:\n - More than 50 levels, each building on top of each other, culminating with fiendishly complex puzzles\n - Stealth-inspired gameplay, including abilities like noise-makers, portals, side-swapping, teleporting and more\n - Immersive ambient soundtrack by Sid Barnhoorn, composer for Antichamber, The Stanley Parable and Out There\n - Mesmerizing and soothing bichromatic art style comprised of warm blues and oranges\n - A heartwarming story about a boy and his robot, unfolding in parallel with the puzzle progression\n",
+    "publisher": "Vivid Helix",
+    "developer": null,
+    "base_release_date": 20170914,
+    "first_update_release_date": 20171117,
+    "latest_update_release_date": 20171117,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171117
+    },
+    "versions": {
+        "65536": 20171117
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

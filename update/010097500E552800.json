@@ -1,4 +1,39 @@
 {
     "id": "010097500E552800",
-    "version": 131072
+    "base_tid": "010097500E552000",
+    "name": "March to a Million",
+    "description": "Become the boss of a talent agency in this management simulation game!\nHire up-and-coming unique talent by advertising and scouting!\n\nStart by deciding on a record company. Give your new artists lessons and steady training, and if they can dazzle the judges in the auditions, they'll get the chance to debut as a professional singer!\n\nOnce they've debuted, hold events and jobs around the country, produce albums and have them interact with fans at concerts to raise their popularity! If they get famous, they might even be able to guest star on popular TV shows!\n\nAs their fans increase, you'll get access to more jobs and sell more albums and merchandise! Build a wide fanbase and aim for the prestigious music prizes from each record company!\n\nWhat are you waiting for? It's time to go for the greatest prize in show business, the Million Award! The March to a Million begins now!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20191205,
+    "first_update_release_date": 20210524,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20210524,
+        "131072": 20230322
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Run a music talent agency and\nmake platinum-selling records!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

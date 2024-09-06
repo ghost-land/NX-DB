@@ -1,4 +1,40 @@
 {
     "id": "010097800EA20800",
-    "version": 196608
+    "base_tid": "010097800EA20000",
+    "name": "Monster Energy Supercross - The Official Videogame 3",
+    "description": "The only Official Monster Energy AMA Supercross Championship videogame is back!\n\nRelive the 2019 Supercross season with 100 riders of both 450SX and 250SX categories, 15 official stadiums and tracks and for the first time in the series you'll be able to join the official teams in the career mode.\n\nEnjoy an amazing Co-op experience with your friends in the brand new compound!\n\nCreate, share and download an infinite number of tracks with the track editor!\n\nRace as a female rider to become the next Supercross champion!\n\nNew ground and in-air physics, new rider models and new animations will give you a more immersive experience to enjoy the Supercross world at its best!",
+    "publisher": "Milestone",
+    "developer": null,
+    "base_release_date": 20220318,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20200524,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200524
+    },
+    "versions": {
+        "65536": 20200130,
+        "131072": 20200310,
+        "196608": 20200524
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

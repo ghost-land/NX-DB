@@ -1,4 +1,36 @@
 {
     "id": "0100984013406800",
-    "version": 65536
+    "base_tid": "0100984013406000",
+    "name": "Girl Genius: Adventures In Castle Heterodyne",
+    "description": "Action, Romance and MAD SCIENCE! Discover the award winning, gaslamp fantasy world of Girl Genius™! Experience Agatha Heterodyne's story, as she navigates the hostile hallways, catacombs and kitchens of her ancestral home, Castle Heterodyne.",
+    "publisher": "Rain",
+    "developer": null,
+    "base_release_date": 20240403,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Fighting"
+    ],
+    "intro": "A fabulous Action Adventure game based on the wonderful graphic novel series, Girl Genius™, by authors Phil & Kaja Foglio.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

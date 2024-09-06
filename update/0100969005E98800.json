@@ -1,4 +1,45 @@
 {
     "id": "0100969005E98800",
-    "version": 262144
+    "base_tid": "0100969005E98000",
+    "name": "60 Seconds!",
+    "description": "60 Seconds! is a dark comedy atomic adventure of scavenge and survival. Collect supplies and rescue your family before the nuke hits. Stay alive in your fallout shelter. Make difficult decisions, ration food and hunt mutant cockroaches. And maybe survive. Or not.",
+    "publisher": "Robot Gentleman",
+    "developer": null,
+    "base_release_date": 20171219,
+    "first_update_release_date": 20180206,
+    "latest_update_release_date": 20200923,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200923
+    },
+    "versions": {
+        "65536": 20180206,
+        "131072": 20181217,
+        "196608": 20190108,
+        "262144": 20200923
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Oh no! It's the nuclear bomb alarm!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }

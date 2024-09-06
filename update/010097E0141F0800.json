@@ -1,4 +1,33 @@
 {
     "id": "010097E0141F0800",
-    "version": 65536
+    "base_tid": "010097E0141F0000",
+    "name": "#1 Crosswords",
+    "description": "Are you a fan of crosswords? Do you enjoy spending time solving challenging word puzzles? #1 Crosswords is the game for you!\n\nIn #1 Crosswords you'll find a story mode with 100 crossword puzzles to solve for all difficulty levels. On top of that you can always play the daily crossword, which is the same for everyone in the world, and as many random crosswords as you want.\n\nA game made from crossword fans for crossword fans!",
+    "publisher": "Eclipse Games",
+    "developer": null,
+    "base_release_date": 20210220,
+    "first_update_release_date": 20210525,
+    "latest_update_release_date": 20210525,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210525
+    },
+    "versions": {
+        "65536": 20210525
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "World's Best Crosswords Game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

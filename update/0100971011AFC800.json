@@ -1,4 +1,32 @@
 {
     "id": "0100971011AFC800",
-    "version": 196608
+    "base_tid": "0100971011AFC000",
+    "name": "Krystopia: A Puzzle Journey",
+    "description": "Krystopia is an escape room game that challenges and captivates you with intriguing laser puzzles, robots and hidden objects. Follow Nova Dune, a space explorer in her quest to find out about the unfamiliar distress signal she received aboard her ship. Determined to investigate it, she finds herself on a desolated planet where all civilization has vanished.\n\nFeatures\n\n- Elaborate Puzzles\n- Immersive Gameplay\n- Exploration\n- Ambient Story\n- Voiceover Narrative",
+    "publisher": "GODSPEED GAMES",
+    "developer": null,
+    "base_release_date": 20210325,
+    "first_update_release_date": 20210414,
+    "latest_update_release_date": 20210414,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210414
+    },
+    "versions": {
+        "196608": 20210414
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Solve puzzles and unwrap the mystery that lies in the beautiful universe of Krystopia.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour"
+    ],
+    "region": null
 }

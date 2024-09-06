@@ -1,4 +1,56 @@
 {
     "id": "0100981019D9E800",
-    "version": 655360
+    "base_tid": "0100981019D9E000",
+    "name": "Omega Strikers",
+    "description": "Smash opponents off the arena and score goals in this lightning-fast 3v3 footbrawler. Sling slimes, toss tofu, and rocket boost to victory as one of 15+ stylish Strikers. Squad up with friends and outplay your rivals to become an Omega Striker. \n\nNo Match the Same\nBlast, bounce, and bullrush opponents into hectic and electric map hazards. Sprint at breakneck speed on the Super Surge map, or grow to enormous size with the Gigantify game buff. \n\nPlay Your Way\nEarn credits to unlock powerful new Strikers, each with unique abilities. Create your custom playstyle with Trainings, then upgrade your look with skins and emotes.\n\nBig Seasonal Updates\nOmega Strikers will continually evolve as each new season adds new Strikers, additional stages, fresh unlockables, and more ways to play.\n\nSome content shown may require separate purchase from the in-game store and is subject to availability. Contains in-game purchases.",
+    "publisher": "Odyssey Interactive",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20230429,
+    "latest_update_release_date": 20240704,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240704
+    },
+    "versions": {
+        "65536": 20230429,
+        "131072": 20230520,
+        "196608": 20230613,
+        "262144": 20230714,
+        "327680": 20230824,
+        "393216": 20231019,
+        "458752": 20231130,
+        "524288": 20240214,
+        "589824": 20240412,
+        "655360": 20240704
+    },
+    "category": [
+        "Action",
+        "Strategy",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Join the footbrawl!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

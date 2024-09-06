@@ -1,4 +1,36 @@
 {
     "id": "010097701FCE2800",
-    "version": 65536
+    "base_tid": "010097701FCE2000",
+    "name": "Kanna Maze",
+    "description": "\"Through two doors at once.\"\n\n▼About\nThis is a sci-fi mystery visual novel game. Each decision you make not only shapes your destiny but also peels back layers of hidden truths. Assemble the fragments of reality scattered across various outcomes to reconstruct the complete narrative. Dare to unravel the mysteries—your choices are the key to revealing the full spectrum of secrets.\n\n▼Story\nPlunged into the depths of despair, Haryuu Ryoushi finds himself compelled by dire circumstances to a hidden underground research facility. There, he encounters Kosakai Mio, his childhood friend thought dead for nearly a decade. As fragments of a forgotten summer surge through his memory, Ryoushi is thrust into a bewildering puzzle.\nThe uncanny revival of a long-lost friend, the unsettling bend of time, and a sequence of chilling murders within this isolated enclave... Ryoushi is forced to navigate through this maze of mysteries, seeking clues that might unravel his twisted fate.\nConfined spaces and impenetrable locks, a chain of unexplained deaths; the bending of space-time, quantum entanglements, and experiments that challenge reality itself. Prepare for the science fiction mystery you've been longing for.\n\n▼Features\nClear script structure, refined narrative, multi-round unlocking mechanism, blue silhouettes...\nA return to origins, paying tribute to the classic form of visual novels.",
+    "publisher": "Zhiyi",
+    "developer": null,
+    "base_release_date": 20240808,
+    "first_update_release_date": 20240815,
+    "latest_update_release_date": 20240815,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240815
+    },
+    "versions": {
+        "65536": 20240815
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "In a godless abyss, parallel worlds entwine like a maze. Where does one find the path to the sole universe of bliss?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

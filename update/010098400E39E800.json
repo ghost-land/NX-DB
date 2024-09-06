@@ -1,4 +1,34 @@
 {
     "id": "010098400E39E800",
-    "version": 65536
+    "base_tid": "010098400E39E000",
+    "name": "Vektor Wars",
+    "description": "Welcome to an 80’s neon future inspired first-person cyber shooter.\nThe year is 2024 and you are Commander James Moses, a Space Ranger. Your mission: destroy the robot death army, rescue the Robodudes and save the world!\nSelect your weapon and use your skills to face down a tidal wave of rogue robots in this retro homage to classic Arcade shooters. Frantic gameplay, an array of loud and destructive weaponry - you must cheat death at every turn!\n-Arcade shooter gameplay; where the only things that matter are your game skills and the high-score table!\n- Fast-paced First Person Combat \n- A neon-drenched vector world unlike any other \n- An armoury of loud and heavy weapons \n- 9 World Zones to liberate, all with their own unique environments and enemies to annihilate \n- A wonderful original soundtrack \n",
+    "publisher": "Super Icon",
+    "developer": null,
+    "base_release_date": 20190711,
+    "first_update_release_date": 20190718,
+    "latest_update_release_date": 20190718,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190718
+    },
+    "versions": {
+        "65536": 20190718
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "intro": "Certified 100% pure arcade action, rendered in eye-melting neon vectors, Vektor Wars is classic first-person blasting for the shooter connoisseur.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "010097D006DEA800",
-    "version": 196608
+    "base_tid": "010097D006DEA000",
+    "name": "Pikuniku",
+    "description": "Help peculiar characters overcome struggles, uncover a deep state conspiracy, and start a fun little revolution in this delightful dystopian adventure!\n\nA Vibrant Adventure for All: Explore a colorful world at your own pace, help quirky characters with their unusual requests, and solve clever puzzles that will challenge both kids and adults.\n\nCharming Cast: Meet a cast of memorable characters on your journey, each with their own problems and eccentricities to accommodate along the way.\n\nCooperative Mode: Join up with family and friends for local multiplayer fun in custom cooperative levels and challenges.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20190107,
+    "latest_update_release_date": 20210104,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210104
+    },
+    "versions": {
+        "65536": 20190107,
+        "131072": 20190214,
+        "196608": 20210104
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Multiplayer",
+        "Puzzle"
+    ],
+    "intro": "Pikuniku is an absurdly wonderful puzzle-exploration game that takes place in a strange but playful world where not everything is as happy as it seems. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

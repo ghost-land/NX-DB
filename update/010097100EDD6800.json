@@ -1,4 +1,46 @@
 {
     "id": "010097100EDD6800",
-    "version": 262144
+    "base_tid": "010097100EDD6000",
+    "name": "Little Nightmares II",
+    "description": "Return to a world of charming horror in Little Nightmares II, a suspense adventure game in which you play as Mono, a young boy trapped in a world that has been distorted by the humming transmission of a distant tower.\n\nWith Six, the girl in the yellow raincoat, as his guide, Mono sets out to discover the dark secrets of The Signal Tower. Their journey won't be easy; Mono and Six will face a host of new threats from the terrible residents of this world.\n\nWill you dare to face this collection of new, little nightmares?",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20210120,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20210120,
+        "131072": 20210201,
+        "196608": 20210317,
+        "262144": 20210527
+    },
+    "category": [
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

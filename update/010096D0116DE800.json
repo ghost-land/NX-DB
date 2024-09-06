@@ -1,4 +1,41 @@
 {
     "id": "010096D0116DE800",
-    "version": 327680
+    "base_tid": "010096D0116DE000",
+    "name": "Sagrada",
+    "description": "Bring your stained glass masterpiece to dazzling digital life in Sagrada, the dice-drafting board game from Floodgate Games.\nTake turns selecting colorful dice and placing them in your gorgeous stained-glass window. The artisan who creates the most beautiful window wins.\nChoose your dice carefully!\nFind the perfect fit for each piece of your window: restrictions on both the color and number showing on your die make for a puzzling challenge.\nUse your tools!\nAs a master artisan, your tools-of-the-trade will help you shape the dice available.\nPlease your admirers!\nAdapt to the fickle demands of your patrons -- while keeping your signature artistic flair -- for additional prestige.",
+    "publisher": "Dire Wolf Digital",
+    "developer": null,
+    "base_release_date": 20200730,
+    "first_update_release_date": 20200820,
+    "latest_update_release_date": 20220627,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220627
+    },
+    "versions": {
+        "65536": 20200820,
+        "131072": 20200908,
+        "196608": 20210818,
+        "262144": 20220617,
+        "327680": 20220627
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": "A game of dice drafting and window crafting.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

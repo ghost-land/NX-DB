@@ -1,4 +1,32 @@
 {
     "id": "010096900A4D2800",
-    "version": 65536
+    "base_tid": "010096900A4D2000",
+    "name": "Clustertruck",
+    "description": "Clustertruck is a new kind of platformer on top of a speeding highway!\n\nUse agility and acrobatics through insane levels in a game of \"the floor is lava\" on top of unpredictable, speeding trucks!\n\nThe game only gets harder when dangers such as swinging hammers, lasers and flamethrowers are added!\n\nUnlock new abilities like the Grappling Hook, Truck Cannon and Time-Control!",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20211220,
+    "first_update_release_date": 20180327,
+    "latest_update_release_date": 20180327,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180327
+    },
+    "versions": {
+        "65536": 20180327
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }
