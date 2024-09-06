@@ -1,4 +1,47 @@
 {
     "id": "0100C030124E8800",
-    "version": 196608
+    "base_tid": "0100C030124E8000",
+    "name": "Johnny Rocket",
+    "description": "In this game, your main goal is to help Johnny Rocket fight “Evil Forces.” To do that, you can run, jump, double jump, shoot enemies. Don’t forget about Johnny's secret movement - destroy obstacles or enemies with his head All levels are unique and have a big variety of enemies. Boss fights are tough, bet you break your controller trying to defeat any of them! After each boss fight you get rewarded with a comic cartoon movie telling you more about Johnny's adventure. Game is hilarious and has a lot of toilet humour, don't forget to collect the paper!\n\nJohnny Rocket gameplay is made of action platforming, stylised as a free-hand black and white cartoon. Cartoon world feels alive and you can destroy buildings. You get to see a funny cartoon cut scene in between levels!\n",
+    "publisher": "Restless Corp",
+    "developer": null,
+    "base_release_date": 20201016,
+    "first_update_release_date": 20201013,
+    "latest_update_release_date": 20201207,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201207
+    },
+    "versions": {
+        "65536": 20201013,
+        "131072": 20201019,
+        "196608": 20201207
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "intro": "“Johnny Rocket” is a 2D comic adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

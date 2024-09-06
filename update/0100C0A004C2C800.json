@@ -1,4 +1,39 @@
 {
     "id": "0100C0A004C2C800",
-    "version": 65536
+    "base_tid": "0100C0A004C2C000",
+    "name": "Kid Tripp",
+    "description": "Kid Tripp has crashed on a mysterious island and now the local wildlife is out to ruin his day. Run and jump your way through 20 levels of intense platforming madness in this tough-as-nails platformer! Have you got what it takes to help Kid Tripp escape?\n\nFeatures:\nSuper challenging, fast paced platforming action.\nSilky smooth 60 frames per second.\nTwenty levels, four awesome worlds.\nSuper cute pixel art by Mike Burns.\nOld school soundtrack from Chris Kukla.\nOptional challenges to test players' skills to the max.",
+    "publisher": "Four Horses",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20180412,
+    "latest_update_release_date": 20180412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180412
+    },
+    "versions": {
+        "65536": 20180412
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "fr",
+        "en",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100C1500DBDE800",
-    "version": 131072
+    "base_tid": "0100C1500DBDE000",
+    "name": "Alien Escape",
+    "description": "After a crash landing on earth, the alien friends were taken prisoner in a cruel castle.\nBut now it's time to break out!!\n\nWith your ability to change gravity, you're going on a rotating adventure with over 70 rooms of puzzle fun!\nThe goal is simple: Collect the key and get back to the door - BUT BE CAREFUL, a lot of traps are blocking your way out.\nTake the right steps and be careful when changing your gravity - because, who knows what else might be influenced by gravity...\n\nSave your friends and at the end of everything, defeat the evil wizard!\n\nFeatures:\n- Play the adventure with up to 4 players at the same time\n- Extra 2 player Puzzle Mode\n- Over 70 levels of puzzle fun\n- Unlock new characters during the game\n- Special in-game surprises when you reach 100%\n- Innovative gameplay and puzzle design\n- Fun for all ages",
+    "publisher": "KORION",
+    "developer": null,
+    "base_release_date": 20190712,
+    "first_update_release_date": 20190723,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20190723,
+        "131072": 20211012
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "A unique puzzle adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

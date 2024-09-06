@@ -1,4 +1,40 @@
 {
     "id": "0100C1700A9F0800",
-    "version": 131072
+    "base_tid": "0100C1700A9F0000",
+    "name": "Streets of Red - Devil's Dare Deluxe",
+    "description": "In Streets of Red: Devil's Dare Deluxe, the only thing scarier than being eaten alive is running out of quarters! A permadeath multiplayer horror beat'em up that bestows players with the skills of retro gaming heroes in a fight against a legion of undead monstrosities. \nStreets of Red was designed to be played over and over again, with each run offering up the potential for new content. Six unique playable characters and an ever-growing level selection work to keep the gameplay from getting old and rotten, while the easy to learn but hard to master combat system allows for plenty of depth. \nWith every kill, you earn cash that can be spent on upgrades, or to revive yourself when you die. You better learn how to make cash fast and spend it smart in Streets of Red because when you're dead, your save data dies with you. The chills, thrills, bills, and opportunity to learn new skills here won't stop until every street runs red with blood! Are you up for the challenge of an anti-lifetime?",
+    "publisher": "Secret Base",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20181030,
+    "latest_update_release_date": 20190930,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190930
+    },
+    "versions": {
+        "65536": 20181030,
+        "131072": 20190930
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Party",
+        "Action"
+    ],
+    "intro": "VIDEO GAMES vs HORROR MOVIES",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

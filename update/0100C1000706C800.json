@@ -1,4 +1,41 @@
 {
     "id": "0100C1000706C800",
-    "version": 131072
+    "base_tid": "0100C1000706C000",
+    "name": "Blossom Tales: The Sleeping King",
+    "description": "Explore a vast open game world in classic action-adventure fashion as Lily, Knight of the Rose! \nSlash your way through monster-infested dungeons to save the Kingdom of Blossom from eternal darkness. Collect unique weapons, spells and items during your journey to take down powerful bosses and solve clever puzzles. Be part of a vivid, dynamic story passed down from grandfather to grandchildren by influencing the course of events yourself!\n\nHARDCOREGAMER:\n..'A perfect title for anyone who wants to recapture the sense of discovery felt while playing through A Link to the Past for the first time.'\n\nFeatures:\n\n- 15+ hours of gameplay\n- HD Rumble support\n- Huge, diverse game world with many different locations\n- 5 challenging dungeons \n- Various items impacting gameplay and fighting style\n- Fun, charming storytelling",
+    "publisher": "FDG Entertainment",
+    "developer": null,
+    "base_release_date": 20171221,
+    "first_update_release_date": 20180404,
+    "latest_update_release_date": 20190215,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190215
+    },
+    "versions": {
+        "65536": 20180404,
+        "131072": 20190215
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Explore an enchanted world in classic action-adventure fashion.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

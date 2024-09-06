@@ -1,4 +1,46 @@
 {
     "id": "0100C090153B4800",
-    "version": 589824
+    "base_tid": "0100C090153B4000",
+    "name": "Crunchyroll",
+    "description": "Watch over 1,000 titles in a variety of languages! This includes newer hits like Demon Slayer: Kimetsu no Yaiba, JUJUTSU KAISEN, My Hero Academia, and Tokyo Revengers. We’ve also got the classics—One Piece, Naruto Shippuden, Hunter x Hunter, JoJo's Bizarre Adventure, and more! Plus, don’t miss our critically acclaimed Crunchyroll Originals.\n\nWant to upgrade your experience? Try Crunchyroll Premium FREE for 14 days! Get great perks like:\n• No ads\n• New episodes same day as Japan\n• Offline viewing\n\nOffline viewing files are large, so we recommend using a microSD™ card with this software for the best experience.",
+    "publisher": "Crunchyroll",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20220419,
+    "latest_update_release_date": 20240618,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240618
+    },
+    "versions": {
+        "65536": 20220419,
+        "131072": 20220621,
+        "196608": 20220915,
+        "262144": 20230109,
+        "327680": 20230411,
+        "393216": 20230714,
+        "458752": 20231206,
+        "524288": 20240513,
+        "589824": 20240618
+    },
+    "category": [
+        "Video"
+    ],
+    "intro": "Enjoy a world of anime on Crunchyroll",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Diverse Content:  Discretion Advised",
+        "In-App Purchases"
+    ],
+    "region": null
 }

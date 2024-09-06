@@ -1,4 +1,38 @@
 {
     "id": "0100C0F0020E8800",
-    "version": 327680
+    "base_tid": "0100C0F0020E8000",
+    "name": "Snake Pass",
+    "description": "When the tranquility of Haven Tor is interrupted by a mysterious interloper only the unlikeliest of heroes can save the day! Meet Noodle the Snake and his hyperactive best friend, Doodle the Hummingbird, who together must re-unite the missing Keystones with the magical gates that give Haven Tor its mythical power. \n\nA unique, physics based puzzle platform game, Snake Pass challenges players to 'think like a snake' as they tackle precarious puzzles as only a snake can. Slither through long grass, coil around bamboo and climb out of trouble in the latest game from award winning independent studio Sumo Digital!\n\n•\t15 brain bending, snake charming levels\n•\tMaster Noodle’s one-of-a-kind abilities\n•\tA brand-new soundtrack from fan favourite composer David Wise\n•\tUnlock Time Trial mode and compete to be the slickest slitherer in the world\n•\tIncludes the brand-new Arcade mode!",
+    "publisher": "Secret Mode",
+    "developer": null,
+    "base_release_date": 20220801,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20180326,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20180326
+    },
+    "versions": {
+        "1": 20170814,
+        "196608": 20170814,
+        "327680": 20180326
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "THINK LIKE A SNAKE! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100C0501D712800",
-    "version": 131072
+    "base_tid": "0100C0501D712000",
+    "name": "Stick to the Plan",
+    "description": "Stick to the Plan is a cozy and soothing puzzle game that takes you on a journey with Roberto, as he embarks on a quest to get the perfect stick along the way.\n\nThe game is simple: avoid obstacles and chart a path towards the goal. But beware, it's not as easy as it appears. And don't forget to grab your stick!\n\nIntuitive and accessible controls: move, rotate, pick up & drop your stick in order to solve puzzles.\n\nSolve about 70 precious levels, each one with its own set of challenges and surprises.\n\nImmerse yourself in beautiful 3D worlds that have been crafted focusing on detail and enjoy an environmental OST that enhances the experience.\n\nAccesibility options like outlines for Roberto and the sticks, so everyone can play!\n\nEnjoy the lovely hand-drawn menus and level selectors while you explore 5 unique worlds\n\nUncover the heartwarming story of Roberto through illustrated vignettes, and discover the reason behind his quest for the perfect stick.",
+    "publisher": "SpaceJazz Games",
+    "developer": null,
+    "base_release_date": 20240530,
+    "first_update_release_date": 20240529,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20240529,
+        "131072": 20240613
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "In this game you can't pet the dog... because YOU are the dog! A relaxing and charming puzzle game about Roberto, a dog who really loves loooooooong sticks with a plan in mind.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

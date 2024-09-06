@@ -1,4 +1,35 @@
 {
     "id": "0100C1200D60C800",
-    "version": 131072
+    "base_tid": "0100C1200D60C000",
+    "name": "Undead's Building",
+    "description": "Operate an elevator in a zombie invested apartment where the undead wander the hallways! Use the security monitors to check each floor and then move between floors as quickly as possible to pick up survivors. Delay and the undead will eat them before you get there.\n\nTough decisions await! Will you abandon one person to help three on another floor? Or try to rescue them all? Quick thinking and fast controls are required to rescue as many people as possible!\n\nTo potential future residents:\nThis is a high quality property, fully furnished, with no deposit required and free rent.\nHowever, zombies roam the corridors so please be careful when you leave your apartment.",
+    "publisher": "DOUBLE DRIVE GAMES",
+    "developer": null,
+    "base_release_date": 20190328,
+    "first_update_release_date": 20190320,
+    "latest_update_release_date": 20190515,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190515
+    },
+    "versions": {
+        "65536": 20190320,
+        "131072": 20190515
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Rescue the residents of a zombie\ninfected apartment by operating an elevator!\nThe lives of the residents are in your hands!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100C13012F8E800",
-    "version": 65536
+    "base_tid": "0100C13012F8E000",
+    "name": "The Legend Of The Blue Warrior",
+    "description": "Aphrodite has been kidnapped by the evil army. Everything seems to be lost, but there is still hope. After several years fighting around the word, Popolon returns to the kingdom to rest and heal the wounds received in the battles, but upon arrival, he discovers that the Kingdom has been destroyed and Aphrodite kidnapped.\nOnly he can rescue her and free the Kingdom by the demons.\nJoin Popolon in an incredible adventure that will take you through the Demon Lands in search of the goddess Aphrodite. Fight against all kinds of monsters and collect incredible weapons to defend yourself. Live an epic adventure full of courage and bravery.",
+    "publisher": "Vikalb",
+    "developer": null,
+    "base_release_date": 20201002,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20201021,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201021
+    },
+    "versions": {
+        "65536": 20201021
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Join Popolon in an incredible adventure that will take you through the Demon Lands in search of the goddess Aphrodite.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }
