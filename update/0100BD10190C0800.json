@@ -1,4 +1,46 @@
 {
     "id": "0100BD10190C0800",
-    "version": 589824
+    "base_tid": "0100BD10190C0000",
+    "name": "AEW: Fight Forever",
+    "description": "Developed by YUKE’S Co., Ltd., creators of numerous, multi-million unit selling wrestling games, AEW: Fight Forever combines arcade-wrestling game feel with innovative All Elite Wrestling finishers and tandem offensive moves. The All Elite Wrestling promotion is currently taking TNT and TBS networks by storm every week with their Rampage and Dynamite shows, featuring some of the biggest legends to enter the ring plus a stable of brand new, high-flying, AEW talent. AEW: Fight Forever brings more than 50 of the best of the best from that talent roster together in one game! Online co-op wrestling is going completely next level in Fight Forever with Tag Team matches that feature sequences of team maneuvers performed with simple commands. More than 10 different game modes, including Unsanctioned Lights Out and Falls Count Anywhere PLUS more than 40 weapons, deep customization, career mode, and mini-games all await in AEW: Fight Forever!",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20230629,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20230621,
+        "131072": 20230714,
+        "262144": 20230824,
+        "327680": 20230921,
+        "393216": 20231101,
+        "458752": 20231222,
+        "524288": 20240214,
+        "589824": 20240510
+    },
+    "category": [
+        "Sports",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

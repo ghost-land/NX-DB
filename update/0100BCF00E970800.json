@@ -1,4 +1,35 @@
 {
     "id": "0100BCF00E970800",
-    "version": 65536
+    "base_tid": "0100BCF00E970000",
+    "name": "The Vanishing of Ethan Carter",
+    "description": "You play the game as Paul Prospero, an occult-minded detective who receives a disturbing letter from Ethan Carter. Realizing the boy is in grave danger, Paul arrives at Ethan’s home of Red Creek Valley, where things turn out to be even worse than he imagined. Ethan has vanished in the wake of a brutal murder, which Paul quickly discerns might not be the only local murder worth looking into.\n\nInspired by the weird fiction and other tales of the macabre from the early twentieth century, The Vanishing of Ethan Carter aims to significantly evolve immersive storytelling in games. While it features a private detective and quite a few mental challenges, The Vanishing of Ethan Carter’s focus is on atmosphere, mood, and the essential humanity of our characters.",
+    "publisher": "The Astronauts",
+    "developer": null,
+    "base_release_date": 20190815,
+    "first_update_release_date": 20190917,
+    "latest_update_release_date": 20190917,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190917
+    },
+    "versions": {
+        "65536": 20190917
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The Vanishing of Ethan Carter is a first-person story-driven mystery game focused on exploration and discovery.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "High Impact Violence"
+    ],
+    "region": null
 }

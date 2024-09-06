@@ -1,4 +1,35 @@
 {
     "id": "0100BD800DFA6800",
-    "version": 131072
+    "base_tid": "0100BD800DFA6000",
+    "name": "Greedroid",
+    "description": "Take control of the robot \"IB\" and explore the dungeon!\nRogue-like dungeons change shape and form every time you dive in them.\nDefeat enemies and dig blocks to get to the door to the next floor.\n\nIB can lift any block or trap and throw it at you.\nYou can use the surrounding terrain to fight off enemies from a distance!",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20200511,
+    "first_update_release_date": 20200601,
+    "latest_update_release_date": 20200612,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200612
+    },
+    "versions": {
+        "65536": 20200601,
+        "131072": 20200612
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Greed Gear is said to make any dream come true.\nTo make her dreams come true, the robot \"IB\" explores the dungeon!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

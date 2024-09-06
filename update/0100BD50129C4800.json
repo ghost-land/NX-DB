@@ -1,4 +1,33 @@
 {
     "id": "0100BD50129C4800",
-    "version": 65536
+    "base_tid": "0100BD50129C4000",
+    "name": "Super Space Serpent Secondary Edition",
+    "description": "Super Space Serpent Secondary Edition is a Twin Stick shooter in the style that fits your favorite era. Let the retro neon effects and futuristic soundtrack put you in a zone like only the arcade games of the 80's could. Try to beat the handcrafted levels with ever changing enemies from distant worlds while using an arsenal of weapons and upgrades.",
+    "publisher": "VerenigdeProducties",
+    "developer": null,
+    "base_release_date": 20201207,
+    "first_update_release_date": 20220602,
+    "latest_update_release_date": 20220602,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220602
+    },
+    "versions": {
+        "65536": 20220602
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

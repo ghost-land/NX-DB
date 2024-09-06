@@ -1,4 +1,39 @@
 {
     "id": "0100BD100FFBE800",
-    "version": 262144
+    "base_tid": "0100BD100FFBE000",
+    "name": "STAR WARS™ Episode I Racer",
+    "description": "The fan-favorite racer is back featuring motion controls!\n\nTake control of a podracer speeding through flaming methane lakes, Tusken Raider assaults, anti-gravity tunnels, and much more in a pulse-pounding, do-or-die fight to the finish line.\n\nKey Features:\n\n■\tChoose from 25 playable racers including: Anakin Skywalker, Sebulba, and Ratts Tyerell\n■\tRace tracks spanning 8 unique worlds including: Tatooine, Baroonda, and Malastare\n■\tWork with Pit Droids to upgrade your podracer for higher top speeds and acceleration\n■\tDiscover short-cuts and secrets to master your lap times.\n",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20200626,
+    "latest_update_release_date": 20220318,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220318
+    },
+    "versions": {
+        "65536": 20200626,
+        "131072": 20200804,
+        "196608": 20210602,
+        "262144": 20220318
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": "Two Engines. One Champion. No Limits.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

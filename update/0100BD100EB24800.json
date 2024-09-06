@@ -1,4 +1,26 @@
 {
     "id": "0100BD100EB24800",
-    "version": 131072
+    "base_tid": "0100BD100EB24000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20200404,
+    "latest_update_release_date": 20200424,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200424
+    },
+    "versions": {
+        "65536": 20200404,
+        "131072": 20200424
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }

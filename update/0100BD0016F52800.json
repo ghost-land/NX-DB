@@ -1,4 +1,35 @@
 {
     "id": "0100BD0016F52800",
-    "version": 65536
+    "base_tid": "0100BD0016F52000",
+    "name": "로그북 (Roguebook)",
+    "description": "Magic: The Gathering™을 만든 Richard Garfield와 페어리아 개발진의 독특한 메커니즘으로 진행되는 로그라이크 덱 빌더에 도전하세요. 두 영웅으로 구성된 팀을 만들어 강력한 콤보를 발휘하고 로그북의 전설에게 승리하세요!\n\n* 전설적인 영웅 – 각각 고유한 카드와 능력을 지닌 두 영웅으로 구성된 팀을 만드세요. 두 영웅의 힘을 합쳐 40명이 넘는 보스와 적을 물리쳐야 합니다. \n* 플레이하며 구성하는 덱 – 결합 가능한 200개의 카드, 80개의 유물, 30개의 보석 중에서 현명하게 선택하세요. 플레이에 사용하는 덱은 매번 달라집니다.\n* 펼칠 때마다 바뀌는 책 – 기발한 잉크 시스템으로 로그북의 수수께끼를 밝히는 일은 여러분에게 달렸습니다.\n* 한 수 한 수가 중요한 결정 – 영웅을 훈련하고 새 카드와 유물을 획득해 로그북의 20가지 난이도에 도전하세요.",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20220519,
+    "first_update_release_date": 20221125,
+    "latest_update_release_date": 20221125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221125
+    },
+    "versions": {
+        "65536": 20221125
+    },
+    "category": [
+        "어드벤처",
+        "퍼즐",
+        "RPG",
+        "전략"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "폭력성"
+    ],
+    "region": null
 }

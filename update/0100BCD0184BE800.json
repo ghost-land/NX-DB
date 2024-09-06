@@ -1,4 +1,34 @@
 {
     "id": "0100BCD0184BE800",
-    "version": 65536
+    "base_tid": "0100BCD0184BE000",
+    "name": "Sixty Words by POWGI",
+    "description": "POWGI’s unique word search puzzle returns - and now it’s even bigger! There’s no grid, no word list and no wrong letters - just 60 intertwined words for you to paint while you create blended colour art.\n",
+    "publisher": "Lightwood Games",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20220704,
+    "latest_update_release_date": 20220704,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220704
+    },
+    "versions": {
+        "65536": 20220704
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Strategy",
+        "Study"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

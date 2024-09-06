@@ -1,4 +1,39 @@
 {
     "id": "0100BD8011BCC800",
-    "version": 65536
+    "base_tid": "0100BD8011BCC000",
+    "name": "Broken Lines",
+    "description": "Broken Lines combines a tactical RPG with story-driven gameplay. As your soldiers battle the mental strain of war, you’ll need to command them in combat— will they avoid the enemy, or go head to head with their foes?\n\nCombat is similar to that of a turn-based tactical RPG, but soldiers move only when action phase starts. However, when new enemies and hazards appear, the game pauses to allow you to plan your reaction to this new change. Will you continue to charge forward, or back off and seek cover?\n\nYour squad has crash-landed behind enemy lines, in the heart of an alternate history Eastern Europe. With no intel or leadership to support them, these soldiers must fight their way back home before the horrors of war break them. Teamwork and strategy are paramount…\n\nChoices you make will shape the story to your liking leading to a different campaign endings. Choose wisely as your progression through the game will affect not only soldiers you command but also a whole region and everyone who happen to live here. But you should also keep in mind that your soldiers have their own opinion on what is good for the squad so you have to maintain a balance between what you want them to do and what is good for keeping the squad in high spirits.\n\n“Victory at all costs, victory in spite of all terror, victory however long and hard the road may\nbe; for without victory, there is no survival.”\n― Winston Churchill",
+    "publisher": "Supergg.com",
+    "developer": null,
+    "base_release_date": 20200423,
+    "first_update_release_date": 20200513,
+    "latest_update_release_date": 20200513,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200513
+    },
+    "versions": {
+        "65536": 20200513
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "Broken Lines is a story-driven turn-based tactical RPG set in an alternate-history version of World War II. It’s a game about a group of eight soldiers who crash-land behind enemy lines.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
+    "region": null
 }

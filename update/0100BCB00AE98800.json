@@ -1,4 +1,36 @@
 {
     "id": "0100BCB00AE98800",
-    "version": 131072
+    "base_tid": "0100BCB00AE98000",
+    "name": "GUNBIRD2 for Nintendo Switch",
+    "description": "Five characters with distresses went out for an adventure to get the medicine that was handed down from the ancient times.\n\nHowever, they need to gather three materials called \"Sun element\", \"Star element\" and \"Moon element\" and meet the god who lives in an illusionary underground temple to be able to get the medicine.\n\nIn the middle of their journey, they will meet the Queen Pirates and will be blocked by them from getting three materials.\n\nWill they be able to get the medicine before the Queen Pirates!?",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20180621,
+    "first_update_release_date": 20180710,
+    "latest_update_release_date": 20190521,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190521
+    },
+    "versions": {
+        "65536": 20180710,
+        "131072": 20190521
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Psikyo is coming back!!\n「GUNBIRD2 for Nintendo Switch」",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Nudity",
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

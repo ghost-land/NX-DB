@@ -1,4 +1,40 @@
 {
     "id": "0100BD300F0EC800",
-    "version": 65536
+    "base_tid": "0100BD300F0EC000",
+    "name": "Ritual",
+    "description": "Chop Slash Freeze Smash Burn! Use dagger and magic to kill monsters with creative combos!\n\nEquip your sorcerer with powerful combinations of Spells and Skills and blaze through horders of monsters in a unique spell-casting action RPG.\n\nYou are a Sorcerer Angel. They tried to sacrifice you and failed. Hunt them down, kill their foul God and purge the world!\n\n★ Discover hundreds of magic Skills and Spells\n★ Slay thousands of Monsters, Shadows, Demons and Cultists\n★ New Game Plus, repeatable levels and trillions of possible builds for endless replayability\n",
+    "publisher": "Hexage",
+    "developer": null,
+    "base_release_date": 20190913,
+    "first_update_release_date": 20191016,
+    "latest_update_release_date": 20191016,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191016
+    },
+    "versions": {
+        "65536": 20191016
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Cut through monsters in endless dance with dagger!\nLeave magic mayhem in your wake.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

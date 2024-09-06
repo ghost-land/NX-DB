@@ -1,4 +1,31 @@
 {
     "id": "0100BD00198AA800",
-    "version": 131072
+    "base_tid": "0100BD00198AA000",
+    "name": "異種最強王図鑑　バトルコロシアム",
+    "description": "大人気児童書シリーズ「最強王図鑑」が、いよいよNintendo Switch™に登場！\n時代や種族を超えて、地上生物の最強王を決めるトーナメントでの優勝を目指し、生物たちを育成していく育成バトルシミュレーションです。\n24種類の生物からパートナーを選び、長所を伸ばしたり短所を補ったり、育成の方法によってその強さが変わっていきます。\nライオン vs ティラノサウルス、オオスズメバチ vs アフリカゾウなど、ここでしか見ることのできない夢の対決が実現し、迫力のバトルを楽しめます。",
+    "publisher": "日本コロムビア",
+    "developer": null,
+    "base_release_date": 20221215,
+    "first_update_release_date": 20230110,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230110,
+        "131072": 20230316
+    },
+    "category": [
+        "シミュレーション",
+        "学習"
+    ],
+    "intro": "動物 vs 恐竜 vs 昆虫 vs 絶滅動物\n各種属の王者・猛者たちが、「最強」の座を目指して大激突！\n",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

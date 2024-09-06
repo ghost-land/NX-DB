@@ -1,4 +1,36 @@
 {
     "id": "0100BCE000598800",
-    "version": 65536
+    "base_tid": "0100BCE000598000",
+    "name": "Just Dance 2017®",
+    "description": "Just Dance® 2017 is more fun to play than ever! Grab your friends and family and start dancing anytime, anywhere, with anyone on Nintendo Switch™. Be sure to keep the party going with the included three-month trial of Just Dance® Unlimited, giving you access to an online catalog with 300+ of your favorite Just Dance tracks!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "Arcade",
+        "Music"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Lyrics",
+        "Online Interactions Not Rated by the ESRB",
+        "Music Downloads Not Rated by the ESRB."
+    ],
+    "region": null
 }

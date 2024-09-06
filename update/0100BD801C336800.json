@@ -1,4 +1,36 @@
 {
     "id": "0100BD801C336800",
-    "version": 131072
+    "base_tid": "0100BD801C336000",
+    "name": "Super Ultimate Fighters",
+    "description": "Super Ultimate Fighters is a 2D fighting game.\nThe game brings together various fighters from karate, judo, sumo, aikido, taekwondo, drunken fist, mantis style, capoeira, boxing, and more.\nWhen the technique gauge is accumulated, super special moves can be activated!\nLet's win by deciding on unique techniques.",
+    "publisher": "HUNTERS",
+    "developer": null,
+    "base_release_date": 20231019,
+    "first_update_release_date": 20231103,
+    "latest_update_release_date": 20240603,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240603
+    },
+    "versions": {
+        "65536": 20231103,
+        "131072": 20240603
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The ultimate fighting game that brings together various fighters!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Violence"
+    ],
+    "region": null
 }

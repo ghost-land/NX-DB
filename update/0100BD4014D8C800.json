@@ -1,4 +1,32 @@
 {
     "id": "0100BD4014D8C800",
-    "version": 131072
+    "base_tid": "0100BD4014D8C000",
+    "name": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+    "description": "在六年前，發現了一具只剩「右半身」的屍體。\n當時無論怎麼搜索，都找不到那具屍體的「左半身」。\n\n事隔六年後，下落成謎的「屍體左半身」被找到了。\n只不過這具屍體的「左半身」卻沒有腐爛的跡象，彷彿直到剛才都還活著。\n\n於是，新上任的ABIS特別搜查官・瑞希，\n與自律控制型AI機器人瞳絆合作，\n開始著手調查這起「Half Body連續命案」……",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20220623,
+    "first_update_release_date": 20220622,
+    "latest_update_release_date": 20221123,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221123
+    },
+    "versions": {
+        "65536": 20220622,
+        "131072": 20221123
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": "真實只不過是幻想…… 《AI：夢境檔案》全新續作登場",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

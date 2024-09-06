@@ -1,4 +1,46 @@
 {
     "id": "0100BCF017122800",
-    "version": 393216
+    "base_tid": "0100BCF017122000",
+    "name": "Totally Accurate Battle Simulator",
+    "description": "Be the leader of wobblers from ancient lands, spooky places & fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created.\n\nWhen you grow tired of the 100+ wobblers at your disposal you can make new ones in the unit creator.\nYou can also send your wobblers to fight your friends or strangers in online multiplayer!\n\nFeatures:\n- Campaigns\n- Multiplayer\n- Workshop\n- Unit and faction Creator\n- Campaign and battle creator\n- Sandbox mode\n- Unit Possession\n- A bunch of silly units\n- Map Creator",
+    "publisher": "Landfall Games",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20221024,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20221024,
+        "131072": 20221109,
+        "196608": 20230210,
+        "262144": 20230623,
+        "327680": 20240120,
+        "393216": 20240719
+    },
+    "category": [
+        "Simulation",
+        "Fighting"
+    ],
+    "intro": "Be the leader of wobblers from ancient lands, spooky places & fantasy worlds. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

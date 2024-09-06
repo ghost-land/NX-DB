@@ -1,4 +1,31 @@
 {
     "id": "0100BDA00F876800",
-    "version": 131072
+    "base_tid": "0100BDA00F876000",
+    "name": "魔界戰記４Return",
+    "description": "『魔界戰記４Return』對Nintendo Switch做了最佳化，變得更容易遊玩。\n除了有魔界戰記系列中大家熟悉的無數要素收集外，還有各種不可思議的遊戲系統。\n可培育出最兇角色，用各式各樣超過400種的特殊招式來炒熱戰鬥氣氛…還有魔界戰記特有的無限遊戲，故事過關仍可繼續遊玩。",
+    "publisher": "NIHONICHI",
+    "developer": null,
+    "base_release_date": 20200423,
+    "first_update_release_date": 20200421,
+    "latest_update_release_date": 20201007,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201007
+    },
+    "versions": {
+        "65536": 20200421,
+        "131072": 20201007
+    },
+    "category": [
+        "角色扮演",
+        "模擬"
+    ],
+    "intro": "打倒政腐、奪取政拳、改革魔界！從「地獄」開始改變世界的故事，就此開幕！",
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

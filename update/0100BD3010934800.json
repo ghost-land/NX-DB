@@ -1,4 +1,43 @@
 {
     "id": "0100BD3010934800",
-    "version": 851968
+    "base_tid": "0100BD3010934000",
+    "name": "Hell's High Harmonizers",
+    "description": "Hell, it's a place where the dead live.\nThe inhabitants are always busy with reckoning, remorse, slacking off, and rebellion.\nYou are the Harmonizer, an official of Hell. You will work for the peace of your newly assigned ward 69371.\n\nSometimes we'll consult with the residents, sometimes we'll cooperate with them, and sometimes we'll enjoy life in Hell!\n\nCharacter Create\nPeople, inorganics, and everything else! Freedom and unique character create.\n\nVarious Unique Residents\nPeople, lizards, bones, and machines? The residents of Hell, who are diverse in appearance and birth.",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20211015,
+    "first_update_release_date": 20200228,
+    "latest_update_release_date": 20240401,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20240401
+    },
+    "versions": {
+        "65536": 20200228,
+        "131072": 20200310,
+        "196608": 20200408,
+        "327680": 20201027,
+        "393216": 20201118,
+        "458752": 20201203,
+        "524288": 20210224,
+        "589824": 20210323,
+        "655360": 20211014,
+        "851968": 20240401
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Hell is lively today!\nA loose life simulation of living in Hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Language"
+    ],
+    "region": null
 }
