@@ -1,4 +1,33 @@
 {
     "id": "0100EBA01548E800",
-    "version": 65536
+    "base_tid": "0100EBA01548E000",
+    "name": "The Cruel King and the Great Hero",
+    "description": "Join an intrepid girl on her many adventures as she strives to become a hero with the help of her mighty dragon protector.\n\nAlong the way, meet new friends, collect items, and help folks from all walks of life! Discover a heartwarming tale of kindness, companionship, and family in a gorgeous hand-drawn world.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20220315,
+    "first_update_release_date": 20220407,
+    "latest_update_release_date": 20220407,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220407
+    },
+    "versions": {
+        "65536": 20220407
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "This is the story of how one day, you will defeat me...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

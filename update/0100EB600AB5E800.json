@@ -1,4 +1,39 @@
 {
     "id": "0100EB600AB5E800",
-    "version": 131072
+    "base_tid": "0100EB600AB5E000",
+    "name": "THE Card: Poker, Texas hold 'em, Blackjack and Page One",
+    "description": "This game includes Poker, Texas hold 'em, Blackjack, and Page One.\n\n-Built-in ranking system! Compete with users across the country over the coins earned in a game.\n-The more coins you have, the bigger bets you can make, so the game gets more and more exciting!\n-The achievement system lets you can gather backgrounds and card designs as you get into the game.\n-You can make your ideal game environment by customizing the number of rounds, backgrounds, and card designs!",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20190417,
+    "latest_update_release_date": 20200304,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200304
+    },
+    "versions": {
+        "65536": 20190417,
+        "131072": 20200304
+    },
+    "category": [
+        "Board Game",
+        "Party",
+        "Training",
+        "Simulation"
+    ],
+    "intro": "Enjoy four fun and classic card games!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100EB501130E800",
-    "version": 393216
+    "base_tid": "0100EB501130E000",
+    "name": "Glyph",
+    "description": "Glyph is a cute, physics-based adventure starring a mech-scarab and his trusted guide, Anobi, challenged with rebuilding an ancient civilization buried under the desert sand. Jump, double-jump, smash and glide through the air in this vertical platformer with amazing controls.\n\nThe list:\nTime trials\nPure platforming\nRefine your skill\nOriginal soundtrack\nCustomizable cosmetics\nExplore and solve puzzles\nValue for money at 80+ levels\nRoute planning in open worlds\nOne-of-a-kind abilities and controls",
+    "publisher": "Bolverk Games",
+    "developer": null,
+    "base_release_date": 20210112,
+    "first_update_release_date": 20210115,
+    "latest_update_release_date": 20210902,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210902
+    },
+    "versions": {
+        "65536": 20210115,
+        "131072": 20210125,
+        "196608": 20210303,
+        "262144": 20210318,
+        "327680": 20210429,
+        "393216": 20210902
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "3D platform game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

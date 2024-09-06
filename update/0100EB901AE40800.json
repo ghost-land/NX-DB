@@ -1,4 +1,47 @@
 {
     "id": "0100EB901AE40800",
-    "version": 393216
+    "base_tid": "0100EB901AE40000",
+    "name": "Chronicles of 2 Heroes: Amaterasu's Wrath",
+    "description": "Amaterasu and her disciple, Empress Himiko, tyrannize feudal Japan with their mighty army of yokai.\n\nEach character plays very differently. Kensei masters close combat, but he cannot jump, while Ayame is way more agile thanks to her jumps and long-ranged attacks. Switch between both heroes and combine their skills to overcome tough platforming challenges and face epic boss fights.",
+    "publisher": "Catness Game",
+    "developer": null,
+    "base_release_date": 20230526,
+    "first_update_release_date": 20230526,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20230526,
+        "131072": 20230609,
+        "196608": 20230630,
+        "262144": 20231222,
+        "327680": 20240612,
+        "393216": 20240702
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Chronicles of 2 Heroes is an intense action platformer featuring Metroidvania elements, Japanese mythos and gorgeous pixel art.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "0100EC3012AAC800",
-    "version": 327680
+    "base_tid": "0100EC3012AAC000",
+    "name": "REPLICA",
+    "description": "You are given a cellphone of an unknown owner. You must look for evidence of terrorism by hacking into the cellphone owner's account, under governmental coercion. Then inspecting the cellphone usage history and social media activity records.\n\nThe insane experience of peeping into someone's private life through a cellphone will transform you into the state's greatest patriot.",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20201108,
+    "first_update_release_date": 20201106,
+    "latest_update_release_date": 20210303,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210303
+    },
+    "versions": {
+        "131072": 20201106,
+        "196608": 20201112,
+        "262144": 20201125,
+        "327680": 20210303
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Replica is an interactive novel game played through a cellphone and social media.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

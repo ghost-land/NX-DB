@@ -1,4 +1,39 @@
 {
     "id": "0100EBE00D5B0800",
-    "version": 65536
+    "base_tid": "0100EBE00D5B0000",
+    "name": "Meow Motors",
+    "description": "You will take to the track and play as one of a dozen colorful cats memorable for their different characteristics and unique personalities. Overcome various difficulties of the tracks drifting through mines and bombs, stop and slow down your competitors by blasting them with bubble gum and other astonishing weapons. And don't forget to gather power-ups along the way if you want to be the fastest driver on the track!\n\nThe game will amaze you with:\n- Dynamic gameplay that has three different modes: circle races, drifts and 'strike' mode\n- 20 different tracks where kitties will compete\n- 10 kitties with unique abilities that will help you gain an advantage\n- 10 power-ups with unique effects to defeat your competitors\n-  Charge your power-ups and get a more powerful effect!\n- Overtake opponents, drift and get bonuses for it.\n\nGo grab your kitty and start your first crazy ride!",
+    "publisher": "ArtVostok",
+    "developer": null,
+    "base_release_date": 20190508,
+    "first_update_release_date": 20190701,
+    "latest_update_release_date": 20190701,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190701
+    },
+    "versions": {
+        "65536": 20190701
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": "Meet the kitties, the main heroes of the new go-kart racing game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

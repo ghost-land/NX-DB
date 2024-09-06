@@ -1,4 +1,40 @@
 {
     "id": "0100EBE00F22E800",
-    "version": 262144
+    "base_tid": "0100EBE00F22E000",
+    "name": "Deadly Premonition Origins",
+    "description": "A mysterious serial murder occurs in Greenvale, a small town in North America surrounded by a beautiful nature.\nFBI agent York sets out with his \"friend\" Zach to face the case.\nSpend time with the town-people, soak your self into the nature and truth will gradually become clear. When you finally get to the truth, you'll find yourself difficult to leave Greenvale.",
+    "publisher": "TOYBOX",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20190913,
+    "latest_update_release_date": 20200707,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200707
+    },
+    "versions": {
+        "65536": 20190913,
+        "131072": 20191017,
+        "196608": 20200524,
+        "262144": 20200707
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The mystery adventure \"Deadly Premonition\" is coming to Nintendo Switch™.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong themes and bloody violence"
+    ],
+    "region": null
 }

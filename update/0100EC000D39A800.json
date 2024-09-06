@@ -1,4 +1,42 @@
 {
     "id": "0100EC000D39A800",
-    "version": 131072
+    "base_tid": "0100EC000D39A000",
+    "name": "Tetsumo Party",
+    "description": "Riddle me this: what sumo, walls and dancing have in common? The answer is: all of these elements formed Tetsumo Party!\n\nTetsumo Party is a game where sumo warriors gather to join an unconventional contest, inspired by Japanese TV shows. They need to fit into the funny-shaped holes in an approaching bamboo wall, otherwise… well, let’s say that it will result in rather ridiculous manner.\n\nBut what’s better than winning alone? Fighting your friends, of course! In Tetsumo Party you can gather up to 4 people in a hilarious face-off confrontation.\nWhat is the challenge? You need to control every limb separately. And remember - incoming bamboo walls aren’t that forgiving.\n\n- Little distractions will happen, such as a waiter bringing you food and refreshments. You can stretch out your hand for them, but watch out for the incoming wall!\n- The game features single player as well as cooperative and versus local multiplayer modes.\n- New characters to unlock!",
+    "publisher": "Monster Couch",
+    "developer": null,
+    "base_release_date": 20190727,
+    "first_update_release_date": 20190813,
+    "latest_update_release_date": 20190813,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190813
+    },
+    "versions": {
+        "131072": 20190813
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "The Ministry of Silly Poses in Sumo world",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Nudity",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,53 @@
 {
     "id": "0100EB600E914800",
-    "version": 786432
+    "base_tid": "0100EB600E914000",
+    "name": "Farming Simulator 20",
+    "description": "In Farming Simulator 20, take control of vehicles and machines faithfully recreated from leading brands in the industry. For the first time on Nintendo Switch, this includes John Deere, the largest agriculture machinery company in the world. Drive other famous farming brands such as Case IH, New Holland, Challenger, Fendt, Valtra, Krone, Deutz-Fahr and many more.\n\nFarming Simulator 20 features a new North American environment in which to develop and expand your farm. Enjoy many exciting farming activities, including new machinery and crops with cotton and oats, new to the Nintendo Switch! Tend to your livestock of pigs, cows, and sheep, and now ride your own horses, letting you explore the vast land around your farm in a brand new way.\n\n•Use and drive over 100 faithfully reproduced farming vehicles and tools including, for the first time on Nintendo Switch, the largest agriculture machinery company in the world: John Deere\n•Tend to your livestock, including pigs, cows, sheep, and horses\n•Ride your own horses and explore the vast areas offered in a new North American open world loaded with farming activities",
+    "publisher": "GIANTS Software",
+    "developer": null,
+    "base_release_date": 20220301,
+    "first_update_release_date": 20200211,
+    "latest_update_release_date": 20221018,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20221018
+    },
+    "versions": {
+        "65536": 20200211,
+        "131072": 20200604,
+        "196608": 20200804,
+        "262144": 20200924,
+        "327680": 20201214,
+        "393216": 20210318,
+        "458752": 20210713,
+        "524288": 20211109,
+        "589824": 20211214,
+        "655360": 20220308,
+        "720896": 20220712,
+        "786432": 20221018
+    },
+    "category": [
+        "Simulation",
+        "Education",
+        "Lifestyle"
+    ],
+    "intro": "Farm like never before on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }
