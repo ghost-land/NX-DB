@@ -1,4 +1,47 @@
 {
     "id": "010060600CFDE800",
-    "version": 327680
+    "base_tid": "010060600CFDE000",
+    "name": "Strikey Sisters",
+    "description": "Say hello to a fantasy themed arcade action brick breaker! Featuring cute characters, silly humor, powerful magic, crazy boss battles, and even a local 2 player co-op mode!\n\n- Fast-paced brick breaker action!\n- Intense boss battles!\n- Local 2 player co-op mode.\n- Three difficulty modes.\n- Travel and conquer the world map in any order you want!\n- Unique player, ball, and spell power-ups!\n- Highly replayable! Uncover all the map, collect gems, unlock secret areas and extra levels, and complete the bestiary!\n- Polished and colorful pixel art visuals.\n- Catchy synth-fantasy soundtrack.\n- Cheesy 90's game voice acting!",
+    "publisher": "DYA GAMES",
+    "developer": null,
+    "base_release_date": 20211025,
+    "first_update_release_date": 20190305,
+    "latest_update_release_date": 20200902,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200902
+    },
+    "versions": {
+        "65536": 20190305,
+        "131072": 20190325,
+        "196608": 20190403,
+        "262144": 20190612,
+        "327680": 20200902
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "Brick breaker action arcade plus local 2 player co-op mode!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

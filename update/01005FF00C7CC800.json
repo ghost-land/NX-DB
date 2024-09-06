@@ -1,4 +1,48 @@
 {
     "id": "01005FF00C7CC800",
-    "version": 786432
+    "base_tid": "01005FF00C7CC000",
+    "name": "Gear.Club Unlimited 2",
+    "description": "在炙熱的沙漠、阿爾卑斯的山嶽路線、地中海沿岸的浪漫道路、黃斯石國立公園的溫泉地帶等總線達3000公裏。\n\n以冠軍為首的多樣的任務和挑戰可以享受250種以上的賽車比賽，包括現有的汽車，可以使用50多種 名車來參加賽車。\n\n另外，不僅是1人遊玩，也可以分割畫面最多對應4人的多人遊玩。",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20190116,
+    "first_update_release_date": 20190115,
+    "latest_update_release_date": 20210707,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20210707
+    },
+    "versions": {
+        "65536": 20190115,
+        "131072": 20190116,
+        "196608": 20190325,
+        "262144": 20190605,
+        "327680": 20190909,
+        "458752": 20191114,
+        "524288": 20200205,
+        "589824": 20200603,
+        "655360": 20201007,
+        "720896": 20210203,
+        "786432": 20210707
+    },
+    "category": [
+        "競速"
+    ],
+    "intro": "挑戰世界以突破極限的吹風機挑戰！",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

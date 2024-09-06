@@ -1,4 +1,42 @@
 {
     "id": "01005FF002E2A800",
-    "version": 131072
+    "base_tid": "01005FF002E2A000",
+    "name": "Rayman® Legends Definitive Edition",
+    "description": "Rayman, winner of multiple artistic and musical achievements, is coming to Nintendo Switch™ with Rayman Legends Definitive Edition. \n\nRayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.\n\nJoin the team with up to 4 players in local co-op!\nCompete with your friends in tournaments with the Kung Foot experience (local wireless multiplayer)\nRun, jump & smack your way through 100+ maps\nJump to the rhythm and rock the party to beat the crazy musical levels",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221018,
+    "first_update_release_date": 20170907,
+    "latest_update_release_date": 20171030,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171030
+    },
+    "versions": {
+        "65536": 20170907,
+        "131072": 20171030
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief"
+    ],
+    "region": null
 }

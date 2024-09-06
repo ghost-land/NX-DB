@@ -1,4 +1,37 @@
 {
     "id": "010060001833A800",
-    "version": 65536
+    "base_tid": "010060001833A000",
+    "name": "Arcade Archives DRAGON SABER",
+    "description": "\"DRAGON SABER\" is a shooter released by NAMCO (Bandai Namco Entertainment Inc.) in 1990. This title allows players to charge powerful shots by leaving the shot button untouched, as well as switch to a variety of other dragons with change items. Use these to make your way through stages and take down bosses!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220714,
+    "first_update_release_date": 20220713,
+    "latest_update_release_date": 20220713,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220713
+    },
+    "versions": {
+        "65536": 20220713
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "A powerful legend of immortal dragons",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

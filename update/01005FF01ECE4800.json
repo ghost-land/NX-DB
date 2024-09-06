@@ -1,4 +1,30 @@
 {
     "id": "01005FF01ECE4800",
-    "version": 65536
+    "base_tid": "01005FF01ECE4000",
+    "name": "Overmorrow",
+    "description": "Overmorrow has a gameplay focus on unguided exploration and big-picture puzzle solving. With a distinctive visual style and a peculiar, mysterious metanarrative, this game is sure to give you a unique indie experience.\n\nIn Overmorrow, the more Runes you discover, the more actions you can perform in a single day, and the deeper you may explore the mysterious island. There is no time limit, so be sure to fully enjoy the tranquil spaces in this fixed camera 2D game, where every screen contains unique art and curious secrets.\n\nWhen your Runes have been exhausted, resting will replenish them, but also progress the day count and narrative. After 30 in-game days, your save is deleted. However, in Overmorrow, things are rarely as they seem on the surface, and that is just one more step to discovering the game's many mysteries.",
+    "publisher": "PixelManta",
+    "developer": null,
+    "base_release_date": 20240517,
+    "first_update_release_date": 20240614,
+    "latest_update_release_date": 20240614,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240614
+    },
+    "versions": {
+        "65536": 20240614
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Overmorrow is a serene, nonviolent, exploration adventure game that deletes your save after 30 days.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

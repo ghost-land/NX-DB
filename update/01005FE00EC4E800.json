@@ -1,4 +1,33 @@
 {
     "id": "01005FE00EC4E800",
-    "version": 65536
+    "base_tid": "01005FE00EC4E000",
+    "name": "Atomic Heist",
+    "description": "It has been nearly six years since the end of the Delotian wars. Our first war… our first contact, with an alien race. We thought the Delotians were coming to annihilate us. We later learned they were running away from the real threat. For eighteen generations the Delotians were hunted by the Rhaokyns. Everything they knew, everything they were had been lost or destroyed. The Delotians travelled through subspace to remote parts of the galaxy to hide from their hunters. Luck brought them to our backyard. They wanted help. They needed help. We didn't listen.\nBut that war is over. We are stitching together what threads of friendship we can. The Rhaokyns have found them again and now they have found us.\n\nFeatures:\n• Fight your way out of randomly generated levels\n• Engage in fast-paced twin-stick combat against enemy spaceships\n• Collect power-ups and permanent upgrades to survive longer\n• Explore the space station and experience the backstory behind the Atomic Heist\n• Discover every enemy’s weaknesses and strategize your approach\n• Challenge yourself with daily game modes\n• Test your survival skills in Endless Arena mode",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20220708,
+    "first_update_release_date": 20190913,
+    "latest_update_release_date": 20190913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190913
+    },
+    "versions": {
+        "65536": 20190913
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Sci-fi roguelike twin-stick shooter. The nuclear core you have to steal is leaking radiation. Fight your way out of the space station in your combat ship and pull off the Atomic Heist!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

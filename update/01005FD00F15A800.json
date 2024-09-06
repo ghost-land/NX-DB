@@ -1,4 +1,36 @@
 {
     "id": "01005FD00F15A800",
-    "version": 131072
+    "base_tid": "01005FD00F15A000",
+    "name": "Regions of Ruin",
+    "description": "Regions of Ruin is a 2D side-scrolling RPG with town-building where you are introduced to an open world that progressively challenges your hero and settlement the further you delve into the vast continent.\n\nYou will discover a foreboding land ravaged by hundreds of years of hardship. Where, kingdoms have risen and fallen, settlements have been laid to waste and overrun by warring groups, and great mysteries lay hidden and waiting to be unearthed - assuming you can defeat their jealous guardians.\n\n\nMain Features include:\n\n• Styled combat system with stats and levelling\n• Skill tree to focus your fighting style\n• Extensive loot and rare items to discover\n• Forge your own equipment or smelt it for resources\n• Open world exploration with a hand crafted environment, no randomized maps or levels, everything you see has been made with care\n• Customised town building and expansion\n• Rescue and recruit dwarves for your township (save them from extinction!)\n• Send workers to harvest resources from explored regions\n• Hire Mercenaries to help in battle\n• Multitude of Quests and a main storyline",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20191224,
+    "first_update_release_date": 20200109,
+    "latest_update_release_date": 20211109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211109
+    },
+    "versions": {
+        "65536": 20200109,
+        "131072": 20211109
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Strategy",
+        "Platformer"
+    ],
+    "intro": "Ever wonder what would happen if Kingdom met a broad, skill based open world RPG? Welcome to Regions of Ruin.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

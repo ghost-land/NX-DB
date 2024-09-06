@@ -1,4 +1,41 @@
 {
     "id": "010060201EB12800",
-    "version": 131072
+    "base_tid": "010060201EB12000",
+    "name": "SCHiM",
+    "description": "SCHiM在荷蘭語中的含義，是“精靈一樣的東西”、“在視野的一角忽隱忽現的東西”。\n\nSCHiM們存在於一切影子之中，世界上的任何東西都有其schim存在。它們絕對不會離開本體。\n\n自宿主出生開始，SCHiM就一直在其影子之中，守望著宿主人生的種種場面。然而某一天，一隻SCHiM卻和宿主分離了！它究竟能否在一切都太遲之前，回到宿主的身邊呢……？\n\n快快和精靈SCHiM一起，體驗本作中隨關卡變換的美麗景色和音樂、享受這個溫馨的小故事吧！",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20240718,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240719
+    },
+    "versions": {
+        "131072": 20240719
+    },
+    "category": [
+        "冒險",
+        "其他"
+    ],
+    "intro": "SCHiM能夠移動的地方僅限人和物體的影子中。抓準時機讓它在影子之間跳躍穿梭、帶領它回到自己的容身之處吧！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
