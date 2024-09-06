@@ -1,4 +1,37 @@
 {
     "id": "010030301ABC2800",
-    "version": 196608
+    "base_tid": "010030301ABC2000",
+    "name": "Hatsune Miku - The Planet Of Wonder And Fragments Of Wishes",
+    "description": "Miku and friends crash land on a mysterious planet during their space journey... \nThere they meet many unique characters! \nPlay all kinds of games to grant everybody's wishes! \n\n- About Minigames \nA total of 9 minigames including \"Button Mashing\" and \"Slide Puzzles!\" \nCollect \"coins\" and aim for a high score! \n\nSmartphone games \"Hatsune Miku Amiguru Jump\" and \"Hatsune Miku Amiguru Train\" also included! Play them on the Nintendo Switch™! \n\n- Piapro Collaboration Songs Included \n17 songs written specifically for \"Hatsune Miku - The Planet Of Wonder And Fragments Of Wishes\" included! \n\n*Does not have touch screen controls. ",
+    "publisher": "CRYPTON FUTURE MEDIA",
+    "developer": null,
+    "base_release_date": 20230608,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20230621,
+        "131072": 20230622,
+        "196608": 20240317
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Music",
+        "Other"
+    ],
+    "intro": "Explore a planet full of wonders with Miku and friends! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

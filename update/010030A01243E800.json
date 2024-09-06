@@ -1,4 +1,30 @@
 {
     "id": "010030A01243E800",
-    "version": 65536
+    "base_tid": "010030A01243E000",
+    "name": "Poker Hands",
+    "description": "Use your arrow keys to move the cards. When two cards touch, they merge into one!\n\n- 50 Levels that will challenge you to form different poker hands;\n- Designed for experienced poker players and newcomers alike (you do not need to know how to play poker to enjoy this game);\n- Original Soundtrack, composed especially for this game;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20231120,
+    "first_update_release_date": 20200916,
+    "latest_update_release_date": 20200916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200916
+    },
+    "versions": {
+        "65536": 20200916
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "A relaxing puzzle game where you combine neighboring cards to form poker hands.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

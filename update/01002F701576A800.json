@@ -1,4 +1,35 @@
 {
     "id": "01002F701576A800",
-    "version": 131072
+    "base_tid": "01002F701576A000",
+    "name": "Shark Pinball",
+    "description": "Get ready for Shark Pinball, a pinball machine where you'll try to score points avoiding Sharks, octopus and many other perils, show everybody that you're not afraid of the sea monsters on this table. \n\nDiscover all the missions and secrets, in this unique two levelled pinball arcade machine.\n\nComplete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n- More than 8 missions to accomplish! Are you ready?\n- Multiball, Extraball, Skillshot, Jackpots...\n- Reproduction with all the details, lights and sounds.\n- 4 different cameras to choose from.\n- Vertical Gameplay using all the Nintendo Switch™ screen on handheld mode.\n- Online Leaderboard.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20210820,
+    "first_update_release_date": 20210812,
+    "latest_update_release_date": 20210908,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210908
+    },
+    "versions": {
+        "65536": 20210812,
+        "131072": 20210908
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Party",
+        "Action"
+    ],
+    "intro": "Try to survive the attack of the sharks and win the game in the most entertaining Pinball! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

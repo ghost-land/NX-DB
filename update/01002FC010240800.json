@@ -1,4 +1,47 @@
 {
     "id": "01002FC010240800",
-    "version": 262144
+    "base_tid": "01002FC010240000",
+    "name": "Axiom Verge 2",
+    "description": "The long awaited sequel to Axiom Verge, Axiom Verge 2 expands on the universe with completely new characters, abilities, and gameplay.",
+    "publisher": "Thomas Happ Games",
+    "developer": null,
+    "base_release_date": 20210812,
+    "first_update_release_date": 20210803,
+    "latest_update_release_date": 20211213,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211213
+    },
+    "versions": {
+        "65536": 20210803,
+        "131072": 20210817,
+        "196608": 20210901,
+        "262144": 20211213
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Life. Afterlife. Real. Virtual. Dream. Nightmare. It’s a thin line.\nIt’s Axiom Verge 2.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

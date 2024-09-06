@@ -1,4 +1,37 @@
 {
     "id": "010030A00DA3A800",
-    "version": 65536
+    "base_tid": "010030A00DA3A000",
+    "name": "Root Letter: Last Answer",
+    "description": "The return of the best-selling interactive mystery visual novel! Follow in the footsteps of Aya Fumino, a school penfriend allegedly involved in a tragic murder 15 years ago. Explore the prefecture of Shimane, uncover clues, and use the letters you wrote to each other to track down her childhood friends for questioning. But perhaps these friends, now adults living a peaceful life, will not be eager to let their painful memories resurface… ",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20190829,
+    "latest_update_release_date": 20190829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190829
+    },
+    "versions": {
+        "65536": 20190829
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Unravel the truth behind a 15 year old murder mystery",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

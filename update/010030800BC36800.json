@@ -1,4 +1,39 @@
 {
     "id": "010030800BC36800",
-    "version": 393216
+    "base_tid": "010030800BC36000",
+    "name": "Collidalot",
+    "description": "Jet-powered hover cars meet full-speed destruction derby chaos! Strap into the torn leather seat of an apocalyptic jet car and grind for your life!\n\nAll that is left are jet engines, gravity rails, and glory at full-throttle. Capture the map by painting the rails while you grind. Slam your friends out of the ring or use the map itself to get the best of them. \n\nEach ship’s unique ability compliments play styles from defensive to aggressive. Team up or fend for yourself with 1-4 players across 21 maps and 3 game modes. Collidalot proves there are no friends in the wasteland.\n\n- High-speed rail grinding meets destruction derby chaos\n- Post-apocalyptic jet cars paint rails in our brightly-colored art style\n- Hard-hitting collisions & epic special moves keep opponents on their toes\n- Quick, addictive gameplay will keep you coming back match after match to prove who is king of the wasteland",
+    "publisher": "Grunka Munka",
+    "developer": null,
+    "base_release_date": 20181110,
+    "first_update_release_date": 20181023,
+    "latest_update_release_date": 20190814,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20190814
+    },
+    "versions": {
+        "65536": 20181023,
+        "131072": 20181105,
+        "196608": 20181128,
+        "262144": 20181215,
+        "327680": 20190321,
+        "393216": 20190814
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Jet-powered destruction derby meets high speed rail-grinding! Strap in & dominate the wasteland!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

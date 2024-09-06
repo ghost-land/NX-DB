@@ -1,4 +1,34 @@
 {
     "id": "0100309012E92800",
-    "version": 65536
+    "base_tid": "0100309012E92000",
+    "name": "GUNBIRD2 for Nintendo Switch",
+    "description": "以世界各國為舞臺，為了解決各自的苦惱要取得從遠古時期就流傳下來的萬能藥的5名角色而展開的冒險。\n\n為了獲得萬能藥，需要收集了所謂的「太陽碎片」、「星之細語」、「月亮水滴」的3個秘藥。而在前往幻想的地下神殿途中，打算奪走秘藥的天上海盜「海盜女王」使出各種方法妨礙主角們的去路...\n\n他們是否能比「海盜女王」更快收集完3個秘藥，平安無事地取得萬能藥呢？\n",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20201111,
+    "first_update_release_date": 20210728,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210728
+    },
+    "versions": {
+        "65536": 20210728
+    },
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": "搞笑射擊遊戲《GUNBIRD》的續作！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

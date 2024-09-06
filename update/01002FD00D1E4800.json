@@ -1,4 +1,30 @@
 {
     "id": "01002FD00D1E4800",
-    "version": 65536
+    "base_tid": "01002FD00D1E4000",
+    "name": "ABCナンプレ Word-a-Pix",
+    "description": "リラックスタイムや頭のリフレッシュに最適なパズルゲームです。数字もしくはアルファベットをパズルの途中で、自由に切り替えて遊ぶことができます。各数字やアルファベットは、各行と各列、また3X3のマス内に１回のみ表示されます。アルファベットでクリアした場合は、9文字の単語となり、意味も表示されます。間違っている数字や文字を消してくれるアシスト機能も収録しています。全300問のパズルにチャレンジしてみましょう。",
+    "publisher": "レイニーフロッグ",
+    "developer": null,
+    "base_release_date": 20190117,
+    "first_update_release_date": 20210131,
+    "latest_update_release_date": 20210131,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210131
+    },
+    "versions": {
+        "65536": 20210131
+    },
+    "category": [
+        "パズル",
+        "トレーニング"
+    ],
+    "intro": "数字でも、アルファベットでも遊べるナンプレ！\nパズルをしながら、英単語も学べる！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

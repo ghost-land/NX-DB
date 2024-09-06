@@ -1,4 +1,43 @@
 {
     "id": "01002F80186D6800",
-    "version": 65536
+    "base_tid": "01002F80186D6000",
+    "name": "The Pinball Wizard",
+    "description": "Oh, young Apprentice! Atop the Mountain of Shadow, at the foot of the castle tower, the wisdom bestowed upon you shall come to pass. A pinball dungeon crawler awaits to test your skill!\n\nThe Pinball Wizard is an arcade adventure game where the main character is propelled into action by a set of flippers, like the ball in a pinball machine. Each level of the game is a contained area inside a tower. The goal of the game is to survive and get to the top of the tower.",
+    "publisher": "Frosty Pop",
+    "developer": null,
+    "base_release_date": 20221027,
+    "first_update_release_date": 20221202,
+    "latest_update_release_date": 20221202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221202
+    },
+    "versions": {
+        "65536": 20221202
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Ascend the castle tower. Level up your skills. Fulfill your destiny. Become the wizard you were born to be!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

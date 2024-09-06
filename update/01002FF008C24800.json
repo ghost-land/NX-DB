@@ -1,4 +1,37 @@
 {
     "id": "01002FF008C24800",
-    "version": 327680
+    "base_tid": "01002FF008C24000",
+    "name": "RingFit Adventure",
+    "description": "RingFit Adventure",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20191018,
+    "first_update_release_date": 20191015,
+    "latest_update_release_date": 20200326,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200326
+    },
+    "versions": {
+        "65536": 20191015,
+        "131072": 20191025,
+        "196608": 20191031,
+        "262144": 20191129,
+        "327680": 20200326
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Very mild violence",
+        "Caution: Online interactivity",
+        "Very mild fantasy themes"
+    ],
+    "region": null
 }

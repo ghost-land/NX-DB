@@ -1,4 +1,44 @@
 {
     "id": "0100304019EB6800",
-    "version": 262144
+    "base_tid": "0100304019EB6000",
+    "name": "HELLO KITTY AND FRIENDS HAPPINESS PARADE",
+    "description": "Cute? Check. \nColorful? Check. \nAnd way cooler than you think? Triple check.\n\nGet ready for a rad and unexpected journey through the world of Sanrio in a music rhythm game like nothing you’ve experienced before.\n\nJoin Hello Kitty and two friends on a delightful music tour as they spread happiness to everyone. Along the way they’ll discover new friends to join their musical parades. However, jealous of Hello Kitty’s growing fanbase, Kuromi will stop at nothing to end the music, dispatching goons and laying traps to stop the momentum.\n\nIt’s up to you to dance, dance, dance to the beat, avoid traps, use each character’s unique abilities, collect coins and upgrades, complete challenges, and bring joy to the world around you! With a robust soundtrack filled with over 40 amazing pop hits, you’ll be dancing to the music long after you put the controllers down.",
+    "publisher": "Rogue Games",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20240730,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240730
+    },
+    "versions": {
+        "65536": 20230411,
+        "131072": 20231025,
+        "196608": 20231025,
+        "262144": 20240730
+    },
+    "category": [
+        "Music",
+        "Arcade"
+    ],
+    "intro": "Dance to the beat with Hello Kitty and friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

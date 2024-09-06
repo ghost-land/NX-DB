@@ -1,4 +1,41 @@
 {
     "id": "010030B00C316800",
-    "version": 262144
+    "base_tid": "010030B00C316000",
+    "name": "Planescape: Torment and Icewind Dale: Enhanced Editions",
+    "description": "Dive into award-winning RPG classics, enhanced for modern heroes! Experience the legendary Dungeons & Dragons adventures of Planescape: Torment and Icewind Dale!\n\n- CONTENT - \n\n• PLANESCAPE: TORMENT: ENHANCED EDITION brings the strange and thrilling classic back to life! Explore the bizarre universe of Planescape, from the dirty streets of Sigil to the mysterious Outer Planes— and even the depths of Hell itself. Uncover secrets of past lives in this story-rich, tactical RPG set in a dark fantasy world at the heart of the Dungeons & Dragons multiverse. \n\n• ICEWIND DALE: ENHANCED EDITION revives the original Icewind Dale campaign, alongside two full expansions: Heart of Winter and Trials of the Luremaster. Build a party of Dungeons & Dragons heroes and confront an evil stirring in the frozen tundra.\n\n- LANGUAGES - \n\nPlanescape: Torment: Enhanced Edition supports the following languages: English, French, German, Polish, Czech, Korean\n\nIcewind Dale: Enhanced Edition supports the following languages: English, French, Italian, German, Spanish, Polish, Russian, Czech, Turkish, Korean\n\n*Note: Non-English languages are available as free downloadable content",
+    "publisher": "Beamdog",
+    "developer": null,
+    "base_release_date": 20191015,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20220113,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220113
+    },
+    "versions": {
+        "65536": 20191014,
+        "131072": 20191014,
+        "196608": 20191111,
+        "262144": 20220113
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Iconic RPG Classics— Now on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

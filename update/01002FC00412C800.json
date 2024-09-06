@@ -1,4 +1,43 @@
 {
     "id": "01002FC00412C800",
-    "version": 131072
+    "base_tid": "01002FC00412C000",
+    "name": "Little Nightmares Complete Edition",
+    "description": "Do you remember your childhood fears? Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears as you help Six & The Kid escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal!\n\n•THE ALL-IN-ONE EDITION FOR NINTENDO SWITCH™ - Embark on a delectably dangerous journey with Six and The Kid to unveil all the secrets of The Maw in two parallel escape stories that will put your cool to the test.\n\n•A SPOOKY PUZZLE PLATFORMER - Trapped in an oversized dollhouse inhabited by monstrous residents, light your way through darkness, hide & sneak to avoid danger and run for your life to find a way out.\n\n•REKINDLE YOUR CHILDLIKE JOYS - Find your inner child and bend your imagination to find the way out by solving complex 3D puzzles. Each room is a cell, each resident a threat, and both are puzzles to untangle.\n\n•TAILORED TO THE DEVICE - Undock your Nintendo Switch™ and continue your delectably dangerous journey everywhere, anytime with full HD rumble support for the Joy-Con™ controllers for a more immersive experience.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20180503,
+    "latest_update_release_date": 20200224,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200224
+    },
+    "versions": {
+        "65536": 20180503,
+        "131072": 20200224
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": "Play with your childhood fears",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

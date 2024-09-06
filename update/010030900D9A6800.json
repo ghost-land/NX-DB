@@ -1,4 +1,47 @@
 {
     "id": "010030900D9A6800",
-    "version": 262144
+    "base_tid": "010030900D9A6000",
+    "name": "Super Crush KO",
+    "description": "Super Crush KO is a fast-paced brawler set in a vibrant, near-future city. Zip up your favourite neon jacket and combo your way through swarms of deadly robots to save your kidnapped kitten and, while you’re at it, save humanity from an AI apocalypse.\n\n* Lightning-fast gameplay that seamlessly blends run n' gun action and intense beat-em-up combat\n\n* Launch, juggle, and shoot waves of robots out of the sky in stylish, easy-to-execute combos\n\n* Keep your score climbing from enemy to enemy with thunderous ground smashes, high flying aerial attacks, and the devastating Super Beam\n\n* Blast through a vibrant world inspired by colourful urban cityscapes and pastel skylines\n\n* Online leaderboards and ranking systems will keep you coming back to S-Rank over 20 challenging levels",
+    "publisher": "Vertex Pop Inc.",
+    "developer": null,
+    "base_release_date": 20200117,
+    "first_update_release_date": 20200117,
+    "latest_update_release_date": 20210923,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210923
+    },
+    "versions": {
+        "65536": 20200117,
+        "131072": 20200226,
+        "196608": 20200520,
+        "262144": 20210923
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Platformer"
+    ],
+    "intro": "Crush robots, save your cat… oh, and also the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }
