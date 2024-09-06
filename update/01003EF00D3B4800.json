@@ -1,4 +1,37 @@
 {
     "id": "01003EF00D3B4800",
-    "version": 65536
+    "base_tid": "01003EF00D3B4000",
+    "name": "Arcade Archives NINJA GAIDEN",
+    "description": "NINJA GAIDEN is an action game released by Tecmo Co., Ltd. in 1989.\nPlay as a ninja using the Five Ninja Fighting Arts passed on from the chaotic times of  feudal Japan, as you take out an assassin organization through the horrifying stage “Jungle,” an American city.\nPerform a Phoenix Backflip off of obstacles or walls to land behind enemies and then defeat them with a Triple Blow Combination or Flying Neck Throw!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20190509,
+    "first_update_release_date": 20190508,
+    "latest_update_release_date": 20190508,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190508
+    },
+    "versions": {
+        "65536": 20190508
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Jump! Fight! Grab! Use the assassination arts known as the Five Ninja Fighting Arts to put an end to this unwanted evil!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

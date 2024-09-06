@@ -1,4 +1,37 @@
 {
     "id": "01003FB01ACC4800",
-    "version": 131072
+    "base_tid": "01003FB01ACC4000",
+    "name": "Dude, Where Is My Beer?",
+    "description": "Can you find a normal beer in a world of conspicuously flavoured craft beer, and solve the mystery of the elusive, missing pilsner, using nostalgic interface from the golden age of adventure games? Talk to West Coast IPA and American Black Ale drinking hipsters and solve beer related puzzles at different stages of drunkenness; explore locations like a sports bar, a microbrewery, a dive bar and a rock bar in the city of Oslo, in your quest of finding a pilsner.",
+    "publisher": "Arik Games",
+    "developer": null,
+    "base_release_date": 20230418,
+    "first_update_release_date": 20231016,
+    "latest_update_release_date": 20231214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231214
+    },
+    "versions": {
+        "65536": 20231016,
+        "131072": 20231214
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "An old school point and click adventure game about finding a pilsner in the confusing world of unnecessary craft beers and snobby hipsters.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

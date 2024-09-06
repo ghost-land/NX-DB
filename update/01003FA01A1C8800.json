@@ -1,4 +1,40 @@
 {
     "id": "01003FA01A1C8800",
-    "version": 65536
+    "base_tid": "01003FA01A1C8000",
+    "name": "Pixel Boy - Lost in the Castle",
+    "description": "Pixel Boy: Lost in the Castle is a classic 2D pixel art game similar to games from the 80's. The mission is simple: Move the red box to the target and find a way out!\n\nCreative thinking and problem solving is more than necessary to solve all levels. But do not worry! If you get stuck, you can always use the golden crown to skip a level.\n\nFeatures\n\n- 96 game levels to solve\n- Pixel art graphics\n- 3 gold crowns to skip levels\n- No time limit\n- No enemies",
+    "publisher": "AppsGears",
+    "developer": null,
+    "base_release_date": 20230102,
+    "first_update_release_date": 20230421,
+    "latest_update_release_date": 20230421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230421
+    },
+    "versions": {
+        "65536": 20230421
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "2D puzzle game in pixel art graphics. Solve almost 100 levels. No time limit, no enemies. Just fun.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

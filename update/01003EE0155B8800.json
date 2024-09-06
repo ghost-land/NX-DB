@@ -1,4 +1,35 @@
 {
     "id": "01003EE0155B8800",
-    "version": 65536
+    "base_tid": "01003EE0155B8000",
+    "name": "Blackjack Hands 二十一點拼圖",
+    "description": "【遊戲特色】\n●用十字鍵移動卡片，當兩張牌碰在一起時，它們合二爲一！\n●嘗試在獨創的50個關卡上擊敗莊家吧。\n●本遊戲的設計，不只是經驗豐富的熟練玩家，連新手也可以輕鬆享樂。（就算您不了解二十一點的規則，也不會影響遊玩本遊戲！）\n●是一款輕鬆，又會上癮的拼圖遊戲。",
+    "publisher": "HYBRID SQUAD",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20220720
+    },
+    "category": [
+        "益智",
+        "桌上遊戲",
+        "實用",
+        "訓練"
+    ],
+    "intro": "按正確的順序合併相鄰的牌來擊敗莊家。 ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

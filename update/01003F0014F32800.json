@@ -1,4 +1,39 @@
 {
     "id": "01003F0014F32800",
-    "version": 131072
+    "base_tid": "01003F0014F32000",
+    "name": "Chroma Quaternion",
+    "description": "In a world with four kingdoms, each colored by a season, where roles are granted by the Quadeities, strange happenings suddenly threaten the peace there. A quest begins to find each one's calling in this intrigued fate and journey through the kingdoms to get to the bottom of the mystery!\n\nMake use of up to three roles per character to enjoy the variety in skills, effects and even costumes. In turn-based battles you can charge special orbs to use Act Over and launch up to four continuous actions. It's fun just to watch the charm of pixel arts in this fantasy JRPG!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20210603,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20230802,
+        "131072": 20240419
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "A quest around four kingdoms, colored by the seasons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Scary Scenes",
+        "Sexualised Imagery",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

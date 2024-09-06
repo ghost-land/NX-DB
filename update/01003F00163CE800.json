@@ -1,4 +1,45 @@
 {
     "id": "01003F00163CE800",
-    "version": 131072
+    "base_tid": "01003F00163CE000",
+    "name": "Batman: Arkham City",
+    "description": "Step into the shadows of Batman: Arkham City’s open world, the new maximum security “home” for thugs, gangsters, and insane criminal masterminds.\n\nExperience critically acclaimed gameplay & AAA original storytelling, PLUS all DLC, in one complete package, now on Nintendo Switch™.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20231201,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20240126,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240126
+    },
+    "versions": {
+        "65536": 20231129,
+        "131072": 20240126
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01003F6019FE8800",
-    "version": 65536
+    "base_tid": "01003F6019FE8000",
+    "name": "Neko Journey",
+    "description": "Leap into a colorful and mysterious fantasy world as you take the role of a neko heroine! An old wizard has plagued the land, endangering the mythical creatures that inhabit it and imprisoning your sister, and you’ll have to brave all manner of malicious sorcery to save them. Neko Journey is a 2.5D side-scrolling action platformer presented with lush 3D visuals, combining nostalgic old-school gameplay mechanics with modern flair.\n\nFrom green jungles and grassy plains to snowfields and underwater zones, this journey will be as scenic as it is perilous. Plus you can dress up your heroine with a wide variety of outfits, dye hair, change skin tone and more to further personalize the experience!\n\nFeatures:\n\n• Run, slide, leap and glide through 2.5D side-scrolling stages!\n• Customize your heroine with different outfits, hair styles and skin tones.\n• Traverse forests, snowfields, castle halls, dungeons and more!\n• Use a skill radial to switch between elemental abilities.\n• Collect coins in each level to earn special rewards!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230818,
+    "first_update_release_date": 20231003,
+    "latest_update_release_date": 20231003,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231003
+    },
+    "versions": {
+        "65536": 20231003
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Embark on a quest to rescue your sister from an evil wizard in a mix of retro and modern platforming style!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Nudity",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

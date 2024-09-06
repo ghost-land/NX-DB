@@ -1,4 +1,40 @@
 {
     "id": "01003F900E74E800",
-    "version": 65536
+    "base_tid": "01003F900E74E000",
+    "name": "Evan's Remains",
+    "description": "Evan's Remains is a mystery-thriller puzzle adventure about finding a missing boy: Evan. The game combines logic-based platform puzzles with visual-novel style narrative inspired by Japanese graphic adventure games.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "A mystery-thriller puzzle adventure about finding a genius boy. \n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language"
+    ],
+    "region": null
 }

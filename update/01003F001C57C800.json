@@ -1,4 +1,39 @@
 {
     "id": "01003F001C57C800",
-    "version": 196608
+    "base_tid": "01003F001C57C000",
+    "name": "Jett Rider",
+    "description": "Jett Rider, the most unlikely hero stars in the biggest 2D adventure of the year. Save the planet Gravos, free its people, face the toughest bosses... And don't forget to recycle!\n\nA collision in the orbit of the planet Gravos is the starting point of an unforgettable adventure with tons of fun and love for the classics. Jett, the space sweeper, was only supposed to pick up the wreckage of the AC-137 cargo ship, but he soon discovered that something messy was brewing on the surface of Gravos.\n\nFeatures\n\n- Shooter action, exploration, lots of humor and impressive bosses.\n- Upgrade your jetpack and skills to reach unexplored areas of Gravos.\n- Make money by recycling space debris.\n- Expand your arsenal and choose your favorite weapon.\n- Collect the Golden Idols and exchange them for unique items at the Peach Store.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20240125,
+    "first_update_release_date": 20240129,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20240129,
+        "131072": 20240216,
+        "196608": 20240317
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "An epic action adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,48 @@
 {
     "id": "01003F001BFF4800",
-    "version": 262144
+    "base_tid": "01003F001BFF4000",
+    "name": "West Hunt",
+    "description": "Among the hardworking townsfolk hides a few Outlaws causing mischief and mayhem across town. Luckily, there are eagle-eyed Sheriffs ready to sniff them out! No matter what role you play, you're sure to have a hog-killin' time!",
+    "publisher": "Snail Games USA",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20240309,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20240309,
+        "131072": 20240322,
+        "196608": 20240530,
+        "262144": 20240702
+    },
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Other"
+    ],
+    "intro": "A multiplayer social deduction game set in the Old West!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

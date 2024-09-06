@@ -1,4 +1,36 @@
 {
     "id": "01003F2016754800",
-    "version": 131072
+    "base_tid": "01003F2016754000",
+    "name": "CRYSTAR",
+    "description": "To atone for her sins, Rei must fight her way through Purgatory and save her fallen sister. Swap between a cast of four playable characters and unravel the truths and tragedies of their pasts. Turn your pain into power by summoning mighty Guardians to stand alongside you. And when overwhelmed with grief, draw strength from your tears to grow stronger.\n\nBy overcoming the enemies around her, and the inner conflict within her, only then will Rei release herself from her own suffering.\n",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20220329,
+    "first_update_release_date": 20220301,
+    "latest_update_release_date": 20220318,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220318
+    },
+    "versions": {
+        "65536": 20220301,
+        "131072": 20220318
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "With tears shed, you shall revive the dead.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "01003FB00E954800",
-    "version": 65536
+    "base_tid": "01003FB00E954000",
+    "name": "Arcade Archives Yie Ar KUNG-FU",
+    "description": "\"Yie Ar KUNG-FU\" is an action game released by KONAMI in 1985.\nThe main character, Oolong, joins a high-level kung-fu contest in order to avenge his father's death.\nThe game is one of the pioneers of the fighting game genre today. Players can enjoy authentic battles against martial artists who use different fighting styles.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20191115,
+    "first_update_release_date": 20191113,
+    "latest_update_release_date": 20191113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191113
+    },
+    "versions": {
+        "65536": 20191113
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Learn the true secrets behind kung-fu fighting!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

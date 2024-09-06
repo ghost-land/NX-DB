@@ -1,4 +1,44 @@
 {
     "id": "01003EB010008800",
-    "version": 131072
+    "base_tid": "01003EB010008000",
+    "name": "inbento",
+    "description": "Experience a calming, wordless story about cats and parenthood by solving adorable puzzles in inbento. Relax, tease your brain, and prepare tasty bento dishes. Arrange them in an elaborate lunchbox while sticking to the recipe shown on screen.\n\nComplete over 100 fun puzzles, aesthetically served with traditional boiled rice. Immerse yourself in a silent tale about a cute family of felines and enjoy the tranquil soundtrack. Master the mechanics, follow the hand-crafted recipes, and beat all the bonus stages in this culinary logic game.\n\nLife of a modern cat can be stressful. Why don't you PAWS for a second and relax with a few rounds of inbento? (=^.^=)",
+    "publisher": "7Levels",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20200227,
+    "latest_update_release_date": 20210511,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210511
+    },
+    "versions": {
+        "65536": 20200227,
+        "131072": 20210511
+    },
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Open your cookbook, grab a lunchbox, and start preparing exceptional bento meals through the amazing puzzles in inbento!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

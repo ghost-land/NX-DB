@@ -1,4 +1,34 @@
 {
     "id": "01003EA012E90800",
-    "version": 65536
+    "base_tid": "01003EA012E90000",
+    "name": "STRIKERS 1945 II for Nintendo Switch",
+    "description": "經常去遊樂中心的人可能都聽過《STRIKERS》這個名字。\n《STRIKERS1945II》是以第二次世界大戰後為背景，透過操作6架戰鬥機中的其中一架來擊落敵機的正宗射擊遊戲。\n即使對傾瀉而下的高速彈感到憤怒，但面對無數的敵彈最後，也許會流下感動的淚水。\n想享受深度射擊的玩家、對反射神經有自信的玩家！遊玩STRIKERS1945II吧！\n",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20201118,
+    "first_update_release_date": 20210720,
+    "latest_update_release_date": 20210720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210720
+    },
+    "versions": {
+        "65536": 20210720
+    },
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": "系列中完成度最高的作品！遊樂中心征服者戰鬥機射擊STRIKERS系列第2彈！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

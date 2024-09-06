@@ -1,4 +1,32 @@
 {
     "id": "01003FF009E60800",
-    "version": 131072
+    "base_tid": "01003FF009E60000",
+    "name": "Grab the Bottle",
+    "description": "Grab the Bottle is a quirky puzzle game in which you solve puzzles by stretching your arm through the level. \n\nYou need to maneuver an ever-extending arm to grab the goal bottle, avoiding anything hazardous on the way. To make things more tricky, Grab the Bottle brings physics and puzzles to the mix. You must grab, pull and drop objects to get to the goal bottle. On the way you will find different kinds of obstacles that need to be dealt with. \n\nThe story of the game begins in the 50s, somewhere in rural America, where one particularly strong minded baby is taking his first steps and discovers that anything is possible. Especially as he seems to have an infinitely stretchy arm.\n\nGrab the Bottle follows the life of this boy, from cradle to grave, solving many levels of puzzles inspired by “real life problems” on the way. Central element to the story is the specific craving for bottles the main character has.\n\nFeatures:\n- Innovative, twisted way of solving puzzles by stretching and retracting your arm\n- Story mode with dozens of levels set in locations ranging from attics to amusement parks, around 7 to 10 hours total\n- Awesome soundtrack featuring various styles of music, reflecting different life-phases of the main character",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180620,
+    "first_update_release_date": 20180605,
+    "latest_update_release_date": 20180618,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180618
+    },
+    "versions": {
+        "65536": 20180605,
+        "131072": 20180618
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Innovative, twisted way of solving puzzles by stretching and retracting your arm.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
