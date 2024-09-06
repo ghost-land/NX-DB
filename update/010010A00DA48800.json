@@ -1,4 +1,37 @@
 {
     "id": "010010A00DA48800",
-    "version": 262144
+    "base_tid": "010010A00DA48000",
+    "name": "Baldur's Gate and Baldur's Gate II: Enhanced Editions",
+    "description": "Legendary Dungeons & Dragons classics are now on Nintendo Switch™! Immerse yourself in an epic RPG series where every choice matters. Play over 100 hours of adventure in enhanced editions of Baldur’s Gate and Baldur’s Gate II— plus the full Siege of Dragonspear expansion!\n\n- CONTENT - \n\nBALDUR’S GATE: ENHANCED EDITION\nBaldur’s Gate: Enhanced Edition brings you the classic RPG with fresh updates for modern adventurers. Customize your hero, recruit a party of brave allies, and explore the Sword Coast in your search for adventure, profit…and the truth. The enhanced edition includes:\n• The Original Baldur’s Gate Campaign\n• The Sword Coast Expansion\n• New challenges in the Black Pits arena\n\nBALDUR’S GATE II: ENHANCED EDITION\nThe legendary adventure continues as you explore the Forgotten Realms and discover your destiny! Includes the original campaign and expansions: \n• The original Shadows of Amn campaign\n• The Throne of Bhaal expansion\n• New challenges in the Black Pits II arena\n\nBALDUR’S GATE: SIEGE OF DRAGONSPEAR (Expansion)\nExplore a brand new chapter in the Baldur’s Gate Saga! Siege of Dragonspear is a full expansion to Baldur’s Gate: Enhanced Edition, with 25+ hours of adventure in the classic style of the original RPG.\n\n- LANGUAGES -\nBaldur’s Gate: Enhanced Edition supports the following languages: English, French, Italian, German, Spanish, Polish, Russian, Brazilian Portuguese, Czech, Hungarian, Turkish, Ukrainian, Japanese, Korean, Simplified Chinese\n\nBaldur’s Gate II: Enhanced Edition supports the following languages: English, French, Italian, German, Spanish, Polish, Russian, Korean, Simplified Chinese\n\nBaldur’s Gate: Siege of Dragonspear supports the following languages: English, French, Italian, German, Brazilian Portuguese, Ukrainian\n\n*Note: Non-English languages are available as free downloadable content",
+    "publisher": "Beamdog",
+    "developer": null,
+    "base_release_date": 20191015,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20220120,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220120
+    },
+    "versions": {
+        "65536": 20191014,
+        "131072": 20191014,
+        "196608": 20191111,
+        "262144": 20220120
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Gather your party: the RPG saga returns!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

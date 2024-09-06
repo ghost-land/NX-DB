@@ -1,4 +1,43 @@
 {
     "id": "010010900F7B4800",
-    "version": 196608
+    "base_tid": "010010900F7B4000",
+    "name": "Bubble Bobble 4 Friends: The Baron is Back!",
+    "description": "Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through the levels to defeat the wicked wizard Bonner and his henchmen. The Baron is BACK with 100 brand new stages, making a grand total of 200 stages to complete. \n\nCollect E-X-T-E-N-D bubbles to activate and upgrade skills, such as lightning and bomb bubbles. Develop countless new strategies to travel through the worlds and take advantage of air currents. Also included is the original Bubble Bobble arcade game from 1986, which captured the hearts of players around the world and still has fans humming its title melody today.\n\nA celebration for fans and fun for the whole family!",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20191120,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20201117,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201117
+    },
+    "versions": {
+        "65536": 20191211,
+        "196608": 20201117
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "The popular dragons Bub and Bob are back! Bubble Bobble 4 Friends: The Baron is Back! is the latest game in the legendary Bubble Bobble series from Taito.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

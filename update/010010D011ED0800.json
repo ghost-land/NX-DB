@@ -1,4 +1,35 @@
 {
     "id": "010010D011ED0800",
-    "version": 262144
+    "base_tid": "010010D011ED0000",
+    "name": "真・女神轉生Ⅲ NOCTURNE HD REMASTER",
+    "description": "作為系列屈指名作而留下傳說的『真・女神轉生III NOCTURNE』，終於以繁體中文版初次登場！\n\n――東京逝去，而我誕生了\n\n200X年。日常突然迎來了終結。\n日本的首都因「東京受胎」而魔界化。\n只剩下為數不多的生存者，成了惡魔的世界。\n在徹底改變的「東京」舞台，\n化成惡魔的少年，\n編織著「新世界創造」的選擇及糾葛的故事。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20201029,
+    "first_update_release_date": 20201028,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20201028,
+        "131072": 20201223,
+        "196608": 20210204,
+        "262144": 20210428
+    },
+    "category": [
+        "角色扮演",
+        "模擬",
+        "冒險",
+        "動作"
+    ],
+    "intro": "獻給所有遊戲粉絲的傳說級RPG",
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

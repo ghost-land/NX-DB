@@ -1,4 +1,37 @@
 {
     "id": "0100100016FB0800",
-    "version": 262144
+    "base_tid": "0100100016FB0000",
+    "name": "Lil Gator Game",
+    "description": "The island is your playground\nThere’s a buddy atop every hill in this open-world, movement-focused adventure and they all seem to need help! Bop cardboard baddies, brave serene hills and forests, and scale sheer rocks that only a kid would dare! \n\nJoyful Exploration\nExplore a lovingly crafted island full to the brim with areas to discover, friends to make and joy to be had. Each area of the island brings unique quests and characters to meet. Glide through the mountain tops and drop in on the Theatre Troupe kids, swing your stick sword through the forest with the Prep schoolers or find the ‘Cool Kids’ down in the Creaklands. With plenty more areas to discover, there's no knowing who you might run into!\n\nMake Friends\nThe world is big when you’re a lil gator... Good thing it’s also full of friends! Make new friends and invite them to play in the island's playground. Each new friend you make will add to your adventure, but making new friends isn’t always easy, You might have to complete a quest or two!\n\nCrafty Customization\nCollect arts & crafts supplies all over the island! Use them to make yourself all kinds of goodies and bring the playground to life! Craft new abilities - use your ragdoll teddy to ragdoll lil gator from mountaintop to the valleys below! Skim pebbles into hard-to-reach cardboard baddies!\n\nBop Baddies\nA no-pressure adventure game! Lil Gator game focuses on adventure and play, don't let a health bar hold you back from reaching your goal!",
+    "publisher": "Playtonic Friends",
+    "developer": null,
+    "base_release_date": 20221214,
+    "first_update_release_date": 20221207,
+    "latest_update_release_date": 20230824,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230824
+    },
+    "versions": {
+        "65536": 20221207,
+        "131072": 20230206,
+        "196608": 20230316,
+        "262144": 20230824
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Embark on an adorable adventure. Climb, Swim, Glide and slide your way into the hearts of the many different characters you meet on your travels!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

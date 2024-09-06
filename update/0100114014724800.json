@@ -1,4 +1,41 @@
 {
     "id": "0100114014724800",
-    "version": 262144
+    "base_tid": "0100114014724000",
+    "name": "Pathway",
+    "description": "In 1936, Nazi influence has spread, along with rumours of secret excavations, mysterious artefacts, and gruesome occult rituals... Assemble a bold team of adventurers and journey through the desert-wilderness. Outwit foes in strategic squad combat and locate ancient treasures before they fall into the wrong hands!\n\n• DYNAMIC ADVENTURES - Discover 5 different campaigns of varying difficulty, each attempt generating a new web of events...\n\n• TOUGH CHOICES - Encounter hand-crafted story events. Search the well? Save the villagers? It's up to you!\n\n• DECISIVE CONFLICTS - Use cover and positioning in exciting turn-based squad combat. Learn to make the best use of your team's abilities and equipment in order to defeat the enemy!\n\n• BUILD YOUR TEAM OF ADVENTURERS - Each of Pathway’s 16 unlockable characters has their own set of skills and quirks which can impact combat and story encounters.\n\n• HIDDEN TREASURES - Trade-in your high-value loot in order to upgrade your team's arsenal with increasingly rare weapons and armour.\n\n• RECOVER & REPLAY - Experiment with different team combinations until your foes have been vanquished!",
+    "publisher": "Chucklefish",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210513,
+    "latest_update_release_date": 20210622,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210622
+    },
+    "versions": {
+        "131072": 20210513,
+        "196608": 20210602,
+        "262144": 20210622
+    },
+    "category": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "A rip-roaring adventure into the unknown...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

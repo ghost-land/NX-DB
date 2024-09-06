@@ -1,4 +1,50 @@
 {
     "id": "010010701AFB2800",
-    "version": 851968
+    "base_tid": "010010701AFB2000",
+    "name": "Nickelodeon All-Star Brawl 2",
+    "description": "Nickelodeon All-Star Brawl 2 lets you duke it out with the biggest and best fighting character roster yet, including all new characters like SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Squidward Tentacles, Jimmy Neutron, and more!\n\nChoose your favorite brawlers, master their unique move sets, and use all-new powerful Supers to land the finishing blow with friends or across a unique, roguelike player campaign!\n\nFeaturing:\n• New Single-Player Campaign: Put your skills to the test as you fight to stop Danny Phantom archvillain Vlad Plasmius from taking over the Nickelodeon universe!\n\n• All-New Gameplay: New and revamped visuals meets new audio, animations, modes, stages, mechanics, taunts and move sets for all levels of play!\n\n• Cinematic Supers: Power up your fighters with incredible new animated supers to deal devastating blows to your opponents!\n\n• New & Improved Brawlers: Nickelodeon All-Star Brawl 2’s roster is better than ever, with even more variety in how each unique character plays. Battle with brand new Nickelodeon fighters as well as returning fan favorites!",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20231107,
+    "first_update_release_date": 20231107,
+    "latest_update_release_date": 20240818,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20240818
+    },
+    "versions": {
+        "65536": 20231107,
+        "131072": 20231123,
+        "196608": 20231201,
+        "262144": 20231222,
+        "393216": 20240215,
+        "458752": 20240301,
+        "524288": 20240424,
+        "655360": 20240626,
+        "720896": 20240703,
+        "851968": 20240818
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Brawl is Back!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

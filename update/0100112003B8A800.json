@@ -1,4 +1,37 @@
 {
     "id": "0100112003B8A800",
-    "version": 262144
+    "base_tid": "0100112003B8A000",
+    "name": "Slime-san",
+    "description": "Synopsis\nSlime-san was minding his own business, sliming around in a peaceful forest when suddenly…A giant worm appeared and gobbled him up! \nNow deep within the worm’s belly, Slime-san has to face a decision: Be digested by the incoming wall of stomach acid... Or jump, slide and slime his way through the worms intestines and back out its mouth!\n\nFeatures\n- Incredibly fast-paced and twitch-timing platforming madness!\n- No time to stay still as you are chased by a wall of acid at every corner! Run, run, run!\n- Being a slime has its perks. Slime your way through cracked walls and surfaces!\n- Bust through brittle obstacles or tense situations with a speedy dash move.\n- Slime to slow time, dash to speed it up. Feel like an absolute hero with pixel precise maneuvers!\n- A game filled with content: 100 levels made out of 400 rooms combined with 100 newgame+ levels totaling to a staggering 200 levels and 800 rooms!\n- Collect partially-digested apples to unlock different play styles, outfits, shaders and mini games!\n- Unlock competitive multiplayer arcade games that recall titles of the past!\n- Get your shopping done in a town of survivors within the worm, home to colorful characters and surprising secrets.\n- Each level is timed with online rankings, for the competitive and score-oriented.\n- Unlock extra game modes like New Game+, Speed Running and Boss Rush modes!\n- Get engrossed in a flexible, 5 colored, pixelated world…found… within… the worm?\n- 14 composers contributed with over 20 songs for a chiptune album that you can't help but groove out to!",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20170803,
+    "first_update_release_date": 20170922,
+    "latest_update_release_date": 20180710,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20180710
+    },
+    "versions": {
+        "65536": 20170922,
+        "131072": 20171003,
+        "196608": 20180222,
+        "262144": 20180710
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Aid Slime-san in his escape from a giant worm!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

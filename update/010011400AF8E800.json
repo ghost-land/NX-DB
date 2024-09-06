@@ -1,4 +1,40 @@
 {
     "id": "010011400AF8E800",
-    "version": 131072
+    "base_tid": "010011400AF8E000",
+    "name": "Julie's Sweets",
+    "description": "We've all been there, a young woman at the crossroads of life - which way to go? Help family business, chase college diploma or crazily fall in love?\nWhy not all at the same time? Julie faces these questions in thrilling story where she's questioning her self confidence, her values and is it all worth the effort?\nOf course it is and Julie finds all the answers in her own way while enrolling to prestigious cooking school 'Le Cookery'. Will she make it, and most importantly, how can you help her?\n\nThis story driven restaurant time management game features:\n- Play your way through 60 story levels plus 18 challenge levels\n- Help Julie to enroll to prestigious cooking school 'Le Cookery' and master the craft of making sweets\n- Earn hearts and build collection of essential cooking and baking tools to create wonderful sweets\n- Take in six fun locations including Julie's old family bakery and French Patisserie\n- Help Julie to discover why she shouldn't compare her insides with someone else's outsides\n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20181122,
+    "first_update_release_date": 20190116,
+    "latest_update_release_date": 20190423,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190423
+    },
+    "versions": {
+        "65536": 20190116,
+        "131072": 20190423
+    },
+    "category": [
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Julie's Sweets is story driven time management game with 60 story and 18 challenge levels. Delicious donuts, cupcakes and pies, make them quick and time flys.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

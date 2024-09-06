@@ -1,4 +1,37 @@
 {
     "id": "010011401CA3C800",
-    "version": 131072
+    "base_tid": "010011401CA3C000",
+    "name": "Heads Up! Phones Down Edition",
+    "description": "Showcase your wit (or lack thereof) in this hilarious party game, fit for the big screen!\n\nHeads Up is a Party Game\nTurn your back to the TV, and guess the word or phrase on the screen behind you with the help of your friends or family.\n\nThat Invites Everyone to Play\nIt doesn’t matter if you’re an expert or you’ve never played before—anyone can jump right in. \n\nAnd Be Silly\nObservers can give hints by using funny accents, acting out, and shouting clues while the guesser tries to figure out the word on the screen. OR break down in desperation when you can’t figure it out.\n\nFor Endless Hours\nThere are over 90 decks covering pop culture, movies, trivia, celebrities, animals, and so much more. ",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20231109,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20240207
+    },
+    "category": [
+        "Party",
+        "Puzzle",
+        "Board Game",
+        "Lifestyle"
+    ],
+    "intro": "Showcase your wit (or lack thereof) in this hilarious party game. Heads Up! Phones Down Edition is fit for the big screen! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Drug Reference",
+        "Suggestive Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

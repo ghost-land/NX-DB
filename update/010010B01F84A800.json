@@ -1,4 +1,40 @@
 {
     "id": "010010B01F84A800",
-    "version": 65536
+    "base_tid": "010010B01F84A000",
+    "name": "MERGE BLOCK PUZZLE",
+    "description": "Grab the blocks with the same number and move them. The number of the fused blocks will be +1, and multiple blocks will be fused into one.\nBeware of the increasing number of blocks as time goes by and keep fusing them. The goal is 100!\n \nThere are 2 game modes.\nThere are two game modes: the mode with props and the mode without props.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20240627,
+    "first_update_release_date": 20240715,
+    "latest_update_release_date": 20240715,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240715
+    },
+    "versions": {
+        "65536": 20240715
+    },
+    "category": [
+        "Puzzle",
+        "Training",
+        "Study"
+    ],
+    "intro": "Move the blocks with the same number to fuse them together.\nAs time goes by, the blocks will be added to the game, so ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

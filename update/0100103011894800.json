@@ -1,4 +1,42 @@
 {
     "id": "0100103011894800",
-    "version": 196608
+    "base_tid": "0100103011894000",
+    "name": "Naught",
+    "description": "Naught is a platform videogame with a unique control where you rotate the environment to change gravity and guide the main character, Naught, through labyrinth levels full of challenges, hidden places and secrets. \n\nFeaturing varied, dynamic gameplay, Naught explores 40 levels where he must dodge danger and enemies arising from the shadows, discover hidden places, collect seeds of light that will help him access blocked areas, and recover the diamond fragments that possess enormous power. Throughout his adventure, he will be accompanied by the Spirit of the Tree, who will help him find his way through extremely narrow and complex labyrinths. You can also enjoy a time trial challenge on every level.\n\nIn Naught, you will discover an underground world full of lights and shadows, connected to the exciting story of our character: a soul awakened to face the shadows and protect what he loves the most.",
+    "publisher": "Wild Sphere",
+    "developer": null,
+    "base_release_date": 20200731,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20230206,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230206
+    },
+    "versions": {
+        "65536": 20200819,
+        "131072": 20201104,
+        "196608": 20230206
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Test your skills on your Nintendo Switch™, take control of the environment, and guide Naught through deep underground labyrinths full of mystery.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

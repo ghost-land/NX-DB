@@ -1,4 +1,37 @@
 {
     "id": "0100101011ED2800",
-    "version": 196608
+    "base_tid": "0100101011ED2000",
+    "name": "진·여신전생3 NOCTURNE HD REMASTER",
+    "description": "시리즈 굴지의 명작으로 전설이 된 그 『진 여신전생3 NOCTURNE 』이 한글판으로 등장! \n\n―― 도쿄가 죽고, 내가 태어났다\n\n200X 년. 일상은 돌연히 최후를 맞이했다.\n일본의 수도는 「도쿄 수태」에 의해 마계화.\n몇 안 되는 생존자를 남기고, 악마의 세계가 된다.  \n몰락한 \"도쿄\"에서\n스스로 악마가 된 소년은\n「신세계 창조」의 선택과 갈등의 이야기를 자아낸다.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20201029,
+    "first_update_release_date": 20201028,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20201028,
+        "131072": 20210204,
+        "196608": 20210428
+    },
+    "category": [
+        "RPG",
+        "시뮬레이션",
+        "어드벤처",
+        "액션"
+    ],
+    "intro": "최고의 명작RPG가 다시 강림",
+    "isDemo": false,
+    "languages": [
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "선정성",
+        "폭력성"
+    ],
+    "region": null
 }

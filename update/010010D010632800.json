@@ -1,4 +1,35 @@
 {
     "id": "010010D010632800",
-    "version": 131072
+    "base_tid": "010010D010632000",
+    "name": "Bouncing Hero",
+    "description": "Explore the castle packed with highly sophisticated traps by a knight riding pogo stick with your amazing control!\n\nThe castle, that is thirteen-story high and covered by magical power, changes its map every time randomly when you start to play. And statues with dead man's spirit are ready to threaten you in this scary castle. Well, who will be the one conquering this tower?",
+    "publisher": "Turtle Cream",
+    "developer": null,
+    "base_release_date": 20210122,
+    "first_update_release_date": 20210120,
+    "latest_update_release_date": 20210623,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210623
+    },
+    "versions": {
+        "65536": 20210120,
+        "131072": 20210623
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Extreme auto-jumping action game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

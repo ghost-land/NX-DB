@@ -1,4 +1,34 @@
 {
     "id": "0100105017ABC800",
-    "version": 65536
+    "base_tid": "0100105017ABC000",
+    "name": "QUByte Classics: Jim Power: The Lost Dimension by PIKO",
+    "description": "QUByte Classics: Jim Power: The Lost Dimension by PIKO is a classic action-adventure platformer that brings the special agent Jim Power, to save our planet from the supernatural alien, Vaprak. \n\nHis forces are too strong, a direct attack would not be effective and that’s why Jim Power has to slip through the defenses and attempt to stop this threat. It’s up to the player to reach Vaprak’s fortress and send him back from where he came.\n\nUpgrade your weapons, jump carefully through the platforms, eliminate the enemies and reach the peak of your skills to save the planet from the never knew evil.\n\n\nGame Features\n-\tChallenging platforming and shooting combat\n-\tGameplay variety, such as different perspectives, different  enemies and weapons upgrades\n-\t4 screen filters (Sharp, Smooth, XBR and CRT)\n-\t3 screen types (Normal, Fit and Stretch)\n\n\nPIKO Interactive and QUByte Interactive.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20220602,
+    "first_update_release_date": 20220609,
+    "latest_update_release_date": 20220609,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220609
+    },
+    "versions": {
+        "65536": 20220609
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Defeat the greatest evil man has ever know to save our planet!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

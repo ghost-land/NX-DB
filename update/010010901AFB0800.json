@@ -1,4 +1,41 @@
 {
     "id": "010010901AFB0800",
-    "version": 196608
+    "base_tid": "010010901AFB0000",
+    "name": "The Walking Dead: Destinies",
+    "description": "Begin your journey as Rick Grimes, waking alone in a hospital surrounded by the dead. Assemble allies and fight your way through the walker apocalypse across iconic locations from The Walking Dead, including Atlanta, the Greene family farm, the prison, and Woodbury. In crucial choice-driven moments, you’ll forever shape the destiny of your team of characters from the series. Heroes and villains, living and dead – it’s up to you to decide whether to stay the course of history or forge your own path through the world of AMC’s The Walking Dead.\n\n• Shatter Fate: Alter the story of AMC’s The Walking Dead by weaving your own path through the series’ events. Save the villain, kill the hero… and live with the consequences.\n\n• Slash, Bash, and Shoot the Undead: Slay hordes of walkers in third-person action with a variety of melee and ranged weapons, including bats, katanas, revolvers, shotguns, and crossbows.\n\n• Play as 13 Iconic Characters: Assemble your roster from from AMC’s The Walking Dead, including Rick, Shane, Michonne, Carol, Daryl, and more.          \n\n• Survive the Apocalypse: Manage limited resources, scavenge for weapons and ammo, and maximize your party’s abilities to stay alive.\n\n• Experience the Tension: Defend your camp, rescue survivors, and fight through stealth and all-out combat. Get one last chance at survival in a “broken state” before the zombie threat overwhelms you.",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20231117,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240125
+    },
+    "versions": {
+        "131072": 20231123,
+        "196608": 20240125
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "CHANGE THE STORY. SHATTER FATE",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language"
+    ],
+    "region": null
 }

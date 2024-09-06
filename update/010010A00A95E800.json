@@ -1,4 +1,46 @@
 {
     "id": "010010A00A95E800",
-    "version": 196608
+    "base_tid": "010010A00A95E000",
+    "name": "Sayonara Wild Hearts",
+    "description": "Sayonara Wild Hearts is a dreamy arcade game about riding motorcycles, skateboarding, dance battling, shooting lasers, wielding swords, and breaking hearts at 200 mph.\n\nAs the heart of a young woman breaks, the balance of the universe is disturbed. A diamond butterfly appears in her dreams and leads her through a highway in the sky, where she finds her other self: the masked biker called The Fool.\n\nJourney through a custom-written pop soundtrack, chase scores, and set out to find the harmony of the universe, hidden away in the hearts of Little Death and her star-crossed allies: Dancing Devils, Howling Moons, Stereo Lovers and Hermit 64.\n\nLet’s Pop!",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20190919,
+    "first_update_release_date": 20190919,
+    "latest_update_release_date": 20200805,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200805
+    },
+    "versions": {
+        "65536": 20190919,
+        "131072": 20191017,
+        "196608": 20200805
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A Pop Album Video Game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

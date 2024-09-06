@@ -1,4 +1,45 @@
 {
     "id": "0100115012260800",
-    "version": 524288
+    "base_tid": "0100115012260000",
+    "name": "SWORD ART ONLINE Alicization Lycoris",
+    "description": "They always shared the same moments. They thought it would be like this for eternity.\n―――\nKirito awakens in a completely unknown virtual world, but something about it feels a bit familiar...\n\nSet in Underworld, an expansive world introduced in the SWORD ART ONLINE anime, Kirito sets out on adventure in the series' latest RPG!\n\nEnjoy seamless, action-packed real-time battles using a combination of sword skills, sacred arts, and your favorite SAO characters!\n\nKirito meets a boy named Eugeo. Somewhere deep within their hearts is a lingering promise. To fulfill that promise and avoid losing each other, they set out on adventure together. Nothing will keep them from reaching their goal.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20220930,
+    "first_update_release_date": 20220917,
+    "latest_update_release_date": 20230327,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20230327
+    },
+    "versions": {
+        "65536": 20220917,
+        "131072": 20221003,
+        "196608": 20221012,
+        "262144": 20221027,
+        "393216": 20230115,
+        "524288": 20230327
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
