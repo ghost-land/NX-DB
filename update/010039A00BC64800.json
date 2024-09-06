@@ -1,4 +1,35 @@
 {
     "id": "010039A00BC64800",
-    "version": 65536
+    "base_tid": "010039A00BC64000",
+    "name": "Wasteland 2: Director's Cut",
+    "description": "From the Producer of the original Fallout comes Wasteland 2, the sequel to the first-ever post-apocalyptic computer RPG.\n\nThe Wasteland's hellish landscape is waiting for you to make your mark... or die trying. With over 80 hours of gameplay, you will deck out your Desert Ranger squad with the most devastating weaponry this side of the fallout zone, test the limits of your strategy skills, and bring justice to the wasteland. ",
+    "publisher": "inXile Entertainment",
+    "developer": null,
+    "base_release_date": 20180913,
+    "first_update_release_date": 20190115,
+    "latest_update_release_date": 20190115,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190115
+    },
+    "versions": {
+        "65536": 20190115
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong violence, sexual references and themes"
+    ],
+    "region": null
 }

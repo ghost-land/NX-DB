@@ -1,4 +1,33 @@
 {
     "id": "01003AB016AEC800",
-    "version": 131072
+    "base_tid": "01003AB016AEC000",
+    "name": "Colormitation",
+    "description": "Fun and addictive puzzle game! Mix and Match Colors! Infinite Gameplay!\n\nARCADE MODE:\nRace against the time to match your canvas with an automatically generated one. Complete the canvas as fast as you can to earn more points!\n\nPRACTICE MODE:\nPlay casually and take all the time you need when mixing and matching your colors on your canvas.",
+    "publisher": "Throwback Entertainment",
+    "developer": null,
+    "base_release_date": 20230710,
+    "first_update_release_date": 20230627,
+    "latest_update_release_date": 20230627,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230627
+    },
+    "versions": {
+        "65536": 20230627,
+        "131072": 20230627
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Practical"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "010039A010DA0800",
-    "version": 65536
+    "base_tid": "010039A010DA0000",
+    "name": "Active Neurons - Puzzle game",
+    "description": "By controlling the power of thought, you must charge the neurons. The more the neurons are charged, the healthier the brain becomes. The healthier the brain becomes, the more of a fully-fledged life the person will live.\n\nIt may seem simple, but it won't be as simple as it seems. To choose the direction of movement, the power of thought should be at rest, so it is important for you to correctly use the obstacles presented on every level.\n\nThink, make a decision, and look for the right path to the neurons in order to charge them.\n\nOur brain works much like a computer without the chips. Neurons are the primary components of the nervous system. They send and receive information in the form of electrical signals from the sensory organs, facilitating communication with the brain.\n\nDo not forget to charge your brain! This is exactly what you need to do in the game, while simultaneously charging the neurons in real life!\n\nFeatures:\n- 120 logical tasks\n- More than 15 types of unique mechanics\n- Meditative music that creates an additional atmosphere in the game\n- Support for color blindness mode",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200429,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20201021,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201021
+    },
+    "versions": {
+        "65536": 20201021
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Music",
+        "Other"
+    ],
+    "intro": "Active Neurons is a game that trains the player in spatial logical thinking.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "01003A800B102800",
-    "version": 327680
+    "base_tid": "01003A800B102000",
+    "name": "One Strike",
+    "description": "\"We have been unable to put this game down since it landed on our Switch.\" - nintendolife.com review 8/10\n\nOnly one strike settles the duel, master the fighting style of each warrior to outsmart your opponents. \n\nChallenge your friends or the AI in easy, medium or hard mode. \n \n7 fighters in medieval Japan:\n• Kenji the honorable samurai and his katana\n• Hinode the ninja striking her Sai weapons at the speed of light\n• Soujirou the monk wielding his long-range Nodashi\n• Hangaku the fastest girl in the East with her Kusarigama\n• Bailong the Chinese veteran and his proud Kwan dao\n• Tomoe the killer with her sharp Wakizashi\n• Oni the demon with his massive Tetsubō\n\n4 modes:\n• One Life: just like in real life, you've got only one\n• Arcade: you get 5 lives to train with your character\n• Team Duel: put together your best team of 3 warriors\n• Tournament: up to 8 players (AI or real person) fight for the final victory!\n \nThe game lets you consult your achievements at any time.",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20180608,
+    "first_update_release_date": 20180611,
+    "latest_update_release_date": 20200901,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200901
+    },
+    "versions": {
+        "65536": 20180611,
+        "131072": 20181026,
+        "196608": 20190110,
+        "262144": 20200507,
+        "327680": 20200901
+    },
+    "category": [
+        "Fighting",
+        "Multiplayer",
+        "Party",
+        "Arcade"
+    ],
+    "intro": "Become the deadliest fighter in a vintage Japan! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

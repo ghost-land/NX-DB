@@ -1,4 +1,35 @@
 {
     "id": "01003AA00A8E2800",
-    "version": 393216
+    "base_tid": "01003AA00A8E2000",
+    "name": "テニス ワールドツアー",
+    "description": "リアルテニスゲームがNintendo Switchについに登場！30名以上の実在するプロ選手を操作して本格的なテニスマッチが体験できる！\n",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20181024,
+    "latest_update_release_date": 20190529,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20190529
+    },
+    "versions": {
+        "65536": 20181024,
+        "131072": 20181212,
+        "196608": 20190220,
+        "262144": 20190321,
+        "327680": 20190521,
+        "393216": 20190529
+    },
+    "category": [
+        "スポーツ",
+        "シミュレーション"
+    ],
+    "intro": "実名プレイヤーが多数参戦！本格テニスゲームがついに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

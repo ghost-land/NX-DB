@@ -1,4 +1,42 @@
 {
     "id": "010039F0185C8800",
-    "version": 65536
+    "base_tid": "010039F0185C8000",
+    "name": "Eyra: The Crow Maiden",
+    "description": "Embark on an epic adventure as Eyra, a young priestess of the Koruhaurus tribe, in Eyra: The Crow Maiden! A captivating 8-bit indie game that blends exploration and action platforming elements. Join Eyra and her loyal crow companion, Nunkamah, on a perilous quest to rescue the kidnapped warriors of their tribe from the clutches of the evil Infernal Marauder.",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20231116,
+    "first_update_release_date": 20231207,
+    "latest_update_release_date": 20231207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231207
+    },
+    "versions": {
+        "65536": 20231207
+    },
+    "category": [
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Embark on a perilous quest with Eyra and Nunkamah to save their tribe and discover wisdom.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

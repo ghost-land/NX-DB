@@ -1,4 +1,38 @@
 {
     "id": "01003AA01373C800",
-    "version": 262144
+    "base_tid": "01003AA01373C000",
+    "name": "Get-A-Grip Chip",
+    "description": "Help Chip save the lost Battery Bots on a perilous journey through the treacherous depths of a robot assembly factory. When piloting Chip, you can't jump, but you can soar over the pits of molten metal, giant crushers, pools of toxic waste, shifting saws and high-powered lasers using your trusty head-mounted grapple! \n\nWith 30 meticulously crafted levels across 5 diverse worlds, Get-a-Grip Chip is sure to get you (grappling) Hooked!  Dodge deadly obstacles, rescue the Battery Bots, and race your friends (or rivals) for the top spot on the leaderboards.\n\nFUN TO LEARN - EVEN MORE FUN TO MASTER\nChip can move side-to-side, grapple to anchor points, and then launch off of them – so anyone can learn to play. But to survive the escalating complexity of the arcade-style levels, you'll build a truly masterful degree of skill and dexterity.\n\nSUSS OUT SECRET SPACES\nSurvive the onslaught of obstacles and you’ll be rewarded with your lost Battery Bot friends.\nThe more Battery Bots you seek, the sooner they'll unlock new levels, bringing Chip closer to the ultimate goal: repairing their malfunctioning friend Scan-It Janet and escaping the factory!\n\nTRIM YOUR TIME TO TAKE THE TOP SPOT\nCompete with your friends and players around the globe for the fastest runs! Hook, launch, and dodge your way through all five floors of the factory and see where you stack up on each level’s leaderboard.\n\nUNLOCK ACHIEVEMENTS AND CUSTOM EQUIPMENT\nIn addition to the primary gameplay, discover and unlock achievements and custom equipment that changes Chip's appearance - custom equipment is themed to each floor, and can be acquired by finding each floor's Battery Bots or completing a variety of additional challenges. \n\nSAVOR THE SOUNDTRACK FLAVOR\nHot tracks accompany the fresh platforming challenges throughout - the original soundtrack is not only chock full of slappers by Stimmerman, but the final level of each world is timed to the beat of its track, so getting into the music will also get you into a perfect gameplay flow.",
+    "publisher": "Redstart",
+    "developer": null,
+    "base_release_date": 20220310,
+    "first_update_release_date": 20210422,
+    "latest_update_release_date": 20220728,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220728
+    },
+    "versions": {
+        "131072": 20210422,
+        "196608": 20220519,
+        "262144": 20220728
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Gear up for grappling action with Get-A-Grip Chip!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

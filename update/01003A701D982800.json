@@ -1,4 +1,33 @@
 {
     "id": "01003A701D982800",
-    "version": 131072
+    "base_tid": "01003A701D982000",
+    "name": "BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien",
+    "description": "Winner of Best Indie Game at the Machinima Inside Gaming Awards and immortalized in the Guinness Book of World Records, this vibrant platformer invites you to explore five mesmerizing worlds, conquer 120 exhilarating levels, and face off against five epic boss battles. Choose from eight unique characters, each with their own flair, as you navigate through visually stunning environments.\n\nAnd here's the twist – the legendary Charles Martinet, known for his iconic role as the voice of Mario, serves as the charismatic narrator, adding a touch of whimsy to your rhythmic adventure. The real star? The electrifying soundtrack that pulses with every move, ensuring an immersive gaming experience like no other.",
+    "publisher": "Gaijin Games",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240304,
+    "latest_update_release_date": 20240307,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240307
+    },
+    "versions": {
+        "65536": 20240304,
+        "131072": 20240307
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Music",
+        "Adventure"
+    ],
+    "intro": "\"One of the finest music games ever made\" -IGN",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

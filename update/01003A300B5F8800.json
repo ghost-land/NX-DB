@@ -1,4 +1,35 @@
 {
     "id": "01003A300B5F8800",
-    "version": 65536
+    "base_tid": "01003A300B5F8000",
+    "name": "Voxel Shot for Nintendo Switch",
+    "description": "Voxel Shot is a simple pick up and play action game set in an adorably quirky world of toys where you and your friends beat up zombies (and each other!) using a variety of different weapons.\n\nA world ravaged by zombified toys infected with a mysterious virus. Day after day, the toys fight for control of the remaining resources.\n\nDefeat unique zombies with a variety of weapons at your disposal! There are even cars and motorcycles to ride around in each stage!\n\n[Single]\nYou're all that's left!\nDefeat the zombies in each stage with a variety of weapons and complete missions while aiming for new high scores.\n\n[Multi]\n2-4 players.\nWork together to beat the zombie menace! You can even square off against your friends for some thrilling and heated battles! How you play is up to you! Check it out in the Options menu.\n\n[Race Mode]\nThink battles are all we've got? Guess again! Race your friends on vehicles such as motorcycles and buggies in the exciting race mode! Annihilate everyone in your path and lock down the fastest time!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20230627,
+    "first_update_release_date": 20221201,
+    "latest_update_release_date": 20221201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221201
+    },
+    "versions": {
+        "65536": 20221201
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Shooter",
+        "Racing"
+    ],
+    "intro": "Participate in wacky battles against your friends!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

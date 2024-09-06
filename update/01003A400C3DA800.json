@@ -1,4 +1,45 @@
 {
     "id": "01003A400C3DA800",
-    "version": 262144
+    "base_tid": "01003A400C3DA000",
+    "name": "YouTube",
+    "description": "See what the world is watching -- from the hottest music videos to what’s popular in gaming, fitness, movies, shows, news, learning and more. Subscribe to channels you love and browse personal recommendations. ",
+    "publisher": "Google",
+    "developer": null,
+    "base_release_date": 20201207,
+    "first_update_release_date": 20190207,
+    "latest_update_release_date": 20210902,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210902
+    },
+    "versions": {
+        "65536": 20190207,
+        "131072": 20190913,
+        "196608": 20201214,
+        "262144": 20210902
+    },
+    "category": [
+        "Video"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

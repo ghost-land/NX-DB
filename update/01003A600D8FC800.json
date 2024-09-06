@@ -1,4 +1,50 @@
 {
     "id": "01003A600D8FC800",
-    "version": 655360
+    "base_tid": "01003A600D8FC000",
+    "name": "A Fold Apart",
+    "description": "Lightning Rod Games presents A Fold Apart: an award-winning puzzle game that explores the emotional rollercoaster of a long-distance relationship — in a world of folding paper!\n\nFeaturing: \n- A relatable, true-to-life story of a long-distance relationship. \n- Over fifty handcrafted paper folding puzzles. \n- Beautiful 3D graphics with a tactile, “homemade” paper aesthetic. \n- The ability to choose the couple that best represents you!\n\nAfter career choices force them along separate paths, a Teacher and Architect vow to make their long-distance relationship work at any cost. Experience both sides of their story as the couple navigates the complexities of (mis)communication and the emotional ups and downs that separation brings. By flipping, folding, and unfolding the paper puzzles in their handcrafted worlds, you can help the couple overcome the emotional barriers of their relationship — but will love endure...?",
+    "publisher": "Lightning Rod Games",
+    "developer": null,
+    "base_release_date": 20200417,
+    "first_update_release_date": 20200410,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20220211
+    },
+    "versions": {
+        "196608": 20200410,
+        "262144": 20200603,
+        "327680": 20200827,
+        "393216": 20201014,
+        "458752": 20210210,
+        "524288": 20210211,
+        "589824": 20210506,
+        "655360": 20220211
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "In a world of folding paper, there are two sides to every story",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

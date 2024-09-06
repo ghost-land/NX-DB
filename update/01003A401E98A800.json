@@ -1,4 +1,35 @@
 {
     "id": "01003A401E98A800",
-    "version": 65536
+    "base_tid": "01003A401E98A000",
+    "name": "Tales From The Under-Realm: After Midnight",
+    "description": "Our heroine protagonist takes up a new job as a guard and discovers the start of a series of murders, all with one thing in common: they occur after midnight.\n\nWho is behind them? What do they have to do with our young guard? Will she too become a victim of the mysterious assassin?\n\nIn this dark / gothic visual novel with multiple endings, your choices matter and will determine who stays alive and who dies. \n\nDiscovering the whole truth about the murders may require multiple playthroughs. \n\n\nFeatures\n* Visual novel with multiple choices and endings\n* Fantasy and mystery genre\n* Beautiful manga art\n* Romance stunningly gorgeous women",
+    "publisher": "Gamuzumi",
+    "developer": null,
+    "base_release_date": 20240524,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A gothic visual novel full of intrigue and romance",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

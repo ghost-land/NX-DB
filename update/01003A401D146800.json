@@ -1,4 +1,33 @@
 {
     "id": "01003A401D146800",
-    "version": 65536
+    "base_tid": "01003A401D146000",
+    "name": "LumiereMagna",
+    "description": "-Character-\nLumiere: Magician\nWhit: Mascot\n\n-Story-\nWhoever gains wisdom can have it all.\nIn a world where such a legend is widespread,\nLumiere, a magician, goes to ancient ruins to find clues to wisdom.\nIn the midst of the powerful monsters that await her,\nWhat will Lumiere be able to obtain?\n\n-System-\nDefeat powerful monsters by using 4 types of magic.\nRaise MP by attacking and evading, and cast powerful magic.\n\n-Point-\nOriginal BGM\n\nIts power is contraindicated―",
+    "publisher": "Infinite Game",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20231101,
+    "latest_update_release_date": 20231101,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231101
+    },
+    "versions": {
+        "65536": 20231101
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "3D action combat with 4 types of magic.\nDefeat the monsters waiting for Light in the ancient ruins. Magical action game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

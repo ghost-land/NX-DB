@@ -1,4 +1,42 @@
 {
     "id": "01003A001FB72800",
-    "version": 65536
+    "base_tid": "01003A001FB72000",
+    "name": "Yatsumeguri",
+    "description": "◆Rules\n\nWhen the anomaly appears, ring the bell and return to the starting point.\n\nWhen the anomaly does not appear, do not ring the bell but return nonetheless.\n\nLight eight candles.\n\n◆Supernatural Phenomena Using Sound\nSome of the supernatural phenomena awaiting the player need to be identified by sound, so we recommend using speakers or headphones.\n",
+    "publisher": "PULSMO",
+    "developer": null,
+    "base_release_date": 20240801,
+    "first_update_release_date": 20240827,
+    "latest_update_release_date": 20240827,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240827
+    },
+    "versions": {
+        "65536": 20240827
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Action"
+    ],
+    "intro": "You are trapped in a shrine.\nTo escape, please follow the rules and perform the worship rituals.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }
