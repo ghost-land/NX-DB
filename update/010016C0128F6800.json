@@ -1,4 +1,34 @@
 {
     "id": "010016C0128F6800",
-    "version": 65536
+    "base_tid": "010016C0128F6000",
+    "name": "哆啦Ａ夢  大雄的數字大冒險",
+    "description": "快樂學習基礎數學！內容程度從幼稚園～小學1 年級的「基礎數字練習」與「加減法」，到2 年級的「九九乘法」，以及3 年級的「除法」。快速點擊答案、正確書寫數字，在緊張刺激的美國西部牛仔世界裡冒險，同時培養計算能力吧！",
+    "publisher": "小學館",
+    "developer": null,
+    "base_release_date": 20210715,
+    "first_update_release_date": 20231219,
+    "latest_update_release_date": 20231219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231219
+    },
+    "versions": {
+        "65536": 20231219
+    },
+    "category": [
+        "學習",
+        "訓練",
+        "射擊",
+        "冒險"
+    ],
+    "intro": "透過遊戲增進＋－×÷的運算能力！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

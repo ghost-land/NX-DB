@@ -1,4 +1,32 @@
 {
     "id": "010016B01B956800",
-    "version": 65536
+    "base_tid": "010016B01B956000",
+    "name": "8th MILLENNIUM: WAR AGAINST THE PAGAN GODS",
+    "description": "Nikolai must fight to bury his darkness when he confronts the ruthless power of a dragon seeking to entrap him with visions of his past. Explore, clear elusive dungeons, and power up to smash your old idols and take down this fierce foe.",
+    "publisher": "Ignatios Productions",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20240715,
+    "latest_update_release_date": 20240715,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240715
+    },
+    "versions": {
+        "65536": 20240715
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Leave the darkness behind.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

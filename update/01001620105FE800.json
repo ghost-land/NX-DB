@@ -1,4 +1,38 @@
 {
     "id": "01001620105FE800",
-    "version": 65536
+    "base_tid": "01001620105FE000",
+    "name": "Monster Viator",
+    "description": "Unable to remember who he is, Culter is mysteriously able to communicate with monsters. He soon comes across Aira, a shepherd who controls monsters with a harp and sets out together on a journey to uncover his memories. A fairy-tale like adventure with a legendary Hero with a thousand monsters, a Fountain of Truth and a witch unfolds!\n\nRide a dragon and soar the skies or on a raft down the river! Compelling pixel art breathes life into your adventure. Journey with more than 20 monsters, each with their own abilities and personalities. Hang tight and take your time in exploring not only challenging dungeons but what this fantasy RPG has to offer!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20200409,
+    "first_update_release_date": 20240625,
+    "latest_update_release_date": 20240625,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240625
+    },
+    "versions": {
+        "65536": 20240625
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Ride a dragon and journey with more than 20 monsters! Compelling pixel art breathes life into your adventure in a fantasy RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "Scary Scenes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

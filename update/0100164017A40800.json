@@ -1,4 +1,36 @@
 {
     "id": "0100164017A40800",
-    "version": 65536
+    "base_tid": "0100164017A40000",
+    "name": "Harlow",
+    "description": "You're lightyears off-course, low on power, and have one critical goal: throw an epic surprise party so the colonists don't freak out when they defrost. Harlow is an atmospheric 2D platformer where you'll use physics to evade the dangers of an ancient planet, gather materials, and plan a party in space.\n\nMeet Harlow, a compact robot aboard the R1-Humanity. Along with Manifesto, the ship's logistics A.I., you'll stockpile supplies and transform the ship from a cold wayward vessel into a stellar celebration to cheer up the cryogenically frozen crew onboard.\n\nJump, Roll, and Evade! Harlow's physics-based controls will have you navigating oceans of acid, dodging ancient machinery, and traversing lavafalls!\n\nPlan a Surprise Party: Decorate the R1-Humanity with 3D printed party supplies. Unlock different endings based on how you transform the ship!",
+    "publisher": "Rogue Games",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20220720
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Throw The Biggest Surprise Party Ever!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

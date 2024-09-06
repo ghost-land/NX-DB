@@ -1,4 +1,39 @@
 {
     "id": "0100161011458800",
-    "version": 65536
+    "base_tid": "0100161011458000",
+    "name": "Demon's Tier+",
+    "description": "Enter the dungeons of King Thosgar and destroy his demonic minions!\nCombining the best elements from Xenon Valkyrie+ and Riddled Corpses EX, this is the latest game in the Diabolical Mind trilogy!\n\n- Epic storyline\n- 2 players local cooperation mode\n- 8 heroes with different stats and abilities\n- Procedurally generated dungeons\n- High quality chiptune music\n- Twin-stick shooting\n- Achievements\n- Localized into 4 languages\n\nThosgar, a hated king attracted by demonic rituals, turned into a dark and diabolical being... destroying almost all of humanity and flooding the world with monsters.\nThis story became a legend and peace returned to the land.\nThousand years later, a mysterious pit appears in a village after a huge earthquake where an evil aura emanates from...\n\nWill you be the hero to save this world?",
+    "publisher": "COWCAT",
+    "developer": null,
+    "base_release_date": 20240116,
+    "first_update_release_date": 20200624,
+    "latest_update_release_date": 20200624,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200624
+    },
+    "versions": {
+        "65536": 20200624
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Dungeon-RPG roguelike with arcade and adventure elements",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

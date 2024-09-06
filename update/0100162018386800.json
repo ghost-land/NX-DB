@@ -1,4 +1,34 @@
 {
     "id": "0100162018386800",
-    "version": 65536
+    "base_tid": "0100162018386000",
+    "name": "Sudocats",
+    "description": "Cats are wonderful creatures, but you better not put them together without a proper introduction. Plan ahead and display them in the right order so that they get along!\n\nRelax playing Sudoku while you learn how to properly introduce cats to each other!\n\nWhen you adopt a cat and already have a cat (or several) at home, you first need to introduce them gradually. Sudocats can be handy in that matter!\n\nFeatures:\n- A relaxing experience.\n- Classic Sudoku with cats.\n- 4x4, 6x6, and 9x9 puzzles.\n- Customizable grid and background.\n- You can change the cats and their numbers at any time.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220623,
+    "first_update_release_date": 20220607,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20220607
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Study"
+    ],
+    "intro": "Sudoku for cat people.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

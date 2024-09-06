@@ -1,4 +1,38 @@
 {
     "id": "010016A00AEC0800",
-    "version": 524288
+    "base_tid": "010016A00AEC0000",
+    "name": "WARRIORS OROCHI 4",
+    "description": "■Features of WARRIORS OROCHI 4:\n・A dream collaboration starring heroes from DYNASTY WARRIORS and SAMURAI WARRIORS!\n・A roster of 170 playable characters! Five new characters - Zeus, Athena, Ares, Perseus, and Odin join the battle!\n・Introducing \"Magic\" to the series, you can now experience even more thrilling and intense Musou Action!\n・An online multiplayer mode is included for the first time ever in the series!",
+    "publisher": "KOEI TECMO EUROPE",
+    "developer": null,
+    "base_release_date": 20181019,
+    "first_update_release_date": 20181004,
+    "latest_update_release_date": 20200219,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20200219
+    },
+    "versions": {
+        "65536": 20181004,
+        "131072": 20181021,
+        "196608": 20181107,
+        "262144": 20181128,
+        "327680": 20190607,
+        "458752": 20200213,
+        "524288": 20200219
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "010016B00EBE6800",
-    "version": 196608
+    "base_tid": "010016B00EBE6000",
+    "name": "EMERGENCY HQ",
+    "description": "The new game in the unique EMERGENCY series!\n\nBuild your own mission base and put together the perfect emergency services team! Use Fire Department, Rescue Service, Police Department and Technical units to master the many exciting missions!\n\nEstablish your own Headquarters and become the best incident commander of all time!\n\nEMERGENCY HQ offers:\n* Varied and challenging missions on detailed maps\n* Specialized mission vehicles from all emergency services\n* Upgrades for buildings and units\n* Put your skills as a commander to the test against other players in the league\n* Join forces with other players and establish a Rescue Alliance\n\nStart now and demonstrate your skills as a commander!\n",
+    "publisher": "PromotionSoftware",
+    "developer": null,
+    "base_release_date": 20220525,
+    "first_update_release_date": 20220525,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20220525,
+        "131072": 20220704,
+        "196608": 20231123
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Command firefighters, paramedics and many other rescue units. \nBuild your base and expand your team.\nSave lives. Be a hero.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "010016E004796800",
-    "version": 131072
+    "base_tid": "010016E004796000",
+    "name": "Bridge Constructor Portal",
+    "description": "Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal™ and Bridge Constructor™ games.\n\nAs a new employee in the Aperture Science test lab, it's your job to build bridges, ramps, slides, and other constructions in 60 test chambers and get the Bendies safely across the finish line in their vehicles.\n\nMake use of the many Portal gadgets, like portals, propulsion gel, repulsion gel, aerial faith plates, cubes, and more to bypass the sentry turrets, acid pools and laser barriers, solve switch puzzles, and make it through the test chambers unscathed.\n\nLet Ellen McLain, the original voice of GLaDOS, guide you through the tutorial, and learn all the tips and tricks that make a true Aperture Science employee.",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20220829,
+    "first_update_release_date": 20180323,
+    "latest_update_release_date": 20191111,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191111
+    },
+    "versions": {
+        "65536": 20180323,
+        "131072": 20191111
+    },
+    "category": [
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "The bridge is a lie!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

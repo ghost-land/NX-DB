@@ -1,4 +1,43 @@
 {
     "id": "010016A0192D2800",
-    "version": 65536
+    "base_tid": "010016A0192D2000",
+    "name": "Namariel Legends - Iron Lord",
+    "description": "For hundreds of years, people had lived in peace in the picturesque kingdom of Namariel. But one day, their tranquility was shattered. The sky, once so beautiful and blue, turned angry and red.\n\nAided by his army of robots, the cruel and heartless Iron Lord seized the lands. This happened twenty years ago—on the day you were born.\n\nBecome Princess Amelie and free your people from the Iron Lord’s merciless grasp. Davincino, a skilled mechanic, and the denizens of the magical forest will aid you!\n\n- more than 50 hand-drawn scenes\n- a modern blend between a point-and-click adventure and a picture puzzle\n- a captivating story set in a magical world",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230424,
+    "latest_update_release_date": 20230424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230424
+    },
+    "versions": {
+        "65536": 20230424
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Free your people from the Iron Lord’s merciless grasp!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
