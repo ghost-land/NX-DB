@@ -1,4 +1,55 @@
 {
     "id": "01007380121FE800",
-    "version": 589824
+    "base_tid": "01007380121FE000",
+    "name": "SUPER BOMBERMAN R ONLINE",
+    "description": "Drop bombs and collect power-ups to blast your way through SUPER BOMBERMAN R ONLINE! \n\nYou can compete against up to 64 players from around the world in this explosive survival battle! Fight your way to the end and outlast all other players to be BOMBER ONE!\n\nFREE TO PLAY ONLINE BATTLE ROYALE\nBack to classic Bomberman fun, the original survival battle format gets supercharged to 64 players online! \n\nCUSTOMIZABLE CHAOS\nSelf-explode in style with fresh outfits and bomb skins bursting with pop-corn, or try on the latest head accessories available to customize your look!\n\nPICK YOUR POWER-UPS\nFrom essential Punching Gloves to the return of the iconic Louies,  pick your power-ups fast to your kick your friends out with a spark!",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210527,
+    "latest_update_release_date": 20220531,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20220531
+    },
+    "versions": {
+        "65536": 20210527,
+        "131072": 20210611,
+        "196608": 20210706,
+        "262144": 20210810,
+        "327680": 20210908,
+        "393216": 20210930,
+        "458752": 20211217,
+        "524288": 20220127,
+        "589824": 20220531
+    },
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

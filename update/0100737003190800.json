@@ -1,4 +1,43 @@
 {
     "id": "0100737003190800",
-    "version": 65536
+    "base_tid": "0100737003190000",
+    "name": "IMPLOSION",
+    "description": "\"IMPLOSION\" is a Sci-Fi Hack and Slash game where the protagonist fights against enemies known as XADA using WM-Ⅲ(WarMech-3) battle suits.\n\nThe story：\n20 years after the fall of Earth, the remaining survivors of the human race once again face the threat of extinction from an unknown life form known as XADA.\n\nThe humans developed a countermeasure technology, creating a series of battle suits through a program dubbed the War-Mech III. Ride the \"Avalon\", one of the deadliest battle suits made and defend your people!\n\nGameplay：\nImplosion is a hack and slash action game. Clear each stage of the game to move forward. Combine two action controls (slash attack and heavy blow) to destroy your enemies.\n\n- Fully scored orchestral music\n- High quality graphics\n- Characters voice-acted\n- Explosive gameplay",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20170706,
+    "first_update_release_date": 20171011,
+    "latest_update_release_date": 20171011,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171011
+    },
+    "versions": {
+        "65536": 20171011
+    },
+    "category": [
+        "Action",
+        "Other"
+    ],
+    "intro": "Sci-Fi Hack and Slash Action game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

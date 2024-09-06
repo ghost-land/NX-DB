@@ -1,4 +1,47 @@
 {
     "id": "0100736018592800",
-    "version": 196608
+    "base_tid": "0100736018592000",
+    "name": "Kona II: Brume",
+    "description": "Kona II: Brume continues the story of the interactive tale Kona and offers players an immersive first-person narrative experience with a unique storytelling mechanic.\nExplore the rustic setting of a rural mining village of Northern Canada in 1970 and uncover the mystery of the bizarre mist - the brume - that has engulfed the region.\n\nNorthern Québec, 1970. A bizarre mist - the Brume - is disconnecting a rural mining village from its quiet reality and disrupting the balance of nature. But where is it coming from? \n\nStep back into the role of Detective Carl Faubert and dive deeper into the surreal mysteries of Kona.\n\nMake your trek through the snowy landscapes of Northern Canada and discover that you are not entirely alone. Find other stranded people - both victims and survivors of a devastating avalanche - and uncover the hidden dark truth of the Brume. ",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20231018,
+    "first_update_release_date": 20231017,
+    "latest_update_release_date": 20231208,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231208
+    },
+    "versions": {
+        "65536": 20231017,
+        "131072": 20231123,
+        "196608": 20231208
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Simulation"
+    ],
+    "intro": "Kona II: Brume intertwines adventure, exploration and narrative-driven gameplay into an immersive detective mystery.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null
 }

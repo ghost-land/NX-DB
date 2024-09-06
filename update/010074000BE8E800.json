@@ -1,4 +1,36 @@
 {
     "id": "010074000BE8E800",
-    "version": 196608
+    "base_tid": "010074000BE8E000",
+    "name": "oOo: Ascension",
+    "description": "Hit Indie speedrunner oOo: Ascension is now available for Nintendo Switch™!\n\nNavigate your ship through short but ferociously difficult levels in the shortest time possible without touching any walls, spinning blades, lasers or countless other hazards that will try to destroy you in the process.\n\nGlowing neon visuals and an electronic soundtrack make oOo: Ascension an immersive experience as you glide your way through 90 uniquely challenging levels, racing against the clock in a test of skill, reflexes and patience in this award nominated Indie Speedrunner.\n\nSplitscreen co-op mode also available, you can play with or against a friend and your progress carries across all modes!\n\nFeatures:\n- Classic Arcade mode with increasingly challenging levels\n- Local Multiplayer mode - complete the game with a friend, or race against them for the best time!\n- 9 unique sectors consisting of 10 levels, each with their own unique hazards and stunning visual styles \n- Ghosts - Race against your own best times!",
+    "publisher": "EM Studios",
+    "developer": null,
+    "base_release_date": 20181004,
+    "first_update_release_date": 20181106,
+    "latest_update_release_date": 20200103,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200103
+    },
+    "versions": {
+        "65536": 20181106,
+        "131072": 20190725,
+        "196608": 20200103
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Racing"
+    ],
+    "intro": "The Ultimate Arcade Experience",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

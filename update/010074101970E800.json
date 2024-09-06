@@ -1,4 +1,36 @@
 {
     "id": "010074101970E800",
-    "version": 196608
+    "base_tid": "010074101970E000",
+    "name": "Simple Mini Golf 3D",
+    "description": "In Simple Mini Golf 3D you experience different mini golf challenges alone or up to 4 players. Play on four different courses with an overall of 72 different holes.  You only have a short amount of time? No problem, play a short 9 hole game or a full course 18 hole game.\nExperience a fun and challenging mini golf game.\n\nFeatures :\n- 9 or 18 Hole Game\n- Four different courses\n- 72 different Holes\n- Up to four players",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20230120,
+    "first_update_release_date": 20230117,
+    "latest_update_release_date": 20230504,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230504
+    },
+    "versions": {
+        "65536": 20230117,
+        "131072": 20230411,
+        "196608": 20230504
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Party",
+        "Lifestyle"
+    ],
+    "intro": "Simply mini golf fun with 72 holes and playable up to four players!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

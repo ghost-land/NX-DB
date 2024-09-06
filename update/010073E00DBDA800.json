@@ -1,4 +1,36 @@
 {
     "id": "010073E00DBDA800",
-    "version": 262144
+    "base_tid": "010073E00DBDA000",
+    "name": "Siralim 3",
+    "description": "Siralim 3 is a deep, monster catching RPG. Collect 700+ creatures to fight for you in randomly generated dungeons. Find treasure and use it to craft items, empower your creatures, learn spells, and more.\n\n* Collect and breed over 700 different creatures to fight for you.\n* Explore randomly generated dungeons with 15 unique tilesets.\n* Craft artifacts and spell gems to equip your creatures for battle.\n* Infinite playability - there's not even a level cap. New features are introduced well-beyond the 100-hour mark. You'll never run out of things to do!\n* Rich end-game content, including Itherian Realms, super-bosses, arena battles, and much more!\n* Take part in holiday events to unlock exclusive creatures, items, and costumes for your character!\n* Asynchronous player-versus-player battles. If you win, you'll earn exclusive items!",
+    "publisher": "Thylacine Studios",
+    "developer": null,
+    "base_release_date": 20190705,
+    "first_update_release_date": 20190703,
+    "latest_update_release_date": 20190809,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190809
+    },
+    "versions": {
+        "65536": 20190703,
+        "131072": 20190717,
+        "196608": 20190801,
+        "262144": 20190809
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "The ultimate monster catching RPG!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

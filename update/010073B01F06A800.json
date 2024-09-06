@@ -1,4 +1,39 @@
 {
     "id": "010073B01F06A800",
-    "version": 131072
+    "base_tid": "010073B01F06A000",
+    "name": "Badminton Time",
+    "description": "A competitive match between friends? Or perhaps a hilarious session with superpowers? Then you've come to the right place in Badminton Time!\n\nBadminton Time will get you moving! Grab a Joy-Con™ in each hand and move your racket to strike.\n\n1. Start the adventure by customizing your avatar: sporty and funky outfits, glasses, hats, rackets, ...\n\n2. Discover all the game modes: \n- In realistic mode, the game offers first-rate physical simulation, just like in the real world.\n- In arcade mode, you can use superpowers to drive your opponents crazy!\n- In mini-game mode, you'll discover 5 different mini-games to show who's the best!\n- In training mode, you can take part in various exercises to improve your level.\n\n3. Travel the world to discover incredible places: Grand canyon, Japanese garden, North Pole, snowy forest, paradise island, ...\n\n4. Don't forget that you can play alone, against AI and with humans. Up to 4 in the same match or mini-game! So get ready for matchmaking or invite your friends to join you!",
+    "publisher": "DECATHLON",
+    "developer": null,
+    "base_release_date": 20240905,
+    "first_update_release_date": 20240819,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240819,
+        "131072": 20240829
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Get ready to move your arms to hit the badminton shuttlecock and become the new champion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

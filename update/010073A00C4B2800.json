@@ -1,4 +1,35 @@
 {
     "id": "010073A00C4B2800",
-    "version": 131072
+    "base_tid": "010073A00C4B2000",
+    "name": "Tyd wag vir Niemand",
+    "description": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.\n\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.",
+    "publisher": "SKERMUNKEL STUDIOS",
+    "developer": null,
+    "base_release_date": 20220303,
+    "first_update_release_date": 20190919,
+    "latest_update_release_date": 20220204,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220204
+    },
+    "versions": {
+        "65536": 20190919,
+        "131072": 20220204
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "A time-twisting, puzzle-platforming adventure through realms unknown and a world at stake.\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "0100730011BDC800",
-    "version": 262144
+    "base_tid": "0100730011BDC000",
+    "name": "Bakugan: Champions of Vestroia",
+    "description": "All-new action Role-Playing game with an original story that expands on the hit TV show. The adventure takes players on the ultimate brawl journey as they befriend powerful creatures known as Bakugan. Gear up, customise and master your Bakugan teams for strategic battles to become the Champion of Vestroia. \nFeaturing a highly competitive Action Battle System, players will build their best Bakugan teams to become Bakugan Brawling heroes. Players can collect Bakugan by befriending them while exploring and completing quests.\nFully explorable 3D world divided into districts each with dedicated battle environments. Players can interact with other characters, go on quests, and explore with their Bakugan team. Players can also play online in head-to-head multiplayer.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20201104,
+    "first_update_release_date": 20201020,
+    "latest_update_release_date": 20210105,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210105
+    },
+    "versions": {
+        "65536": 20201020,
+        "131072": 20201103,
+        "196608": 20201117,
+        "262144": 20210105
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

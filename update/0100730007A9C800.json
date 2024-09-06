@@ -1,4 +1,38 @@
 {
     "id": "0100730007A9C800",
-    "version": 196608
+    "base_tid": "0100730007A9C000",
+    "name": "Detention",
+    "description": "Detention is a unique atmospheric horror game heavily influenced by Taiwanese/East Asian culture, religious elements and mythology. Based on the 1960s Taiwan under martial law, in this 2D atmospheric horror side-scroller, the player control characters who venture into the school beset by hostile supernatural events to uncover stories behind the haunted place. Incorporated the game provided players with unique graphics and gaming experience.",
+    "publisher": "RED CANDLE GAMES",
+    "developer": null,
+    "base_release_date": 20180301,
+    "first_update_release_date": 20180510,
+    "latest_update_release_date": 20181107,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181107
+    },
+    "versions": {
+        "65536": 20180510,
+        "131072": 20181004,
+        "196608": 20181107
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The world is not ready for the likes of us.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
