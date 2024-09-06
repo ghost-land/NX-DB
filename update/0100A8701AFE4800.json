@@ -1,4 +1,38 @@
 {
     "id": "0100A8701AFE4800",
-    "version": 65536
+    "base_tid": "0100A8701AFE4000",
+    "name": "The Spy Who Shot Me",
+    "description": "The spy who shot me™ is a comedy retro FPS inspired by classic shooters of the 90s.. Take the roll of super spy Agent7! As he fights against the evil S.C.U.M.\n\nFeatures :\n-> Retro fps style fast gameplay\n-> Spy/Parody humour\n-> Hordes of enemies to combat\n-> Unique run and gun gameplay\n-> Vehicle action\n-> Weapon Mods\n-> Lovely pointy polygons",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20240104,
+    "first_update_release_date": 20240202,
+    "latest_update_release_date": 20240202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240202
+    },
+    "versions": {
+        "65536": 20240202
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "The spy who shot me™ is a comedy retro FPS inspired by classic shooters of the 90s.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Mild Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

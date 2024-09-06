@@ -1,4 +1,35 @@
 {
     "id": "0100A8501B66E800",
-    "version": 65536
+    "base_tid": "0100A8501B66E000",
+    "name": "Skateboard Drifting with Maxwell Cat: The Game Simulator",
+    "description": "   Calling all meme lovers and skateboard enthusiasts! \n\n   Join Yellow Face, Swole Doge, Knuckles The Echidna, Capybara, and of course, the legendary Maxwell Cat on their rad skateboarding adventures. Strap on your virtual helmet, tighten those laces, and prepare for an epic ride like no other.\n   Take your skateboard to a whole new level. From wacky designs to vibrant colours, create a board that perfectly captures your style and personality. \n   And let's not forget about the epic soundtrack that accompanies your skateboarding adventures!\n\n   This game is the ultimate antidote to boredom—absolutely meme-tastic!\n   So grab your board and get ready to shred in Skateboard Drifting with Maxwell Cat: The Game Simulator!\n",
+    "publisher": "GameToTop Corp.",
+    "developer": null,
+    "base_release_date": 20230819,
+    "first_update_release_date": 20240408,
+    "latest_update_release_date": 20240408,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240408
+    },
+    "versions": {
+        "65536": 20240408
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Racing",
+        "Sports"
+    ],
+    "intro": "Laugh, skate, repeat – it's meme time!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

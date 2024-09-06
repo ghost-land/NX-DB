@@ -1,4 +1,34 @@
 {
     "id": "0100A910143B2800",
-    "version": 131072
+    "base_tid": "0100A910143B2000",
+    "name": "Olympia Soirée",
+    "description": "Restore Light to a Darkened World\n\nThe last surviving member of her clan, Olympia travels to Tenguu Island to perform a ritual to bring back the sun. The heads of each district lead a society governed by rigid class structures. Able to travel between the districts, Olympia discovers their wonders and weaknesses. She searches for a partner to help bring unity to this imperiled land.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20210909,
+    "first_update_release_date": 20210924,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211014
+    },
+    "versions": {
+        "65536": 20210924,
+        "131072": 20211014
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violência",
+        "Conteúdo Sexual",
+        "Linguagem Imprópria"
+    ],
+    "region": null
 }

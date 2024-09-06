@@ -1,4 +1,39 @@
 {
     "id": "0100A8B00E14A800",
-    "version": 131072
+    "base_tid": "0100A8B00E14A000",
+    "name": "Olympic Games Tokyo 2020 – The Official Video Game™",
+    "description": "The Olympic Games are back, and this time it's your chance for glory! Whether you play with friends, family, or go for gold on the global leaderboards, this is a party game that anyone can pick up and enjoy! \n\nPrepare to unleash the competitor within as you create your athlete, customize their skills and pick the perfect costume. Why settle for standard sportswear when you can take center stage as a pirate, astronaut or cowboy?\n\nChoose between 18 fun-fueled sporting events—from Tennis and Football to the 100m, Basketball and Boxing—there’s always a record to beat and a score to settle.\n\nGoing for gold has never been this much fun!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210621,
+    "first_update_release_date": 20210621,
+    "latest_update_release_date": 20210621,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210621
+    },
+    "versions": {
+        "131072": 20210621
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Join the fun!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violência"
+    ],
+    "region": null
 }

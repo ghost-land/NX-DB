@@ -1,4 +1,36 @@
 {
     "id": "0100A8000B65C800",
-    "version": 131072
+    "base_tid": "0100A8000B65C000",
+    "name": "SCRAP RUSH!!",
+    "description": "On Planet Scrap, robots compete by gathering junk in this crazy battle!\nThe rules are very simple yet very addictive.\nYou can play solo or in up to 4 player mode on local multiplayer.\nChoose solo play or coop with friends to beat stages on Challenge Mode.\nIf you want to absorb the game deeply solo, try Scrush mode to test your crush action skills.\nUnlock items such as the gimmick block and the game will be even more fun!\n\nEnjoy the excitement of crushing foes!",
+    "publisher": "ACQUIRE",
+    "developer": null,
+    "base_release_date": 20190620,
+    "first_update_release_date": 20190619,
+    "latest_update_release_date": 20191016,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191016
+    },
+    "versions": {
+        "65536": 20190619,
+        "131072": 20191016
+    },
+    "category": [
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Robots compete by gathering junk in this crazy battle!\nThe rules are simple! Use blocks and crush your foes!\nPlay with up to 4 players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

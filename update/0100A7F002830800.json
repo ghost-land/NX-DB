@@ -1,4 +1,47 @@
 {
     "id": "0100A7F002830800",
-    "version": 983040
+    "base_tid": "0100A7F002830000",
+    "name": "VOEZ",
+    "description": "\"VOEZ\" is played by touching falling notes in time with the music.\nSet in a fictional town named \"Lan Kong Town\", which is modeled after Yilan in Taiwan, the story is centered around 6 high school students who form a band that eventually achieves international fame.\nGameplay is simple, requiring players to touch vertically falling notes that have hit a bar on the bottom of the screen.\nDepending on the song, the number of lanes for the notes increase and shift side to side, making the screen look as if it is dancing to the music.\nThere are over 100 songs in the library.\nThree difficulty levels, \"Easy\", \"Hard\" and \"Special\" are available.\nPlayers are able to choose difficulty levels according to their skill so they may enjoy all pieces.",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170823,
+        "196608": 20171108,
+        "262144": 20180124,
+        "327680": 20180207,
+        "393216": 20180418,
+        "458752": 20181115,
+        "524288": 20190221,
+        "589824": 20190821,
+        "655360": 20200402,
+        "720896": 20200808,
+        "786432": 20200910,
+        "851968": 20201021,
+        "983040": 20220915
+    },
+    "category": [
+        "Music"
+    ],
+    "intro": "VOEZ is a colorful rhythm game\nfilled with beautiful visuals.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

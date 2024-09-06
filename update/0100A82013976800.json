@@ -1,4 +1,35 @@
 {
     "id": "0100A82013976800",
-    "version": 131072
+    "base_tid": "0100A82013976000",
+    "name": "Exodemon",
+    "description": "You must make your way through maze-like levels, destroying hordes of enemies with your monstrous abilities. \nCombining the destructive power of your symbiotic claws with a fast, sharp and fluid movement, you’ll become an indestructible alien killing machine.\n\nIn Exodemon you play as a scientist in the edge of the universe who was infected by an alien entity. \nThe symbiotic force is trying to take control, but you may find a way to control the beast on the confederation laboratories. \nResist the infection and blaze through various locations to reach the last escape pod before you lose what’s left of your humanity.\n\nFeatures\n- Fast Paced First Person Shooter\n- Old School Feel\n- Retro Graphics\n- Awesome Hands From Hell\n- Lots of exploration and secrets",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20210513,
+    "first_update_release_date": 20210512,
+    "latest_update_release_date": 20210609,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210609
+    },
+    "versions": {
+        "65536": 20210512,
+        "131072": 20210609
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A fast paced first person shooter inspired by the 90s FPS golden age.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "0100A880180CC800",
-    "version": 196608
+    "base_tid": "0100A880180CC000",
+    "name": "Bunny Park",
+    "description": "Choose from a range of different decorations and toys to create a charming park! Expand your park and increase its rating to attract new bunnies. Be sure to pet your bunnies to keep them happy, but don't wake them up! Bring all the bunnies home, each with their own pattern and personality. \n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20220930,
+    "first_update_release_date": 20220916,
+    "latest_update_release_date": 20221223,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221223
+    },
+    "versions": {
+        "65536": 20220916,
+        "131072": 20220930,
+        "196608": 20221223
+    },
+    "category": [
+        "Simulation",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

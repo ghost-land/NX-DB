@@ -1,4 +1,39 @@
 {
     "id": "0100A86014332800",
-    "version": 262144
+    "base_tid": "0100A86014332000",
+    "name": "Transiruby",
+    "description": "\"Transiruby\" is a metroidvania game where you explore the world as a cyborg protagonist named Siruby. Slash and shoot your way to reveal its hidden secrets!\n\nA strange continent from a different dimension has suddenly appeared… and Siruby, a young cyborg traveling space just happens to pass by. Taking her trusty AI partner “Ne-com” with her, she sets out to explore this unknown land.\n\nMeet other characters such as “Yamato”, an unusual cyborg girl and “Douglas” the treasure hunter as you follow Siruby through her adventure.\n\nA new metroidvania game by Skipmore, the creators of “Kamiko” and “Fairune”!\nExpect the same high quality action… with a dash of adventure and puzzle-solving.\n\n◎ Quick, stress-free sword action\n◎ Collect golden “Tranchips” to open doors to the next stage! \n◎ Freeze enemies using an element gun to use them as a foothold!\n◎ Perfect balance of puzzles and riddles accent the game!\n◎ Siruby is a cyborg, so she can transform into a plane and a motorbike!",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220903,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220903
+    },
+    "versions": {
+        "131072": 20220427,
+        "196608": 20220722,
+        "262144": 20220903
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Explore the mysteries of an unknown land!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

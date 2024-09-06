@@ -1,4 +1,35 @@
 {
     "id": "0100A8801A19E800",
-    "version": 65536
+    "base_tid": "0100A8801A19E000",
+    "name": "Arcade Archives MAGICAL SPEED",
+    "description": "\"MAGICAL SPEED\" is a card game released by ALLUMER in 1994. The main characters, NICOLE and CLAIRE, go on a great adventure in search of the \"RAINBOW CARD,\" which can make any wish come true! You win the game if you play all the cards in your hand and in the field first! If you play cards in a row, the demons will interfere with your enemies, making this a different kind of \"SPEED\" game!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230209,
+    "first_update_release_date": 20230208,
+    "latest_update_release_date": 20230208,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230208
+    },
+    "versions": {
+        "65536": 20230208
+    },
+    "category": [
+        "Party",
+        "Board Game"
+    ],
+    "intro": "Ready, set, go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

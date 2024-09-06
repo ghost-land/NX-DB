@@ -1,4 +1,43 @@
 {
     "id": "0100A8200B15C800",
-    "version": 65536
+    "base_tid": "0100A8200B15C000",
+    "name": "Kentucky Robo Chicken",
+    "description": "Help the Robo Chicken get the stolen light bulbs back!\n\nGet to the end of each level in the shortest amount of time possible and try to collect all the gizmos along the way. Beware the hungry Roaches, pesky Flies, shooting cannons and other deadly obstacles. Get the power-ups that let you use your turbo dash that'll come in handy in tough situations.\n\nFly, run, dash and put your skills to the test!\n\nKey features:\n- 30 levels, each more difficult than the previous one,\n- a few hundred collectibles to get along the way,\n- many enemies to avoid,\n- deadly traps and obstacles that'll test your reflexes,\n- easy-to-pick-up, hard-to-master type of game,\n- suitable to be played in short bursts.",
+    "publisher": "Solid9",
+    "developer": null,
+    "base_release_date": 20180906,
+    "first_update_release_date": 20180920,
+    "latest_update_release_date": 20180920,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180920
+    },
+    "versions": {
+        "65536": 20180920
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "This game is intended for players who do not fear to take a real challenge.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100A8A0174A4800",
-    "version": 65536
+    "base_tid": "0100A8A0174A4000",
+    "name": "Clumsy Rush: Ultimate Guys",
+    "description": "Clumsy Rush: Ultimate Guys is a fun-centric party game which throws you (along with your friends) into a series of challenges and races throughout randomly generated tracks.  ",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220805,
+    "first_update_release_date": 20240605,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20240605
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Sports"
+    ],
+    "intro": "Invite your friends into the fantastic world of Clumsy Rush: Ultimate Guys.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

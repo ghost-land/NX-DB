@@ -1,4 +1,39 @@
 {
     "id": "0100A7E01157C800",
-    "version": 458752
+    "base_tid": "0100A7E01157C000",
+    "name": "Fight'N Rage",
+    "description": "在遙遠的未來，人類將被變種人奴役，Fight'N Rage 是一款橫向捲軸式 Beat'em Up 遊戲，靈感來自 90年代的經典街機作品。\n\n在“叢林法則”盛行的世界裡……兩個人和一個叛軍願意為製止這種瘋狂的現況而戰鬥。 準備面對殘酷的變種人……準備 Figh'N Rage 吧。\n\n特色：\n\n• 不同的結局：你在遊戲中的行動將決定故事的發展！\n• 爆炸連擊系統：用特殊的連擊炸飛敵人！\n• 超多可解鎖的物品：服裝，遊戲模式，選項甚至可操控敵人！\n• 不同的武器和迴避系統。\n• 容易上手，但難於駕馭。\n• 本地合作模式：最多3名玩家，並可選擇友軍射擊。\n• 對戰模式：1對1 與另一個玩家或電腦進行戰鬥。 或者只是觀看電腦與電腦之間的戰鬥。\n• 對職業玩家來說，幾乎是不可能的額外挑戰！",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20200910,
+    "first_update_release_date": 20200908,
+    "latest_update_release_date": 20230301,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20230301
+    },
+    "versions": {
+        "65536": 20200908,
+        "131072": 20201113,
+        "196608": 20201217,
+        "262144": 20220423,
+        "327680": 20220817,
+        "393216": 20230208,
+        "458752": 20230301
+    },
+    "category": [
+        "格鬥",
+        "動作",
+        "街機"
+    ],
+    "intro": "捕捉經典街機 Beat'em Ups 遊戲的神髓！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [],
+    "region": null
 }

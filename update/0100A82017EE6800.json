@@ -1,4 +1,41 @@
 {
     "id": "0100A82017EE6800",
-    "version": 196608
+    "base_tid": "0100A82017EE6000",
+    "name": "BROKEN MIND",
+    "description": "In BROKEN MIND, you play Agent Frank Morgan, a detective with a dark past. You will have to investigate the disappearance of a teenage girl who was abducted during a live Internet broadcast. The investigation is accelerated when Laura's phone emits a signal a few miles away in the middle of the forest!\n\nBROKEN MIND is an action Survival Horror.\nFight, investigate, solve the puzzles and find out what happened to Laura Campbell. \nIf she is still alive you must act quickly!\n\n- Gameplay that mixes investigations, puzzles and combat!\n- Follow the story from different angles, playing several characters with unique skills.\n- 7 actors and 1 music composer for a more powerful atmosphere.\n- An oppressive atmosphere, with a graphic style mixing 3D and hand made drawings.\n- A game created by one man!",
+    "publisher": "2BAD GAMES",
+    "developer": null,
+    "base_release_date": 20220621,
+    "first_update_release_date": 20220521,
+    "latest_update_release_date": 20220728,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220728
+    },
+    "versions": {
+        "65536": 20220521,
+        "131072": 20220609,
+        "196608": 20220728
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Puzzle"
+    ],
+    "intro": "BROKEN MIND is an action Survival Horror.\nFight, investigate, solve the puzzles and find out what happened to Laura Campbell. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

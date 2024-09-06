@@ -1,4 +1,35 @@
 {
     "id": "0100A830152D2800",
-    "version": 131072
+    "base_tid": "0100A830152D2000",
+    "name": "Racing Karts",
+    "description": "To finish first in racing karts you got one simple task... drift into the corners, scrath the apex, boost out of it and finish first! Easy to learn but hard to master! Compete in three different game modes namely time trial, arcade mode and championship. Customize your racing kart your way with unlocked parts starting from the pilots helmet, tires, exhaust, wings and colour. Get your couch ready for four player splitscreen arcade racing action and a ton of fun!\nCompete in breathtaking kart races in different game modes single or multiplayer! Drift Boost Win that's kart racing!\n\nFeatures:\n- Three game modes Arcade Championship and Time Trail\n- Five tracks\n- Custom karts\n- Splitscreen mutliplayer up to 4 players\n\n",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20220103,
+    "first_update_release_date": 20211207,
+    "latest_update_release_date": 20220127,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220127
+    },
+    "versions": {
+        "65536": 20211207,
+        "131072": 20220127
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "Race awesome tracks and drift the corners to load your boost to win the race and customize your awesome race karts! With four player splitscreen multiplayer!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
