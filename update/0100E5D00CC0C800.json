@@ -1,4 +1,38 @@
 {
     "id": "0100E5D00CC0C800",
-    "version": 65536
+    "base_tid": "0100E5D00CC0C000",
+    "name": "Unravel Two",
+    "description": "Winner - D.I.C.E. Awards Family Game of the Year.\n\nWhen you cut ties to the past, new bonds form. In Unravel Two, create a Yarny of your very own. Then build relationships with other Yarnys in local co-op or as a single player, fostering friendship and support as you journey together.\nBegin your adventure in a cold and imposing land, then watch your surroundings blossom with new life as you chase the spark of adventure. Dive into an immersive story filled with energy, exuberance, inspiration – even monsters. Approach every challenge with positivity and fearlessness to awaken the world around you, and discover an unbreakable bond between friends.\n\nNintendo Switch™ Mode Support\n- Tabletop\n- TV\n- Handheld (single player only)",
+    "publisher": "Electronic Arts",
+    "developer": null,
+    "base_release_date": 20190322,
+    "first_update_release_date": 20191220,
+    "latest_update_release_date": 20191220,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191220
+    },
+    "versions": {
+        "65536": 20191220
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Chase the spark of adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

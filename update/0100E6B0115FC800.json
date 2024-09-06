@@ -1,4 +1,33 @@
 {
     "id": "0100E6B0115FC800",
-    "version": 65536
+    "base_tid": "0100E6B0115FC000",
+    "name": "Star99",
+    "description": "Arcade-style battle-royale shoot 'em up. Perform chain kills on enemies, send special and boss attacks to wreak havoc on your opponents. Compete with up to 99 players, dominating matches until a single winner remains!\n\n* Play in matches of up to 99 players.\n* Private online lobbies.\n* Cross-platform.\n* 6 playable characters, all with unique abilities and playstyles.",
+    "publisher": "Schine",
+    "developer": null,
+    "base_release_date": 20201028,
+    "first_update_release_date": 20201113,
+    "latest_update_release_date": 20201113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201113
+    },
+    "versions": {
+        "65536": 20201113
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": "Shoot-'em-up meets battle-royale. Prepare your thumbs for adrenaline mashing madness.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

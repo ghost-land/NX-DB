@@ -1,4 +1,58 @@
 {
     "id": "0100E65002BB8800",
-    "version": 786432
+    "base_tid": "0100E65002BB8000",
+    "name": "Stardew Valley",
+    "description": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!\n\nNow with Multiplayer! Invite 1-3 players to join you in the valley! Players can work together to build a thriving farm, share resources, and build relationships with townspeople or each other. As more hands are better than one, players have the option to scale profit margin on produce sold for a more challenging experience.",
+    "publisher": "ConcernedApe",
+    "developer": null,
+    "base_release_date": 20190502,
+    "first_update_release_date": 20171005,
+    "latest_update_release_date": 20210618,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20210618
+    },
+    "versions": {
+        "65536": 20171005,
+        "131072": 20171129,
+        "196608": 20181212,
+        "262144": 20190121,
+        "327680": 20191108,
+        "393216": 20191216,
+        "458752": 20200110,
+        "524288": 20200131,
+        "655360": 20210211,
+        "720896": 20210304,
+        "786432": 20210618
+    },
+    "category": [
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "You're moving to the valley...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Simulated Gambling",
+        "Use of Alcohol",
+        "Use of Tobacco",
+        "Users Interact"
+    ],
+    "region": null
 }

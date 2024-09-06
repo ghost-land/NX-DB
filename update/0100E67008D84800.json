@@ -1,4 +1,39 @@
 {
     "id": "0100E67008D84800",
-    "version": 196608
+    "base_tid": "0100E67008D84000",
+    "name": "Ultra Space Battle Brawl",
+    "description": "Imagine Pong mixed with the essence of fighting games, on steroids. Easy to learn yet hard to master, Ultra Space Battle Brawl is a fun competitive game fit for settling disputes, be it with your friends and family or rivals and arch nemesis. Play the single player story mode campaign, if you don’t have friends or enemies to fight against.\n\nFeatures:\n- Single player story mode campaign, if you don’t have friends or enemies to fight against\n- Various modes to play that supports up to 4 simultaneous players\n- HD Rumble support\n- Bright and colorful pixel art, inspired by 80s Japanese aesthetics\n- More than 10 playable characters, each with their own quirk and reference to Indonesian diverse cultures\n- A mix of funkot dangdut (Indonesian house music) and 80s synthwave\n- Also features a music by Manami Matsumae of Mega Man fame",
+    "publisher": "Toge Productions",
+    "developer": null,
+    "base_release_date": 20180705,
+    "first_update_release_date": 20180704,
+    "latest_update_release_date": 20181114,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181114
+    },
+    "versions": {
+        "65536": 20180704,
+        "131072": 20180913,
+        "196608": 20181114
+    },
+    "category": [
+        "Arcade",
+        "Sports",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Aggression with Dignity",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

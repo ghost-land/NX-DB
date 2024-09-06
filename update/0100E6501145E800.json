@@ -1,4 +1,45 @@
 {
     "id": "0100E6501145E800",
-    "version": 196608
+    "base_tid": "0100E6501145E000",
+    "name": "I Am Dead",
+    "description": "I am Dead is a charming puzzle adventure game from the creators of Hohokum and Wilmot’s Warehouse about exploring the afterlife.\n\nMorris Lupton is the recently-deceased museum curator of the tiny island of Shelmerston who is reunited with the ghost of his dog Sparky, only to discover that a disaster is about to destroy his beloved island.\n\nTogether, they must uncover Shelmerston’s ancient mysteries, prevent the island’s volcano from erupting, and save the place they call home.\n\nMorris and Sparky must unearth a number of Shelmerston's lost and scattered ghosts. To find them, the duo must visit the places they spent time in, dive inside the memories of the people who knew them best, and learn the stories of their lives. \n\nTo help with their mission, Morris uses his newfound power that allows him to peer inside objects and people to reveal their contents and memories, like a supernatural X-Ray!\n\nAlong the way you will discover many stories about the history and folklore of Shelmerston, and its cast of curious inhabitants and visitors: tourist finches, the fishfolk, morlos, and the Legend of Aggi - the one who originally silenced the volcano...\n",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20201007,
+    "latest_update_release_date": 20201104,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201104
+    },
+    "versions": {
+        "65536": 20201007,
+        "196608": 20201104
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "I Am Dead is a charming puzzle adventure game from the creators of Hohokum and Wilmot’s Warehouse about exploring the afterlife.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

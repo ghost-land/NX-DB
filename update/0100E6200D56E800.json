@@ -1,4 +1,35 @@
 {
     "id": "0100E6200D56E800",
-    "version": 131072
+    "base_tid": "0100E6200D56E000",
+    "name": "The World Next Door",
+    "description": "An addictive mix of lightning-fast puzzle battles, powerful storytelling and immersive visual novel elements, The World Next Door follows Jun, a rebellious teen girl trapped in a parallel realm inhabited by magical creatures, who must find her way home before time runs out.",
+    "publisher": "VIZ",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20190326,
+    "latest_update_release_date": 20190515,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190515
+    },
+    "versions": {
+        "65536": 20190326,
+        "131072": 20190515
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Battle beasts and befriend magical beings to uncover a way back home.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100E5F00C45E800",
-    "version": 65536
+    "base_tid": "0100E5F00C45E000",
+    "name": "蒼翼默示錄 神觀之夢 特別版",
+    "description": "以華艷的畫面與平衡性高的遊戲系統， 受到全世界玩家歡迎的2D格鬥遊戲的頂峰作「蒼翼默示錄」系列，這個系列的最新作「蒼翼默示錄 神觀之夢」在此登場。",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190626
+    },
+    "versions": {
+        "65536": 20190626
+    },
+    "category": [
+        "格鬥",
+        "街機",
+        "動作",
+        "冒險"
+    ],
+    "intro": "以華艷的畫面與平衡性高的遊戲系統， 受到全世界玩家歡迎的2D格鬥遊戲的頂峰作。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

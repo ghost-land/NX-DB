@@ -1,4 +1,46 @@
 {
     "id": "0100E640142A2800",
-    "version": 196608
+    "base_tid": "0100E640142A2000",
+    "name": "35MM",
+    "description": "Post-apocalyptic story about two travelers who set out on a long journey in the wasteland, left by people after the pandemic. The disaster destroyed much of the world's population, the infrastructure went wrong and the common life remained only in memories. The times when a human has adapted the environment for himself have ended and now, in order to survive, he will have to adapt to changes. You will have to play the character whose path runs through the deserted towns and cities in Russia, fields and forests of a vast country and even a secret underground facility. Who are we, where are we from and where do we go – we will be lucky to know it only at the end!\n\nThis adventure story will let you explore in more detail a number of interesting locations of post-apocalyptic Russia, filled with a variety of items and secrets. During the journey you will collect supplies, food, batteries and weapons, solve quests and move forward on the plot, which has several variations in the final, depending on your actions.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20220302,
+    "first_update_release_date": 20220224,
+    "latest_update_release_date": 20220317,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220317
+    },
+    "versions": {
+        "65536": 20220224,
+        "131072": 20220228,
+        "196608": 20220317
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "First-Person Shooter"
+    ],
+    "intro": "Post-apocalyptic story about two travelers who set out on a long journey in the wasteland.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

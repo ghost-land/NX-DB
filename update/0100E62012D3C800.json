@@ -1,4 +1,34 @@
 {
     "id": "0100E62012D3C800",
-    "version": 65536
+    "base_tid": "0100E62012D3C000",
+    "name": "BIT.TRIP RUNNER",
+    "description": "Race across the Moon, kicking down crystal walls and sliding under chomping moon-slugs! Bound through the Robotic Mines and face off against the MinerMech! Dash through the Big City on a quest to find friends and defeat the final boss together!\n- Control CommanderVideo as he runs, jumps, kicks, and slides his way to victory!\n- With exciting modern and retro challenges, you can dash your way through more than 50 levels!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- A boppin’ chiptune-inspired soundtrack with special guest Anamanaguchi!\nJoin CommanderVideo in BIT.TRIP RUNNER, his most incredible journey yet!\n",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20201225,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210121
+    },
+    "versions": {
+        "65536": 20210121
+    },
+    "category": [
+        "Arcade",
+        "Music",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "CommanderVideo sprints into the fourth phase of his metaphysical journey in BIT.TRIP RUNNER.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

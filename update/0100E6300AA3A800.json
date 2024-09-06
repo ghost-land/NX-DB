@@ -1,4 +1,40 @@
 {
     "id": "0100E6300AA3A800",
-    "version": 65536
+    "base_tid": "0100E6300AA3A000",
+    "name": "Batman: The Enemy Within",
+    "description": "In this latest chapter from the award-winning studio behind Batman - The Telltale Series, both Bruce Wayne and Batman will be forced into precarious new roles. The Riddler has returned to terrorize Gotham City, but his gruesome puzzles merely foreshadow an even greater crisis. With the arrival of a ruthless federal agent and the return of a still nascent Joker, Batman must navigate uneasy alliances while Bruce Wayne undertakes a perilous series of deceptions. Which of Batman’s new allies will you choose to trust? And how deep into the darkness will you let Bruce descend?\n\nIncludes access to all five episodes in this all-new season from the award-winning studio, Telltale Games.",
+    "publisher": "TellTale",
+    "developer": null,
+    "base_release_date": 20181002,
+    "first_update_release_date": 20200319,
+    "latest_update_release_date": 20200319,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200319
+    },
+    "versions": {
+        "65536": 20200319
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong themes",
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

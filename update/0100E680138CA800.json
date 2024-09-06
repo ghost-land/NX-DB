@@ -1,4 +1,38 @@
 {
     "id": "0100E680138CA800",
-    "version": 196608
+    "base_tid": "0100E680138CA000",
+    "name": "The Innsmouth Case",
+    "description": "A desperate mother, a missing girl and a mystical place - a case could hardly be more challenging. To solve the enigmatic disappearance of little Tabitha Marsh, however, the toughest and cleverest detective of all is wanted... but he does not have the time - and so the job goes to you. This mysterious assignment takes you to the remote fishing village of Innsmouth, where nothing is what it seems…\n\nSave the girl, solve the case, survive Innsmouth!\n\nThe Innsmouth Case is a detective adventure in the style of an interactive book inspired by the fantastical works of horror legend H.P. Lovecraft. The unique mixture of horror and humor makes The Innsmouth Case the first scary-comedy-text-adventure of its kind. A game in which every decision counts, and there is far more than one way to successfully solve the case ... or fail miserably!\n\n- Become part of a stirring story in the Lovecraft universe, where every decision you make has a lasting effect on the story.\n\n- This interactive book will captivate you with its perfect blend of offbeat humor and classic horror.\n\n- What fate awaits you in Innsmouth is entirely in your hands; a total of 27 possible endings want to be discovered. Are you saving the day - or are your days numbered?\n\n- Explore 21st century Innsmouth, talk to over 30 animated characters and solve the mystery of the disappearance of little Tabitha Marsh.",
+    "publisher": "Assemble Entertainment",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20210921,
+    "latest_update_release_date": 20230317,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230317
+    },
+    "versions": {
+        "65536": 20210921,
+        "196608": 20230317
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The Innsmouth Case is a text adventure game inspired by H.P. Lovecraft and the very first text-based adventure to combine horror and comedy in a fit and proper way. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100E6601D698800",
-    "version": 65536
+    "base_tid": "0100E6601D698000",
+    "name": "Anglerfish",
+    "description": "Welcome to Anglerfish. \nYour secluded bar in Mols mountains. Here you will experience the true survival horror of dating, which means you will die. \n\n...you will die multiple times...\n...you will die many, many times.\n \nAnd every time you die, you have to start over but here’s the catch - the game changes, based on how and where you died to keep you on your toes. To make it through the night, you must uncover the secrets hidden deep down in Anglerfish’s core by exploring every nook and cranny, and solve the buried mysteries. \nCan you survive your wildest night ever at Anglerfish?\n\nFEATURES:\n♡ Memento Mori - The only way to save is to die.\n♡ Till Death Do Us Part - Every time you die, the game adapts, keeping things fresh\n♡ It’s A Beautiful Life - Distractingly beautiful pixel art graphics\n♡ What’s So Funny? - Dark humor that will keep you sane or do the exact opposite\n♡ Oh, Shoot - Experience high-octane survival horror gameplay with your trusty shotgun\n♡ Everything You Just Read Is False - Or is it?\n\nREVIEWS:\n▪ \"This game is just a treat, a great mix of horror, comedy, and keeping you on your toes.” - KatLink\n▪ \"Excellent game, the core mechanic of changing things up each time works well. I really liked the 'difficulty' scaling too.” - Ahegoa\n▪ \"Holy hell this game is great. It's weird, it's funny, it's all that a game should be.” - AC",
+    "publisher": "Feardemic",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240227,
+    "latest_update_release_date": 20240227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240227
+    },
+    "versions": {
+        "65536": 20240227
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Puzzle"
+    ],
+    "intro": "Go on an epic adventure equipped only with your shotgun, wit, and a strong stomach for disturbing exploration. The game only saves when you die. Can you survive a night?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "0100E64015370800",
-    "version": 131072
+    "base_tid": "0100E64015370000",
+    "name": "Necrobarista - Final Pour -",
+    "description": "\"This is a story about death and coffee.\"\n\nInspired equally by film and anime, Necrobarista is a unique take on the visual novel medium. Follow a dynamic and diverse cast of characters as they navigate Melbourne's hipstery coffee culture, the questionable ethics of necromancy, and the process of letting go.\n\nStylized, fully 3D cinematic presentation that draws from anime aesthetics.\nSoundtrack by Kevin Penkin, BAFTA-nominated composer for Florence, Made in Abyss, and Norn9.\nDelve into the world of the Terminal and fantasy Melbourne through free-roaming first-person scenes.\nFeaturing goon-sack robots, alchemical coffee, and Australian folk hero Ned Kelly.\nSupport for fourteen languages, including Korean, Arabic, and Russian.",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20210812,
+    "first_update_release_date": 20210811,
+    "latest_update_release_date": 20210902,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210902
+    },
+    "versions": {
+        "65536": 20210811,
+        "131072": 20210902
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "In a back-alley cafe, the dead are granted one last night to mingle with the living.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes"
+    ],
+    "region": null
 }

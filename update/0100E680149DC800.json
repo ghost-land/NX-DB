@@ -1,4 +1,47 @@
 {
     "id": "0100E680149DC800",
-    "version": 720896
+    "base_tid": "0100E680149DC000",
+    "name": "Arcaea",
+    "description": "Touch, hold, slide—and, for the first time ever, use the Joy-Con™ controllers to glide through the world of Arcaea. Feel the rhythm in a vast collection of songs now fully available on Nintendo Switch™, and follow the fateful story of the girls lost in its world.\n\nEach awakens without any memories in a barren, pale world of ruined buildings and dry oceans. Only the drifting, glass shard-like memories offer any sense of life in this world... but where will the memories lead them?\n\nFeatures:\n* Two play types: traditional touch gameplay joins a new play type that uses the Joy-Con™ controllers\n* Over 150 songs from over 90 different artists in a multitude of electronic genres\n* A brand-new song pack, Divided Heart, containing five songs, the new Partner Shirahime, and a new storyline\n* Three difficulties for every song, ranging from easier songs for those experiencing rhythm games for the first time all the way to extreme challenges that will make even the most hardcore rhythm game fans sweat\n* A completely revamped progression system for unlocking new songs, characters, and stories—all playable offline\n* A totally new look for the over 60 chapters in Story Mode, including beautiful new illustrations\n\nAs their story unravels, a timeless tale is told once again—",
+    "publisher": "lowiro",
+    "developer": null,
+    "base_release_date": 20210518,
+    "first_update_release_date": 20210621,
+    "latest_update_release_date": 20230816,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20230816
+    },
+    "versions": {
+        "65536": 20210621,
+        "131072": 20210915,
+        "196608": 20210923,
+        "262144": 20211011,
+        "327680": 20220224,
+        "393216": 20220317,
+        "458752": 20220727,
+        "589824": 20230316,
+        "655360": 20230322,
+        "720896": 20230816
+    },
+    "category": [
+        "Music",
+        "Arcade"
+    ],
+    "intro": "Experience a new dimension of rhythm game in a forgotten world filled with memories...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

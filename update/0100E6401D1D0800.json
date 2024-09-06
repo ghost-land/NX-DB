@@ -1,4 +1,38 @@
 {
     "id": "0100E6401D1D0800",
-    "version": 65536
+    "base_tid": "0100E6401D1D0000",
+    "name": "BANCHOU TACTICS",
+    "description": "BANCHOU TACTICS is a strategy turn based role-playing game in the Japanese Gangster High School (Banchou).\n\nFor several years of conflicts, there were bloody struggles between three high schools around this area (somewhere in Japan).  This madness played by the three schools: Sakae High School, Nakamura Technical High School and Minato High School.  They engaged in many fierce battles with the aim to show who’s boss in this town. \n\nWhen Kitagawa Seiichi, the demon king of Minato High School just graduated last year, all the balance of three power came to doubt once again.\n\nThe game is set in Minato High School The story focuses on TAIGA ARASHI.",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20240215,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240328
+    },
+    "versions": {
+        "65536": 20240328
+    },
+    "category": [
+        "Arcade",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Japanese Gangster High School Tactics RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

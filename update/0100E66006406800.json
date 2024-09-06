@@ -1,4 +1,40 @@
 {
     "id": "0100E66006406800",
-    "version": 262144
+    "base_tid": "0100E66006406000",
+    "name": "OCTOPATH TRAVELER",
+    "description": "物語の舞台となるのはオルステラ大陸。\n主人公は８人の旅人たち\nきみはその一人として\nこの世界を自由に旅することができる\n生まれた場所も、旅の目的も\nそして特技も異なる８人――\nはたしてきみは\nどのような旅を体験するだろうか？\n\n旅立とう。きみだけの物語へ――",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20180713,
+    "first_update_release_date": 20180711,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200804
+    },
+    "versions": {
+        "131072": 20180711,
+        "196608": 20190606,
+        "262144": 20200804
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "旅立とう、きみだけの物語へ――",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "犯罪"
+    ],
+    "region": null
 }

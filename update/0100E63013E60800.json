@@ -1,4 +1,58 @@
 {
     "id": "0100E63013E60800",
-    "version": 1048576
+    "base_tid": "0100E63013E60000",
+    "name": "ASTRONEER",
+    "description": "Explore and Reshape Distant Worlds! Astroneer is set during the 25th century Intergalactic Age of Discovery, where Astroneers explore the frontiers of outer space, risking their lives in harsh environments to unearth rare discoveries and unlock the mysteries of the universe.\n\nOn this adventure, players can work together to build custom bases above or below ground, create vehicles to explore a vast solar system, and use terrain to create anything they can imagine. A player’s creativity and ingenuity are the key to seeking out and thriving while on exciting planetary adventures! In Astroneer you can:\n\n•Reshape the ground under your feet as though it were made of clay.\n•Survive on and explore carefully crafted planets that can be entirely deformed and traversed.\n•Snap together components and objects to build bases and vehicles.\n•Play with friends in 4 player online drop-in/drop-out co-op.\n•Discover and uncover the mysteries of the solar system\n\n•••Deform & shape everything around you•••\nIn Astroneer, players use their deform tool to dig, collect, shape and build anything they wish. Use this ability to dig to the center of the planet, build a ramp into the sky, or make megaliths just by using terrain!",
+    "publisher": "System Era Softworks",
+    "developer": null,
+    "base_release_date": 20220113,
+    "first_update_release_date": 20211217,
+    "latest_update_release_date": 20240828,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20240828
+    },
+    "versions": {
+        "65536": 20211217,
+        "131072": 20220211,
+        "196608": 20220325,
+        "262144": 20220720,
+        "327680": 20220818,
+        "393216": 20220928,
+        "458752": 20221205,
+        "524288": 20230125,
+        "589824": 20230313,
+        "655360": 20230803,
+        "720896": 20230822,
+        "786432": 20231205,
+        "851968": 20240202,
+        "917504": 20240220,
+        "983040": 20240312,
+        "1048576": 20240828
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

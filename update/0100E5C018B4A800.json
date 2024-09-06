@@ -1,4 +1,44 @@
 {
     "id": "0100E5C018B4A800",
-    "version": 393216
+    "base_tid": "0100E5C018B4A000",
+    "name": "Return to Shironagasu Island",
+    "description": "A mystery adventure game and visual novel set on solitary Shironagasu Island.\n\nExplore the island and discover its sinister secrets as detective Sen Ikeda and your assistant Neneko Izumozaki.\n\n- STORY -\nSen Ikeda, a detective in New York, receives a mysterious invitation to Shironagasu Island in the testament of a millionaire. Together with Neneko Izumozaki, a girl with special abilities, he travels to the secluded island.\nSolve numerous mysteries and murders!\nMeet enigmatic and captivating characters!\nDiscover the hidden secret of Shironagasu Island!\nStay alive and escape from the ominous island!\n\n- Currently, voices can only played if the game's language is set to Japanese. This is because of a temporary contractual setback with the voice actors.\n- We plan to resolve the issue in a future update.",
+    "publisher": "room6",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20221116,
+    "latest_update_release_date": 20240218,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240218
+    },
+    "versions": {
+        "65536": 20221116,
+        "131072": 20221121,
+        "196608": 20221221,
+        "262144": 20230918,
+        "327680": 20231127,
+        "393216": 20240218
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "I'm going back to the sinister Shironagasu Island...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null
 }

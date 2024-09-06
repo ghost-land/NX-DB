@@ -1,4 +1,34 @@
 {
     "id": "0100E640118C4800",
-    "version": 196608
+    "base_tid": "0100E640118C4000",
+    "name": "\"シナリオクリアまで遊べる\"『黄泉ヲ裂ク華 お手軽版』",
+    "description": "新たな資源を生み出す巨大構造体『黄泉』。\n零細企業の採掘業務募集に、一攫千金を夢みて、非合法で集められたモノたち。 しかしその夢は、ある男の罠により無残に砕かれ、 危険な怪物がはびこる、迷宮へと閉じ込められてしまう。 地上を目指し、生き残りをかけた決死の生還劇が今、始まる。",
+    "publisher": "エクスペリエンス",
+    "developer": null,
+    "base_release_date": 20201015,
+    "first_update_release_date": 20200916,
+    "latest_update_release_date": 20220427,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220427
+    },
+    "versions": {
+        "65536": 20200916,
+        "131072": 20210114,
+        "196608": 20220427
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "1970年代の東京を舞台にした、ディストピア・ダンジョンRPG ここに開幕!!",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

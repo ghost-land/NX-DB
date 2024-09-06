@@ -1,4 +1,35 @@
 {
     "id": "0100E6900F2A8800",
-    "version": 65536
+    "base_tid": "0100E6900F2A8000",
+    "name": "Dual Brain Vol.1: Calculation",
+    "description": "■ Rules are simple.\nSolve the problem within the time limit and aim for a high score.\nThe high score in the game is registered in the online ranking.\nCompete for scores with players around the world.\n\n■This time calculation.\nThere are many calculation games in this game.\nAnyone can play happily, even those who are not good at calculations and those who are good at calculation.\n\n■ Let's train parallel processing ability with \"DUAL TASK\".\nNot just a brain training game!\nHandle \"DUAL TASK\" while solving the problem.\nIf \"Dual Task\" is successful, the remaining time limit will increase.\nThe remaining time limit will be added to the score as “TIME BONUS”.\n\nSolve the problem and complete “DUAL TASK” to become the best player in the world.",
+    "publisher": "D-O",
+    "developer": null,
+    "base_release_date": 20191220,
+    "first_update_release_date": 20191224,
+    "latest_update_release_date": 20191224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191224
+    },
+    "versions": {
+        "65536": 20191224
+    },
+    "category": [
+        "Arcade",
+        "Study",
+        "Training",
+        "Other"
+    ],
+    "intro": "A new brain training game has been released!\nMake full use of \"DUAL TASK\" to compete with players around the world for scores!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

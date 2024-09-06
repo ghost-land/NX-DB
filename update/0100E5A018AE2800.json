@@ -1,4 +1,42 @@
 {
     "id": "0100E5A018AE2800",
-    "version": 65536
+    "base_tid": "0100E5A018AE2000",
+    "name": "DRAW AND COLOR: KAWAII",
+    "description": "Coloring books are a great way to spend your time. It is a good way to settle the nerves and relax! It also develops your brain... just like eating fish. Use one of the premade templates or create YOUR OWN illustrations.\n\nPick one of over a dozen drawings and make it your own. Chose one of the available settings and play around with these adorable characters.\n\nKey features:\n\n- 5 different themes of drawings\n- 8 tools with 24 color variations\n- Cute design\n- Great for all ages",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220923,
+    "first_update_release_date": 20220916,
+    "latest_update_release_date": 20220916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220916
+    },
+    "versions": {
+        "65536": 20220916
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Practical",
+        "Education"
+    ],
+    "intro": "DRAW AND COLOR: KAWAII is your path into the world of adorable delicacies! Use different drawing tools and have some tasty fun!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100E64010BAA800",
-    "version": 196608
+    "base_tid": "0100E64010BAA000",
+    "name": "realMyst: Masterpiece Edition",
+    "description": "It’s been 25 years since Myst became your world. This newly refreshed and rebuilt version is all the things you loved about Myst, but now you are free to investigate this strange world in your own way. You can explore anywhere. Pick your own path through the forest on Myst Island and seek shelter from the thunderstorm in Stoneship Age. Whether you’re visiting Myst Island for the first time, or you’ve been exploring the island for years - there’s never been a better reason to let the surrealistic Ages of realMyst become your world.",
+    "publisher": "Cyan Worlds",
+    "developer": null,
+    "base_release_date": 20200522,
+    "first_update_release_date": 20200507,
+    "latest_update_release_date": 20200903,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200903
+    },
+    "versions": {
+        "65536": 20200507,
+        "131072": 20200707,
+        "196608": 20200903
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The Surrealistic Adventure That Will Become Your World.\nJourney now to an island tinged with mystery.\nOnly you can unravel this chilling tale. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

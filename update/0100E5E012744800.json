@@ -1,4 +1,35 @@
 {
     "id": "0100E5E012744800",
-    "version": 65536
+    "base_tid": "0100E5E012744000",
+    "name": "Micro Pico Racers",
+    "description": "Micro Pico Racers is a fun top-down arcade racing game with a retro style graphics where you control of little cars racing over exciting tracks. Start your engines and prepare for the craziest and most addictive racing game ever. Fast-paced racing game with a fresh interpretation of the 16-bit style. This is an arcade racing game based on games that we loved playing in the arcades growing up. You could say it's inspired by those games, it's a tribute to them!\n\nFeatures:\n\n- Great retro pixel art design.\n- Select from over 20 vehicles each with its own unique handling and performance.\n- Grand prix mode with 60 levels provides hours of fun and challenging races.\n- Multiple views (top down, isometric, back view).\n- Detailed pixel art enviroments.\n- Different game mechanics (racing, destroy your rivals, drift challenge, time attack).\n- Great car drive physics.\n- Easy to learn, simple to play, but a real challenge to Master.\n- An awesome Soundtrack inspired by the glory days of top down racing games.\n",
+    "publisher": "Zerouno Games",
+    "developer": null,
+    "base_release_date": 20200924,
+    "first_update_release_date": 20201016,
+    "latest_update_release_date": 20201016,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201016
+    },
+    "versions": {
+        "65536": 20201016
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports",
+        "Other"
+    ],
+    "intro": "A fun top-down arcade racing ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }
