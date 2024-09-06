@@ -1,4 +1,36 @@
 {
     "id": "01001B400D334800",
-    "version": 327680
+    "base_tid": "01001B400D334000",
+    "name": "AFL Evolution 2",
+    "description": "All New Gameplay - Tight controls and smart AI help create a true reflection of the modern AFL game.\nBigger Career - Pursue your goals with greater depth, now with improved draft, free agency and state leagues running simultaneously with the AFL!\nMore Customisation Options - Now includes Guernsey Creator along with Player and Team Management in the FanHub to create and share* your own dream team!\nEnhanced Online* - Play head to head to make it to the top of the online leaderboard, or team up with your mates with connections of up to 8 consoles!\nCommentary - Brand new commentary featuring Anthony Hudson and Garry Lyon.\n\n*Requires internet connection",
+    "publisher": "Tru Blu Games",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200417,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20200417,
+        "131072": 20200520,
+        "196608": 20200611,
+        "262144": 20201027,
+        "327680": 20210527
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "THE EVOLUTION CONTINUES!! \nAFL Evolution 2 is taking AFL gaming to new heights with more features than ever before!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

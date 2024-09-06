@@ -1,4 +1,36 @@
 {
     "id": "01001A50145E0800",
-    "version": 196608
+    "base_tid": "01001A50145E0000",
+    "name": "Gangsta Paradise",
+    "description": "Your city was safe from crimes for a long time. But these times had to end. Mafia boss Al Calzone came with his thugs and wants local business owners to pay tribute for \"protection\". Some people started to pay cash, some paid with their lives. It is only a matter of time when they visit your mother’s flower shop. You can't wait, time to get rid of these mobsters and show who is the real boss here.",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20210319,
+    "first_update_release_date": 20210322,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210728
+    },
+    "versions": {
+        "65536": 20210322,
+        "131072": 20210331,
+        "196608": 20210728
+    },
+    "category": [
+        "Party",
+        "Shooter",
+        "Lifestyle",
+        "Utility"
+    ],
+    "intro": "Time to take matters into your own hands... Matters or guns... it doesn't matter.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

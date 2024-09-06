@@ -1,4 +1,42 @@
 {
     "id": "01001B40086E2800",
-    "version": 131072
+    "base_tid": "01001B40086E2000",
+    "name": "The Bunker",
+    "description": "The Bunker is a live-action psychological horror game starring Adam Brown (The Hobbit) and Sarah Greene (Penny Dreadful) with writing talent behind The Witcher, Broken Sword and SOMA. \n\nAs the last remaining survivor in a nuclear bunker, John’s daily routine is the one thing that keeps him sane. But when an alarm goes off, his mind starts to self-destruct. Venture into long forgotten areas, recover repressed childhood memories and unlock the dark secrets of The Bunker. \n",
+    "publisher": "Wales Interactive",
+    "developer": null,
+    "base_release_date": 20180409,
+    "first_update_release_date": 20200714,
+    "latest_update_release_date": 20220214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220214
+    },
+    "versions": {
+        "65536": 20200714,
+        "131072": 20220214
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The multi-award winning FMV game",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

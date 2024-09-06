@@ -1,4 +1,39 @@
 {
     "id": "01001A30175C4800",
-    "version": 65536
+    "base_tid": "01001A30175C4000",
+    "name": "Who Pressed Mute on Uncle Marcus?",
+    "description": "The family quiz is a long-held tradition but this year, Abby receives some shocking news: someone has poisoned Uncle Marcus! Make decisions throughout the story to uncover the truth and try to save him before it is too late.\n\n- Shot in lockdown and filmed simultaneously in London and Los Angeles\n- Starring Andy Buckley (The Office) as Uncle Marcus\n- Starring Susannah Doyle (Black Mirror) and Robbie Kay (Once Upon a Time)\n- Returning FMV actors Georgia Small (Five Dates) and Al Weaver (The Complex)\n- From the studios behind The Complex, Five Dates, Night Book and Bloodshore\n",
+    "publisher": "Wales Interactive",
+    "developer": null,
+    "base_release_date": 20220318,
+    "first_update_release_date": 20220307,
+    "latest_update_release_date": 20220307,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220307
+    },
+    "versions": {
+        "65536": 20220307
+    },
+    "category": [
+        "Adventure",
+        "Video"
+    ],
+    "intro": "An eccentric FMV murder mystery with a twist",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

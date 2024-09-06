@@ -1,4 +1,51 @@
 {
     "id": "01001AE00C1B2800",
-    "version": 655360
+    "base_tid": "01001AE00C1B2000",
+    "name": "NBA 2K Playgrounds 2",
+    "description": "NBA arcade action is back with NBA 2K Playgrounds 2! The sequel to the original smash hit takes street balling to the next level with a massive roster of current and retired NBA players, improved online matchmaking with dedicated servers, four-player online matches, three-point contests, new playgrounds, custom matches, and more! Pick your team, get ready to jam, and Ball Without Limits!",
+    "publisher": "2K Games",
+    "developer": null,
+    "base_release_date": 20181016,
+    "first_update_release_date": 20181011,
+    "latest_update_release_date": 20191023,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20191023
+    },
+    "versions": {
+        "65536": 20181011,
+        "131072": 20181031,
+        "196608": 20181120,
+        "262144": 20181211,
+        "327680": 20190207,
+        "393216": 20190307,
+        "458752": 20190313,
+        "524288": 20190425,
+        "589824": 20190528,
+        "655360": 20191023
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

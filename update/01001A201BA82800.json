@@ -1,4 +1,41 @@
 {
     "id": "01001A201BA82800",
-    "version": 262144
+    "base_tid": "01001A201BA82000",
+    "name": "Class of Heroes 2G: Remaster Edition",
+    "description": "A call for brave adventurers awaits at the doors of Crostini Academy. Prepare yourself for a remastered classic dungeon crawler, full of exploration, combat, and endless opportunities. Take advantage of the classes and quests available to build the ultimate, hardy cohort of students!\n\nBuild your perfect roster and handpick out your ideal party of 6 students to storm the labyrinths. Mix and match from 10 races and 18 classes, each with their own unique skill sets. Crawl through over 100 labyrinth maps facing over 250 potential enemies. Don’t forget to collect artefacts, explore inter-dimensional travel and conquer adversity. You determine the standard you thrive at, so be sure to take note of recipes for weapons, potions, and any upgrades necessary to level up your party.\n\nThis year, groups of excited students will walk through the doors of Crostini Academy to learn the tools of the trade and leave as the next Class of Heroes!\n\nDo you have what It takes?",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20240426,
+    "first_update_release_date": 20240425,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240425,
+        "131072": 20240430,
+        "196608": 20240613,
+        "262144": 20240719
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Are you ready to take on dark winding dungeons crawling with magic and monsters?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

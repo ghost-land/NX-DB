@@ -1,4 +1,35 @@
 {
     "id": "01001AC00ED72800",
-    "version": 262144
+    "base_tid": "01001AC00ED72000",
+    "name": "If My Heart Had Wings",
+    "description": "Aoi Minase returns with shattered dreams to his wind-swept hometown of Kazegaura.\nThere, atop a hill lined with wind turbines, he encounters a wheelchair-bound girl, Kotori Habane, and a beautiful, white glider soaring through the sky.\n\nTogether, they decide to revive their school's defunct Soaring Club in order to ride the \"Morning Glory\", a phantom cloud carried on the wind that blows across Kazegaura.\n\nThis is a tale of youth, a tale of boys and girls who loved the sky.",
+    "publisher": "MoeNovel",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20191001,
+    "latest_update_release_date": 20210317,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210317
+    },
+    "versions": {
+        "65536": 20191001,
+        "131072": 20191112,
+        "262144": 20210317
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Let's love the sky.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

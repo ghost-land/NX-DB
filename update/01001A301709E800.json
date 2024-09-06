@@ -1,4 +1,32 @@
 {
     "id": "01001A301709E800",
-    "version": 65536
+    "base_tid": "01001A301709E000",
+    "name": "Superpanda",
+    "description": "Superpanda just landed from space to start new missions on our planet.\n\nSuperpanda is a modern action platformer with precise gamepad controls, fluid movement, and smooth animations. Explore vast levels filled with secrets, quests and loot. Fight your way through hordes of evil monsters and other creatures - jump on their head or throw them bullets to get rid of them. Eat fruits to gain more health and keep playing on 3 worlds and 36 levels.\n\nSuperpanda will please boys and girls at all ages. Starts playing!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20211228,
+    "first_update_release_date": 20220120,
+    "latest_update_release_date": 20220120,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220120
+    },
+    "versions": {
+        "65536": 20220120
+    },
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

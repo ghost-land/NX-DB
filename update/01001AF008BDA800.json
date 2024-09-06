@@ -1,4 +1,39 @@
 {
     "id": "01001AF008BDA800",
-    "version": 131072
+    "base_tid": "01001AF008BDA000",
+    "name": "Zen Bound 2",
+    "description": "Wrap your way to bliss in Zen Bound 2, the unique down-tempo indie game! This is an opportunity to slow down, zone out, and focus on a task that’s challenging but not stressful: a set of gentle spatial puzzles.\n\nThe goal of the game is to paint wooden sculptures by wrapping them with rope. You accomplish this by rotating the Joy-Con™ in your hands like it were the sculpture on the screen - a simple task with surprising complexity.\n\nZen Bound 2 is a calm and meditative gameplay experience, with tactile, dusty visuals and a sublime, enveloping soundtrack by the electronic artist ‘Ghost Monkey’.\n\nFEATURES:\n- Motion controlled gameplay\n- Over 100 levels\n- Achievements\n- Exclusive 5.1 surround soundtrack\n- Beautiful high definition visuals",
+    "publisher": "Secretexit",
+    "developer": null,
+    "base_release_date": 20180524,
+    "first_update_release_date": 20180528,
+    "latest_update_release_date": 20180620,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180620
+    },
+    "versions": {
+        "65536": 20180528,
+        "131072": 20180620
+    },
+    "category": [
+        "Puzzle",
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

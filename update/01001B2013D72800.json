@@ -1,4 +1,52 @@
 {
     "id": "01001B2013D72800",
-    "version": 589824
+    "base_tid": "01001B2013D72000",
+    "name": "Evil Tonight",
+    "description": "Silvia isn't afraid of evil. Evil is her job. As a modern exorcist, Silvia has overcome countless horrors with her ability to materialize the evil of haunted places... But tonight... things don't go as planned… Fight, survive, explore, solve puzzles and uncover the mystery of... Evil Tonight!\n\nNo map. No hand holding. Like classic survival horror games of old, Evil Tonight features exploration in its purest form. Find items, discover hidden paths, solve puzzles, manage scarce ammunition, and fight for your life against the evil that lurks in an abandoned Performing Arts School where no two rooms look alike... With an array of evil creatures and memorable boss battles, prepare to be challenged!\n\nFeaturing stunning audio-visuals, Evil Tonight is presented in the highest quality of detailed pixel art graphics, with custom color palettes, handmade lighting effects, and a haunting full original score... it is an unforgettable and immersive experience like no other!",
+    "publisher": "DYA GAMES",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20211020,
+    "latest_update_release_date": 20220801,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20220801
+    },
+    "versions": {
+        "65536": 20211020,
+        "131072": 20211026,
+        "196608": 20211029,
+        "262144": 20211110,
+        "327680": 20211119,
+        "393216": 20211201,
+        "458752": 20211209,
+        "524288": 20220204,
+        "589824": 20220801
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Shooter",
+        "Puzzle"
+    ],
+    "intro": "Prepare to face... Evil Tonight!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

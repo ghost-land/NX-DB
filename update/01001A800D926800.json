@@ -1,4 +1,36 @@
 {
     "id": "01001A800D926800",
-    "version": 65536
+    "base_tid": "01001A800D926000",
+    "name": "WORLDEND SYNDROME",
+    "description": "Spend your summer days exploring, interacting with residents, and investigating local legends to uncover the mystery hiding behind the town’s idyllic exterior. With gorgeous artwork from Yuki Kato, lead artist behind the BLAZBLUE franchise, and top-quality production values, WORLDEND SYNDROME is a romantic horror story that will send a shiver up your spine but have you asking for more!",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20190614,
+    "first_update_release_date": 20190523,
+    "latest_update_release_date": 20190523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190523
+    },
+    "versions": {
+        "65536": 20190523
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Welcome to Mihate-chou, a picturesque seaside town with a terrifying secret. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Violence",
+        "Coarse language",
+        "Sexualised imagery"
+    ],
+    "region": null
 }

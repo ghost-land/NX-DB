@@ -1,4 +1,52 @@
 {
     "id": "01001B4011480800",
-    "version": 851968
+    "base_tid": "01001B4011480000",
+    "name": "Doom & Destiny Worlds",
+    "description": "Stranded and naked on a shore of an unknown planet, four friends wake up afflicted by the most common video game disease: amnesia.\nWho summoned them? Why are they here? How will they return home? What’s for dinner?\n\nWHAT IS DOOM & DESTINY WORLDS\nDoom & Destiny Worlds is an open world turn-based RPG with crafting, building, farming, and 4 players local co-op option.\n\nCraft your way through crazy cosplaying goblins, farting stone giants and cursed genies across more than 60 hand-made islands.\n\nGather resources, customize your party, and unravel the mystery that shrouds the three worlds of Doom & Destiny Worlds.\n\nIT’S DANGEROUS TO GO ALONE!\nTake advantage of every tool at your disposal to overcome Doom & Destiny Worlds many challenges!\n\nThe Dynamic Crafting System (DyCS) allows you to use blueprints and any available crafting material to create custom made weapons, armors, drinks and explosives!\n\nDefeat enemies to level up your party and unlock Feats and increase your Abilities to equip awesome weapons and create unique Classes to suit your playstyle.\n\nIn Doom & Destiny Worlds, turn-based battles take place in real-time. While you fight, enemies can join the fray as reinforcements adding extra layers of challenge!\n\nIT’S IMPORTANT TO CHILLAX!\nYou might need to find a way back home, you might be the chosen and be required to save the world, BUT even a Hero needs to relax.\n\nPlay with the  highly interactive open world of Doom & Destiny Worlds.\n\nFeel free to exploit nature: mine tunnels, dig canals and rise mountains.\n\nCreate your personal camp. Craft forniture or steal it from around the worlds.\n\nTired to gather fruit or to buy it from the local monster grocery shop? Grow it yourself! Farm sweet fruits, magical berries, interesting vegetables and prepare healthy snacks and grown-up drinks.\n\n\nThe limit? Your imagination... And the number of slots in your inventory.",
+    "publisher": "Heartbit",
+    "developer": null,
+    "base_release_date": 20211115,
+    "first_update_release_date": 20210921,
+    "latest_update_release_date": 20230629,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20230629
+    },
+    "versions": {
+        "65536": 20210921,
+        "131072": 20211012,
+        "196608": 20220331,
+        "262144": 20220516,
+        "327680": 20220805,
+        "393216": 20220915,
+        "458752": 20221206,
+        "524288": 20230121,
+        "589824": 20230203,
+        "655360": 20230317,
+        "786432": 20230629,
+        "851968": 20230629
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "When Destiny calls for help, but no one answers, only four nerds can save the day. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

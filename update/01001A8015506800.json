@@ -1,4 +1,59 @@
 {
     "id": "01001A8015506800",
-    "version": 1179648
+    "base_tid": "01001A8015506000",
+    "name": "Let’s Play! Oink Games",
+    "description": "Selling over 1,000,000 copies worldwide, the continually growing game maker, Oink Games, has brought their works to Nintendo Switch!\nPlay 7 popular board games in a variety of situations. With family, with friends, or even by yourself.\n\n● Play together!\nOnline or offline support for 2-8 players. Play with your friends online in real time! If you're a few players short, you can even play with random players or the CPU, too. In offline mode, up to 8 players can have fun with only one Nintendo Switch console and one Joy-Con™ controller.\n\n● Play solo!\nGet matched with random players online or play offline against the CPU. (Not all games support offline solo play)\n\nFilled with our most popular games that even newcomers can get excited about. From competitive games to drawing and cooperative games...this compilation has it all!\n\n● Deep Sea Adventure\nWorldwide bestseller with over 200,000 units sold!\nA great game we recommend even for beginners, in a classic, easy-to-play board game style.\n- Supported Players: Offline 1-6 Players, Online/Local 1-6 Players (Playable with CPU opponents)\n\n● A fake artist goes to NY\nTo put it simply...\"Drawing\" + \"Social Deduction\"!\nA popular drawing party game that will make a big group get excited quick.\n- Supported Players: Offline 3-8 Players, Online/Local 3-8 Players\n\n● Startups\nWith just 3 cards in your hand you can change your destiny!\nWith some luck and some clever thinking, this is a competitive card game that can be played again and again.\n- Supported Players: Offline 1 Player, Online/Local 1-4 Players (Playable with CPU opponents)\n\n● Moon Adventure\nA cooperative game that will test your teamwork!\nA group of astronauts take on a dangerous mission to collect supplies while struggling to replenish their oxygen.\n- Supported Players: Offline 1-5 Players, Online/Local 1-5 Players\n\n● This Face, That Face?\nMake the facial expression on the theme card and get the players to guess!\nA party game where you make a bunch of faces.\n- Supported Players: Offline 3-8 Players, Online/Local 3-8 Players\n\n● In A Grove\nOne of Oink Games' most respected works!\nA game of guessing, deception, and for some reason, differing testimonies.\n- Supported Players: Offline 1 Player, Online/Local 1-5 Players (Playable with CPU opponents)\n\n● Fafnir\nTo get the valuable gems, throw something out!\nAn easy-to-play game of strategy that will make you think a little.\n- Supported Players: Offline 1 Player, Online/Local 1-4 Players (Playable with CPU opponents)",
+    "publisher": "Oink Games",
+    "developer": null,
+    "base_release_date": 20211215,
+    "first_update_release_date": 20211215,
+    "latest_update_release_date": 20240814,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20240814
+    },
+    "versions": {
+        "65536": 20211215,
+        "131072": 20211227,
+        "196608": 20220316,
+        "262144": 20220706,
+        "393216": 20220923,
+        "458752": 20221201,
+        "524288": 20221209,
+        "589824": 20230316,
+        "720896": 20230714,
+        "786432": 20230719,
+        "851968": 20230913,
+        "917504": 20230925,
+        "983040": 20231207,
+        "1048576": 20240120,
+        "1114112": 20240301,
+        "1179648": 20240814
+    },
+    "category": [
+        "Board Game",
+        "Party",
+        "Multiplayer",
+        "Communication"
+    ],
+    "intro": "Over 1,000,000 copies sold worldwide. The innovative board game brand has come to the Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

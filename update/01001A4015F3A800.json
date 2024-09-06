@@ -1,4 +1,35 @@
 {
     "id": "01001A4015F3A800",
-    "version": 65536
+    "base_tid": "01001A4015F3A000",
+    "name": "My Little Ramenbar",
+    "description": "Create healthy meals with the help of delicious recipes and create your customers a smile on their face. Learn different dishes and serve your customers to earn huge profits. Use your hard earned money to buy more props to upgrade your kitchen and complete all levels! \n\nFeatures:\n- over 100 Levels\n- A wide variety of noodle dishes\n- Upgradable kitchen",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20211007,
+    "first_update_release_date": 20211011,
+    "latest_update_release_date": 20211011,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211011
+    },
+    "versions": {
+        "65536": 20211011
+    },
+    "category": [
+        "Board Game",
+        "Arcade",
+        "Education",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

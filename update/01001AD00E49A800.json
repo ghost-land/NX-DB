@@ -1,4 +1,38 @@
 {
     "id": "01001AD00E49A800",
-    "version": 196608
+    "base_tid": "01001AD00E49A000",
+    "name": "DOUBLE DRAGON Ⅲ: The Sacred Stones",
+    "description": "■Introduction\nThe third episode and the most famous of the series.\nTravel round the world searching for the Marian and the Rosetta Stone, \nas both went missing! This time not only Billy and Jimmy are playable, \nas the strong opponents you defeat can rally your cause and become playable! \nA content-rich adventure for this third Double Dragon game.\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200416,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20200416,
+        "131072": 20231129,
+        "196608": 20240613
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Another episode of the Lee brothers' saga.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "01001AF0158F0800",
-    "version": 196608
+    "base_tid": "01001AF0158F0000",
+    "name": "Fury Unleashed",
+    "description": "這款輕度Rogue動作平台遊戲讓玩家進入《Fury Unleashed》漫畫系列的書頁世界，進行狂熱的橫向動作槍戰。在作者John Kowalsky陷入創作瓶頸時，您將負責操控怒火，在活起來的漫畫頁間穿梭，於重重敵陣殺出血路，查明創作者陷入困境的原因。急馳、開火、消滅敵人，並躲避傷害來累積華麗且完美的連殺。不僅如此，在每一輪遊戲中，武器和裝備都會發生變化，為遊玩體驗帶來無盡的新鮮感。您能透過合作模式，線上或離線與夥伴一起勇闖戰場。",
+    "publisher": "Happinet Corporation",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20211027,
+    "latest_update_release_date": 20220707,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220707
+    },
+    "versions": {
+        "65536": 20211027,
+        "131072": 20211206,
+        "196608": 20220707
+    },
+    "category": [
+        "射擊",
+        "動作"
+    ],
+    "intro": "在這款連殺驅動的輕度Rogue動作平台遊戲中，你將在瞬息萬變的漫畫書頁中過關斬將，你越強大，遊戲就越爽快！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }
