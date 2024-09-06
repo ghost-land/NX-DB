@@ -1,4 +1,57 @@
 {
     "id": "010086E00BCB2800",
-    "version": 983040
+    "base_tid": "010086E00BCB2000",
+    "name": "Retimed",
+    "description": "Challenge friends and family to awesome and fast paced arena battles. \nChoose between chaotic team matches and intense free-for-all fights. \nDash and dodge bullet clusters in nerve wracking slow-motion moments. \nUse different surroundings to outplay your opponents and enjoy the colourful world of Retimed! \n\nMEET OUR \"HEROES\"!\nBintain: constantly depressed, lives in a city where everyone is happy. \nViolet: jolly, careless, clumsy, is made of a bubblegum-like substance. \nPsycho: mystery to everyone, wears a mask for an unknown reason. \nYowie: super chill, loves listening to music and getting all philosophical. \n\nFEATURES\n• Easy to learn, hard to master\n• Multiple game play modes \n• Online and offline multiplayer\n• Singleplayer mode\n• 2-4 players \n• 4 cute characters \n• 8 unique arenas \n• E-Sport ready\n\n\nREVIEWS\n“A hail of bullets is headed your direction, when suddenly, time around you comes to a crawl. In your moment of clarity, you fire a shot into one of the oncoming projectiles and duck under the others. You take a brief moment to catch your breath before repaying your opponents with a flurry of your own shots.”\nThe Geekly Grind\n\n“Narrowly dodging impromptu bullet-hell attacks looks and feels friggin’ sweet.”\nNINTENDO ENTHUSIAST\n\n“A great start to a great party.”\nNintendo World Report",
+    "publisher": "Stray Fawn",
+    "developer": null,
+    "base_release_date": 20180921,
+    "first_update_release_date": 20181009,
+    "latest_update_release_date": 20210503,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20210503
+    },
+    "versions": {
+        "65536": 20181009,
+        "131072": 20181205,
+        "196608": 20190524,
+        "262144": 20190611,
+        "393216": 20191205,
+        "458752": 20191220,
+        "524288": 20200123,
+        "589824": 20200217,
+        "655360": 20200325,
+        "720896": 20200414,
+        "786432": 20200709,
+        "851968": 20200804,
+        "917504": 20200813,
+        "983040": 20210503
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Party",
+        "Shooter"
+    ],
+    "intro": "Looking for the most action packed, slow-mo, 2D arena shooter in the universe? Look no further!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100861012474800",
-    "version": 131072
+    "base_tid": "0100861012474000",
+    "name": "Frontline Zed",
+    "description": "Collect weapons where you can. Manage your time well. Will you spend precious daylight hours repairing your defense, or searching for other survivors to help you fight? The promise of rescue beckons - if you can survive long enough to make it.\n\nManage your time by day - search for weapons and survivors, or keep your defenses repaired. Hordes of zombies are waiting for your flesh! Will a wood wall stop them?\nYou should defend your position against the horde by night with maximum attention. Try to survive, fight back with weapon and revel in the carnage with a fully detailed ragdoll and dismemberment system.\n\nTwo hours of intense, action-driven gameplay. Can you make it through America and reach a final rescue destination? Gather, ledge zombies and survive!\n\nFEATURES:\n- Two-player local Co-op\n- Different  types of weapons\n- Fight against variety of zombies\n- Satisfactory ragdoll mechanics\n- Realistic gameplay",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200806,
+    "first_update_release_date": 20210303,
+    "latest_update_release_date": 20210409,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210409
+    },
+    "versions": {
+        "65536": 20210303,
+        "131072": 20210409
+    },
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Defend your fortified barricade by night, collect weapons, and conduct repairs by day. Survive long enough to make your way through America and towards rescue.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

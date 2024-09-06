@@ -1,4 +1,34 @@
 {
     "id": "010086700EF16800",
-    "version": 131072
+    "base_tid": "010086700EF16000",
+    "name": "ZikSquare",
+    "description": "ZikSquare is the fusion of a platformer and a music making software.\nIt's a new experience where the music score becomes the game !\n\nEach musical note is played by the game and is a block that your character has to slide on, to jump on or to dodge.\n\n- 15 original \"pre-built\" songs.\n- 16 instruments and 4 tracks.\n- Beat your best scores, or just listen to your compositions!\n\nDon't want to compose a music but want to create some game levels ?\n\nUse the ZikSquare's Music Generator , and replace generated blocks by what you want ! \n(Blocks, Peaks, Rings, etc.). \n\nAnd take your firsts steps in music composition by creating game levels !",
+    "publisher": "TOMAGameStudio",
+    "developer": null,
+    "base_release_date": 20191016,
+    "first_update_release_date": 20200228,
+    "latest_update_release_date": 20200228,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200228
+    },
+    "versions": {
+        "131072": 20200228
+    },
+    "category": [
+        "Music",
+        "Platformer",
+        "Utility"
+    ],
+    "intro": "Compose your music and make it a game world !",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

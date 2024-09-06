@@ -1,4 +1,44 @@
 {
     "id": "010085500B29A800",
-    "version": 131072
+    "base_tid": "010085500B29A000",
+    "name": "Yet Another Zombie Defense HD",
+    "description": "Yet Another Zombie Defense HD is all about defending yourself against hordes of darkness attacking you every night. However, when you're a lone survivor struggling against waves of enemies who are getting stronger and stronger, your end is inevitable. The only important question is how long can YOU survive?\n\nThe game is a top-down arcade zombie shooter with strategy elements. You're able to choose from variety of weapons to mount them onto auto turrets and set up defensive barricades to stay alive as long as you can. It's for gamers who like to put their skills to the test, find optimal strategy, and reach the highest spot on leaderboards! It also features both online and local co-op mode, where you can blast zombies with up to three friends as well as player vs player deathmatch mode!",
+    "publisher": "Awesome Games",
+    "developer": null,
+    "base_release_date": 20190406,
+    "first_update_release_date": 20190327,
+    "latest_update_release_date": 20190417,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190417
+    },
+    "versions": {
+        "65536": 20190327,
+        "131072": 20190417
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Darkness is coming. How long can you survive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

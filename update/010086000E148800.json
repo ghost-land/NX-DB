@@ -1,4 +1,39 @@
 {
     "id": "010086000E148800",
-    "version": 65536
+    "base_tid": "010086000E148000",
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+    "description": "Join Mario, Sonic and friends for their greatest adventure yet at the Olympic Games Tokyo 2020! \n\nGo for gold as you compete in action-packed sports games, including four brand new events to Tokyo 2020 — Skateboarding, Karate, Surfing, and Sport Climbing, as well as a large selection of classic events. \n\nGet the party started on your Nintendo Switch with a variety of ways to play, including button play and motion controls in multiplayer game modes that support up to four players locally and up to eight players online.  \n\nPlay as Mario, Sonic, Yoshi, Amy Rose, Luigi, Dr. Eggman, and many more of your favourite characters.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20191108,
+    "first_update_release_date": 20191031,
+    "latest_update_release_date": 20191031,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191031
+    },
+    "versions": {
+        "65536": 20191031
+    },
+    "category": [
+        "Sports",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010085601A21A800",
-    "version": 65536
+    "base_tid": "010085601A21A000",
+    "name": "Nature Puzzle",
+    "description": "Nature Puzzle is here!\n\nPlay various stages! Try different approaches! Choose and win different puzzle stages alone or with friends!",
+    "publisher": "RuWaMo Games",
+    "developer": null,
+    "base_release_date": 20230216,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Nature Puzzle is here!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

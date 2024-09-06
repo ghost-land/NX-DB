@@ -1,4 +1,39 @@
 {
     "id": "010085A00821A800",
-    "version": 131072
+    "base_tid": "010085A00821A000",
+    "name": "ClusterPuck 99",
+    "description": "ClusterPuck 99 is top-down competitive local multiplayer sports game filled with fun and frantic action! \n\nClusterPuck 99 supports up to 8 player players across 30 maps and is perfect for parties! Bash your opponents to gain control of the puck and then fight your way through to their goal. Avoid spikes and use speed boosts in the maps to blast past other players. \n\nClusterPuck 99 includes a single player challenge mode, instant replays, stat tracking, customization and a fully featured custom level editor!",
+    "publisher": "Coatsink Software",
+    "developer": null,
+    "base_release_date": 20180330,
+    "first_update_release_date": 20180411,
+    "latest_update_release_date": 20180427,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180427
+    },
+    "versions": {
+        "65536": 20180411,
+        "131072": 20180427
+    },
+    "category": [
+        "Party",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "010086300A558800",
-    "version": 131072
+    "base_tid": "010086300A558000",
+    "name": "INFERNO CLIMBER: REBORN",
+    "description": "-Story\nA long, long time ago... There were 5 Purgatory Stones with enormous magical powers.\nPurgatory Stones were owned by 5 different countries to keep the world in order.\nHowever, as the time passed, evil and corruption spreads through the land.\nPurgatory Stones fell into the wrong hands. Monsters plagued all over the land.\nThus, the world has fallen. \n\n100 years later... An innocent soul made a pact with Death.\nThe awakened one set forth in search for the Purgatory Stones.\n\n\n-Feature\nThe main feature of Inferno Climber is to experience the thrill and tension of being immortal.\nRecover your soul (and all unused items your dying character drops) when you die to retain your immortality. Go as you are to the deepest dungeon with what equipment you have for your most challenging journey yet. Tireless enemies will constantly test your survival skills. This is Inferno Climber.\n\nBattle with hunger, food freshness, and keeping healing items on hand as you head further into the dungeons.\nEvery time you replay an area you can improve your weapons and increase your strength from the randomized items found on enemies and in treasure chests.\n\n\n-Survival\nAs you explore dungeons you will become hungry.\nWhen hunger reaches 0, it depletes your health until death occurs.\nFood can restore hunger, however food can rot if you hold on to it for too long.  \n\n\n-Characters\nChoose one of eight different class types, each with his own set of abilities.\nWhat character you use will impact your progress, making the journey easier or harder.",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20190516,
+    "first_update_release_date": 20190403,
+    "latest_update_release_date": 20190710,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190710
+    },
+    "versions": {
+        "65536": 20190403,
+        "131072": 20190710
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "Forge through hell in this survival action RPG",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

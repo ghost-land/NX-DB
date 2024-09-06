@@ -1,4 +1,49 @@
 {
     "id": "01008560167AE800",
-    "version": 458752
+    "base_tid": "01008560167AE000",
+    "name": "Yurukill: The Calumniation Games",
+    "description": "Accused of a horrific crime you didn’t commit, you find yourself in Yurukill Land—a mysterious amusement park filled with life threatening attractions you must survive if you desire freedom. Writer Homura Kawamoto, best known for his hit title Kakegurui, writes a twisted and multifaceted story that will keep you wanting more. In addition to an in-depth story, Yurukill also features shoot-‘em-up gameplay by renowned developer G.Rev, and online leaderboards allowing players to see how they rank among the competition.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20220705,
+    "first_update_release_date": 20220607,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20220607,
+        "196608": 20220705,
+        "262144": 20220713,
+        "327680": 20220801,
+        "393216": 20220829,
+        "458752": 20220923
+    },
+    "category": [
+        "Adventure",
+        "Shooter",
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Pardon or Kill? Let the Madness Begin.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

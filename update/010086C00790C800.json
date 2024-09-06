@@ -1,4 +1,39 @@
 {
     "id": "010086C00790C800",
-    "version": 65536
+    "base_tid": "010086C00790C000",
+    "name": "Warlock's Tower",
+    "description": "Warlock's Tower is a retro puzzler with elegantly designed levels around one simple rule - one move equals one life lost. Playing as mailman Tim, you must brave the tower and its complex rooms of maddening puzzles, in a bid to reach the top and deliver a peace offering to the Warlock.\n\nClearing each room won’t be easy, though! Every step you take costs a life point, monsters and traps are everywhere, and some rooms require two characters working in tandem to proceed!\n\nDelivering the post has never been so challenging. Watch your step!\n\nFeatures:\n * Solve 100+ increasingly complex rooms\n * Outwit zombies, flying eyes, & slimes. Your ever-diminishing steps are far from the only danger.\n * Feel the 80s! Retro, 8-bit aesthetics make you feel like you're playing your favourite handheld again.",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190531,
+    "first_update_release_date": 20190610,
+    "latest_update_release_date": 20190610,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190610
+    },
+    "versions": {
+        "65536": 20190610
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Arcade",
+        "Strategy"
+    ],
+    "intro": "When a Warlock threatens the safety of the entire world, salvation must come by mail!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

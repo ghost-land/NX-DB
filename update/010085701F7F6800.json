@@ -1,4 +1,40 @@
 {
     "id": "010085701F7F6800",
-    "version": 65536
+    "base_tid": "010085701F7F6000",
+    "name": "Busway Islands - Puzzle",
+    "description": "Busway Islands is a puzzle game about organizing roads and rails across a large archipelago. Your goal is to create a safe and efficient route between bus stations, ensuring that all passengers are picked up along the way.\n\nChallenge your logical skills with 35 unique and captivating challenges, while enjoying relaxing sound effects and having fun with challenging puzzles in a minimalist and relaxing experience.\n\n- 35 unique islands.\n- Satisfying and relaxing sound effects.\n- Unique puzzles.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20240711,
+    "first_update_release_date": 20240720,
+    "latest_update_release_date": 20240720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240720
+    },
+    "versions": {
+        "65536": 20240720
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Study",
+        "Education"
+    ],
+    "intro": "Build efficient bus routes across beautiful islands! Solve puzzles, connect stations & pick up all passengers",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

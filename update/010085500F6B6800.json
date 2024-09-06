@@ -1,4 +1,34 @@
 {
     "id": "010085500F6B6800",
-    "version": 131072
+    "base_tid": "010085500F6B6000",
+    "name": "HAUNTED: Halloween '86",
+    "description": "October 31st, 1986: In the once-quiet town of Possum Hollow, two 11-year old kids are gearing up for some Halloween hijinks! Before a fun-filled night of trick-or-treating Donny and Tami venture up to the old farm house where Harry, the crazy old farmer, suddenly thrusts them into a nightmare. Now trapped deep down in his dungeon on a pile of bones, they must break out and find their way back home. They will face hordes of heinous haunts, monstrous bosses and environmental hazards as they make their way through the various landscapes of Possum Hollow and fight to save their town from the curse that plagues it.\n\n● Donny and Tami, two adorable little bit-kickers with a stern lesson for anyone who tries to ruin Halloween.\n● 7 levels of beautifully pixelated environments with hordes of unique enemies and bosses, all built to the restrictions of the original console.\n● Tag Team Technology allowing you to swap characters on the fly.\n● A killer combat system unlike anything from the era with upgradeable power moves, combos and momentum-based physics that feel entirely modern.\n● Coded entirely in 6502 Assembly language down in our 8-bit laboratories. #8BitLegit\n● Sizzling chiptune soundtrack composed entirely in Famitracker.\n",
+    "publisher": "Mega Cat Studios",
+    "developer": null,
+    "base_release_date": 20191107,
+    "first_update_release_date": 20191024,
+    "latest_update_release_date": 20191205,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191205
+    },
+    "versions": {
+        "65536": 20191024,
+        "131072": 20191205
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Straight from our authentic 8-bit cartridges to your Nintendo Switch™, this horror-infused platformer, beat-em-up hybrid is power packed with spooky action and adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

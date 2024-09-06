@@ -1,4 +1,37 @@
 {
     "id": "0100868013FFC800",
-    "version": 131072
+    "base_tid": "0100868013FFC000",
+    "name": "TRIVIAL PURSUIT Live! 2",
+    "description": "Take your place on stage to showcase your knowledge and face off against friends and family to collect as many wedges as you can to take home the win! Challenge other players from all around the world or compete against your streaming viewers on Twitch. With hundreds of new questions, adapted level of difficulties, and a diverse line-up of characters, everyone can join the party and enjoy the thrill of a fast-paced TV show experience.\n\nTrivial Pursuit Live! 2 is available in English, French, German, Spanish and Russian.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20220317,
+    "first_update_release_date": 20220316,
+    "latest_update_release_date": 20220422,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220422
+    },
+    "versions": {
+        "65536": 20220316,
+        "131072": 20220422
+    },
+    "category": [
+        "Board Game"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

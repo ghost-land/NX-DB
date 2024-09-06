@@ -1,4 +1,38 @@
 {
     "id": "0100858010DC4800",
-    "version": 131072
+    "base_tid": "0100858010DC4000",
+    "name": "the StoryTale",
+    "description": "Once upon a time, a Little Princess who didn’t want to be a queen, slipped out of a palace in search of a mysterious amulet. She believed that the amulet would give her magical powers and help to become a real sorceress.\n\nMeanwhile, the Immortal Prince of the neighbor kingdom, having heard about the princess' disappearance, bravely sets off to find her, armed with cursed weapons and breaking through the horde of goblins.\n\nThe game is a classic platformer with bunch of levels, goblins, spikes, traps and puzzles. In their adventures, Little Princess and Immortal Prince, surprisingly will find many new friends among goblins. With the help of unusual spells and magic weapons, prince and princess, will float above the ground, walk through walls, become giants smashing everything around, freeze enemies, craft platforms, breathe under water, etc.\n\nThe StoryTale will tell you a warm and sweet tale about the amazing adventures of the warrior prince and sorceress princess, and remind you of a wonderful era of classic video games.",
+    "publisher": "Redblack Spade",
+    "developer": null,
+    "base_release_date": 20220206,
+    "first_update_release_date": 20201128,
+    "latest_update_release_date": 20201128,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201128
+    },
+    "versions": {
+        "131072": 20201128
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "The StoryTale is a fairytale platformer with booms, explodes and shatters, where heroes fight with cursed weapons and tend to forget spells.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

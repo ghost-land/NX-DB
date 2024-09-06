@@ -1,4 +1,39 @@
 {
     "id": "010085401A454800",
-    "version": 262144
+    "base_tid": "010085401A454000",
+    "name": "Jujutsu Kaisen Cursed Clash",
+    "description": "For the first time ever, the highly acclaimed series from Shueisha's Weekly Shonen Jump, Jujutsu Kaisen, is expanding into the domain of console games!\n\n• 2 VS. 2 CURSED TECHNIQUE BATTLES\nAim to become the strongest together by taking advantage of the characteristics of each technique, aiming for a Joint Attack that is triggered by combining attacks, and working together in harmony to assess the battle situation!\n\n• CHARACTERS WITH THEIR OWN UNIQUE CURSED TECHNIQUE\nFamiliar members such as Yuji Itadori, Megumi Fushiguro, Nobara Kugisaki, and Satoru Gojo, as well as Cused Spirits such as Jogo and Hanam, will also participate in the game.\nEach character has his or her own unique Cursed Technique and actions.\n\n• MASTER A NEW DOMAIN IN THE BATTLE!\nAs you grow in battle, more powerful techniques and latent abilities blossom.\nEmbrace the core of the Cursed Energy and win in the intensifying battle situation!\n\n• UNLEASH THE SUPER DREADNOUGHT CURSED TECHNIQUE AND SEIZE THE VICTORY!\nAt the end of the game, when both players are fully developed, powerful techniques clash with each other.\nThe player must overwhelm his or her opponent dynamically, just as in the anime!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240202,
+    "first_update_release_date": 20240125,
+    "latest_update_release_date": 20240725,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240725
+    },
+    "versions": {
+        "65536": 20240125,
+        "131072": 20240328,
+        "196608": 20240529,
+        "262144": 20240725
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Master a new Domain!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes and violence"
+    ],
+    "region": null
 }

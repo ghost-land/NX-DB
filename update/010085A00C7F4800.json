@@ -1,4 +1,29 @@
 {
     "id": "010085A00C7F4800",
-    "version": 65536
+    "base_tid": "010085A00C7F4000",
+    "name": "マドリスＲ",
+    "description": "間取りブロックを繋げて延々と消していく配置式のパズルゲームです。\n制限時間がないので空いた時間にじっくりと遊ぶことができます。\n\nルールは簡単！\n間取りをエリアグリッドに配置し、縦横一列揃うと間取りに色がつき、間取り全てに色がつくと消えて家賃分の得点が得られます。\nエリアグリッドの中心ほど家賃が高くなるので戦略的に並べましょう。目指せ高収入！",
+    "publisher": "カエルエックス",
+    "developer": null,
+    "base_release_date": 20181129,
+    "first_update_release_date": 20181205,
+    "latest_update_release_date": 20181205,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181205
+    },
+    "versions": {
+        "65536": 20181205
+    },
+    "category": [
+        "パズル"
+    ],
+    "intro": "伝説のバカゲーパズル「間取りパズルマドリス」が遂にNintendo Switchに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

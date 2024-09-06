@@ -1,4 +1,41 @@
 {
     "id": "0100854015868800",
-    "version": 262144
+    "base_tid": "0100854015868000",
+    "name": "STAR WARS™: Knights of the Old Republic™",
+    "description": "Four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith and you are the last hope of the Jedi Order. Can you master the awesome power of the Force and save the Republic? Or will you fall to the lure of the dark side? \n\n-- A Star Wars epic set in the untouched era before the rise of the Empire, filled with unique characters, creatures, vehicles and planets.\n\n-- A deep RPG experience with customizable characters and meaningful choices that impact the story, your squad, and even yourself.\n\n-- Harness the power of the Force with over 40 different abilities and wield your own lightsaber.\n\n-- Adventure through eight enormous and iconic Star Wars worlds, including Tatooine and Kashyyyk, in your own starship, the Ebon Hawk.\n\n-- Choose your party from and build everlasting bonds with nine unique crewmates, including Twi’leks, droids and Wookies.\n\nHero or villain, savior or conqueror... you alone will determine the fate of the entire galaxy!",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20211111,
+    "first_update_release_date": 20211101,
+    "latest_update_release_date": 20240220,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240220
+    },
+    "versions": {
+        "65536": 20211101,
+        "131072": 20220121,
+        "196608": 20220512,
+        "262144": 20240220
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The legendary RPG classic, now on Nintendo Switch™. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

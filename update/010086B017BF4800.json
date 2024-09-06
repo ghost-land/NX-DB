@@ -1,4 +1,35 @@
 {
     "id": "010086B017BF4800",
-    "version": 131072
+    "base_tid": "010086B017BF4000",
+    "name": "Knight's Try",
+    "description": "Knight's Try is a difficult 64 bit styled platforming game. Take on the role of an honorable Knight of Trye attempting to complete their sacred trial by leaping through a world full of perilous pitfalls and dangerous traps!\n\nA 3d platformer for the most persistent of players. Challenging and exciting even for experienced platformer fans.\n\n- Classic platforming action\n- Nostalgic 3D graphics\n- Adjustable difficulty level\n- Knights!",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20220304,
+    "first_update_release_date": 20220518,
+    "latest_update_release_date": 20220525,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220525
+    },
+    "versions": {
+        "65536": 20220518,
+        "131072": 20220525
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010086B00C784800",
-    "version": 393216
+    "base_tid": "010086B00C784000",
+    "name": "My Lovely Daughter",
+    "description": "My Lovely Daughter is a game about overcoming the loss of a loved one through forbidden alchemy experiments ... and murder. You are Faust, an amnesiac alchemist and father, who wakes up alone and confused only to discover that your lovely daughter has died. As you enter the first stages of grief, you do what everyone wishes they could do but can’t: bring back the dead with the power of alchemy.\n\nTo revive your daughter, you must perform forbidden alchemy experiments to restore her soul. You will have to create dozens of homunculi, raise them as if they were your own daughter, build relationships with them ... and then murder them to harvest their souls!\n\nTo support your experiments, you will also need to assign jobs to your homunculi, even sacrifice their bodies in order to sell their remnants, all to keep your income flowing and your research progressing. Perhaps, along the way, you will even recover your own memories and come to understand how this terrible situation came about.\n\nFeatures:\n- A dark, twisted story about love and family\n- Dozens of “daughters” to raise, each with their own traits and characteristics\n- Simulation-based gameplay that directly impacts the story\n- Unique art style emphasizing the dark theme of the game\n- High replay value with multiple endings, secrets to unlock, and letters to collect\n- Gothic-style soundtrack inspired by the immersive world of My Lovely Daughter",
+    "publisher": "Neon Doctrine",
+    "developer": null,
+    "base_release_date": 20221219,
+    "first_update_release_date": 20190516,
+    "latest_update_release_date": 20240624,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240624
+    },
+    "versions": {
+        "196608": 20190516,
+        "262144": 20220614,
+        "327680": 20240620,
+        "393216": 20240624
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "My Lovely Daughter is an alchemist simulator that explores the depth of a father’s grief and how far he will go to resurrect his daughter.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }
