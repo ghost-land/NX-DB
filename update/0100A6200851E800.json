@@ -1,4 +1,30 @@
 {
     "id": "0100A6200851E800",
-    "version": 65536
+    "base_tid": "0100A6200851E000",
+    "name": "超回転 寿司ストライカー The Way of Sushido (日文版)",
+    "description": "舞台是「第一次壽司大戰」後的世界。\n為了吃到史上最美味壽司，主角ムサシ在各地進行壽司大戰以打倒獨佔壽司的帝國軍。\nムサシ到底可否打倒阻礙前進的帝國軍，將任何人都可吃到壽司的和平世界帶回來呢！？\n任誰都可立即體驗超爽快動作益智遊戲。\n壽司對戰規則很簡單。只是收集在迴轉軌道上相同顏色的碟子扔向對方。\n當然也可透過鄰近主機通訊和其他玩家進行對戰遊戲。",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180608,
+    "first_update_release_date": 20180605,
+    "latest_update_release_date": 20180605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180605
+    },
+    "versions": {
+        "65536": 20180605
+    },
+    "category": [
+        "動作",
+        "益智"
+    ],
+    "intro": "食、食、利用壽司對戰！\n以迴轉壽司為主題的全新動作益智遊戲",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

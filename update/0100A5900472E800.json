@@ -1,4 +1,45 @@
 {
     "id": "0100A5900472E800",
-    "version": 262144
+    "base_tid": "0100A5900472E000",
+    "name": "Chess Ultra",
+    "description": "Chess Ultra features stunning visuals, seamless online multiplayer and Grandmaster-approved AI to offer the ultimate chess experience.\n\nExplore an array of intricately crafted environments and choose from a selection of iconic chess sets designed with both the modern and traditional chess player in mind. \n\nWhether you’re a beginner or a veteran of the great game, Chess Ultra has something to offer for players of all ages and ability.\n\n- Stunning chess sets and beautiful environments\n- 10 Grandmaster-approved AI levels\n- Intuitive, overhauled local and online multiplayer with ELO ranking system\n- Comprehensive time controls, including Classical, Blitz and Marathon, available online\n- Cross-platform online play and leaderboards\n- Spectate and compete in Official Ripstone tournaments\n- Demonstrate your skills in over 80 chess puzzles\n- Re-write the past by winning the biggest historic matches\n- In-depth tutorials to help improve your game\n\nChess has never looked this good!",
+    "publisher": "Ripstone Publishing",
+    "developer": null,
+    "base_release_date": 20171103,
+    "first_update_release_date": 20171215,
+    "latest_update_release_date": 20210804,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210804
+    },
+    "versions": {
+        "65536": 20171215,
+        "131072": 20180323,
+        "196608": 20210719,
+        "262144": 20210804
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Introducing the most breathtaking chess game ever made.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

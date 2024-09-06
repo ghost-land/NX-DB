@@ -1,4 +1,36 @@
 {
     "id": "0100A6A00894C800",
-    "version": 196608
+    "base_tid": "0100A6A00894C000",
+    "name": "ZERO GUNNER 2- for Nintendo Switch",
+    "description": "Famous for its cool world and innovatively omnidirectional shooting system, ZERO GUNNER 2, is coming back as ZERO GUNNER 2-.\n\nLet’s blast off every enemy's planes from various sides of your screen.\n\nFans who have enjoyed Psikyo Shooting will definitely enjoy this new Zero Gunner 2-.\n\nThe compilation of Psikyo shooting game, ZERO GUNNER 2-, is reviving now!!",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20180125,
+    "first_update_release_date": 20180204,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20180204,
+        "131072": 20180307,
+        "196608": 20190528
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Psikyo Revival!! Play the good old arcade game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

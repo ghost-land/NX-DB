@@ -1,4 +1,34 @@
 {
     "id": "0100A5801AFFC800",
-    "version": 65536
+    "base_tid": "0100A5801AFFC000",
+    "name": "クライマキナ／CRYMACHINA　オリジナルはなまるアートブック",
+    "description": "・オリジナルはなまるアートブック（80P）\n今作のイラストや設定画像および、イラストレーターやディレクターといった制作者からの秘話コメントが載った特別なコンテンツ。\n※数量限定はなまるBOX特典の「オリジナルはなまるアートブック」と同内容になります。",
+    "publisher": "フリュー",
+    "developer": null,
+    "base_release_date": 20230727,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20230802
+    },
+    "category": [
+        "アクション",
+        "ロールプレイング",
+        "シミュレーション"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

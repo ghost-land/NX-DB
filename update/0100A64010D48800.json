@@ -1,4 +1,41 @@
 {
     "id": "0100A64010D48800",
-    "version": 524288
+    "base_tid": "0100A64010D48000",
+    "name": "Total Arcade Racing",
+    "description": "Total Arcade Racing is a tribute to classic arcade racing games where you zip around in closed circuits. Play solo or up to 8 friends on the same TV in various game modes. \n\nCompete with players from around the world and see if you can reach #1 in the Hall of Fame leaderboard.\n\nKEY FEATURES\n• Local multiplayer up to 8 players  \n• Various cars with different performance and handling\n• A bunch of varied courses\n• Lots of game modes such as Arcade Race, Time Trial, Championship, Elimination, Endless race, Demolition Derby, Survivor, Delivery and Car Hockey\n• Online Leaderboard support\n• Ghost car replays of best time\n• Classic top-down racing game with great controls\n• Great Party game for your friends and family\n",
+    "publisher": "Pretty Fly Games",
+    "developer": null,
+    "base_release_date": 20230621,
+    "first_update_release_date": 20210408,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20210408,
+        "131072": 20210422,
+        "196608": 20210428,
+        "262144": 20210519,
+        "327680": 20210827,
+        "393216": 20210903,
+        "458752": 20220523,
+        "524288": 20220607
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports",
+        "Party"
+    ],
+    "intro": "Relive your childhood memories and take this fun arcade racing game for a ride. Play solo or up to 8 friends in different game modes on a single TV",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

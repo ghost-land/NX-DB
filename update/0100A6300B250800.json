@@ -1,4 +1,39 @@
 {
     "id": "0100A6300B250800",
-    "version": 131072
+    "base_tid": "0100A6300B250000",
+    "name": "SEGA Genesis Classics",
+    "description": "Including over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat’m ups, puzzles, old favorites and hidden gems. There is a classic title for every player to enjoy! \n\nNew features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customize your controls. Earn bragging rights with online multiplayer and achievements. ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210728,
+    "first_update_release_date": 20181212,
+    "latest_update_release_date": 20181217,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181217
+    },
+    "versions": {
+        "65536": 20181212,
+        "131072": 20181217
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "SEGA Genesis Classics is the largest collection of retro classics on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violência"
+    ],
+    "region": null
 }

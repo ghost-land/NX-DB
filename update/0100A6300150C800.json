@@ -1,4 +1,41 @@
 {
     "id": "0100A6300150C800",
-    "version": 131072
+    "base_tid": "0100A6300150C000",
+    "name": "Wonder Boy: The Dragon's Trap",
+    "description": "Boasting beautiful, hand-drawn animations and a re-orchestrated soundtrack, the cult classic returns with a unique blend of exploration, action, and adventure!\n\nCursed into a half-human, half-lizard monstrosity by the Meka-Dragon, you are in search for a cure! The only way you can return to human form is to find the Salamander Cross, a magical item with the power to remove curses...\n\nWith each dragon slain, the curse intensifies, transforming you into different animals! Explore large, interconnected locations populated with grumpy monsters and exotic dragons!\n\nPlay as the game’s classic character, Hu-Man, or as his brand-new, long-awaited co-star Hu-Girl. You can also inhabit Lizard-Man, Mouse-Man, Piranha-Man, Lion-Man, and Hawk-Man, and use their unique abilities to uncover the land’s deepest secrets.\n\nEnjoy 3 difficulty levels catering to players of all types, and switch from modern graphics and sound to 8-bit graphics/audio at any time - even during gameplay!",
+    "publisher": "DotEmu",
+    "developer": null,
+    "base_release_date": 20170418,
+    "first_update_release_date": 20170824,
+    "latest_update_release_date": 20171221,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171221
+    },
+    "versions": {
+        "65536": 20170824,
+        "131072": 20171221
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "intro": "The cult classic returns with a unique blend of exploration, action, and adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Fantasy Violence"
+    ],
+    "region": null
 }

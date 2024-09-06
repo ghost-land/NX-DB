@@ -1,4 +1,35 @@
 {
     "id": "0100A6800DE70800",
-    "version": 65536
+    "base_tid": "0100A6800DE70000",
+    "name": "Knight Squad",
+    "description": "Knight Squad is an insane 1 to 8 players chaotic arena friendship destroyer. Take on current friends and future frenemies in any of the incredibly fun game modes, ranging from Last Man Standing to Medieval soccer. All of that using only weapons from the middle age… and laser guns… and miniguns.",
+    "publisher": "Chainsawesome",
+    "developer": null,
+    "base_release_date": 20200605,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

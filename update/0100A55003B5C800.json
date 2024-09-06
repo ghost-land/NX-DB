@@ -1,4 +1,35 @@
 {
     "id": "0100A55003B5C800",
-    "version": 196608
+    "base_tid": "0100A55003B5C000",
+    "name": "Cave Story+",
+    "description": "A young amnesiac hero discovers a hidden land and vows to protect the defenseless creatures who live there! Can he stop the mad doctor and learn the truth about his own past?\n\nHighly polished and addictive, Cave Story+ uses retro-game stylings to deliver an all-out action/adventure extravaganza that's both charming and deadly!\n\nSuper-challenging platform/shooter action...fantastic weapons...colorful characters...deeply nuanced storytelling...this is Cave Story+, your new favorite game!",
+    "publisher": "Nicalis",
+    "developer": null,
+    "base_release_date": 20170720,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20210521,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210521
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170915,
+        "196608": 20210521
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A LIFE-CHANGING VIDEO GAME EXPERIENCE!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

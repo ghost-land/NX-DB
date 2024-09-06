@@ -1,4 +1,42 @@
 {
     "id": "0100A56006CEE800",
-    "version": 131072
+    "base_tid": "0100A56006CEE000",
+    "name": "Pawarumi",
+    "description": "In a world where the Council rules the nations with an iron fist, you play as Axo, pilot of the legendary ship Chukaru. Experience her fight with the limitless armies of the Council, become the master of Chukaru’s power and find the true meaning behind all your actions. A dark secret is yet to be revealed!\n\nPawarumi is a modern shoot’em up set in a retro futuristic sci-fi pre-Columbian universe. You’ll take control of the almighty ship Chukaru and its three unique weapons! Shoot wisely to either do double damage, heal yourself or charge your Super Attack!\n\nFEATURES:\n- Gameplay at 60 frames per second!\n- Pre-Columbian inspired Artistic Direction in a sci-fi universe!\n- Awesome Peruvian Electro-Metal soundtrack!\n- Achievements unlocking a beautiful image gallery!",
+    "publisher": "Manufacture 43",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20200601,
+    "latest_update_release_date": 20200601,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200601
+    },
+    "versions": {
+        "131072": 20200601
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Rock-Paper-Scissors... with LASERS! Now at 60FPS!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

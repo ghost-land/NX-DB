@@ -1,4 +1,44 @@
 {
     "id": "0100A6700AF10800",
-    "version": 65536
+    "base_tid": "0100A6700AF10000",
+    "name": "Element",
+    "description": "Element is a realtime strategy space game for people who don't have time to play realtime strategy space games.\n\nHome no longer provides a means to survive. \nA fight for resources to escape our system has begun. \nThe future lies beyond…\n\nElement is a visually stunning realtime strategy space game with a focus on sharp, accessible gameplay.\n\nElement is for lovers of beautifully crafted, original looking games. It is for people who are into space and strategy games but don’t have hours of time to invest. It’s also for gamers who enjoy launching missiles and blowing things up :)\n\nYou are escaping a decaying solar system. You must visit each planet, mine enough element, and defeat the enemy to progress to the outer planets and beyond. Generate energy, mine element, build attack and defence units, and destroy the enemy while maintaining a balance between earth, air and water.",
+    "publisher": "Flightless",
+    "developer": null,
+    "base_release_date": 20180727,
+    "first_update_release_date": 20180830,
+    "latest_update_release_date": 20180830,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180830
+    },
+    "versions": {
+        "65536": 20180830
+    },
+    "category": [
+        "Strategy",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The Future Lies Beyond…",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

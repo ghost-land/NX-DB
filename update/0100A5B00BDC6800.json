@@ -1,4 +1,40 @@
 {
     "id": "0100A5B00BDC6800",
-    "version": 262144
+    "base_tid": "0100A5B00BDC6000",
+    "name": "FINAL FANTASY VII",
+    "description": "The world has fallen under the dominion of the Shinra Electric Power Company, a sinister corporation that has monopolized the planet's very life force as Mako energy.\nIn the urban megalopolis of Midgar, an anti-Shinra rebel group calling themselves Avalanche have stepped up their campaign of resistance.\nCloud Strife, a former member of Shinra's elite SOLDIER unit now turned mercenary, lends his aid to the rebels, unaware that he will be drawn into an epic battle for the fate of the planet, while having to come to terms with his own lost past.\n\nThis game is a port of the original FINAL FANTASY VII.\nThe following extra features are included;\n◆ 3x speed mode\n◆ Ability to turn battle encounters off\n◆ Battle enhancement mode",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20190516,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20190516,
+        "196608": 20200622,
+        "262144": 20211012
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "FINAL FANTASY VII, the timeless classic loved by a legion of fans, comes to Nintendo Switch with a number of helpful extra features! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

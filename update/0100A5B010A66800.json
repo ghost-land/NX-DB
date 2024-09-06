@@ -1,4 +1,46 @@
 {
     "id": "0100A5B010A66800",
-    "version": 327680
+    "base_tid": "0100A5B010A66000",
+    "name": "Absolute Drift",
+    "description": "This is a driving experience like no other. Journey from apprentice to master drifter as you hone your skill in a gorgeous minimalist world crafted by the developers of art of rally.\n\nPush yourself to the limit on drifting tracks and wild mountain roads while you work to unlock trophies and elite events. Compete against ghosts of the top players in the world, or refine your skills by out-scoring your own ghost. \n\nChill out to over 3 hours of original electronic music by C41 and NYTE as you challenge your driving skills at every turn until you finally master the art of drifting.\n\n- Drive and customize up to 6 drift cars.\n- 3 Game Modes: Driftkhana, Drifting, & Mountain Drifting with 34 levels.\n- 5 Free-Roaming areas, each with unique levels and themes, from airports and docks to a floating metropolis.\n- Online Leaderboards, replays and ghost cars. View your friends' runs or the best in the world!\n- 3+ hours of clean Drum & Bass and Electronic music by C41 and Nyte.",
+    "publisher": "Funselektor",
+    "developer": null,
+    "base_release_date": 20231209,
+    "first_update_release_date": 20210105,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20210105,
+        "196608": 20230302,
+        "327680": 20231123
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Drifting: the Art Of Sliding Sideways.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }
