@@ -1,4 +1,43 @@
 {
     "id": "01003CF0191EE800",
-    "version": 131072
+    "base_tid": "01003CF0191EE000",
+    "name": "Double Dragon Advance",
+    "description": "Double Dragon Advance, known as the pinnacle of the series for its incorporation of moves and graphics from across the games, comes back to life on modern consoles after 20 years!\n\nThe border of the screen can now be customized with a choice of 5 wallpapers. Play with your background of choice!\n\n\nFeaturing beloved stages and weapons from prior titles!\n▼ Stages\nChinatown and Truck stages from Super Double Dragon\nCavern stage from Double Dragon (NES)\nCustom version of the Fortress stage from Double Dragon II (NES)\n▼ Weapons\nFlail from Double Dragon II (arcade)\nNunchaku from Super Double Dragon\n▼ Enemies\nThe reanimated terror Burnov and Chinese staff expert Chin from Double Dragon II (arcade)\nThe martial artist Steve from Super Double Dragon\nThe Five Emperors stand in your way as bosses, inspired by the final boss of Double Dragon II (NES).\n▼ Moves\nExplore an arsenal of new moves on top of the traditional arcade moveset, with the Pin Attack from Double Dragon (NES) as well as the Hyper Uppercut and High Jump Kick from Double Dragon II (NES).\n\nDon't miss out on this classic from the legendary side-scrolling action series!",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20231109,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20231129,
+        "131072": 20240613
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The crown jewel of the Double Dragon series gets a highly anticipated revival!Experience familiar enemies and stages from throughout the series!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

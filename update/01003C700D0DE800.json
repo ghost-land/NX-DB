@@ -1,4 +1,41 @@
 {
     "id": "01003C700D0DE800",
-    "version": 131072
+    "base_tid": "01003C700D0DE000",
+    "name": "Rain City",
+    "description": "The game begins with the main character, a cat, who embarks to Rain City to find his sister. The story is both bizarre and exciting making players get lost in a mushroom field, search for a secret passage, and run experiments in a laboratory. The reason rain continues in Rain City is uncovered when players find his missing sister...\n\nPlayers control the main character to look for his sister in the city. The story moves along while meeting various characters, gathering information, solving puzzles, and clearing minigames. There are elements that test skills including memory and observation, and the many items that appear add to its appeal to the game.\n\nThe picture book-like graphics and story about animals who live like humans will draw you in to the world of Rain City.",
+    "publisher": "CottonGame",
+    "developer": null,
+    "base_release_date": 20190627,
+    "first_update_release_date": 20191210,
+    "latest_update_release_date": 20191216,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191216
+    },
+    "versions": {
+        "65536": 20191210,
+        "131072": 20191216
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Rain City: a city where rain always pours. This puzzle game features warm, picture book-like graphics and a story with lifelike animals.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

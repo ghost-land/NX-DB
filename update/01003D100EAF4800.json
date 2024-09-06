@@ -1,4 +1,31 @@
 {
     "id": "01003D100EAF4800",
-    "version": 65536
+    "base_tid": "01003D100EAF4000",
+    "name": "鷹の爪VSハエの羽団",
+    "description": "鷹の爪団の吉田君になって、世界中に散らばったオーパーツと仲間を収集。地球征服をたくらむハエの羽団の野望を阻止しよう。\n\nゲームは頭を使う仕掛けが盛りだくさん！！\n\nハエの羽団の怒涛の攻撃をよけながら、街、ジャングル、砂漠、空港など多数のステージをクリア！\n\n鷹の爪団のキャラクターを仕掛けに応じて使い分ける事で、最短＆高得点クリアを目指そう！！",
+    "publisher": "MoonGlass",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191113,
+    "latest_update_release_date": 20191113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191113
+    },
+    "versions": {
+        "65536": 20191113
+    },
+    "category": [
+        "アクション",
+        "パズル"
+    ],
+    "intro": "あの鷹の爪団が『超難解！くそむず！パズルアクション』に！！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

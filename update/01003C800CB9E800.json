@@ -1,4 +1,37 @@
 {
     "id": "01003C800CB9E800",
-    "version": 196608
+    "base_tid": "01003C800CB9E000",
+    "name": "Smash Reversi",
+    "description": "\"Reversi\" that supports Internet battles is now available on Nintendo Switch™!\nThere are 3 types of play modes. \"Solo Play\" to play against AI. \"Internet  Play\" to play with people on the net. \"Local Play\" to play with your friends.\nThere are various stages such as a wide board, a narrow board, and a tricky board with many holes.\nIf you take the \"Buster Bomb\" placed on the board, you can make all the pieces in the direction of the arrow your own color.\nLet's play with \"Smash Reversi\" and get excited together!",
+    "publisher": "CELLNAVI",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20210902,
+    "latest_update_release_date": 20211005,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211005
+    },
+    "versions": {
+        "65536": 20210902,
+        "131072": 20210908,
+        "196608": 20211005
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "\"Reversi\" that supports Internet battles is now available on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

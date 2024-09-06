@@ -1,4 +1,36 @@
 {
     "id": "01003C2010C78800",
-    "version": 65536
+    "base_tid": "01003C2010C78000",
+    "name": "Archaica: The Path Of Light",
+    "description": "As the Light Bearer, your quest is to walk the legendary Path of Light and explore an ancient and beautiful world.\n\nThe light is the key to open the secrets of this mysterious civilization. \nYou have to understand how various devices work to manipulate the lasers and direct them into the right triggers:\n- Tesseract: deflects the path of light\n- Divider: separates the laser in two beams\n- Converter: modifies the light color\n- Teleport: brings light into another Teleport\n- Spherule: moves platforms to change the level’s layout\n- And many more to discover...\n\nYou will often have to bend your logical thinking and perceptions to combine the powers of the artifacts and solve the unique challenge of every riddle.\n\nKey Features of Archaica: The Path of Light:\n- Dive into the captivating aesthetic of a mysterious civilization. Every place has a singular design and encourages further exploration.\n- Challenge your logical thinking to manipulate a lot of different devices, combine their use and solve riddles. Each level is based on a separate mind-bending idea.\n- Discover an intriguing narrative. Unveil pieces of the story by finding hieroglyphs or by completing harder levels",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20221007,
+    "first_update_release_date": 20221003,
+    "latest_update_release_date": 20221003,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221003
+    },
+    "versions": {
+        "65536": 20221003
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Manipulate artifacts from an ancient civilization to solve challenging puzzles.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "es",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violent References"
+    ],
+    "region": null
 }

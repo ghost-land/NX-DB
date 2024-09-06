@@ -1,4 +1,43 @@
 {
     "id": "01003CD00E50A800",
-    "version": 262144
+    "base_tid": "01003CD00E50A000",
+    "name": "リーサルリーグ ブレイズ",
+    "description": "「リーサルリーグ ブレイズ」はユニークなキャラクターと極上のサウンドが楽しめる、ボールを使った対戦アクションゲーム。\nボールは打ち返す度にどんどんスピードと威力が上がり、目にも留まらぬ速さで縦横無尽に暴れる。打撃、バント、パリー、スローイングや特殊能力を駆使し、高速のボールを相手にぶつけて攻撃しよう！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20190712,
+    "first_update_release_date": 20191015,
+    "latest_update_release_date": 20201208,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201208
+    },
+    "versions": {
+        "131072": 20191015,
+        "196608": 20200115,
+        "262144": 20201208
+    },
+    "category": [
+        "格闘",
+        "アクション",
+        "スポーツ",
+        "パーティー"
+    ],
+    "intro": "ポップでキャッチーな爽快ボールアクション！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

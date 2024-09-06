@@ -1,4 +1,41 @@
 {
     "id": "01003D001EF50800",
-    "version": 65536
+    "base_tid": "01003D001EF50000",
+    "name": "Spy Guy Memory",
+    "description": "Spy Guy is a detective and looks for hidden clues. To help him even better practice your memory and concentration with Spy Guy Memory, where memory challenges await you!\n\nTest yourself on multiple difficulty levels, discover colorful pictures familiar from the Spy Guy series and try your hand at the toughest challenge - connecting 75 pairs!",
+    "publisher": "Trefl S.A",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20240714,
+    "latest_update_release_date": 20240714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240714
+    },
+    "versions": {
+        "65536": 20240714
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Other",
+        "Utility"
+    ],
+    "intro": "Spy Guy Memory improves on the classic memory game formula. It gives you the ability to increase the difficulty level at your own speed and customize the challenges.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

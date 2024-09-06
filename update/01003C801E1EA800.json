@@ -1,4 +1,43 @@
 {
     "id": "01003C801E1EA800",
-    "version": 196608
+    "base_tid": "01003C801E1EA000",
+    "name": "EMPTY SHELL",
+    "description": "EMPTY SHELL will throw you in a dark industrial environment, a secret facility on a Japanese island in the middle of nowhere. Each volunteer has signed a contract for a \"recovery operation\" without being privy to too many details. \n\nThey said the facility had been abandoned for decades, but once in place it was immediately apparent that something was wrong.\nDiscover the dark secrets of the facility's years of operation, up until the accident that led to the extreme consequences you are involved in.\n\nEvery time you die, you will control a new volunteer sent to the place. Your starting equipment will be randomized and each level will be generated with a new layout.\n\nDark corridors and cold rooms. Abominable creatures and bloody fights. Puzzles to solve, equipment, logs and documents to recover await you in this roguelite survival horror.",
+    "publisher": "Hyperstrange",
+    "developer": null,
+    "base_release_date": 20240312,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240527,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240527
+    },
+    "versions": {
+        "131072": 20240328,
+        "196608": 20240527
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Classic survival-horror fused with top-down roguelite shooter",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

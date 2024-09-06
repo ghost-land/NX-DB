@@ -1,4 +1,37 @@
 {
     "id": "01003CC00D0BE800",
-    "version": 196608
+    "base_tid": "01003CC00D0BE000",
+    "name": "Amnesia: Collection",
+    "description": "The collection contains three Amnesia titles: The Dark Descent, A Machine For Pigs, and Justine. Experience the horror that kickstarted the Let's Play revolution; be immersed in three living nightmares that will chill you to the core.",
+    "publisher": "Frictional Games",
+    "developer": null,
+    "base_release_date": 20190912,
+    "first_update_release_date": 20190913,
+    "latest_update_release_date": 20191121,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20191121
+    },
+    "versions": {
+        "131072": 20190913,
+        "196608": 20191121
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
+    "region": null
 }

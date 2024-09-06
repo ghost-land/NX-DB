@@ -1,4 +1,36 @@
 {
     "id": "01003C400AD42800",
-    "version": 196608
+    "base_tid": "01003C400AD42000",
+    "name": "Rescue Tale",
+    "description": "Bobby faces new challenges when kids are kidnapped from their home village! Help him find the kids on the Island of Evil Devil from another dimension. The locals will help you get ahead.",
+    "publisher": "Bitecore",
+    "developer": null,
+    "base_release_date": 20191223,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20200110,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200110
+    },
+    "versions": {
+        "65536": 20191211,
+        "131072": 20191218,
+        "196608": 20200110
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

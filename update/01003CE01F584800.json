@@ -1,4 +1,33 @@
 {
     "id": "01003CE01F584800",
-    "version": 65536
+    "base_tid": "01003CE01F584000",
+    "name": "Faster Than Bolt",
+    "description": "Your aim in Faster Than Bolt  will be to become the fastest athlete on the planet. You will have to train hard to make it.\n\nYou will travel the world taking part in 100-meter-dash events at olympic cities such as Barcelona, Los Angeles, Athens, Berlin or Tokyo, among others, that will be more and more demanding as you reach Paris.\n\nTo improve your attributes you will have to follow your trainer's order and complete the exercises as best you can to be in the best shape for the olympics.\n\nFeatures:\n\n- Varied, easy and fast.\n- Only 4 buttons are needed to play.\n- Frantic micro-training sessions.\n- Improvement of your athlete's attributes.\n- Travel around the world passing all events.\n- Online ranking chart.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20240726,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240719
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Arcade",
+        "Training"
+    ],
+    "intro": "Will you manage to be the fastest in the world?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

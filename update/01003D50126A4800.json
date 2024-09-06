@@ -1,4 +1,37 @@
 {
     "id": "01003D50126A4800",
-    "version": 196608
+    "base_tid": "01003D50126A4000",
+    "name": "Sumire",
+    "description": "Sumire is an indie narrative adventure, featuring a one-day journey through a picturesque Japanese village. In this enchanted place, a disenchanted girl named Sumire meets a mischievous spirit who makes her a deal to fulfill her most desired wish.\nBut in order to see this wish come true, she must complete a series of tasks in return, before night falls and this special day reaches its end.\n\n■ Follow Sumire on a series of quests both big and small, given by charming forest creatures, quirky townspeople, and Sumire's own heartfelt needs.\n■ Take or refuse them, but be wary: as the day progresses, your path will change and you may never get the same chance again.\n■ Discover collectibles, bonus items, tests of skill, and other challenges -- some hidden, some not.\n■ Explore a variety of lush, beautiful environments rendered in a painterly style.\n■ A one day time limit. With the sky changing from the promise of morning to the soft twilight, all choices are finished when the sky turns to violet.",
+    "publisher": "GameTomo",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210518,
+    "latest_update_release_date": 20210915,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210915
+    },
+    "versions": {
+        "65536": 20210518,
+        "131072": 20210608,
+        "196608": 20210915
+    },
+    "category": [
+        "Adventure",
+        "Communication",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "One Day, One Life. Embark on a mysterious journey to help Sumire achieve her deepest wishes, before the day ends and the sky turns to twilight.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01003CF00DCFA800",
-    "version": 131072
+    "base_tid": "01003CF00DCFA000",
+    "name": "The Alliance Alive HD Remastered",
+    "description": "Experience the world of The Alliance Alive HD Remastered in a new light! New visuals, an updated interface, and more await you in this epic tale of trials and triumphs.\n\nHumanity has been shattered by invading Daemons from another realm. To reclaim their home, an unlikely fellowship of heroes will band together to spark a fiery revolution. Explore various Daemon-controlled realms, awaken your inner strength in the heat of battle, and form alliances to amass a force strong enough to stand against the invading forces.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20191018,
+    "first_update_release_date": 20191105,
+    "latest_update_release_date": 20200303,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200303
+    },
+    "versions": {
+        "65536": 20191105,
+        "131072": 20200303
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Unite the realms, return the sky.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes",
+        "Fantasy Violence",
+        "Coarse language"
+    ],
+    "region": null
 }

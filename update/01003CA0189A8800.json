@@ -1,4 +1,37 @@
 {
     "id": "01003CA0189A8800",
-    "version": 65536
+    "base_tid": "01003CA0189A8000",
+    "name": "Molly Medusa: Queen of Spit",
+    "description": "Poor Molly! A sculptor’s apprentice cursed into a snake-haired Medusa – and so, every living thing she goes near instantly turns into a stone statue. Every living thing! Enemies and friends, bosses and shopkeepers, monsters and allies, even animals and small insects, they all turn to stone.\n\nMolly’s quest takes her through a series of mystical temples, as she struggles with loneliness and alienation. Inside these temples, gravity is “local”. Molly’s “down” is calculated from the surface she’s currently standing on, which means she can easily walk up walls, or upside down in the ceiling. This allows the level design to twist in on itself, and curl into labyrinths that are physically impossible. Petrified enemies accompany gravity puzzles and non-euclidean architecture, in M. C. Escher scavenger hunts.",
+    "publisher": "Neckbolt",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20231010,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231010
+    },
+    "versions": {
+        "65536": 20231010
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Poor Molly, all your friends are stone!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Partial Nudity"
+    ],
+    "region": null
 }

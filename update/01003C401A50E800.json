@@ -1,4 +1,33 @@
 {
     "id": "01003C401A50E800",
-    "version": 65536
+    "base_tid": "01003C401A50E000",
+    "name": "Loot Box Simulator - Heroes of the Dark Age",
+    "description": "Be rich for once and buy all the loot boxes in this awesome simulator game. \n\nLive your life like there is no tomorrow.\n\nEarn money by finishing crazy jobs from a random selection, just to spend all of it on loot boxes.\n\n\"Loot Box Simulator - Heroes of the Dark Age\" brings pretty dark rpg girls and exciting loot boxes to your console. Choose between 4 action options and win great collectible pictures of the cutest and sexiest rpg fantasy girls.",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20230411,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230411
+    },
+    "versions": {
+        "65536": 20230411
+    },
+    "category": [
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Be rich for once and buy all the loot boxes. \nEarn gold and spend it on awesome loot boxes filled with amazing pictures of anime girls. It's simple, yet addicting. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes",
+        "Violent References"
+    ],
+    "region": null
 }

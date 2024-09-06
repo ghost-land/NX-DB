@@ -1,4 +1,37 @@
 {
     "id": "01003CE011A86800",
-    "version": 65536
+    "base_tid": "01003CE011A86000",
+    "name": "Let's Sing Queen",
+    "description": "Sing alone or share the stage with your friends in compelling game modes while you follow in the footsteps of Queen, the biggest rock band ever, with the legendary lead singer Freddie Mercury.\n\nLet their music take you on a trip through different decades. Master “Bohemian Rhapsody”, challenge your friends to a “Bicycle Race” or rock out to hits like “We Will Rock You”, “Another One Bites The Dust”, “I Want To Break Free” and “We Are The Champions”.\n\n- Strong playlist with 30 of Queen’s greatest hits and original music videos\n- Sing solo or with up to eight players\n- Six exciting game modes: 'Classic', 'Mixtape 2.0','feat.’, ‘Jukebox’, ‘World Contest’ and ‘Let’s Party’\n- Climb the online leaderboard and battle it out against people around the world!\n- No Microphone No Problem! Use your phone as microphone with the Let's Sing app!",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20201002,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20201021,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201021
+    },
+    "versions": {
+        "65536": 20201021
+    },
+    "category": [
+        "Music",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

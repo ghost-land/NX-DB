@@ -1,4 +1,40 @@
 {
     "id": "01003CB01A9FA800",
-    "version": 196608
+    "base_tid": "01003CB01A9FA000",
+    "name": "Tad the Lost Explorer. Craziest and Madness Edition",
+    "description": "The lost explorer, Tad, is once again on a whole new adventure! A mysterious curse will take you through the cities of Veracruz, Chicago, Paris and Cairo on an epic journey to find the emerald tablet and save your friends.\n\nHave a great time with Tad and his companions in this 2D action video game, where you will face intricate puzzles, survive crazy adversities, and help your friends.\n\nENTER THE WORLD OF TAD!\n\nGet ready to visit a multitude of cool locations, where you'll jump off huge platforms, climb up buildings, reconstruct part of the past, swim surrounded by piranhas and... You may even encounter an adversary ready to thwart your plans!\n\nSEARCH FOR LOST RELICS AND COLLECT BRUSHES!\n\nTrack down locations full of adventures and puzzles to discover incredible treasures and collect all the brushes in each level.\n\nHAVE FUN WITH THE HILARIOUS TAD COMICS!\n\nFollow the adventures of Tad Stones, Sara Lavrof, Jeff and Belzoni through the fun comics you'll find through the game.",
+    "publisher": "Selecta Play",
+    "developer": null,
+    "base_release_date": 20230707,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20231201,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231201
+    },
+    "versions": {
+        "65536": 20230523,
+        "131072": 20230714,
+        "196608": 20231201
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "JOIN TAD IN THE QUEST FOR THE EMERALD TABLET!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

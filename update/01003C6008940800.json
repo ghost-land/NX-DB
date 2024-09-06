@@ -1,4 +1,36 @@
 {
     "id": "01003C6008940800",
-    "version": 262144
+    "base_tid": "01003C6008940000",
+    "name": "GUNBIRD for Nintendo Switch",
+    "description": " Who called “GUNBIRD (Adventurer of the sky)”.\n In the 19th century Europe, five GUNBIRDs are challenging. They keep each wish to themselves and collect “A magic mirror of Atra”. Finally, whose wish will be granted with the power of mirror? It depends on your playing skill…\n All players can enjoy 1st round and senior player will be satisfied with 2nd round too.\n THIS IS THE “Psikyo’s GUNBIRD”!!\n Let’s say “GUNBIRD”!!!!",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20171207,
+    "first_update_release_date": 20171227,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20171227,
+        "131072": 20180117,
+        "196608": 20180727,
+        "262144": 20190528
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "The third volume of \"Psikyo\" content! \"GUNBIRD for Nintendo Switch\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }
