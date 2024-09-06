@@ -1,4 +1,39 @@
 {
     "id": "01009CC00F23C800",
-    "version": 65536
+    "base_tid": "01009CC00F23C000",
+    "name": "Harvest Moon: Mad Dash",
+    "description": "Harvest, fish, milk, and more as you fulfill orders to complete each level, but watch out for molten lava, raging boars, and other obstacles!\n\nCan you and your friends try to clear all the levels to restore the broken lighthouse?\n \n•       Fast-paced action means quick decisions are key!\n•       Use Harvest Sprite Powers to unlock special support skills!\n•       Easy-to-learn game mechanics means everyone can play!\n•       Take on farm, beach, Underworld, and Skyworld levels!",
+    "publisher": "Thunderful Games",
+    "developer": null,
+    "base_release_date": 20191030,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20200130,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200130
+    },
+    "versions": {
+        "65536": 20200130
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Go solo or take along a few friends in this fast-paced farming frenzy!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

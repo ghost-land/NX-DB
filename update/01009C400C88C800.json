@@ -1,4 +1,45 @@
 {
     "id": "01009C400C88C800",
-    "version": 65536
+    "base_tid": "01009C400C88C000",
+    "name": "Almost There: The Platformer",
+    "description": "Sprint between saw blades while dodging homing missiles. Duck under lasers while the floor crumbles beneath you. Almost There was designed specifically for hardcore platforming fans - you've been warned.\n\n100% Dexterity Platforming\nAlmost There provides uninterrupted platforming awesomeness.\n\nHours and Hours of Gameplay\nWith over 150 stages and timed challenges, Almost There will kill you thousands of times.\n\nSpikes, Saws, Lasers, Missiles, Oh My!\nEverything in Almost There is designed to kill you. Enjoy.\n\nCreated for platformer fans -- by platformer fans",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20211011,
+    "first_update_release_date": 20190304,
+    "latest_update_release_date": 20190304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190304
+    },
+    "versions": {
+        "65536": 20190304
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Racing"
+    ],
+    "intro": "Pure. Precision. Platforming.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

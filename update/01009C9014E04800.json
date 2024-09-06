@@ -1,4 +1,39 @@
 {
     "id": "01009C9014E04800",
-    "version": 131072
+    "base_tid": "01009C9014E04000",
+    "name": "HORROR TALES: The Wine",
+    "description": "Mediterranean Horror: Explore the forsaken capital of an awe-inspiring archipelago. Do not let yourself be fooled by the gentle sea breeze, the Mediterranean vistas or the comforting summer sun. Since the Devil's Fevers pandemic ravaged the city, it was abandoned, and now only horrific nightmares await there.\n\nSurvive your Nemesis: Someone is relentlessly hunting you. Suffer and agonize while you try to run away from the encounters with this strange stalker obsessed with you.\n\nIntense Challenges: Solve environmental riddles, physics puzzles and other similar challenges in an interconnected vertical world. Even while being chased and hunted.\n\nAccessibility and Photomode: Tweak more than 20 Accessibility settings to create a tailored experience for you. Use the Photomode to make perfect shots and unlock many secrets using it.",
+    "publisher": "Carlos Coronado",
+    "developer": null,
+    "base_release_date": 20210730,
+    "first_update_release_date": 20210628,
+    "latest_update_release_date": 20210628,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210628
+    },
+    "versions": {
+        "131072": 20210628
+    },
+    "category": [
+        "Adventure",
+        "First-Person Shooter",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Explore a post-pandemic fictional Mediterranean island and confront your Nemesis! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "High Impact Violence"
+    ],
+    "region": null
 }

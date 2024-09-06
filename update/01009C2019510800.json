@@ -1,4 +1,43 @@
 {
     "id": "01009C2019510800",
-    "version": 327680
+    "base_tid": "01009C2019510000",
+    "name": "Nocturnal",
+    "description": "Ancient soldier of the Enduring Flame, find out what happens to your brothers to free your island from the dark Mist. \n\nA mysterious fog covers the island and chases you on sight. Make your way into it to discover its source and make an end to this. \n\nCombat challenging and varied enemies that block your way to your goal.\n\nSpeed run options are available. You can select those to improve your speed-run time. ",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20230608,
+    "first_update_release_date": 20230531,
+    "latest_update_release_date": 20240905,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240905
+    },
+    "versions": {
+        "65536": 20230531,
+        "131072": 20230608,
+        "196608": 20230809,
+        "327680": 20240829,
+        "393216": 20240905
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Carve your way with fire and steel to find the truth in this action-platformer game. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

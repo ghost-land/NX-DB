@@ -1,4 +1,35 @@
 {
     "id": "01009D00177EC800",
-    "version": 65536
+    "base_tid": "01009D00177EC000",
+    "name": "Buck Bradley 2",
+    "description": "Everything is usefull\n\nPick up anything you can find into your bag. You'll be surprised with how usefull they can be. It will help you make new friends, avoid danger or simply get free stuff.\n\nComic book graphics\n\nIf you love comic books and visual novels, you shouldn't hesitate to give this game a try. Stylized cartoon graphics give it a unique atmosphere that's bound to keep you interested.\n\nAsk for help\n\nDon't worry too much. If you don't find an answer to your riddle right away you can always ask for a hint. REMEMBER! You can only get them every so often so make sure you really need them.\n\nKey Features:\n\n- Simple controls\n- Easy to understand gameplay\n- Stylized comic book graphic\n- Incredible music track\n- Lots of satisfying puzzles",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220528,
+    "first_update_release_date": 20220829,
+    "latest_update_release_date": 20220829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220829
+    },
+    "versions": {
+        "65536": 20220829
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "The world of Terrastramba welcomes you back with a new adventure of Buck Bradley. Our heroes embark on a journey to a futuristic city of New Milan.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

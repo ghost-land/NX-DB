@@ -1,4 +1,44 @@
 {
     "id": "01009C4012284800",
-    "version": 262144
+    "base_tid": "01009C4012284000",
+    "name": "Evergate",
+    "description": "Wield your Soulflame, unleash extraordinary powers, and dive into the touching story of two kindred spirits. Guide the child-like soul Ki on a journey through the beautiful and haunting Afterlife in this unique 2D puzzle platformer.\n\nSOULFLAME MECHANIC\nSlow down time, take aim, and unleash the mysterious power hidden within every crystal you encounter with the unique Soulflame mechanic. Hit multiple crystals at once and experiment with how their energies combine.\n\nREVEAL THE MEMORIES OF A LIFE LEFT BEHIND\nMove across time and space to uncover Ki's mysterious connection to another soul.\n\nCOLLECT ESSENCE, UNLOCK ARTIFACTS\nRise to the challenge and collect essence by completing challenges on every level. Use them to unlock ancient artifacts and boost Ki’s abilities.\n\nDREAM-LIKE ART STYLE\nGorgeous environmental backdrops paired with beautifully hand-drawn illustrations bring Ki and Evergate’s environments to life.\n\nENCHANTING SOUNDTRACK\nEnjoy an elegantly orchestrated original soundtrack, recorded by a live orchestra, and tailor-made for each environment.\n\n",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20200818,
+    "latest_update_release_date": 20210706,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210706
+    },
+    "versions": {
+        "65536": 20200818,
+        "131072": 20210112,
+        "262144": 20210706
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Ignite your Soulflame",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Drugs"
+    ],
+    "region": null
 }

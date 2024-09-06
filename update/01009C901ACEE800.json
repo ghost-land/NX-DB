@@ -1,4 +1,37 @@
 {
     "id": "01009C901ACEE800",
-    "version": 65536
+    "base_tid": "01009C901ACEE000",
+    "name": "The Legend of Nayuta: Boundless Trails",
+    "description": "Nayuta has always dreamed of exploring beyond the horizon of his island home. After a fateful encounter with a fairy-like creature by the name of Noi, he and his friend find themselves whisked away on an adventure through multiple worlds in order to stop an evil plot that has been set in motion.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20230919,
+    "first_update_release_date": 20240207,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20240207
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Discovery awaits beyond the horizon!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Language",
+        "Suggestive Themes",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

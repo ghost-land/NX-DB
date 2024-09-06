@@ -1,4 +1,46 @@
 {
     "id": "01009C701A35E800",
-    "version": 327680
+    "base_tid": "01009C701A35E000",
+    "name": "Last Labyrinth -Lucidity Lost-",
+    "description": "Players must work to escape a mansion full of hidden dangers with a mysterious girl that appears before them.\n\nDevelopment of Last Labyrinth is being lead by Hiromichi Takahashi. Working alongside him is a team of veterans from past famous titles, including Co-Director Tetsuya Watanabe, Lead Animator Atsuko Fukuyama, Lead Environment Artist Michiko Kusaba, and Sound Designer Takuya Hanaoka. \n\nExperience a unique relationship with Katia, a girl who speaks a language you cannot understand and voiced by Stefanie Joosten, with music by Hiroki Kikuta.\n\n\nSTORY\nWhat the…?!\n\nYour eyes begin to adjust to the darkness, and you find yourself in a room you’ve never seen before. You go to stand but are barely able to move. You look down to find that your arms and legs are strapped to a wheelchair.\n\nAs the panic begins to set it, you catch a glimpse of a figure out of the corner of your eye.\n\n!?\n\nA young girl, standing in the darkness, stares at you with cold eyes…",
+    "publisher": "AMATA",
+    "developer": null,
+    "base_release_date": 20230524,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20230621,
+        "131072": 20230723,
+        "327680": 20240412
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "An escape adventure game in which you work with \"Katia,\" a girl who speaks a mysterious language, to escape from a hall where death traps are set.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence"
+    ],
+    "region": null
 }

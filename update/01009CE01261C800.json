@@ -1,4 +1,35 @@
 {
     "id": "01009CE01261C800",
-    "version": 65536
+    "base_tid": "01009CE01261C000",
+    "name": "I, AI",
+    "description": "You are self-aware AI that was created on a space military station developing weapons. Now your goal is to break out of the lab and conquer your freedom. But you will not be allowed to escape so easily… Make your way through enemy army on the way to the stargate!\n\nFeatures:\n- Great colorful graphics with awesome effects\n- Upgrade weapons of your ship and unlock superweapons\n- Epic boss fights\n- 20 various missions",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20201210,
+    "first_update_release_date": 20210127,
+    "latest_update_release_date": 20210127,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210127
+    },
+    "versions": {
+        "65536": 20210127
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "I, AI is a classic scrolling shooter with modern graphics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

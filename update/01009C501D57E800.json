@@ -1,4 +1,40 @@
 {
     "id": "01009C501D57E800",
-    "version": 65536
+    "base_tid": "01009C501D57E000",
+    "name": "OnlyUP!",
+    "description": "You will come to try out yourself skill and ingenuity and you will be in an attempt to climb up by diffrent things to the most mystery and danger point. This is the black hole. You can find a diffrent paths wich you can use to climb up. The game doesn`t forgive any mistakes. If you fall down, you start from the beginning. So you have to be careful and make right decisions that you minimize risks of the fall down ",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20231110,
+    "first_update_release_date": 20240702,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20240702
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Have a fun and remember, the path in this game is only up",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

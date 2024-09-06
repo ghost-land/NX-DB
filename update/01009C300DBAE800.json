@@ -1,4 +1,41 @@
 {
     "id": "01009C300DBAE800",
-    "version": 65536
+    "base_tid": "01009C300DBAE000",
+    "name": "Minefield",
+    "description": "Minefield is a modern day re-imagining of a classic game.\nWork your way through a board avoiding all the mines, keeping track of your best time in three difficulty modes.\n\n● Beautiful Presentation.\n● Three levels of difficulty.\n● Intuitive Controls.",
+    "publisher": "Vertical Reach",
+    "developer": null,
+    "base_release_date": 20190404,
+    "first_update_release_date": 20190510,
+    "latest_update_release_date": 20190510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190510
+    },
+    "versions": {
+        "65536": 20190510
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Walking through the Minefield.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

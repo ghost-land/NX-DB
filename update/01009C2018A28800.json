@@ -1,4 +1,43 @@
 {
     "id": "01009C2018A28800",
-    "version": 131072
+    "base_tid": "01009C2018A28000",
+    "name": "OTXO",
+    "description": "OTXO (pronounced oh-cho) is a violent top-down shooter with roguelite elements. Play as the protagonist entering an inexplicable mansion in search of his lost love. As you venture deeper into the Mansion, more of its secrets will be unveiled to you.\n\nFeatureless, unnamed, and without memories of how you came here… but you remember why. She’s waiting for you somewhere in this Mansion and you cannot leave until you find her. Cut your way through various unique areas and meet new allies as you delve deeper into the mystery, face your inner demons, and annihilate them.\n\nOVERPOWER THEM\nWith a massive variety of guns, over 100 abilities, and Focus to dodge bullets at your disposal, kick down doors and eviscerate the variety of enemies standing in between you and your mission.\n\nFeatures:\n- Tons of replayability: OTXO will take the player through 8 areas with a randomly laid out selection of rooms out of the over 150 hand-crafted rooms built in the game. No two runs of the game will be the same.\n- Customization: Find the setup that’ll help you break the cycle from a whole selection of unlockable weapons and over 100 acquirable abilities from the game’s enigmatic bartender.\n- Playstyle: With the slow-mo mechanic, Focus, at your disposal OTXO will make the player feel powerful and in control. However, be careful because the variety of enemy types thrown in your way can quickly turn the tides of the combat if you don’t adapt accordingly.\n- Soundtrack: Fully immerse yourself into the brutal noir-esque murder ballet through the gritty pulse pumping soundtrack composed by the developer himself.",
+    "publisher": "Super Rare Games",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240329,
+    "latest_update_release_date": 20240329,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240329
+    },
+    "versions": {
+        "131072": 20240329
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Strategy",
+        "Fighting"
+    ],
+    "intro": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

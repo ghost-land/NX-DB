@@ -1,4 +1,43 @@
 {
     "id": "01009CD00E3AA800",
-    "version": 327680
+    "base_tid": "01009CD00E3AA000",
+    "name": "Ben 10: Power Trip!",
+    "description": "Ben Tennyson and his family are all set for a relaxing European vacation – until evil Hex awakens four mysterious crystals and summons monstrous visitors from the Void. Now it’s up to you to help Ben stop the master magician’s Hex-tremely fiendish plans!\n\nSo put on the Omnitrix and transform into Ben 10’s incredible aliens, as you adventure and battle through an action-packed 3D world. Take on some of the deadliest enemies Ben has ever faced in thrilling combat. \n\nSolve fun puzzles, use your skills to help out the townspeople you meet, and collect power-ups to upgrade your aliens. And explore the cities, forests and mountains of Europe on your way to the final showdown against villainous Hex. \n\nWith Gwen and Grandpa Max on your side, all the humor and rivalry from the Cartoon Network show is here. And since four arms are better than two, Kevin Levin is along for the adventure in local split-screen co-op. This is one Power Trip you’ll want to take again and again.\nIt’s hero time!",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20201009,
+    "first_update_release_date": 20201002,
+    "latest_update_release_date": 20230904,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230904
+    },
+    "versions": {
+        "65536": 20201002,
+        "131072": 20201113,
+        "262144": 20230819,
+        "327680": 20230904
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Evil Hex has cursed Europe – and only Ben 10 can stop him! Explore a 3D world filled with combat, puzzles and secrets as you save the day!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null
 }

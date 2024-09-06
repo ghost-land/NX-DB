@@ -1,4 +1,47 @@
 {
     "id": "01009C701165E800",
-    "version": 458752
+    "base_tid": "01009C701165E000",
+    "name": "Genesis Noir",
+    "description": "You play as No Man, a watch peddler caught in a love triangle with other cosmic beings, Miss Mass and Golden Boy. When your affair turns into a bitter confrontation, you will witness a gunshot fired by a jealous god—otherwise known as The Big Bang. Jump into the expanding universe and search for a way to prevent or destroy creation and save your love.\n\nA NON-TRADITIONAL POINT AND CLICK ADVENTURE\nWith a focus on tactile puzzles and exploration, you’ll experiment with objects in small slivers of the universe to discover how they can be manipulated to progress your journey. Dial a rotary phone; destroy a civilization; plant a garden; improvise with a musician; create life—all in your search for a way to save Miss Mass.\n\nJUMP INTO THE EXPANDING UNIVERSE\nThe Big Bang isn’t just the birth of creation as we know it, it's also a gun blast frozen in time, with the bullet speeding towards the love of your life. You’ll jump into pockets of time, explore moments throughout the lifespan of the universe, and search for a way to change the course of destiny.\n\nWITNESS THE BIRTH AND HISTORY OF MANKIND\nYou’ll observe moments in the history of the universe, from the first microseconds of Life to trillions of years in the future. What will you learn about these new creations, in your search to destroy them?",
+    "publisher": "Fellow Traveller",
+    "developer": null,
+    "base_release_date": 20210326,
+    "first_update_release_date": 20210316,
+    "latest_update_release_date": 20221209,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20221209
+    },
+    "versions": {
+        "131072": 20210316,
+        "196608": 20210322,
+        "262144": 20210409,
+        "327680": 20210517,
+        "393216": 20220303,
+        "458752": 20221209
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A noir adventure spanning time and space.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Sexual References"
+    ],
+    "region": null
 }

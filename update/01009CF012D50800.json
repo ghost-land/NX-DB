@@ -1,4 +1,39 @@
 {
     "id": "01009CF012D50800",
-    "version": 131072
+    "base_tid": "01009CF012D50000",
+    "name": "Jump King",
+    "description": "「傳聞在那個頂端,有著一位年輕貌美的辣妹......」\n\nJump King 是瑞典的 Nexile 公司所開發的高難度直向卷軸動作遊戲。為了見到「年輕貌美的辣妹」,一名有著強韌腳力、身穿厚重鎧甲的男人,日以繼夜地朝著頂點向上跳。\n\n遊戲的操作方式只有跳躍及左右移動,但長按跳躍按鈕的時間,會影響跳躍的距離。玩家需要觀察兩個平台間的距離,調整長按的時間,配合方向鍵決定跳躍的方向。一旦跳了出去,就沒辦法再改變方向。\n\n・「New Babe」、「New Babe+」及「Ghost of the Babe」共 3 種遊戲模式,各有不同的美人兒在頂端等候主角光臨。\n\n・有些關卡會有風吹干擾,或是地面濕滑,離頂點越近,難度就越高！\n\n・有時僅僅一次的失誤,將會使你掉落回到好幾個關卡之前......專注在跳躍上面吧！",
+    "publisher": "Pikii",
+    "developer": null,
+    "base_release_date": 20201217,
+    "first_update_release_date": 20201216,
+    "latest_update_release_date": 20211222,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211222
+    },
+    "versions": {
+        "65536": 20201216,
+        "131072": 20211222
+    },
+    "category": [
+        "動作",
+        "冒險"
+    ],
+    "intro": "以頂點為目標,孤注一跳！\n傳說中的爆難動作遊戲於Nintendo Switch™登場！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

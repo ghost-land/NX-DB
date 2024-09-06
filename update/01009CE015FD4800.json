@@ -1,4 +1,38 @@
 {
     "id": "01009CE015FD4800",
-    "version": 65536
+    "base_tid": "01009CE015FD4000",
+    "name": "My Universe - Doctors & Nurses",
+    "description": "Start your medical career!\n\nYou have the option to play two new recruits who've just arrived. Gradually, you'll realise that your day-to- day existence is going to be anything but restful. Build relationships with the other members of your new team and get to know their funny and moving personalities. But be sure not to get distracted by your rival, Doctor Pierce! Over the course of your adventure, you'll take care of the various patients who present to you at the hospital as the days go by. Listen carefully to them to understand their symptoms and play fun mini-games to treat them. Every day is a new challenge with its fair share of surprises!\n\n-Choose your character and personalise their appearance\n-Discover hospital life as part of a team\n-Take care of your various patients with different mini-games!",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20211203,
+    "first_update_release_date": 20211207,
+    "latest_update_release_date": 20211207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211207
+    },
+    "versions": {
+        "65536": 20211207
+    },
+    "category": [
+        "Simulation",
+        "Education",
+        "Lifestyle"
+    ],
+    "intro": "Join the hospital's top medical team!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very mild themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "01009D000FAE0800",
-    "version": 262144
+    "base_tid": "01009D000FAE0000",
+    "name": "Ultimate Racing 2D",
+    "description": "Ultimate Racing 2D is the ultimate top-down racing game, with 35 racing classes, over 45 tracks, career mode, championship mode and local multiplayer.\n\nMake your way from Karts to Formula Racing in the extensive career mode, play local multiplayer with up to 8 players or create your own custom championship. Race on 45+ international tracks from all continents. Besides Road Courses the game contains Ovals, Dirt Ovals, Historic Tracks, Karting Circuits, and Ice Speedway Tracks. \n\nChoose from a variety of racing disciplines like Open-Wheel, Oval Racing, Dirt Racing, Historic Racing, Touring Cars and Sports Car Racing. Drive your favorite vehicles, from Formula Cars to Motorbikes, Trucks, Supercars, Stock Cars, Tractors, Quads, Karts, Forklift Trucks, GT Cars, Speedway Bikes and many more. Experience thrilling top down racing in one of the best-looking 2D racing games!\n\nFeatures:\n- 35 racing classes\n- 45+ tracks\n- Local multiplayer up to 8 players\n- Career mode, Championship mode and Quick Race mode\n- Weather effects\n- Pit stop, qualifying and boost \n- Customize teams\n- Up to 20 cars on track\n- Visual stunning 2D graphics",
+    "publisher": "Applimazing",
+    "developer": null,
+    "base_release_date": 20200107,
+    "first_update_release_date": 20200108,
+    "latest_update_release_date": 20210419,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210419
+    },
+    "versions": {
+        "65536": 20200108,
+        "131072": 20200116,
+        "196608": 20200513,
+        "262144": 20210419
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "The ultimate top-down racing game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }

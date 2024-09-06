@@ -1,4 +1,40 @@
 {
     "id": "01009C100CE6A800",
-    "version": 196608
+    "base_tid": "01009C100CE6A000",
+    "name": "Pocket Academy",
+    "description": "School got you down? Wish you could change a few things? Well, now's your chance to create the ultimate dream school in this simulation smash-hit!\n\nTailor your personal academy as you see fit, erecting classrooms, making clubs--even deciding this week's hot couple!\n\nHow will you expand your hallowed halls of learning? Sponsor athletic meets, art shows, and other events to attract as many students as you can and elevate your school's prestige!\n\nWill your students make it college or land their dream job? Find out with Pocket Academy!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20200826,
+    "latest_update_release_date": 20210714,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210714
+    },
+    "versions": {
+        "65536": 20200826,
+        "131072": 20210305,
+        "196608": 20210714
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Adventure",
+        "Study"
+    ],
+    "intro": "Make your dream school in this management simulation game!\nSchool got you down?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

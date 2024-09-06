@@ -1,4 +1,41 @@
 {
     "id": "01009D100EA28800",
-    "version": 458752
+    "base_tid": "01009D100EA28000",
+    "name": "AeternoBlade II: Director's Rewind",
+    "description": "Harness the AeternoBlade – and defy the abyss in this sequel to the fast-paced action/puzzle platformer. In AeternoBlade II, use the power of time itself to outwit your enemies and explore mysterious new dimensions. Jump between frenetic combat encounters and intriguing puzzle segments that require ingenious use of time. \n\nPlay as three unique characters – including returning heroine Freyja, and newcomers Felix and Bernard, as they journey across dimensions in a desperate struggle against the destruction of the Dark Abyss. The power of the AeternoBlade must be returned or reality, as they know it, will face total collapse.\n\nOverwhelm your foes - by stringing together a massive hit count of relentless combos. Agile attack movements and the power of time are at your disposal in visually-striking, rapid combat. With both classic side-scrolling fights and the new addition of full-3D scenarios, launch enemies into the air and finish them using sword strikes, dashes and impressive ultimate attacks.\n\nManipulate time, eliminate enemies – and overcome all obstacles. Use techniques, such as Time Stop, Warp, and Reversal to outwit powerful bosses and solve creative puzzles. \n\nLeap, grapple and climb – across intricately designed environments with vertical terrain. Find useful new items by exploring multiple routes through mystic ruins, ancient forests, and stoic castles.\n\nEnhance your attributes – with over 100 equipped relics that harness the potential of your abilities. Boost health, critical strikes or strength, and unlock more by undertaking new quests.\n",
+    "publisher": "CORECELL",
+    "developer": null,
+    "base_release_date": 20191012,
+    "first_update_release_date": 20191022,
+    "latest_update_release_date": 20240212,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240212
+    },
+    "versions": {
+        "131072": 20191022,
+        "196608": 20191204,
+        "262144": 20200115,
+        "393216": 20230429,
+        "458752": 20240212
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Manipulate Time, Eliminate Your Enemies. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
