@@ -1,4 +1,37 @@
 {
     "id": "0100F15012D36800",
-    "version": 196608
+    "base_tid": "0100F15012D36000",
+    "name": "IMMERSE LAND",
+    "description": "\"IMMERSE LAND\" is a role story adventure game and a full-screen interactive micro-drama. You can enter different stories by through different choices. Emma drove her daughter to the amusement park, but they had an accident. Her daughter was lost mysteriously and Emma entered the lighthouse in search of her daughter with a few clues......",
+    "publisher": "VivaGames",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20201001,
+    "latest_update_release_date": 20201022,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201022
+    },
+    "versions": {
+        "65536": 20201001,
+        "131072": 20201014,
+        "196608": 20201022
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Panoramic interactive game mode\nMultiple perspectives switching observation\nMultiple choices for different scenarios",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

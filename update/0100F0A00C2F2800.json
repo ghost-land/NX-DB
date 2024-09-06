@@ -1,4 +1,34 @@
 {
     "id": "0100F0A00C2F2800",
-    "version": 65536
+    "base_tid": "0100F0A00C2F2000",
+    "name": "Assault On Metaltron",
+    "description": "First action tower defense game where you power up your towers however you like. Play as Metaltron's Defender Golem and build towers to defend your planet from the allied forces of humans and orc hordes. Game offers 40 levels of campaign that can be played solo or in coop and first ever Skirmish mode in tower defense games.\n\nKey Features\n\n- Lots of towers to choose from for defending you home planet.\n- Use your level-up tactics - increase tower's power, shooting speed or range independently!\n- Skirmish mode - adjust your game settings, select map, number of monsters and play randomly created level!\n- Local Solo and Coop Play - Get all the fun by playing with your friend on the couch!\n- 40 levels of campaign mayhem.\n",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20190319,
+    "first_update_release_date": 20190516,
+    "latest_update_release_date": 20190516,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190516
+    },
+    "versions": {
+        "65536": 20190516
+    },
+    "category": [
+        "Strategy",
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Get ready to defend your metallic planet from human and orc invaders in this intense, challenging and addictive action tower defense game! Play solo or in cooperation on one console!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

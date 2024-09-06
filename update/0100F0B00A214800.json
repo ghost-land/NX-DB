@@ -1,4 +1,65 @@
 {
     "id": "0100F0B00A214800",
-    "version": 1441792
+    "base_tid": "0100F0B00A214000",
+    "name": "Eternal Card Game",
+    "description": "The Game Has Changed\nSix-guns and sorcery collide in Eternal, the strategy card game of unlimited choices and unbelievable fun! Eternal offers the best of both worlds:\n  * Rich, deep strategic gameplay and counterplay with fast-spells and tactical combat!\n  * Next-gen touch screen-friendly digital design with quick, smooth and intuitive gameplay!\n…all wrapped up with exciting digital mechanics and the most generous game economy out there!\n\nPlay What You Want\nEternal is the most truly, generously free-to-play digital card game you can find. We’re committed to giving players the cards they need and the creative freedom to build any deck you can imagine.\n  * Every card and every game mode in Eternal can be played for free, without ever paying a dime.\n  * The only limits are your imagination – Eternal has no restrictions on which cards can be played together in your deck!\n\nPlay How You Want\nEternal has a variety of game modes to suit any player:\n  * Tournaments – Test your mettle in competitive play with cash prizes!\n  * Events – Frequent events introduce fun new twists and temporary rules!\n  * Ranked – Grab your favorite constructed decks and battle for the top spot on month-long Leaderboards!\n  * Casual – Pull off wacky combos in fun pick up games. Jank welcome!\n  * Draft – Build a deck on the fly from 48 cards passed by other players, and keep what you Draft!\n  * Sealed League – Crack 14 packs and build your way to victory in a month-long Sealed League!\n  * Promo Quests – Each month introduces a new card that can be earned for free during special Promo Quests!\n  * Campaign – Join the battle for the Eternal Throne in story-driven PVE campaigns that introduce new cards to the game!\n  * Forge – Level up your game against the AI in Forge! Pick cards for your deck from sets of three, and see how far you can go!\n  * Gauntlet – Learn new tricks in the Gauntlet! Test your constructed deck against AI opponents and wild Boss Powers designed by the best professional TCG players in the world!\n\nPlay When You Want\nEternal’s cross-platform play brings your decks and your collection anywhere you want to be. Your account goes with you to just about anywhere, so there’s always time for a lightning-fast game!",
+    "publisher": "Dire Wolf Digital",
+    "developer": null,
+    "base_release_date": 20191009,
+    "first_update_release_date": 20191007,
+    "latest_update_release_date": 20240401,
+    "latest_update": {
+        "version": "1441792",
+        "release_date": 20240401
+    },
+    "versions": {
+        "65536": 20191007,
+        "131072": 20191008,
+        "196608": 20191009,
+        "262144": 20191105,
+        "327680": 20191209,
+        "393216": 20200130,
+        "458752": 20200324,
+        "524288": 20200622,
+        "589824": 20200808,
+        "655360": 20201008,
+        "720896": 20201204,
+        "786432": 20210223,
+        "851968": 20210428,
+        "917504": 20210709,
+        "983040": 20211101,
+        "1048576": 20220224,
+        "1114112": 20220429,
+        "1179648": 20221003,
+        "1245184": 20221115,
+        "1310720": 20230109,
+        "1376256": 20230819,
+        "1441792": 20240401
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "Join the battle in the new strategy card game of unlimited choices and fun.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Suggestive Themes",
+        "Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

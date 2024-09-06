@@ -1,4 +1,35 @@
 {
     "id": "0100F0D004CAE800",
-    "version": 65536
+    "base_tid": "0100F0D004CAE000",
+    "name": "PAN-PAN A tiny big adventure",
+    "description": "PAN-PAN is an open plain adventure that expands on the concept of environmental narrative storytelling with puzzle solving and exploration elements at its core. \n\nSet against a backdrop of soothing ambient sounds crafted by renowned sound composer Simon Viklund, your task is to fix your downed spaceship and begin the pilgrimage home. \n\nIn a world littered with world shifting riddles and sprinkled with the memorable characters - how you solve these riddles is firmly in your hands. \n\nMain features:\n\nSet in an open world: Unlock new areas by collecting items and solving puzzles.\nStellar soundtrack created by acclaimed sound producer – Simon Viklund.\nA balanced blend of exploration and puzzle solving game mechanics.\nStory beats told through environmental interactions.\nUse a mix of tools, gadgets and devices to solve puzzles and uncover the path home.",
+    "publisher": "CIRCLE Ent.",
+    "developer": null,
+    "base_release_date": 20170914,
+    "first_update_release_date": 20180201,
+    "latest_update_release_date": 20180201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180201
+    },
+    "versions": {
+        "65536": 20180201
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100F0C00F69A800",
-    "version": 196608
+    "base_tid": "0100F0C00F69A000",
+    "name": "Deadly Premonition 2: A Blessing In Disguise",
+    "description": "2010年に発売され、海外で多くの熱狂的ファンを生んだ伝説のオープンワールド・ミステリーアドベンチャーが新たな物語となって登場。伝説のFBI捜査官ヨークとなり、アメリカの田舎町ル・カレで起こる連続殺人事件の謎に挑め。",
+    "publisher": "トイボックス",
+    "developer": null,
+    "base_release_date": 20200710,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200925,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200925
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200816,
+        "196608": 20200925
+    },
+    "category": [
+        "アドベンチャー",
+        "アクション",
+        "シューティング"
+    ],
+    "intro": "「レッドシーズプロファイル」から10年、待望の続編！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "犯罪"
+    ],
+    "region": null
 }

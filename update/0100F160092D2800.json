@@ -1,4 +1,34 @@
 {
     "id": "0100F160092D2800",
-    "version": 196608
+    "base_tid": "0100F160092D2000",
+    "name": "STEINS;GATE ELITE",
+    "description": "シリーズ累計100万本を突破した科学アドベンチャーシリー\nズの傑作『STEINS;GATE』の発売から９年。同作が、全編ア\nニメで遊べるアドベンチャーゲームとして、再構築\n（ELITE）されて帰ってきます。\nゲーム画面を全編フルアニメーションで制作し、より臨場感\nと没入観を味わえるよう、スタイルを一新！ 更に、TVアニメ\nでは描かれなかった分岐先の物語部分も、TVアニメを担当し\nたアニメーションスタジオ「WHITE FOX」が新規制作しま\nす。未プレイの方は勿論、既にプレイした方にもお楽しみい\nただける新感覚フルアニADV『STEINS;GATE ELITE』を、\n是非プレイしてみて下さい。",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20180916,
+    "latest_update_release_date": 20190417,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190417
+    },
+    "versions": {
+        "65536": 20180916,
+        "131072": 20190327,
+        "196608": 20190417
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "STEINS;GATEがフルアニアドベンチャーとして\n再構築（ELITE）！遊んだことのある方でも楽しめます。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

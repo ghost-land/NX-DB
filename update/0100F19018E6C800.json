@@ -1,4 +1,44 @@
 {
     "id": "0100F19018E6C800",
-    "version": 65536
+    "base_tid": "0100F19018E6C000",
+    "name": "Mixx Island: Remix Plus",
+    "description": "Take on a series of epic battles against powerful bosses. Unlock new abilities and power-ups and become the ultimate warrior. Dodge a barrage of laser beams, and explosions and make sure YOU are the last one standing.\n\nWith its vibrant graphics, pulse-pounding soundtrack, and intuitive controls, Mixx Island Remix is a game that's easy to pick up but hard to put down. \n\nWhether you're a seasoned gamer or a newcomer to the world of side-scrolling games, you'll find plenty to love in this thrilling adventure.\n\nKey Features:\n\n- 2D World\n- High-action gameplay\n- Rewarding gameplay loop\n- Cute characters\n- Astounding soundtrack\n- Anime style aesthetic",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230414,
+    "first_update_release_date": 20240605,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20240605
+    },
+    "category": [
+        "Shooter",
+        "Adventure",
+        "Platformer",
+        "Training"
+    ],
+    "intro": "Mixx Island Remix Plus is a high-energy, action-packed shooter set in a fantastic 2D world. Gather your wits, sharpen your reflexes, and prepare for the ultimate challenge. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

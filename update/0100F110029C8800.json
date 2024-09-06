@@ -1,4 +1,43 @@
 {
     "id": "0100F110029C8800",
-    "version": 131072
+    "base_tid": "0100F110029C8000",
+    "name": "Yooka-Laylee",
+    "description": "Explore huge, beautiful worlds, meet (and beat) an unforgettable cast of characters and horde a vault-load of shiny collectibles as buddy-duo Yooka (the green one) and Laylee (the wisecracking bat with the big nose) embark on an epic adventure to thwart corporate creep Capital B and his devious scheme to absorb all the world’s books... and convert them into pure profit!\n\nUsing their arsenal of special moves, our heroes will tackle a huge variety of puzzles and platforming challenges in their search for Pagies, the golden bounty used to unlock — and expand — stunning new worlds, each jammed to the gills with oddball characters, hulking bosses, minecart challenges, arcade games, quiz shows, multiplayer games... and much more!\n\nGet ready for the full Yooka-Laylee experience, with all the updates, including the much requested camera and voice patch! Gear up with up to four Joy-Con™ controllers for some multiplayer madness in Rextro's Arcade.",
+    "publisher": "Playtonic Friends",
+    "developer": null,
+    "base_release_date": 20171214,
+    "first_update_release_date": 20190401,
+    "latest_update_release_date": 20200430,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200430
+    },
+    "versions": {
+        "65536": 20190401,
+        "131072": 20200430
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Thwart Capital B on the go, with your favourite buddy duo - Now on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence",
+        "Very mild crude humour"
+    ],
+    "region": null
 }

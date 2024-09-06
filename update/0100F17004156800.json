@@ -1,4 +1,38 @@
 {
     "id": "0100F17004156800",
-    "version": 65536
+    "base_tid": "0100F17004156000",
+    "name": "Retro City Rampage DX",
+    "description": "Retro City Rampage reimagines the open world crime genre like it's 1989. Jump on civilians for coins -- then steal their car and outrun the law! Explore the city and complete missions, or just go on a rampage with your weapons, power-ups and vehicles!\n\nThis pop culture send-up includes a full Story Mode of open world adventure, plus Arcade Challenges for quick pick-up-and-play action. If that's not enough, it also packs an interactive city full of shops, minigames, customizations, collectibles, special guest stars, and more.\n\n\nFEATURES\n• 8-BIT Open-World\n• Over 60 Story Missions\n• Over 40 Arcade Challenges\n• Over 25 Weapons & Power-Ups\n• Over 50 Vehicles to Steal & Equip\n• Over 200 Character Customizations\n• Over 2.5 Hours of Chiptune Music\n\nEXTRAS\n• Includes \"ROM City Rampage\" Prototype Version (100% 8-BIT hardware accurate, could've actually been released in '89!)\n• Includes official crossovers and minigames with Minecraft, Super Meat Boy, BIT.TRIP and Epic Meal Time.",
+    "publisher": "Vblank Entertainment",
+    "developer": null,
+    "base_release_date": 20170803,
+    "first_update_release_date": 20200702,
+    "latest_update_release_date": 20200702,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200702
+    },
+    "versions": {
+        "65536": 20200702
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Explore the open world of Retro City Rampage DX.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

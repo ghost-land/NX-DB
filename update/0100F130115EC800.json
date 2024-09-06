@@ -1,4 +1,40 @@
 {
     "id": "0100F130115EC800",
-    "version": 262144
+    "base_tid": "0100F130115EC000",
+    "name": "Help Will Come Tomorrow",
+    "description": "Game focuses on the survival of the characters: meeting their needs, gathering resources, expanding the camp, exploring surroundings. In order to win player needs to learn the personality of the characters and work out relations between them, mitigating conflicts and taking care of the morale. Manage scarce resources and stay alive in frosty wilderness of Siberia before help arrives.\n\nKey features:\n• Immerse yourself in touching story set in 1917 pre - Bolschevik Imperial Russia\n• Guide 9 unique characters coming from different social origins and grouping in three society classes\n• Discover 10 intimate story-lines and past of all survivors\n• Build facilities and upgrade survivor’s camp\n• Manage dozens of scarce resources and try to stay alive in frosty Siberia until help arrives\n• Overcome class animosities between your party members, handle an innovative class relations building system\n• Face dynamically changing weather conditions and unforgiving Siberian wildlife affecting survivors life",
+    "publisher": "Klabater",
+    "developer": null,
+    "base_release_date": 20231012,
+    "first_update_release_date": 20200422,
+    "latest_update_release_date": 20230303,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230303
+    },
+    "versions": {
+        "65536": 20200422,
+        "131072": 20200519,
+        "196608": 20210129,
+        "262144": 20230303
+    },
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "In a Siberian wilderness, on the eve of October Revolution, passengers survive catastrophe of Trans-Siberian railway train. They must endure in a harsh climate until rescue arrives. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Drugs and Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

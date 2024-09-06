@@ -1,4 +1,38 @@
 {
     "id": "0100F120195A8800",
-    "version": 65536
+    "base_tid": "0100F120195A8000",
+    "name": "Seraph's Last Stand",
+    "description": "Seraph's Last Stand is a rogue-like shoot 'em up based on the flash era classic \"Heli Attack\", where every wave you pick a new upgrade and try to break the game with crazy builds.\n\nYou start clean every playthrough, but if you choose the right combinations, you can snowballs into powerful builds.\n\n40+ different items to compose your builds and secret items you discover by stacking.",
+    "publisher": "GAME NACIONAL",
+    "developer": null,
+    "base_release_date": 20230204,
+    "first_update_release_date": 20230322,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20230322
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Create insane builds and break the game in all possible ways to get your name into the leaderboards!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "it",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

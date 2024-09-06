@@ -1,4 +1,34 @@
 {
     "id": "0100F10012002800",
-    "version": 65536
+    "base_tid": "0100F10012002000",
+    "name": "Singled Out",
+    "description": "In Singled Out you must identify your target in a crowd of alien weirdos before time runs out. The quicker you are, the higher you score!\n\n1. You have 10 seconds to shoot the GALACTIC SUPERCRIMINAL.\n2. Identify the target using the 3 descriptions provided.\n3. Only one person in the crowd has all 3 traits. Don't shoot the wrong one!\n\nSingled Out is a short, simple but challenging arcade game where the goal is simply to beat your high score, climb the leaderboards, or last as long as you can. It's ideal for 5 minute breaks or parties (where everyone can work together and yell at the person playing).\n\nFeatures:\n\n• 10 million randomly-generated weirdos.\n• 30 challenging levels and a final boss.\n• Family Friendly Mode: remove all references to violence and shooting for an experience better suited to younger players.\n• Practice Mode: disable the strict time limit to practice in a casual, stress-free environment.\n• Memory Mode: unlock this challenge mode to truly put your skills to the test.\n• Touch-screen support.\n• Online leaderboards.\n• Achievements built in.",
+    "publisher": "Matthew Glanville",
+    "developer": null,
+    "base_release_date": 20200703,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "A quick-fire identification game. With a sniper rifle.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

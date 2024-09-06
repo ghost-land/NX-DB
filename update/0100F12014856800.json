@@ -1,4 +1,42 @@
 {
     "id": "0100F12014856800",
-    "version": 65536
+    "base_tid": "0100F12014856000",
+    "name": "Kids Play 動物叫聲遊戲",
+    "description": "輕擊不同的動物與它們互動，聽它們的叫聲和其它有趣聲音。遊戲裡還有一些隱藏動物和小驚喜。你能找到所有的秘密嗎？\n\n遊戲含有五種不同的場景：\n* 農場\n* 南極\n* 北美洲\n* 非洲\n* 澳洲\n\n適用於二歲以上兒童的精美APP。",
+    "publisher": "RAINYFROG",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210628,
+    "latest_update_release_date": 20210628,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210628
+    },
+    "versions": {
+        "65536": 20210628
+    },
+    "category": [
+        "益智",
+        "訓練",
+        "學習"
+    ],
+    "intro": "適用於年幼兒童的互動型可愛動物聲音遊戲。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

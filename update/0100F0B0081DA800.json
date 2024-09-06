@@ -1,4 +1,53 @@
 {
     "id": "0100F0B0081DA800",
-    "version": 983040
+    "base_tid": "0100F0B0081DA000",
+    "name": "Dawn of the Breakers",
+    "description": "Defeat the impending menace, the mysterious \"Ghouls\"! Utilize new abilities with each transformation of your Heroes! Discover the fate that awaits a young man afflicted with amnesia... Embark on an unpredictable journey in the fully realized Story Mode! Play with friends in co-op, or compete against them for glory in the Arena! Form a team with 6 Heroes, and terminate the Ghoul threat with explosive techniques!",
+    "publisher": "CyberStep",
+    "developer": null,
+    "base_release_date": 20180726,
+    "first_update_release_date": 20180823,
+    "latest_update_release_date": 20200213,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20200213
+    },
+    "versions": {
+        "65536": 20180823,
+        "131072": 20180927,
+        "196608": 20181101,
+        "262144": 20181122,
+        "327680": 20181220,
+        "393216": 20190124,
+        "458752": 20190404,
+        "524288": 20190523,
+        "589824": 20190711,
+        "655360": 20190815,
+        "720896": 20190927,
+        "786432": 20191121,
+        "851968": 20191219,
+        "983040": 20200213
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Sexualised Imagery",
+        "Digital Purchases"
+    ],
+    "region": null
 }
