@@ -1,4 +1,34 @@
 {
     "id": "0100FC5009952800",
-    "version": 65536
+    "base_tid": "0100FC5009952000",
+    "name": "Pirates: All Aboard!",
+    "description": "Pirates: All Aboard! is a competitive battle game for solo and multiplayer experiences. \n\nRule the seas!\n- Choose your ship wisely - Exploit each of thee ships’ strengths ‘n weaknesses\n- Skillfully navigate between Caribbean tropical islands on 7 maps!\n- Collect all thee power-ups 'n fire devastatin' cannon blasts.\n- Be merciless to yee enemies 'n remember  - Dead men tell no tales. \n\nEnjoy 3 game modes yarr!\n1) Practice Mode - Practice will make ye a true Seadog!  \n2) Multiplayer (Death Match and Last Man Standing) - All scallywags are needed aboard, brin' yer mates and together commandeer thar seas\n3) Endless Mode - show yer agility 'n collect a bounty of treasures, don't let yer ship sink - River Raid style!\n\nYo Ho Ho!\nWeigh Anchor and Hoist the Mizzen!\nAaaarrrrgggghhhh!",
+    "publisher": "No Gravity Games",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20180412,
+    "latest_update_release_date": 20180412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180412
+    },
+    "versions": {
+        "65536": 20180412
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Ahoy Pirates! \nTh' sea be callin' - choose a ship, brin' yer mates 'n set sail on th' vast seas - All hands hoay!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

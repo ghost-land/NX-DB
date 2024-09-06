@@ -1,4 +1,35 @@
 {
     "id": "0100FBF0181C6800",
-    "version": 65536
+    "base_tid": "0100FBF0181C6000",
+    "name": "UFS League",
+    "description": "Man vs Robots in the $1 000 000 fight of the evening. Smash hundreds of robots in 12 rounds. Collect bonuses and destroy with the power of god's finger. Not enough? Activate thunder and feel the power of destruction. Rent weapons and eliminate enemies. Have no mercy on the bosses. The goal is right. The show must go on. Are you ready? UFS League is a night full of excitement!",
+    "publisher": "KrzysztofPodsada",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20220720
+    },
+    "category": [
+        "Fighting",
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "A show worth $1 000 000! UFS League.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100FB30148EE800",
-    "version": 65536
+    "base_tid": "0100FB30148EE000",
+    "name": "Brick Bat Crazy",
+    "description": "Play 1 or 2 player mode across ten unique themes and destroy all the bricks to progress. Collect power ups and use them to help you (or in 2 player mode, to hinder your opponent). Each theme is playable on a Bronze, Silver, or Gold setting, with difficulty increasing  according to the selection.",
+    "publisher": "IndieRevo",
+    "developer": null,
+    "base_release_date": 20210402,
+    "first_update_release_date": 20210513,
+    "latest_update_release_date": 20210513,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210513
+    },
+    "versions": {
+        "65536": 20210513
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Fun 1 or 2 player arcade style gameplay for everyone!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100FC301A878800",
-    "version": 131072
+    "base_tid": "0100FC301A878000",
+    "name": "Undead Horde 2: Necropolis",
+    "description": "The living have razed your home: The Necropolis. Become a necromancer king and raise undead warriors from the remains of your enemies. With each victory, your army will grow stronger and your city will become more powerful, allowing you to take on even tougher challenges. Take back your land, free the undead souls and secure a future for the undead. Undead Horde 2 is a necromantic action game with elements from RPG, strategy and hack'n'slash.",
+    "publisher": "10tons",
+    "developer": null,
+    "base_release_date": 20230531,
+    "first_update_release_date": 20230531,
+    "latest_update_release_date": 20230830,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230830
+    },
+    "versions": {
+        "65536": 20230531,
+        "131072": 20230830
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Welcome to a world where the dead rise to rebuild their fallen cities.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

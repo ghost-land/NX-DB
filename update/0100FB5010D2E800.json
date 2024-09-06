@@ -1,4 +1,48 @@
 {
     "id": "0100FB5010D2E800",
-    "version": 327680
+    "base_tid": "0100FB5010D2E000",
+    "name": "3000th Duel",
+    "description": "A hero with no memory, and with a mysterious mask covering his face, is thrown out into this land of unknown. Reaching to an end of his journey, he discovers a truth that is hard to swallow - something terrifying about his true identity...\n\nExplore a huge world with organically connected biomes of more than 300!\nTerrifying monsters, multiple platform-actions and mysteries await you.\n\nEncounter 150+ monsters and final bosses using the aspects of discovered weapons!\n- Blade-based attacks with an advantage of fast attack speed\n- Sword-based attacks with massive-damaging attack\n- Lance-based attacks with long reach and strategic gameplay\n\nCollect Occults spread all over the map to use the Forbidden Magic!\nIt is possible to build each player's main character into one's prefered battle type by using Occults and items found during the route.",
+    "publisher": "Neopopcorn",
+    "developer": null,
+    "base_release_date": 20200220,
+    "first_update_release_date": 20200320,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20200320,
+        "131072": 20200508,
+        "196608": 20200930,
+        "262144": 20211022,
+        "327680": 20220818
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "3000th Duel is action-adventure game that has speedy, exciting battles as its charm.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

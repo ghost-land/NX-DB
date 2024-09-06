@@ -1,4 +1,34 @@
 {
     "id": "0100FC700F942800",
-    "version": 65536
+    "base_tid": "0100FC700F942000",
+    "name": "Megabyte Punch",
+    "description": "Megabyte Punch is an electro beat ‘em up game with platforming elements in which you build your own fighter while playing!\n\nMegabyte Punch takes place in a computer universe where you have to protect the Heartcore of your village. You defend your people from the Valk Empire and the dreaded Khoteps in 6 different levels with each 3 stages and a boss fight!\n\nAs you travel through the worlds, you battle other creatures to get their parts. Parts have their own powers and bonuses, like gun arms for a shoot ability or powerful hips for a devastating pelvic thrust attack. The whole adventure is playable with up to 4 players at once. Using the abilities of your customized fighter, you can also battle your friends in a destructible arena or you can compete in the tournament to test your own skills.\n\nKey Features\n- A hard-edge graphic style to represent the digital world that the 'Megacs' live in\n- 6 unique electro-worlds each with their own boss fight\n- 150 parts to collect and almost endless combinations to customize your character\n- A pumpin' electro soundtrack\n- Up to 4 player local co-op and versus mode\n- Use any amiibo in-game to get exclusive colors for your fighter\n- For Nintendo Switch™ only: 2 exclusive bonus stages\n",
+    "publisher": "Team Reptile",
+    "developer": null,
+    "base_release_date": 20200508,
+    "first_update_release_date": 20200523,
+    "latest_update_release_date": 20200523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200523
+    },
+    "versions": {
+        "65536": 20200523
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

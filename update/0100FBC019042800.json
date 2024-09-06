@@ -1,4 +1,34 @@
 {
     "id": "0100FBC019042800",
-    "version": 65536
+    "base_tid": "0100FBC019042000",
+    "name": "Assault Suits Valken DECLASSIFIED",
+    "description": "The original Assault Suits Valken was censored and edited for its international release as Cybernator. This new DECLASSIFIED version finally offers the original Assault Suits Valken officially translated into English for the first time. \nIn addition, a recreation of the original 80-page Japanese guidebook has been translated into English and included in this release, of which 40 pages cover the game's backstory. \nFollowing that, this DECLASSIFIED release offers new artwork from the game's character designer Satoshi Urushihara and never before seen production artwork.\nThe original and arranged soundtracks are also available to play in the game's music player, along with a new interview with Satoshi Nakai about the original game's mecha design.\nAdditional features include:\n- Save and Load states\n- Replay recording and playback\n- New \"Retro Color\" screen filters\n- Unlockable cheats\n- Super Playthrough (No Death / Good Ending)",
+    "publisher": "Rainmaker Productions",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230625,
+    "latest_update_release_date": 20230625,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230625
+    },
+    "versions": {
+        "65536": 20230625
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "The definitive Super NES™ mecha game! \nAssault Suits Valken is a mecha shoot-em-up released by Masaya in 1992. Pilot your Valken mecha across 7 stages.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

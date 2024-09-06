@@ -1,4 +1,41 @@
 {
     "id": "0100FB500631E800",
-    "version": 65536
+    "base_tid": "0100FB500631E000",
+    "name": "ATOMINE",
+    "description": "Atomine is a twin stick procedural rogue-lite shooter set in a virtual world with minimalist design, where the player recounts on the screen the real events of STUXNET, the first weapon ever created in the form of computer virus.\n\nFast and Fun\nAtomine is fast. There are a lot of enemies and you have to kill all of them to complete the levels. But don't worry, you have infinite ammo and a (great) modular weapon system.\n\nWeapon System\nIn Atomine the player can modify his weapon using special modules that can be find in the game. The modules have effect to specific parts of the weapons: type of bullet, number of bullets, rate of fire and other mutators.\n\nProcedurally Generated\nDuring a run, the system can detect the intrusion and modify the game, so player must act quickly!\n\nBoss Battle\nThere are not only \"small\" enemies. Atomine must also defeat big and powerful bosses.",
+    "publisher": "MixedBag",
+    "developer": null,
+    "base_release_date": 20180526,
+    "first_update_release_date": 20180802,
+    "latest_update_release_date": 20180802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180802
+    },
+    "versions": {
+        "65536": 20180802
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Procedural! Rogue-like! Twin-stick shooter!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

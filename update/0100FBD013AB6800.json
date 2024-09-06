@@ -1,4 +1,63 @@
 {
     "id": "0100FBD013AB6800",
-    "version": 1835008
+    "base_tid": "0100FBD013AB6000",
+    "name": "SnowRunner",
+    "description": "SnowRunner puts you in the driver’s seat of powerful vehicles as you conquer extreme open environments with the most advanced terrain simulation ever. Drive 40 vehicles from brands such as Ford, Chevrolet, and Freightliner as you leave your mark on an untamed open world.\n\nOvercome mud, torrential waters, snow, and frozen lakes while taking on perilous contracts and missions. Expand and customize your fleet with many upgrades and accessories including an exhaust snorkel for heavy waters or chain tires to battle the snow.\n\nRide solo or with other players in 4-player co-operative!\n• Face extreme environments in a highly advanced physics engine\n• 40 unique vehicles to unlock, upgrade, and customize\n• Complete dozens of challenging missions across an interconnected world\n• Go solo or play with other players in 4-player co-op",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20220301,
+    "first_update_release_date": 20210909,
+    "latest_update_release_date": 20240730,
+    "latest_update": {
+        "version": "1835008",
+        "release_date": 20240730
+    },
+    "versions": {
+        "262144": 20210909,
+        "327680": 20211020,
+        "393216": 20211207,
+        "458752": 20220301,
+        "524288": 20220531,
+        "589824": 20220705,
+        "655360": 20220915,
+        "720896": 20221013,
+        "786432": 20221021,
+        "917504": 20221208,
+        "983040": 20230116,
+        "1048576": 20230228,
+        "1179648": 20230526,
+        "1245184": 20230718,
+        "1376256": 20231019,
+        "1441792": 20231025,
+        "1507328": 20231123,
+        "1572864": 20240131,
+        "1638400": 20240306,
+        "1703936": 20240402,
+        "1769472": 20240604,
+        "1835008": 20240730
+    },
+    "category": [
+        "Simulation",
+        "Racing",
+        "Multiplayer"
+    ],
+    "intro": "Get ready for the next-generation off-road experience!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }
