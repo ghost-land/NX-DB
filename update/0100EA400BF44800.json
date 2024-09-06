@@ -1,4 +1,37 @@
 {
     "id": "0100EA400BF44800",
-    "version": 65536
+    "base_tid": "0100EA400BF44000",
+    "name": "SkyScrappers",
+    "description": "With a brand new and exclusive Vertical “Tate” Mode for Nintendo Switch™, SkyScrappers is a 1-4 player arcade-style, competitive platform-fighting game.\n\nSelect from a diverse range of extreme sportspeople, to fight and race your way to the top of a falling skyscraper… as it is being demolished.    \n\nPlay with up to four players in classic couch-multiplayer, take on the story-driven single-player campaigns, or set up a skirmish against AI bots.\n\nFeatures:\n\n* Classic arcade feel and style\n* Breath-taking hand drawn artwork\n* Skill-based gameplay\n* Exclusive Vertical “Tate” Mode\n* 1-4 player local multiplayer\n* Single player story mode",
+    "publisher": "Ground Shatter",
+    "developer": null,
+    "base_release_date": 20181029,
+    "first_update_release_date": 20190122,
+    "latest_update_release_date": 20190122,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190122
+    },
+    "versions": {
+        "65536": 20190122
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action"
+    ],
+    "intro": "Frantic Vertical Arcade Combat",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

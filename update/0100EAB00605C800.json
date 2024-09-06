@@ -1,4 +1,44 @@
 {
     "id": "0100EAB00605C800",
-    "version": 131072
+    "base_tid": "0100EAB00605C000",
+    "name": "Poly Bridge",
+    "description": "Poly Bridge, the hit indie bridge-building physics title with dozens of hours of gameplay.\n\n\"A must play for anyone interested in puzzle games.\" - TheGamingReview\n\n* 105 Campaign Levels\n* Sandbox\n* 22 Achievements\n* Hydraulic Pistons\n* Moving Drawbridges\n* Swings, Jumps, and Classic Bridges\n\nUnleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles! Play the fully featured campaign with 100+ levels of challenging physics puzzles or make your own puzzles and bridge designs in the Sandbox.\n\nSuccess begins by getting cars to their destinations by any means; build suspensions, ramps and jumps, double-deckers, moving drawbridges, and much more. Complete every level under budget and with a sturdy, unbreaking bridge, to become a Poly Bridge Master Engineer... and unlock the secret world.",
+    "publisher": "Dry Cactus",
+    "developer": null,
+    "base_release_date": 20171215,
+    "first_update_release_date": 20180102,
+    "latest_update_release_date": 20180112,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180112
+    },
+    "versions": {
+        "65536": 20180102,
+        "131072": 20180112
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

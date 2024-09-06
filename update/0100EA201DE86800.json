@@ -1,4 +1,29 @@
 {
     "id": "0100EA201DE86800",
-    "version": 65536
+    "base_tid": "0100EA201DE86000",
+    "name": "VALIS: The Fantasm Soldier (PC-88)",
+    "description": "Yuko Aso is an average high school student who becomes a Warrior of Valis. Her mission is to destroy Rogles, the ruler of Vecanti, and his four lackeys. She must also reclaim the five Fantasm Jewels.\nThe first game of the series was released in 1986.",
+    "publisher": "Edia",
+    "developer": null,
+    "base_release_date": 20240530,
+    "first_update_release_date": 20240625,
+    "latest_update_release_date": 20240625,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240625
+    },
+    "versions": {
+        "65536": 20240625
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "The legend of the Valis Warrior begins here.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

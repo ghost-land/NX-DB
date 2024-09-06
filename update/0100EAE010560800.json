@@ -1,4 +1,52 @@
 {
     "id": "0100EAE010560800",
-    "version": 1048576
+    "base_tid": "0100EAE010560000",
+    "name": "Captain Tsubasa: Rise of New Champions",
+    "description": "Captain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.\n\nGet a real taste for the world of Captain Tsubasa through two story modes! To savor the drama alongside the action in Captain Tsubasa, we've prepared Episode: Tsubasa, a story mode where you can experience the events as seen in the anime. Additionally, become a part of the world of Captain Tsubasa, as you play through Episode: New Hero, an original story mode found in this game.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20200828,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20200813,
+        "131072": 20201013,
+        "196608": 20201201,
+        "262144": 20210119,
+        "327680": 20210310,
+        "393216": 20210420,
+        "458752": 20210803,
+        "524288": 20210929,
+        "589824": 20211207,
+        "720896": 20220330,
+        "786432": 20220419,
+        "917504": 20220825,
+        "983040": 20221115,
+        "1048576": 20221115
+    },
+    "category": [
+        "Sports",
+        "Action"
+    ],
+    "intro": "Super plays clash in soccer action game Captain Tsubasa!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Language",
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

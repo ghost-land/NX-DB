@@ -1,4 +1,46 @@
 {
     "id": "0100EB00132FE800",
-    "version": 262144
+    "base_tid": "0100EB00132FE000",
+    "name": "Color Your World",
+    "description": "Travel the world and through the seasons on a journey full of colourful labyrinths. Think fast and leave no path unpainted! Colour each maze with as few moves as possible to earn 3 stars and unlock new challenging levels. Play 100 levels and encounter obstacles such as moving walls, teleporters and treadmills!\n\nChallenge your friends in the multiplayer mode with up to four players. Who will come up with the best strategy to become the champion? Use special power-ups to get an edge over your opponents. Only the smartest players will be victorious, and paint the world in their colour!\n\nFeatures:\n• 100 colourful levels with increasing difficulty\n• 8+ obstacles and useful tools such as teleporters, pressure plates and bouncy walls\n• Multiplayer mode with up to four players. Use your smarts (and power-ups) to win!\n",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210411,
+    "latest_update_release_date": 20221219,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221219
+    },
+    "versions": {
+        "65536": 20210411,
+        "131072": 20210422,
+        "196608": 20210601,
+        "262144": 20221219
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Think fast to solve 100 colourful labyrinth puzzles and colour your world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

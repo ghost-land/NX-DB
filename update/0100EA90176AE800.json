@@ -1,4 +1,31 @@
 {
     "id": "0100EA90176AE800",
-    "version": 65536
+    "base_tid": "0100EA90176AE000",
+    "name": "Froggy Crossing",
+    "description": "Help Froggy the frog fill his belly with yummy coins!\n\nBut be carrefull, you'll have to cross roads full of danger...\n\nGet new characters to play with using your collected coins.\n\nHave fun!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20220126,
+    "first_update_release_date": 20220222,
+    "latest_update_release_date": 20220222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220222
+    },
+    "versions": {
+        "65536": 20220222
+    },
+    "category": [
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100EAD0178F8800",
-    "version": 65536
+    "base_tid": "0100EAD0178F8000",
+    "name": "Geometric Sniper",
+    "description": "In lively and varied environments, designed exclusively for this game, you will not have a second chance, precision is everything!\n\nWhen taking the mission, pay attention to the photo and information obtained by secret agents about your target. As a Sniper, you need to have a good memory to find and eliminate the target in the crowd before it runs away and makes another victim. \n\nIn all game modes the locations of targets and objects are random, so you can have a lot more fun!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20221110,
+    "first_update_release_date": 20221201,
+    "latest_update_release_date": 20221201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221201
+    },
+    "versions": {
+        "65536": 20221201
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Immerse yourself in Andrew's story and feel the pressure of being a sniper!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

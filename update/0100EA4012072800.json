@@ -1,4 +1,35 @@
 {
     "id": "0100EA4012072800",
-    "version": 65536
+    "base_tid": "0100EA4012072000",
+    "name": "Super Hiking League DX",
+    "description": "Who's the best 2D platformer in the world? Find out in the League!\n\nJoin Nelson in the Super Hiking League! An evil wizard is making the mountains disappear in a plan to make the world perfectly flat! As a member of the Super Hiking League you will not let this happen. Compete in climbing matches against other Hikers to collect all magic gems and stop his plans!\n\nSuper Hiking League provides tight jump-rope-bend-swing-win gameplay with beautiful 8-bit+ graphics and a top notch authentic 8-bit soundtrack!\n\nFeatures:\n\n- Beautiful retro graphics!\n- Tight gameplay and controls!\n- Bending Rope Swing Physics!\n- Amazing Soundtrack with several songs!\n- Story mode!\n- Challenge a friend in local multiplayer mode!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20210810,
+    "first_update_release_date": 20210803,
+    "latest_update_release_date": 20210803,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210803
+    },
+    "versions": {
+        "65536": 20210803
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Climb to the top and save the world in many different levels.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,50 @@
 {
     "id": "0100E9E00DBF4800",
-    "version": 983040
+    "base_tid": "0100E9E00DBF4000",
+    "name": "GENSOU Skydrift",
+    "description": "A Touhou Project racing game is here!\n\nIn the mystical land of Gensokyo somewhere in Japan, humans and yokai live together in strange harmony.\nOne day, some girls notice that their spirit energy is weak.\n\nYokai specialist Reimu Hakurei and her friend Marisa Kirisame spot someone running off on a racetrack...\n\nCharacters:\n20 challengers from the Touhou Project!\nOne girl acts as a board and one acts as a rider.\nSwap between characters!\nUse spell cards for interference, acceleration, and defense,\nor use devastating Last Words!\n\nCourses:\n16 courses set across Gensokyo, including the Human Village, a flying ship, the spooky Scarlet Devil Manor, and the cherry blossom-lined Hakugyokuro!\nRace on walls, ceilings, cliffs, the air—The sky's the limit!\n\nSystem:\nFeatures online multiplayer VS mode. Race against anyone, anywhere, anytime!\nAlso features a campaign mode where the game's story plays out—And a post-game secret episode.\n\nFun for Touhou veterans and newcomers alike!",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20191212,
+    "first_update_release_date": 20191127,
+    "latest_update_release_date": 20231101,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20231101
+    },
+    "versions": {
+        "65536": 20191127,
+        "131072": 20191218,
+        "196608": 20200120,
+        "262144": 20200130,
+        "327680": 20200212,
+        "393216": 20200323,
+        "458752": 20200327,
+        "524288": 20200528,
+        "589824": 20200903,
+        "655360": 20201001,
+        "720896": 20210308,
+        "786432": 20210617,
+        "851968": 20210716,
+        "917504": 20220623,
+        "983040": 20231101
+    },
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "And so the girls fly again.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

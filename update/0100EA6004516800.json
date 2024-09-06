@@ -1,4 +1,34 @@
 {
     "id": "0100EA6004516800",
-    "version": 196608
+    "base_tid": "0100EA6004516000",
+    "name": "MEMBRANE",
+    "description": "Membrane is a creative-action puzzle game in which you build, bend and break the world around you while experimenting to create your own solutions. Bendy bridges, wobbly ladders and shaky structures are just the beginning of what you'll make to test the limits of this weird, day-glo world! \n\nMembrane was designed to allow creative space for the player to interact and build their own unique solutions. The puzzles are NOT designed to rely on deception or a single solution, lock & key approach to test players. Instead the game was built to reward creativity and experimentation from the player. Get your thinking cap on friends! \n\n• Debut console release from Perfect Hat\n• IGF Honorable Mention for Best Student Game 2018\n• 45 awesome levels to explore and get your creative mind going!\n• 3 unlockable Bonus modes including Catapult, Trickshot & Boulderball",
+    "publisher": "Perfect Hat",
+    "developer": null,
+    "base_release_date": 20240122,
+    "first_update_release_date": 20180220,
+    "latest_update_release_date": 20180322,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180322
+    },
+    "versions": {
+        "65536": 20180220,
+        "131072": 20180315,
+        "196608": 20180322
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Platformer",
+        "Lifestyle"
+    ],
+    "intro": "Build, bend and break your world! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

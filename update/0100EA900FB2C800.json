@@ -1,4 +1,42 @@
 {
     "id": "0100EA900FB2C800",
-    "version": 131072
+    "base_tid": "0100EA900FB2C000",
+    "name": "Hayfever",
+    "description": "In Hayfever, the player takes control of Thomas – a young postman with a strong work ethic. There is just one tiny little issue… Thomas suffers from terrible (and we mean TERRIBLE) allergies.\nIt is up to the player to use Thomas’s allergies to help him traverse a dangerous world, turning his weaknesses into strengths! Different allergens have different effects on Thomas – radically changing how he interacts with the world. Regular pollen allows him to build up a big sneeze to propel himself through the air. Smog, on the other hand, makes him swell up like a balloon. Peanuts… Well, peanuts are a WHOLE other story.\nFeatures:\n•  Quirky retro-inspired graphics\n•  Demanding, sneeze-driven mechanics\n•  Four worlds, spanning all four seasons\n•   140 levels, with 240 letters to collect (legend has it that collecting enough letters unlocks extra, extremely challenging levels…)\n•  Allergy-fueled gameplay ranging from pollen and smog to nuts!\n•  An A.M.A.Z.I.N.G soundtrack\n",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20200226,
+    "first_update_release_date": 20200217,
+    "latest_update_release_date": 20200310,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200310
+    },
+    "versions": {
+        "65536": 20200217,
+        "131072": 20200310
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Help Thomas the Allergic Mailman gather all his lost letters in this challenging and unique 2D platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

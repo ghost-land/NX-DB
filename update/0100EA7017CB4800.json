@@ -1,4 +1,33 @@
 {
     "id": "0100EA7017CB4800",
-    "version": 65536
+    "base_tid": "0100EA7017CB4000",
+    "name": "Evasion From Hell",
+    "description": "Welcome to Hell\n\nIn this game, you start your journey in the lowest circle of hell and slowly work your way up to gates of hell in order to escape and return to the world of the living. Therefore, the game consists of 9 huge areas, each representing one circle of hell. In each area the player has to find a certain number of soul crystals in order to open the portal to the next level and to advance one circle. \n\nThe game is a uniquely stylized 3d first-person platformer and plays around with the concept of live and death.\nEach circle consists of 5 different platforming challenges and surprises with breathtaking environments, a surreal world full of beauty, grace and despair, and a couple of small environmental puzzles that blend perfectly into the peaceful yet stunning environments. \n\nWill you be able to escape hell?\nFind it out.",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220428,
+    "latest_update_release_date": 20220428,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220428
+    },
+    "versions": {
+        "65536": 20220428
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Escape all 9 circles of hell by showing off your 3D platformer skills. A beautiful world full of surprises, challenges and lost souls is waiting for you. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood"
+    ],
+    "region": null
 }

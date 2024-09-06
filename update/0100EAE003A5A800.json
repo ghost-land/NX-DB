@@ -1,4 +1,38 @@
 {
     "id": "0100EAE003A5A800",
-    "version": 327680
+    "base_tid": "0100EAE003A5A000",
+    "name": "FIRE EMBLEM 無雙",
+    "description": "《FIRE EMBLEM 無雙》是以「一騎當千的爽快感」為概念並不斷進化的「無雙」系列，和以中世夢幻世界為舞台的英雄對戰「Fire Emblem」系列合作的戰略動作遊戲。\n集結歷代英雄，享受一個面對命運並進行激烈戰鬥的壯麗故事。",
+    "publisher": "KOEI TECMO GAMES",
+    "developer": null,
+    "base_release_date": 20180620,
+    "first_update_release_date": 20170927,
+    "latest_update_release_date": 20180328,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20180328
+    },
+    "versions": {
+        "65536": 20170927,
+        "131072": 20171115,
+        "196608": 20171220,
+        "262144": 20180214,
+        "327680": 20180328
+    },
+    "category": [
+        "動作",
+        "角色扮演",
+        "模擬",
+        "冒險"
+    ],
+    "intro": "編織出的命運，英雄們的牽絆",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }
