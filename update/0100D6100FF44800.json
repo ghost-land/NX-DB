@@ -1,4 +1,35 @@
 {
     "id": "0100D6100FF44800",
-    "version": 65536
+    "base_tid": "0100D6100FF44000",
+    "name": "Sudoku Relax 3 Autumn Leaves",
+    "description": "The popular \"Sudoku Relax\" title is coming out with a sequel, \"Sudoku Relax 3\".\nThis new title is filled with warm autumn colors and brings a sense of calm.\n\nChoose from EASY, NORMAL, or HARD modes with over 300 puzzles.\nExercise your brain and wind down to the relaxing gameplay and music.\n\nSolving puzzles unlocks new backgrounds and music tracks.\nThe game contains 3 backgrounds and 3 music tracks.\n\nYou can choose to pause the game at any time and continue playing at your convenience.\nSimple touch controls make playing easy.",
+    "publisher": "G-MODE",
+    "developer": null,
+    "base_release_date": 20191115,
+    "first_update_release_date": 20191128,
+    "latest_update_release_date": 20191128,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191128
+    },
+    "versions": {
+        "65536": 20191128
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Training",
+        "Study"
+    ],
+    "intro": "Let your mind take a break and refresh itself to the mind-soothing effects of Sudoku.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

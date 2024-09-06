@@ -1,4 +1,43 @@
 {
     "id": "0100D590162D0800",
-    "version": 131072
+    "base_tid": "0100D590162D0000",
+    "name": "Forgotten Hill Disillusion",
+    "description": "Welcome to Forgotten Hill Museum, a place where the past, the present, nature, art and the unknown are exhibited!\n\nDo you want to have the best experience of this visit? If so take some advice: never believe your eyes. Forgotten Hill Disillusion is a first-person point and click game with a horror and grotesque atmosphere, focused on solving puzzles and riddles in order to discover the secrets of the disturbing town of Forgotten Hill.\n\nWill you solve the mystery and escape? But, above all, will you survive?\n\n\nFeatures\n* 60 original puzzles and riddles\n* Exclusive hint system\n* Grotesque Forgotten Hill atmosphere \n* Translation in 9 languages",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20211217,
+    "first_update_release_date": 20211115,
+    "latest_update_release_date": 20220112,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220112
+    },
+    "versions": {
+        "65536": 20211115,
+        "131072": 20220112
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Help Mr. Larson discover the truth among the mysteries of Forgotten Hill",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

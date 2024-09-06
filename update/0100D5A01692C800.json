@@ -1,4 +1,40 @@
 {
     "id": "0100D5A01692C800",
-    "version": 65536
+    "base_tid": "0100D5A01692C000",
+    "name": "Cotton 100%",
+    "description": "The world has fallen into darkness, and the fairy Silk sets out to look for help. She crosses paths with a young witch called Nata de Cotton, who seems rather uninterested in helping her. That is until Silk tells her that along the way, giant Willows, a candy that Cotton has a massive craving for, are waiting for her, so the two set out to find out what's causing the darkness... or look for Willows!\n\nCotton 100% was released in 1994 and is based on the original Cotton: Fantastic Night Dreams. It offers a stunning and fresh new look with the more vibrant color palette of the Super Famicom. \n\nExperience the beautiful and authentic Cute 'em Up action from the 90s in all its glory and charm!\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20211029,
+    "first_update_release_date": 20220623,
+    "latest_update_release_date": 20220623,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220623
+    },
+    "versions": {
+        "65536": 20220623
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "The Cute 'em Up mascot is back in a more vibrant and colorful look!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

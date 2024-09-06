@@ -1,4 +1,31 @@
 {
     "id": "0100D5700877A800",
-    "version": 131072
+    "base_tid": "0100D5700877A000",
+    "name": "斑鳩 IKARUGA",
+    "description": "既存の概念を打ち破ったシステムで、人々を魅了したシューティングゲームがNintendo Switch に還ってきた！\n\nプレイヤーが持つ「白」と「黒」という属性を切り替えて「敵弾に当たり、吸収する」という、独創的なゲームシステムを採用。\n弾は避けるだけではない！弾に当たって、ゲージを溜めると、強力なホーミングレーザー「力の解放」を使うことができる。\nまた同じ色の敵を３機連続で倒すごとに倍増する「チェーンボーナス」が発生。チェーンボーナスを駆使し高得点を叩き出せ！\n\n",
+    "publisher": "Pikii",
+    "developer": null,
+    "base_release_date": 20180530,
+    "first_update_release_date": 20180529,
+    "latest_update_release_date": 20180806,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180806
+    },
+    "versions": {
+        "65536": 20180529,
+        "131072": 20180806
+    },
+    "category": [
+        "シューティング"
+    ],
+    "intro": "「撃て！」「避けろ！」そして・・・「当たれ！」\n伝説のシューティングゲームがNintendo Switchに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100D5C01A1E8800",
-    "version": 196608
+    "base_tid": "0100D5C01A1E8000",
+    "name": "Elta7",
+    "description": "In the future world, in order to resist the oppression of Skynet, the underground resistance army sent the intelligent flight aircraft Elta 7 to obtain the energy chip and control the energy source to destroy Skynet and make the world free again.\n\nThe game is played by roguelike + demon city. It designs many operations such as weapons, equipment, chip buff, a variety of secondary weapons, weapon protection bonus and upgrade. The main weapons, secondary weapons and long-range weapons are freely combined, with complex and diverse terrain and fierce Skynet enemy.",
+    "publisher": "BluSped Studio",
+    "developer": null,
+    "base_release_date": 20230120,
+    "first_update_release_date": 20230201,
+    "latest_update_release_date": 20230913,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230913
+    },
+    "versions": {
+        "65536": 20230201,
+        "131072": 20230203,
+        "196608": 20230913
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Shooter"
+    ],
+    "intro": "Roguelike Demon City shooting game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

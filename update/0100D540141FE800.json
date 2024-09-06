@@ -1,4 +1,37 @@
 {
     "id": "0100D540141FE800",
-    "version": 65536
+    "base_tid": "0100D540141FE000",
+    "name": "Arcade Archives THUNDER DRAGON",
+    "description": "\"THUNDER DRAGON\" is a shooting game released by NMK in 1991.\nYou must pilot a manned combat helicopter “Thunder Dragon” in order to stop a group of mad scientists that have taken over an automated weapon of destruction.\nUtilize 4 different types of shots, each with their own unique characteristics, as well as powerful bombs to save humanity from imminent destruction.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20210312,
+    "first_update_release_date": 20210412,
+    "latest_update_release_date": 20210412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210412
+    },
+    "versions": {
+        "65536": 20210412
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "The Strategic Satellite SOL will back you up \nwith its orbital laser cannon. \nGood luck!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "0100D5F00EC52800",
-    "version": 65536
+    "base_tid": "0100D5F00EC52000",
+    "name": "Kairobotica",
+    "description": "In a galaxy not so far away, miscreants and monsters are wreaking havoc, and it's up to everyone's favorite mechanical mascot to dole out a heaping helping of bot-kicking justice! And he's bringing an army of his Kairobotic brethren to do it.\n\nIn this new spacefaring sim, you command the Kairobot Corps, a state-of-the-art brigade of mass-produced guardians of galactic peace. Heed calls for help to patrol planets and vanquish villains to build your reputation as the most elite interstellar security force this side of the Andromeda!\n\nBetween missions, upgrade your mobile colony from shields to shops and you may attract inquisitive spacetrotters from unexplored planets. You can even exhibit animals captured on patrol. Can you catch them all?\n\nJoin Kairobot's campaign for cosmic fame in this stirring saga of the stars!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20200305,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20210526,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210526
+    },
+    "versions": {
+        "65536": 20210526
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Vanquish villains and lead the Kairobot Corps to glory in this spacefaring saga!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

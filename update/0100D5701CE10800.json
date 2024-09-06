@@ -1,4 +1,43 @@
 {
     "id": "0100D5701CE10800",
-    "version": 262144
+    "base_tid": "0100D5701CE10000",
+    "name": "The Land Beneath Us",
+    "description": "Use powerful skill combos and stylish weaponry to battle your way through the Underworld known as Annwn. Enjoy challenging dynamic encounters and discover the mysteries of this mythological world.\n\nBATTLE THROUGH THE UNDERWORLD!\nForged by The Creator, the Ultimate Soul Harvester (U.S.H) is crafted to gather Souls. Now armed with Soul-Technology, its mission is one of redemption. Explore The Underworld, engage, barter, or confront characters. Learn from their tales to shape your unique path.\n\nMASTER THE COMBOS!\nOvercome enemies with powerful abilities, executing customizable movement combinations. Plan strategically through short, action-packed levels to maximize hits on creatures!\n\nVARIED ARSENAL\nStrategize and wield a diverse array of weapons, from Blood Axes to Longinus Spears and Lazer Pistols. Equip different weapons in each slot for a dynamic hack 'n' slash journey through the Underworld.\n\nREPLAYABILITY FACTOR\nEnhance stats and abilities by collecting souls from defeated enemies as you explore each world. Enjoy direct combat? Boost your Weapon skill tree. Prefer a strategic approach? Unlock potent Combo Abilities to hit enemies from a distance.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20240513,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240723,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240723
+    },
+    "versions": {
+        "65536": 20240510,
+        "131072": 20240603,
+        "196608": 20240618,
+        "262144": 20240723
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "A turn-based rogue-lite dungeon crawler rooted in Welsh mythology.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

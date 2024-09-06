@@ -1,4 +1,30 @@
 {
     "id": "0100D5701E874800",
-    "version": 65536
+    "base_tid": "0100D5701E874000",
+    "name": "Kubits Gallery",
+    "description": "Discover the wonderful history of painting around the world in Kubits Gallery.\n\nGasp! Every painting in the museums has vanished, they've all gone blank and no one knows why! Luckily the Kubits are taking things over control and with their help you will be able to remake all the works. Solve nonogram grids to unveil the great canvases of the history of painting around the world remade by the Kubits, these little chameleon squares who glue themselves to grids to make new images.\n\nKubits Gallery is a logic game for casual players where you can solve different logic puzzles on grids to create images. You can take all the time you need and relax while you solve more than 120 levels of nonogram spread across fictional galleries representing the history of painting in 3 countries.\n\nNonograms are a bit like crosswords but for pictures, a solo puzzle game where you paint on a grid by blackening the grid cells with Kubits (squares). To achieve this you will have to use the clues located around the grid. These numbers tell you the groups of black squares in a row or a column and the size of the groups. Try this famous game played since long ago but with a modern and colorful twist, telling the story of more than 2000 years of pictorial arts.\n\n- More than 120 levels of nonogram with various difficulties\n- A journey through the history of painting, from the prehistoric times to ours\n- Fictional galleries from 3 different countries to visit\n- Accessibility features to make playing more enjoyable like undoing your moves or 3 difficulty levels\n- A modern interface, colorful and dynamic ",
+    "publisher": "TyGAMES",
+    "developer": null,
+    "base_release_date": 20240708,
+    "first_update_release_date": 20240708,
+    "latest_update_release_date": 20240708,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240708
+    },
+    "versions": {
+        "65536": 20240708
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Solve nonogram grids to repaint the vanished paintings inside museums around the world in more than 120 levels in various fictional galleries!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100D60018376800",
-    "version": 262144
+    "base_tid": "0100D60018376000",
+    "name": "Extinction Eclipse",
+    "description": "Explore space, conquer asteroid fields to mine and extract resources. Build a fleet of spaceships and destroy the enemies in this new space action strategy adventure. Defend Humanity against an alien invader who aims to freeze Earth. \n\nThe Story Mode is divided into campaigns with several missions each. Completing a campaign will unlock others so you can play in a non-linear way. You decide the path to victory.\n\nThe Skirmish Mode allows you to configure the match: map size, goal, initial fleet and upgrades, etc. The world will then be procedurally generated, offering a unique experience everytime!\n\nExtinction Eclipse is a space action strategy game, where you are in command of the human forces in their effort to find the necessary resources to build a fleet. You start with only a couple of miner ships and a probe, and your mission is to find and conquer asteroid fields that can be mined, in order to extract their precious metals and water.\n\nYou will build your fleet gradually, and before each mission, you can choose which ships to use. After you build your ships, any of them that manage to survive during the mission will become part of the available fleet.\n\nYou will also accumulate unused metal and water to trade for upgrades and power ups in the store. These upgrades will make your ships faster and stronger, increasing your chances of succeeding.\n\nBut be careful, the aliens will not sit back and relax while you expand. They will attack your bases by surprise, so be prepared to defend them constantly!",
+    "publisher": "TuanisApps",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20221030,
+    "latest_update_release_date": 20230418,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230418
+    },
+    "versions": {
+        "65536": 20221030,
+        "131072": 20221201,
+        "196608": 20230109,
+        "262144": 20230418
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Explore the universe, find and mine asteroids, extract resources, build your fleet of spaceships and destroy the alien invader!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

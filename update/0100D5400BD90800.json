@@ -1,4 +1,29 @@
 {
     "id": "0100D5400BD90800",
-    "version": 327680
+    "base_tid": "0100D5400BD90000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20181201,
+    "latest_update_release_date": 20190201,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190201
+    },
+    "versions": {
+        "65536": 20181201,
+        "131072": 20181214,
+        "196608": 20190122,
+        "262144": 20190128,
+        "327680": 20190201
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }

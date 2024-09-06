@@ -1,4 +1,35 @@
 {
     "id": "0100D4F01FC36800",
-    "version": 196608
+    "base_tid": "0100D4F01FC36000",
+    "name": "Werewolf Goldfish",
+    "description": "Players are divided into two roles: the goldfish (Werewolf) who wants to swim around unseen, and the scoopers (Villagers) who want to scoop up the Werewolf.\n<Goldfish>\nPass through the checkpoints without being detected to win!\n<Scoopers>\nFind the Werewolf Goldfish and scoop it up to win!\n\nFool your opponents, and victory will be yours!\n\nUp to 4 players can play together!\n\nOnline play is available!\n\n[Quick Match]\nPlay a quick battle with the basic ruleset!\n\n[Room Match]\nDecide the rules and battle!\n\n[Keyword Match]\nSet a room keyword and battle with friends!\n\nEnjoy a battle of trickery with players from all over the world!\nPlay \"Werewolf Goldfish\" with friends and people worldwide!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240801,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240807,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240807
+    },
+    "versions": {
+        "65536": 20240719,
+        "131072": 20240724,
+        "196608": 20240807
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Arcade",
+        "Communication"
+    ],
+    "intro": "Which goldfish is the Werewolf?\nFind and scoop up the Werewolf Goldfish hiding in plain sight!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

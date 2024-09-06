@@ -1,4 +1,35 @@
 {
     "id": "0100D51017162800",
-    "version": 196608
+    "base_tid": "0100D51017162000",
+    "name": "THE Bass Fishing",
+    "description": "We've recreated rod and reel controls, the joy of fishing, with the Joy-Con™! The realistic graphics make you feel like you're really there, letting you enjoy real bass fishing anytime, wherever you are!\n\nDon't worry if you're new to bass fishing, either! We've got a ton of tutorials ready to help you, including a fully-realized campaign where a instructor goes over the basics of what lures to use where, where to find what fish, and what techniques to use on them!\n\nEnjoy exhilarating fishing tournaments anywhere, with local console-to-console multiplayer supporting up to 8 players, and online multiplayer up to 12! Become the world's best angler!",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20220616,
+    "first_update_release_date": 20221019,
+    "latest_update_release_date": 20221220,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221220
+    },
+    "versions": {
+        "65536": 20221019,
+        "131072": 20221109,
+        "196608": 20221220
+    },
+    "category": [
+        "Sports",
+        "Training",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "intro": "Go bigger, go heavier! Bag monster bass with your awesome fishing skills! Experience the excitement of competitive bass fishing!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

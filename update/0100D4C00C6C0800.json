@@ -1,4 +1,34 @@
 {
     "id": "0100D4C00C6C0800",
-    "version": 131072
+    "base_tid": "0100D4C00C6C0000",
+    "name": "Bendy and the Ink Machine™",
+    "description": "Bendy and the Ink Machine™ is the first-person puzzle action horror game that will forever ruin your childhood love of cartoons. Fear the machine and survive.",
+    "publisher": "Maximum Games",
+    "developer": null,
+    "base_release_date": 20181120,
+    "first_update_release_date": 20181119,
+    "latest_update_release_date": 20190109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190109
+    },
+    "versions": {
+        "65536": 20181119,
+        "131072": 20190109
+    },
+    "category": [
+        "Puzzle",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror theme",
+        "Violence"
+    ],
+    "region": null
 }

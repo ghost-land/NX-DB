@@ -1,4 +1,37 @@
 {
     "id": "0100D5D00C6BE800",
-    "version": 196608
+    "base_tid": "0100D5D00C6BE000",
+    "name": "Our World Is Ended.",
+    "description": "A world between reality and fiction \nExplore a faithful recreation of Asakusa, one of Tokyo’s most iconic districts as elements from the game worlds will slowly manifest themselves and threaten to destroy the entire district itself.. \n\nSplendid Artwork and Outstanding Visuals \nEnjoy stunning visuals and gorgeous CGs drawn in a distinctive and vibrant art style. The detailed environments bring Asakusa to life with a unique atmosphere. \n\nThe interactive Selection Of Soul system \nWhen the main character, Reiji gets flustered, the S.O.S (Selection Of Soul) system will be triggered. His emotions will flow onto the screen before vanishing. Quickly react to these options and see how your choices will affect the dialogues.",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20190417,
+    "latest_update_release_date": 20190520,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190520
+    },
+    "versions": {
+        "65536": 20190417,
+        "131072": 20190418,
+        "196608": 20190520
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "What if the game world was merging with real life? Follow a team of developers trapped between reality and their fictional worlds.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

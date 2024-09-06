@@ -1,4 +1,45 @@
 {
     "id": "0100D5A01A09E800",
-    "version": 917504
+    "base_tid": "0100D5A01A09E000",
+    "name": "Party Party Time",
+    "description": "操作輕鬆、人人都能上手的派對遊戲正式登場！\n最多可以同時支援6人遊玩，趕緊分配Joy-Con™吧！\n\n另外還有許多超直觀的迷你小遊戲。\n找找自己擅長的遊戲好好享受吧！\n\n【自由模式】\n選擇喜歡的遊戲遊玩！\n\n【派對模式】\n依序遊玩選好的遊戲\n較量最終得分！",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20221215,
+    "first_update_release_date": 20221214,
+    "latest_update_release_date": 20231206,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20231206
+    },
+    "versions": {
+        "65536": 20221214,
+        "131072": 20230113,
+        "196608": 20230217,
+        "262144": 20230411,
+        "327680": 20230511,
+        "458752": 20230524,
+        "524288": 20230714,
+        "589824": 20230717,
+        "655360": 20230813,
+        "720896": 20231123,
+        "917504": 20231206
+    },
+    "category": [
+        "派對",
+        "動作",
+        "益智",
+        "交流"
+    ],
+    "intro": "派對時間到了！\n三五好友一齊遊玩，歡樂無限！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [],
+    "region": null
 }
