@@ -1,4 +1,31 @@
 {
     "id": "0100FB001998C800",
-    "version": 131072
+    "base_tid": "0100FB001998C000",
+    "name": "Neon Mine",
+    "description": "Neon Mine is a logic puzzle game - classic minesweeper with a modern twist.\n\nThe game features a grid of selectable fields, with hidden \"mines\" scattered throughout the board. The objective is to clear the board without detonating any mines, with help from clues about the number of neighboring mines in each field.\n\nTry to uncover a field without detonating a mine.\nSelect the mines with a flag without detonating them. If you make a mistake, a mine will explode.",
+    "publisher": "EntwicklerX",
+    "developer": null,
+    "base_release_date": 20220930,
+    "first_update_release_date": 20220926,
+    "latest_update_release_date": 20221027,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221027
+    },
+    "versions": {
+        "65536": 20220926,
+        "131072": 20221027
+    },
+    "category": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "A logic puzzle game - classic minesweeper with a modern twist.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

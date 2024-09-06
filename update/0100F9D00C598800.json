@@ -1,4 +1,34 @@
 {
     "id": "0100F9D00C598800",
-    "version": 65536
+    "base_tid": "0100F9D00C598000",
+    "name": "Spoiler Alert",
+    "description": "Spoiler Alert is a video game that tests your platforming skills… in reverse. It’s a comedy platformer that you play backwards.\n\nWhen you pick this game up, it has already been beaten. The big bad boss is defeated, the coins are collected and the princess has been rescued. Why, oh why?\nUnraveling this mystery takes you through the entire game, from the last level to the first. You must uncollect the coins, revive the enemies and avoid nasty time paradoxes. In other words, you must uncomplete the game by playing it backwards.\n\nEverything in this game is so familiar, yet so different and new. You have played it a thousand times before, and at the same time, you have never tried anything like it.",
+    "publisher": "Megafuzz",
+    "developer": null,
+    "base_release_date": 20190201,
+    "first_update_release_date": 20190225,
+    "latest_update_release_date": 20190225,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190225
+    },
+    "versions": {
+        "65536": 20190225
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "The platformer you play... In reverse!\nYou know how it ends... But how did it begin?\nForget the classic tropes - they will be used against you!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

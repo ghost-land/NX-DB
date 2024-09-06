@@ -1,4 +1,37 @@
 {
     "id": "0100F9C012142800",
-    "version": 262144
+    "base_tid": "0100F9C012142000",
+    "name": "MageQuit",
+    "description": "A wizard brawler about spell drafting and beard envy, MageQuit allows up to 10 mages to battle it out online or 8 locally. Beards grow longer with each kill; the wizard with the longest beard after 9 rounds wins!\n\nFEATURES\n* 1-10 players online featuring crossplay, 1-8 offline\n* 63 different spells (with more coming)\n* Custom bots for online or offline play\n* Anonymous skillbased or custom matchmaking\n* Spell drafting\n* Spell curving\n* Play as teams, free for all, or 1v1\n* Dynamic original sound track\n\nWAYS TO PLAY MAGEQUIT\n* Play offline with a group of up to 8\n* Play solo in online quickplay or offline with bots\n* Play online with a premade party of up to 10\n* Join the online quickplay queue with a party of up to 5\n* Play online with multiple players on the same console",
+    "publisher": "Bowlcut Studios",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20211015,
+    "latest_update_release_date": 20240102,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240102
+    },
+    "versions": {
+        "65536": 20211015,
+        "131072": 20211029,
+        "196608": 20220225,
+        "262144": 20240102
+    },
+    "category": [
+        "Fighting",
+        "Party",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "10 Player Wizard Brawler",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

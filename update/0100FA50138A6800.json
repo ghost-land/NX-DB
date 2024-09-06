@@ -1,4 +1,43 @@
 {
     "id": "0100FA50138A6800",
-    "version": 131072
+    "base_tid": "0100FA50138A6000",
+    "name": "Godstrike",
+    "description": "Time is money and health, so buying abilities or being damaged will reduce your remaining combat time. You better watch out!\n\nSKILLS\n\nAlong your path, you will unlock over 40 unique abilities by defeating bosses. Before each battle you will be able to customize your ability loadouts to optimize your playstyle and discover powerful combos and synergies!\n\nSTORY\n\nIn Godstrike you embody Talaal, the last of God’s seven masks. Talaal finds her bearer just in time to fight against its siblings, that hunt her to absorb the power within the mask. The bearer is now trapped in a war that does not belong to her, a cycle that seems impossible to break.\n\nHIGHSCORES\n\nIf you enjoy frantic experiences and hard challenges, you will be able to take it to the extra mile! Challenge other players and reach the top of the highscores!\n\nFEATURES\n\nCustomizable ability loadouts, allowing the players to optimize their game style.\n\nCompetition focused gameplay so you can challenge your friends and beat the high scores.\n\nMultiple game modes, including Roguelite!\n",
+    "publisher": "Freedom Games",
+    "developer": null,
+    "base_release_date": 20231103,
+    "first_update_release_date": 20210519,
+    "latest_update_release_date": 20211214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211214
+    },
+    "versions": {
+        "65536": 20210519,
+        "131072": 20211214
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Godstrike is a 3D boss rush Bullet Hell based on time. This means that you have to face every Boss and defeat them before your time runs out!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

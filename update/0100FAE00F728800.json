@@ -1,4 +1,32 @@
 {
     "id": "0100FAE00F728800",
-    "version": 65536
+    "base_tid": "0100FAE00F728000",
+    "name": "Teddy Gangs",
+    "description": "Beat the fluff out of them! \n\nThe toy factory that made the best teddy's in the World has gone crazy. \n\nAll the teddy's have escaped and have become evil and you are the only one who you can stop them taking over the World.\n\nTeddy gangs is a fun, fast action fighting game where you have to beat the fluff out of the any teddy that dares to challenge you, so be ready to stand up to hordes of evil teddy bears, but be warned this is not going to be a fluffy affair.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20191004,
+    "first_update_release_date": 20210820,
+    "latest_update_release_date": 20210820,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210820
+    },
+    "versions": {
+        "65536": 20210820
+    },
+    "category": [
+        "Fighting",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

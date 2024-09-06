@@ -1,4 +1,48 @@
 {
     "id": "0100FA400FF78800",
-    "version": 458752
+    "base_tid": "0100FA400FF78000",
+    "name": "SkateBIRD",
+    "description": "Grind on bendy straws, kick-flip over staplers, and carve killer lines through cardboard and sticky tape parks, in SKATEBIRD®!\n\nYou're a lonely lil' bird, and your Big Friend has hung up their board for good. Their job sucks, and lately, they're barely ever home to play with you. You're gonna fix all that with the power of being a chill little skateboarding bird. You may be tiny, but the more you skate, the more following you get, the more the world of bird skating will open up. Birds will come check out your park, help you find more parks, and together you'll (somehow) fix Big Friend's life! Above all else, skate birds try their best!\n\n",
+    "publisher": "Glass Bottom Games",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20210903,
+    "latest_update_release_date": 20230601,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20230601
+    },
+    "versions": {
+        "65536": 20210903,
+        "131072": 20210916,
+        "196608": 20211028,
+        "262144": 20211215,
+        "327680": 20220722,
+        "393216": 20230520,
+        "458752": 20230601
+    },
+    "category": [
+        "Sports",
+        "Racing",
+        "Simulation"
+    ],
+    "intro": "Grind on bendy straws, kick-flip over staplers, and carve killer lines through cardboard and sticky tape parks. Above all else, skate birds try their best! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Lyrics"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100FA8019B28800",
-    "version": 131072
+    "base_tid": "0100FA8019B28000",
+    "name": "WORLD OF HORROR",
+    "description": "The Old Gods are reawakening, clawing their way back into a world that’s spiraling into madness. In hospitals, abandoned classrooms, quiet apartments, and dark forests, strange appearances and unexplainable phenomena test the sanity of residents in Shiokawa, Japan. Is it chaotic retribution, or the machinations of beings beyond our comprehension?\n\nThis is WORLD OF HORROR: The end of the world is nigh, and the only solution is to confront the terror reigning over the apocalypse. Navigate this hellish, roguelite reality through turn-based combat and unforgiving choices in this roguelite-style cosmic horror RPG.\n\nInvoke dark rituals, uncover disturbing clues, and solve puzzles across multiple randomized mysteries. Each perplexing case unravels into a series of random encounters with nightmarish figures inspired by Japanese horror manga and H.P. Lovecraft.\n\nStart your investigations by choosing from 5 unique characters, with many others to be unlocked. The darkness surrounded Shiokawa conceals over 20 different mysteries to be encountered in each run, with each mystery harboring multiple possible endings. Complimented by a haunting chiptune soundtrack and a stark 1-bit art style drawn 100% in MS Paint, WORLD OF HORROR  comes together to present a gnawing sense of dread.",
+    "publisher": "Ysbryd Games",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20231023,
+    "latest_update_release_date": 20231219,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231219
+    },
+    "versions": {
+        "65536": 20231023,
+        "131072": 20231219
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "A 1-bit roguelite RPG adventure inspired by Japanese horror and H.P. Lovecraft. Amid turn-based combat and unforgiving choices, experience the quiet cosmic horror of Shiokawa.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

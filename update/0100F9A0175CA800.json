@@ -1,4 +1,36 @@
 {
     "id": "0100F9A0175CA800",
-    "version": 65536
+    "base_tid": "0100F9A0175CA000",
+    "name": "ALIEN WAR",
+    "description": "In 2222 AD, only 5% of humanity survived the alien invasion.\nThe aliens have begun their final attack.\nDefeat the aliens by firing the guns of the KPO9, humanity’s strongest surface-to-air weapon.\nIntercepting enemies gives you EXP, which you can use to upgrade your weapon.\nThe fully automatic missile pods that help you attack can also be upgraded.\nThe future of humanity lies in your hands.",
+    "publisher": "Game Museum",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20220826,
+    "latest_update_release_date": 20220826,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220826
+    },
+    "versions": {
+        "65536": 20220826
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Defeat alien fighters with the ultimate surface-to-air weapon KPO9!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100FA60152CC800",
-    "version": 65536
+    "base_tid": "0100FA60152CC000",
+    "name": "Wood Block Escape Puzzles 3",
+    "description": "Wood block escape puzzles 3 is  a fun and simple way to relax and challenge your logical reasining and concentration.\n\nFeatures :\n- 5 Categories: BEGINNER, MEDIUM, ADVANCE,EXPERT, MASTER\n- 2000 levels ",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210722,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20211007,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211007
+    },
+    "versions": {
+        "65536": 20211007
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "New challenging wood unblocking puzzles with different difficulties!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

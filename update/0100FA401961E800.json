@@ -1,4 +1,47 @@
 {
     "id": "0100FA401961E800",
-    "version": 393216
+    "base_tid": "0100FA401961E000",
+    "name": "Disney Illusion Island",
+    "description": "Join Mickey & Friends on a quest to explore the mysterious island of Monoth and recover three mystical books to save the world from disaster!\n\nPlay as Mickey & Friends\n\nChoose your favorite character and unlock special abilities as you perform high-flying platforming feats, solve fun puzzles, and take on epic boss battles.\n\nReveal the mysteries of Disney Illusion Island\n\nRun, swim, swing, and jump your way through a beautiful yet mysterious island and discover rich biomes, intriguing characters, and hidden secrets. \n\nFun with friends in 4-player co-op\n\nPlay solo or grab up to three friends to save the island of Monoth in 4-player couch co-op. Team up with friends and utilize unique skills such as Rope Drop, Leap Frog, and a heart gifting hug. \n\nBe a part of an authentic Mickey cartoon\n\nExperience a brand-new Mickey & Friends adventure with hand-drawn animation, an orchestrated original score and authentic voice talents.",
+    "publisher": "Disney Electronic Content",
+    "developer": null,
+    "base_release_date": 20230728,
+    "first_update_release_date": 20230627,
+    "latest_update_release_date": 20240618,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240618
+    },
+    "versions": {
+        "65536": 20230627,
+        "131072": 20230714,
+        "196608": 20230721,
+        "262144": 20231214,
+        "327680": 20240109,
+        "393216": 20240618
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

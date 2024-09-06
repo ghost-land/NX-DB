@@ -1,4 +1,34 @@
 {
     "id": "0100F9A012EA0800",
-    "version": 65536
+    "base_tid": "0100F9A012EA0000",
+    "name": "戰國 ACE for Nintendo Switch (Samurai Aces for Nintendo Switch)",
+    "description": "以日本的戰國時代為背景，6名「ACE」將聚集在一起展開空戰。\n就是所謂《戰國 ACE》！！！\n\n等待他們的有「人面魚」、「達摩」以及最後一位BOSS「○○○」！\n在異想天開的世界觀中「女忍者」、「和尚」、「巫女」……還有「狗」等\n透過6名角色來親身體驗日本風格的獨特氛圍吧！",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20201104,
+    "first_update_release_date": 20210803,
+    "latest_update_release_date": 20210803,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210803
+    },
+    "versions": {
+        "65536": 20210803
+    },
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": "以假想戰國時代為舞臺展開的彩京街機射擊，是那傳說的信號彈！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "0100F9A01D466800",
-    "version": 524288
+    "base_tid": "0100F9A01D466000",
+    "name": "Arranger: A Role-Puzzling Adventure",
+    "description": "Arranger: A Role-Puzzling Adventure follows the story of Jemma, a small-town misfit on a journey of self-discovery. Venturing out beyond her stiflingly cozy confines, she finds an inspiring world - but also one ruled by fear, and a strange, immovable ‘static’ force. Can she disrupt a culture of stagnation, and find a place to fit into it?\n\nGameplay takes place on a unique, interconnected ‘grid’ that spans the entire world, snappily uniting movement, exploration, and combat. When Jemma moves, the world moves with her - creating both a playful sense of chaos, and a regular stream of small, thoughtful puzzles that twist and play with the central mechanic.\n\nFeatures:\n- Unique, interconnected gameplay ‘grid’ that snappily unites movement, combat, and exploration.\n- A story-driven adventure about a small-town misfit on a journey of self-discovery.\n- A breezy RPG without XP or inventory to manage, where everything is handled in-world.\n- A nicely-sized campaign with some optional challenges, and various assist options so that you only get as stuck as you want to be.\n- Debut game from an all-star development team, featuring the artist behind Braid.",
+    "publisher": "Furniture & Mattress",
+    "developer": null,
+    "base_release_date": 20240725,
+    "first_update_release_date": 20240621,
+    "latest_update_release_date": 20240826,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240826
+    },
+    "versions": {
+        "65536": 20240621,
+        "131072": 20240702,
+        "262144": 20240719,
+        "393216": 20240728,
+        "458752": 20240814,
+        "524288": 20240826
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

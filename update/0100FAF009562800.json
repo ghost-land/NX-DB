@@ -1,4 +1,39 @@
 {
     "id": "0100FAF009562800",
-    "version": 131072
+    "base_tid": "0100FAF009562000",
+    "name": "Deep Ones",
+    "description": "The main protagonist of this story suffers a crash on his submarine. The great red octopus is the reason of this, his will of destroying every traveler that he encounters may seem unbeatable, but Diver isn't exactly as simple as he looks. He is encouraged to walk along the bottom of the ocean, plunge into the depths of the darkest corners, to rip and tear through the thick plants of sea weed and fight with the most unknown creatures of the world that is beneath, just to get his submarine back in his command. On his path, he will witness many beautiful landscapes of the scenery and will acquire many trustworthy allies, all of which will also enrich his stories that will be worthy of telling about... That is, of course, if you'll be able to help him survive and triumph over the evil.\n\nFeatures:\n- Compeling and philosophical storyline \n- Unsual visual presentation of the game, inspired by the ZX Spectrum \n- Classic arcade gameplay\n- Diffirent genre entries, for example, \"shoot 'em up\" genre will make it's way into the game, at a certain point.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180411,
+    "first_update_release_date": 20180314,
+    "latest_update_release_date": 20180821,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180821
+    },
+    "versions": {
+        "65536": 20180314,
+        "131072": 20180821
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "«Deep Ones» is a retro arcade-platformer with multigenre parts, inspired by ZX Spectrum and works of H. P. Lovecraft.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

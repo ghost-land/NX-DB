@@ -1,4 +1,40 @@
 {
     "id": "0100FA10115F8800",
-    "version": 262144
+    "base_tid": "0100FA10115F8000",
+    "name": "STAR WARS™ Republic Commando™",
+    "description": "Boss, Fixer, Scorch, and Sev, better known as Delta Squad, are back on Nintendo Switch™! Relive the legendary campaign.\n\nWelcome to the Clone Wars: Chaos has erupted throughout the galaxy. As leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately annihilate the enemy. \n\nBattle Relentless Enemies: Battle a variety of highly intelligent and deadly enemies—from brutal Trandoshan mercenaries to the flying insectoid warriors of Geonosis.\n\nThe Squad is Your Weapon: Your squad will follow your orders, performing complex commands and strategic maneuvers. You are their leader. They are your weapon.",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20210430,
+    "first_update_release_date": 20210210,
+    "latest_update_release_date": 20211019,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211019
+    },
+    "versions": {
+        "65536": 20210210,
+        "131072": 20210520,
+        "262144": 20211019
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The squad is your weapon",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100F97015D46800",
-    "version": 65536
+    "base_tid": "0100F97015D46000",
+    "name": "BATS: Bloodsucker Anti-Terror Squad",
+    "description": "A fast and frantic arcade extravaganza with tons of action and gallons of blood! It's up to Count Bloodvayne and his vampire powers to rescue his BATS teammates from Scorpion Supreme and STING's evil clutches.",
+    "publisher": "The Media Indie Exchange",
+    "developer": null,
+    "base_release_date": 20211020,
+    "first_update_release_date": 20211030,
+    "latest_update_release_date": 20211030,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211030
+    },
+    "versions": {
+        "65536": 20211030
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

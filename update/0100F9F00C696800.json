@@ -1,4 +1,54 @@
 {
     "id": "0100F9F00C696800",
-    "version": 983040
+    "base_tid": "0100F9F00C696000",
+    "name": "Crash™ Team Racing Nitro-Fueled",
+    "description": "Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:\n\n- Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls\n- Power slide to glory in additional karts, tracks and arenas from Crash™ Nitro Kart\n- Race online with friends and Crash the competition with online leaderboards\n- Customize your ride and swag out your racer with n. sane kart items and skins\n\nWith Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.\n\nINTERNET REQUIRED for Wumpa Coins, Grand Prix, online Multiplayer and other features.",
+    "publisher": "Activision",
+    "developer": null,
+    "base_release_date": 20210504,
+    "first_update_release_date": 20190609,
+    "latest_update_release_date": 20200326,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20200326
+    },
+    "versions": {
+        "65536": 20190609,
+        "131072": 20190620,
+        "196608": 20190621,
+        "262144": 20190702,
+        "327680": 20190719,
+        "393216": 20190802,
+        "458752": 20190830,
+        "524288": 20191002,
+        "589824": 20191014,
+        "655360": 20191108,
+        "720896": 20191212,
+        "786432": 20200116,
+        "851968": 20200130,
+        "917504": 20200220,
+        "983040": 20200326
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": "Crash is back in the driver's seat in Crash™ Team Racing Nitro-Fueled!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

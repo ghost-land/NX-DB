@@ -1,4 +1,42 @@
 {
     "id": "0100FA20177F4800",
-    "version": 65536
+    "base_tid": "0100FA20177F4000",
+    "name": "reky",
+    "description": "This puzzle game is an eye catching combination of minimalism and elegant design. The controls may seem simple to understand, but reaching the final floor will not be an easy task.\n\nSimplicity is key\n\nAlthough the rules may be easy to understand, most challenges are anything but simple. Remember the rules of this world, and you should have no problem with coming out on top.\n\nFeel it\n\nThe gameplay of reky is further elevated by the calming ambient soundtrack. Let it help you sink into this unique aesthetic experience.\n\nKey Features:\n\n- 96 levels\n- Aesthetics inspired by architectural minimalism\n- Elegant design\n- Beautiful soundtrack\n- Customizing the maps color",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20230221,
+    "latest_update_release_date": 20230221,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230221
+    },
+    "versions": {
+        "65536": 20230221
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Feast your eyes on crystal clear visuals of reky. Interact with your environment and find a way to reach the finishing...square.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

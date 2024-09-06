@@ -1,4 +1,40 @@
 {
     "id": "0100FA501AFFE800",
-    "version": 131072
+    "base_tid": "0100FA501AFFE000",
+    "name": "Whispike Survivors",
+    "description": "Fight against waves of creatures to beef up your Whispike and use its seeds to create even stronger hybrids! \n\nWhispike Survivors blends two trendy game genres: horde survivor and farm simulator.\nFeatures:\n\n- Defeat hordes of enemies to make your Whispike stronger.\n- Use the seeds that Whispikes drop when dying to grow them in your Whispike farm and make even stronger hybrids!\n- Turn your foes into manure to accelerate the Whispike's growth!\n\n\nIn this game you will control one of Sword of the Necromancer's monsters and make it fight other critters to make it the strongest! Were you defeated? Don't worry! You can take your last monster's seed, plant it and get it back...\n\nOnly \"adult\" Whispikes are eligible to fight, so you will have to wait and take care of your farm until they grow (or play with a default one in the meantime). Also, you might not get exactly what you expect: by planting seeds in neighboring slots you can get hybrids that combine the original seeds' attributes! ",
+    "publisher": "Grimorio of Games",
+    "developer": null,
+    "base_release_date": 20230720,
+    "first_update_release_date": 20230720,
+    "latest_update_release_date": 20230919,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230919
+    },
+    "versions": {
+        "65536": 20230720,
+        "131072": 20230919
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "Cultivate the strongest monster in this horde survivor farming game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
