@@ -1,4 +1,26 @@
 {
     "id": "0100453012FEA800",
-    "version": 131072
+    "base_tid": "0100453012FEA000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20201008,
+    "latest_update_release_date": 20210422,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210422
+    },
+    "versions": {
+        "65536": 20201008,
+        "131072": 20210422
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }

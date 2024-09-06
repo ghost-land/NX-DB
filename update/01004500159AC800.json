@@ -1,4 +1,40 @@
 {
     "id": "01004500159AC800",
-    "version": 65536
+    "base_tid": "01004500159AC000",
+    "name": "HOLY COW! Milking Simulator",
+    "description": "In HOLY COW! You need to lead a journey of an absolutely extraordinary cow who not only needs to survive in this cruel world of meat eaters but also wants to produce and collect the biggest possible amount of milk, no matter if the grass field is on the ground, ocean bottom or inside whale's stomach! ..at the same time trying hard to avoid any love stories.\n\nChoose between campaign, championships to beat every possible enemy wave in four unique worlds! Enjoy dozens of level types consisting of maze, tower defense, arcade and rogue-like schemes.\n\nGear up your cow with fancy clothes, horns and boots won or exchanged for milk after each level. Make yourself uniquely stylish and well prepared for the upcoming waves!\n\n\nChill on a couch with your friends and try to figure out the way to beat yet another level together or play the Championships mode to find out who's the best cow whisperer in multiple competitions!\n\nDisclaimer\nInform your kids that real cows don't use their poo to stun tractors, eat mechanical parts and equip bazookas to shoot down Aladdins.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20211029,
+    "first_update_release_date": 20211029,
+    "latest_update_release_date": 20211029,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211029
+    },
+    "versions": {
+        "65536": 20211029
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Party"
+    ],
+    "intro": "Milk yourself while avoiding lawnmowers, butcher knives and sharks at the same time! Beat hundreds of levels and thousand of enemy waves in the endless journey to fill up the milk tank!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Crude Humour"
+    ],
+    "region": null
 }

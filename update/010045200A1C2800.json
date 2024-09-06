@@ -1,4 +1,38 @@
 {
     "id": "010045200A1C2800",
-    "version": 65536
+    "base_tid": "010045200A1C2000",
+    "name": "Ultimate Runner",
+    "description": "Ready, set, go!!! \nTerrifying cannibals take up the action-packed pursuit of a daredevil adventurer. Let the wild chase begin! The brave explorer runs for his life with the natives always hot on his heels. Burn some rubber and help the nimble guy escape!\n\n• Play as 5 comically animated characters\n• Evade obstacles and skillfully dodge your enemies\n• Collect coins and trophies\n• Challenge mode: With an internal high score list for each player profile created\n• 2 different difficulty levels\n• Endless fun",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20230224,
+    "first_update_release_date": 20190106,
+    "latest_update_release_date": 20190106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190106
+    },
+    "versions": {
+        "65536": 20190106
+    },
+    "category": [
+        "Action",
+        "Sports",
+        "Racing",
+        "Other"
+    ],
+    "intro": "Ready, set, go!!! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
