@@ -1,4 +1,38 @@
 {
     "id": "01001BB014512800",
-    "version": 65536
+    "base_tid": "01001BB014512000",
+    "name": "Alchemist Simulator",
+    "description": "Take on the role of a novice student of alchemical arts, taking over the studio of your famous relative. Will you ever match his legend? Take the challenge to become the most famous alchemist in history!\n\nBecome a powerful magician! Thanks to Alchemist Simulator, you can feel the thrill of excitement associated with the world of magical ingredients (dragon egg - what to deal with it?), spells, and discovering ancient recipes. Will you brew a love potion or a poison?\n\nDiscover an amazing world full of ancient, forgotten recipes and ingredients. Experiment. Be patient and hungry for knowledge. Fortunately, you are not alone - your extraordinary mentor will help you explore the previously unknown arcana of alchemical knowledge and art! Your eternal glory, gold and ... knowledge are at stake!",
+    "publisher": "Art Games Studio",
+    "developer": null,
+    "base_release_date": 20210312,
+    "first_update_release_date": 20220414,
+    "latest_update_release_date": 20220414,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220414
+    },
+    "versions": {
+        "65536": 20220414
+    },
+    "category": [
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Become the mystical alchemist, choose your contracts wisely as they will shape the world around you, discover the long forgotten magical recipes, upgrade your lab.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

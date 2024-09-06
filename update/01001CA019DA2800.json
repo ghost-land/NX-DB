@@ -1,4 +1,32 @@
 {
     "id": "01001CA019DA2800",
-    "version": 65536
+    "base_tid": "01001CA019DA2000",
+    "name": "Pretty Princess Magical Garden Island",
+    "description": "A Royally Sweet Sim!\n\nCultivate crops and raise livestock in this fun fantasy farming simulation game where you are free to play as you wish. \n\nRoam the island to collect ingredients and materials to craft the goods the residents need. Back on your farm, plant seeds to raise crops that will grow over time and collect milk and eggs from your animals.\n\nUse the money and goodwill you earn from your hard work to decorate the island and make it your perfectly royal fantasy home.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20230622,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20231010,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231010
+    },
+    "versions": {
+        "65536": 20231010
+    },
+    "category": [
+        "Simulation",
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

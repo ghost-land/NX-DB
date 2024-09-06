@@ -1,4 +1,32 @@
 {
     "id": "01001B700220A800",
-    "version": 131072
+    "base_tid": "01001B700220A000",
+    "name": "レゴ®ニンジャゴー ムービー ザ・ゲーム",
+    "description": "2017年9月30日公開、大人気アニメシリーズの映画版『レゴ®ニンジャゴー ザ・ムービー』が、映画のストーリーはそのままにゲームになった！ロイド、カイ、ジェイ、コール、ゼン、ニャーの6人の最強ニンジャとして、スキルを磨き、秘めた力を発揮！「仲間の絆」を信じ、「あきらめない心」と共に、ブラックガーマドンとその軍団から、大事なニンジャゴーシティを守り抜こう！",
+    "publisher": "ワーナー",
+    "developer": null,
+    "base_release_date": 20171019,
+    "first_update_release_date": 20171018,
+    "latest_update_release_date": 20171122,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171122
+    },
+    "versions": {
+        "65536": 20171018,
+        "131072": 20171122
+    },
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": "映画『ニンジャゴー』がゲームになった！\n秘めた力を発揮して、究極のニンジャを目指そう！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

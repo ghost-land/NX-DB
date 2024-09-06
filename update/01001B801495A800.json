@@ -1,4 +1,35 @@
 {
     "id": "01001B801495A800",
-    "version": 65536
+    "base_tid": "01001B801495A000",
+    "name": "ASMR Journey - Jigsaw Puzzle",
+    "description": "The journey starts with a girl opening the door to her bookstore in the corner of living room. It was the little witch who sell magic books. At hand was his new volume, with a peculiar name. But what journey would that be? Maybe we all need to know. \n\nThe secrete for a creative and serene mind is the magic for an eternal life\n\nFeatures:\n\n- Zoom the scene;\n- Highlight border pieces;\n- Shuffle the remaining pieces;\n- Preview the image complete;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20210713,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Adventure",
+        "Lifestyle"
+    ],
+    "intro": "A jigsaw puzzle game that takes you on a relaxing visit to lively and magical environments with a peaceful and serene environments.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01001C40079BC800",
-    "version": 65536
+    "base_tid": "01001C40079BC000",
+    "name": "マーセナリーズサーガ クロニクルズ",
+    "description": "ファンタジー世界を舞台にした本格タクティカルシミュレーションRPG\n「マーセナリーズサーガ」シリーズの3つの物語がNintendo Switchに登場しました！\n\n戦闘は高低差のあるクォータビューのマップで行われ、正面・背後・横方向で変わる戦闘結果、味方キャラの立ち位置による援護効果など戦略性の高さが特徴です。\n\n戦闘で得たスキルポイントを使用して、スキルの修得や強化、クラスチェンジなど、自由度の高いキャラクター育成が楽しめます。",
+    "publisher": "ライドオンジャパン",
+    "developer": null,
+    "base_release_date": 20180118,
+    "first_update_release_date": 20180502,
+    "latest_update_release_date": 20180502,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180502
+    },
+    "versions": {
+        "65536": 20180502
+    },
+    "category": [
+        "ロールプレイング",
+        "シミュレーション"
+    ],
+    "intro": "Nintendo Switchで蘇る3つの傭兵物語！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "犯罪",
+        "言葉・その他"
+    ],
+    "region": null
 }

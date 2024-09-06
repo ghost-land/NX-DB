@@ -1,4 +1,34 @@
 {
     "id": "01001B800D742800",
-    "version": 65536
+    "base_tid": "01001B800D742000",
+    "name": "Robot Squad Simulator",
+    "description": "Deal with the hardest missions which can't be performed directly by people due to the conditions.\nHuman life and safety is in your hands!\n\nGame features:\n- 4 different robots: 2 terrestrial, aerial and underwater\n- 6 training missions\n- 16 story missions which take place all over the world, in different settings\n- 10 different accessories mounted on robots\n- plenty of gameplay elements like: guards, explosives, mechanisms\n- upgrading parameters of robots and accessories\n- different types of missions: rescue, spy, exploration, military",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190531,
+    "first_update_release_date": 20190624,
+    "latest_update_release_date": 20190624,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190624
+    },
+    "versions": {
+        "65536": 20190624
+    },
+    "category": [
+        "Action",
+        "Simulation"
+    ],
+    "intro": "Become an elite pilot of special Robot Squad. Use specialized, remotely controlled robots, which you will control yourself.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

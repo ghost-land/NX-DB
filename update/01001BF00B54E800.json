@@ -1,4 +1,35 @@
 {
     "id": "01001BF00B54E800",
-    "version": 65536
+    "base_tid": "01001BF00B54E000",
+    "name": "Spider Solitaire F",
+    "description": "Spider Solitaire F is the first of our “F” (Flyhigh) series. We aim to bring the fun and challenge of classic games to the Nintendo Switch.\n\nIn Spider Solitaire F we have prepared challenges that range from easy to very challenging; there are a total of 100 sets to solve.\n\nFor those learning how to play there is a Hint function, and you can also go ‘one back’ in moves.\n\nSpider Solitaire F is perfect for calm and relaxing moments with the Nintendo Switch, whether playing on the portable or the TV.\n\nWe hope it will be an enjoyable challenge!",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20180913,
+    "first_update_release_date": 20210630,
+    "latest_update_release_date": 20210630,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210630
+    },
+    "versions": {
+        "65536": 20210630
+    },
+    "category": [
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "The classic card game Spider Solitaire is now playable on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
