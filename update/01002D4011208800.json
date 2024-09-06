@@ -1,4 +1,33 @@
 {
     "id": "01002D4011208800",
-    "version": 65536
+    "base_tid": "01002D4011208000",
+    "name": "Task Force Kampas",
+    "description": "Drawing inspiration from the golden age of Japanese shoot‘em ups, Task Force Kampas combines retro action with modern conventions, adding new mechanics and randomly generated stages with hand-crafted bosses. In a unique twist, the game can be finished, but skilled players will find a way to continue past the ending and claim even higher scores! Rhythmic gameplay and a pulsing soundtrack work together to create an intense audio-visual experience.\n\nFeatures:\n\n• Blast through randomized stages with high-intensity gameplay!\n• Challenge a variety of hand-crafted bosses.\n• Test your skill in endless runs to claim the high score on a single credit.\n• Kill enemies to boost your power or stop shooting to repair your ship.\n• Get in the mood with a punchy techno/synthwave soundtrack!\n• Unlock alternate color palettes and extreme difficulties.\n• Save the stranded cocos for unlimited happiness!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20200618,
+    "latest_update_release_date": 20200618,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200618
+    },
+    "versions": {
+        "65536": 20200618
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Arcade space shooter action reimagined!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language"
+    ],
+    "region": null
 }

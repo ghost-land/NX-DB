@@ -1,4 +1,34 @@
 {
     "id": "01002CD00C7C8800",
-    "version": 65536
+    "base_tid": "01002CD00C7C8000",
+    "name": "Mindball Play",
+    "description": "Challenge your family and friends to a fun action packed racing game for all ages. Gather around the TV for split screen, create an online party and race your friends, or play by yourself and take on the time trial leaderboards.\nPractice vs the computer before taking on the competition. Test the different power-ups and get to know the colorful sci-fi tracks— collect skins and customize your ball by beating bosses in the campaign mode. Rest assured, this game will test your focus to the limit. One mistake can cost you the game.\nA physics based racing game where you need to become one with the ball— roll, bounce and push your way to victory.\nEasy to learn, hard to master. Play with your kid on the easier tracks or challenge your friends to become the champion of this difficult racing game!",
+    "publisher": "Interactive IP",
+    "developer": null,
+    "base_release_date": 20190215,
+    "first_update_release_date": 20190313,
+    "latest_update_release_date": 20190313,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190313
+    },
+    "versions": {
+        "65536": 20190313
+    },
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Roll your way to victory! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }

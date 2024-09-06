@@ -1,4 +1,54 @@
 {
     "id": "01002DF00F76C800",
-    "version": 1376256
+    "base_tid": "01002DF00F76C000",
+    "name": "SAMURAI SHODOWN",
+    "description": "SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993. 11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay! Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players’ game actions and patterns in order to create CPU-controlled “ghost” characters. With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!\n\n■Carrying on the Legacy\nThe new game aims to bring the same tense and exhilarating battles that the series is known for. Intense and epic battles are back!\n\n■Evolving the Presentation\nUsing the power of UNREAL® ENGINE 4, the series is able to achieve a level of detail never before seen for a totally new visual experience!\n\n■A Revolutionary new AI system\nUsing revolutionary Deep Learning AI, the game will learn from player tactics and create Ghost characters which players around the globe can share and fight against.",
+    "publisher": "SNK",
+    "developer": null,
+    "base_release_date": 20200225,
+    "first_update_release_date": 20200105,
+    "latest_update_release_date": 20211022,
+    "latest_update": {
+        "version": "1376256",
+        "release_date": 20211022
+    },
+    "versions": {
+        "131072": 20200105,
+        "196608": 20200225,
+        "262144": 20200226,
+        "327680": 20200401,
+        "393216": 20200513,
+        "458752": 20200514,
+        "524288": 20200625,
+        "589824": 20200805,
+        "720896": 20210315,
+        "786432": 20210401,
+        "917504": 20210427,
+        "983040": 20210514,
+        "1048576": 20210614,
+        "1114112": 20210617,
+        "1245184": 20210818,
+        "1310720": 20210903,
+        "1376256": 20211022
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "SAMURAI REBOOT!\nA brand new SAMURAI SHODOWN game takes aim for the world stage!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

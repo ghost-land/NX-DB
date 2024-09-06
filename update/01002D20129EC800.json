@@ -1,4 +1,34 @@
 {
     "id": "01002D20129EC800",
-    "version": 131072
+    "base_tid": "01002D20129EC000",
+    "name": "Sakura In Gameland",
+    "description": "Sakura has been teleported to GameLand by it's helpless residents to battle the threat of the invading Wizard of Woe and his collection of malevolent monsters.\n\nIn this 2D platformer help Sakura blast her way through multiple levels across eight areas of GameLand, overcoming the many obstacles put in her way.\n\nCan you reach the castle of the vile Wizard and free GameLand from his evil clutches before it's to late!",
+    "publisher": "Pixel Bamboo Software",
+    "developer": null,
+    "base_release_date": 20210408,
+    "first_update_release_date": 20210601,
+    "latest_update_release_date": 20210702,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210702
+    },
+    "versions": {
+        "65536": 20210601,
+        "131072": 20210702
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": "The evil Wizard of Woe has invaded Gameland",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

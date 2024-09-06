@@ -1,4 +1,34 @@
 {
     "id": "01002DB01B6C0800",
-    "version": 65536
+    "base_tid": "01002DB01B6C0000",
+    "name": "Spectrolite",
+    "description": "Spectrolite is a unique take on first-person platformers, where you can experience the mix of thrilling atmospheric levels and intense timed challenges. Use rethought traditional platforming mechanics spiced up with powerful abilities to experience a level of precision new to the genre!\n\nEnjoy large scale hand-crafted levels with diverse environments and soundtrack, and bite sized time trials, where you can compare your skills against others on the global leaderboards. Learn from your mistakes and master every speedrunning challenge by observing the ghosts of other players!\n\nFeatures\n- Discover large scale hand-crafted levels\n- A diverse, original soundtrack\n- Tight and precise controls\n- Improve your personal records in time trial mode\n- Compete in global leaderboards",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20230523
+    },
+    "category": [
+        "Racing",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

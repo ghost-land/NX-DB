@@ -1,4 +1,48 @@
 {
     "id": "01002CC003FE6800",
-    "version": 393216
+    "base_tid": "01002CC003FE6000",
+    "name": "Starlink: Battle for Atlas™ Digital Edition",
+    "description": "Lead a group of interstellar pilots dedicated to free the Atlas Star System from Grax and the Forgotten Legion. Featuring guest pilot Fox McCloud and his Arwing. Plus bonus Star Fox missions!\n\nStart your adventure with 5 Starships, 7 pilots, and 12 weapons – all included. \n\nStarships:\nArwing\nZenith\nNeptune\nPulse\nLance \n\nPilots:\nFox McCloud\nMason Rana \nLevi McCray\nJudge\nChase da Silva\nHunter Hakka\nRazor Lemay \n\nWeapons:\nFlamethrower \nFrost Barrage \nShredder\nIron Fist\nCrusher\nShockwave\nLevitator\nVolcano\nImploder\nFreeze Ray Mk.2\nShredder Mk.2\nGauss Gun Mk.2 \n\nMix and match parts to customize your starship, and build your own playstyle with unique pilot abilities and weapons. Nintendo Switch™ System exclusive:  Fox McCloud pilot, Arwing ship, and exclusive missions!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20181213,
+    "first_update_release_date": 20181004,
+    "latest_update_release_date": 20210722,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210722
+    },
+    "versions": {
+        "65536": 20181004,
+        "131072": 20181120,
+        "196608": 20181221,
+        "262144": 20190429,
+        "327680": 20190513,
+        "393216": 20210722
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

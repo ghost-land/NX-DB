@@ -1,4 +1,50 @@
 {
     "id": "01002DE00C250800",
-    "version": 720896
+    "base_tid": "01002DE00C250000",
+    "name": "Children of Morta",
+    "description": "Children of Morta sets its story in a distant land but copes with themes closer to our daily lives that one would expect. It is a story of simple emotions we all know so well and value more than sometimes we dare to admit: love and hope, longing and uncertainty, ultimately loss and sacrifice we are willing to make to save the ones we care the most for.\n\nEmbark on the adventure of an extraordinary family of heroes. With the Corruption spreading through the land, guardians of the Mountain Morta have to stand up against the ancient evil. But... it's not a story about saving the universe. It’s a story about a valiant family standing together while the world around them is being devoured by darkness.\n\nFEATURES:\n- rogue-lite with a strong storyline\n- 7 playable characters\n- emotional tale focused on a family of heroes\n- a diverse set of skills\n- passive and active items modifying each run\n- multiple dungeons set in different biomes\n- a rich world full of history and magic\n- Family Trials - a mode separate from the Main Story campaign, offering new systems, items, objectives, character builds, and more - all set in a series of completely randomized dungeons.\n",
+    "publisher": "11 bit studios",
+    "developer": null,
+    "base_release_date": 20191121,
+    "first_update_release_date": 20191105,
+    "latest_update_release_date": 20211007,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20211007
+    },
+    "versions": {
+        "65536": 20191105,
+        "131072": 20200206,
+        "196608": 20200507,
+        "262144": 20200522,
+        "327680": 20200624,
+        "393216": 20200709,
+        "458752": 20200824,
+        "524288": 20210407,
+        "589824": 20210611,
+        "720896": 20211007
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "It runs in the family",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy themes and violence"
+    ],
+    "region": null
 }

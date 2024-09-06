@@ -1,4 +1,32 @@
 {
     "id": "01002CD016A7C800",
-    "version": 65536
+    "base_tid": "01002CD016A7C000",
+    "name": "Air Stunt Racing",
+    "description": "Air Stunt Racing is a original, 3D high speed air racing with stunt planes!\n\nCompete in high-adrenaline races of six, with boosters, riffles and power ups.\n\nMain features:\n-Solo or local Multiplayer (2 players)\n-2 Game Modes (Arcade, Time-trial)\n-6 Tracks\n-8 different planes\n-Full 3D\n-High-Res Graphics\n\nShow your flying skills!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20211105,
+    "first_update_release_date": 20211029,
+    "latest_update_release_date": 20211029,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211029
+    },
+    "versions": {
+        "65536": 20211029
+    },
+    "category": [
+        "Arcade",
+        "Racing"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

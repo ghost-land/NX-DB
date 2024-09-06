@@ -1,4 +1,47 @@
 {
     "id": "01002CB01ECB2800",
-    "version": 262144
+    "base_tid": "01002CB01ECB2000",
+    "name": "Super Woden GP II",
+    "description": "Get ready to climb your way to the top of the motor sports world! Super Woden GP II is a love letter to the sport and arcade racing games of the ’90s. Compete in a wide variety of event types, from rally to endurance racing, in classic isometric style, using an intuitive central map interface to buy and tune vehicles, explore circuits across the world, visit your garage and more.\n\nObtain more than 180 vehicles from 9 car manufacturers using the credits you earn in racing events and unlock secret cars through skillful play. Race solo, challenge other players’ records or enjoy split-screen local multiplayer for up to 4 drivers!\n\nFeatures:\n\n• Explore an intuitive overworld map filled with event locations and facilities!\n• Use credits earned in races to acquire more than 180 vehicles from 9 manufacturers.\n• Tune your car for maximum performance and change its design in the paint shop!\n• Compete in a wide variety of circuits and rally stages.\n• Race solo or challenge your friends in split-screen for up to 4 players!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240724,
+    "first_update_release_date": 20240618,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240618,
+        "131072": 20240719,
+        "196608": 20240818,
+        "262144": 20240829
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Experience a love letter to the world of motorsports as you climb the ranks and collect your dream cars!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

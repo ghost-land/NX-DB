@@ -1,4 +1,34 @@
 {
     "id": "01002C90133CA800",
-    "version": 65536
+    "base_tid": "01002C90133CA000",
+    "name": "Pixel Game Maker Series The Witch and The 66 Mushrooms",
+    "description": "■Game Features\nOperate the lovely witches and enjoy light-hearted action games!\nAvenge your enemies with a variety of attack methods, including knives, swords, and hammers\nExplore the vast stages and try to reveal all the maps!\nFind all the hidden mushrooms! There are also mushrooms that appear under special conditions!\nIn front of the house there is a friendly crow who will give you tips, so you can rest assured\nSolving the mystery hidden in the menu screen...\n\n■Story\nA brother and sister trapped by the Wicked Witch\nOne rainy night, we worked together to defeat the witch\n\nBut the witch's evil spirit remains and takes the body of her brother\nThe soul of the extruded brother was crushed by the witch and turned into 66 pieces\n\nThe girl picked up a witch's hat left on the floor\nDetermined to save his brother with magical powers\n\n■Game Overview\nThis is an exploratory 2D action-adventure game in which players explore vast stages while making use of a variety of weapons.\nThe game was developed using Pixel Game MV, which allows anyone to easily create action games.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20210122,
+    "first_update_release_date": 20210406,
+    "latest_update_release_date": 20210406,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210406
+    },
+    "versions": {
+        "65536": 20210406
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Adventure through the vast stages and get back your brother's body, which was stolen by a witch!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

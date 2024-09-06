@@ -1,4 +1,38 @@
 {
     "id": "01002DB007A96800",
-    "version": 131072
+    "base_tid": "01002DB007A96000",
+    "name": "Legend of Kay Anniversary",
+    "description": "\"Mastering others is strength. Mastering yourself is true power.\" - Lao Tzu\n\n10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.\n\nExperience the unique blend of Martial Arts-combat, action adventure, Jump 'n' Run and puzzle solving\nMeet, befriend or fight loads of quirky animal characters like Gorillas, Rats, Foxes, Hares, Pandas and Frogs\nLearn to master various weapons and special skills to defeat hordes of well-armed enemies\nConfront huge bosses to test your Martial Arts skills\nDiscover and secure the treasures of the demons’ underworld\nExplore a world inspired by the threats and beauties of ancient China, by foot, well, paw, or on the back of a wild boar, a wolf or even a dragon\n",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20180529,
+    "first_update_release_date": 20180625,
+    "latest_update_release_date": 20220617,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220617
+    },
+    "versions": {
+        "65536": 20180625,
+        "131072": 20220617
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null
 }

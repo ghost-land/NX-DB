@@ -1,4 +1,57 @@
 {
     "id": "01002CC0062B8800",
-    "version": 1245184
+    "base_tid": "01002CC0062B8000",
+    "name": "DEEMO",
+    "description": "\"Deemo\" is a simple rhythm game set in a fantasy world filled with beautiful imagery.\n\nTouch the \"notes\" that stream toward the screen in time with the music.\nThe system is easy to understand, and players are able to enjoy gameplay which resembles playing a piano.\n\nThere are over 200 pieces of music to choose from, with difficulty levels of EASY, NORMAL, and HARD.\nSuitable for rhythm game beginners and experienced players who need more of a challenge.\n\nMusic is created mostly by Taiwanese and Japanese composers, with a diverse selection of vocal and instrumental songs spanning a wide range of genres.\n\n[The Story]\nDeemo is a mysterious being who lives alone in a castle, playing the piano to itself.\nOne day, a little girl with no memory falls from the sky, breaking his solitude.\n\nDeemo feels compelled to help her get home to her world. \nWhile looking for a way to return her to the sky, Deemo notices a small sapling which grows the more music is played.\nIf Deemo is able to make it grow into a tree, tall enough so it would reach the window in the ceiling, she may just be able to get home.\n\nAs the two interact, Deemo learns what it means to have a friend.\nWhat awaits the two when the little girl regains her memory?\nThis is a slightly strange, touching tale.",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20170928,
+    "first_update_release_date": 20180215,
+    "latest_update_release_date": 20220216,
+    "latest_update": {
+        "version": "1245184",
+        "release_date": 20220216
+    },
+    "versions": {
+        "65536": 20180215,
+        "131072": 20180321,
+        "196608": 20180425,
+        "262144": 20180523,
+        "327680": 20180627,
+        "458752": 20181024,
+        "524288": 20181107,
+        "589824": 20190128,
+        "655360": 20190821,
+        "720896": 20201101,
+        "786432": 20201125,
+        "851968": 20201214,
+        "917504": 20210714,
+        "983040": 20210825,
+        "1048576": 20210930,
+        "1114112": 20211103,
+        "1179648": 20211222,
+        "1245184": 20220216
+    },
+    "category": [
+        "Music",
+        "Other"
+    ],
+    "intro": "\"Never left without saying goodbye.\"\nOne of the most memorable fantasy rhythm games now available on Nintendo Switch™.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

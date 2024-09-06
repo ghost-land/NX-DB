@@ -1,4 +1,25 @@
 {
     "id": "01002CD00CB94800",
-    "version": 65536
+    "base_tid": "01002CD00CB94000",
+    "name": "Desktop Soccer Trial Edition - Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20210929,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210929
+    },
+    "versions": {
+        "65536": 20210929
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }
