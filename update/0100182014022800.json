@@ -1,4 +1,51 @@
 {
     "id": "0100182014022800",
-    "version": 458752
+    "base_tid": "0100182014022000",
+    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+    "description": "Experience the genre-defining classic, updated for a new generation with across-the-board enhancements including brilliant new lighting and environmental upgrades, with high-resolution textures, increased draw distance, Grand Theft Auto V-style controls and targeting, and much more.\n \nWelcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti’s tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities.\n\nDeveloped by Rockstar Games, adapted by Grove Street Games.",
+    "publisher": "ROCKSTAR GAMES",
+    "developer": null,
+    "base_release_date": 20211111,
+    "first_update_release_date": 20211028,
+    "latest_update_release_date": 20221018,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20221018
+    },
+    "versions": {
+        "131072": 20211028,
+        "196608": 20211103,
+        "262144": 20211122,
+        "327680": 20211202,
+        "393216": 20220224,
+        "458752": 20221018
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Sexual Content",
+        "Strong Lyrics",
+        "Use of Drugs"
+    ],
+    "region": null
 }

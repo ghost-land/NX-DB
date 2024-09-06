@@ -1,4 +1,44 @@
 {
     "id": "010018100CD46800",
-    "version": 196608
+    "base_tid": "010018100CD46000",
+    "name": "Resident Evil 5",
+    "description": "One of the most popular Resident Evil titles can now be played on the go, featuring Chris Redfield and his partner Sheva Alomar, as they venture to the heart of Africa to investigate an outbreak.  Featuring single-player and co-op modes, this fully-loaded package includes all previously released DLC (Lost in Nightmares and Desperate Escape story expansions, Versus mode, extra figures and 4 costumes), No Mercy mode, as well as the new mode “The Mercenaries United” which combines the two fan-favorite modes, The Mercenaries and The Mercenaries Reunion for an even more intense experience.",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20221204,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221204
+    },
+    "versions": {
+        "131072": 20220201,
+        "196608": 20221204
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Fear You Can't Forget",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "01001880191FE800",
-    "version": 131072
+    "base_tid": "01001880191FE000",
+    "name": "Tormentor-Action Fire Counter Shooter Game 2023 Gun Strike Simulator",
+    "description": "  Welcome to Tormentor, the ultimate 3D multiplayer first-person shooter game! In this fast-paced game, players need to have quick reflexes and tactical skills to emerge victorious. \n\nAs a player, you get to choose your weapons and skins and compete against other players in intense battles.  \n\n   Tormentor is an exciting multiplayer shooter game that offers an immersive gaming experience. in addition to exciting game modes and character customization, Tormentor ,also offers a wide variety of weapons to choose.Tormentor is sure to keep you engaged for hours on end. So what are you waiting for? Join the battle and prove your worth as a Tormentor champion!",
+    "publisher": "Erlano",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230419,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20230419,
+        "131072": 20240207
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Shooter"
+    ],
+    "intro": "Are you ready for an adrenaline-filled adventure? If yes, then it's time to take your weapon and join the ultimate shooting game - Tormentor!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010018800C7D2800",
-    "version": 65536
+    "base_tid": "010018800C7D2000",
+    "name": "Robox",
+    "description": "Robox is an easy to play fast action, fierce fighting game with breathtaking graphics that will make you want to play match after match.\n\nWith four rounds of hard-hitting arcade action that will test your boxing skills to the limit and be the ultimate boxing champion. \n\nPlay against your friends or against the smart artificial intelligence (AI) Robox player, fighting to knock the opponent out with a devastating final punch and experience the true might of steel, either way, winning won’t come easy. \n\nGrab the advantage with the “Power Ups” which randomly appear in the two player game, the player who grabs it first collects the extra force needed for that knock-out punch which sends the opponent to the ground.\n \nBe a winner with the most knock-outs or by holding on to the most health in each round. Win the game by beating your opponent in the most rounds. Bathe in the glory of being a winner.\n\n",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20190422,
+    "first_update_release_date": 20210807,
+    "latest_update_release_date": 20210807,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210807
+    },
+    "versions": {
+        "65536": 20210807
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

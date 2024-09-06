@@ -1,4 +1,42 @@
 {
     "id": "010017601AD6A800",
-    "version": 131072
+    "base_tid": "010017601AD6A000",
+    "name": "The Making of Karateka",
+    "description": "Prince of Persia creator Jordan Mechner was a college student when he created one of the biggest-selling games of 1984: Karateka. Now, in a new interactive documentary from Digital Eclipse, the story of how a teenager with an Apple II created one of the most groundbreaking, influential games of all time.\n\nTHE ORIGIN STORY OF A LEGENDARY GAME CREATOR\n\nDiscover how Karateka was made through an exhaustive archive of design documents, playable prototypes, and all-new video features. Like walking through a museum, you can explore the interactive timelines at your own pace.\n\nPLAY THE ACCLAIMED ORIGINALS\n\nEnjoy pixel-perfect versions of the original Karateka games and a variety of never-before-seen early prototypes, with rich quality-of-life features like save anywhere, rewind, chapter select, and director's commentary.\n\nTWO REMASTERED GAMES\n\nKarateka Remastered is an all-new version of the original game featuring cutting-room-floor content, commentary, achievements, and more. Deathbounce: Rebounded is a fast and frantic twin-stick shooter based on Jordan's unpublished prototype.\n\nA GROUNDBREAKING MASTERPIECE\n\nDiscover how Karateka became one of the first games to include cinematic scenes, a moving original soundtrack, rotoscoped animation, and a Hollywood-style love story, influencing the decades of games that followed.\n\nTHE GOLD MASTER SERIES\n\nNew from Digital Eclipse (Teenage Mutant Ninja Turtles: The Cowabunga Collection, Atari 50: The Anniversary Celebration), the Gold Master Series presents iconic games in an innovative \"interactive documentary\" format, putting the shared history of games and their creators into one comprehensive package.",
+    "publisher": "Digital Eclipse",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20240101,
+    "latest_update_release_date": 20240304,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240304
+    },
+    "versions": {
+        "65536": 20240101,
+        "131072": 20240304
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Play the history of Prince of Persia creator Jordan Mechner's landmark debut game, Karateka.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

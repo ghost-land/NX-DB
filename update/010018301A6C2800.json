@@ -1,4 +1,38 @@
 {
     "id": "010018301A6C2800",
-    "version": 262144
+    "base_tid": "010018301A6C2000",
+    "name": "Last Escape: Dead Complex",
+    "description": "Dead Complex is a 2D Top Down, Survival Horror Game.\nSneak, Loot and Fight your way out of an infested apartment complex and begin your final escape from the city.\n\nFeatures:\n- Classic Survival Horror Gameplay\n- Loot System\n- Multiple Endings",
+    "publisher": "Mad Jackal Games",
+    "developer": null,
+    "base_release_date": 20231201,
+    "first_update_release_date": 20231201,
+    "latest_update_release_date": 20240529,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240529
+    },
+    "versions": {
+        "65536": 20231201,
+        "131072": 20231206,
+        "196608": 20240125,
+        "262144": 20240529
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Survival Horror Game",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

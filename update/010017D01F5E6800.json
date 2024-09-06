@@ -1,4 +1,45 @@
 {
     "id": "010017D01F5E6800",
-    "version": 196608
+    "base_tid": "010017D01F5E6000",
+    "name": "Exhausted Man",
+    "description": "Exhausted Man is a physics-comedy game, where you help an exhausted person get through a night that is crucial to him/her. Do everything while lying down, decorate the room to your taste, get tonight's ending through your choices.\n\nFeatures:\n• The protagonist can only crawl…\n• The goal is clear tonight! But there is so much to do…\n• You can take a nap anytime…zZZ",
+    "publisher": "Candleman Games",
+    "developer": null,
+    "base_release_date": 20240801,
+    "first_update_release_date": 20240708,
+    "latest_update_release_date": 20240904,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240904
+    },
+    "versions": {
+        "65536": 20240708,
+        "131072": 20240711,
+        "196608": 20240728,
+        "262144": 20240904
+    },
+    "category": [
+        "Simulation",
+        "Action"
+    ],
+    "intro": "You're so exhausted you can only crawl, but still refuse to sleep.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

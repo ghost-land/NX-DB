@@ -1,4 +1,37 @@
 {
     "id": "010018100F688800",
-    "version": 131072
+    "base_tid": "010018100F688000",
+    "name": "Princess Maker Go!Go! Princess",
+    "description": "The elements of the Princess Maker series remain intact!\nThe ability status is up through various events, training, and part-time jobs in the field!\nRival, study, part-time job and love....\nThe tumultuous eight years will begin on the board!\n\nOnly the dice knows the destiny!\nUzu and Cube The navigator to help your daughter. \nThrow a dice and go on an adventure with the friend who will decide your daughter's fate!\n\nThe desperate competition to take a step closer to the prince!\nThere are more than 100 various events waiting on the road.\nThere will also be a confrontation that can't be backed down for a happy future!\n\nSupport to play with up to 4 players, Princess Maker Go! Go! Princess \nWho will become a princess?",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20191223,
+    "first_update_release_date": 20200120,
+    "latest_update_release_date": 20210727,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210727
+    },
+    "versions": {
+        "65536": 20200120,
+        "131072": 20210727
+    },
+    "category": [
+        "Simulation",
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "All of Princess Maker's daughters gathered in one place!\nFighting and Life simulation game by using the dice!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Nudity"
+    ],
+    "region": null
 }

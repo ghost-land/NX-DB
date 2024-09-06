@@ -1,4 +1,33 @@
 {
     "id": "010017500630C800",
-    "version": 131072
+    "base_tid": "010017500630C000",
+    "name": "真・三國無双７ Empires",
+    "description": "一騎当千の爽快アクションと\"国取り\"のシミュレーション要素の両方が楽しめる『真・三國無双７ Empires』がNintendo Switchに登場！\nプレイヤーは、三国時代に生きる英傑となり、政略や戦闘を行いながら全土の統一を目指す！\n本作では、プレイヤーの決断により展開が多彩に変化する、自由度の高いゲーム性を実現。\n個人の成長から勢力の盛衰まで、さまざまなドラマを表現し、プレイヤーの三国志体験を盛り上げる。",
+    "publisher": "コーエーテクモゲームス",
+    "developer": null,
+    "base_release_date": 20171109,
+    "first_update_release_date": 20171108,
+    "latest_update_release_date": 20180206,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180206
+    },
+    "versions": {
+        "65536": 20171108,
+        "131072": 20180206
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "—— その先を、見極めよ。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

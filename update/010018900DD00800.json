@@ -1,4 +1,46 @@
 {
     "id": "010018900DD00800",
-    "version": 655360
+    "base_tid": "010018900DD00000",
+    "name": "DOOM (1993)",
+    "description": "Celebrate DOOM’s 25th anniversary with the  re-release of the original DOOM (1993). First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nExperience the classic demon-blasting fun that popularized the genre home or on-the-go.\n\nDOOM (1993) includes:\n - The expansion, Episode IV: Thy Flesh Consumed, with 9 additional action-packed levels \n- Local 4 player deathmatch\n- Local 4 player co-op ",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20190726,
+    "latest_update_release_date": 20220215,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20220215
+    },
+    "versions": {
+        "65536": 20190726,
+        "131072": 20190815,
+        "196608": 20190927,
+        "262144": 20200109,
+        "327680": 20200331,
+        "393216": 20200331,
+        "458752": 20200903,
+        "524288": 20211104,
+        "589824": 20220211,
+        "655360": 20220215
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

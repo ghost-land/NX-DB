@@ -1,4 +1,40 @@
 {
     "id": "010018A01A17E800",
-    "version": 65536
+    "base_tid": "010018A01A17E000",
+    "name": "Curse of the Sea Rats",
+    "description": "海鼠的詛咒 \"是一個 \"ratoidvania \"平台冒險，具有精心製作的手繪動畫。\n四個大英帝國的囚犯被臭名昭著的海盜女巫弗洛拉-伯恩變成了老鼠，踏上了史詩般的旅程。\n為了恢復他們的人類身體，他們將不得不與危險的老闆戰鬥，揭開廣闊的愛爾蘭海岸的秘密，並最終抓住詛咒他們的女巫。",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20230406,
+    "first_update_release_date": 20230526,
+    "latest_update_release_date": 20230526,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230526
+    },
+    "versions": {
+        "65536": 20230526
+    },
+    "category": [
+        "動作",
+        "冒險",
+        "其他"
+    ],
+    "intro": "一部史詩般的、手繪動畫的Metroidvania冒險遊戲，其中包含了勇敢的海盜大鼠!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

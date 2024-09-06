@@ -1,4 +1,45 @@
 {
     "id": "010018600E03E800",
-    "version": 262144
+    "base_tid": "010018600E03E000",
+    "name": "KILL la KILL - IF",
+    "description": "From the makers of Dragonball FighterZ and writer of the anime, Kazuki Nakashima, comes “Kill la Kill The Game: IF”! Perform devastating combos, destroy your opponents, and relive the anime with your favourite scenes from the original series, revived with stunning visuals and cinematics! Discover a brand new story through the eyes of Satsuki as she becomes the protagonist for the very first time!",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20190726,
+    "first_update_release_date": 20190724,
+    "latest_update_release_date": 20200102,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200102
+    },
+    "versions": {
+        "65536": 20190724,
+        "131072": 20190827,
+        "196608": 20191108,
+        "262144": 20200102
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": "New content from the anime after years without any! A game where you can relive your favourite moments as well as enjoy a new story line! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong violence",
+        "Online interactivity"
+    ],
+    "region": null
 }
