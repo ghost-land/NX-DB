@@ -1,4 +1,42 @@
 {
     "id": "010066F01A36A800",
-    "version": 65536
+    "base_tid": "010066F01A36A000",
+    "name": "Splatter - Zombiecalypse Now",
+    "description": "본 게임은 핫라인 마이애미 시리즈에서 영감을 받아 제작하여 마치 한 편의 느와르 영화를 연상케 하는 싱글플레이 탑 다운 슈터 게임입니다. \n\n주인공은 좀비와 괴물들과 싸워야 하는 맥스입니다.\n최대 4인 로컬 멀티플레이어 모드를 지원하며, \n디펜스 모드(PVE) / 프리포올 모드(PVP) 두 가지 모드가 존재합니다.\n",
+    "publisher": "Digital Touch",
+    "developer": null,
+    "base_release_date": 20230105,
+    "first_update_release_date": 20230212,
+    "latest_update_release_date": 20230212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230212
+    },
+    "versions": {
+        "65536": 20230212
+    },
+    "category": [
+        "액션",
+        "어드벤처",
+        "슈팅",
+        "기타"
+    ],
+    "intro": "본 게임은 핫라인 마이애미 시리즈에서 영감을 받아 제작하여 마치 한 편의 느와르 영화를 연상케 하는 싱글플레이 탑 다운 슈터 게임입니다. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "폭력성",
+        "언어의 부적절성"
+    ],
+    "region": null
 }

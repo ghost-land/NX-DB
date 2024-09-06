@@ -1,4 +1,52 @@
 {
     "id": "010066501069C800",
-    "version": 1179648
+    "base_tid": "010066501069C000",
+    "name": "SAMURAI SHODOWN",
+    "description": "The battle cuts its way into the Nintendo Switch™ line-up! From its creation in 1993, the Samurai Shodown series has redefined weapon-based fighting games. 11 years after its most recent release comes a brand new addition on the Nintendo Switch™! Experience the fighting game that took the world by storm!\nPeerless warriors duke it out in 1700's Japan! 13 returning characters are joined by 3 completely new to the series. This latest installment takes place one year before the events of the original Samurai Shodown game, where tensions are still hot in the land of the rising sun! A game that threads the line between suspense and thrills! Classic Samurai Shodown concepts like the Rage Gauge, Lightning Blade, and Super Special Moves make their return! Feel your heart race as you're moments from death, only to turn the tables in one fell swoop! A true fighting game experience is waiting for you on the Nintendo Switch™!\n\nFEATURES:\n● Exhilarating Weapons-Based Combat – Samurai Shodown carries on the legacy of the tense battles the series is known for, where players are always one strike away from death, and one powerful attack away from victory.\n● Play anywhere, anytime, with the Nintendo Switch™ – It's easier than ever to battle a friend using the Nintendo Switch™'s Table Top mode. Simply pass them a Joy-Con™ and have at it! Additionally, you can fight anywhere in the world using Handheld mode!\n● Unique Cast of Returning and New Warriors – Samurai Shodown welcomes back iconic characters from past iterations, including the swordsman Haohmaru, his rivals Ukyo and Genjuro, the shrine maiden Nakoruru, and fan-favorite Galford. The starting roster will include a total of 16 characters - 13 veterans and three newcomers to the franchise.\n● All New Gameplay – Carrying on some of the key fighting mechanics that made the series popular, such as the Rage Gauge, Rage Explosion, Sword Clash and more, Samurai Shodown will also include several new techniques, including a powerful, one-time use attack from each character called the Super Special Move.",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20200225,
+    "first_update_release_date": 20200202,
+    "latest_update_release_date": 20211024,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20211024
+    },
+    "versions": {
+        "131072": 20200202,
+        "196608": 20200226,
+        "262144": 20200401,
+        "327680": 20200506,
+        "393216": 20200514,
+        "458752": 20200624,
+        "524288": 20200808,
+        "589824": 20210315,
+        "655360": 20210401,
+        "720896": 20210427,
+        "786432": 20210514,
+        "851968": 20210614,
+        "917504": 20210617,
+        "1048576": 20210818,
+        "1114112": 20210903,
+        "1179648": 20211024
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Peerless Warriors clash swords in a dance of death!  Prove your worth in a battle of skill against fighters across the globe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

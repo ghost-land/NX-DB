@@ -1,4 +1,41 @@
 {
     "id": "010066401D88E800",
-    "version": 65536
+    "base_tid": "010066401D88E000",
+    "name": "INAZUMA ELEVEN: Victory Road\nWorldwide Beta Test Demo \"Leave Your Inazuma Mark on the World!\"",
+    "description": "Beta testing for the latest entry in the \"Inazuma Eleven\" series is about to begin!\n\nNot only can you enjoy a solitary game with \"1P Match,\" but you can also face off against friends and players from all over the world in an \"Online Match\" or even hop into \"Story Mode\" to experience the beginning of the story!\n*These modes will be released on a staggered schedule.\n\nYou can even train the players you take into these competitions, so let the heated preliminary matches commence!",
+    "publisher": "LEVEL5",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240520,
+    "latest_update_release_date": 20240520,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240520
+    },
+    "versions": {
+        "65536": 20240520
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Sports"
+    ],
+    "intro": "Online tournaments for this all-new game of hyperdimensional football are poised to set the world ablaze!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

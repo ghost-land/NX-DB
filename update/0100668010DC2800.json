@@ -1,4 +1,35 @@
 {
     "id": "0100668010DC2800",
-    "version": 196608
+    "base_tid": "0100668010DC2000",
+    "name": "Sky Mercenaries Redux",
+    "description": "An epic sky battle awaits you! Sky Mercenaries is back with a overhauled 2020 Nintendo Switch™ exclusive Redux edition. Choose your pilot and fighter to join the ultimate 2D polarity S.H.M.U.P action!\n\nFight over 50 enemy types on 8 worlds in over 32 story missions and unlimited random content. Be prepared for the overpowering enemy fleet and challenging bossfights. Upgrade your fighters, drones and pilots the way you like to play them.\n\nGet powerful and permanent visible upgrades, armor and different types of weapons. Level up your pilots and assign skill points in 3 different skill trees to unlock a variety of abilities like auto-shield, critical buffs and more.\n\nJoin the Mercenaries now!",
+    "publisher": "PolarityFlow,",
+    "developer": null,
+    "base_release_date": 20230926,
+    "first_update_release_date": 20201117,
+    "latest_update_release_date": 20201208,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201208
+    },
+    "versions": {
+        "131072": 20201117,
+        "196608": 20201208
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Join the mercenaries and choose your pilot in this epic indie shoot 'em up for 1-2 players.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

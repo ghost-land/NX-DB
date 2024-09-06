@@ -1,4 +1,40 @@
 {
     "id": "010065D01A5E0800",
-    "version": 327680
+    "base_tid": "010065D01A5E0000",
+    "name": "AOISHIRO HD REMASTER",
+    "description": " Syouko Osanai, head of the kendo club at Seijo Gakuin, came\nto Shosin Temple in Unasaka, far to the south for the kendo club's training camp.\n That evening, Syouko and Yasumi Aizawa, the club manager were walking along the beach when they saw a girl lying in the sand. Syouko rescued the girl and found out her name was Nami. From then on, the girl became fond of Syouko and Yasumi. After that, Syouko's fate was changed forever as her destiny unravelled moment, Shoko‘s life changed forever.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230520,
+    "latest_update_release_date": 20240426,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240426
+    },
+    "versions": {
+        "65536": 20230520,
+        "131072": 20230621,
+        "196608": 20230714,
+        "262144": 20231130,
+        "327680": 20240426
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Infinite waves are the heartbeat of the sea god",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null
 }

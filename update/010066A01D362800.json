@@ -1,4 +1,40 @@
 {
     "id": "010066A01D362800",
-    "version": 262144
+    "base_tid": "010066A01D362000",
+    "name": "Sticky Business",
+    "description": "Experience the joy of running your own cozy small business: Create stickers, pack orders and hear your customers’ stories. Time to build the cutest shop on the internet! \n\nYou want a collection of cat stickers? A witch-themed shop? Or add a derpy face to all of your creations? \n\nCombine dozens of elements to create your own collection and sell them to like-minded people. Different stickers attract different customers! You can add some sparkles or holo effects to make them even more special!\n\nPack orders and hear more about your customers' stories every time they buy stickers!\n\nFeatures\n- Get creative and build the cutest stickers out of thousands of possible combinations!\n- Optimize your sticker production by building the perfect sticker sheets and make as much use of your resources as possible!\n- Pack orders for your customers and hear about their lives!\n- Buy upgrades to get more sticker graphics and effect foils to make your shop even more exciting!\n- Add goodies and custom packaging to your orders to make your customers even more happy!",
+    "publisher": "Assemble Entertainment",
+    "developer": null,
+    "base_release_date": 20240417,
+    "first_update_release_date": 20240412,
+    "latest_update_release_date": 20240626,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240626
+    },
+    "versions": {
+        "131072": 20240412,
+        "196608": 20240604,
+        "262144": 20240626
+    },
+    "category": [
+        "Simulation",
+        "Lifestyle"
+    ],
+    "intro": "Create, pack and sell your own unique sticker creations!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010065D012FA0800",
-    "version": 65536
+    "base_tid": "010065D012FA0000",
+    "name": "Azur Lane: Crosswave",
+    "description": "'In this high-octane 3D Action Shooter, historical battle ships  come to 3D life with the help of the Unreal Engine! Control a fleet of cute, but devasting characters and bring any enemy to their knees! Newcomers and returning fans of Azur Lane can play in 4 game modes, including the 100+ battles of Extreme Battle Mode!\n\nWill you be able to sail your fleet to victory, or will you sink into the ocean? \n\nKey Features\nLiving in a 3D World – The beloved Azur Lane mobile game is now retrofitted for the Switch™ as a 3D action shooter with 50+ characters to recruit from! In the Switch version, play through Story Mode through the lens of newcomers Shimakaze and Suruga, plus Taihou and Formidable!\n\nSwitch it Up with 4 Game Modes  – With four different game modes to choose from (Story, Extreme, Photo, and Episode), players can see how the story unfolds, duke it out in intense battles, create picturesque moments with 6 of your favorite ships, and watch how other ships interact with one another! \n\nArm Your Armada – Boost your characters' stats by equipping them with items found after battle or by crafting items. Exchange blueprints to create new gear, convert materials into rare items, and earn special rewards. Experiment with different fleet arrangements before battle for special Fleet Effects - a unique system that provides in-game stat boosts for your fleet!\n\nReady, Aim, Fire - Control, aim, and fire at incoming battleships, aircraft carriers, and other enemies! Depending on the character’s subtype, players can dash to evade attacks or activate defensive shields, unleash torpedoes or aircrafts, and switch-on character-specific special attacks to defeat unruly enemies!\n\nAbout Azur Lane\nAzur Lane is a side-scrolling shooter created by Shanghai Manjuu and Xiamen Yongshi, originally released in 2017 for iOS and Android platforms. The Shanghai-based publisher, Yostar, published the Japanese and English version of the mobile game, popularizing the game to more mobile users across the world. The game takes place in a world where personified battleships from around the globe engage in side-scrolling shooter gameplay.",
+    "publisher": "Idea Factory",
+    "developer": null,
+    "base_release_date": 20210216,
+    "first_update_release_date": 20210216,
+    "latest_update_release_date": 20210216,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210216
+    },
+    "versions": {
+        "65536": 20210216
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Historical battleships come to life to change the tide of battle!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

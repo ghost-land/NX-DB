@@ -1,4 +1,42 @@
 {
     "id": "010065F00F55A800",
-    "version": 262144
+    "base_tid": "010065F00F55A000",
+    "name": "Neighbours back From Hell",
+    "description": "The neighbours from hell return! In this HD Remaster of the beloved childhood gems Neighbours From Hell 1 and 2, you play the star of a cheeky TV Show who is constantly pranking his nasty neighbour in the most creative and hilarious ways. You want to replace a candle with a firework? What about replacing the shaving cream with the whipped cream? Go for it!",
+    "publisher": "HandyGames",
+    "developer": null,
+    "base_release_date": 20201009,
+    "first_update_release_date": 20201014,
+    "latest_update_release_date": 20201215,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201215
+    },
+    "versions": {
+        "131072": 20201014,
+        "196608": 20201029,
+        "262144": 20201215
+    },
+    "category": [
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

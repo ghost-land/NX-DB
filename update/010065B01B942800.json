@@ -1,4 +1,39 @@
 {
     "id": "010065B01B942800",
-    "version": 65536
+    "base_tid": "010065B01B942000",
+    "name": "CorpoNation: The Sorting Process",
+    "description": "With the credits that you earn, you can shop, game and pay your bills on time. Rogue workers may try to entice you into betraying your beloved employer, but we know you'll give 110%.\n\nExperience a linear dystopian narrative, in which you will work as a Lab Technician for a corporately-owned state. Your job is to organise a mysterious collection of genetic samples and remain a model employee, in spite of the rebellious rogue workers that are trying to recruit you. The glorious CorpoNation is counting on you to work diligently and put your money back into the economy.\n\nHOW TO REMAIN A MODEL EMPLOYEE?\n- WORK HARD: Sort through the genetic samples by their characteristics, making modifications where needed.\n- PUT YOUR MONEY BACK INTO THE ECONOMY: Use your wages to shop for items to decorate your room.\n- RELAX AND UNWIND: Climb the leaderboards on the State-Approved gaming platform.\n- STAY INFORMED: Chat with your colleagues, complete corporate surveys and keep up with the news.",
+    "publisher": "Playtonic Friends",
+    "developer": null,
+    "base_release_date": 20240509,
+    "first_update_release_date": 20240419,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20240419
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Greetings, valued employee. You have been tasked with sorting the Ringo CorpoNation's genetic samples.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

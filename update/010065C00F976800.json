@@ -1,4 +1,37 @@
 {
     "id": "010065C00F976800",
-    "version": 65536
+    "base_tid": "010065C00F976000",
+    "name": "Arcade Archives HYPER SPORTS",
+    "description": "\"HYPER SPORTS\" is a sports game released by KONAMI in 1984.\nCompete for top place in a total of 7 events: swimming, clay shooting, vaulting horse, archery, triple jump, weight lifting, and pole vault.\nUp to 4 players can play at once, in what is sure to be a great time!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20191129,
+    "first_update_release_date": 20191210,
+    "latest_update_release_date": 20191210,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191210
+    },
+    "versions": {
+        "65536": 20191210
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Challenge a variety of 7 sporting events! Claim the top score with your own hands!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

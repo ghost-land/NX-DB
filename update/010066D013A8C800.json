@@ -1,4 +1,35 @@
 {
     "id": "010066D013A8C800",
-    "version": 131072
+    "base_tid": "010066D013A8C000",
+    "name": "Air Bounce - The Jump 'n' Run Challenge",
+    "description": "Jump or Die!\nAIR BOUNCE - THE JUMP 'N' RUN CHALLENGE is a fast-paced crazy difficult sometimes rage-inducing 3d first-person platformer. Are you ready for the challenge?",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20210122,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20210225,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210225
+    },
+    "versions": {
+        "65536": 20210224,
+        "131072": 20210225
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Racing",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

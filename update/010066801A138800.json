@@ -1,4 +1,31 @@
 {
     "id": "010066801A138800",
-    "version": 65536
+    "base_tid": "010066801A138000",
+    "name": "やはりゲームでも俺の青春ラブコメはまちがっている。完",
+    "description": "ゲームでは、6人のヒロインを中心にアニメとも原作とも違う、それぞれの新しいストーリーを楽しめます。\n主人公・八幡とヒロインたちの物語が向かう先は……プレイヤーである君の手にゆだねられた！",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20230426,
+    "latest_update_release_date": 20230426,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230426
+    },
+    "versions": {
+        "65536": 20230426
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "TVアニメ『やはり俺の青春ラブコメはまちがっている。完』を基に6つのルートに分岐するオリジナルストーリーが展開。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }

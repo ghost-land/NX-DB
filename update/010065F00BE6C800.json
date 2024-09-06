@@ -1,4 +1,35 @@
 {
     "id": "010065F00BE6C800",
-    "version": 262144
+    "base_tid": "010065F00BE6C000",
+    "name": "Growtopia®",
+    "description": "Welcome to Growtopia, the world’s most creative free to play sandbox! \nGrowtopia is a popular MMO game where everyone is a hero! Play together with wizards, doctors, star explorers and superheroes! Discover thousands of unique items and build your own worlds!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20190705,
+    "latest_update_release_date": 20191104,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20191104
+    },
+    "versions": {
+        "65536": 20190705,
+        "131072": 20190705,
+        "196608": 20190927,
+        "262144": 20191104
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes",
+        "Online interactivity"
+    ],
+    "region": null
 }

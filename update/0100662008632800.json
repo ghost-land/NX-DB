@@ -1,4 +1,38 @@
 {
     "id": "0100662008632800",
-    "version": 65536
+    "base_tid": "0100662008632000",
+    "name": "Spy Chameleon",
+    "description": "Don't let the comic look fool you. Being a good RGB agent requires a lot of talent.\n \nSpy Chameleon is an arcade-puzzle game where the player must avoid being seen thanks to the chameleon's ability to change colors and camouflage.\n \nThrough 5 missions and 75 levels, the player will discover different enemies and abilities to complete these super-secret missions: taking photos of a celebrity with her lover and stealing the secret formula of a successful soft drink are just two examples.\n \nWatch your enemies, choose the best path and run to the next safe point. The duration of each level can mean finishing a game in just minutes or spending hours trying to complete the missions and all the challenges, getting the best time among your friends or completing all the achievements.\n \nGame features:\n - change colors to camouflage yourself with your surroundings\n - 75 levels where the difficulty increases as you learn new mechanics\n - 3 challenges in each level: gather collectables and beat a time\n - playability that combines reflexes, synchronization and strategy (at 60 FPS in 1080p)\n - compare your best times with those of your friends or the whole world",
+    "publisher": "Unfinished Pixel",
+    "developer": null,
+    "base_release_date": 20180309,
+    "first_update_release_date": 20181011,
+    "latest_update_release_date": 20181011,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181011
+    },
+    "versions": {
+        "65536": 20181011
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "The best RGB agent in the world faces 5 very dangerous secret missions.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

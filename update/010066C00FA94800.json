@@ -1,4 +1,48 @@
 {
     "id": "010066C00FA94800",
-    "version": 327680
+    "base_tid": "010066C00FA94000",
+    "name": "Dreamscaper",
+    "description": "DREAM. DIE. WAKE. REPEAT.\n\nDreamscaper is an endlessly replayable Action Roguelike with a waking/dreaming gameplay cycle. By night, delve deep into your subconscious, facing nightmares in an ever-changing world filled with unique items, abilities, and challenges. By day, explore the city of Redhaven, build relationships and unlock permanent upgrades in order to take on the next dream stronger than ever.\n\n\n- Features - \n\nLean into the nightmares and make the rush of permadeath your ally.\n\nUse lucid powers to manipulate the elements, warp space, and even control time itself.\n\nBattle bosses that embody Isolation, Fear, Negativity, Loss, and more.\n\nUpgrade a multitude of surreal items and discover powerful artifacts.\n\n Live Cassidy's waking life and uncover the mystery of her story.\n\n- MASTER DEEP COMBAT SYSTEMS -   \n\nA rich, expansive combat system that rewards skilled play. Use careful positioning, exact timing and quick reflexes to defeat foes with an abundance of combat options.\n\nEach weapon class in Dreamscaper is unique, from rending the earth below your nightmares to whipping a yo-yo into their faces. You’ll have a myriad of ways to approach combat.\nEnemies and bosses in Dreamscaper are representations of Cassidy's most negative emotions. Vanquish those deadly foes to clear the dark miasma surrounding her.\n\n - OVERCOME THE NIGHTMARE - \n\nAdventure through beautiful, haunting dreams to discover untold secrets, vanquish nightmares, and upgrade your gear all while uncovering Cassidy’s story as you plunge through her subconscious. Each dream is another peek into Cassidy’s memories and experiences.\n\nLive Cassidy's waking life and forge friendships with the people around her. Empower Cassidy with their hopes and memories to dispel the darkness of her nightmares.",
+    "publisher": "Freedom Games",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20210707,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20210707,
+        "131072": 20210729,
+        "196608": 20210924,
+        "262144": 20211203,
+        "327680": 20220805
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "By night, delve into your subconscious and discover powerful artifacts to conquer your nightmares. By day, explore Redhaven and build relationships to unlock dream powers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }
