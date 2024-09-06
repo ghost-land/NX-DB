@@ -1,4 +1,44 @@
 {
     "id": "010019801868E800",
-    "version": 196608
+    "base_tid": "010019801868E000",
+    "name": "Haunted Zombie School",
+    "description": "It's a single-play TPS game with a movie-like story that the main characters escape from the zombie world. \nEscape from the zombies and survive with a variety of modes and of a number of weapons that are leveled up and released! The long-awaited ending is waiting for you.\n\n・Each stage, you have a mission based on the story. You can enjoy a suspenseful play.\n・There are various zombies big and small, it's fun to target them with special attacks. \n・Collect all the various weapons used in the TPS game and all the special weapons that match the zombie's worldview.\n・There are vast and diverse worlds.\n・There are story mode and additional mode, so you can enjoy them more fun.\n・【EPISODE】mode fights for mission clear according to the story.\n・【SNIPER】mode requires you to defeat zombies that appear every certain time by yourself with Sniper rifle.\n・【WAVE】mode requires you to defeat zombies who constantly rush and hold out for as long as possible.\n・You can control your friends! Join forces with your friend and escape with the main character.\n・Enjoy the satisfactory playtime, clear the last stage and survive, and the ending is waiting for you! What kind of ending is that?!",
+    "publisher": "TROOOZE",
+    "developer": null,
+    "base_release_date": 20220616,
+    "first_update_release_date": 20220621,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20220621,
+        "131072": 20220726,
+        "196608": 20220818
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "A zombie appeared at school! A single-play TPS game with a story about escaping zombies to survive! Manipulate your friends and survive!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

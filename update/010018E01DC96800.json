@@ -1,4 +1,35 @@
 {
     "id": "010018E01DC96800",
-    "version": 65536
+    "base_tid": "010018E01DC96000",
+    "name": "Downfall",
+    "description": "\"Everything was perfect... until then.\"\n\nFaust, the protagonist, had a successful life due to his dealings with the devil, but now he suffers from terrible dreams each night. To find what lies at the end of those dreams—to end it all—he decides to plunge into those nightmares and face the monsters that lie within...\n\nDownfall is a roguelike hack-and-slash game where you develop your character by stylishly defeating the endless waves of enemies within your nightmare.\n\nCollect various relics and skills to create your build, strengthen the items you've acquired, or create new items to upgrade and empower your character!\n\n\n《Electrifying roguelike shooting action!》\nWipe out waves of oncoming enemies with rifles, machine guns, shotguns, rocket launchers and more, all with their own unique styles! Improve your abilities with the various active and passive skills you acquire in combat to slip through the enemies and survive!\n \n《Throw away nothing as you collect and develop》\nEquipment can be disassembled or synthesized to upgrade its rank, relics can be displayed in your exhibition hall regardless of rank, all providing ultimate, permanent stat boosts! Boost your relic and equipment collection to take on higher levels of challenge!\n\n《Ample content to enjoy and hundreds of stages!》\nLast as long as possible against attacking hordes in Survival mode, face increasingly powerful enemies and bosses in Hunt mode, and acquire relics necessary for improving your stats in Excavation mode. Repel each enemy and boss that wishes to stop our protagonist in turn!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20240912,
+    "first_update_release_date": 20240830,
+    "latest_update_release_date": 20240830,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240830
+    },
+    "versions": {
+        "65536": 20240830
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "In the midst of those terrible nightmares that keep you up at night, you leap into the abyss to restore the life destroyed by your dealings with the devil.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

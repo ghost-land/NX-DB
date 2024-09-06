@@ -1,4 +1,38 @@
 {
     "id": "01001920156C2800",
-    "version": 262144
+    "base_tid": "01001920156C2000",
+    "name": "The Legend of Heroes: Trails from Zero",
+    "description": "Lloyd Bannings returns to his hometown to follow his late brother's footsteps and join the Crossbell Police Department. However, he finds himself assigned to a ragtag new division called the Special Support Section, which performs odd jobs and helps people in need. But he and his new teammates slowly discover that their vibrant city hides a dark criminal underbelly...as well as a few terrible secrets.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20220927,
+    "first_update_release_date": 20220923,
+    "latest_update_release_date": 20230828,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230828
+    },
+    "versions": {
+        "65536": 20220923,
+        "131072": 20230113,
+        "196608": 20230316,
+        "262144": 20230828
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Overcome the odds and seize the truth!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Simulated Gambling",
+        "Suggestive Themes",
+        "Use of Drugs"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010019500E642800",
-    "version": 65536
+    "base_tid": "010019500E642000",
+    "name": "Animal Fight Club",
+    "description": "Invent new creatures by mixing real or legendary animals in thousands of possible combinations, create an army and get ready to fight!\n\nCREATE YOUR ARMY\nWith dozens of different types of animals at your disposal, generates an unbeatable army of genetically modified animals! Thanks to the power of the Mix Machine you will be able to combine pairs of animals. The result?\nThe possibility of inventing hundreds of totally new and unique animals for your army. Each animal has its statistics, its health and its strengths and weaknesses: Mix them intelligently to get the most powerful creatures! Over 1000 possible combinations: The generation of new creatures has no limits!\n\nMission editor\nCreate new missions with custom armies, waves, maps and music!\n\nFantastic scenarios\nLarge variety of maps and scenarios related to the campaign mode, with fantastic and innovative locations. The panorama is an important point in the style of Animal Fight Club.",
+    "publisher": "Corvostudio di Amadei Marco",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20191004,
+    "latest_update_release_date": 20191004,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191004
+    },
+    "versions": {
+        "65536": 20191004
+    },
+    "category": [
+        "Strategy",
+        "Action",
+        "Simulation"
+    ],
+    "intro": "Invent your animals and create an army!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

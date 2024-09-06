@@ -1,4 +1,38 @@
 {
     "id": "010019A0038FA800",
-    "version": 65536
+    "base_tid": "010019A0038FA000",
+    "name": "ACA NEOGEO FATAL FURY SPECIAL",
+    "description": "“FATAL FURY SPECIAL” is a fighting game released by SNK in 1993. \nFATAL FURY SPECIAL is a powered-up version of FATAL FURY 2 which brings a faster game speed, introduces combo attacks for the first time in the Series, \nand welcomes more returning characters for a total of 15 fighters. \nClear the game with specific conditions and Ryo Sakazaki from ART OF FIGHTING will appear.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20170713,
+    "first_update_release_date": 20171011,
+    "latest_update_release_date": 20171011,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171011
+    },
+    "versions": {
+        "65536": 20171011
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "FATAL FURY legends reunite for the greatest martial arts tournament history! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Sexualised Imagery",
+        "Violence"
+    ],
+    "region": null
 }

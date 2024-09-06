@@ -1,4 +1,43 @@
 {
     "id": "01001A0011798800",
-    "version": 131072
+    "base_tid": "01001A0011798000",
+    "name": "WRC 9 The Official Game",
+    "description": "WRC 9 is the leading off-road simulation franchise endorsed by the world's top drivers. It is the most in-depth rally game on the market:\n3 new rallies (Kenya, Japan, New Zealand), over 15 classic cars and 100 special stages to tackle!\n\nWRC 9 has new game modes specially designed for the community, including a Clubs system where each player can create their own championship and compete in it online with the rest of the world!\n\nTake control of all official drivers and cars in 3 WRC categories with improved physics for even greater realism, redesigned environments and all-new pacenotes for total immersion.",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20210805,
+    "latest_update_release_date": 20220330,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220330
+    },
+    "versions": {
+        "65536": 20210805,
+        "131072": 20220330
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

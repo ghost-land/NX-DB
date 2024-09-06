@@ -1,4 +1,39 @@
 {
     "id": "01001A0018C46800",
-    "version": 131072
+    "base_tid": "01001A0018C46000",
+    "name": "MOZART REQUIEM",
+    "description": "Play Mozart in a thrilling adventure at the heart of secret societies. Caught between a war of powers and occult ceremonies, you will have only one mission: to save the Emperor.  Will you be up to the task?\nAmazing Features Include:\n•Prague, the Golden city reproduced in all its splendor for 1788\n•Unmatched musical soundtrack by Mozart\n•An unparalleled adventure with murder, conspiracy, and secret societies\n•Over thirty hours of gameplay",
+    "publisher": "HR GAMES",
+    "developer": null,
+    "base_release_date": 20220906,
+    "first_update_release_date": 20221102,
+    "latest_update_release_date": 20221119,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221119
+    },
+    "versions": {
+        "65536": 20221102,
+        "131072": 20221119
+    },
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Music"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

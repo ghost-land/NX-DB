@@ -1,4 +1,36 @@
 {
     "id": "010018F007786800",
-    "version": 65536
+    "base_tid": "010018F007786000",
+    "name": "BeeFense BeeMastered",
+    "description": "Protect your beehive fortress against the hornet menace. After all, the best offense is a good BeeFense!\n\nCommand your forces, manage your resources, and improve your defenses in increasingly challenging battles.\n\nUpgrade your towers with a variety of features to drive back the hornet hordes.\n\nJoin the queen bee and her loyal subjects on their hilarious journey through 26 unique levels.\n\nThe whole game features bee-mastered graphics and brand buzzing new animation.",
+    "publisher": "ByteRockers Games",
+    "developer": null,
+    "base_release_date": 20210624,
+    "first_update_release_date": 20210727,
+    "latest_update_release_date": 20210727,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210727
+    },
+    "versions": {
+        "65536": 20210727
+    },
+    "category": [
+        "Action",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "The bees are back… bigger, bolder, better!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

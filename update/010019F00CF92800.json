@@ -1,4 +1,38 @@
 {
     "id": "010019F00CF92800",
-    "version": 65536
+    "base_tid": "010019F00CF92000",
+    "name": "Doom & Destiny",
+    "description": "Four nerds, drawn into a fantasy world and mistaken for heroes, have to battle their way through a massive, crazy adventure and defeat a preposterous villain!\n\nDoom and Destiny is a turn based hilarious jrpg where you take control of a party of four everyday friends. Journey through an unpredictable story filled with parodies and cameos. Start your adventure in a classic dungeon with dragons, save princess with the help of green-dressed elf and then fly to manga-themed city with the help of a famous italian plumber. This is Doom and Destiny, the flying-spaghetti fantasy adventure!\n\nMain Features:\n- 20 hours of story and 20 hours of extra adventure\n- 100 levels of experience and nerdy customization\n- Choose your nerdy leader to apply special bonuses to your party\n- More than 200 special powers and spells\n- More than 300 enemies\n- More than 500 items between potions, chips and weapons\n- More than 700 locations,\n- More than 10,000 lines of crazy dialog\n- The one and only Epic Flying Spaghetti Monster!!!",
+    "publisher": "Heartbit",
+    "developer": null,
+    "base_release_date": 20211115,
+    "first_update_release_date": 20190304,
+    "latest_update_release_date": 20190304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190304
+    },
+    "versions": {
+        "65536": 20190304
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "The nerdiest adventure of your life! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

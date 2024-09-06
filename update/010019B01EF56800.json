@@ -1,4 +1,37 @@
 {
     "id": "010019B01EF56800",
-    "version": 131072
+    "base_tid": "010019B01EF56000",
+    "name": "Farewell North",
+    "description": "Explore the islands and uncover memories in order to restore color to the archipelago, unlocking new paths, extinguishing hazards and revealing hidden objects. Explore the hand crafted, atmospheric islands while evading the creatures that would hold you back.\n\nDiscover and activate frozen wildlife to temporarily bring color back to the world, revealing hidden objects and paths, and distracting the monsters who would harm you.\n\nSolve puzzles based on perspective and coloring to reveal hidden objects and paths in the environment. Find the perfect vantage point to reveal the secrets of the islands.\n\nJourney at your own pace, running through lush grassy fields, hiking steep cliffs, and canoeing the ocean between an open world chain of islands inspired by the Scottish archipelagos of St. Kilda and Orkney. Discover new islands and challenges throughout the world as you work to restore color.\n\nUnravel a unique story about saying farewell as memories reveal a glimpse into the life of the characters. Discover the events in the past which have led the characters to the archipelago, and caused all color to leave the world.",
+    "publisher": "Mooneye Studios",
+    "developer": null,
+    "base_release_date": 20240816,
+    "first_update_release_date": 20240818,
+    "latest_update_release_date": 20240827,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240827
+    },
+    "versions": {
+        "65536": 20240818,
+        "131072": 20240827
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Restore color to the desolate islands of Farewell North, an atmospheric journey where you play as a border collie on an adventure with your human.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

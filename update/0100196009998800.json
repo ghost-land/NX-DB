@@ -1,4 +1,45 @@
 {
     "id": "0100196009998800",
-    "version": 524288
+    "base_tid": "0100196009998000",
+    "name": "Super Kickers League Ultimate",
+    "description": "The best arcade experience and football fantasy are waiting for you in Super Kickers League Ultimate. There are no referees, there are no rules, everything is allowed, the only aim is to score more goals than your rival! \nPlay alone or with friends, form a team of captains and combine different skills to win matches, competitions and to unlock different game modes. \n\nFun and goals are guaranteed in Super Kickers League Ultimate!\n\nFeatures:\t\n- Local multiplayer up to 6 players\n- Unlockable content\n- Different trophies and competitions\n- 14 different teams with unique special skills \n- Different game modes\n- All dlc contents are included : Vikings & Valkyries DLC & Goths & Vampires DLC (4 new teams, 4 new powers and 4 new areas !)",
+    "publisher": "JUST FOR GAMES",
+    "developer": null,
+    "base_release_date": 20190320,
+    "first_update_release_date": 20190319,
+    "latest_update_release_date": 20200619,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20200619
+    },
+    "versions": {
+        "65536": 20190319,
+        "131072": 20190417,
+        "262144": 20200130,
+        "393216": 20200228,
+        "458752": 20200319,
+        "524288": 20200619
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "The best alternative to conventional football games is here!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

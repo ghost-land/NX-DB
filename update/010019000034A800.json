@@ -1,4 +1,36 @@
 {
     "id": "010019000034A800",
-    "version": 327680
+    "base_tid": "010019000034A000",
+    "name": "カラオケJOYSOUND for Nintendo Switch",
+    "description": "最新のヒット曲から懐かしのヒット曲まで、家庭用カラオケ最大クラスの15万曲以上を収録。\nキー、テンポ、マイクエフェクトの変更や音程ガイドを表示することができるので、ご家庭で本格的なカラオケが楽しめます。\n別売りの専用マイクがあれば、自分の歌を採点したり、全国のプレイヤーと採点結果で競い合ったりすることもできます。",
+    "publisher": "任天堂",
+    "developer": null,
+    "base_release_date": 20171206,
+    "first_update_release_date": 20171219,
+    "latest_update_release_date": 20190821,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190821
+    },
+    "versions": {
+        "65536": 20171219,
+        "131072": 20180726,
+        "196608": 20181202,
+        "262144": 20190605,
+        "327680": 20190821
+    },
+    "category": [
+        "音楽",
+        "実用",
+        "パーティー",
+        "コミュニケーション"
+    ],
+    "intro": "Nintendo Switchでカラオケを満喫",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

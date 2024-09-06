@@ -1,4 +1,41 @@
 {
     "id": "01001900112B2800",
-    "version": 327680
+    "base_tid": "01001900112B2000",
+    "name": "FINAL SWORD",
+    "description": "The source of evil, it has brought numerous monster corps.\nDefeat the source of evil by acquiring various skills and magics through the adventure.\nYou will experience breathtaking battles with real fantasy monsters.",
+    "publisher": "HUP Games",
+    "developer": null,
+    "base_release_date": 20200702,
+    "first_update_release_date": 20200719,
+    "latest_update_release_date": 20201203,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20201203
+    },
+    "versions": {
+        "65536": 20200719,
+        "131072": 20200903,
+        "196608": 20200911,
+        "262144": 20200925,
+        "327680": 20201203
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "The original Action RPG of the Nintendo Switch™ in 2020.\nEnjoy the powerful battles on the open world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

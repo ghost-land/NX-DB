@@ -1,4 +1,33 @@
 {
     "id": "010019700D13A800",
-    "version": 65536
+    "base_tid": "010019700D13A000",
+    "name": "SEGA AGES Puyo Puyo 2",
+    "description": "Stack and chain your Puyo combos to negate the Garbage puyos sent by your opponent. Swap between Single Puyo Puyo, Double Puyo Puyo, and Endless Puyo Puyo game modes for more Puyo fun. ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20200221,
+    "first_update_release_date": 20200213,
+    "latest_update_release_date": 20200213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200213
+    },
+    "versions": {
+        "65536": 20200213
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "intro": "The sequel to the original Puyo Puyo returns in SEGA AGES for Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
