@@ -1,4 +1,34 @@
 {
     "id": "0100F3C013AFC800",
-    "version": 65536
+    "base_tid": "0100F3C013AFC000",
+    "name": "Hexagon Defense",
+    "description": "Hexagon Defense is an arcade-style defense shooter game where you protect your hexagon from enemies.\n\nFeatures:\n\n- INNOVATIVE PLAYSTYLE \nRotate the hexagon and shoot the enemies! Enjoy a wide variety of stages with different themes and difficulty.\n\n- CUSTOMIZATION\nCraft your own gameplay experience with 20+ items, buffs, and skins! You're the boss.\n\n- SOUNDTRACK\nWe are proud to present the extremely addictive in-game soundtrack by WHXTX ASXAN. ",
+    "publisher": "Nether Yoshi Studio",
+    "developer": null,
+    "base_release_date": 20210209,
+    "first_update_release_date": 20210506,
+    "latest_update_release_date": 20210506,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210506
+    },
+    "versions": {
+        "65536": 20210506
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Rotate, Shoot, Repeat.\nBringing the newest innovation to the arcade game industry.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

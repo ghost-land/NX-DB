@@ -1,4 +1,37 @@
 {
     "id": "0100F3100EFCC800",
-    "version": 393216
+    "base_tid": "0100F3100EFCC000",
+    "name": "FAIRY TAIL",
+    "description": "■超越公會的夢幻共演\n玩家角色多達16位！\n亦有「妖精尾巴」公會之外的多位角色登場！\n此外，亦收錄遊戲原創的劇情。\n\n■激烈的魔法戰鬥\n從合體魔法以至超魔法，重現原作中熟悉的招式！\n亦有遊戲原創組合的合體魔法。\n\n■以No.1公會為目標\n重現馬格諾利亞的城鎮以及公會內部全貌。\n達成委託欄的委託來提升公會等級，與公會的夥伴共同以No.1公會為目標！",
+    "publisher": "KOEI TECMO GAMES",
+    "developer": null,
+    "base_release_date": 20200730,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20201007,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20201007
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200805,
+        "196608": 20200819,
+        "262144": 20200902,
+        "327680": 20200910,
+        "393216": 20201007
+    },
+    "category": [
+        "角色扮演"
+    ],
+    "intro": "超人氣《FAIRY TAIL》的遊戲首登Nintendo Switch！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100F37017542800",
-    "version": 458752
+    "base_tid": "0100F37017542000",
+    "name": "The Rusty Sword: Vanguard Island",
+    "description": "Now includes a second island and dungeon, along with new enemies and equipment!\n\nThe Rusty Sword: Vanguard Island is a short, top-down adventure game inspired by several 16-bit games you know and love. It features a small island overworld, a large non-linear dungeon, countless monsters to battle, classic art that takes you back through time, and a nostalgic soundtrack. In the game, you venture on a quest to find the hidden Vanguard Relic.\n\nFEATURES\n\nNon-linear adventure structure with multiple ways to get to most places.\n\nSimple, intuitive controls.\n\nTons of secrets and Easter eggs.\n\nDesigned around single-player, but even more fun with two-player co-op.\n\nNostalgic graphics and music inspired by many 16-bit classics.\n\nSeveral display options, including widescreen and classic aspect ratios.\n\nLanguage support for English, Japanese, Korean, Spanish, French, Italian, and German.",
+    "publisher": "Plow Games",
+    "developer": null,
+    "base_release_date": 20221219,
+    "first_update_release_date": 20220509,
+    "latest_update_release_date": 20240205,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240205
+    },
+    "versions": {
+        "65536": 20220509,
+        "131072": 20220514,
+        "196608": 20220714,
+        "262144": 20221014,
+        "327680": 20221027,
+        "393216": 20230714,
+        "458752": 20240205
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "A short, top-down adventure game inspired by several 16-Bit classic games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

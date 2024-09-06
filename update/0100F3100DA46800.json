@@ -1,4 +1,40 @@
 {
     "id": "0100F3100DA46800",
-    "version": 589824
+    "base_tid": "0100F3100DA46000",
+    "name": "初音未來 Project DIVA MEGA39's",
+    "description": "虛擬歌姬「初音未來」主演的節奏動作遊戲系列10週年！\n本作收錄了100首為系列作寫下10年精彩歷史的樂曲，當中還包含了系列首次收錄的樂曲。加上為本作量身打造的主題曲，總收錄樂曲多達101首。\n節奏遊戲除了有近似過去玩法的「街機模式」外，還新增了專為Nintendo Switch™量身打造的新模式「MIX模式」。\n不僅如此，PV也翻新成動畫風！\n",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20200213,
+    "first_update_release_date": 20200211,
+    "latest_update_release_date": 20221103,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20221103
+    },
+    "versions": {
+        "131072": 20200211,
+        "196608": 20200227,
+        "262144": 20200429,
+        "327680": 20200715,
+        "393216": 20200813,
+        "458752": 20200916,
+        "524288": 20220825,
+        "589824": 20221103
+    },
+    "category": [
+        "音樂",
+        "動作",
+        "街機"
+    ],
+    "intro": "系列10週年！經典內容一次網羅！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

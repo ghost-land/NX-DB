@@ -1,4 +1,48 @@
 {
     "id": "0100F3101C34C800",
-    "version": 196608
+    "base_tid": "0100F3101C34C000",
+    "name": "Evolings",
+    "description": "★ Dynamic Map Exploration:\nPrepare for endless excitement as \"Evolings\" generates a brand new level-map with each playthrough! Discover unique Evolings, acquire rare items, engage in thrilling battles, and create unforgettable stories. No two adventures are alike, ensuring endless surprises and thrilling experiences every time you dive in!\n\n★ Epic Turn-Based RPG Combat:\nUnleash your strategic prowess and assemble a formidable team to take on evil Evolings. Engage in exhilarating turn-based battles where cuteness meets power. Command your squad and showcase your tactical genius to emerge victorious in epic clashes!\n\n★ A Boundless World Awaits:\nEmbark on a journey through three distinct acts, each brimming with exclusive Evolings, extraordinary items, and captivating levels to conquer. Prepare for a gameplay experience of non-stop action and adventure! Immerse yourself in breathtaking pixel art, adorable cutscenes, and a mesmerizing chiptune soundtrack that will ignite your fighting spirit!\n\n★ Unveil the Secrets of the Evopedia:\nHarness the power of knowledge with the Evopedia, a comprehensive encyclopedia of all the Evolings you encounter. Keep track of your discoveries, from the dazzling shiny and super shiny versions to the coveted rainbow Evolings. Dive deep into their fascinating entries to uncover their hidden traits and abilities, becoming a true master of these captivating creatures! Can you catch all of these tough cuties?\n\n★ Eternal Glory in the Hall of Fame:\nOnly the most triumphant players who conquer all three acts will earn a hallowed place in the prestigious \"Hall of Fame.\" Immortalize your winning team's achievements for all to see, celebrating the ultimate honor bestowed upon Evolings. Share your strategies with friends, sparking lively discussions and perhaps a touch of envy from those yet to bask in the glory of victory!",
+    "publisher": "Super Rare Games",
+    "developer": null,
+    "base_release_date": 20230921,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20240112,
+        "196608": 20240605
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Evolings is a minimalistic monster-catching roguelike where you battle through hordes of evil monsters by recruiting, evolving and fusing your own team of deadly - but cute - creatures!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

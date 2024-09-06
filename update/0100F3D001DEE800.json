@@ -1,4 +1,36 @@
 {
     "id": "0100F3D001DEE800",
-    "version": 131072
+    "base_tid": "0100F3D001DEE000",
+    "name": "Puyo Puyo™ Tetris®",
+    "description": "Two puzzle game juggernauts collide as Tetris®, one of the largest-selling and recognized brands in gaming history, and Puyo Puyo™ from SEGA have combined to create a fun-to-play, fast-paced, competitive party game like no other! \n\nThe game offers tons of gameplay styles – from single-player Adventure and Challenge modes to ferocious competition with up-to-four player Arcade modes, for tons of Tetris/Puyo variety. \n\nPlus, an in-game Shop enables players to unlock new characters and skins for Puyos and Tetriminos.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20170427,
+    "first_update_release_date": 20170912,
+    "latest_update_release_date": 20171013,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171013
+    },
+    "versions": {
+        "65536": 20170912,
+        "131072": 20171013
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Puyos and Tetriminos Collide in a Frantic Four-Player Puzzle Mashup!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity",
+        "Very mild themes"
+    ],
+    "region": null
 }

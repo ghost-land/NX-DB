@@ -1,4 +1,45 @@
 {
     "id": "0100F3B015B14800",
-    "version": 196608
+    "base_tid": "0100F3B015B14000",
+    "name": "Match 3 Adventure Collection",
+    "description": "Match Three: Pirates! Heir to Davy Jones\n\nDavy Jones created a world where no-one gets old and unsuspecting people are tricked into entering Davy Jones’ Locker. Journey through the different stages of this match 3 adventure, and lift the curse of Davy Jones!\n\nFeatures:\n•\tBeat all 100 challenging levels\n•\tCustomize your own ship\n•\tGet an advantage with a variety of boosters\n\n\nGems of Magic: Lost Family\n\nDiscover this mystical enchanted forest in a calm and relaxing world of spirits and magic. But a dark cloud is forming over the forest and Hurricane has kidnapped the Fuzzy family. It's now time to help the magic creatures to save the Fuzzy family and restore the enchanted forest!\n\nFeatures:\n•\t100 fun levels\n•\tSimple gameplay with a mystical story\n•\tAdd boosters to help you progress",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20210916,
+    "first_update_release_date": 20210824,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20210824,
+        "131072": 20220331,
+        "196608": 20220720
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "Experience two exciting match 3 games in one collection! Each with an interesting story and hand-drawn art, with a total of 200 levels to play.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

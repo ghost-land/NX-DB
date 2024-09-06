@@ -1,4 +1,34 @@
 {
     "id": "0100F3D013568800",
-    "version": 65536
+    "base_tid": "0100F3D013568000",
+    "name": "Tiny World Racing",
+    "description": "Hit the asphalt and leave your opponents in the dust in this top-down mini racing game!\n\nBlast your way through a variety of environments in 40 tracks across 10 different tournaments. From crumbling castles to volcanic islands, you’ll need to master all kinds of terrain to become the world’s best racer.\n\nPlay alone or take on your friends in split screen couch multiplayer - which one of you will come out on top?\n\nCompete in Tournament Mode to win 10 gold cups or dive into a single track in Quick Race mode when you’re pressed for time.\n\nWith 16 cars to choose from and a collection of wacky items to attack your opponents, no two races are the same.\n\nWill you take on the challenge to become the champion of Tiny World Racing?\n\n",
+    "publisher": "Chequered Ink",
+    "developer": null,
+    "base_release_date": 20201127,
+    "first_update_release_date": 20201217,
+    "latest_update_release_date": 20201217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201217
+    },
+    "versions": {
+        "65536": 20201217
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Are you ready to race?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

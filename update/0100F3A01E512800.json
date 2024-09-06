@@ -1,4 +1,36 @@
 {
     "id": "0100F3A01E512800",
-    "version": 131072
+    "base_tid": "0100F3A01E512000",
+    "name": "Agnostiko ORIGINS",
+    "description": "Welcome to 1890's steampunk Philippines.\nwhere there are mysterious monsters roaming around manila What you will encounter here is based on Philippine Mythology\nYou will play the role of the \"man in the red scarf\"\nexplore the mysterious mansion and discover the truth behind this nightmare\n\nInspired by 90s 16bit art style\nfrom the characters to the background everything is created\nin style using pixel art like the 4th generation consoles.\n\nExplore the mansion to unlock other rooms\n\nLevel up system to have more advantage over your opponents.",
+    "publisher": "Singles Alliance",
+    "developer": null,
+    "base_release_date": 20240614,
+    "first_update_release_date": 20240702,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240728
+    },
+    "versions": {
+        "65536": 20240702,
+        "131072": 20240728
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "PINOY EXPLORATION GAME FEATURING FILIPINO MYTHICAL CREATURES",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

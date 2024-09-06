@@ -1,4 +1,50 @@
 {
     "id": "0100F3200E7CA800",
-    "version": 458752
+    "base_tid": "0100F3200E7CA000",
+    "name": "The Settlers®: New Allies",
+    "description": "The Settlers®: New Allies is a strategy game with an in-depth build-up experience and real-time strategic battles.\n\n- Fully reimagined from the ground up, with stunning graphics and detailed animations.\n- Choose among three factions: the Elari, the Maru, and the Jorn. Each has a unique look, playstyle, and background story.\n- Experience a story-driven campaign set in the world of The Settlers, or go for the special Hardcore mode and its additional challenges.\n- Play online in thrilling skirmish battles against other players or AI for long-lasting fun.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20230704,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240510
+    },
+    "versions": {
+        "131072": 20230714,
+        "196608": 20230802,
+        "262144": 20230907,
+        "327680": 20231212,
+        "393216": 20240328,
+        "458752": 20240510
+    },
+    "category": [
+        "Strategy",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

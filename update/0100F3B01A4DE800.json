@@ -1,4 +1,33 @@
 {
     "id": "0100F3B01A4DE800",
-    "version": 131072
+    "base_tid": "0100F3B01A4DE000",
+    "name": "Donut Dodo",
+    "description": "準備好登頂高分榜了嗎？\n堅韌如釘，永無止境，你有能力嗎？\n\nDonut Dodo 是一款輕鬆的街機遊戲，讓人想起我們至今仍珍視的 80 年代初深受喜愛的經典遊戲。你扮演貝克比利伯恩斯，他必須奔跑、跳躍和攀爬，以智取甜甜圈渡渡鳥和他那群毫無頭緒的爪牙。您的目標是在最佳時間收集每個關卡中的所有甜甜圈！\n\n你今天會在高分榜上名列前茅嗎？\n快來湊熱鬧吧！\n\n現在是 1983 年，只有更好！遊戲特色...\n\n- 5 個單屏關卡和一個獎勵關卡，每個關卡都有其獨特的遊戲機制\n- 瘋狂的單人街機遊戲的控制非常嚴格（沒有便宜的死亡）\n- 具有 16 色調色板的老式屏幕比例和像素完美圖形\n- 由才華橫溢的 CosmicGem 創作的原創芯片音樂\n- 全球排行榜，僅限 3 個字符的首字母，街機風格！",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230117,
+    "latest_update_release_date": 20230301,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230301
+    },
+    "versions": {
+        "65536": 20230117,
+        "131072": 20230301
+    },
+    "category": [
+        "街機",
+        "動作",
+        "益智",
+        "派對"
+    ],
+    "intro": "80 年代的街機遊戲。 Donut Dodo 是黃金時代的經典 2D 平台遊戲，堅韌如釘，對全家都具有挑戰性！",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

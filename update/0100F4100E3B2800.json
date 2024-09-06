@@ -1,4 +1,36 @@
 {
     "id": "0100F4100E3B2800",
-    "version": 65536
+    "base_tid": "0100F4100E3B2000",
+    "name": "少女とドラゴン　幻獣契約クリプトラクト",
+    "description": "基本無料のRPGで、老若男女だれでも気軽に楽しめます。\nプレイヤーは、自分の領土を統治する領主となり、各地に現れる「幻獣」と呼ばれるモンスターを討伐し、その過程で「幻獣」と契約することができるたくさんのキャラクターを仲間に出来ます。\n仲間を集め、育てて、自分だけの最強軍団を作ろう！ ",
+    "publisher": "ライオンズフィルム",
+    "developer": null,
+    "base_release_date": 20190711,
+    "first_update_release_date": 20211118,
+    "latest_update_release_date": 20211118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211118
+    },
+    "versions": {
+        "65536": 20211118
+    },
+    "category": [
+        "ロールプレイング",
+        "シミュレーション",
+        "パーティー",
+        "コミュニケーション"
+    ],
+    "intro": "本格ファンタジーRPG「少女とドラゴン」\nクオリティに拘った「2Dキャラ」ｘ「王道コマンドバトル」\n伝説の幻獣を撃破し、契約せよ！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }
