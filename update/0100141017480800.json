@@ -1,4 +1,44 @@
 {
     "id": "0100141017480800",
-    "version": 131072
+    "base_tid": "0100141017480000",
+    "name": "Jump Into The Plane",
+    "description": "Have you ever wanted to feel like a super agent performing spectacular stunts?  Have you ever been late on a plane and had no time left to park your car and run for the check in?  And you were wandering: Why can’t I just park my car inside a plane ? Are you a little bit insane? \n\nThis is not an impossible mission. Drive your rocket boosted car directly into a cargo hold of a flying plane! \n\nBuckle up and put the pedal to the metal because it’s gonna get nasty! Dozens of cars, planes and crazy locations to explore. And remember, timing is crucial here!  One second less and you're gone! So hurry! You’ve got a plane to catch!",
+    "publisher": "BoomBit Games",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20230302,
+    "latest_update_release_date": 20230302,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230302
+    },
+    "versions": {
+        "131072": 20230302
+    },
+    "category": [
+        "Arcade",
+        "Racing",
+        "Simulation"
+    ],
+    "intro": "Perform crazy and spectacular stunts! Jump into a plane in a car!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

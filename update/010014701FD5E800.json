@@ -1,4 +1,38 @@
 {
     "id": "010014701FD5E800",
-    "version": 65536
+    "base_tid": "010014701FD5E000",
+    "name": "Spy Guy Animals Junior",
+    "description": "Before Spy Guy became a famous detective, he was dedicated to helping others from a young age. Alfred Moritz is trying to capture all the animals in the world to lock them in his private zoo. Can you and Spy Guy catch him before he achieves his goal? Discover the new Hidden Objects game, where in addition to searching for hidden objects, you will learn many fascinating facts about animals from around the world. With a beautiful, colorful, animated map, over 100 animals, an encyclopedia with interesting facts, and 3 game modes - see how quickly you can find them all!",
+    "publisher": "Trefl S.A",
+    "developer": null,
+    "base_release_date": 20240719,
+    "first_update_release_date": 20240728,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240728
+    },
+    "versions": {
+        "65536": 20240728
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Find hidden objects and learn interesting facts about animals from around the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

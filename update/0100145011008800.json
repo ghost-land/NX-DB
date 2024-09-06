@@ -1,4 +1,41 @@
 {
     "id": "0100145011008800",
-    "version": 131072
+    "base_tid": "0100145011008000",
+    "name": "Trollhunters: Defenders of Arcadia",
+    "description": "Jump into the world of Trollhunters as Jim Lake Jr. to stop Porgon the Trickster Troll and his sneaky plans! Team up with Claire in couch co-op and also get a helping hand from lots more loved characters to face unknown evil forces and help stop the Time-pocalypse! Upgrade your armour and boost your abilities to become more powerful than ever. The fate of the universe is in your hands!",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20200925,
+    "first_update_release_date": 20200925,
+    "latest_update_release_date": 20200925,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200925
+    },
+    "versions": {
+        "131072": 20200925
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": "Explore the Trollhunters universe and save the world as Jim Lake Jr. in this action-packed game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null
 }

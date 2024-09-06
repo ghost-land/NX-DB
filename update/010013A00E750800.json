@@ -1,4 +1,49 @@
 {
     "id": "010013A00E750800",
-    "version": 851968
+    "base_tid": "010013A00E750000",
+    "name": "Calico",
+    "description": "Calico is a day-in-the-life community sim game where you are given an important and adorable task: rebuild the town’s cat café and fill it with cute and cuddly creatures! You will journey to a small village filled with magical girls and other fantastical friends, where you are placed in charge of a run down cat café. Build up your café by filling it with cute furniture, fun decorations, yummy pastries, and get it bustling with animals again!\n\nCalico is meant to make you feel all warm and fuzzy inside. The gameplay reflects that with a laid back, low stress creative environment to explore and play in.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20201214,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20201214,
+        "131072": 20210105,
+        "196608": 20210118,
+        "262144": 20210206,
+        "327680": 20210316,
+        "393216": 20210513,
+        "458752": 20210727,
+        "589824": 20211217,
+        "655360": 20221222,
+        "720896": 20221222,
+        "786432": 20230125,
+        "851968": 20230316
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Magical Girls Running Cat Cafes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

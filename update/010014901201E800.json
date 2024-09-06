@@ -1,4 +1,38 @@
 {
     "id": "010014901201E800",
-    "version": 196608
+    "base_tid": "010014901201E000",
+    "name": "Reflex Unit 2",
+    "description": "The year is 2039 and the planet has recovered after a robotic drone invasion 3 years earlier. Life seems safe, until a new larger army of robot drones attacks strategic cities around the globe. \n\nIt is up to you again to pilot a new batch of experimental mech hardware and fight back the invading forces. Save the planet, and beyond!\n\n- 1 or 2 Player (online) Campaign Mode\n- 2 to 4 Player (online) Versus Mode\n- 1 to 4 Player (online) Survival modes\n- Cross Platform Online Multiplayer (see www.robosaru.com for details)\n- Nintendo Labo™ Toy-Con VR Goggle support (optional)",
+    "publisher": "ROBOSARU Games",
+    "developer": null,
+    "base_release_date": 20200917,
+    "first_update_release_date": 20200924,
+    "latest_update_release_date": 20201022,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201022
+    },
+    "versions": {
+        "65536": 20200924,
+        "131072": 20201001,
+        "196608": 20201022
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Action Stealth Mech Shooter!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

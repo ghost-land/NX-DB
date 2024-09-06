@@ -1,4 +1,34 @@
 {
     "id": "0100137011172800",
-    "version": 65536
+    "base_tid": "0100137011172000",
+    "name": "Kakuro Magic",
+    "description": "Kakuro is like a crossword puzzle with numbers. Each \"word\" must add up to the number provided in the clue above it or to the left. Words can only use the numbers 1 through 9, and a given number can only be used once in a word. Every kakuro puzzle has one and only solution, and can be solved through logic alone.\n\n- Solve 96 brain-teasing puzzles \n- 4 difficulty levels, each with unique visual style\n- Enjoy relaxing ambient music",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20200515,
+    "first_update_release_date": 20210305,
+    "latest_update_release_date": 20210305,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210305
+    },
+    "versions": {
+        "65536": 20210305
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Training"
+    ],
+    "intro": "Best brain-teasing puzzles to play on your free time!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

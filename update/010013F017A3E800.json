@@ -1,4 +1,38 @@
 {
     "id": "010013F017A3E800",
-    "version": 131072
+    "base_tid": "010013F017A3E000",
+    "name": "Ravenous Devils",
+    "description": "A horror cooking simulator where the secret ingredient is crime. Improve your shops by buying new tools and serving your customers.\n\nManage a tailor shop and corpse-cooking business in a city where crime, corruption and poverty are commonplace. Percival and Hildred have just moved here with nothing but a dream: to get extremely rich.\n\nTake control of Percival to manage the tailor shop, wait for the arrival of clients looking for new suits, kill them when the moment is right, throw them down the trap door leading to the kitchen and use the outfits you steal from them to make new ones: waste not, want not!\n\nTake care of Hildred's pub and customers. Feed them delightful corpse-based meals, manage resources effectively and make sure not to run out of ingredients.\n\nIncrease the renown of their business by buying new tools and upgrading the shops, but beware... someone knows their secret.",
+    "publisher": "Troglobytes Games",
+    "developer": null,
+    "base_release_date": 20220429,
+    "first_update_release_date": 20220601,
+    "latest_update_release_date": 20220825,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220825
+    },
+    "versions": {
+        "65536": 20220601,
+        "131072": 20220825
+    },
+    "category": [
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Horror Cooking Simulator",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

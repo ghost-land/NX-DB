@@ -1,4 +1,36 @@
 {
     "id": "010014A00AC5A800",
-    "version": 65536
+    "base_tid": "010014A00AC5A000",
+    "name": "The Golf",
+    "description": "A fun and simple golf game anyone can enjoy.\nIncludes golf courses with up to 18 holes.\nWith support for 1-4 players, enjoy at your pace by yourself or have an exciting competition with your friends and family.\nYou can play with either the controller or by swinging the Joy-Con™.",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20190214,
+    "first_update_release_date": 20190224,
+    "latest_update_release_date": 20190224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190224
+    },
+    "versions": {
+        "65536": 20190224
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Communication",
+        "Other"
+    ],
+    "intro": "Get a nice shot using the buttons or the Joy-Con™!\nA fun and easy golf game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

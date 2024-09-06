@@ -1,4 +1,35 @@
 {
     "id": "0100144011030800",
-    "version": 131072
+    "base_tid": "0100144011030000",
+    "name": "Perfect Traffic Simulator",
+    "description": "Imagine the world without drivers. It can't end well... unless you will control them before they start their journey!\nTake control of each car on the streets and strategize your moves so cars driving on full speed smoothly pass by each other without waiting any second in the traffic! Each scenario will require different approach so please, be careful- with great power comes great responsibility. \n\n- 30 challenging levels\n- More than 20 different vehicles \n- Realistic physics in all conditions\n- Random weather and time of the day \n- Chilling music which will drive you in a great mood",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20200924,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210728
+    },
+    "versions": {
+        "65536": 20200924,
+        "131072": 20210728
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Times without drivers are getting closer. How would a world look like if you would control the streets? ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

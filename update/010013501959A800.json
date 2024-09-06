@@ -1,4 +1,51 @@
 {
     "id": "010013501959A800",
-    "version": 720896
+    "base_tid": "010013501959A000",
+    "name": "The Many Pieces of Mr. Coo",
+    "description": "The Many Pieces of Mr. Coo is a whimsical point’n’click adventure with a surrealist story, astounding hand-drawn animations and hilarious puzzles. Mr. Coo is trapped and broken into pieces. But most of all, he has no idea of what’s going on. Is that a giant chicken over there?",
+    "publisher": "MERIDIEM GAMES",
+    "developer": null,
+    "base_release_date": 20230907,
+    "first_update_release_date": 20230912,
+    "latest_update_release_date": 20240606,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240606
+    },
+    "versions": {
+        "196608": 20230912,
+        "262144": 20230919,
+        "327680": 20230928,
+        "393216": 20231011,
+        "458752": 20231024,
+        "524288": 20231207,
+        "589824": 20231229,
+        "655360": 20240227,
+        "720896": 20240606
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

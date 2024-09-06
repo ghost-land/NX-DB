@@ -1,4 +1,33 @@
 {
     "id": "010013B01962A800",
-    "version": 196608
+    "base_tid": "010013B01962A000",
+    "name": "Everybody's Home Run Rush",
+    "description": "The popular casual baseball game has been ported to the Nintendo Switch™ with a special focus on the home run race and a multiplayer mode!\n\nA simple and easy-to-understand party game in which players hit home runs in an exhilarating manner.\n\nThe perfect tempo and game balance will keep you entertained time and time again!\nPlay with others and you're sure to have a blast!\n\nBe the Home Run King!",
+    "publisher": "Edia",
+    "developer": null,
+    "base_release_date": 20221226,
+    "first_update_release_date": 20230126,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230802
+    },
+    "versions": {
+        "131072": 20230126,
+        "196608": 20230802
+    },
+    "category": [
+        "Action",
+        "Sports",
+        "Party"
+    ],
+    "intro": "Win the home run race!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

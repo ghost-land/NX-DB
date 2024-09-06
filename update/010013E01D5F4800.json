@@ -1,4 +1,39 @@
 {
     "id": "010013E01D5F4800",
-    "version": 131072
+    "base_tid": "010013E01D5F4000",
+    "name": "Full of Crap",
+    "description": "Can you avoid poop and eat curry?\nLet's have fun with a simple and clear game, \"Eat Curry while avoiding feces\"!\n\nIn this game, you eat curry without feces while avoiding curry with feces in it.\nWatch your opponent's behavior and eat as many poop-free curries as you can.\n\nYou can tell if a card in the field is poop or not by looking at one card in the field (it is OK to tell a lie!).\nChoose one type of curry that has more than 3 curries in the field, and turn over the cards one by one, and the game ends when 3 curries are eaten or poop is found.\n\nThe player who eats the most curry and gets the highest score wins!\n\nUp to 4 players can play together!",
+    "publisher": "KADOKAWA",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240319,
+    "latest_update_release_date": 20240709,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240709
+    },
+    "versions": {
+        "65536": 20240319,
+        "131072": 20240709
+    },
+    "category": [
+        "Board Game",
+        "Party"
+    ],
+    "intro": "Oh. My feces got mixed in with the curry.\nBut I'm very hungry...\nLet's just finish the curry and eat it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010013300F882800",
-    "version": 196608
+    "base_tid": "010013300F882000",
+    "name": "Home Run High",
+    "description": "Can you lead your high school baseball team to ultimate victory? It might be a small after-school club now, but with the right training, even the sky isn't the limit for this team!\n\nTrain players by assigning them practice drills. You choose what they need to focus on, such as batting or pitching.\n\nInstall batting cages, showers, or other facilities to make life better for the team. A good environment makes for more effective training! School life is not all about sports, though. Studying is just as important, so make sure to construct educational facilities to upgrade the school.\n\nHouse students in a dorm and they'll have more time for both studying and baseball practice! Pick your best players for the team and test their skill at tournaments.\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20200716,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20200819,
+        "131072": 20210802,
+        "196608": 20230322
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Train your baseball players\nand create a winning team!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language"
+    ],
+    "region": null
 }

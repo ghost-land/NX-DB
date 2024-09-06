@@ -1,4 +1,43 @@
 {
     "id": "01001330155EC800",
-    "version": 262144
+    "base_tid": "01001330155EC000",
+    "name": "Grapple Dog",
+    "description": "Grapple Dog is an exhilarating 2D pixel art platformer. Use your awesome grappling hook to clear tricky challenges as Pablo, the Grapple Dog!\n\n• Exhilarating action - Jumping! Swinging! Collecting gems! Dogs! Grapples! Driving a little boat around! And most exciting of all, dog petting!\n\n• 6 colorful worlds - Sail across the map to explore 6 worlds, featuring 33 levels filled with hidden collectibles to find, secret areas to investigate, spectacular boss battles to overcome, and bonus levels to master\n\n• Go, go, Grapple Dog! - A lighthearted adventure with tons of fun characters, you play as Pablo, the Grapple Dog! Sail with your merry band of fearless adventurers on your quest to stop the robotic overlord Nul from destroying the world\n\n• Play your way - Hone your grapple skills with optional collectibles and a testing speedrun Time Trial mode, or utilise the many in-built accessibility options to play without restrictions - have fun however you see fit\n\n• Bold & funky - A bold, colorful art style from a pixel art veteran makes Grapple Dog pop from start to finish, with a funky fresh soundtrack that's sure to stick in your head",
+    "publisher": "Super Rare Games",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20221019,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221019
+    },
+    "versions": {
+        "65536": 20220211,
+        "131072": 20220411,
+        "196608": 20220704,
+        "262144": 20221019
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Jump, swing, and zip your way through colorful worlds and exciting challenges in this unique 2D action-platformer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

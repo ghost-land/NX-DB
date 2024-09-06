@@ -1,4 +1,47 @@
 {
     "id": "0100134011E32800",
-    "version": 196608
+    "base_tid": "0100134011E32000",
+    "name": "Skate City",
+    "description": "Coast through three iconic locations based off of real-world skate spots in Los Angeles, Oslo, and Barcelona.\n\nPull off realistic tricks with ease and skate just like the pro's.\n\nHundreds of combinations are available, including flip tricks, grabs, grinds, spins, and manuals.\n\nComplete over 100 challenges or chill out and ride at your own pace with Endless Skate.\n\nCustomize your skater by picking up a new deck, trucks, wheels, shoes, hats, glasses, and clothes in the skate shop. You can also change your hair style, and skin tone, or unlock new moves and upgrade your abilities.\n\nOriginal soundtrack of atmospheric lo-fi beats.\n\nCapture and share your best runs with our in-game recording tools. You can zoom in, use a fish-eye lens, spin the camera and even slow down time to highlight your best tricks!",
+    "publisher": "Snowman",
+    "developer": null,
+    "base_release_date": 20210506,
+    "first_update_release_date": 20210429,
+    "latest_update_release_date": 20210616,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210616
+    },
+    "versions": {
+        "65536": 20210429,
+        "131072": 20210528,
+        "196608": 20210616
+    },
+    "category": [
+        "Action",
+        "Sports",
+        "Simulation",
+        "Lifestyle"
+    ],
+    "intro": "Your perfect ride. Worldwide.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

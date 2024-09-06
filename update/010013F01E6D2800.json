@@ -1,4 +1,37 @@
 {
     "id": "010013F01E6D2800",
-    "version": 65536
+    "base_tid": "010013F01E6D2000",
+    "name": "Passing By - A Tailwind Journey",
+    "description": "Take to the skies in your balloon ship and explore a colorful world of floating islands. Befriend fellow travelers and quirky islanders, use your wits to solve immersive puzzles, and gather resources to continue your journey towards an unknown destination.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20240313,
+    "first_update_release_date": 20240312,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20240312
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "A cozy survival adventure game to escape from your daily life. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

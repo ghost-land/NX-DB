@@ -1,4 +1,34 @@
 {
     "id": "010014700C1AA800",
-    "version": 196608
+    "base_tid": "010014700C1AA000",
+    "name": "WWA Collection",
+    "description": "インターネット黎明期の人気パズルRPGシリーズ\n「World Wide Adventure」が、Nintendo Switch向けに初登場！\n新作・名作・迷作を45本収録。これぞWWAコレクションの決定版！\n【よりどりみどり、WWAゲームを遊びつくそう！】\n総勢14名のクリエイターが集結した豪華作！\nRPG・パズル・アドベンチャー・ミニゲームなど、収録ジャンルも豊富。\n君は全てのゲームを遊びつくせるか！？\n\n\n【初心者向け機能も充実！】\n今作では、WWA操作の基本がわかる「チュートリアル」を収録！\n初心者さんや、遊び方を忘れてしまった人も安心して遊べます。\n\n難易度や操作感も、Nintendo Switch向けにバージョンアップ！\n簡単すぎず難しすぎない、ほどよい歯ごたえのWWAをお手元に。",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20181220,
+    "first_update_release_date": 20181228,
+    "latest_update_release_date": 20190510,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190510
+    },
+    "versions": {
+        "65536": 20181228,
+        "131072": 20190128,
+        "196608": 20190510
+    },
+    "category": [
+        "ロールプレイング",
+        "パズル",
+        "アドベンチャー",
+        "シミュレーション"
+    ],
+    "intro": "2000年代前半に一大ブームを巻き起こした\n「あの」ブラウザゲームが、Nintendo Switchで大復活！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

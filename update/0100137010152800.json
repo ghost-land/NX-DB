@@ -1,4 +1,38 @@
 {
     "id": "0100137010152800",
-    "version": 65536
+    "base_tid": "0100137010152000",
+    "name": "The Adventures of 00 Dilly®",
+    "description": "Crash test dummy 00 Dilly withstood numerous crash tests in the 1950s but ended up heedlessly consigned to the dump. But then some confused aliens inadvertently breathed new life into him. Now Dilly wants to prove to the world that he is the right crash test dummy for any kind of test. Get ready to shoot 00 Dilly as far as you can across the Grand Canyon with the weirdest and whackiest devices. Get ready for thrilling adventures with 00 Dilly!\n\n• Master 12 increasingly difficult levels and 3 exciting bonus levels\n• Shoot 00 Dilly into the air with the craziest launching devices\n• Collect various items during your flights\n• Beware of the nasty bears that want to get in your way\n• Get help from the friendly goats \n• Good or better? The scoring system rates your performance\n• Land in the bullseye and beat your high score",
+    "publisher": "Toplitz Productions",
+    "developer": null,
+    "base_release_date": 20200220,
+    "first_update_release_date": 20200914,
+    "latest_update_release_date": 20200914,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200914
+    },
+    "versions": {
+        "65536": 20200914
+    },
+    "category": [
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Experience the adventures of 00 Dilly!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }
