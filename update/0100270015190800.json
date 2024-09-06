@@ -1,4 +1,36 @@
 {
     "id": "0100270015190800",
-    "version": 65536
+    "base_tid": "0100270015190000",
+    "name": "Galaxy Squad",
+    "description": "The game combines node-based exploration with random events, with hardcore tactical battles. All your characters are randomly generated, and you can evolve them however you want, creating your ultimate crew.\n\n• Explore different planets and systems, fight huge hordes of enemies\n• Upgrade your ship and use its systems in events or in battles\n• Explore space stations, find quests\n• A well-developed story campaign system, involving your characters and branching storylines\n• Upgrade your equipment with different modifications and find rare loot",
+    "publisher": "Big Way",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20211112,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211112
+    },
+    "versions": {
+        "65536": 20211112
+    },
+    "category": [
+        "Action",
+        "Strategy",
+        "RPG",
+        "Other"
+    ],
+    "intro": "Galaxy squad is a turn-based tactical roguelike in which you are leading a squad of mercenaries through a randomly generated galaxy filled with different events.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

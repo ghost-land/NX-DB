@@ -1,4 +1,30 @@
 {
     "id": "010027100C79A800",
-    "version": 65536
+    "base_tid": "010027100C79A000",
+    "name": "ルーンファクトリー４スペシャル",
+    "description": "「ルーンファクトリー４スペシャル」登場！\nファンタジー世界を舞台にした、やりこみ要素満点のルーンファクトリー４がNintendo Switchで鮮やかに。\n新たなシナリオ、ドキドキの新婚生活も楽しめる。\n心震える冒険ファンタジー再び・・",
+    "publisher": "マーベラス",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20190724,
+    "latest_update_release_date": 20190724,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190724
+    },
+    "versions": {
+        "65536": 20190724
+    },
+    "category": [
+        "ロールプレイング",
+        "アクション"
+    ],
+    "intro": "あの「ルーンファクトリー４」がNintendo Switchで、鮮明に生まれ変わる。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010026E017F54800",
-    "version": 131072
+    "base_tid": "010026E017F54000",
+    "name": "REMOTE LIFE",
+    "description": "\t\t\nREMOTE LIFE is a 2D side-scrolling Shoot 'Em Up (shmup). Experience a fast paced action game with striking aesthetics.\n\nThe gorgeously animated 3D graphics are full of creepy monsters, ominous backgrounds, and menacing bosses. Featuring 16 different unique combat missions, get ready to fly through a vibrant and haunting alien world.\n\nThis game is a full immersion in an unseen world.\n\n\nFEATURES\n* Space shooter / shmup\n* Fantastic visual effects\n* 16 amazing missions\n* Auto-save of level progression\n* Compelling story and mysterious atmosphere\n* Over 18 weapons",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20220527,
+    "first_update_release_date": 20220527,
+    "latest_update_release_date": 20220621,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220621
+    },
+    "versions": {
+        "65536": 20220527,
+        "131072": 20220621
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Blast off into a dark, stylish, and horrific alien-infested universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "0100271010016800",
-    "version": 262144
+    "base_tid": "0100271010016000",
+    "name": "REPUBLIQUE: Anniversary Edition",
+    "description": "You receive a call from Hope, a woman trapped inside a secret totalitarian state, Metamorphosis. By hacking into the nation's elaborate surveillance network, help Hope escape from a web of danger and deception. Use security systems, distract guards, solve intricate puzzles, find hidden secrets, and intercept conversations from a wide cast of characters voiced by renowned actors including Rena Strober (Fire Emblem), Jennifer Hale (Mass Effect), David Hayter (Metal Gear Solid), and Dwight Schultz (Marvel’s Spider-Man). \n\nExperience a thrilling narrative stealth adventure game that explores the perils of government surveillance in the Internet Age, and keep Hope alive.",
+    "publisher": "Camouflaj",
+    "developer": null,
+    "base_release_date": 20220310,
+    "first_update_release_date": 20220301,
+    "latest_update_release_date": 20220301,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220301
+    },
+    "versions": {
+        "262144": 20220301
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Narrative stealth-action game exploring the perils of government surveillance. government surveillance.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

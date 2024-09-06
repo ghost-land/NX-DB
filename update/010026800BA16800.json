@@ -1,4 +1,47 @@
 {
     "id": "010026800BA16800",
-    "version": 393216
+    "base_tid": "010026800BA16000",
+    "name": "Xenon Racer",
+    "description": "In the near future, the official racing federation has ordered a seasons pause from racing, to allow teams to ease into the transition to flying vehicles. To bridge this gap, top hybrid car manufacturers host a rogue championship for rookie drivers on the streets of cities worldwide. Their advanced cars drive on electricity and Xenon gas, resulting in crazy speeds. Get behind the wheel, keep your adrenaline in check and drift through the streets. Boost to absurd speeds and become the ultimate Xenon Racer!\n\nFeatures:\nRace at top speeds in electric vehicles boosted by Xenon gas \nDrift through the streets of cities like Tokyo and Dubai in 2030 \nTriumph in singleplayer, split-screen & online multiplayer championships\nCustomize your car with tons of parts to create the ultimate racing vehicle\n",
+    "publisher": "3DClouds",
+    "developer": null,
+    "base_release_date": 20230320,
+    "first_update_release_date": 20190121,
+    "latest_update_release_date": 20191014,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20191014
+    },
+    "versions": {
+        "65536": 20190121,
+        "131072": 20190324,
+        "196608": 20190407,
+        "262144": 20190507,
+        "327680": 20190606,
+        "393216": 20191014
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Race at top speeds in electric vehicles boosted by Xenon gas\nDrift through the streets of cities like Tokyo and Dubai in 2030\nTriumph in singleplayer, split-screen & online multiplayer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

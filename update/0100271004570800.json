@@ -1,4 +1,42 @@
 {
     "id": "0100271004570800",
-    "version": 131072
+    "base_tid": "0100271004570000",
+    "name": "Next Up Hero",
+    "description": "Next Up Hero is a dungeon crawler featuring hand-drawn \nheroes that hack, slash, bongo-drum, boomerang, and jet \ntheir way through Ventures. Choose your Hero and start \nrolling dungeons, gearing out, and maxing your stats. \nInvite a friend for co-op -- you’re going to need all the help \nyou can get.",
+    "publisher": "Digital Continue",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20180924,
+    "latest_update_release_date": 20181115,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181115
+    },
+    "versions": {
+        "65536": 20180924,
+        "131072": 20181115
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Fight! Die! Win!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

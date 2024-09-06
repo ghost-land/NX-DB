@@ -1,4 +1,43 @@
 {
     "id": "010026F01A600800",
-    "version": 196608
+    "base_tid": "010026F01A600000",
+    "name": "qomp2",
+    "description": "Control a Pong ball aching to break free of its life stuck between two paddles. Explore a dangerous, minimalist world, armed with simple two button controls: tap a button to change direction diagonally by 45 degrees, and hold down a button to unleash a cathartic dash forward. That’s all you need to solve environmental puzzles and labyrinthine levels. Around each corner is a new challenge that will test your two-button and problem-solving skills. A variety of difficult enemies and bosses help you mark your time as you navigate through 30 levels spread across four worlds.\n\nA cerebral puzzler lies within the heart of this indie twist on Pong.\n\nKey Features:\n\nCerebral Puzzling: The simple, two button controls belie complex and compelling gameplay. Use your reflexes and think ahead to avoid hazards, flip switches, and bounce your way through 30 tricky levels. Hidden collectibles push you to explore every inch of the minimalist maps.\n\nA Surprise around Every Corner: qomp2 constantly delights as new features, mechanics, enemies, traps and hazards are introduced as you progress deeper into the game. Don’t get complacent: As soon as you’ve mastered one aspect of gameplay, another is ready to challenge you.\n\nBosses: Four challenging bosses block your path at the end of each world. You will need to use all your newfound skills to master their attacks and defenses. Don’t worry. Death isn’t the end in an arcade-inspired world.  Quick respawn makes sure you’re back in the action in seconds.\n\nA Serene Soundscape: A soundtrack of ambient jams gets you in the groove, and helps you keep your cool, as you work your way through the minimalist maze.\n\nAn Emotional Journey: An enigmatic story of doubt, fear, and self-acceptance, told wordlessly through simple effects and gameplay.",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20240220,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20240110,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240110
+    },
+    "versions": {
+        "65536": 20231013,
+        "131072": 20231101,
+        "196608": 20240110
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "An artful reimagining of Pong.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

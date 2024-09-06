@@ -1,4 +1,34 @@
 {
     "id": "010026A01B334800",
-    "version": 65536
+    "base_tid": "010026A01B334000",
+    "name": "Hero Survival",
+    "description": "Hero Survival is a roguelite game in which you will slay hordes of enemies from classic horror movies by enhancing your character, learning different skills and matching your play style with equipment.\n\nChoose a unique way for your character. Want to freeze your enemies? That's the cryomancer's way for you! Or would you rather play the role of a bomber who blows things up? Or maybe you're ready to rely only on your trusty weapon? Then you are a natural born gunslinger!\n\nSpend the coins earned in each run to unlock new characters. Get stronger, destroy thousands of enemies, survive wave after wave and try not to upset the Mad Time God!\n\nFeatures:\n- Fast-paced runs\n- Vampires, werewolves, mummies and other monsters from classic horror movies\n- Hundreds of item and skills combinations to enhance your character\n- A lot of weapons. Guns? Revolvers? Shotguns? Sniper rifles? Grenade launchers? Automatic rifles? Machine guns? We have them all!",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20231027,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20231013
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Try to survive hordes of classic horror monsters!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

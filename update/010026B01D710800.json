@@ -1,4 +1,35 @@
 {
     "id": "010026B01D710800",
-    "version": 65536
+    "base_tid": "010026B01D710000",
+    "name": "Duck, Quack, Shoot!",
+    "description": "Duck, Quack, Shoot! Is a fun party game styled like an old-fashioned mechanical carnival shooting gallery. Can you beat the ducks? \n\n•\tSingle and local multiplayer game modes\n•\t4 unique background themes -fairground, casino, farm and outer space\n•\tClassic mechanical shooting gallery \n•\tFun and fast paced with a variety of traditional and special targets! \n",
+    "publisher": "Excalibur Games",
+    "developer": null,
+    "base_release_date": 20240216,
+    "first_update_release_date": 20240704,
+    "latest_update_release_date": 20240704,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240704
+    },
+    "versions": {
+        "65536": 20240704
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

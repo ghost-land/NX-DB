@@ -1,4 +1,34 @@
 {
     "id": "010026800E304800",
-    "version": 65536
+    "base_tid": "010026800E304000",
+    "name": "超級機器人大戰Ｘ",
+    "description": "以異世界「艾爾・瓦司」為舞台，機器人們跨越了作品之間的框架，得以齊聚一堂的超級機器人大戰X於Nintendo Switch上登場！\n在離奇般的命運安排下，聚集在「艾爾・瓦司」的戰神們將面對的是…\n\n目擊在幻光世界展開的戰鬥吧。\n\n在Nintendo Switch版內收錄了於其他平台版本需付費下載的20篇贈送劇情！\n盡情遊玩超級機器人大戰X吧！",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20200110,
+    "first_update_release_date": 20200304,
+    "latest_update_release_date": 20200304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200304
+    },
+    "versions": {
+        "65536": 20200304
+    },
+    "category": [
+        "模擬",
+        "角色扮演",
+        "冒險"
+    ],
+    "intro": "戰神們的命運，將在嶄新的世界交會(X-cross-)。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

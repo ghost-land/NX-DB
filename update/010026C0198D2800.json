@@ -1,4 +1,40 @@
 {
     "id": "010026C0198D2800",
-    "version": 65536
+    "base_tid": "010026C0198D2000",
+    "name": "Brain Memory",
+    "description": "Brain Memory improves on the classic formula of memory games. It lets you increase the difficulty level at your own pace, and customize  challenges to one's taste. \n\nOur brains are the most important tools of the XXI century. Do your child a favor, and give thema gift that will help them reach their full potential.\n\nKey Features\n\n- Improves memory\n- Adorable Cards\n- Adjustable difficulty level\n- Relaxing music\n- 8 card designs\n- 20 difficulty levels",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20221111,
+    "first_update_release_date": 20230125,
+    "latest_update_release_date": 20230125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230125
+    },
+    "versions": {
+        "65536": 20230125
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Study",
+        "Training"
+    ],
+    "intro": "Help your child harness the hidden potential of their mind. Use these colorfull cards to improve their memory skills. Let them become the masters of their own minds.yourself in this adorable ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

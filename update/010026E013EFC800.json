@@ -1,4 +1,47 @@
 {
     "id": "010026E013EFC800",
-    "version": 131072
+    "base_tid": "010026E013EFC000",
+    "name": "Paint the Town Red",
+    "description": "The voxel-based enemies can be damaged completely dynamically using almost anything that isn't nailed down.\n\nIn the Scenario levels you'll need to use your wits, speed and anything you can get your hands on in epic bar fights, disco brawls, old west saloon rumbles and more.\n\nIn the epic rogue-lite Beneath you'll have to delve deep underground battling terrifying monsters and unlocking powerful upgrades in a battle against ancient evils.\n\nFeatures\n\n- Demolish completely destructible voxel-based enemies\n- Dive into action-packed scenarios including a Biker Bar, Disco, Prison, Pirate Cove and Western Saloon each filled with unique enemies and weapons\n- Face the ultimate challenge in Beneath, a massive roguelike campaign filled with deadly creatures, secrets, and bosses.\n- Choose from a variety of classes with unique stats and abilities and upgrade them to become unstoppable\n- Join the fray in the Arena mode with multiple challenges and survive as long as possible in the Endless Mode\n- Wield a vast array of period-appropriate weaponry\n- Defeat boss enemies with unique challenges and rewards",
+    "publisher": "South East Games",
+    "developer": null,
+    "base_release_date": 20210729,
+    "first_update_release_date": 20210706,
+    "latest_update_release_date": 20210726,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210726
+    },
+    "versions": {
+        "65536": 20210706,
+        "131072": 20210726
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "RPG"
+    ],
+    "intro": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods and featuring a massive Rogue-Lite adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence",
+        "Users Interact"
+    ],
+    "region": null
 }
