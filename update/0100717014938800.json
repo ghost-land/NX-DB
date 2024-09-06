@@ -1,4 +1,36 @@
 {
     "id": "0100717014938800",
-    "version": 131072
+    "base_tid": "0100717014938000",
+    "name": "Arcade Space Shooter 2 in 1",
+    "description": "In Space War Infinity, evolve your ship as you advance and level up in the game. Unlock more than 20 different upgrades and weapons during the game. Defeat 5 bosses ready to spray you. Endless game! After completing all the missions, try to move up in rank by facing waves of enemies created in real time.\n\nIn Space Smash, avoid being crushed by the space storm by collecting Orbs of blue energy to save more time and space, watch out for the red Orbs. Get the highest score possible! Get to the podium on the scoreboard and try to stay there as long as possible. Unlock ships with unique characteristics by collecting coins that appear in the arena.\n\nBoth have features:\n• Easy to learn and with simple commands.\n• A wide variety of weapons, powerups and ship upgrades.\n• Wide range of enemies.\n• Beautiful pixel-art graphics.\n• Retro sound effects.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20210617,
+    "first_update_release_date": 20210624,
+    "latest_update_release_date": 20211104,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211104
+    },
+    "versions": {
+        "65536": 20210624,
+        "131072": 20211104
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Other"
+    ],
+    "intro": "Arcade Space Shooter brings two games inspired by the classic Arcade games, both are fast, addictive and retro shoot ’em up!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

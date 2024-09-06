@@ -1,4 +1,31 @@
 {
     "id": "0100709015AA2800",
-    "version": 65536
+    "base_tid": "0100709015AA2000",
+    "name": "Ancient Islands",
+    "description": "This game covers a lot of unique strategies and combination in order to defend the village. Build not only the defense towers but also other facilities inside your settlement. \nPlace woodcutter's huts near the forest to gather wood, then build a marketplace to exchange it for stone.\n\nDevelop your magic schools to get more mana and unlock more powerful spells. Upgrade your gate to damage enemies attacking it and so on...\n\nDevelop your abilities in a way you like - tons of available combinations, you can specialize yourself in getting gold and archery, woodcutting, and melee fighters or go full resource gathering.\n\nOn every branch of the skill tree, there are new buildings and towers to be unlocked. Set the plan of an attack for each individual tower.\n\nOrder your forces to attack a specific enemy based on 14 unique traits. You can make mage towers target the flying enemies with low health first, and your archers the fastest ones with the strongest magic resistance. It's all in your hands.",
+    "publisher": "Art Games Studio",
+    "developer": null,
+    "base_release_date": 20220310,
+    "first_update_release_date": 20220401,
+    "latest_update_release_date": 20220401,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220401
+    },
+    "versions": {
+        "65536": 20220401
+    },
+    "category": [
+        "Arcade"
+    ],
+    "intro": "Hard tower-defense mixed with economy elements. It features complex skill trees, resource trading, building your own village, and setting individual tactics for each tower.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

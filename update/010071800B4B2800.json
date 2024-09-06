@@ -1,4 +1,41 @@
 {
     "id": "010071800B4B2800",
-    "version": 65536
+    "base_tid": "010071800B4B2000",
+    "name": "Your Toy",
+    "description": "Do you remember all the toys from your childhood? Do you remember what happened to them? Where are they now? Though once best friends, they have now become your worst nightmare!\n\n \n\nYour Toy is a 3D first person horror room escape game that features an advanced non-repeat puzzle system with challenging riddles, heart-pounding escape sequences and a mysterious narrative that dives deep into your darkest subconsciousness. Players will experience a fully immersive 3D environment, where the realistic art style provides an eerie and engaging atmosphere. Are you ready to enter your nightmares? \n\n \n\nWaking up in darkness, you find yourself trapped in a place long forgotten. Cryptic messages, one after another, lure you deeper into the abyss of an intriguing unknown, and a feeling that someone is watching you from the other side of this surreal dimension. Caught between your own memory and a false dream, a forgotten victim returns, but now play-time is reversed. Who is the toy now?",
+    "publisher": "VivaGames",
+    "developer": null,
+    "base_release_date": 20190516,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20191211,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191211
+    },
+    "versions": {
+        "65536": 20191211
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

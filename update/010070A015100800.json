@@ -1,4 +1,37 @@
 {
     "id": "010070A015100800",
-    "version": 65536
+    "base_tid": "010070A015100000",
+    "name": "Family Vacation: California",
+    "description": "Join the Simmons family as they embark on their Family Vacation to sunny California in this family-friendly adventure. \nHit the beach, take in a ballgame and ride the rollercoaster at the theme park all before helping the family compete on the game show; \nHelp Barb win the main prize and whole family to celebrate their great trip to California!\n\n- 25+ Levels over 8 chapters\n- 15+ challenging puzzles\n- Bright, colorful graphics\n- Fun for the whole family",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210927,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20210927
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Join the Simmons family as they embark on their Family Vacation to sunny California in this family-friendly adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

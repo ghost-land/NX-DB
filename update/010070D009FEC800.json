@@ -1,4 +1,48 @@
 {
     "id": "010070D009FEC800",
-    "version": 524288
+    "base_tid": "010070D009FEC000",
+    "name": "LEGO® DC Super-Villains",
+    "description": "It's good to be bad… Embark on an all-new DC/LEGO® adventure by becoming the best villain the universe has seen. Players will create and play as an all-new super-villain throughout the game, unleashing mischievous antics and wreaking havoc in an action-packed story. Set in an open world experience within the DC universe, the Justice League has disappeared, leaving Earth's protection to their counterparts, who have proclaimed themselves as the \"Justice Syndicate\". It's up to you and a crazy group of misfits to uncover the intentions of Earth's new, strange, wannabe superheroes. Joined by renowned DC Super-Villains: The Joker, Harley Quinn, and countless others from the Injustice League, players will set out on an epic adventure.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220907,
+    "first_update_release_date": 20181005,
+    "latest_update_release_date": 20190510,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20190510
+    },
+    "versions": {
+        "65536": 20181005,
+        "131072": 20181109,
+        "196608": 20181130,
+        "262144": 20181218,
+        "327680": 20190201,
+        "393216": 20190305,
+        "458752": 20190326,
+        "524288": 20190510
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

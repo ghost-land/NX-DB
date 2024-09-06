@@ -1,4 +1,38 @@
 {
     "id": "010071400981A800",
-    "version": 65536
+    "base_tid": "010071400981A000",
+    "name": "Arcade Archives Karate Champ",
+    "description": "'Karate Champ' is an action game that was released from Data East in 1984.\nPlayers train a variety of karate skills with a combination of stick operations, to be a champion of competitions. \nAt the time, a bonus stage to wrestle with cattle on the beach was a hot topic.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20191003,
+    "first_update_release_date": 20210712,
+    "latest_update_release_date": 20210712,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210712
+    },
+    "versions": {
+        "65536": 20210712
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": "Freely use 16 types of karate moves and aim for the top in the World Karate Championship! And on the last stage... GET THE BULL!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

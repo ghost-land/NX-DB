@@ -1,4 +1,57 @@
 {
     "id": "010070A00A5F4800",
-    "version": 786432
+    "base_tid": "010070A00A5F4000",
+    "name": "Armello",
+    "description": "Armello is a grand swashbuckling adventure that combines three styles of play; The deep tactics of card games with the rich strategy of table top board games, combined with a character role-playing system. \n\nAs a hero from one of the clans of Armello, you'll quest, scheme, hire agents, explore, vanquish monsters, cast spells and face off against other players, with one ultimate end goal in mind — storming the palace and becoming King or Queen of Armello. The Kingdom of Armello is as dangerous as it is beautiful, perils, banes and bandits hide around every corner and a spreading corruption known as the Rot is leaving no creature untouched.",
+    "publisher": "League of Geeks",
+    "developer": null,
+    "base_release_date": 20180927,
+    "first_update_release_date": 20181011,
+    "latest_update_release_date": 20221218,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20221218
+    },
+    "versions": {
+        "65536": 20181011,
+        "131072": 20190122,
+        "196608": 20190314,
+        "262144": 20190917,
+        "327680": 20220104,
+        "393216": 20220117,
+        "458752": 20220201,
+        "524288": 20220330,
+        "589824": 20220523,
+        "655360": 20220712,
+        "720896": 20220926,
+        "786432": 20221218
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Tabletop Adventure Brought to Life",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

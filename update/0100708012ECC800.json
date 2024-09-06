@@ -1,4 +1,43 @@
 {
     "id": "0100708012ECC800",
-    "version": 262144
+    "base_tid": "0100708012ECC000",
+    "name": "Salad Bar Tycoon",
+    "description": "Look out, this awesome salad bar will soon become the best one in town!\n\nBecome the manager of a salad bar and learn for yourself just how hard it can be.\n\nBe careful not to mix up your recipes!\n\nUpgrade your bar and make it beautiful! Find ingredients of the best quality!\n\nThen create the best salad bar in town!\n\nCustomers are waiting in line, and you have to serve them as fast as you can.\n\nGive it your best and you might just make it!\n\nFeatures:\n\n* More than 70 dishes to serve\n* 3 unique locations\n* 60+ levels to explore\n* Countless upgrades\n* Unlock new items to upgrade your kitchen appliances, interiors and ingredients\n* 40+ achievements to gain",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20201106,
+    "latest_update_release_date": 20210825,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210825
+    },
+    "versions": {
+        "65536": 20201106,
+        "196608": 20210623,
+        "262144": 20210825
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Become the manager of a salad bar and learn for yourself just how hard it can be!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null
 }

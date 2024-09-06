@@ -1,4 +1,35 @@
 {
     "id": "010071B017DD6800",
-    "version": 65536
+    "base_tid": "010071B017DD6000",
+    "name": "There Will Be No Turkey This Christmas",
+    "description": "On Christmas Eve, a small turkey manages to get inside a barrel, hiding from the Silva family that intended to roast it. Now disguised, it begins a saga of running, hiding, and running a little further in search of freedom.\n\nFeatures:\n- Be stealthy! You are escaping, after all.\n- Pass through hidden tunnels in the house so enemies don't see you.\n- Collect items to make new skins available.\n- Take on 30 levels and the challenge of not becoming a roast turkey.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220519,
+    "first_update_release_date": 20221109,
+    "latest_update_release_date": 20221109,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221109
+    },
+    "versions": {
+        "65536": 20221109
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Adventure"
+    ],
+    "intro": "Christmas is coming, and your goal is to spoil it! After all, you are the turkey!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violent References"
+    ],
+    "region": null
 }
