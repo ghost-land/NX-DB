@@ -1,4 +1,41 @@
 {
     "id": "0100E4601CDDC800",
-    "version": 262144
+    "base_tid": "0100E4601CDDC000",
+    "name": "Maid of the Dead",
+    "description": "A shooting game aimed at restoring peace to Akiba by controlling gun-slinging maids and defeating zombies.\n\n■Use the right skills and destroy the zombies that come for you from behind the screen!\nBy defeating swarms of zombies and levelling up, you can gain a skill at random. These include being able to fire missiles, controlling flying drones and much more! Chose the skills that suit your play style the best to destroy those zombies!\n\n\n■You're not alone!Defeat the zombies along with any stray maids you meet!\nIf you shoot a \"Unity bullet\" into a maid undergoing zombification, they'll fight alongside you!\nThe more allies you gain in battle, the stronger your stray maids will become!\n\n■Train your maids so that they won't lose to any zombies!\nBy using the points you receive in battle, you can purchase items like \"Unity Bullets\", which are used to recruit new maids. Other items to help power-up maids, along with various accessories that can help you in battle, are available as well. Make the ultimate maid that can take down any zombie by buffing them up with items!\n\n\n<Character>\n・Nagisa Hihara      (Voice : Karin Isobe）\n・Rinka Kazane    (Voice : Lynn）\n・Arisa Hikami    (Voice : Yuuki Takada ）\n・Leyla Sanders   (Voice : Kanna Nakamura）\n・Otoha Tsuchiura (Voice : Honoka Kuroki）\n\n・Kanon Mikagami  (Voice : Anzu Haruno）\n・Miona Anjo      (Voice : Yamaki Anna）\n\n<Staff>\n・Character Design:Waon Inui\n・Scenario:Linkedbrain Inc.\n・Producer:Yujiro Usuda",
+    "publisher": "qureate",
+    "developer": null,
+    "base_release_date": 20240215,
+    "first_update_release_date": 20240214,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20240214,
+        "131072": 20240221,
+        "196608": 20240228,
+        "262144": 20240312
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Zombies left, right and center!!\nWill the maids be able to bring peace back to Akiba?!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

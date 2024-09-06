@@ -1,4 +1,40 @@
 {
     "id": "0100E5600D446800",
-    "version": 131072
+    "base_tid": "0100E5600D446000",
+    "name": "Ni no Kuni: Wrath of the White Witch",
+    "description": "Journey back to the other world in Ni no Kuni: Wrath of the White Witch. LEVEL-5’s classic tale comes to Nintendo Switch™ for the first time. Join Oliver as he embarks on an adventure through a world inhabited by new friends and ferocious foes alike in the hopes of bringing back his mother after a tragic incident. With a copy of the Wizard’s Companion in his hand and his trusty friend Drippy by his side, he will travel across this rich fantasy world to tame familiars, take on enemies, and overcome the countless challenges that stand between him and his mother’s salvation.\n\nThis charming tale unfolds through the use of animation storyboarded and created by the legendary Studio Ghibli and music composed by the renowned Joe Hisaishi. Ni no Kuni: Wrath of the White Witch combines beautiful animated visuals, masterful storytelling, and a sweeping score to create an epic role-playing adventure like no other.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20190908,
+    "latest_update_release_date": 20191212,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191212
+    },
+    "versions": {
+        "65536": 20190908,
+        "131072": 20191212
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Take the Other World with You",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol and Tobacco Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Simulated Gambling"
+    ],
+    "region": null
 }

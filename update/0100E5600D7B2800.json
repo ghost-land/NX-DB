@@ -1,4 +1,46 @@
 {
     "id": "0100E5600D7B2800",
-    "version": 327680
+    "base_tid": "0100E5600D7B2000",
+    "name": "WARHAMMER 40,000: SPACE WOLF",
+    "description": "Warhammer 40,000: Space Wolf is a turn-based tactical strategy in which you have to take command of the Space Wolves and join the battle against the wicked servants of Chaos and the sinister Necrons.\n \n Game features:\n \n - An epic story campaign, a unique survival mode\n - A system for levelling and tuning the squad\n - Different classes of armour and a huge number of weapons\n - All previously released DLC.",
+    "publisher": "HeroCraft",
+    "developer": null,
+    "base_release_date": 20200124,
+    "first_update_release_date": 20200909,
+    "latest_update_release_date": 20220317,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220317
+    },
+    "versions": {
+        "65536": 20200909,
+        "131072": 20201126,
+        "196608": 20210401,
+        "262144": 20211214,
+        "327680": 20220317
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

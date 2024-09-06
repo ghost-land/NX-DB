@@ -1,4 +1,45 @@
 {
     "id": "0100E4600D31A800",
-    "version": 262144
+    "base_tid": "0100E4600D31A000",
+    "name": "Mechstermination Force",
+    "description": "Battle against massive bosses, jump and climb onto them to find their weakspots and blow them to kingdom come in this action packed platforming boss rush, from the creator of the Gunman Clive series.\n\nWhen the MegaMechs have taken control of the world, one small group of brave soldiers are still fighting for humanity's  independence. Join them and lead the charge against the mechanical menace.\n\nGet powerful weapons and upgrades! Use the Magnet Gloves to climb on top of robots the size of Skyscrapers, double jump over pools of lava with the Boost Boots, and use your trusty baseball bat to smash the MegaMechs energy cores.\n\nTake on the massive bosses alone or together with a friend in local co-op",
+    "publisher": "Hörberg Productions",
+    "developer": null,
+    "base_release_date": 20230117,
+    "first_update_release_date": 20190405,
+    "latest_update_release_date": 20190610,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190610
+    },
+    "versions": {
+        "65536": 20190405,
+        "131072": 20190423,
+        "196608": 20190528,
+        "262144": 20190610
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Join the Mechstermination Force and save the world from the gigantic MegaMechs!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

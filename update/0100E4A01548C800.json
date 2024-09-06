@@ -1,4 +1,36 @@
 {
     "id": "0100E4A01548C800",
-    "version": 65536
+    "base_tid": "0100E4A01548C000",
+    "name": "MONARK",
+    "description": "Could you face yourself and the threats around you to save the ones you love? Shin Mikado Academy is engulfed in a madness-inducing Mist, and only you can save everyone inside. Develop your Ego to break the pacts set by the Pactbearers and dispel the corrupting Mist.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20220222,
+    "first_update_release_date": 20220222,
+    "latest_update_release_date": 20220222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220222
+    },
+    "versions": {
+        "65536": 20220222
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Follow your Ego, control the madness.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

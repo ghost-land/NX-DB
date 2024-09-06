@@ -1,4 +1,32 @@
 {
     "id": "0100E53013E1C800",
-    "version": 131072
+    "base_tid": "0100E53013E1C000",
+    "name": "Blastoid Breakout",
+    "description": "Breakout come back in this modernized top-of-the-art version.\n\nEnjoy hours of pure fun with this classic break the bricks game. Enjoy the enhanced version with today device capabilities and revive the gameplay simple yet addictive of first generation video-games.\n\nCollectable power-ups; multi-balls, fireballs make this version like no others.\n\nShow off your skills and complete the increasingly challenging levels.\n\nIt's time for you to break a few walls!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20211015,
+    "first_update_release_date": 20210219,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211014
+    },
+    "versions": {
+        "65536": 20210219,
+        "131072": 20211014
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

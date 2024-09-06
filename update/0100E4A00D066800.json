@@ -1,4 +1,41 @@
 {
     "id": "0100E4A00D066800",
-    "version": 65536
+    "base_tid": "0100E4A00D066000",
+    "name": "Sea King",
+    "description": "Take your ship to sea and challenge your friends for the title of 'Sea King'.\nPlay with 3 other friends or against the brutally clever AI or against both friends and AI.\nNo party is complete without a naval fighting game.\nThe victor wins brag rights.",
+    "publisher": "Interactive Stone",
+    "developer": null,
+    "base_release_date": 20190617,
+    "first_update_release_date": 20191009,
+    "latest_update_release_date": 20191009,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191009
+    },
+    "versions": {
+        "65536": 20191009
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Fast-paced naval combat party game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }
