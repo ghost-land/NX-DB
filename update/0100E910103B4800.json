@@ -1,4 +1,44 @@
 {
     "id": "0100E910103B4800",
-    "version": 131072
+    "base_tid": "0100E910103B4000",
+    "name": "Thronebreaker: The Witcher Tales",
+    "description": "Thronebreaker is a single player role-playing game set in the world of The Witcher that combines narrative-driven exploration with unique puzzles and card battle mechanics.\n\nCrafted by the developers responsible for some of the most iconic moments in The Witcher 3: Wild Hunt, the game spins a truly regal tale of Meve, a war-veteran and queen of two Northern Realms — Lyria and Rivia. Facing an imminent Nilfgaardian invasion, Meve is forced to once again enter the warpath and set out on a dark journey of destruction and revenge.",
+    "publisher": "CD PROJEKT",
+    "developer": null,
+    "base_release_date": 20200128,
+    "first_update_release_date": 20200128,
+    "latest_update_release_date": 20201020,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201020
+    },
+    "versions": {
+        "65536": 20200128,
+        "131072": 20201020
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild themes, violence and coarse language"
+    ],
+    "region": null
 }

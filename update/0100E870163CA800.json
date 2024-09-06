@@ -1,4 +1,42 @@
 {
     "id": "0100E870163CA800",
-    "version": 65536
+    "base_tid": "0100E870163CA000",
+    "name": "Batman: Arkham Asylum",
+    "description": "Face off against notorious DC Super-Villains: The Joker, Scarecrow, Poison Ivy, and more in Batman: Arkham Asylum.\n\nExperience critically acclaimed gameplay & AAA original storytelling, PLUS all DLC, in one complete package, now on Nintendo Switch™.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20231201,
+    "first_update_release_date": 20231222,
+    "latest_update_release_date": 20231222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231222
+    },
+    "versions": {
+        "65536": 20231222
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol and Tobacco Reference",
+        "Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

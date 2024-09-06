@@ -1,4 +1,33 @@
 {
     "id": "0100E8B012FBC800",
-    "version": 65536
+    "base_tid": "0100E8B012FBC000",
+    "name": "Maze",
+    "description": "EXPLORE EVERY CORNER OF THE MAZE.\nIt feels like you really are the part of the Maze. Don't get tricked! Or the Maze will devour you and your fantasy adventure will be ended. Remember, do not be fooled by beauty and seductive scent. Everything here wants to kill you.\n\nAVOID DANGEROUS TRAPS.\nHave you ever thought about what rabbit feels locked in the trap? Be careful where you step and maybe you will live. Let this fantasy adventure conquer you.\n\nMARVEL THE BEAUTY OF THE SURROUNDINGS AND ENVIRONMENT\nShining crystals, lush nature and fireflies. All of this and even more you will find in Maze game.\n\nDON'T GET LOST - USE RUNES.\nDo not rely solely on your desire to win, but keep your eyes wide open. Use tips and mark your path with runes. Follow the crumbs!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20201024,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20201110,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201110
+    },
+    "versions": {
+        "65536": 20201110
+    },
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Explore every corner of the Maze. Dive into the abyss of mysteries and dangers. Use your instinct and find the way out to survive.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

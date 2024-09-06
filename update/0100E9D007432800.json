@@ -1,4 +1,39 @@
 {
     "id": "0100E9D007432800",
-    "version": 65536
+    "base_tid": "0100E9D007432000",
+    "name": "神奇小子 龍之陷阱",
+    "description": "1987年發表的童年名作遊戲【神奇小子3：龍之陷阱】，通過童話書風格動漫畫風與高質量音樂重新誕生了！\n\n由於機器龍的詛咒變成半人半蜥的神奇小子對面了人生中最大的冒險。\n爲了找到治愈詛咒的方法，在有各種陷阱的怪物世界裏神奇小子與無數的怪物，神奇的龍們戰鬥！神奇小子經過多少次的變身后才能回歸人類呢？",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20180719,
+    "first_update_release_date": 20180124,
+    "latest_update_release_date": 20180124,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180124
+    },
+    "versions": {
+        "65536": 20180124
+    },
+    "category": [
+        "動作",
+        "街機"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

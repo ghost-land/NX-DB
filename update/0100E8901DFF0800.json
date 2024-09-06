@@ -1,4 +1,32 @@
 {
     "id": "0100E8901DFF0800",
-    "version": 65536
+    "base_tid": "0100E8901DFF0000",
+    "name": "EGGCONSOLE YOKAI TANTEI PC-8801",
+    "description": "This is an action game released by Bothtec in 1984.\n\nThe player controls  the monster detective and engage in battles to rescue Sayuri, who has been lured by a group of monsters.\n\nThe unique feature of this game is the distinctive attack method. The fireballs can not only be launched but also freely controlled and detonated. However, since the fireballs are linked to the movement of the player's character, it may be challenging until you get used to it.\n\nBeing caught in the blast of a fireball will also knock down your character, so understanding the stage layout and enemy placements is crucial. Controlling the fireballs becomes a key strategy.\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.\n",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240126,
+    "first_update_release_date": 20240419,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20240419
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Venture forth with explosive fireballs as your weapon! Join the Yokai detective on a mission to rescue Sayuri, who has been abducted by monsters.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

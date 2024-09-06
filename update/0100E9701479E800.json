@@ -1,4 +1,35 @@
 {
     "id": "0100E9701479E800",
-    "version": 262144
+    "base_tid": "0100E9701479E000",
+    "name": "Toree 3D",
+    "description": "A bite-sized 3D Platformer with a few weird elements. Life as a chirp is hard: As Toree straddles about, a creepy mean guy comes rushing along and steals Toree's ice cream. In an attempt to right this wrong, Toree starts a furious chase through nine carefully crafted levels with a strong emphasis on speed and flow.\n\nFeatures:\n- Late 90s low poly aesthetic\n- Fast paced platforming\n- 9 levels with unique elements\n- 2 secret characters to unlock\n- speed rankings in each level to promote replayability",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20210428,
+    "latest_update_release_date": 20211015,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211015
+    },
+    "versions": {
+        "65536": 20210428,
+        "131072": 20210503,
+        "196608": 20210807,
+        "262144": 20211015
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The fastest bird alive!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

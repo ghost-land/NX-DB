@@ -1,4 +1,45 @@
 {
     "id": "0100E940044F2800",
-    "version": 327680
+    "base_tid": "0100E940044F2000",
+    "name": "Neversong",
+    "description": "Upon waking from a coma, Peet's girlfriend is nowhere to be found. Investigate the screams coming from the heart of Neverwood, the increasingly bizarre behavior of the zombie grownups, and the strange truth about Peet's past in this hauntingly dreamlike fable. \n\n-From Red Wind Field to the haunting halls of Blackfork Asylum, explore six moody, illustrative levels.\n \n-Take on bosses, monsters, and zombie grownups with your trusty baseball bat.\n \n-Immerse yourself in a breathtaking piano-centric soundtrack.\n \n-Join your quirky childhood pals and trusty pet bird on an adventure to discover the truth about your recent coma.",
+    "publisher": "Serenity Forge",
+    "developer": null,
+    "base_release_date": 20230911,
+    "first_update_release_date": 20200623,
+    "latest_update_release_date": 20210917,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210917
+    },
+    "versions": {
+        "131072": 20200623,
+        "327680": 20210917
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "A boy lost in a coma.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

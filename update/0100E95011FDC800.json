@@ -1,4 +1,34 @@
 {
     "id": "0100E95011FDC800",
-    "version": 65536
+    "base_tid": "0100E95011FDC000",
+    "name": "Aircraft Evolution",
+    "description": "Fight through 4 time periods, from the era of the First World War to futuristic battles. \nLevel up and evolve your aircraft from a wooden plane to a futuristic fighter. Then, refine it by increasing its armor, fuel, speed, firepower and much more. You upgrade as you go, but you can still try to take on a tank armed with plasma cannons using just a wooden plane!\n\n40 different missions are waiting for you. You will be given different objectives: destroy an enemy base, deal with waves of attacking fighters, boss fights and much more. Demolish the enemy with standard bombs, a barrage of cluster bombs, or burn enemies to ashes with napalm. Turn their bases into smoldering ruins and the battlefield into a scorched desert.\nBombs and explosions! More bombs and explosions!!!",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200722,
+    "first_update_release_date": 20200709,
+    "latest_update_release_date": 20200709,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200709
+    },
+    "versions": {
+        "65536": 20200709
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Aircraft Evolution is an action game, where you have the task of destroying enemy bases by bombarding them with your aircraft.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

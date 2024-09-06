@@ -1,4 +1,35 @@
 {
     "id": "0100E95006B30800",
-    "version": 131072
+    "base_tid": "0100E95006B30000",
+    "name": "The Men of Yoshiwara: Kikuya",
+    "description": "- What is \"The Men of Yoshiwara: Kikuya\"?\nThis is a popular romance game for women.\n\n- The Story\nA closed island where baby boys are not born…\nA unique culture that is completely different from the mainland has been flourishing on the island. In the middle of the island, there is a district where men are gathered.\nSome women just want children. \nOthers are looking for love.\nKnowingly deceived by a lie, and deceived in return, all in a single night's dream.\nAt the end, to whom is it that you will be talking of love?",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20180202,
+    "first_update_release_date": 20180221,
+    "latest_update_release_date": 20180801,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180801
+    },
+    "versions": {
+        "65536": 20180221,
+        "131072": 20180801
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Sex Scenes",
+        "Strong Sexual References"
+    ],
+    "region": null
 }

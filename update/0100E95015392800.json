@@ -1,4 +1,44 @@
 {
     "id": "0100E95015392800",
-    "version": 131072
+    "base_tid": "0100E95015392000",
+    "name": "Arietta of Spirits",
+    "description": "Arietta of Spirits is a charming adventure game with emotion-filled narrative, no-filler gameplay, and fast paced combat. The game tells the story of Arietta and her family, visiting their Grandmother's cabin for the first time after her passing away a year prior. However, the family trip takes an unexpected turn when Arietta meets a mysterious new friend and gains the ability to see strange spirits that inhabit the island.\n\n-Explore a mysterious island with lush forests, murky caverns and dark secrets\n-Beautiful retro-styled pixel graphics and inspiring original soundtrack\n-Meet fascinating characters and discover the deep lore\n-Fight a wide range of enemies in reaction based combat\n-Easy to approach game mechanics, suitable for everyone",
+    "publisher": "RED ART GAMES",
+    "developer": null,
+    "base_release_date": 20210820,
+    "first_update_release_date": 20210823,
+    "latest_update_release_date": 20210922,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210922
+    },
+    "versions": {
+        "65536": 20210823,
+        "131072": 20210922
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Follow Arietta on her journey to unveil the mysteries of the Spirit Realm!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

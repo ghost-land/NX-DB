@@ -1,4 +1,52 @@
 {
     "id": "0100E95004038800",
-    "version": 983040
+    "base_tid": "0100E95004038000",
+    "name": "Xenoblade Chronicles™ 2",
+    "description": "Lost in a sea of clouds, entire civilizations rest on the backs of Titans. As the giant beasts march toward death, the last hope is a scavenger named Rex—and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends. Each Titan hosts its own distinct cultures, wildlife, and diverse regions to explore. Search the vast open areas and labyrinthine corridors for treasure, secret paths, and creatures to battle and index.\n\nDuring these escapades you’ll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20171201,
+    "first_update_release_date": 20171129,
+    "latest_update_release_date": 20200902,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20200902
+    },
+    "versions": {
+        "65536": 20171129,
+        "131072": 20171222,
+        "196608": 20180119,
+        "327680": 20180302,
+        "393216": 20180330,
+        "458752": 20180427,
+        "524288": 20180525,
+        "589824": 20180615,
+        "655360": 20180727,
+        "720896": 20180824,
+        "786432": 20180914,
+        "851968": 20181018,
+        "917504": 20181130,
+        "983040": 20200902
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Lead Rex, Pyra, and the world to refuge",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

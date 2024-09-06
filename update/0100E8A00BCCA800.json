@@ -1,4 +1,30 @@
 {
     "id": "0100E8A00BCCA800",
-    "version": 131072
+    "base_tid": "0100E8A00BCCA000",
+    "name": "ラピス・リ・アビス",
+    "description": "個性豊かな8つの職業から、あなただけのパーティを編成可能。\n“アタマ”を使って立ちはだかる敵をなぎ倒し、\nジャラジャラドロップするオタカラを集めながらダンジョンを攻略しよう！",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20181129,
+    "first_update_release_date": 20181128,
+    "latest_update_release_date": 20181212,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181212
+    },
+    "versions": {
+        "65536": 20181128,
+        "131072": 20181212
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "仲間の“アタマ”を積み上げて戦う、\nド派手で爽快なアクションRPG！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
