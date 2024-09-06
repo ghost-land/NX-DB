@@ -1,4 +1,35 @@
 {
     "id": "01008AF01E2C6800",
-    "version": 65536
+    "base_tid": "01008AF01E2C6000",
+    "name": "Attack of the Karens",
+    "description": "Save the world from entitlement.\n\nDefend your city to your last breath in this zany, rambunctious roguelite shoot 'em up. An evil alien pathogen has mutated four spoiled women and turned them into cyborgs with massive robot armies. It's up to you to cancel them forever!\n\nDefeat the four Karens in challenging boss battles.\n\nFight hordes of evil Karen minions, from expired coupon launchers to angry coffee cups across six different environments.\nGrow more powerful every run by spending your hard earned modules on stat and weapon upgrades.\n\nFull game features:\n- Over 40 in-game upgrades for tons of different build options\n- Over 20 meta progression upgrades to get stronger every run\n- 4 epic Karen bosses to destroy\n- 6 different areas to defend\n- Fully voiced dialogue for your wing mate Amanda and the four Karens\n- 8-bit retro-inspired soundtrack hearkens to the glory days of console gaming\n- Beautiful pixel art crafted frame-by-frame",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240317,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20240317
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "RPG"
+    ],
+    "intro": "Piloting the Manager X-15, embark on a mission to rid the world of evil cyborg Karens and save your city from entitlement forever!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

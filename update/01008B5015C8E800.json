@@ -1,4 +1,38 @@
 {
     "id": "01008B5015C8E800",
-    "version": 131072
+    "base_tid": "01008B5015C8E000",
+    "name": "Ludo XXL",
+    "description": "This classic game par excellence has brought young and old together for generations. The much-loved original, with its child-friendly rules and thrilling luck of the dice is now finally available for Nintendo Switch™. It’s great fun for the whole family – full of both laughter and frustration!\n\n• 4 distinct game boards\n• 3 game modes: Classic or with event squares (party and extreme)\n• Adaptable game rules – play the way you are used to!\n• For up to 6 players (real players or AI opponents)",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20231215,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231215
+    },
+    "versions": {
+        "65536": 20210929,
+        "131072": 20231215
+    },
+    "category": [
+        "Board Game",
+        "Party",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "The popular dice game for the whole family!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [],
+    "region": null
 }

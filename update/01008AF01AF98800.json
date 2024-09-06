@@ -1,4 +1,38 @@
 {
     "id": "01008AF01AF98800",
-    "version": 65536
+    "base_tid": "01008AF01AF98000",
+    "name": "Arcade Archives BARADUKE 2",
+    "description": "\"BARADUKE 2\" is an action shooter released by NAMCO (Bandai Namco Entertainment Inc.) in 1988.\nThe crablike \"OCTY\" were not fully eliminated from their fortress in the previous title, \"BARADUKE\".\nRely on help from the PACCET you rescued in the last game as you complete your mission to finish off the vicious OCTY extraterrestrials!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230803,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20230802
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Creepily adorable aliens",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

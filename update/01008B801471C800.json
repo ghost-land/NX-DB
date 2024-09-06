@@ -1,4 +1,42 @@
 {
     "id": "01008B801471C800",
-    "version": 65536
+    "base_tid": "01008B801471C000",
+    "name": "Inked: A Tale of Love",
+    "description": "Inked is a hand-drawn puzzle adventure set in a mythological world of beautiful ballpoint pen landscapes, inspired by Japanese folk tales. As the Nameless Hero, explore 10 different minimalistic worlds searching for your lost love Aiko, using your magical paintbrush to solve puzzles in a heartwarming story that will move and shake you to the core. ",
+    "publisher": "Pixmain",
+    "developer": null,
+    "base_release_date": 20210826,
+    "first_update_release_date": 20210916,
+    "latest_update_release_date": 20210916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210916
+    },
+    "versions": {
+        "65536": 20210916
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Inked is a wholesome narrative-driven puzzle game, a heart-warming story about loss and hope in a time where we all need some comfort.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

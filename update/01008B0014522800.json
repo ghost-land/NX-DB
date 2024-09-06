@@ -1,4 +1,32 @@
 {
     "id": "01008B0014522800",
-    "version": 65536
+    "base_tid": "01008B0014522000",
+    "name": "オーバーライド 2：スーパーメカリーグ",
+    "description": "1v1、2v2、自由参加バトルなど、プレイスタイルに合わせてマッチを選択可能。ゼノスウォームやキング・オブ・ザ・ヒルなどのゲームモードも登場。ガレージではアクセサリーやアタッチメントをアンロックして、メカを自由にカスタマイズしよう。",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20210826,
+    "first_update_release_date": 20210825,
+    "latest_update_release_date": 20210825,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210825
+    },
+    "versions": {
+        "65536": 20210825
+    },
+    "category": [
+        "アクション",
+        "格闘",
+        "パーティー"
+    ],
+    "intro": "巨大メカ界最大の大乱闘がパワーアップして再登場！\nリーグに参加して、最強のメカパイロットを目指そう。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

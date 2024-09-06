@@ -1,4 +1,36 @@
 {
     "id": "01008B101DE10800",
-    "version": 131072
+    "base_tid": "01008B101DE10000",
+    "name": "Arcade Archives RASTAN SAGA",
+    "description": "《RASTAN SAGA》是TAITO於1987年發行的動作遊戲。\n控制主角Rastan小偷，打敗狂暴的龍，換取Ceim王國的寶藏！\n用你的劍跳躍和砍殺，在各個階段中前進，充分利用沿途的武器、盔甲和物品。\n\n“Arcade Archives”系列忠實再現了許多經典的Arcade傑作。\n玩家可以改變各種遊戲設置，例如遊戲難度，並且還可以重現那時的街機顯示設置的氛圍。 玩家也可以通過高分來與世界各地的選手展開競爭。\n請享受為視頻遊戲打造一代的傑作。",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20240502,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240604,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240604
+    },
+    "versions": {
+        "65536": 20240510,
+        "131072": 20240604
+    },
+    "category": [
+        "動作",
+        "街機"
+    ],
+    "intro": "從龍手中拯救「Ceim」王國！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "01008B000A5AE800",
-    "version": 65536
+    "base_tid": "01008B000A5AE000",
+    "name": "Spectrum",
+    "description": "Spectrum is a unique platform game set in a stunning abstract \nworld. Jump, dive and find your flow to skilfully navigate through \n80 ingenious levels of shifting shapes and vibrant colours. Stylish \nvisuals combine with an atmospheric soundtrack to create an \nimmersive experience of pure, zen-focus platforming. \n\nFeatures\n• A mysterious world brought to life with a colourful, minimalist \naesthetic\n• Master movement and gravity to dodge obstacles and reach the \nexit portal \n• Ambient soundtrack to sharpen the senses and stimulate the \nmind\n• 80 beautifully designed levels spanning 8 different environments \n• 3 bonus objectives on every level to complete for total \nperfection\n• Challenge a friend and race to the portal in an all-new local 2-\nplayer mode \n• Perfect your runs to become a legend of the leaderboards",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20180820,
+    "first_update_release_date": 20181013,
+    "latest_update_release_date": 20181013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181013
+    },
+    "versions": {
+        "65536": 20181013
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Dive into a stunning abstract world of pure, zen-focus platforming ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

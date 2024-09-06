@@ -1,4 +1,40 @@
 {
     "id": "01008B8004E36800",
-    "version": 262144
+    "base_tid": "01008B8004E36000",
+    "name": "Oxenfree",
+    "description": "The critically acclaimed, mind-bending adventure comes to the Nintendo Switch™!\n\nOxenfree is a supernatural thriller about a group of friends who unwittingly open a ghostly rift. Play as Alex, a bright, rebellious teenager who brings her new stepbrother Jonas to an overnight party on an old military island. The night takes a terrifying turn when you unwittingly open a ghostly gate spawned from the island’s cryptic past. How you deal with these events, your peers, and the ominous creatures you’ve unleashed is up to you. \n\nDetermine every aspect of Alex's story while exploring Edwards Island, uncovering the base's dark past, and changing the course of your friends' lives.\n\n• Oxenfree can be played in both touchscreen and controller modes, allowing you to switch between play styles seamlessly.\n\n• All-new HD rumble delivers the most visceral version of Oxenfree yet.\n\n• An intelligent conversation system changes the story and your relationships based on every decision.\n\n• The unique radio mechanic allows Alex to communicate with mysterious spectres and manipulate her world.\n\n• Multiple mysteries to unravel, spanning decades and lifetimes.",
+    "publisher": "Night School",
+    "developer": null,
+    "base_release_date": 20171006,
+    "first_update_release_date": 20171005,
+    "latest_update_release_date": 20230806,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230806
+    },
+    "versions": {
+        "65536": 20171005,
+        "131072": 20220607,
+        "196608": 20220712,
+        "262144": 20230806
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A supernatural thriller about a group\nof friends who open a ghostly rift.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Online interactivity",
+        "Drug references"
+    ],
+    "region": null
 }

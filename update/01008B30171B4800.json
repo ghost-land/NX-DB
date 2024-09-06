@@ -1,4 +1,42 @@
 {
     "id": "01008B30171B4800",
-    "version": 65536
+    "base_tid": "01008B30171B4000",
+    "name": "BigChick",
+    "description": "The islands are sinking... Chickenfolk can't swim and fox bandits won't miss an opportunity to gobble up a bird or two even on the verge of apocalypse... What a disaster!\nFortunately Big Chick is here to save the day! Use poultry magic to summon new patches of land from the ocean depths and micromanagement skills to lead your people to the safety of the sacred Big Barn.\n\n\nAdventure on the sinking islands features:\n- cute and adorable chickens\n- nasty (but cute anyway) foxes and other predators\n- frantic gameplay\n- doomsday atmosphere",
+    "publisher": "Maxim Nuriev",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20220315,
+    "latest_update_release_date": 20220315,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220315
+    },
+    "versions": {
+        "65536": 20220315
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "BigChick is a family-friendly action-puzzle game where you make paths and escort nestlings.\nBe the Chicken Moses! Let your chickens go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

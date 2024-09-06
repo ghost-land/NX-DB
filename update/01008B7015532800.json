@@ -1,4 +1,34 @@
 {
     "id": "01008B7015532800",
-    "version": 65536
+    "base_tid": "01008B7015532000",
+    "name": "Blocky Puzzle",
+    "description": "BLOCKY PUZZLE is a challenging puzzle game where you need to fit all the shapes in the grid to complete the level. Put the shapes to the right place on the game board without empty spaces and every shape in place. \n\nFeatures:\n- Supports Square, Triangle, and Hexagon shaped levels.\n- Starts simple and gets progressively more difficult",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210615,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Fill in the grid with various shapes",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

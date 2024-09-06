@@ -1,4 +1,38 @@
 {
     "id": "01008AE019614800",
-    "version": 196608
+    "base_tid": "01008AE019614000",
+    "name": "nOS new Operating System",
+    "description": "A revolution has come!\n\nEnjoy every awesome feature of the nOS. Draw, write, calculate, organize your day and play around at your convenience. All the tools you need are here! \n\nYou have the power\n\nBrighten up your day and customize the nOS to suit your every need. Find your favorite setup and create the fantastic user experience you deserve.\n\nKey features:\n\n- Splendid customization options\n- Reliable tools (Notepad, Scetchbook, Day Planner)\n- Brilliant design\n- A charming puzzle game",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230127,
+    "first_update_release_date": 20230127,
+    "latest_update_release_date": 20240603,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240603
+    },
+    "versions": {
+        "65536": 20230127,
+        "131072": 20230714,
+        "196608": 20240603
+    },
+    "category": [
+        "Practical",
+        "Study",
+        "Utility",
+        "Lifestyle"
+    ],
+    "intro": "Engage the newest Nintendo Switch™ experience. Transform your favorite console into an amazing, and surprisingly small personal computer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

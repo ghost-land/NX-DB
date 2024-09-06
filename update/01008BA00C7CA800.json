@@ -1,4 +1,38 @@
 {
     "id": "01008BA00C7CA800",
-    "version": 65536
+    "base_tid": "01008BA00C7CA000",
+    "name": "TOKI",
+    "description": "《TOKI》是一部經典名作動作遊戲《JUJU傳說》的重製版。原作在ARCADE和Famicom、Mega Drive等多種的平臺發售過，以多種多樣的動作遊戲玩家得到喜愛的本部作品重製後將發售 Nintendo Switch™版本，高解析度圖像和原音完全重新製作，能享受經典遊戲有的難度和等級設計，這款遊戲會是你心中的那款遊戲了。",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20181220,
+    "first_update_release_date": 20220816,
+    "latest_update_release_date": 20220816,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220816
+    },
+    "versions": {
+        "65536": 20220816
+    },
+    "category": [
+        "街機",
+        "動作"
+    ],
+    "intro": "古怪猴子的歸來！",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "01008B4017DDA800",
-    "version": 65536
+    "base_tid": "01008B4017DDA000",
+    "name": "Balloon Flight",
+    "description": "Enjoy the view\n\nGet ready for incredible landscapes and unique settings. Take your time to soak in the incredible view. Soar through the sky, by controlling your glider. Increase or decrease the altitude and make sharp turns to avoid dangerous traps. Your trusted balloon-gun is the only ally you can count on.\n\nEvery second counts!\n\nDo your best to glide through the rings and increase your time limit. Every flying island has one although sometimes getting to it can be a bit tricky. Getting those precious seconds requires your full focus.\n\nUnlock new baloons\n\nIncrease your score and unlock new baloon skins. Most of them come with a certain milestone, but some will require...extra effort.\n\nKey Features:\n\n- Satisfying gameplay\n- Simple mechanics\n- Great replay value\n- Unique aesthetic\n- Physics based gameplay",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220527,
+    "first_update_release_date": 20220707,
+    "latest_update_release_date": 20220707,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220707
+    },
+    "versions": {
+        "65536": 20220707
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Simulation",
+        "First-Person Shooter"
+    ],
+    "intro": "Use your balloon-gun to plant and destroy balloons in this physics based game. Get as far as possible on your glider, before you run out of time. Find a way to avoid falling off!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

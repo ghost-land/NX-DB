@@ -1,4 +1,31 @@
 {
     "id": "01008B001551E800",
-    "version": 65536
+    "base_tid": "01008B001551E000",
+    "name": "Bocce",
+    "description": "Ultra-realistic physics, beautiful sceneries and different balls with their own characteristics make Bocce the most realistic Bocce/Petanque simulation available on Shop.\n\n-3 AI Levels in single player mode\n-Local two players mode\n-Hyper-intuitive controls\n-Point or shoot\n-Throw sitting or standing \n-Make lobs\n-Choose amongst 6 sceneries and 6 balls",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20210626,
+    "first_update_release_date": 20210901,
+    "latest_update_release_date": 20210901,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210901
+    },
+    "versions": {
+        "65536": 20210901
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

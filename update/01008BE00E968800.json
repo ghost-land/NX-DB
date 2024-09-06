@@ -1,4 +1,52 @@
 {
     "id": "01008BE00E968800",
-    "version": 720896
+    "base_tid": "01008BE00E968000",
+    "name": "Cat Quest II",
+    "description": "CAT QUEST II is a 2D open-world action-RPG set in a fantasy realm of cats and dogs. Under threat from a continuing war between the cats of Felingard and the advancing dogs of the Lupus Empire, CAT QUEST II tells the tail of two kings, brought together against their will, on a journey of paw-some discovery to reclaim their thrones.\nPlay as both a cat and dog as you explore their kingdoms solo or with a friend! Quest in a world filled with magic, curious monsters, and go on a catventure like never before!\n\nFollowing the success of the acclaimed CAT QUEST, developers The Gentlebros return to the world of Felingard to expand on the original with more explosive spells, expanded weapon options, an exciting new character switch mechanic, and local co-op!\nFeatures\n- Brand new story set in the world of Felingard - and beyond!- All new switch and local co-op gameplay. Play as both cat and dog, either alone or with a friend!\n- New weapons types – Master swords, staves and more to become a fur-midable fighter!\n- More spells bring even more furry judgement to your foes.\n- New passive abilities, whose attributes can be mixed and combined for endless paw-sibilities!\n- Exciting, and varied dungeons filled with new traps and obstacles, making every pounce into the unknown a fresh experience!\n- Em-bark on a litany of side quests, each telling its own story and expanding the lore and universe of CAT QUEST!",
+    "publisher": "Kepler Interactive",
+    "developer": null,
+    "base_release_date": 20211007,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20211210,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20211210
+    },
+    "versions": {
+        "65536": 20191014,
+        "131072": 20191021,
+        "196608": 20191218,
+        "262144": 20200625,
+        "327680": 20200808,
+        "393216": 20200817,
+        "458752": 20200908,
+        "524288": 20201216,
+        "720896": 20211210
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Action"
+    ],
+    "intro": "Go on the ultimutt catventure today!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

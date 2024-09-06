@@ -1,4 +1,28 @@
 {
     "id": "01008B400BE5E800",
-    "version": 65536
+    "base_tid": "01008B400BE5E000",
+    "name": "返校 -Detention- 体験版",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20181024,
+    "latest_update_release_date": 20181024,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181024
+    },
+    "versions": {
+        "65536": 20181024
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }
