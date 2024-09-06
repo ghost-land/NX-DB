@@ -1,4 +1,39 @@
 {
     "id": "010061D00FD26800",
-    "version": 131072
+    "base_tid": "010061D00FD26000",
+    "name": "Biz Builder Delux",
+    "description": "Ah, there's nothing like the rhythmic bustle of a burgeoning business burg... especially when you're the one building it! That's right, from a video game store to the corner fast food joint, run what YOU want as the town's entrepreneur extraordinaire!\n\nOnce your coffers are comfortably padded, you'll be ready to set sights on other ripe markets. Don't be shy and branch out, erecting a diverse variety of establishments to inspire both pep in the town plaza and plenitude in your pockets!\n\nRemember, you'll need to strategize if you want shoppers to show. Innovate to stock stores with quality products while devising battle plans to rout pesky rivals. Only then will your spot as the town's top transactor be secure!\n\nIt's not easy to rake in those bucks with the free market in flux... but if you conquer that crux--you'll be Biz Builder Delux!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20201203,
+    "first_update_release_date": 20201214,
+    "latest_update_release_date": 20210805,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210805
+    },
+    "versions": {
+        "65536": 20201214,
+        "131072": 20210805
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Run any store you like to build up\nyour own buzzing business burg!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

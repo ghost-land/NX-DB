@@ -1,4 +1,40 @@
 {
     "id": "01006230131A4800",
-    "version": 327680
+    "base_tid": "01006230131A4000",
+    "name": "Arcade Archives GRADIUS III",
+    "description": "\"GRADIUS III\" is a scrolling shooter game released by KONAMI in 1989.\nThe story of Planet Gradius has transformed from legend to myth. Take on the Bacterion Empire in epic space battles.\nAn EDIT MODE has been added to the game, allowing players to customize their equipment.\nEnjoy playing the best game in the series!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20201223,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20201223,
+        "131072": 20210322,
+        "262144": 20220726,
+        "327680": 20220915
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Myth of the mighty.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010061900F896800",
-    "version": 65536
+    "base_tid": "010061900F896000",
+    "name": "The Eternal Castle [REMASTERED]",
+    "description": "The Eternal Castle [REMASTERED] is an ambitious attempt to modernize an old classic in order to keep its memory alive. Through detailed research and hard work, the production team tried to expand the experience while keeping the same 'feel' and emotional flow of the original masterpiece from 1987.\n\nFEATURES:\n• Enjoy the atmosphere or speedrun through a post-AI fallout packed with challenges\n• Meditate, Predict, and Wake up, in the eternal dream with Adam or Eve (or BOTH with 2 player co-op)\n• Fight your way through the Ancient Ruins\n• Shoot your way through the Forgotten City\n• Sneak by monsters in the Unholy Lab\n• Enter the Eternal Castle\n• Collect all 4 GLIDERS to power up your ship\n• Use over 10 different weapons\n• Unlock up to 10 different items\n• Find all missing FRAGMENTS to get back home                                \n• Repeat the dream for as many times as you can\n• LOST TALES episode of a brave SACRIFICE, and PvP death arena mode included",
+    "publisher": "TFL Studios",
+    "developer": null,
+    "base_release_date": 20200821,
+    "first_update_release_date": 20200625,
+    "latest_update_release_date": 20200625,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200625
+    },
+    "versions": {
+        "65536": 20200625
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "The Eternal Castle [REMASTERED] is a remake of the original \"ETERNAL CASTLE\" from 1987, with modernized game mechanics, sophisticated sound design, and 2-bit CGA graphics",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Horror Themes",
+        "Mature Themes"
+    ],
+    "region": null
 }

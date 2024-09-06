@@ -1,4 +1,36 @@
 {
     "id": "010061A00AE64800",
-    "version": 196608
+    "base_tid": "010061A00AE64000",
+    "name": "Tiny Hands Adventure",
+    "description": "Join a young t-rex Borti on his quest to find the best \nreplacement for his tiny hands and arms. Explore several \nunknown worlds, find all the collectables and face bosses that \nhave what you want.\n\nThe adventure starts now!\n\nFEATURES\n- beautiful 3D graphics\n- collect different tools and weapons for Borti and use them in \ngame! From sticks, through compact drills to mechanical arms \nand more\n- fight with bosses - the elemental keepers are waiting for you \nto show up!\n- slide, roll or jump your way to victory\n- visit over 20 stages, set across multiple location themes\n- try yourself in challenging mode after completing a stage \nand finding all collectables\n- find out how the story unfolds!",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20180817,
+    "first_update_release_date": 20180822,
+    "latest_update_release_date": 20190927,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190927
+    },
+    "versions": {
+        "65536": 20180822,
+        "131072": 20180907,
+        "196608": 20190927
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Meet Borti – a cheerful T-rex that is a main hero in “Tiny Hands Adventure”. Help him become the best goalkeeper!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

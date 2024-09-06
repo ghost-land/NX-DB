@@ -1,4 +1,32 @@
 {
     "id": "0100628004BCE800",
-    "version": 65536
+    "base_tid": "0100628004BCE000",
+    "name": "Nights of Azure 2: Bride of the New Moon",
+    "description": "A Tale of Three Beautiful Maidens Drawn to Each Other.\n\nWhen three friends, deceived and separated by the tricks of darkness, find each other again, their bond shall become the light that will clear away the shadows and guide them towards the truth...\nBeautiful women, Servans, battles and growth system - all these elements return in an evolved form in the second instalment of the gothic fairy tale action RPG series \"Nights of Azure\". ",
+    "publisher": "KOEI TECMO EUROPE",
+    "developer": null,
+    "base_release_date": 20171027,
+    "first_update_release_date": 20171113,
+    "latest_update_release_date": 20171113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171113
+    },
+    "versions": {
+        "65536": 20171113
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

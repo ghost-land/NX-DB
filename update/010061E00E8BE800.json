@@ -1,4 +1,38 @@
 {
     "id": "010061E00E8BE800",
-    "version": 196608
+    "base_tid": "010061E00E8BE000",
+    "name": "Garfield Kart Furious Racing",
+    "description": "Garfield, the famous lasagna-loving cat is back to take on Jon, Odie and company in a no-holds-barred racing game!\nChoose your character and kart according to their characteristics and your driving style, get off the starting line first and control skids to outrun your opponents. Use crazy bonus objects, like the Pillow or the Magic Wand, to gain an edge and get over the finishing line first. Are you lazy like Garfield? Take shortcuts to overtake the other racers with the Spring!\nRace your friends in local mode or online, with up to eight players on 16 iconic circuits from the world of Garfield.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20191108,
+    "first_update_release_date": 20191021,
+    "latest_update_release_date": 20210323,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210323
+    },
+    "versions": {
+        "65536": 20191021,
+        "131072": 20191113,
+        "196608": 20210323
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

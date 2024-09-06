@@ -1,4 +1,34 @@
 {
     "id": "010062D0156C0800",
-    "version": 65536
+    "base_tid": "010062D0156C0000",
+    "name": "The Last Survey",
+    "description": "INTERACTIVE BOOK\nYou discover the dark secret. But will you be able to influence the fate of the world?\n\nThe unique graphic style created with hand-drawn drawings is something that makes The Last Survey stand out. \n\nAn excellent soundtrack by Lewis Kopenhafer only emphasizes the atmosphere of mystery. \n\nKEY FEATURES:\n■ Choose-Your-Own Adventure - lead the story with monologue and dialog options\n■ over 1500 of hand-drawn drawings\n■ it's up to you how the story ends - multiple endings depending on how you conduct yourself\n■ dynamic soundtrack - created by famous artist Lewis Kopenhafer",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20210806,
+    "first_update_release_date": 20210818,
+    "latest_update_release_date": 20210818,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210818
+    },
+    "versions": {
+        "65536": 20210818
+    },
+    "category": [
+        "Simulation",
+        "Education",
+        "Lifestyle",
+        "Adventure"
+    ],
+    "intro": "The Last Survey is an incredible, interactive book for Nintendo Switch™. And YOU are the main hero!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }

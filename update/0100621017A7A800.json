@@ -1,4 +1,45 @@
 {
     "id": "0100621017A7A800",
-    "version": 196608
+    "base_tid": "0100621017A7A000",
+    "name": "Mayhem in Single Valley",
+    "description": "Sometimes you have a bad day, and sometimes you wake up and accidentally start the apocalypse. Meet Jack, a mischievous kid with a twisted family, his trusty slingshot, and endless bad luck.\n\nIn this fast-paced, puzzle-loaded action adventure, you’ll need to raft over poisonous rivers, take class at the Elementary School of Ghosts, clone yourself, and even navigate the perilous trials of earning your father’s approval. ",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230330,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230621
+    },
+    "versions": {
+        "131072": 20230330,
+        "196608": 20230621
+    },
+    "category": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "An apocalyptic adventure full of plot twists and radioactive squirrels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

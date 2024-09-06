@@ -1,4 +1,35 @@
 {
     "id": "010061F013A0E800",
-    "version": 131072
+    "base_tid": "010061F013A0E000",
+    "name": "Speed Truck Racing",
+    "description": "In Speed Truck Racing you'll enjoy the dirtiest, fastest, and most spectacular races at speeds over 200 Km/h, avoiding multiple collisions against 10 adversaries. The game has different modes, such as Championship, Arcade, and 4-player multiplayer.\n\nOnline ranking chart where you can compare your best times with friends and players from all over the world.\n\nFeatures:\n\n-Arcade driving\n-4-Player Multiplayer\n-Online Ranking\n-Achievements",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20210102,
+    "first_update_release_date": 20201206,
+    "latest_update_release_date": 20201221,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201221
+    },
+    "versions": {
+        "65536": 20201206,
+        "131072": 20201221
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Get ready to feel the speed!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

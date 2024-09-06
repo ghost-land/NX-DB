@@ -1,4 +1,48 @@
 {
     "id": "010061C01831C800",
-    "version": 327680
+    "base_tid": "010061C01831C000",
+    "name": "Gunbrella",
+    "description": "Gunbrella is a gritty noir-punk action-adventure set in a world dependent on a rapidly diminishing natural resource.\n\nFill the rain-soaked boots of a gruff woodsman on a quest for revenge, entering an unfamiliar town armed only with the titular Gunbrella, a high-caliber firearm that doubles as an umbrella.\n\nYour hard-nosed investigation soon becomes entangled with the inner workings of a creepy cabal of ghouls and gangsters, cops and cultists, and the fallout of corporate exploitation.\n\nGAIN MASTERY OF THE GUNBRELLA\nEngage in thrilling, side-scrolling action making full use of the Gunbrella's unique maneuverability and close-quarters combat capabilities. The Gunbrella is more than just a weapon - use it to glide, swing, dash, and dive around the world and discover seemingly unattainable secrets along the way.\n\nLEAVE NO STONE GUNTURNED\nFrom a small town menaced by cult kidnappings to a junkyard fortress ruled by a ruthless trash gang, explore a diverse assortment of unusual locations and interrogate bizarre characters on your quest for answers. Keep track of findings in your trusty notebook, and remember to retrace your steps...\n\nRETRIEVE. RELOAD. REPEAT.\nSalvage scrap and spare parts to trade for different munitions and upgrades for your impermeable arsenal. As your search deepens, and you conjure increasingly ghastly agents of the supernatural, you'll need all the help you can get.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230913,
+    "first_update_release_date": 20230901,
+    "latest_update_release_date": 20240209,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240209
+    },
+    "versions": {
+        "65536": 20230901,
+        "131072": 20230907,
+        "196608": 20230913,
+        "262144": 20230922,
+        "327680": 20240209
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Uncover the dark secrets of a gritty, tangled metropolis and battle diabolic villains with your trusty Gunbrella, a bulletproof brolly that doubles as a firearm.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

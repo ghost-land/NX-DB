@@ -1,4 +1,45 @@
 {
     "id": "010061F01DB7C800",
-    "version": 131072
+    "base_tid": "010061F01DB7C000",
+    "name": "World of Goo 2",
+    "description": "Use living liquid creatures to build bridges, grow towers, terraform terrain, and fuel flying machines. The world is beautiful, dangerous, and evolving.\n\nEvery level is a realistic physics and fluid simulation. Build, splash, explode, destroy, fly, and roll your way through your own unique solutions to each level.\n\nLocal co-operative play exclusively on Nintendo Switch™. Build together!\n\nExplore a new story spanning hundreds of thousands of years and watch the world change.",
+    "publisher": "2D Boy",
+    "developer": null,
+    "base_release_date": 20240802,
+    "first_update_release_date": 20240728,
+    "latest_update_release_date": 20240818,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240818
+    },
+    "versions": {
+        "65536": 20240728,
+        "131072": 20240818
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Simulation"
+    ],
+    "intro": "Now with more goo.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Suggestive Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

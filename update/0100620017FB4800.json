@@ -1,4 +1,33 @@
 {
     "id": "0100620017FB4800",
-    "version": 65536
+    "base_tid": "0100620017FB4000",
+    "name": "Threaded",
+    "description": "Threaded is a puzzle game that's all about putting together pixel art pictures! \nDraw colourful links between different points, and complete lots of different original pixel artwork. \nExperience simple yet rewarding gameplay, soothing visuals and music, and even in-game trivia and fun facts — all in Threaded!\n\n-72 challenging puzzles!\n-Cute, embroidered pixel puzzle art\n-Fun trivia questions\n-Beautiful relaxing acoustic soundtrack\n-Simple zoom and hint functions",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230217
+    },
+    "versions": {
+        "65536": 20230217
+    },
+    "category": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "A relaxing and cute colour-linking puzzle game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

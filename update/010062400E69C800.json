@@ -1,4 +1,40 @@
 {
     "id": "010062400E69C800",
-    "version": 196608
+    "base_tid": "010062400E69C000",
+    "name": "Bibi & Tina at the horse farm",
+    "description": "Ride Amadeus, Sabrina and eight other horses as Bibi or Tina. Explore the expansive grounds around Martinshof and Falkenstein Castle on horseback. Whether you’re walking, trotting, galloping or jumping, show what you’ve got in varied horse races of different lengths and difficulties! Wild adventures await you!\n\n• Take on 18 challenging riding missions\n• Improve your skills in the best time challenge\n• Take relaxing rides in the open game world\n• Find and collect hidden objects to unlock new content\n• Take beautiful photos of the environment for your photo album\n• Ten different horses to choose from\n• Six mini-games: feeding, hoof care, grooming, showering, massaging, dressing up\n• Thrilling races: orientation, checkpoint, steeplechase, trail, slalom and pursuit",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20191009,
+    "latest_update_release_date": 20210210,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210210
+    },
+    "versions": {
+        "65536": 20191009,
+        "131072": 20200207,
+        "196608": 20210210
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Education",
+        "Adventure"
+    ],
+    "intro": "Enjoy exciting adventures at Martinshof!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

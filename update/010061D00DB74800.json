@@ -1,4 +1,40 @@
 {
     "id": "010061D00DB74800",
-    "version": 131072
+    "base_tid": "010061D00DB74000",
+    "name": "Ori and the Blind Forest: Definitive Edition",
+    "description": "The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, Ori must journey to find courage and confront a dark nemesis to save the forest of Nibel. “Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios. Featuring hand-painted artwork, meticulously animated character performance, a fully orchestrated score and dozens of new features in the Definitive Edition, “Ori and the Blind Forest” explores a deeply emotional story about love and sacrifice, and the hope that exists in us all.",
+    "publisher": "Microsoft Studios",
+    "developer": null,
+    "base_release_date": 20190927,
+    "first_update_release_date": 20210720,
+    "latest_update_release_date": 20210720,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210720
+    },
+    "versions": {
+        "131072": 20210720
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

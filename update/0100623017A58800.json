@@ -1,4 +1,45 @@
 {
     "id": "0100623017A58800",
-    "version": 65536
+    "base_tid": "0100623017A58000",
+    "name": "Alan Wake Remastered",
+    "description": "In this award-winning cinematic action-thriller, troubled author Alan Wake embarks on a desperate search for his missing wife, Alice. When Alan discovers pages of a horror story he has supposedly written, Wake's grip on reality is threatened as he  confronts the darkness closing in. The horror story is coming true.\n\n• The complete experience including main game and two story expansions, The Signal and The Writer.\n\n• Live every tense moment of this episodic story, packed with twists and cliff hangers.\n\n• Fight with light: Intense combat, where it takes more than bullets to banish the darkness.\n\nEnjoy the timeless classic on the go with enhanced cut-scenes, quirky characters, majestic Pacific Northwest vistas, and more.",
+    "publisher": "Epic Games",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230217
+    },
+    "versions": {
+        "65536": 20230217
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Fight with Light in Alan Wake Remastered",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

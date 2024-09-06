@@ -1,4 +1,39 @@
 {
     "id": "010062500EB84800",
-    "version": 131072
+    "base_tid": "010062500EB84000",
+    "name": "Anime Studio Story",
+    "description": "Produce your own hit anime starring a character of your making!\n\nSelect a face, body, and presto! Your completed hero can then explode onto the scene of your show, wowing watchers to rule the rankings! Categories include \"Dateability,\" \"Popular with Kids,\" and more! As the animaestro, only you can bring status to your studio!\n\nSpeaking of your studio, equip it with a library, motion capture room, and even a theater! Educate your staff in the anime way to craft a classic that will echo through the generations!\n\nReady to hit the drawing board?\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20200116,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20210526,
+        "131072": 20220923
+    },
+    "category": [
+        "Simulation",
+        "Study",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Step into the studio and produce your\nown hit anime with an original hero!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

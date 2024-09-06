@@ -1,4 +1,42 @@
 {
     "id": "0100621019714800",
-    "version": 65536
+    "base_tid": "0100621019714000",
+    "name": "A Building Full of Cats",
+    "description": "A Building Full of Cats is a hidden object game where you need to pet all the cats in the building.\n\nDon't leave any cats behind!\n\nFeatures:\n- 300+ cats\n- 5+ Floors\n- 50+ hidden cats\n- Secret cats? Who knows... \n",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20221124,
+    "first_update_release_date": 20221106,
+    "latest_update_release_date": 20221106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221106
+    },
+    "versions": {
+        "65536": 20221106
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Party",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

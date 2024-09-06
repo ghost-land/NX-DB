@@ -1,4 +1,47 @@
 {
     "id": "010061F0176F6800",
-    "version": 262144
+    "base_tid": "010061F0176F6000",
+    "name": "OXENFREE II: Lost Signals",
+    "description": "TVs turn on and off. Planes lose radar. Radio stations can't broadcast through the static. In the small coastal town of Camena, unnaturally occurring electromagnetic waves are suddenly causing interference with electrical and radio equipment. Reluctantly, Riley Poverly returns to her hometown to investigate the mystery, but what she finds is more than she bargained for. \n\nOXENFREE II: Lost Signals is the mind-bending follow-up to the critically-acclaimed narrative adventure game OXENFREE from Night School Studio. Play it as a standalone story or dive deeper by playing the original – it's up to you. As you play, you'll shape every step of the story through your choices. How you choose to deal with the supernatural events at hand will forever alter the future.",
+    "publisher": "Netflix",
+    "developer": null,
+    "base_release_date": 20230712,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20231020,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231020
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20230803,
+        "196608": 20230922,
+        "262144": 20231020
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Five years after the events of OXENFREE, Riley returns to her hometown of Camena to investigate mysterious radio signals. What she finds is more than she bargained for.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }
