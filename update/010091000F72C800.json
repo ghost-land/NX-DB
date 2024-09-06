@@ -1,4 +1,46 @@
 {
     "id": "010091000F72C800",
-    "version": 196608
+    "base_tid": "010091000F72C000",
+    "name": "Save Your Nuts",
+    "description": "Crafty squirrels organize a tournament to challenge other animals in a physics-based competition for the ages. Make daring plays alongside your teammates, grab food power-ups, and tackle your opponents to steal their nuts in this wild multiplayer-focused party game!",
+    "publisher": "Triple Scale Games",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200416,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200416,
+        "131072": 20200515,
+        "196608": 20200804
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Sports",
+        "Action"
+    ],
+    "intro": "Online Multiplayer and Couch Party up to 8 Players or bots. Competitive Game Modes. Customization. Power-ups and interactive levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010091000D310800",
-    "version": 65536
+    "base_tid": "010091000D310000",
+    "name": "Football, Tactics & Glory",
+    "description": "Football, Tactics & Glory reinvents the basics of the football management genre, making it appealing to everyone, not just the most hardcore football management aficionados. The game skips the boring parts of football management games - all those endless tables, numbers, routine and micromanagement. But it is deep enough to keep players engrossed for hundreds of hours.\n\nIf you enjoy turn-based gameplay, strategy or tycoon games, you will love Football, Tactics & Glory.\n\nFEATURES\n\n- Unique turn-based system\n- Club development involving economics and RPG elements\n- Powerful face editor\n- Online game support\n- Hotseat mode for up to 8 players",
+    "publisher": "Toplitz Productions",
+    "developer": null,
+    "base_release_date": 20200122,
+    "first_update_release_date": 20191219,
+    "latest_update_release_date": 20191219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191219
+    },
+    "versions": {
+        "65536": 20191219
+    },
+    "category": [
+        "Sports",
+        "Strategy"
+    ],
+    "intro": "Football, Tactics & Glory is a strategy game in the football world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

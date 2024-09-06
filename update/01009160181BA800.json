@@ -1,4 +1,30 @@
 {
     "id": "01009160181BA800",
-    "version": 65536
+    "base_tid": "01009160181BA000",
+    "name": "Radon Break",
+    "description": "Radon Break is a classic Brick Breaker style game. Break bricks by using the ball. Get items like speed, ball splitter and paddle resize to make the game more challenging. Some specials like gun, power ball or block wall helps you while playing your game.\n\nRadon Blast is full packed with randomly sorted stages. Jump from stage to stage, collect bonus items for a better higher score.\n\nFeatures:\n- 40 action stages\n- Retro game play with a modern twist\n- Clean 3D graphics and nice effects\n- Stunning chip tune enhanced music track\n- Special Items: split ball, paddle resize, power ball, speed, glue, gun, ball splitter\n- Bonus Items: block wall, extra score, next level, extra ball",
+    "publisher": "EntwicklerX",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20220405,
+    "latest_update_release_date": 20220405,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220405
+    },
+    "versions": {
+        "65536": 20220405
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Radon Break is a classic Brick Breaker style game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

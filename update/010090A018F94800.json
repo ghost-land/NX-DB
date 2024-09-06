@@ -1,4 +1,35 @@
 {
     "id": "010090A018F94800",
-    "version": 65536
+    "base_tid": "010090A018F94000",
+    "name": "The Samurai Collection (QUByte Classics)",
+    "description": "Confront the Demon King in an all action adventure combining beat'em up combat with platform puzzling and awesomely evil level bosses.\n\nGame Features\n\n- Beautiful Pixel Graphics\n- Incredible Levels and Boss fights\n- Prehistoric and Futuristic Settings",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20221027,
+    "latest_update_release_date": 20221027,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221027
+    },
+    "versions": {
+        "65536": 20221027
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Experience the ultimate in martial arts mayhem in The Samurai Collection!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010091901DFD2800",
-    "version": 65536
+    "base_tid": "010091901DFD2000",
+    "name": "PO'ed: Definitive Edition",
+    "description": "Originally released in 1995, PO’ed is an adrenaline-pumping first-person space shooter that features gameplay elements inspired by generational powerhouses DOOM and QUAKE. PO’ed: Definitive Edition spices up the classic 1995 shooter with updated visuals, antialiasing, increased framerate and redefined controls, and up to 60 FPS performance.\n\nDON'T JUST GET MAD, GET PO'ED!\n\nYour ship has been overrun by aliens. Your comrades-in-arms have been annihilated and your soufflé has been ruined! What do you do? Grab your jetpack and rocket launcher and fry those suckers! PO'ed features 16 of the baddest, maddest and most unattractive monsters in the galaxy. Rock-throwing ogres, plasma-shooting robots, giant bats ... and walking butts! \n\nDon't look now, but they are all looking for something to eat. Could it be you? \n\nPO'ed pushes first person action games to new heights! Fly through 25 spectacular 3D environments while battling vicious alien creatures. Select from a vast arsenal of weapons, including the Power Drill and the Meat Seeker. Prepare yourself for the most action-packed, fast-paced, adrenaline-pumping, infinite directional 3D gaming experience of your life!\n\nPO’ed: Definitive Edition Key Features:\n\n- A plate full of quality-of-life features to enhance the gameplay and fix bugs present in the original game (which can be toggled off).\n- Wet your whistle with Widescreen support to HUD and other on-screen graphics to work with widescreen.\n- A new delicious difficulty mode added for hardcore players\n- 15 appetizing achievements.\n- A dash of Localization support for English, French, Italian, German, and Spanish.\n- Total freedom! Cruise on foot or fly with your jetpack through 25 wild 3D environments.\n- Features 16 of the baddest, maddest and most unaffectionate monsters in the galaxy.",
+    "publisher": "Nightdive Studios",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Shooter"
+    ],
+    "intro": "FRIGGIN' ALIENS! They hijacked your ship and kidnapped your shipmates. IT'S ENOUGH TO GET A GUY...PO'ED! \n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
+    "region": null
 }

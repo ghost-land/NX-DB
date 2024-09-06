@@ -1,4 +1,39 @@
 {
     "id": "0100907015146800",
-    "version": 65536
+    "base_tid": "0100907015146000",
+    "name": "The Shadow You",
+    "description": "The Shadow You is a compelling horror adventure game set in two different realities. Solve puzzles, reveal secrets and let the chills go down your spine in this immersive story. ",
+    "publisher": "WhisperGames",
+    "developer": null,
+    "base_release_date": 20220113,
+    "first_update_release_date": 20220420,
+    "latest_update_release_date": 20220420,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220420
+    },
+    "versions": {
+        "65536": 20220420
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

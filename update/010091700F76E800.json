@@ -1,4 +1,38 @@
 {
     "id": "010091700F76E800",
-    "version": 65536
+    "base_tid": "010091700F76E000",
+    "name": "〇× LOGIC PUZZLE 1000 !",
+    "description": "Simple but addictive! The Stick-out of brain training puzzle playing only with 〇 and ×!\n\nSimple logical puzzle with easy rules, filling 〇 and× in the cells !\nThere are 1000 quiz in 4 difficulties levels, try gradually the more difficult one, then fully enjoy the depth of LOGIC PUZZLE !\n\n【Rules for 〇× LOGIC PUZZLE】\n①Fill the same numbers of 〇 and ×in columns and rows.\n②No more than 2 same symbols,\n③No same filling patterns with other columns/rows.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20191024,
+    "first_update_release_date": 20210514,
+    "latest_update_release_date": 20210514,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210514
+    },
+    "versions": {
+        "65536": 20210514
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Communication",
+        "Arcade"
+    ],
+    "intro": "Extreme logical puzzle playing with 〇 and ×",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

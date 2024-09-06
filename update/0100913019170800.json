@@ -1,4 +1,52 @@
 {
     "id": "0100913019170800",
-    "version": 1310720
+    "base_tid": "0100913019170000",
+    "name": "MLB® The Show™ 23",
+    "description": "This edition includes:\n • Full game.\n • 5K Stubs™.\n \n MLB® The Show™ 23 gets you closer than ever to living your Baseball dreams on the diamond. Shock The Game and Own The Show with your favorite players, your favorite rivalries, and all your favorite MLB moments. \n \n • Live out your Baseball dreams with expanded commentary and in-game presentation updates that bring updated broadcast themes, realistic 3D environments including new external views of your favorite MLB stadiums, and more detail to uniforms and equipment. \n • For the first time in history, MLB® The Show™ 23 is partnering with the WORLD BASEBALL CLASSIC™. Build your dream team of national stars and Flashbacks from the 2023 World Baseball Classic tournament and customize your Diamond Dynasty squad with official uniforms from every participating country!\n • Diamond Dynasty give you new ways to play, earn, and develop your squad! Live out your Baseball dreams with over 25 new MLB Legends, bringing the total to over 180 available in game, to collect from and build your team.\n • Continue earning rewards after completing a featured program— spin the wheel whenever you complete a threshold to claim a reward. The more you play, the more you’ll earn! \n • Use Captain Cards to designate a position player and a pitching captain for your lineup for the first time ever and unlock powerful in-game boosts by meeting criteria unique to these players. \n • Franchise Mode now includes the new MLB Postseason format, schedule, and more CBA updates. The MLB Draft experience has been revamped to add strategy and depth in managing your organization. \n • Face your friends with cross-platform play.** With cross progression, continue your progress and earn and use content on other console platforms.***",
+    "publisher": "MLBAM",
+    "developer": null,
+    "base_release_date": 20230328,
+    "first_update_release_date": 20230323,
+    "latest_update_release_date": 20231103,
+    "latest_update": {
+        "version": "1310720",
+        "release_date": 20231103
+    },
+    "versions": {
+        "65536": 20230323,
+        "131072": 20230411,
+        "196608": 20230417,
+        "262144": 20230503,
+        "327680": 20230512,
+        "393216": 20230520,
+        "458752": 20230524,
+        "524288": 20230601,
+        "589824": 20230609,
+        "655360": 20230623,
+        "720896": 20230630,
+        "786432": 20230714,
+        "851968": 20230809,
+        "917504": 20230822,
+        "983040": 20230830,
+        "1048576": 20230915,
+        "1114112": 20230921,
+        "1179648": 20231003,
+        "1245184": 20231017,
+        "1310720": 20231103
+    },
+    "category": [
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "Shock The Game. Own The Show.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

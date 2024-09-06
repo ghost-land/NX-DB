@@ -1,4 +1,41 @@
 {
     "id": "010091300FFA0800",
-    "version": 65536
+    "base_tid": "010091300FFA0000",
+    "name": "Grizzland",
+    "description": "Welcome to the Grizzled Planet, a seamless open world platformer presented in retro style and filled with old-school challenges. Explore without pointers to uncover secret areas. Equip yourself with unique items and skills, even the ability to shrink and enlarge or explode and recombine. Only through self-discovery will you overcome enemy Dinos in epic combat and find the truth of Grizzland.\n\nFeatures:\n\n• Explore a true open-world setting.\n• Take on old-school quests with no pointers.\n• Discover secret areas.\n• Equip yourself with various skills, items and abilities.\n• Challenge unique opponents in epic battles.",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20200618,
+    "latest_update_release_date": 20200618,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200618
+    },
+    "versions": {
+        "65536": 20200618
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Jump, slash and explore a broken world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

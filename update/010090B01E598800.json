@@ -1,4 +1,33 @@
 {
     "id": "010090B01E598800",
-    "version": 65536
+    "base_tid": "010090B01E598000",
+    "name": "Diamond Hands: To The Moon",
+    "description": "Diamond Hands: To The Moon is a simple to play, yet difficult to master jumping platform game where the ultimate goal is to get to the moon. You control your character by moving left, right and by jumping - and that's it. With practice, you'll be able to perfect your jump by controlling the jump's strength to land on any target platform. Apes that get to the moon will earn not only the title of diamond hands, but will also be showered in their heart's most luxurious desires!\n\nApes alone .. Weak!\nSolo mode for those players seeking the most challenging adventure or versus on mode on split screen.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20240306,
+    "first_update_release_date": 20240305,
+    "latest_update_release_date": 20240305,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240305
+    },
+    "versions": {
+        "65536": 20240305
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "A game with one objective - to get to the moon. As frustrating as stock market manipulation.\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

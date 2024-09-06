@@ -1,4 +1,42 @@
 {
     "id": "010090D016ADE800",
-    "version": 65536
+    "base_tid": "010090D016ADE000",
+    "name": "Drift King",
+    "description": "THE DRIFTING FUN:\n* Drifting mechanics with easy controls\n* Hit handbrake to go sideways and start drifting\n* LOTS OF SMOKE - BURN TIRES!\n\nCARS AND TUNING:\n* Over 30 powerful Cars with their unique bodykits to choose, driving style and setup.\n* Different driving styles - DRIFTING, SIMULATOR, AWD\n* Upgrade car engine to make it more powerful with more Horsepowers\n\nCUSTOMIZATION:\n* Customize cars on DYNO to make them more effective for your driving style\n* Choose colours for Different car parts, Body, rims, Windows,\n* Create unique vinyls with in-game tools\n\nONLINE And GAME MODES:\n* Classic circuit drift mode\n* Touge Drift - Don't be afraid to drift with high speed up on the mountain\n* Create or Join ONLINE sessions for Tandem Drifts with your friends, challenge them or make fun together and become Drift King.\n",
+    "publisher": "Abelix Games",
+    "developer": null,
+    "base_release_date": 20220922,
+    "first_update_release_date": 20221012,
+    "latest_update_release_date": 20221012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221012
+    },
+    "versions": {
+        "65536": 20221012
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Grab your favourite car, tune it, challenge players in Online Drift battles and become a DRIFT KING!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language"
+    ],
+    "region": null
 }

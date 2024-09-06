@@ -1,4 +1,44 @@
 {
     "id": "010091400D238800",
-    "version": 262144
+    "base_tid": "010091400D238000",
+    "name": "Bloodroots",
+    "description": "Betrayed and left for dead, Mr. Wolf is hell-bent on finding his killer and enacting revenge - alone, and vastly outnumbered. \n\nThankfully for Mr. Wolf, the world is your weapon in Bloodroots - a relentless action game that unfolds across the sprawling Weird West. You’ll choreograph spectacular, ultra-violent combos by making use of everything around you, from hatchets, to ladders, to...carrots? It’s improvise or die, as Mr. Wolf fights his way to the center of the mystery: why was he betrayed?\n\n- A world overflowing with makeshift weapons that not only change the way you fight, but how you get around\n- Improvise the most deadly combos and compete for fame on worldwide leaderboards \n- Fight your way through a variety of handcrafted levels, from frozen forests to towering mountaintops \n- Experience a twisted Western revenge tale with a deranged cast of characters",
+    "publisher": "Paper Cult",
+    "developer": null,
+    "base_release_date": 20200228,
+    "first_update_release_date": 20200224,
+    "latest_update_release_date": 20200402,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200402
+    },
+    "versions": {
+        "65536": 20200224,
+        "262144": 20200402
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "In Bloodroots, the world is your weapon - improvise and adapt in a bloody revenge quest across the sprawling Weird West.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "010090F013A32800",
-    "version": 65536
+    "base_tid": "010090F013A32000",
+    "name": "Dark Grim Mariupolis",
+    "description": "Encourage yourself and step into darkness…\nEnter Mariupolis, a dark place accompanied with confusing, strange music of no visible source. You are some sort of a detective, and therefore you need to investigate, but why? That’s the thing you’re going to find out… or, maybe not. Everything depends on you and sudden whims of Pentaculus, a grim god stretching its hands out over the whole city.\nInvestigate and solve puzzles, while resisting dark and obscure grasp of Mariupolis, where the only things guarding you from its baneful influence are sarcasm and arrogance. And be aware – your hero might actually die.\n\n- Steal another’s property to find out the truth.\n- Solve puzzles and conduct investigations.\n- Reply in appropriate manner in dialogs to achieve your goals.\n- Sometimes you’ll have to make a moral choice.\n- Deceive and hide your true intensions.\n- Complain about life, work and social order.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20201216,
+    "first_update_release_date": 20210128,
+    "latest_update_release_date": 20210128,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210128
+    },
+    "versions": {
+        "65536": 20210128
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Classic adventure game set in a world, combining noir, Greek mythology, magic, mysticism, hopeless entourage of Greco-Roman Age of Decadence and everyday routine.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }
