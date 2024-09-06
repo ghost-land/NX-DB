@@ -1,4 +1,37 @@
 {
     "id": "01000BF00B6BC800",
-    "version": 65536
+    "base_tid": "01000BF00B6BC000",
+    "name": "Deployment",
+    "description": "Deployment is an intense competitive top-down shooter game. Infosoldiers, made of pure information, fight in an endless war between governments and megacorporations to rule over the digital systems that control the world.",
+    "publisher": "Whale Rock Games",
+    "developer": null,
+    "base_release_date": 20181110,
+    "first_update_release_date": 20181102,
+    "latest_update_release_date": 20181102,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181102
+    },
+    "versions": {
+        "65536": 20181102
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

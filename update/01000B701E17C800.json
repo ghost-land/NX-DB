@@ -1,4 +1,33 @@
 {
     "id": "01000B701E17C800",
-    "version": 131072
+    "base_tid": "01000B701E17C000",
+    "name": "ぶっとバード",
+    "description": "カワイイ“トリ”たちがハードな武器を身にまとい、大空を縦横無尽に飛び回ってライバル達をぶっとばす！　そのギャップと迫力がたまらない、ぶっとバトル開幕！\nシンプルな操作で、おうちでもオンラインでもみんなで一緒に白熱した空中バトルを楽しむことができる、４人同時プレイ可能な対戦アクションゲーム！",
+    "publisher": "小学館",
+    "developer": null,
+    "base_release_date": 20240619,
+    "first_update_release_date": 20240709,
+    "latest_update_release_date": 20240808,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240808
+    },
+    "versions": {
+        "65536": 20240709,
+        "131072": 20240808
+    },
+    "category": [
+        "アクション",
+        "シューティング",
+        "コミュニケーション",
+        "パーティー"
+    ],
+    "intro": "飛んで、撃って、ぶっとばせ！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "01000BE0156B2800",
-    "version": 196608
+    "base_tid": "01000BE0156B2000",
+    "name": "Nexomon",
+    "description": "Get ready to explore a world where you can catch, evolve and collect over 300 unique Nexomon! Embark on an epic journey and build your ultimate team to take on powerful tamers and their fearsome Nexomon.\n\nBECOME A HERO\nChoose from seven unique starter Nexomon to begin your journey. Build a formidable team to take on powerful foes and save the world from the merciless Nexolord!\n\nLET THE BATTLES BEGIN\nTake part in thrilling 2D animated turn-based battles against wild Nexomon, fellow tamers, and legendary champions! You’ll need to master the seven elemental types to have the advantage in battle.\n\nBUILD YOUR TEAM\nWeaken wild Nexomon to capture them and add them to your team. With over 300 Nexomon to find, there are plenty of options to customize your team to your liking.\n\nDISCOVER THE WORLD OF NEXOMON\nFrom thick forests to dangerous volcanoes and beautiful snowscapes - each area is teeming with Nexomon. Catch, train and evolve your Nexomon as you travel across ten different regions with your companions.\n\nMEET FRIENDS, BATTLE FOES\nEach city, town, and outpost is inhabited by a raft of unique characters - each with their own story to tell. Some will be loyal allies. Others will try to stop you in your tracks... ",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211001,
+    "first_update_release_date": 20211005,
+    "latest_update_release_date": 20220825,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220825
+    },
+    "versions": {
+        "65536": 20211005,
+        "131072": 20220211,
+        "196608": 20220825
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Experience the original Nexomon story for the first time on console!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

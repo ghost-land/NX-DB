@@ -1,4 +1,38 @@
 {
     "id": "01000B700EC22800",
-    "version": 131072
+    "base_tid": "01000B700EC22000",
+    "name": "Illusion of L'Phalcia",
+    "description": "The Sword of Amal, a legendary treasure said to grant any wish. Ryser is traveling around the world as a seeker with his buddy, Cougar, from the Leopard clan, in search of this artifact of legend. Their journey will lead them into fateful encounters with both allies and rivals only to find a mysterious truth awaiting at the end of their adventure.\n\nOverwhelm your enemies with beautifully animated skill chains and magic in turn-based 3D battles! Acquire Gems throughout the adventure and attach them to a character's Rune like a puzzle to enable learning magic, as well as gaining status boosts. Explore the unknown through dungeon crawling, subquests and many other challenges!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190801,
+    "first_update_release_date": 20230226,
+    "latest_update_release_date": 20230226,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230226
+    },
+    "versions": {
+        "131072": 20230226
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Experience epic 3D battles and customize characters with Runes & Gems in a fantasy RPG with an adventure awaiting in search of the legendary Sword of Amal!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Scary Scenes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

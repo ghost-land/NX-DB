@@ -1,4 +1,37 @@
 {
     "id": "01000B20117B8800",
-    "version": 131072
+    "base_tid": "01000B20117B8000",
+    "name": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
+    "description": "One month after Subaru's life in another world began, an emissary brings news to royal candidate Emilia that the royal selection is postponed. A nun named Melty Pristis has appeared to defy prophecy as the mysterious sixth candidate seeking the throne. With Melty's arrival casting doubt on each candidate's legitimacy and the Witch Cult plotting in the shadows, will Subaru be able to protect all those he holds dear?\n\n・New Re:ZERO storyline, fully supervised by the series author Tappei Nagatsuki!\n\n・Characters designed by the original artist Shinichirou Otsuka!\n\n・Help Emilia by using intel to wade through peril!",
+    "publisher": "Spike Chunsoft US",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20210129,
+    "latest_update_release_date": 20210402,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210402
+    },
+    "versions": {
+        "65536": 20210129,
+        "131072": 20210402
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": "Six candidates, one imposter, and a conspiracy that ensnares the entire kingdom...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

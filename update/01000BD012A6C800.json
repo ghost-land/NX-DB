@@ -1,4 +1,39 @@
 {
     "id": "01000BD012A6C800",
-    "version": 589824
+    "base_tid": "01000BD012A6C000",
+    "name": "牧場物語 橄欖鎮與希望的大地",
+    "description": "『牧場物語 橄欖鎮與希望的大地』不只與往常一樣可經營牧場，還能自由地打造自己的專屬牧場！在開拓廣闊的森林的過程裡，也會有接二連三的許多新發現及相遇，盡情享受專屬於您的悠閒生活吧。\n\n【下載版限定特典】\n購買『牧場物語 橄欖鎮與希望的大地』下載版的玩家可獲得「尼爾的夾克造型」（取自『牧場物語 起源的大地』）作為下載版的購買特典。\n",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210225,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20211129,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20211129
+    },
+    "versions": {
+        "131072": 20210224,
+        "196608": 20210316,
+        "262144": 20210406,
+        "327680": 20210623,
+        "393216": 20210701,
+        "458752": 20210805,
+        "524288": 20210907,
+        "589824": 20211129
+    },
+    "category": [
+        "模擬",
+        "冒險"
+    ],
+    "intro": "Nintendo Switch™平台首次推出！系列全新作品的「牧場物語」",
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

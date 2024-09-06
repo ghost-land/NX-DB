@@ -1,4 +1,38 @@
 {
     "id": "01000C4015030800",
-    "version": 327680
+    "base_tid": "01000C4015030000",
+    "name": "パワプロクンポケットR",
+    "description": "『パワポケ』シリーズが10年ぶりに復活！『パワプロクンポケットR』は、これまでとは全く違う新育成モード「サイバーバル」や、シリーズの原点となる「サクセス」のリメイクや「ミニゲーム」を搭載。新たな野球バラエティーゲームの幕開けだ！",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20211125,
+    "first_update_release_date": 20211124,
+    "latest_update_release_date": 20220802,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220802
+    },
+    "versions": {
+        "65536": 20211124,
+        "131072": 20220105,
+        "196608": 20220314,
+        "262144": 20220414,
+        "327680": 20220802
+    },
+    "category": [
+        "スポーツ",
+        "アクション",
+        "パーティー"
+    ],
+    "intro": "ぶっ球ゲ～！\nぶっとび、おどろき、野球バラエティゲーム!!\n『パワプロクンポケットR』がNintendo Switchに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "セクシャル",
+        "犯罪"
+    ],
+    "region": null
 }

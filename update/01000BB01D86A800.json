@@ -1,4 +1,32 @@
 {
     "id": "01000BB01D86A800",
-    "version": 65536
+    "base_tid": "01000BB01D86A000",
+    "name": "Morto - Chapter 2",
+    "description": "A heavy and enigmatic game that, this time, will delve further into the familiar environment in which the protagonist is immersed. Discover more about the secrets surrounding this character and those who live with him. Morto is an artistic game with depression as its main theme and should be avoided by those who are sensitive to this subject.",
+    "publisher": "GAME NACIONAL",
+    "developer": null,
+    "base_release_date": 20240203,
+    "first_update_release_date": 20240413,
+    "latest_update_release_date": 20240413,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240413
+    },
+    "versions": {
+        "65536": 20240413
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "This is the second part of the psychological horror Morto.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

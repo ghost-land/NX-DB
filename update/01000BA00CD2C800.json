@@ -1,4 +1,33 @@
 {
     "id": "01000BA00CD2C800",
-    "version": 131072
+    "base_tid": "01000BA00CD2C000",
+    "name": "Santa Tracker",
+    "description": "Read Santa's very own blog as he prepares for the big day and receive exclusive news stories from the North Pole.\n\nUse the Advent Calendar to find out where Santa has been spotted during the run up to Christmas. Is he working in the toy factory? Out for a ride? or just having a cup of Tea?\n\nOn Christmas Eve he will travel the world delivering in every time zone from New Zealand to San Francisco just after the kids have fallen asleep.\n\nFeatures\n- Santa Tracker Globe\n- Christmas Countdown\n- Santa’s Blog\n- News and Letters\n- Sightings of Santa",
+    "publisher": "CGA Studio Games",
+    "developer": null,
+    "base_release_date": 20181207,
+    "first_update_release_date": 20181211,
+    "latest_update_release_date": 20190108,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190108
+    },
+    "versions": {
+        "65536": 20181211,
+        "131072": 20190108
+    },
+    "category": [
+        "Education",
+        "Simulation",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "The only place to track Santa on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,48 @@
 {
     "id": "01000B3012F3A800",
-    "version": 327680
+    "base_tid": "01000B3012F3A000",
+    "name": "UnderMine",
+    "description": "Delve deep into the UnderMine and discover its secrets, one peasant at a time! UnderMine is an action-adventure roguelike that blends combat and dungeon crawling with rpg-like progression. Mine gold, die, upgrade yourself, and try again! Discover hundreds of items including relics, potions, blessings, and curses that all combo and stack for a new experience every run. Challenge dangerous bosses and rescue helpful characters that provide new upgrades for your adventure. Decipher the cryptic messages of the Undermine’s residents and unfold the mystery at the heart of the dungeon.",
+    "publisher": "Thorium Entertainment",
+    "developer": null,
+    "base_release_date": 20210211,
+    "first_update_release_date": 20210329,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20210329,
+        "131072": 20210807,
+        "196608": 20210826,
+        "327680": 20220211
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

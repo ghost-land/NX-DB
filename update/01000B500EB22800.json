@@ -1,4 +1,35 @@
 {
     "id": "01000B500EB22800",
-    "version": 65536
+    "base_tid": "01000B500EB22000",
+    "name": "One Finger Death Punch 2",
+    "description": "Simplicity to perfection.  \nTo be played in bursts.  \nBy design, there is no story.  \nOnly crazy kung-fu.  \n\nYou're surrounded, outnumbered and have to use any weapon you can get your hands on to dismantle your opponents in a flurry of kung fu. That's the essence of OFDP2, the world's fastest brawler. It features the original OFDP's unique two-button mechanics which we've spent the last five years perfecting. Speed and precision are key in this whirlwind fighting frenzy, as players maintain control over the 26 different unlockable skills, frenetic gameplay, and classic kung fu-inspired animations.  \n\nATTACK LEFT or ATTACK RIGHT   \n\nWe want to show that a fighting game can be complex without cumbersome button combinations. Once players complete the tutorial levels and learn the basics, they'll see that this is the most intense two-button game ever made.  \n\nWith 1000 different animations available, literally, anything is possible—particularly when players unlock each of the 26 available skills. Having these skills available simultaneously is a major design challenge that encompasses the core of what OFDP2 is trying to achieve. Seeing the game with all 26 skills is a spectacle unique to OFDP2.  \n\nWe built this game as a palette cleanser between other games in your library. It was designed to deliver a quick hit of adrenalin as fast as possible.  ",
+    "publisher": "Silver Dollar Games",
+    "developer": null,
+    "base_release_date": 20200226,
+    "first_update_release_date": 20200212,
+    "latest_update_release_date": 20200212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200212
+    },
+    "versions": {
+        "65536": 20200212
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": "The world's fastest brawler is back. Experience cinematic kung-fu in the most epic stickman fighter ever made. Staying true to the original, you play with only two buttons.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Lyrics",
+        "Violence"
+    ],
+    "region": null
 }

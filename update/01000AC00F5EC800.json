@@ -1,4 +1,39 @@
 {
     "id": "01000AC00F5EC800",
-    "version": 65536
+    "base_tid": "01000AC00F5EC000",
+    "name": "Spirit Roots",
+    "description": "Your destination is on the outskirts of the stellar system, where a hundred years conflict created a unique situation: the small remaining parts of the two fighting planets had to be stitched together to create a surviving larger one. Welcome to the Stitched-Together Planet! \nBoth populations agreed on one condition that should never be broken: nobody can cross the border that separates them. But what exactly happens if someone breaks the rule? That’s what you will find out!\n\nRun, jump, fight, avoid traps, collect coins and beat bosses in this fun and family-friendly platformer adventure. In each of the 5 worlds you will discover new challenges and enemies and evolve in unique and fantastic sceneries.\n\nWhat exactly can you expect with Spirit Roots:\n- Wonders and variety. 50 levels in 5 worlds with their own atmospheres, enemies, mechanics and music;\n- Platformer gameplay. Run, jump, collect items and fight mean creatures on the way;\n- Epic boss battles. Farmer robots? Huge spiders? Flying skulls? Mud monsters? We've packed it all into our game!\n",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20220607,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20220607
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Go on a fun and family-friendly platformer adventure in 5 fantastic worlds, and discover the touching story of their population.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

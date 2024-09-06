@@ -1,4 +1,34 @@
 {
     "id": "01000AD012D3A800",
-    "version": 65536
+    "base_tid": "01000AD012D3A000",
+    "name": "BIT.TRIP VOID",
+    "description": "BIT.TRIP VOID is a synesthetic exploration of rhythm and music as they pertain to our everyday lives and moods. In a control scheme brand new to the series, yet wholly familiar to gamers, the player is given complete freedom to move about the screen wherever they desire, interacting with the music in brand new ways. The classic gameplay aesthetic remains, as color—and the absence of color—are explored to the fullest.\n- Epic boss battles!\n- A rockin’ chiptune-inspired soundtrack with special guest Nullsleep!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Synesthetic music/art/gameplay interaction!\n- Hyper-realistic retro cutscenes!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20201225,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210121
+    },
+    "versions": {
+        "65536": 20210121
+    },
+    "category": [
+        "Arcade",
+        "Music",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "The third phase of CommanderVideo’s soul quest begins in BIT.TRIP VOID.\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

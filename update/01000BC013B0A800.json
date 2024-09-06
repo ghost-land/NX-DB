@@ -1,4 +1,39 @@
 {
     "id": "01000BC013B0A800",
-    "version": 196608
+    "base_tid": "01000BC013B0A000",
+    "name": "A Tale of Synapse: The Chaos Theories",
+    "description": "A Tale Of Synapse: The Chaos Theories is a mix of platformer and puzzle game melting abstract art and sciences. Use the universe rules and all the elements that compose it to help Synapsians to be open-minded.  Discover an incredible and colorful story with Sci and Néro, two heroes, who cooperate to evolve in this dreamlike world based on Math logic rules. The original soundtrack will immerse you in the universe of Héméide.\nAre you able to enter this magical land? Play alone or co-op with your friend and develop your synapses to get more competencies, solve puzzles and fight enemies.\n\n- 4 magical worlds\n- Local Multiplayer Mode\n- 45 levels with incredible puzzles\n- Colorful and unique 2D\n- More than 10h of gameplay\n- French Innovative Indie Game\n- Solve equations with your sense of logic",
+    "publisher": "Caroline Martinand",
+    "developer": null,
+    "base_release_date": 20210630,
+    "first_update_release_date": 20210512,
+    "latest_update_release_date": 20220126,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220126
+    },
+    "versions": {
+        "65536": 20210512,
+        "131072": 20210809,
+        "196608": 20220126
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Education",
+        "Adventure"
+    ],
+    "intro": "Help Sci and Néro to get out of a world where logic, mathematics and puzzles will be your allies in a 2D platform game with a unique aesthetic.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

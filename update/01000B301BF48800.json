@@ -1,4 +1,48 @@
 {
     "id": "01000B301BF48800",
-    "version": 524288
+    "base_tid": "01000B301BF48000",
+    "name": "きみのまち サンドロック",
+    "description": "災害によってほとんどの現代技術が破壊されてから300年後の世界が舞台。資源を集めて機械を作ったり、個性豊かな住人たちと仲良くなったり、モンスターから街を守ったりしながら、荒れ果てた砂漠の街サンドロックをきみの力でよみがえらせよう！",
+    "publisher": "DMM GAMES",
+    "developer": null,
+    "base_release_date": 20231103,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240530
+    },
+    "versions": {
+        "131072": 20231123,
+        "262144": 20240125,
+        "327680": 20240131,
+        "393216": 20240328,
+        "458752": 20240425,
+        "524288": 20240530
+    },
+    "category": [
+        "シミュレーション"
+    ],
+    "intro": "荒れ果てた砂漠の街を、きみの力で変えていこう。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恋愛",
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

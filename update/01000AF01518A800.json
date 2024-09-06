@@ -1,4 +1,54 @@
 {
     "id": "01000AF01518A800",
-    "version": 1048576
+    "base_tid": "01000AF01518A000",
+    "name": "Root",
+    "description": "Play the digital adaptation of the beloved tabletop board game. Root is a game of adventure and war where 2 to 4 players battle for control of a vast wilderness.\n\nThe nefarious Marquise de Cat has seized the great woodland, intent on harvesting its riches. Under her rule, the many creatures of the forest have banded together. This Alliance will seek to strengthen its resources and subvert the rule of Cats. In this effort, the Alliance may enlist the help of the wandering Vagabonds who are able to move through the more dangerous woodland paths. Though some may sympathize with the Alliance’s hopes and dreams, these wanderers are old enough to remember the great birds of prey who once controlled the woods.\n\nMeanwhile, at the edge of the region, the proud, squabbling Eyrie have found a new commander who they hope will lead their faction to resume their ancient birthright.\n\nThe stage is set for a contest that will decide the fate of the great woodland. It is up to the players to decide which group will ultimately take root.",
+    "publisher": "Dire Wolf Digital",
+    "developer": null,
+    "base_release_date": 20211116,
+    "first_update_release_date": 20211201,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20211201,
+        "131072": 20211210,
+        "262144": 20220503,
+        "327680": 20220513,
+        "393216": 20220615,
+        "458752": 20220623,
+        "524288": 20221007,
+        "589824": 20230329,
+        "655360": 20230411,
+        "720896": 20230412,
+        "786432": 20230419,
+        "851968": 20230531,
+        "917504": 20230802,
+        "983040": 20230809,
+        "1048576": 20231123
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "A digital board game of woodland warfare.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

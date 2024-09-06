@@ -1,4 +1,41 @@
 {
     "id": "01000AD01CEF6800",
-    "version": 65536
+    "base_tid": "01000AD01CEF6000",
+    "name": "SkateCat",
+    "description": "Step into the paws of SkateCat and brace yourself for an adrenaline-fueled escapade through Nekocity, a once peaceful haven now besieged by monstrous invaders from another dimension. As the chosen feline hero, it's up to you to restore harmony to this vibrant world.\n\nSkateCat offers a thrilling platformer experience where you'll navigate perilous landscapes, evade devilish foes, and conquer challenging bosses across a multitude of universes. Armed with nothing but your trusty skateboard, embark on a journey through ever-changing environments filled with excitement and danger.\n\nCreated by SJ Games, SkateCat brings classic platforming action directly to you. Featuring meticulously crafted levels and unforgettable boss encounters. Prepare to unleash your inner skater and save Nekocity from certain doom in this epic adventure of feline proportions.",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20240530,
+    "first_update_release_date": 20240530,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240530
+    },
+    "versions": {
+        "65536": 20240530
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Embark on a purr-fect 8-bit adventure with SkateCat, the ultimate platformer game where you step into the paws of a fearless feline skater!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
