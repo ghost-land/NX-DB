@@ -1,4 +1,36 @@
 {
     "id": "0100D1A01460A800",
-    "version": 65536
+    "base_tid": "0100D1A01460A000",
+    "name": "Empire of Angels IV",
+    "description": "For the first time since the series began in 1993, Empire of Angels arrives on console! As the latest entry in the storied tactical RPG franchise, this updated edition of Empire of Angels IV features lush 3D graphics, strategic turn-based combat and a huge cast of gorgeous female characters.\n\nOffering a fresh perspective on the history of Asgard, Empire of Angels IV reintroduces its lore, characters and mechanics with no prior knowledge necessary to enjoy this brand new adventure. Deep fantasy-themed political intrigue and the looming terror of war are balanced by light-hearted character interactions, slice-of-life humor, alluring designs and the ability to shatter your all-female opponents’ armor!\n\nJoin the Namtar Investigation Team as they patrol the Land of Asgard to maintain order against a plague that drives ordinary people to mindless violence. After Niya, captain of the Valkyrie Kingdom’s legion, witnesses a shining orb fall from the sky, everything she understands about Asgard’s history and fragile peace is called into question. Accompanied by trusted allies as well as new friends, Niya leads the team in a world-spanning mission to uncover the truth, all as the mysterious plague threatens to tear them apart.\n\nFeatures:\n\n• Meet and enlist a large cast of female warriors.\n• Engage in turn-based tactical battles presented in lush 3D style!\n• Navigate the Land of Asgard with a detailed overworld map.\n• Customize your team with a variety of job classes.\n• Discover alternate narrative paths and endings based on your actions!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20210608,
+    "latest_update_release_date": 20210608,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210608
+    },
+    "versions": {
+        "65536": 20210608
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Lead an all-female team of warriors investigating a plague that threatens the kingdom’s fragile peace!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null
 }

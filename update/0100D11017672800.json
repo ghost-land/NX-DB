@@ -1,4 +1,39 @@
 {
     "id": "0100D11017672800",
-    "version": 262144
+    "base_tid": "0100D11017672000",
+    "name": "NOISZ re:||COLLECTION G",
+    "description": "NOISZ fuses music game and shoot-em-up elements to create a frantic new experience that demands lightning reflexes, keen sense of rhythm, and judicious decision making!\n\nEven shmup and rhythm game veterans will find there’s still a lot to learn... but intuitive core gameplay will ensure that everyone’s quickly blasting away to the beat!\n\nNOISZ re:||COLLECTION G is a massive all-in-one collection of NOISZ content, featuring 40 action-packed stages and 3 story campaigns which mix the visual novel format with intense rhythm battles! It's time to face the music like never before.",
+    "publisher": "Anarch Entertainment",
+    "developer": null,
+    "base_release_date": 20231106,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20231201,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231201
+    },
+    "versions": {
+        "65536": 20231010,
+        "131072": 20231019,
+        "196608": 20231201,
+        "262144": 20231201
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Music",
+        "Action"
+    ],
+    "intro": "NOISZ is an unprecedented mix of rhythm game, bullet hell shoot-em-up, and visual novel. Battle through 40 stages in a massive anime-inspired narrative full of surprising twists!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Violence"
+    ],
+    "region": null
 }

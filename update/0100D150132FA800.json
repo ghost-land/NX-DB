@@ -1,4 +1,42 @@
 {
     "id": "0100D150132FA800",
-    "version": 131072
+    "base_tid": "0100D150132FA000",
+    "name": "Pancake Bar Tycoon",
+    "description": "Do you like pancakes? Enjoy their taste? Do you want to make them yourself? \n\nWell... why not give it a try? Let's make one right away! \n\nScoop up some pancake batter and drizzle it on a frying pan. Watch as it turns golden brown. \n\nAdd some ingredients – syrup, fruit, whipping cream... Don't forget a thing! \n\nWhen you get everything ready... serve! \n\nThat's it!\n\nFeatures:\n\n* More than 40 dishes to serve \n* 3 unique locations\n* More than 60 levels to explore\n* Countless upgrades\n* Unlock new items to upgrade your kitchen appliances, interiors and ingredients\n* 50+ achievements to gain",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20210514,
+    "latest_update_release_date": 20210916,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210916
+    },
+    "versions": {
+        "65536": 20210514,
+        "131072": 20210916
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100D1B00B6FA800",
-    "version": 65536
+    "base_tid": "0100D1B00B6FA000",
+    "name": "Spirit Hunter: Death Mark",
+    "description": "You have been Marked...\n\nA strange rumor is spreading through the shadows of Tokyo's H City: a mysterious disfigurement, like a grotesque birthmark, has been appearing on the bodies of certain individuals. Anyone who receives the Mark will rapidly die of unknown, horrifying causes.\n\nDeprived of your memories, you arrive at a mansion rumored to protect the bearers of the Mark. As the doors swing open, the countdown to death has already begun...",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20181031,
+    "first_update_release_date": 20181017,
+    "latest_update_release_date": 20181017,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181017
+    },
+    "versions": {
+        "65536": 20181017
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

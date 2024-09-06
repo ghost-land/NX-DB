@@ -1,4 +1,38 @@
 {
     "id": "0100D1700ACFC800",
-    "version": 131072
+    "base_tid": "0100D1700ACFC000",
+    "name": "Flood of Light",
+    "description": "You control a mysterious girl who arrives at a city that is completely flooded with water. Only she possesses the ability to control light.\nBy using the girl's supernatural power, you can solve various puzzles to gradually make the water recede and ultimately save the city.\n\nHowever, by doing so, the true purpose of this mysterious girl will also be slowly revealed to you.",
+    "publisher": "Irisloft",
+    "developer": null,
+    "base_release_date": 20180823,
+    "first_update_release_date": 20180827,
+    "latest_update_release_date": 20180913,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180913
+    },
+    "versions": {
+        "65536": 20180827,
+        "131072": 20180913
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Training",
+        "Other"
+    ],
+    "intro": "Flood of light is a puzzle game with beautiful arts and wonderful music.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

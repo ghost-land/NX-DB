@@ -1,4 +1,39 @@
 {
     "id": "0100D1800D902800",
-    "version": 131072
+    "base_tid": "0100D1800D902000",
+    "name": "SENRAN KAGURA Peach Ball",
+    "description": "Bounce your ball along the curves of a crazy theme park, starring a ninja girl who thinks she's an animal! (Yep, you heard right!) ♪\n\nFeel every shake and bounce with the HD Rumble feature. Build up points to unlock special challenges, which showcase the girls' charms!\n\nThe usual features of the franchise are here too, including dress-up, diorama, and intimacy mode! Customize your favorite characters and enjoy some high-quality pinball with them. ♡ Featuring the Accessories Galore set, with 30 bonus accessories included for free!",
+    "publisher": "Marvelous (XSEED)",
+    "developer": null,
+    "base_release_date": 20190709,
+    "first_update_release_date": 20190705,
+    "latest_update_release_date": 20190708,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190708
+    },
+    "versions": {
+        "65536": 20190705,
+        "131072": 20190708
+    },
+    "category": [
+        "Action",
+        "Board Game",
+        "Party",
+        "Communication"
+    ],
+    "intro": "SENRAN KAGURA has transformed into a sexy pinball game on the Nintendo Switch!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Partial Nudity",
+        "Sexual Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

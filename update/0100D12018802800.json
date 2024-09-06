@@ -1,4 +1,42 @@
 {
     "id": "0100D12018802800",
-    "version": 65536
+    "base_tid": "0100D12018802000",
+    "name": "Multi Race: Match The Car",
+    "description": "What should I use today? A tank, or maybe a monster truck? What’s it like outside? \nOh, it’s the North Pole. Then a snowmobile will do just fine!\n \nThat’s basically what our game is all about. It may sound easy but, trust me… It’s not.\nIt’s a matter of reflex and observation skills. So if you don’t want to fall off a cliff or get stuck with a boat on the surface of the moon, you’d better be fast and look closely.\n \nDozens of worlds and cars are waiting to be discovered. So join the Multi Race, and show us how to match the right vehicle with a proper environment!",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20220818,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20220818
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Racing"
+    ],
+    "intro": "What should I use today? A tank, maybe a monster truck? What’s it like outside?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

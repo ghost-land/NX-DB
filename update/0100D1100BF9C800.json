@@ -1,4 +1,44 @@
 {
     "id": "0100D1100BF9C800",
-    "version": 65536
+    "base_tid": "0100D1100BF9C000",
+    "name": "Skulls of the Shogun: Bone-A-Fide Edition",
+    "description": "“Fast, compact and yet consistently thoughtful, there’s nothing else quite like Skulls of the Shogun -- and, for me, it earns its place amongst the genre’s greats.”  Eurogamer\n\nCrush your enemies and eat their skulls! Enter the Samurai Afterlife and join forces with undead warriors, magical monks, and mighty mustachioed samurai generals!\n\nSkull-tastic features:\nBeautifully hand-drawn and hand-animated! See it in motion!\n4 magical animal monks to discover and master!\n24 levels of epic single-player story! Why can’t General Akamoto get any respect?!\n4 gods and 6 generals, all with distinct personalities!\nPower up your army to deadly demons!\nGain experience, emblems, and cred with the progression system!\nBONUS island featuring persistent troops and the Tanuki Monk!\nSkulls is playable in TV mode, Handheld mode, or Tabletop mode and supports the Nintendo Switch™ Pro Controller, and Joy-Con™ controllers.",
+    "publisher": "Golem Entertainment",
+    "developer": null,
+    "base_release_date": 20190711,
+    "first_update_release_date": 20190902,
+    "latest_update_release_date": 20190902,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190902
+    },
+    "versions": {
+        "65536": 20190902
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Skulls of the Shogun is a fast-paced turn-based strategy game, supercharged with fighting-game flare and packed with a serious amount of humour!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Coarse Language",
+        "Online Interactivity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

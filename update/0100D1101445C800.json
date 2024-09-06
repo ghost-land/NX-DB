@@ -1,4 +1,40 @@
 {
     "id": "0100D1101445C800",
-    "version": 196608
+    "base_tid": "0100D1101445C000",
+    "name": "Castaway Paradise",
+    "description": "Instant vacation on your own tropical island! Decorate the island, dress up, collect insects, grow crops and help your new neighbors. On Castaway Paradise you can do whatever you want.\n\n    ♥ Fun activities \n    ♥ Grow plants\n    ♥ Create your own outfit\n    ♥ Decorate your island\n    ♥ Help the villager out\n    ♥ Enjoy the seasons and various events\n\nWhat would you like to do today in Castaway Paradise?",
+    "publisher": "Rokaplay",
+    "developer": null,
+    "base_release_date": 20210429,
+    "first_update_release_date": 20210507,
+    "latest_update_release_date": 20210705,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210705
+    },
+    "versions": {
+        "65536": 20210507,
+        "131072": 20210519,
+        "196608": 20210705
+    },
+    "category": [
+        "Simulation",
+        "Education",
+        "Lifestyle",
+        "Adventure"
+    ],
+    "intro": "♥ This is your island, your adventure ♥",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
