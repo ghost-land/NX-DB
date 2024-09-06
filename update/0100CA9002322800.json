@@ -1,4 +1,41 @@
 {
     "id": "0100CA9002322800",
-    "version": 196608
+    "base_tid": "0100CA9002322000",
+    "name": "SteamWorld Dig 2",
+    "description": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.\n \nDig your way underground and explore vivid worlds riddled with treasure, secrets and traps. \n\nCombat dangerous enemies at every turn of the underworld’s twisted paths, including shadowy creatures and the haunted remains of an ancient electrical threat.\n\nUpgrade your gear to forge deeper into the earth and take on bigger challenges.\n\nSwing across large chasms with your Hookshot and fly through caves with the Jet Engine!\n\nAnd finally, learn the truth about your long lost friend...",
+    "publisher": "Image & Form",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20170921,
+    "latest_update_release_date": 20180321,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180321
+    },
+    "versions": {
+        "65536": 20170921,
+        "131072": 20170929,
+        "196608": 20180321
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Adventure waits below the surface... ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

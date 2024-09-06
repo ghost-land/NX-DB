@@ -1,4 +1,33 @@
 {
     "id": "0100CA500756C800",
-    "version": 65536
+    "base_tid": "0100CA500756C000",
+    "name": "Fossil Hunters",
+    "description": "You are an adventuring Fossil Hunter who has traveled to a remote, mysterious dig site to discover the most incredible fossils the world has ever seen! Discover and assemble your own fossil creations and avoid cave-ins, monsters, and traps while you explore exciting underground environments. Find secrets, treasure and more as you uncover clues to the whereabouts of the fossil hunters who came before you.\n\nFind fossil blocks by digging through dirt and connect them together to create a complete skeleton. Different fossils can be found depending on the kind of dirt and the environment you are digging in. Using rare pieces, cleaning your fossils or making huge skeletons can result in more valuable creations, but you choose how many pieces to assemble and in what order.\n\nComplete specific fossil schematics to further the path of science and progress deeper into the earth, where you’ll encounter unique creatures and spectacular new areas as you endeavor to reach the very bottom of the caves.\n\nFeatures:\n• Modular fossil system allows you to build any way you like\n• Play with up to 3 other friends in frantic drop-in/drop-out local co-op\n• Collect over 150 notes, artifacts, and sketches to fill your field journal\n• 30 hand-crafted levels with new fossils, secrets, and power-ups to discover\n• Play as one of 4 unique Fossil Hunters with multiple color variations\n• Lush, fully orchestral soundtrack ",
+    "publisher": "Smiling Buddha Games, LLC",
+    "developer": null,
+    "base_release_date": 20180628,
+    "first_update_release_date": 20180719,
+    "latest_update_release_date": 20180719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180719
+    },
+    "versions": {
+        "65536": 20180719
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

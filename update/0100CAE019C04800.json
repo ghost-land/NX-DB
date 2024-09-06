@@ -1,4 +1,35 @@
 {
     "id": "0100CAE019C04800",
-    "version": 65536
+    "base_tid": "0100CAE019C04000",
+    "name": "Radiantflux Hyperfractal 4.0",
+    "description": "Data-fractal hyper structures are the new storage medium favoured by big companies. You are a neo-hacker, a new breed of bedroom fract-breaker, and these data-structures are your playground. After receiving an unusual email instructing you to hack your own homepage you discover a hidden world that will take you through the hack-zone and deep into the dark-web to yield untold riches in lost and forbidden softwares.\nSo power up your aesthetically pleasing hackOS of choice and download the latest forbidden tools. It’s time to penetrate some software firewalls and hack some HYPERFRACTALS.\n",
+    "publisher": "TACS Games",
+    "developer": null,
+    "base_release_date": 20230202,
+    "first_update_release_date": 20230119,
+    "latest_update_release_date": 20230119,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230119
+    },
+    "versions": {
+        "65536": 20230119
+    },
+    "category": [
+        "Shooter",
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Can you find all the secrets in this desktop hacking simulator?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

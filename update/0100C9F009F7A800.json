@@ -1,4 +1,37 @@
 {
     "id": "0100C9F009F7A800",
-    "version": 131072
+    "base_tid": "0100C9F009F7A000",
+    "name": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+    "description": "Guide a group of legendary warriors on a journey through the tragic history that doomed a kingdom and drove a hero down a dark path 500 years before the events of the Xenoblade Chronicles™ 2 game. Defend yourself from Malos and his forces using all the fury of this refined battle system, allowing you to fight as both the artificial lifeforms known as Blades and their masters, the Drivers.\n\nDrivers and their Blades can change from the frontlines of combat to the back in order to unleash powerful context-sensitive abilities. Together, you’ll fight for the survival of mankind, under threat by Malos, who wields the legendary sword, The Monado. To stand a chance, you must master every character’s powerful skills including Talent Arts, a strategic element returning from the original Xenoblade Chronicles™ game. By equipping Drivers with new weapons, you can alter their attacks and elemental powers to perform devastating combos. On the long road ahead, you’ll rest at camps, cook food, craft items, and share a heart-to-heart with many a traveling companion. Who knows where this twisted journey will lead.\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180921,
+    "first_update_release_date": 20181018,
+    "latest_update_release_date": 20181130,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181130
+    },
+    "versions": {
+        "65536": 20181018,
+        "131072": 20181130
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Uncover the history that doomed a kingdom and turned a hero down a dark path",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

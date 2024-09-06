@@ -1,4 +1,37 @@
 {
     "id": "0100CA401C820800",
-    "version": 196608
+    "base_tid": "0100CA401C820000",
+    "name": "UNDEMON",
+    "description": "A cult began to dominate a city!\nGo on a mysterious adventure with the ghost ‘Luna’.\nVarious levels that stimulate your sense of challenge are waiting for you.\n\n■ Develop abilities\nRaise ‘Luna’s’ abilities with the ‘souls’ collected through adventure.\n\n■ Hiding system\nEngage in unique battles or overcome difficulties with the 'hiding system' that allows you to remain slightly invisible!\n\n■ Find the key\nYou must find the key in each level!\nThere may be keys with similar shapes, so check carefully!\n\n■ Various modes\nNormal difficulty as well as the original mode at the time of release. And there is even a special mode that is unlocked when you clear it!",
+    "publisher": "WEST SUN",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20240625,
+    "latest_update_release_date": 20240730,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240730
+    },
+    "versions": {
+        "65536": 20240625,
+        "131072": 20240716,
+        "196608": 20240730
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Begin an adventure to relieve the resentment of the ghost ‘Luna’!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

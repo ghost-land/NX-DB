@@ -1,4 +1,45 @@
 {
     "id": "0100CA301B790800",
-    "version": 65536
+    "base_tid": "0100CA301B790000",
+    "name": "Guns and Spurs 2",
+    "description": "Take on the guise of bounty hunter Jack Lane and track down the most wanted outlaws as you bring them to justice. Track them down in a vast open world, capture them with your lasso, and challenge the most dangerous outlaws in a good old-fashioned showdown. Make sure you’re well prepared, as your opponents become increasingly more difficult. Hone your horseback riding skills, upgrade your arsenal, and pick out your best suit as you show those bandits who’s boss! \nFeatures\n•\tTrack down the most wanted criminals and capture them with your lasso\n•\tCustomize your character and horse\n•\tExplore a vast open world where you can ride around freely \n•\tEnjoy the nostalgia of defeating the most dangerous outlaws in a good old-fashioned shoot-out\n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20231124,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

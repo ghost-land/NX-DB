@@ -1,4 +1,35 @@
 {
     "id": "0100CA400E300800",
-    "version": 131072
+    "base_tid": "0100CA400E300000",
+    "name": "超級機器人大戰V",
+    "description": "以作為超級機器人大戰25週年紀念作品之姿，所推出的超級機器人大戰V於Nintendo Switch上登場！\n\n由共26部機器人動畫作品呈現出的夢幻共演，交織出單純於本作品內完結的原創故事。\n請親身體驗鋼之巨人們的故事。\n\nNintendo Switch版收錄了在其他平台版本裡發布的20話獎勵劇情！\n盡情暢遊超級機器人大戰V吧！",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20191003,
+    "first_update_release_date": 20191029,
+    "latest_update_release_date": 20200304,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200304
+    },
+    "versions": {
+        "65536": 20191029,
+        "131072": 20200304
+    },
+    "category": [
+        "模擬",
+        "角色扮演",
+        "冒險"
+    ],
+    "intro": "「鋼鐵的巨人們，將邁向全新的航海(Voyage)～。」",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

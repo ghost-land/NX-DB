@@ -1,4 +1,41 @@
 {
     "id": "0100CA7012CD6800",
-    "version": 65536
+    "base_tid": "0100CA7012CD6000",
+    "name": "Hide & Dance!",
+    "description": "Press the buttons to the rhythm of the music!\n\nDance and make combos!\n\nBe careful not to be spotted by your mom entering the room!",
+    "publisher": "hap Inc.",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20240215,
+    "latest_update_release_date": 20240215,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240215
+    },
+    "versions": {
+        "65536": 20240215
+    },
+    "category": [
+        "Music",
+        "Action",
+        "Party",
+        "Puzzle"
+    ],
+    "intro": "Dance to the rhythm of the music hiding from your incoming parent!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

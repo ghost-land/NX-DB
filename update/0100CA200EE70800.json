@@ -1,4 +1,37 @@
 {
     "id": "0100CA200EE70800",
-    "version": 131072
+    "base_tid": "0100CA200EE70000",
+    "name": "Epic Clicker Journey",
+    "description": "Experience your epic journey. Visit 20 mysterious lands and face the monsters that live there. Collect items and experience that will allow you to develop your character and be more effective in combat. Make the defeated creatures help you during the journey. Meet the bravest warriors and conquer the most dangerous lands together. ",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190806,
+    "first_update_release_date": 20190805,
+    "latest_update_release_date": 20190822,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190822
+    },
+    "versions": {
+        "65536": 20190805,
+        "131072": 20190822
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "Show that you are the most persistent traveler and make your journey in the most difficult conditions.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

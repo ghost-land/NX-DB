@@ -1,4 +1,34 @@
 {
     "id": "0100CA100E252800",
-    "version": 131072
+    "base_tid": "0100CA100E252000",
+    "name": "絶体絶命都市４Plus -Summer Memories- for Nintendo Switch",
+    "description": "＜ストーリー＞\n２０１Ｘ年７月。\n強烈な日差し、焼け付くアスファルト。\n次々と自重に耐えられず倒壊していくビル群。\n地震発生直後の街は、危険に溢れ、人々は混乱している。\n\n就職活動でこの街を訪れた直後に大地震に遭遇した主人公は、土地勘もないまま、生き延びるために地震が続く都市をさまよう。\n人々と協力したり、いがみ合いながら、情報を集め、崩壊都市からの脱出をはかる。",
+    "publisher": "グランゼーラ",
+    "developer": null,
+    "base_release_date": 20190926,
+    "first_update_release_date": 20190925,
+    "latest_update_release_date": 20191219,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191219
+    },
+    "versions": {
+        "65536": 20190925,
+        "131072": 20191219
+    },
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": "ビルが倒壊し、地面が陥没する。\n火災、液状化、そして渇き、疲労、争い...\n次々襲いかかる困難に抗い、生き延びようとした若者の物語。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "犯罪"
+    ],
+    "region": null
 }

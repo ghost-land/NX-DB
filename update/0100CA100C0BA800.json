@@ -1,4 +1,36 @@
 {
     "id": "0100CA100C0BA800",
-    "version": 131072
+    "base_tid": "0100CA100C0BA000",
+    "name": "Color Zen",
+    "description": "Color Zen is a new kind of puzzle game. With simple, intuitive controls, the game invites you to relax and immerse yourself. There are no points or penalties for failure; just an abstract world of color to move through at your own pace. So put on your headphones and find your way, with Color Zen.\n\nGame features:\n- Meditative puzzle-cracking flow: just match the colors to win the level\n- Immersive soundtrack keeps you in the groove\n- 460 levels to solve (all DLCs)\n- Music by Steve Woodzell\n",
+    "publisher": "Cypronia",
+    "developer": null,
+    "base_release_date": 20181127,
+    "first_update_release_date": 20181214,
+    "latest_update_release_date": 20190604,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190604
+    },
+    "versions": {
+        "65536": 20181214,
+        "131072": 20190604
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Training",
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Digital Purchases"
+    ],
+    "region": null
 }

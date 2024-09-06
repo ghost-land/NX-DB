@@ -1,4 +1,45 @@
 {
     "id": "0100CA3014ADE800",
-    "version": 393216
+    "base_tid": "0100CA3014ADE000",
+    "name": "Umurangi Generation Special Edition",
+    "description": "Umurangi Generation is a first person photography game in the retro future. Set in Tauranga Aotearoa off the back of an impending crisis you are a courier for the Tauranga Express. Throughout the game you will unlock a variety of lenses and equipment.\n\nUnique and expressive grading system\nEach photo you take is judged on its colour, content and composition. Taking a photo will net you a cash score which will go towards your final payout.\n\nComplete Photo Bounties any way you like. Once you've completed these bounties deliver the parcel to finish the level.\n\nExploration bonuses on each level\nNew equipment for your camera is unlocked by finding film canisters, recreating postcards, fulfilling timed deliveries, and finding a way to fit all of your friends in one photo.\n\nSpecial Edition\nIncluded in the special edition is the DLC Macro, Gyro Controls, Touch Screen Support and Images saving directly to the Switch Gallery. \n\nEdit your photos and develop your unique colour grade. The tools in the game are flexible enough that you can touch up your photos to look better than when you took them. If you are an experienced photographer you’ll fit right in. If this is your first time, you’ll be on your journey in no time.\n\nWhat is an 'Umurangi'?\nUmurangi is the Te Reo word for Red Sky.",
+    "publisher": "ORIGAME DIGITAL",
+    "developer": null,
+    "base_release_date": 20210605,
+    "first_update_release_date": 20210605,
+    "latest_update_release_date": 20220617,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220617
+    },
+    "versions": {
+        "65536": 20210605,
+        "131072": 20210619,
+        "196608": 20210826,
+        "262144": 20210909,
+        "393216": 20220617
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "First-Person Shooter",
+        "Shooter"
+    ],
+    "intro": "A first person photography game set during a crisis event",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100CAE01021A800",
-    "version": 65536
+    "base_tid": "0100CAE01021A000",
+    "name": "The TakeOver",
+    "description": "The TakeOver is a side-scrolling beat'em up inspired by the genre defining classic games of the 90's. Battle solo or alongside a friend in local co-op while listening to awesome tunes from Little V Mills, Richie Branson, James Ronald and industry legend Yuzo Koshiro!",
+    "publisher": "Antonios Pelekanos",
+    "developer": null,
+    "base_release_date": 20200604,
+    "first_update_release_date": 20210901,
+    "latest_update_release_date": 20210901,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210901
+    },
+    "versions": {
+        "65536": 20210901
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

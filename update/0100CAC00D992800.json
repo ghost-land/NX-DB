@@ -1,4 +1,39 @@
 {
     "id": "0100CAC00D992800",
-    "version": 131072
+    "base_tid": "0100CAC00D992000",
+    "name": "The friends of Ringo Ishikawa",
+    "description": "オープンワールド形式のゲームシステムで、学生生活をどのように楽しむかはプレイヤーの自由！\n昼夜１日のサイクルの中で、学校や商店街と言ったロケーションがあり、NPC達もその時間の中でそれぞれが独自に行動しています。\n喧嘩の腕前を競い合ったり、真面目に学校で勉強したり、ミニゲームで時間をつぶしたり、そのスタイルも様々です。\n\nこれは、ただの不良グループが抗争するだけの物語ではありません。\n主人公達と共に、そこで生活し、学校に通い、仲間と笑い合う、そんな時間を感じられる…まさに青春群像劇なのです。\n\nこの自由度の高いシステムで、高校三年の最後の秋を駆け抜けましょう！",
+    "publisher": "CIRCLE Ent.",
+    "developer": null,
+    "base_release_date": 20190404,
+    "first_update_release_date": 20190419,
+    "latest_update_release_date": 20190826,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190826
+    },
+    "versions": {
+        "65536": 20190419,
+        "131072": 20190826
+    },
+    "category": [
+        "アドベンチャー",
+        "アクション",
+        "ロールプレイング"
+    ],
+    "intro": "「The friends of Ringo Ishikawa」は、主人公「石河倫吾」とその仲間たちが巻き起こす、つっぱり青春物語です。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "飲酒・喫煙"
+    ],
+    "region": null
 }

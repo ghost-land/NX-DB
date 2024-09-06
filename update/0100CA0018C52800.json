@@ -1,4 +1,44 @@
 {
     "id": "0100CA0018C52800",
-    "version": 131072
+    "base_tid": "0100CA0018C52000",
+    "name": "Resident Evil Village Cloud",
+    "description": "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise - Resident Evil Village.\n\nSet a few years after the horrifying events in the critically acclaimed Resident Evil 7 biohazard, the all-new storyline begins with Ethan Winters and his wife Mia living peacefully in a new location, free from their past nightmares. Just as they are building their new life together, tragedy befalls them once again.\n\nThis pack includes the following content:\n- Resident Evil Village Cloud\n- Mr. Raccoon Weapon Charm\n- Survival Resources Pack\n- Trauma Pack",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20221028,
+    "first_update_release_date": 20221027,
+    "latest_update_release_date": 20221202,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221202
+    },
+    "versions": {
+        "65536": 20221027,
+        "131072": 20221202
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "THIS GAME USES CLOUD STREAMING. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-game purchases",
+        "High Impact Horror Violence"
+    ],
+    "region": null
 }
