@@ -1,4 +1,38 @@
 {
     "id": "010067C00E496800",
-    "version": 196608
+    "base_tid": "010067C00E496000",
+    "name": "DOUBLE DRAGON",
+    "description": "■Introduction\nIn order to rescue your girlfriend \"Marian,\" use your legendary fighting style \n\"Sosetsuken\" to make your way through the street thugs!\nMake good use of the new techniques you will unlock as you level up, and rescue Marian.\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering\nBug Fixes",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200416,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20200416,
+        "131072": 20231129,
+        "196608": 20240613
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The explosive NES original game that sparked the worldwide fame of \nBeat them all games: Double Dragon!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

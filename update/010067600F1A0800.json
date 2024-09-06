@@ -1,4 +1,37 @@
 {
     "id": "010067600F1A0800",
-    "version": 327680
+    "base_tid": "010067600F1A0000",
+    "name": "FuzzBall",
+    "description": "Play as one of 6 FuzzBalls, these small animal plush toys roll into balls of fluff to move around and knock their enemies off a selection of 7 unique stages.\n\nFuzzBall comes with 3 different modes of play, supporting 1-4 players for local couch-play multiplayer:\n- In Vs Mode, you will need to knock out all your enemies and be the last player to remain to be crowned as the ultimate victor.\n- In Party Mode, you will compete with your friends to complete various missions to earn points. Will you play the objective, or will you get in everyone's way?\n- In Flexiball, players will have to work together to perform rule-, and mind-bending  actions and complete as many tasks as possible within the time limit.",
+    "publisher": "ShadowLair Games",
+    "developer": null,
+    "base_release_date": 20200819,
+    "first_update_release_date": 20200818,
+    "latest_update_release_date": 20201102,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20201102
+    },
+    "versions": {
+        "65536": 20200818,
+        "131072": 20200825,
+        "196608": 20200907,
+        "262144": 20200923,
+        "327680": 20201102
+    },
+    "category": [
+        "Party",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Roll, dash, bash and smash in this playful 4 player brawler!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

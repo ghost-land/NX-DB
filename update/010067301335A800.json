@@ -1,4 +1,51 @@
 {
     "id": "010067301335A800",
-    "version": 851968
+    "base_tid": "010067301335A000",
+    "name": "GigaBash",
+    "description": "GigaBash combines the chaos and creativity of arena brawlers with the jaw-dropping scale of classic kaiju movies and games. Play as either a rampaging Titan or a Titan-hunting mecha; summon lightning from the heavens, use a radio tower as a baton, or roll a whole district (and your enemies) into a single massive snowball. Wreak enough havoc and you'll evolve into your final form, the terrifyingly titanic S-Class.",
+    "publisher": "Passion Republic Games",
+    "developer": null,
+    "base_release_date": 20230804,
+    "first_update_release_date": 20230803,
+    "latest_update_release_date": 20240604,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20240604
+    },
+    "versions": {
+        "131072": 20230803,
+        "196608": 20230915,
+        "393216": 20231123,
+        "458752": 20231205,
+        "589824": 20240320,
+        "655360": 20240405,
+        "786432": 20240517,
+        "851968": 20240604
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Kaiju or Hero? Battle in a chaotic arena & rise as King of the Titans!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

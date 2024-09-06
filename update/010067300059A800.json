@@ -1,4 +1,50 @@
 {
     "id": "010067300059A800",
-    "version": 589824
+    "base_tid": "010067300059A000",
+    "name": "Mario + Rabbids® Kingdom Battle",
+    "description": "Two worlds collide in Mario + Rabbids® Kingdom Battle!\n\nThe Mushroom Kingdom has been torn apart by a mysterious vortex, transporting the chaotic Rabbids into this once-peaceful land. To restore order, Mario, Luigi, Princess Peach, and Yoshi must team up with a whole new crew: four Rabbids heroes! Together, they will battle with weapons through four worlds filled with combat, puzzles, and unpredictable enemies.\n\nDeveloped exclusively for the Nintendo Switch™ system,\nMario + Rabbids Kingdom Battle is the best of the Mario and Rabbids franchises, combining all that you love about Mario’s iconic universe with the side-splitting antics of the Rabbids.\n\nMario & Rabbids universes collide in this new adventure that combines the best of these two worlds!\n\nMario, Luigi, Princess Peach, and Yoshi join forces with four Rabbids heroes with their own unique personalities.\n\nEasy to play, difficult to master. Solo and co-op turn-based combat is a fresh gameplay experience.\n\nBattle with an arsenal of weapons through four new worlds filled with enemies, puzzles, and humorous fun!\n\nPick up and play anywhere exclusively on the Nintendo Switch system, even on the go.\n",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20170818,
+    "latest_update_release_date": 20180919,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20180919
+    },
+    "versions": {
+        "65536": 20170818,
+        "131072": 20171015,
+        "196608": 20171025,
+        "262144": 20171207,
+        "327680": 20171221,
+        "393216": 20180117,
+        "458752": 20180625,
+        "524288": 20180730,
+        "589824": 20180919
+    },
+    "category": [
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief",
+        "Mild Language"
+    ],
+    "region": null
 }

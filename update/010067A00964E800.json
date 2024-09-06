@@ -1,4 +1,37 @@
 {
     "id": "010067A00964E800",
-    "version": 65536
+    "base_tid": "010067A00964E000",
+    "name": "Last Encounter",
+    "description": "Last Encounter is a twin-stick action roguelite in deep space following a group of heroes trying to prevent the unavoidable by cloning their ships and designing their weapons with swappable components. \n\nAdvanced technology lets you and your friends clone your avatars so death is not the end. Teleport into new sectors of space, discovering the ever-changing, procedurally generated layouts and hazards filled with strange beings and alien environments.\n\nFind dozens of advanced weapon components scattered throughout diverse galaxy biomes. Combine the pieces as you see fit to create the strongest weapon in the universe.\n\nChoose from a variety of unlockable ships and pilots and prove your skills against alien ships and bosses in the far reaches of space.\n\nGame features:\n- Component based weapon system\n- Procedural galaxy generation\n- Unlockable pilots\n- Unlockable space ships\n- Unlockable weapon components\n- Up to 4-Player local co-op\n\nWelcome to Last Encounter! ",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211222,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20200130,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200130
+    },
+    "versions": {
+        "65536": 20200130
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100679014BDC800",
-    "version": 65536
+    "base_tid": "0100679014BDC000",
+    "name": "Tiger Trio's Tasty Travels",
+    "description": "Solve puzzles with a cute, sushi-serving animal crew! Join our three tiger siblings as they take on the world with their sushi food truck. It’s super delicious, but orders always tend to get mixed up. With the help of their talented friends, solve puzzles by adding, subtracting, and moving sushi between conveyor belts, fixing orders before they reach the customer! You’ll come across places like the land of ghosts and even venture into outer space! This new puzzle game will challenge your wit across a total of 60 stages. Includes a hint function, so players of any age can travel with the Tiger Trio and their friends. On your trip you may even find yourself starting to think like a programmer!",
+    "publisher": "Oink Games",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210602,
+    "latest_update_release_date": 20210602,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210602
+    },
+    "versions": {
+        "65536": 20210602
+    },
+    "category": [
+        "Puzzle",
+        "Study"
+    ],
+    "intro": "Not again?! Tons of wrong orders.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

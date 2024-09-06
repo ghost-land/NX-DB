@@ -1,4 +1,37 @@
 {
     "id": "010067701B91C800",
-    "version": 131072
+    "base_tid": "010067701B91C000",
+    "name": "SUPER NIGHT AT THE GATES OF HELL",
+    "description": "《血腥洗衣店》開發者Black Eyed Priest和Henry Hoare受為你奉上炸裂恐怖新作《地獄門之夜》—— 一場鮮血淋灕、霓虹浸透、腐肉橫流的盛宴。\n\n這是一款直接從意大利僵屍恐怖電影中撕下來的生存恐怖冒險遊戲。玩家從各章節中尋找線索、武器和物品來解決謎題，幫助角色摧毀那些威脅安全的僵屍，或從中逃脫。從狂熱邪教徒到飢焰中燒的僵屍，所有的敵人都必須被極其精確地擊倒，因為只有爆頭才能殺死這些充滿蛆蟲的怪物。你能在僵屍末日中生存下來嗎？還是會成為下一個行屍走肉呢？",
+    "publisher": "Puppet Combo",
+    "developer": null,
+    "base_release_date": 20230907,
+    "first_update_release_date": 20230901,
+    "latest_update_release_date": 20231002,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231002
+    },
+    "versions": {
+        "65536": 20230901,
+        "131072": 20231002
+    },
+    "category": [
+        "冒險",
+        "動作",
+        "其他"
+    ],
+    "intro": "死亡之軀將在地獄門之夜復仇歸來！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

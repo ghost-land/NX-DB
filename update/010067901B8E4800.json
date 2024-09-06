@@ -1,4 +1,35 @@
 {
     "id": "010067901B8E4800",
-    "version": 65536
+    "base_tid": "010067901B8E4000",
+    "name": "Sunny Café",
+    "description": "On a summer afternoon, the thunder showers fall mercilessly and the bells in the café ring. A boy regains his senses, suddenly noticing a soaked girl standing at the door. Sunny Café is a tale of accidental encounters, acquaintances and eventual parting, a love text adventure game that uses Taiwanese coffee knowledge as a catalyst for this cycle of interactions and an analogy for life itself.\n\nJoin a cast of Taiwanese college students and enjoy a visual novel steeped in local culture, customs and ideals. Learn how to make the perfect cup of coffee by selecting beans, grinding, choosing a filter and brewing skillfully. Select objects in the café to pick up vital bits of additional knowledge. Explore multiple endings affected by your conversations with people in a comfy setting, and perhaps guide a budding romance to full bloom!\n\nFeatures:\n\n• Explore a deep narrative surrounding Taiwanese college students and a local café!\n• Learn coffee brewing techniques and local customs.\n• Select beans, grind, filter and brew through interactive sequences!\n• Make key decisions and engage in conversation with a memorable cast.\n• Discover multiple endings and guide a budding romance!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240327,
+    "first_update_release_date": 20240207,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20240207
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Discover love through passionate Taiwanese coffee knowledge, culture and customs!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humour",
+        "Mature Themes"
+    ],
+    "region": null
 }

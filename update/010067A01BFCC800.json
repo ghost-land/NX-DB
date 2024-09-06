@@ -1,4 +1,36 @@
 {
     "id": "010067A01BFCC800",
-    "version": 131072
+    "base_tid": "010067A01BFCC000",
+    "name": "Enjoy the Diner",
+    "description": "Enjoy the Diner is an adventure game where you'll wander into the eternal diner Moon Palace. Complete with a drink fountain!\n\nAbout this Game:\nEnjoy the Diner follows a multiple-choice format with point-and-click elements and is a relatively short adventure game. It typically takes 2-2.5 hours to complete (according to Waku Waku Games research). There are two different endings, and you will likely know when the story diverges. Be sure to save your progress before you make your fateful decision.",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20231114,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240614,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240614
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20240614
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Why not enjoy the diner? \nThe moon is as full as it'll ever be, \nAnd there's even a drink fountain.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

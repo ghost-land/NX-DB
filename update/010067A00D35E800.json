@@ -1,4 +1,36 @@
 {
     "id": "010067A00D35E800",
-    "version": 65536
+    "base_tid": "010067A00D35E000",
+    "name": "GIGANTIC ARMY",
+    "description": "Side-scrolling mech-shooting bad-assery is BACK!\n\nGIGANTIC ARMY is a heartfelt homage to 16-bit era mech shooters.\n\nIt is the 21st century and Earth is at war with the Ramulons – an alien race determined to stop humanity’s advance into space.\n\nMankind’s war against the Ramulons has reached the planet Ramulon itself and it is now down to YOU to pilot the ‘GMR-34 SALADIN’ - a Manned Combat Robot - and take on the Ramulon army. Customize your arsenal of explosive, projectile and plasma weapons, and combine them with melee attacks, thrusters and shield to take the fight to the enemy and end the conflict!\n\nGIGANTIC ARMY boasts awesome retro arcade stylings, slick animation, superbly detailed character and stage design, and addictively frenetic game play.",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20190221,
+    "first_update_release_date": 20191009,
+    "latest_update_release_date": 20191009,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191009
+    },
+    "versions": {
+        "65536": 20191009
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "GIGANTIC ARMY is a heartfelt homage to 16-bit era mech shooters.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence"
+    ],
+    "region": null
 }

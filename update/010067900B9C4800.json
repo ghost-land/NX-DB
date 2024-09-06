@@ -1,4 +1,39 @@
 {
     "id": "010067900B9C4800",
-    "version": 131072
+    "base_tid": "010067900B9C4000",
+    "name": "Degrees of Separation",
+    "description": "Degrees of Separation is a 2D puzzle platformer in which duo Ember and Rime must use their contrasting powers to manipulate heat and cold to overcome obstacles. Through cooperation, they will learn about each other and the fate of their worlds.\n\nDeveloped with both solo and co-op play in mind, players will discover a touching narrative crafted by acclaimed industry veteran Chris Avellone. With Ember’s mastery of heat and Rime’s control of cold, scenic landscapes will come alive as the pair uses their unique abilities alone and in tandem to create powerful gusts of wind, frozen rivers, controlled explosives, and more to solve a variety of puzzles through several distinct worlds. With their unique talents, the two will learn to lean on each other through the many different stages of their adventure and relationship.",
+    "publisher": "Maximum Games",
+    "developer": null,
+    "base_release_date": 20220208,
+    "first_update_release_date": 20190214,
+    "latest_update_release_date": 20191024,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191024
+    },
+    "versions": {
+        "65536": 20190214,
+        "131072": 20191024
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

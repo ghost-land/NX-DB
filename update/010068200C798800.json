@@ -1,4 +1,30 @@
 {
     "id": "010068200C798800",
-    "version": 65536
+    "base_tid": "010068200C798000",
+    "name": "Lapis x Labyrinth　深淵狂獵",
+    "description": "\"極具特色的8種職業任君挑選，打造屬於自己的隊伍。\n運用“腦袋瓜”掃蕩阻撓在前的敵人，\n收集大量噴發的寶物突破迷宮！\"",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190221,
+    "first_update_release_date": 20190227,
+    "latest_update_release_date": 20190227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190227
+    },
+    "versions": {
+        "65536": 20190227
+    },
+    "category": [
+        "角色扮演",
+        "動作"
+    ],
+    "intro": "堆疊夥伴的“腦袋瓜”戰鬥，華麗爽快的動作RPG登場！",
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

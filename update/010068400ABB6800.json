@@ -1,4 +1,38 @@
 {
     "id": "010068400ABB6800",
-    "version": 65536
+    "base_tid": "010068400ABB6000",
+    "name": "Rogue Singularity",
+    "description": "Survive the destruction of the galaxy in this fast-paced race through space!\n\nA supermassive black hole is tearing the cosmos apart, and one plucky little robot has to race across the shattered fragments of countless worlds, into the heart of the rogue singularity itself!\n\nRogue Singularity is a love letter to the classic 3D platformers, but with a high-tech twist: no two levels are ever the same! Guide your perfectly polished pint-sized pal through a never-ending sequence of procedurally-generated levels packed with out-of-control machines, bizarre alien life, dangerous natural hazards, and diabolical traps.\n\nFeatures:\n - Back to the classics: Golden age 3D platforming reimagined with cutting edge game design\n - Galaxy of danger: Increasingly difficult levels require precise control and fast reflexes\n - Play forever: Endless procedurally-generated levels feature jungles, volcanoes, factories, and more\n - Build your hero: Collect interchangeable robot body parts and recolour them to make a unique hero\n - Cosmic beats: Groove to a blistering electronic soundtrack by chiptunes legend Derris Kharlan",
+    "publisher": "Nnooo",
+    "developer": null,
+    "base_release_date": 20190815,
+    "first_update_release_date": 20190913,
+    "latest_update_release_date": 20190913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190913
+    },
+    "versions": {
+        "65536": 20190913
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Rogue Singularity is a high speed infinite obstacle course that will bring back happy memories of the golden age of 3D platformers!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

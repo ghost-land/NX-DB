@@ -1,4 +1,40 @@
 {
     "id": "010068601DC9A800",
-    "version": 65536
+    "base_tid": "010068601DC9A000",
+    "name": "Nyanzou & Kumakichi Bomb Cave",
+    "description": "Push through the cave where bombs and treasures sleep!\nOn the floor, the number of bombs around you is written.\nUse it as a hint to infer a bomb location and dig it up.\nThere are many treasures in the cave.\nYou can sell the treasures you get and create a nice shop.\nAlso, if you discover the treasure, you will be able to tell you the magic that can be used for search.\nUse magic to explore the cave deeper.",
+    "publisher": "AlignmentSharp",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240424,
+    "latest_update_release_date": 20240424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240424
+    },
+    "versions": {
+        "65536": 20240424
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Avoid bombs, break the wall and proceed through the cave",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

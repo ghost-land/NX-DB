@@ -1,4 +1,39 @@
 {
     "id": "01006740157F8800",
-    "version": 131072
+    "base_tid": "01006740157F8000",
+    "name": "Classic Pool",
+    "description": "Classic Pool\nClassic Pool is a wonderful, exciting pool game that allows you to test your skills and improve them in a traditional game of pool. You have multiple AI opponents to choose from, many different cues and tables, as well as complete multiplayer for 2 players. The game also comes with handheld, TV and tabletop mod. If you love pool games and want to test your prowess against friends or AI, then check it out today!\nFeatures:\n- Play in multiplayer or against the AI\n- Handheld, TV and Tabletop support\n- Multiple tables and cues",
+    "publisher": "Revulo Games",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20210702,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20210702,
+        "131072": 20231123
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Board Game",
+        "Training"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

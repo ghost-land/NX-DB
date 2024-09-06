@@ -1,4 +1,36 @@
 {
     "id": "0100672015B72800",
-    "version": 131072
+    "base_tid": "0100672015B72000",
+    "name": "Magic Potion Millionaire",
+    "description": "Magic Potion Millionaire is a side-scrolling action game focused on money-making.\nEnter the dungeon to gather materials, make potions, and sell them to make profit!\n\n1. Enter the dungeon for materials!\nEnter and conquer procedurally generated dungeons with melee attacks, various ranged attacks and magic potions.\nYou can create potions with the materials you find from enemies in the dungeon. \nPotions are not only limited to healing drinks, and you can make other kinds such as explosive potions (bombs).\n\n2. Brew potions to make money!\nUsing the materials you gather in the dungeon, you can make potions the clients will order.\nYour potion shop will have many orders to fulfill, and much money to make.\n\n3. Buy stuff to become stronger!\nThere are many uses for gold you have earned.\nBuy equipments to improve your stats, buy recipes for more potions, find new dungeons to explore, and so on.\nThey will sure help you make more money!\n\nGold is everything here.\n\nPastel can buy various things to upgrade herself.\nBecome stronger, challenge harder dungeons, make more gold...\nuntil your competitor surrenders.",
+    "publisher": "ARTIFACTS",
+    "developer": null,
+    "base_release_date": 20211104,
+    "first_update_release_date": 20211208,
+    "latest_update_release_date": 20220121,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220121
+    },
+    "versions": {
+        "65536": 20211208,
+        "131072": 20220121
+    },
+    "category": [
+        "Action",
+        "Other"
+    ],
+    "intro": "A Management/Hunting Action hybrid where an apothecary dares to challege dangerous dungeons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

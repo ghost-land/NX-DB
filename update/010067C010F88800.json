@@ -1,4 +1,39 @@
 {
     "id": "010067C010F88800",
-    "version": 196608
+    "base_tid": "010067C010F88000",
+    "name": "Goblin Sword",
+    "description": "Goblin Sword is a retro-inspired action platformer with light rpg elements.\n\nAn army of monsters led by an evil wizard have invaded your hometown. Slay as many monsters as you can, collect loot, avoid dangerous traps and defeat menacing bosses, before facing the evil wizard himself.\n\nFeatures:\n-89 levels\n-13 bosses\n-30 weapons with unique special attacks\n-30 relics that grant you abilities\n-14 costumes\n-8 guardians that follow you around and assist you\n-5 secret very hard levels\n-Decorate your home with souvenirs",
+    "publisher": "Gelato Games",
+    "developer": null,
+    "base_release_date": 20200214,
+    "first_update_release_date": 20200213,
+    "latest_update_release_date": 20200407,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200407
+    },
+    "versions": {
+        "131072": 20200213,
+        "196608": 20200407
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Embark on an epic quest to retrieve the legendary sword",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

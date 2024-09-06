@@ -1,4 +1,42 @@
 {
     "id": "010068700C70A800",
-    "version": 196608
+    "base_tid": "010068700C70A000",
+    "name": "ITTA",
+    "description": "ITTA is a bullet-hell adventure set in a world filled with monstrous bosses. When Itta wakes up and finds herself surrounded by her dead family, her only guide is a strange spirit that takes the form of the family cat who gifts her a glowing revolver for protection.\n\nAs Itta, players must seek out the powerful beings locked away beneath this seemingly peaceful world and go toe-to-toe against them in harrowing battles. From hulking ancient golems to toothy horrors, Itta’s journey will push both you and her past their limits. Luckily, you can change up your combat style by finding weapons with unique attack styles, and if the going gets too tough, toggle on invincibility or player damage multipliers at any time.\n\nITTA is a game inspired by themes of personal struggle. If there is light, there must be darkness. The important thing is to keep going… no matter what you endure along the way.",
+    "publisher": "Armor Games Studios",
+    "developer": null,
+    "base_release_date": 20200422,
+    "first_update_release_date": 20200409,
+    "latest_update_release_date": 20200623,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200623
+    },
+    "versions": {
+        "131072": 20200409,
+        "196608": 20200623
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "Test your limits in ITTA, a bullet-hell, boss-rush style adventure where you play as a young girl armed with her father’s revolver and guided by a strange ghostly cat.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
