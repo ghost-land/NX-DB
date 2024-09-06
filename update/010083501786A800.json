@@ -1,4 +1,38 @@
 {
     "id": "010083501786A800",
-    "version": 262144
+    "base_tid": "010083501786A000",
+    "name": "《連環清潔工們 》Serial Cleaners",
+    "description": "《連環清潔工們》是一款俯瞰視角的潛行動作遊戲，在遊戲中您會回到九零年代的紐約，體驗受雇於替黑幫清理犯罪現場的生活。\n\n處掉屍體、將現場打掃乾淨，還有別被抓到。步步為營、來去無蹤。或者隨機應變，逐影隨波。一切由您選擇。\n\n在四位角色之中任意選擇，他們各自擁有獨特技能組合，探索新的可能性。\n\n《連環清潔工們》的設定受到九零年代邪典電影的啟發，會讓您回想起那個年代無憂無慮的快樂記憶、充斥社會的明亮樂觀色彩……以及潛藏在這一切底下的污穢。",
+    "publisher": "505 Games",
+    "developer": null,
+    "base_release_date": 20220923,
+    "first_update_release_date": 20221019,
+    "latest_update_release_date": 20230509,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230509
+    },
+    "versions": {
+        "65536": 20221019,
+        "131072": 20221103,
+        "196608": 20230113,
+        "262144": 20230509
+    },
+    "category": [
+        "策略",
+        "模擬",
+        "動作",
+        "冒險"
+    ],
+    "intro": "不動聲色。無情清理。銷聲匿跡。\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

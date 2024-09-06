@@ -1,4 +1,32 @@
 {
     "id": "0100839010DD6800",
-    "version": 131072
+    "base_tid": "0100839010DD6000",
+    "name": "Sniper",
+    "description": "Grab your sniper rifle and your silenced pistol and kill all the invading soldiers on the island!\n\nSniper is a tactical first person shooter game where the goal of the game is to kill all the invading soldiers without been seen and killed, so being stealthy is crucial to succeed. \n\nAre you skilled enough to kill all the invading soldiers with a limited amount time and ammunition to complete each wave and as you progress through the game the waves will get harder and harder and with a limited amount of ammo you will need to use it wisely, however at the start of every wave you are given bonus ammo.  \n\nAre you are brave enough to get real close to your enemy by sneaking behind them and shootting them with your silenced pistol?",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20210827,
+    "latest_update_release_date": 20210827,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210827
+    },
+    "versions": {
+        "131072": 20210827
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

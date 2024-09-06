@@ -1,4 +1,35 @@
 {
     "id": "01008380172E8800",
-    "version": 65536
+    "base_tid": "01008380172E8000",
+    "name": "Magical Delicacy",
+    "description": "Play the young witch Flora and discover a bustling town in this Metroidvania-inspired wholesome cooking game. Cook meals and potions in your customized kitchen by carefully selecting the right ingredients. Navigate the town in casual platforming to meet the townsfolk, take up their orders, and learn about this world of magic. \n\nFlora travels to a distant town to fulfill her dream of becoming a proper witch. She opens up shop in Grat, a harbor town built upon cliffs, where adventurers settled to chart an unexplored island full of mystery. As she engages in the town’s thriving economy, she stumbles upon two members of opposing covens. The witch Cassia and the magus Tauno have a lot to teach Flora, but they also know how to use her in their dispute about magical beings.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20240815,
+    "first_update_release_date": 20240829,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240829
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": " Learn new ways to traverse, discover secrets, and experience a unique witchy world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

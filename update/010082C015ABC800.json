@@ -1,4 +1,38 @@
 {
     "id": "010082C015ABC800",
-    "version": 131072
+    "base_tid": "010082C015ABC000",
+    "name": "Arcade Archives XEVIOUS",
+    "description": "\"XEVIOUS\" is a shooter released by NAMCO in 1982.\nPlayers pilot the Solvalou and face off with the Xevious forces.\nDefeat airborne enemies with the zapper, and terrestrial enemies with the blaster.\nThis game also features 26 character types with their own codenames.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20211124,
+    "latest_update_release_date": 20220308,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220308
+    },
+    "versions": {
+        "65536": 20211124,
+        "131072": 20220308
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "The riddles deepen each time you play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

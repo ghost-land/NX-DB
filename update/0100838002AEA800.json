@@ -1,4 +1,53 @@
 {
     "id": "0100838002AEA800",
-    "version": 655360
+    "base_tid": "0100838002AEA000",
+    "name": "LEGO® Worlds",
+    "description": "EXPLORE. DISCOVER. CREATE. TOGETHER. LEGO® Worlds is an open environment of procedurally-generated Worlds made entirely of LEGO bricks which you can freely manipulate and dynamically populate with LEGO models. Create anything you can imagine one brick at a time, or use large-scale landscaping tools to create vast mountain ranges and dot your world with tropical islands. Drop in prefabricated structures to build and customize any world to your liking. Explore using helicopters, dragons, motorbikes or even gorillas and unlock treasures that enhance your gameplay. Watch your creations come to life through characters and creatures that interact with you and each other in unexpected ways. In LEGO Worlds, anything is possible!  ",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220907,
+    "first_update_release_date": 20170926,
+    "latest_update_release_date": 20220413,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20220413
+    },
+    "versions": {
+        "65536": 20170926,
+        "131072": 20171025,
+        "196608": 20171121,
+        "262144": 20171212,
+        "327680": 20180118,
+        "393216": 20180403,
+        "458752": 20181203,
+        "524288": 20190127,
+        "589824": 20190708,
+        "655360": 20220413
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

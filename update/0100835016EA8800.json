@@ -1,4 +1,32 @@
 {
     "id": "0100835016EA8800",
-    "version": 65536
+    "base_tid": "0100835016EA8000",
+    "name": "Work It Out! Job Challenge",
+    "description": "Become a firefighter, comic book artist,\ntrain conductor, and more!\nEveryone grab your Joy-Con™!\nUp to four players can join in the fun!\n\nThere are collectibles, motion controls, and loads more to enjoy!\n\n[Job Master]\nTake on all the available games in this mode!\nGet the hang of each game to become the champion!\n\n[Job World]\nSelect the game you want to play in this mode!\nWork on your collection in solo play,\nor challenge your friends!\n\n\n[Firefighter]\nUse your hose to put out all the flames!\n\n[Cashier]\nBecome the master of the cash register in this challenge!\n\n[Drone Pilot]\nThe race is about to start! Steer your drone to first place!\n\n[Fisher]\nCast out your line and reel in the big one!\n\n[Burger Cook]\nMake burgers fresh to order!\n\n[Heavy Machine Operator]\nOperate an excavator and load up some rocks!\n\n[Farmer]\nRaise crops and harvest as much as you can!\n\n[Comic Book Artist]\nFollow the guidelines and complete the comic drafts!\n\n[Smoothie Maker]\nCreate the perfect smoothie treat!\n\n[Train Conductor]\nStick to the schedule and aim for a perfect train run!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20220103,
+    "first_update_release_date": 20221123,
+    "latest_update_release_date": 20221123,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221123
+    },
+    "versions": {
+        "65536": 20221123
+    },
+    "category": [
+        "Party",
+        "Communication",
+        "Racing",
+        "Training"
+    ],
+    "intro": "Explore an exciting world of different jobs in this fun and easy to play game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

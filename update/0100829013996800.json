@@ -1,4 +1,42 @@
 {
     "id": "0100829013996800",
-    "version": 327680
+    "base_tid": "0100829013996000",
+    "name": "Super Sports Blast",
+    "description": "Get ready for kick-off and play some soccer,  own the Tennis court and spike your opponent in the Volley field. Each sport features its own in-depth modes with various tournaments to conquer!\n\nCreate your own character and grind your way up to be the champion in three of the world's most popular sports.",
+    "publisher": "Unfinished Pixel",
+    "developer": null,
+    "base_release_date": 20201226,
+    "first_update_release_date": 20231207,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240109
+    },
+    "versions": {
+        "262144": 20231207,
+        "327680": 20240109
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Volley, Tennis or Soccer - choose your favorite sport, take to the field and prepare to have a blast!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

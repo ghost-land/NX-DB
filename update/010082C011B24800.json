@@ -1,4 +1,41 @@
 {
     "id": "010082C011B24800",
-    "version": 131072
+    "base_tid": "010082C011B24000",
+    "name": "Despotism 3k",
+    "description": "Exploit puny humans to extract power and build your own empire! You’ll have to keep track of them to make sure they don’t succumb to exhaustion and hunger… although the weakest ones can always be thrown to the Bioreactor.\nIn other words, this is a resource management sim with rogue-lite elements, dramatic plot, and an abundance of pop culture references. Also, jokes. Slaughter has never been so fun!\n\nKey features:\n• Humor as dark as your ex’s heart. Immerse yourself in the life of a merciless tyrant!!\n• Resource management on steroids. Think fast, to the point, and abandon pity!\n• Rogue-lite. Every walk-through is unique due to randomly generated events. And every failure is fatal — you’ll have to start over!\n• Easy to learn, hard to master. It only takes a couple minutes to figure out the game’s mechanics, but using them optimally is no small feat!\n",
+    "publisher": "Gameplay First",
+    "developer": null,
+    "base_release_date": 20230706,
+    "first_update_release_date": 20200707,
+    "latest_update_release_date": 20201108,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201108
+    },
+    "versions": {
+        "65536": 20200707,
+        "131072": 20201108
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Despot's Game prequel. Humanity is enslaved by an AI… which is awesome, because we’re on the right side of the conflict.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Sexual Content"
+    ],
+    "region": null
 }

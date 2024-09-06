@@ -1,4 +1,38 @@
 {
     "id": "010083600D930800",
-    "version": 131072
+    "base_tid": "010083600D930000",
+    "name": "Summer Sports Games",
+    "description": "Be a champion!\n\nMaster the athletic competition with intuitive and realistic movements. Who will finish on the podium?\n\nChoose your avatar and beat the AI in five exciting tournaments with increasing difficulty. In local multiplayer mode, up to four people can play against each other. Depending on the discipline it is played either one after the other or simultaneously on a split screen. In addition, players can choose their own discipline selection and multiplayer mode assemble order.\n\nThe perfect game for fun parties and entertaining family evenings!\n\n12 action-packed sports:\n\n- Javelin Throw\n- Hammer Throw\n- Shot Put\n- Archery\n- 100m Run\n- 400m Hurdles\n- 800m Run\n- Relay\n- Long Jump\n- High Jump\n- Pole Vault\n- Weightlifting",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20190606,
+    "first_update_release_date": 20240528,
+    "latest_update_release_date": 20240528,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240528
+    },
+    "versions": {
+        "131072": 20240528
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Prove your athletic skills and challenge your friends in twelve exciting disciplines!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

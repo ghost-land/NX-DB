@@ -1,4 +1,44 @@
 {
     "id": "010082B00EE50800",
-    "version": 327680
+    "base_tid": "010082B00EE50000",
+    "name": "Freedom Finger",
+    "description": "Classic shmup gameplay blended with melee combat! You're flying a spaceship shaped like a giant hand, so use it! Punch, grab, and shoot enemies to smithereens! The unique grab attack allows you to capture enemies and use their guns as power-ups!\n\nA unique soundtrack including original music by Aesop Rock. Additional music by Red Fang, Power Trip, Com Truise, White Fence, Ty Segall, Makeup and Vanity Set, Drab Majesty, John Maus, Vektroid, Danimal Cannon, and many more!\n\nA fully voiced, fully animated Story Mode starring Nolan North, John DiMaggio, Sam Riegel, and Eric Bauza.\n\nFight your way through 40 handcrafted levels, spread out over 13 worlds! Each world features new enemies, power-ups, and challenges!\n\nA wide selection of difficulty settings. Whether you want to chill and enjoy the story or crank the difficulty for a heart-pounding challenge, we've got you covered!\n\nFeatures an optional \"family friendly\" SFW mode. Censor the middle finger or bleep swear words! Good clean fun!",
+    "publisher": "Wide Right Interactive",
+    "developer": null,
+    "base_release_date": 20190927,
+    "first_update_release_date": 20191007,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20191007,
+        "131072": 20191025,
+        "196608": 20200324,
+        "262144": 20200409,
+        "327680": 20200804
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Music",
+        "Arcade"
+    ],
+    "intro": "Shoot 'em Up, Punch 'em Up, F&#$ 'em Up! Freedom Finger is a music driven, side-scrolling shooter featuring music by Aesop Rock, Red Fang, Com Truise, and more!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "010083600AE9E800",
-    "version": 65536
+    "base_tid": "010083600AE9E000",
+    "name": "Happy Birthdays",
+    "description": "From legendary creator Mr. Yasuhiro Wada (TOYBOX Inc.) comes Happy Birthdays: a sandbox game in which players create cube-shaped worlds that give rise to diverse and unique lifeforms. With careful experimentation, players can shape the geography and alter the temperature of the world to create the conditions for life and witness the birth of an entire ecosystem!\n",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180622,
+    "first_update_release_date": 20211119,
+    "latest_update_release_date": 20211119,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211119
+    },
+    "versions": {
+        "65536": 20211119
+    },
+    "category": [
+        "Simulation",
+        "Other"
+    ],
+    "intro": "The World is in Your Hands!\n\nWatch as creatures big and small \ngrow in your world!\n\nFeatures a 20-page World Guide \nfull of fascinating creatures! \n\nOcean and mountains! Tundras and deserts! \nIf you can shape it, you can make it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

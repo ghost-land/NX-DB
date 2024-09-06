@@ -1,4 +1,38 @@
 {
     "id": "010083701A1E4800",
-    "version": 196608
+    "base_tid": "010083701A1E4000",
+    "name": "Promenade",
+    "description": "Oh no! The Great Elevator has been broken and its cogs have been scattered all around the world!\n\nTravel the world with your poulp using a dynamic moveset to find all the cogs!\n\nInteract with colorful characters and solve puzzles!\n\nExplore dungeons and face the bosses that dwell there!\n\nUse different objects and their properties to your advantage!\n\nCollect the lost cogs, repair the Great Elevator and unlock new levels in this collectathon directly inspired by 3D platformers!",
+    "publisher": "RED ART GAMES",
+    "developer": null,
+    "base_release_date": 20240223,
+    "first_update_release_date": 20240214,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20240214,
+        "131072": 20240308,
+        "196608": 20240412
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Go on an adventure in a world packed with secrets with a helpful poulp. Explore dungeons, solve puzzles and blast through races in this 2D platformer!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

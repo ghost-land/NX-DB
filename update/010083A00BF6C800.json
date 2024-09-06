@@ -1,4 +1,42 @@
 {
     "id": "010083A00BF6C800",
-    "version": 65536
+    "base_tid": "010083A00BF6C000",
+    "name": "Dark Devotion",
+    "description": "Explore the secrets of a mysterious fallen temple and put your Templar faith to the test in Dark Devotion, where no sacrifice is too great in praise of your God. Measure your devotion and your bravery by journeying into deepest darkness for answers to questions that will challenge your very existence.\n\nDark Devotion features a richly detailed, immersive narrative that unfolds a sombre tale of your Templar religion’s irresistible calling. Every encounter challenges your fortitude, piety, and conviction as you move deeper into your cursed pilgrimage. Spanning four unique worlds, each with their own incredibly detailed environments, you’ll wield dozens of weapons in your quest to discover the Temple’s secret: all the while assailed by dark enemies and devious bosses whose core mission is to destroy your soul and damn you forever.\n\nFeatures: \n\n● Dynamic and heavy combat\n● Dozens of weapons, armor, and items for various fighting styles\n● Intricate system of blessings, curses, and illnesses\n● White-knuckle boss battles\n● Rich, complex storyline\n● Dark levels and brooding environments",
+    "publisher": "The Arcade Crew",
+    "developer": null,
+    "base_release_date": 20191024,
+    "first_update_release_date": 20191216,
+    "latest_update_release_date": 20191216,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191216
+    },
+    "versions": {
+        "65536": 20191216
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

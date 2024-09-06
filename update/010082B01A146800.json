@@ -1,4 +1,33 @@
 {
     "id": "010082B01A146800",
-    "version": 131072
+    "base_tid": "010082B01A146000",
+    "name": "Animal Golf - Battle Race",
+    "description": "Customize your adorable golfer and pack your bag with all sorts of power-ups in this super sweet golf game.               \n\nRoll through wildly creative courses, avoid crazy obstacles. Compete with friends in up to 4-player race and be the first in the hole to win. Super easy controls gives you fun & intuitive gameplay.                                                            \n\nReady, Steady, GOOOOLF!",
+    "publisher": "Pancake Games",
+    "developer": null,
+    "base_release_date": 20230102,
+    "first_update_release_date": 20230127,
+    "latest_update_release_date": 20230203,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230203
+    },
+    "versions": {
+        "65536": 20230127,
+        "131072": 20230203
+    },
+    "category": [
+        "Sports",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Cute animal golf battle race game!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }
