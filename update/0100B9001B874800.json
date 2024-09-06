@@ -1,4 +1,37 @@
 {
     "id": "0100B9001B874800",
-    "version": 196608
+    "base_tid": "0100B9001B874000",
+    "name": "Johnny Trigger",
+    "description": "Johnny Trigger – International Man of Mayhem!\n\nStylish, deadly and smooth as a billiard ball, Johnny Trigger is a man on a mission in this non-stop platform shooter game where the action never ends.\n\nDo you have what it takes to bring down the underground world of the mafia? \n“Less talk, more bullets” – that’s Johnny’s motto as he runs, jumps, spins, slides and keeps on shooting till every bad guy’s bitten the dust.\n\nDive straight in and get shooting! Johnny Trigger’s short but immensely satisfying levels make it the perfect action game to fill a short break.\nAnd if you’ve got a little more time, there’s so much to collect and a new challenge round every corner.\n\nSo what are you waiting for? Those bad guys aren’t going to beat themselves, you know.",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20230526,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230523,
+        "131072": 20230608,
+        "196608": 20230714
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "Looking for action? Here’s Johnny!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

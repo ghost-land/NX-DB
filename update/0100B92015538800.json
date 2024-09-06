@@ -1,4 +1,43 @@
 {
     "id": "0100B92015538800",
-    "version": 327680
+    "base_tid": "0100B92015538000",
+    "name": "Demons of Asteborg",
+    "description": "A new action-platform game\nStraight out of the 16-bit era\n\nPlay as Gareth, a knight of the royal guard and defeat the evil forces of Asteborg.\nLearn powerful spells and use them to unlock your path or defeat your enemies.\nCollect gold from the remains of your opponents and purchase upgrades to unlock your full potential!\nPrepare to meet powerful bosses that will give you a hard time.\nForests, Mountains, Swamps and more, explore the world of Asteborg and discover Gareth's mysterious past...\nBut be careful, Zadimus is never far away.",
+    "publisher": "Neofid Studios",
+    "developer": null,
+    "base_release_date": 20210801,
+    "first_update_release_date": 20210730,
+    "latest_update_release_date": 20221221,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20221221
+    },
+    "versions": {
+        "65536": 20210730,
+        "131072": 20210902,
+        "196608": 20220712,
+        "327680": 20221221
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Demons of Asteborg is an action-platform game, with elements of metroidvania. Play as Gareth and prevent Zadimus from destroying Asteborg! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

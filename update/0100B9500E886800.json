@@ -1,4 +1,36 @@
 {
     "id": "0100B9500E886800",
-    "version": 65536
+    "base_tid": "0100B9500E886000",
+    "name": "Newt One",
+    "description": "Newt One rewards players for how much life they bring to the game world, not how much life is taken from it. Experience your progress through color and music swelling in the game world as you play as Newt - a new tone in the musical land of Groovy Hue which has fallen to the Great Slumber. Awaken this sleeping, silent world to new heights of color and music in this colorful and relaxing 3D Platforming journey of cheer, music, and friendship. Newt One's purpose is to create happiness.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20191030,
+    "latest_update_release_date": 20191030,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191030
+    },
+    "versions": {
+        "65536": 20191030
+    },
+    "category": [
+        "Platformer",
+        "Music"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

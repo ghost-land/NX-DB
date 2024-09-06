@@ -1,4 +1,41 @@
 {
     "id": "0100B9C012B66800",
-    "version": 262144
+    "base_tid": "0100B9C012B66000",
+    "name": "Helheim Hassle",
+    "description": "Helheim Hassle is a narrative adventure game that is as much about friendship as it is about body parts.\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\nFrom the same universe (and set on the same Tuesday in fact) as previous hit Manual Samuel, comes this macabre adventure where you play as Bjørn, a pacifist Viking who hates the idea of dying and going to Valhalla… who then ends up dying and getting taken to Valhalla. When Bjørn is resurrected to assist with a task for the mysterious Pesto, he sees a way to negotiate his way out. Using Bjørn’s undying corpse with its ability to detach and combine limbs at will, players must solve challenging puzzles and navigate tricky levels in order to retrieve a certain magical item... In return, Pesto will try to grant Bjørn a permanent residence in Helheim - what a hassle!\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \n14 levels\n90+ puzzles\n80+ interactable characters\n3,700 lines of spoken dialogue performed by 24 professional actors",
+    "publisher": "Yogscast Games",
+    "developer": null,
+    "base_release_date": 20200818,
+    "first_update_release_date": 20200902,
+    "latest_update_release_date": 20201118,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201118
+    },
+    "versions": {
+        "131072": 20200902,
+        "196608": 20200921,
+        "262144": 20201118
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Helheim Hassle is a narrative adventure game with puzzle platforming elements. Play as Bjørn, a pacifist Viking that can detach and combine limbs at will to solve puzzles. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

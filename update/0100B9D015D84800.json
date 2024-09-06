@@ -1,4 +1,36 @@
 {
     "id": "0100B9D015D84800",
-    "version": 327680
+    "base_tid": "0100B9D015D84000",
+    "name": "早押し！漢字スタジアム",
+    "description": "漢字がテーマのオンラインの早押し生き残りクイズゲーム！全国のプレイヤー55人との真剣勝負で最後まで生き残れ！\n\n問題は公益財団法人 日本漢字能力検定協会の協力のもとバラエティに富んだ問題を多数収録！\n\nプレイ回数・レベルなどミッションをクリアすると勲章やアバターなど報酬もゲット！",
+    "publisher": "イマジニア",
+    "developer": null,
+    "base_release_date": 20221208,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20231130,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231130
+    },
+    "versions": {
+        "65536": 20230316,
+        "131072": 20230510,
+        "196608": 20230714,
+        "262144": 20231019,
+        "327680": 20231130
+    },
+    "category": [
+        "パーティー",
+        "パズル",
+        "学習",
+        "その他"
+    ],
+    "intro": "総勢55人で繰り広げる\nオンラインサバイバルクイズ！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

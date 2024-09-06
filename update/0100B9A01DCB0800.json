@@ -1,4 +1,33 @@
 {
     "id": "0100B9A01DCB0800",
-    "version": 65536
+    "base_tid": "0100B9A01DCB0000",
+    "name": "Selling Souls",
+    "description": "Synopsis.\nThe protagonist starts a part-time job at a nearby Internet cafe to pay off his scholarship...\n\n\nContents\nSelling Souls is a walking simulator game where you explore your surroundings, find items, and advance the story.\nYou will relive the tale of terror while performing the duties of the Internet cafe.",
+    "publisher": "Taiga",
+    "developer": null,
+    "base_release_date": 20240125,
+    "first_update_release_date": 20240207,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20240207
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Something is wrong with this store",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,50 @@
 {
     "id": "0100BA0003EEA800",
-    "version": 524288
+    "base_tid": "0100BA0003EEA000",
+    "name": "PICROSS S",
+    "description": "The new Picross series is now playable on the Nintendo Switch™!\nComes with Picross and Mega Picross, with 300 puzzles in total, including plenty of difficulty levels.\nTraditional Picross with comfortable controls! We've brought back the handy assist functions, too.\nCheck out the tutorial for more details.Even if you're new to Picross, give it a try!\nUnique to the Switch version, 2 players can now play simultaneously! Enjoy with friends and family!\n\n\n\"Picross\" is a picture crossword puzzle game that uses numbers as hints to complete an illustration.\nThe rules are simple and easy to understand, so anyone can pick it up and enjoy. ",
+    "publisher": "JUPITER",
+    "developer": null,
+    "base_release_date": 20170928,
+    "first_update_release_date": 20171206,
+    "latest_update_release_date": 20240131,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240131
+    },
+    "versions": {
+        "65536": 20171206,
+        "131072": 20180808,
+        "196608": 20200415,
+        "262144": 20201118,
+        "327680": 20211020,
+        "393216": 20220309,
+        "458752": 20220928,
+        "524288": 20240131
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Multiplayer",
+        "Education"
+    ],
+    "intro": "Simple rules. Anyone can play with anyone. Time flies as you play.\nThat's the puzzle game, Picross S.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

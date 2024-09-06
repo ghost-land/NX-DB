@@ -1,4 +1,34 @@
 {
     "id": "0100B9001C11A800",
-    "version": 65536
+    "base_tid": "0100B9001C11A000",
+    "name": "Paint Ball",
+    "description": "Paint ball is a fun small platformer game where you are a little paint ball try to reach the flag at the end of the level to progress to the next stage. Although it is a difficult platformer game, the motto is clear \"Easy to learn and fun to master\". This makes the game great for beginners and a challenge for seasoned players. Different levels will test your skills in various aspects like wall slide, jump and other platformer movement skills.\nAfter you experienced the satisfaction of completing all 36 levels you can improve your completion time and master each level to its perfection or you can try  the random challenge which is unlocked. The Random challenge will get progressively more difficult after completing and can be leveled up 20 times.\nHappy painting!\n\nFeatures :\n- 36 levels\n- 36 best times to beat\n- 20 Random challenges",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20230706,
+    "first_update_release_date": 20230628,
+    "latest_update_release_date": 20230628,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230628
+    },
+    "versions": {
+        "65536": 20230628
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "A fun platformer with a lot of wall slides, traps, tests of your skill and different stages",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

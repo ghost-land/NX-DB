@@ -1,4 +1,34 @@
 {
     "id": "0100B8B013310800",
-    "version": 65536
+    "base_tid": "0100B8B013310000",
+    "name": "Dadish",
+    "description": "Explore an exciting world, face off with fast-food themed foes, and reunite Dadish with his missing children in this challenging platforming adventure.\n\n•  A challenging retro platformer from the creator of Super Fowlst\n•  Dialog that is funny, but not TOO funny\n•  50 cool levels to beat\n•  50 rude and sassy baby radishes to find\n•  Fast-food dudes that will try to kill you\n•  Five big tasty bosses\n•  A screechy possum\n•  The joys of fatherhood\n•  A pretty good soundtrack I guess\n•  I like the graphics I hope you do too\n•  Collectable stars\n•  Unlockable secrets",
+    "publisher": "Thomas K Young",
+    "developer": null,
+    "base_release_date": 20211007,
+    "first_update_release_date": 20201119,
+    "latest_update_release_date": 20201119,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201119
+    },
+    "versions": {
+        "65536": 20201119
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "He’s a dad AND a radish! His kids have gone missing from the vegetable patch, and he needs your help to find them.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

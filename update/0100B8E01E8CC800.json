@@ -1,4 +1,42 @@
 {
     "id": "0100B8E01E8CC800",
-    "version": 65536
+    "base_tid": "0100B8E01E8CC000",
+    "name": "Fruit Mountain",
+    "description": "Fruit Stacking Puzzle Game\nConnect the same types of fruit together to make them grow bigger and bigger! \nStack them up without letting them overflow from the plate, and build your own Fruit Mountain!\n\n[Easy to Play!]\nSimply throw fruits and stack them on the plate.\nCombine fruits of the same kind to make them bigger!\nGame over if the fruits fall off the plate!\n\n[Score Up]\nThe bigger the fruit, the higher your score!\nMake chains for even higher scores!\n\n[Ranking]\nCompete with players from all over the world and test your skills.\nAim for a high score and keep challenging yourself!",
+    "publisher": "BeXide",
+    "developer": null,
+    "base_release_date": 20240613,
+    "first_update_release_date": 20240612,
+    "latest_update_release_date": 20240612,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240612
+    },
+    "versions": {
+        "65536": 20240612
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Other",
+        "Party"
+    ],
+    "intro": "Create your Fruit Mountain!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

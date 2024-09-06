@@ -1,4 +1,44 @@
 {
     "id": "0100BA0004F38800",
-    "version": 262144
+    "base_tid": "0100BA0004F38000",
+    "name": "NeuroVoider",
+    "description": "NeuroVoider* is a twin-stick shooter RPG set in a cyber futuristic world about brains shooting around evil robots with nuclear rocket launchers. Battle through the horde of vigilant robots, boost your character with the smoking remains of your victims, and defeat the master NeuroVoider to end this eternal war. Play it coop with up to 4 friends, or go alone in an adventure of hack'n'slash rampage, with a pinch of rogue-lite, and some permadeath.\n\n* may contain explosions. \n\nFeatures \n\nAction packed top-down shooting. May include explosions. \nLocal multiplayer up to 4 players. Total coop rampage. \nProcedurally generated content and hazards. Hope you don't mind a few game overs. \n8736 unique enemies to blow up. Yes, we counted. \nTons of loot to customize your character with. Explode your foes with that \"double twin-plasma shotgun of father doom\" you've just dropped. \nGigantic bosses to challenge your bullet dodging skills. \nPowerful dark synth music by Dan Terminus. May your ears survive the beat.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20170907,
+    "first_update_release_date": 20170926,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20170926,
+        "131072": 20180123,
+        "196608": 20180329,
+        "262144": 20211012
+    },
+    "category": [
+        "Shooter",
+        "RPG",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Twin-stick shooter RPG. May include explosions.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

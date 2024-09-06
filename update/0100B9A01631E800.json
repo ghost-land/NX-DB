@@ -1,4 +1,36 @@
 {
     "id": "0100B9A01631E800",
-    "version": 65536
+    "base_tid": "0100B9A01631E000",
+    "name": "Reminiscence in the Night",
+    "description": "You’re trapped in your apartment. You have no memory of your past.\n\nAs you try to escape, you rapidly understand that you must confront your traumas, and the only way to do this is to let your choices guide you to freedom.\n\nInteract with different items in the apartment to invoke new scenes and memories, speak on the computer with your childhood friend, Sofia, to further the story.\n\t\t\nYour choices matter. \n\nWhat happens to the main character and their memories is in your hands.\n\nFeatures:\n* Visual novel interface with choices\n* Point and click puzzle gameplay\n* Your choices change the outcome of the story\n* Somber, enigmatic artistic aesthetic",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20211022,
+    "first_update_release_date": 20211114,
+    "latest_update_release_date": 20211114,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211114
+    },
+    "versions": {
+        "65536": 20211114
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Unlock your memories and discover the emotional wounds of your past.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Tobacco Reference"
+    ],
+    "region": null
 }

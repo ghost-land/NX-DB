@@ -1,4 +1,54 @@
 {
     "id": "0100B9801210A800",
-    "version": 851968
+    "base_tid": "0100B9801210A000",
+    "name": "Colt Canyon",
+    "description": "Take your revolver and rescue your partner in this atmospheric and punchy Roguelike game.\n\nColt Canyon is a 2D pixel art shooter where you control a cowboy, or one of the many other unlockable characters, whose mission is to save his kidnapped partner from the ruthless bandits. Take your gun and TNT and shoot your way through a hostile canyon full of hidden treasures, weapons, obstacles and all kinds of bloodthirsty scum.\n\nMaybe you can save more people than just your partner. But watch out. Once you got your partner your job is not done. You'll also have to get back home...\n\nFEATURES\n• Range of characters and weapons to play and unlock\n• Dynamic and immersive environments and enemies\n• AI-Controlled companions\n• Local Coop\n• Upgrades for you and your companions\n• Randomized, persistent and open levels\n• Strategic stealth and fast-paced action\n• Boss Fights\n• Roguelike elements\n• Permadeath\n• High replayability\n• Beautiful minimalistic pixel art\n• Punchy particle effects\n• and much more...\n\nInspired and polished to perfection after spending countless hours in many fantastic big and small games of similar genres and settings!",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20220801,
+    "first_update_release_date": 20200616,
+    "latest_update_release_date": 20230105,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20230105
+    },
+    "versions": {
+        "65536": 20200616,
+        "131072": 20200824,
+        "196608": 20200907,
+        "262144": 20201223,
+        "327680": 20211012,
+        "393216": 20211217,
+        "458752": 20220311,
+        "524288": 20220502,
+        "589824": 20220502,
+        "655360": 20220829,
+        "720896": 20221005,
+        "851968": 20230105
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

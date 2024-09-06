@@ -1,4 +1,50 @@
 {
     "id": "0100B9400FA38800",
-    "version": 327680
+    "base_tid": "0100B9400FA38000",
+    "name": "ATOM RPG",
+    "description": "In 1986 both the Soviet Union and the Western Bloc were destroyed in mutual nuclear bombings. You are one of the survivors of the nuclear Holocaust. Your mission - to explore the wild and wondrous world of the Soviet Wasteland. To earn your place under the sun. And to investigate a shadowy conspiracy, aimed at destroying all that is left of life on Earth.\n\nATOM RPG is:\n• A powerful character creation tool, aimed at making the wasteland hero you want to portray! \n• A balanced roleplaying system inspired by GURPS. Each stat combination provides a unique gaming experience, unique dialogues, and new ways to solve some of the quests! \n• Dozens of skills, from lockpicking to gambling!\n• Many hours of gameplay on all sorts of locations. Meet the other survivors in a brave new settlement, built from the dust of the old world. Venture into the wilds, where mutated creatures and savage bandits lurk. Work out the secrets of an old military bunker. Or simply lose yourself, fishing at a scenic pond... \n• Turn-based combat, inspired by Fallout 1 and 2. \n• Random encounters with the dwellers of the Soviet Wasteland - both friendly and dangerous. Sometimes all at the same time...\n• Many deep, multiple-choice dialogues that feel like real conversations with the unique NPCs of the game. \n• Nonlinear gameplay! Dozens of quests, each with many alternative solutions. Play the game like You want to!",
+    "publisher": "ATENT GAMES",
+    "developer": null,
+    "base_release_date": 20230202,
+    "first_update_release_date": 20200918,
+    "latest_update_release_date": 20230207,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230207
+    },
+    "versions": {
+        "65536": 20200918,
+        "131072": 20201013,
+        "196608": 20201029,
+        "262144": 20210427,
+        "327680": 20230207
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "ATOM is an old school role-playing game, inspired by classic RPGs and gamebooks.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Simulated Gambling",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }
