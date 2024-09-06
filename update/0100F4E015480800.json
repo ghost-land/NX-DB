@@ -1,4 +1,42 @@
 {
     "id": "0100F4E015480800",
-    "version": 65536
+    "base_tid": "0100F4E015480000",
+    "name": "Boreal Tenebrae",
+    "description": "SOLVE THE MYSTERY\nYou play as multiple characters, each with their own story, and travel to actual locations in town and dark versions of them.\nIn this nightmare, you have to solve the murder, search for your missing sister Sarah, and complete the mysterious ritual to save the dying town. Will you be able to unravel all the dark secrets of Boreal Tenebrae?\n\nSEARCH FOR SARAH\nExplore a diseased town where everything is unusual. Strange boxes that emit hypnotic static appeared in town. Some citizens, including Sarah, have been absorbed by this mysterious object and never come back.\n\nBoreal Tenebrae was nominated for Best Art Direction and Best Narrative at the Canadian Game Awards 2021.\n\nKEY FEATURES:\n• Classic retro-style adventure\n• Horror elements and gore\n• Story-driven quests with multiple characters\n• Fixed-camera",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220408,
+    "first_update_release_date": 20220425,
+    "latest_update_release_date": 20220425,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220425
+    },
+    "versions": {
+        "65536": 20220425
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Boreal Tenebrae will take you on a retro-style adventure, with a mysterious atmosphere and horror elements. The game is inspired by 90s classics and the best TV series.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

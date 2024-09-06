@@ -1,4 +1,39 @@
 {
     "id": "0100F4C01EBC6800",
-    "version": 196608
+    "base_tid": "0100F4C01EBC6000",
+    "name": "Let's School",
+    "description": "In Let’s School, you take on the role of a principal tasked with the challenge of revamping and managing your alma mater! The game features two core mechanics: the construction and designing of the school and managing the dynamics of students and teachers.\n\nEach student has unique interests and aspirations, making your role as headmaster more complex. Balancing factors like your school's reputation, satisfying students' basic needs, overseeing academic pressure, and managing aspects like clothing, food, and travel provide an immersive and challenging experience. Aside from the usual responsibilities of a headmaster, you are also tasked with managing various issues that originate outside the school, including mysterious dangers and potential threats that might cause things to go bananas!",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20240716,
+    "first_update_release_date": 20240613,
+    "latest_update_release_date": 20240802,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240802
+    },
+    "versions": {
+        "65536": 20240613,
+        "131072": 20240715,
+        "196608": 20240802
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

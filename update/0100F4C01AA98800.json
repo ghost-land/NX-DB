@@ -1,4 +1,38 @@
 {
     "id": "0100F4C01AA98800",
-    "version": 262144
+    "base_tid": "0100F4C01AA98000",
+    "name": "BroodStar",
+    "description": "BroodStar is a classic arcade shoot’em up with heavy roguelike elements. Careful, though… the vastness of space contains many formidable enemies. If you fall along the way, you have to start over — the only thing you’ll bring with you are the upgrade modules you collected in your past runs, in the form of research points that augment your ship. Will they be enough to get you through hordes of unknown creatures and monstrous bosses, and fulfill your quest of defeating the living planet — the BroodStar?\n\nFeatures\n・12 Procedurally Generated Levels with Random Enemies, Events and Bosses\n・Challenges and Leaderboards\n・7 Main and 6 Sub Weapon Types\n・200 Unique Upgrades\n・Research System\n・Seed System\n・Challenging Bosses and Boss Variations\n・Stage Modifiers and Events",
+    "publisher": "Schmidthoffer David",
+    "developer": null,
+    "base_release_date": 20230624,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20240513,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240513
+    },
+    "versions": {
+        "131072": 20230802,
+        "196608": 20240223,
+        "262144": 20240513
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "BroodStar is a classic arcade shmup with roguelike elements. Acquire crazy item combos, encounter strange events and fight challenging bosses.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

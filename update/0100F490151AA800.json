@@ -1,4 +1,35 @@
 {
     "id": "0100F490151AA800",
-    "version": 131072
+    "base_tid": "0100F490151AA000",
+    "name": "Sports Pinball Bundle",
+    "description": "Enjoy 3 games in one with the perfect reproduction of real pinball machines, with all kinds of graphic details and sounds.\n\nDiscover all the secrets, complete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n- Multiball, Extraball, Skillshot, Jackpots...\n- Reproduction with all the details, lights and sounds.\n- 4 different cameras to choose from.\n- Online Leaderboard.\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20210723,
+    "first_update_release_date": 20211104,
+    "latest_update_release_date": 20211105,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211105
+    },
+    "versions": {
+        "65536": 20211104,
+        "131072": 20211105
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "This pack includes the games: World Soccer Pinball, Touchdown Pinball and Basketball Pinball. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100F4701F9DC800",
-    "version": 65536
+    "base_tid": "0100F4701F9DC000",
+    "name": "There's No Dinosaurs 2",
+    "description": "Ready for a new dino-finding adventure? There's No Dinosaurs 2 brings 9 new exciting locations, including a farm, library, and a theater. But remember, dinosaurs do not exist so don't expect to find anything!\n\nThere's No Dinosaurs 2 is a hidden object game with a selection of 9 locations and random dinosaurs to find for each of them.\n\n- 9 Different Levels\n- 3 Difficulty Settings\n- replayable with 20 dinosaurs out of 60 selected for each play\n- hint system\n- zoom",
+    "publisher": "Error300 Games",
+    "developer": null,
+    "base_release_date": 20240628,
+    "first_update_release_date": 20240828,
+    "latest_update_release_date": 20240828,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240828
+    },
+    "versions": {
+        "65536": 20240828
+    },
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "We are back with “There’s No Dinosaurs 2” - a relaxing hidden object point & click game in which your objective is to locate randomly placed dinosaurs.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

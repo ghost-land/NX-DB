@@ -1,4 +1,43 @@
 {
     "id": "0100F4C009322800",
-    "version": 131072
+    "base_tid": "0100F4C009322000",
+    "name": "Pikmin™ 3 Deluxe",
+    "description": "Command a capable crop of different types of Pikmin™ to strategically overcome obstacles, defeat creatures, and find food for your famished home planet! You can even bring a second player along to divvy up tasks as you explore a world that seems larger than life from a pint-sized perspective. \n\nPikmin at your pace \n\nReturn to your ship before time runs out, or you (and your Pikmin) could be in big trouble. If you prefer a more casual approach, a variety of difficulty settings, lock-on targeting and optional hints have been newly added. With less pressure, you have more time to strategically command your Pikmin and take in the lush scenery. \n\nPlay side-story missions, head-to-head matches and more! \n\nThis deluxe version of the Pikmin 3 game includes new side-story missions featuring Olimar and Louie, the ability to play Story mode with a friend and all DLC stages from the original release. Feeling competitive? Enjoy fierce head-to-head Bingo Battles against another player!\n\n\nThree brave explorers land on planet PNF-404 on a mission to find food for their starving home planet. After a crash landing, these explorers must work with Pikmin to reunite and complete their mission. \n\nDirect, toss and grow Pikmin with different abilities and strengths—winged Pikmin can fly, while blue Pikmin can breathe underwater. By strategically choosing the right Pikmin for the job at hand and changing between the three captains (or coordinating with a second player), you can work efficiently to collect fruit and grow your Pikmin squad. \n\nWhen you aren’t busy collecting fruit and saving your planet, try out Mission mode to accomplish set requirements like defeating enemies or collecting items. You can also compare your Mission mode scores with the rest of the world via online leaderboards*. Looking for some friendly competition? In Bingo Battle you must use Pikmin to retrieve items on your bingo card before your opponent does. \n\nWith more options for cooperative play, settings that make it easy for newcomers to start their Pikmin journey, new side stories and more, these tiny Pikmin are in for their biggest adventure yet.\n\nDownload the Nintendo eShop demo to sample Story mode, Mission mode, and even explore together with a second player! Your progress will even transfer to the full game, once purchased. As an added bonus, defeating the first boss in the demo and transferring save-data to the full version of the game will immediately unlock the “Ultra-Spicy” difficulty option for the full game. \n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20201030,
+    "first_update_release_date": 20201124,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20201124,
+        "131072": 20230621
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Grow a squad of adorable, plantlike Pikmin to traverse a strange world and save your planet",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null
 }

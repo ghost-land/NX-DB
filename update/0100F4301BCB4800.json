@@ -1,4 +1,34 @@
 {
     "id": "0100F4301BCB4800",
-    "version": 196608
+    "base_tid": "0100F4301BCB4000",
+    "name": "Astebros",
+    "description": "Astebros is a roguelite game about the beginnings of the kingdom of Asteborg!\nChoose your hero among three different characters and go through procedural dungeons to eliminate your formidable opponents!\n\nDefeat bosses to obtain valuable power orbs!\n\nCollect coins and materials to buy and upgrade your equipment!\n\nDiscover mysterious secrets within the dungeons...\n\nAll this alone or in pairs!",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20231012,
+    "first_update_release_date": 20231011,
+    "latest_update_release_date": 20240110,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240110
+    },
+    "versions": {
+        "131072": 20231011,
+        "196608": 20240110
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Choose your hero among three different characters and go through procedural dungeons to eliminate your formidable opponents!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

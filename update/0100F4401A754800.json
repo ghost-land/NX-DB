@@ -1,4 +1,34 @@
 {
     "id": "0100F4401A754800",
-    "version": 65536
+    "base_tid": "0100F4401A754000",
+    "name": "Daily Dadish",
+    "description": "It’s an adventure that lasts a whole year! Daily Dadish is a retro platformer that features over 365 handcrafted levels - one for every day of the year! Each level is only playable for one day, so beat them while you can. Face challenging foes, unlock cool characters, and help reunite Dadish with his missing kids all over again!\n\n• A retro platformer with a different level every day\n• Over 365 handcrafted levels\n• 10 playable characters to unlock\n• Can you beat the clock? Complete levels quickly to earn medals and stars\n• Rescue your children, and also a screechy possum\n• Dialog that is reasonably funny\n• A rockin’ soundtrack featuring remixes of classic Dadish tunes\n• Experience the joys of fatherhood, every day!",
+    "publisher": "Thomas K Young",
+    "developer": null,
+    "base_release_date": 20230208,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20230411,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230411
+    },
+    "versions": {
+        "65536": 20230411
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "He's a dad and a radish, every day!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

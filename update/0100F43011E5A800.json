@@ -1,4 +1,34 @@
 {
     "id": "0100F43011E5A800",
-    "version": 65536
+    "base_tid": "0100F43011E5A000",
+    "name": "Tcheco in the Castle of Lucio",
+    "description": "Tcheco in the Castle of Lucio is an 8-bit, 2D platformer. It’s a challenging, non stop action experience that incentivizes quick thinking, platforming precision and memorization. \nLike older 8-bit games, it’s a game that’s meant to be replayed over and over again until mastered.\nQuick reactions and timing are necessary for success in the game. Levels – which are in the form of rooms – are short and require you to quickly scan to find a way to get to the next room, which is either a doorway that requires a key found within that room or a black hole\nVisually and from an auditory standpoint, everything about the game is designed to look and feel like an old school 8-bit game. \n\nFEATURES:\n\n+2D platform game, perfect for classic Famicom/NES game fans!\n+Graphics and sounds inspired by 8-bit aesthetics.\n+2 game modes, \"Classic\" and the brand new \"Try harder\".\n+65 rooms of progressive difficulty.\n+Easy to learn, simple gameplay.\n",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20200618,
+    "first_update_release_date": 20200625,
+    "latest_update_release_date": 20200625,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200625
+    },
+    "versions": {
+        "65536": 20200625
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "intro": "Help Tcheco the Adventure Boy to leave a mysterious castle full of deadly creatures! Be ready for a big challenge, full of nonsense humor and retro goodness.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Nudity"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100F4C01A1E6800",
-    "version": 131072
+    "base_tid": "0100F4C01A1E6000",
+    "name": "Void Scrappers",
+    "description": "Collect scrap dropped by your defeated enemies. Use it to upgrade your ship until it becomes unstoppable.\n\nFight and destroy bosses and grab the weapons they drop. Blast hordes of aliens with various projectiles, explosions and kinetic orbitals.\n\nUnlock new characters with unique abilities and new weapon and upgrade types. Permanently upgrade your ship stats in between runs.",
+    "publisher": "8BITSKULL",
+    "developer": null,
+    "base_release_date": 20230303,
+    "first_update_release_date": 20230419,
+    "latest_update_release_date": 20230419,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230419
+    },
+    "versions": {
+        "131072": 20230419
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Blast hordes of alien ships into junk. Collect the scrap to upgrade your ship into an unstoppable force of destruction.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

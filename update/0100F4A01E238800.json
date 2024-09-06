@@ -1,4 +1,33 @@
 {
     "id": "0100F4A01E238800",
-    "version": 65536
+    "base_tid": "0100F4A01E238000",
+    "name": "Alpaca Wonders Why",
+    "description": "Meet Mia. Perhaps the most inquisitive alpaca in the universe!\n\nWhere did alpacas come from? Where did the first alpaca live? How did life begin on Earth?.. She is interested in everything everywhere and at once!\n\nIf you do too, this game is for you. Embark on an amazing adventure through space and time and learn EVERYTHING about the cutest creatures on our planet!\n\nYou will learn interesting facts about alpacas and test your knowledge in a short quiz!\n\nFeatures:\n- 8 interesting chapters\n- scientific facts\n- quiz",
+    "publisher": "DillyFrame",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20240205,
+    "latest_update_release_date": 20240205,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240205
+    },
+    "versions": {
+        "65536": 20240205
+    },
+    "category": [
+        "Adventure",
+        "Education"
+    ],
+    "intro": "Alpaca Wonders Why is an interactive adventure for children in the form of a visual novel with a quiz.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

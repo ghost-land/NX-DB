@@ -1,4 +1,52 @@
 {
     "id": "0100F4700B2E0800",
-    "version": 655360
+    "base_tid": "0100F4700B2E0000",
+    "name": "Moonlighter",
+    "description": "During a long-passed archaeological excavation, a set of Gates were discovered. People quickly realized that these ancient passages lead to different realms and dimensions – providing brave and reckless adventurers with treasures beyond measure. Rynoka, a small commercial village, was founded near the excavation site providing refuge and a place for adventurers to sell their hard-earned riches.\n\nMoonlighter is an Action RPG with rogue-lite elements following the everyday routines of Will, an adventurous shopkeeper that dreams of becoming a hero.\n\nSHOPKEEPING\nWhile conducting your business in Rynoka village, you can put items on sale, set their price carefully, manage gold reserves, recruit assistants and upgrade the shop. Be careful though – some shady individuals may want to steal your precious wares!\n\nFIGHT WITH STYLE\nDefeat various enemies and bosses, and revel in challenging and deep combat mechanics. Masterful control of your weapons, critical timing, careful positioning, and an understanding of your enemies and environment are crucial to your survival. How you battle your enemies is up to you.\n\nMEET VILLAGERS\nGet to know your neighbors as you restore the prosperity of this small commercial hamlet. Help establish new businesses and watch them grow in the idyllic community of Rynoka.\n\nCRAFT & ENCHANT\nUnderstanding the crafting and enchanting system is essential for your progression. Interact with the villagers to craft new armor and weapons, and enchant existing equipment. This creates a great deal of flexibility and spices up the way equipment is used.\n\nGET THE LOOT\nAccess strange worlds through otherworldly gates and collect valuable items from exotic civilizations: resources, weapons, armors and peculiar artifacts. Hoarding everything won't be possible - use the unique inventory system wisely to take the most profitable loot with you.\n\nBEFRIEND COMPANIONS\n9 familiars that are more than happy to aid you during the most dangerous endeavors. Each companion has different mechanics. They can damage enemies, restore your life, get items for you, act as an additional chest and more!\n",
+    "publisher": "11 bit studios",
+    "developer": null,
+    "base_release_date": 20181106,
+    "first_update_release_date": 20181105,
+    "latest_update_release_date": 20211025,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20211025
+    },
+    "versions": {
+        "131072": 20181105,
+        "196608": 20181221,
+        "262144": 20190213,
+        "327680": 20190808,
+        "393216": 20200225,
+        "458752": 20200320,
+        "524288": 20200529,
+        "589824": 20210201,
+        "655360": 20211025
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Every adventure has to pay off!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null
 }

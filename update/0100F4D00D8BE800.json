@@ -1,4 +1,32 @@
 {
     "id": "0100F4D00D8BE800",
-    "version": 131072
+    "base_tid": "0100F4D00D8BE000",
+    "name": "じんるいのみなさまへ",
+    "description": "『じんるいのみなさまへ』は、仲睦まじい女の子たちによる、女の子たちだけのゆる～いサバイバル生活が楽しめるアドベンチャーゲームです。\n5人の女の子で秋葉原に観光に来たはずが、目を覚ますとそこは人の気配もなく、荒廃した秋葉原。何が何だか分からないけど、とりあえずみんなとの旅行は、楽しもう！",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20190627,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190801,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190801
+    },
+    "versions": {
+        "65536": 20190626,
+        "131072": 20190801
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "荒廃した秋葉原で送る、女の子たちだけのゆる～いサバイバル生活",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }
