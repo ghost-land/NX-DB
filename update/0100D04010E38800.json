@@ -1,4 +1,35 @@
 {
     "id": "0100D04010E38800",
-    "version": 131072
+    "base_tid": "0100D04010E38000",
+    "name": "Touchdown Pinball",
+    "description": "Get ready for Touchdown Pinball, a pinball machine where you'll play an exciting match. Score field goals, touchdowns and show who is the greatest football player on this table. \n\nDiscover all the missions and secrets, including a secret arena match where your abilities will be tested.\n\nComplete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n- More than 8 missions to accomplish! Are you ready?\n- Multiball, Extraball, Skillshot, Jackpots...\n- Reproduction with all the details, lights and sounds.\n- 4 different cameras to choose from.\n- Vertical Gameplay using all the Nintendo Switch™ screen on handheld mode.\n- Online Leaderboard.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20200201,
+    "first_update_release_date": 20200129,
+    "latest_update_release_date": 20200129,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200129
+    },
+    "versions": {
+        "65536": 20200129,
+        "131072": 20200129
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Party",
+        "Sports"
+    ],
+    "intro": "Score some touchdowns and win the game in the most entertaining Pinball! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

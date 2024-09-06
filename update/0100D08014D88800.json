@@ -1,4 +1,44 @@
 {
     "id": "0100D08014D88800",
-    "version": 262144
+    "base_tid": "0100D08014D88000",
+    "name": "Encodya",
+    "description": "Neo Berlin 2062. Tina – a nine-year-old orphan – lives with SAM-53 – her big clumsy robot guardian –in a rooftop makeshift shelter in Neo-Berlin, a dark megalopolis controlled by corporations. Tina is an urban jungle kid, who has learned to live alone, scavenging from city dumpsters and eking out a living from scraps. Her funny robot is always with her, programmed to protect her no matter what.\n\nOne day, the little girl discovers that her father left her an important mission: to finish his plan to save the world from grayness! Tina and SAM embark on an incredible adventure across different realities full of bizarre robotic creatures and grotesque human beings. Through puzzles and exciting dialogues, they’ll find out the true meaning of being alive.\n\n- Explore the dark cyberpunk world of ENCODYA in 2.5D with 2 playable characters.\n- Over 34+ non-player characters bring the world of ENCODYA to life and provide a varied and exciting story.\n- Your journey will take you to more than 100 locations where there is a lot to explore and discover.\n- Special, randomly generated puzzles provide a unique gaming experience and present you with great challenges.\n- The cinematic cutscenes and the futuristic art and sound design brings the story of ENCODYA alive.\n- The original soundtrack, especially created for ENCODYA, makes the exciting, crackling atmosphere even more tangible.",
+    "publisher": "Assemble Entertainment",
+    "developer": null,
+    "base_release_date": 20220829,
+    "first_update_release_date": 20211103,
+    "latest_update_release_date": 20220314,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220314
+    },
+    "versions": {
+        "131072": 20211103,
+        "196608": 20211222,
+        "262144": 20220314
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Tina – a nine-year-old orphan – lives with SAM-53 – her big clumsy robot guardian –in a rooftop makeshift shelter in Neo-Berlin, a dark megalopolis controlled by corporation.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

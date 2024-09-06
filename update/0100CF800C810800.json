@@ -1,4 +1,34 @@
 {
     "id": "0100CF800C810800",
-    "version": 65536
+    "base_tid": "0100CF800C810000",
+    "name": "Coffee Crisis",
+    "description": "Coffee Crisis is an arcade-style beat 'em up that pays homage to the 90's era of classic arcade and 16-bit brawlers. \n\nThe Smurglian race has come to Earth and they're not leaving until they steal our most prized commodities: our metal music, the best coffee, and all of the WiFi. Get in the shoes of the only baristas on Earth with enough heavy metal in their veins to fend off this alien assault. \n\nThe game features:\n- Single or Local Co-Op Play\n- Heavy Metal\n- Possessed Grannies\n- Dangerous amounts of caffeine\n- Random modifiers that could make you an invincible killing machine or summon a swarm of raging possessed cowgirls. Get a unique cup of beat 'em up action every time you play!\n\nGrab a hot mug and save the world!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20181130,
+    "first_update_release_date": 20181221,
+    "latest_update_release_date": 20181221,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181221
+    },
+    "versions": {
+        "65536": 20181221
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "intro": "Save the Metal, Save the World, Save the Coffee!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

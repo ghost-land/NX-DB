@@ -1,4 +1,45 @@
 {
     "id": "0100D03003F0E800",
-    "version": 262144
+    "base_tid": "0100D03003F0E000",
+    "name": "Nine Parchments",
+    "description": "Nine Parchments is a co-op action-RPG game of magic mayhem from Frozenbyte, the creators of the Trine series.\n\nA group of runaway wizard apprentices decide to skip their training to search for the Nine Parchments. \n\nAs the wannabe wizards rapidly discover powerful new spells and ignore all safety aspects, it's natural that their hasty progress results in lots of deadly accidents...\n\n- Wield the power of the elements and master a diverse and ever-changing arsenal of spells\n\n- Unlock new playable characters, wizard hats and magical staves\n\n- Level up and train your characters in the magical arts, but choose your path wisely!\n\n- Battle strange creatures and mighty bosses in a breathtakingly beautiful world, set in the Trine universe\n\n- Online and local co-op with 1-4 players",
+    "publisher": "Frozenbyte",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20180117,
+    "latest_update_release_date": 20180709,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20180709
+    },
+    "versions": {
+        "65536": 20180117,
+        "131072": 20180316,
+        "196608": 20180607,
+        "262144": 20180709
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "intro": "Co-op magic mayhem!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

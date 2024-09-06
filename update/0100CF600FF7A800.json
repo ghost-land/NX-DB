@@ -1,4 +1,38 @@
 {
     "id": "0100CF600FF7A800",
-    "version": 65536
+    "base_tid": "0100CF600FF7A000",
+    "name": "Red Bow",
+    "description": "Red Bow is a top-down, creepy adventure game that sets players in the role of Roh, a young girl who gets trapped in a bizarre nightmare filled with creepy monsters! \n\nRoh finds herself trapped in a strange dark nightmare world. Help her realize what role she plays by exploring creepy environments. \n\nSolve puzzles and find hidden secrets on your adventure. The items you find along the way will decide on which ending you get! \n\nFeatures:\n * Decide people’s fates in the world of the void\n * Explore your environment to solve puzzles\n * Meet creepy eerie monsters\n * Multiple endings\n\nThis game depicts scenes of death and suicide and is not recommended for a younger audience or those who are sensitive of the topic.",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20200118,
+    "first_update_release_date": 20211227,
+    "latest_update_release_date": 20211227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211227
+    },
+    "versions": {
+        "65536": 20211227
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Would you give your last chance to a little girl?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
+    "region": null
 }

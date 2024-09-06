@@ -1,4 +1,38 @@
 {
     "id": "0100D0500B0A6800",
-    "version": 131072
+    "base_tid": "0100D0500B0A6000",
+    "name": "The VideoKid",
+    "description": "It's the 1980's. The Kid needed to earn some cash to take his girlfriend out. So by delivering pirate video tapes to his customers and staying one step in front of the cops, he quickly became... The Videokid. \nRunning the gauntlet of his bogusly dangerous delivery route, The VideoKid must survive against all the odds to reach his beloved Jessica. Is today the day he'll finally reach her in time? \n\nThe VideoKid pays homage to the 1980s, and the classic videogames of that era. Harking back to a simpler time of pure gameplay, take control of The VideoKid as he hurls videos through the mailboxes, or windows, of his customers to earn cash. Dodge civilians, jump and grind cars and avoid the neighbourhood cops to stay alive. But this is no ordinary street... you may also encounter strangely-familiar characters from your past. How many will you spot?",
+    "publisher": "Chorus Worldwide Games",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20180831,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180831
+    },
+    "versions": {
+        "65536": 20180829,
+        "131072": 20180831
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Skate your way to Jessica with just one life\n- but don't forget to deliver those videos!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

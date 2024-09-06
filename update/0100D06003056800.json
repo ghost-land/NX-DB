@@ -1,4 +1,42 @@
 {
     "id": "0100D06003056800",
-    "version": 327680
+    "base_tid": "0100D06003056000",
+    "name": "Piczle Lines DX",
+    "description": "Draw lines to connect pairs of numbers to complete a hidden picture in this feverishly addictive PICture puzZLE game!\n\nConnect numbers of the same color, using the same number of blocks as the number! Easy controls lets you draw line after line as you gradually reveal the picture! Once you start you'll be hooked!\n\nPlay through 100 levels in Story Mode as you follow the adventure of a professor and his mysterious Piczle-Matic camera. Each puzzle solved unlocks the next step in the story!\n\nContinue the fun in Puzzle Mode with 500 more puzzles! (including free updates)\nSolve picture puzzles in of all sorts, including sports, pets, vehicles, food and many more! Select them in any order or have multiple puzzles on the go, resuming any one at any time.\n\nDraw directly on the screen in Handheld Mode, or play with the Joy-Con™ in Table Mode or TV Mode!\n\nNow includes 5 free updates!\nPiczle Lines DX has received five free updates adding more than 300 new puzzles and new music! New puzzle packs include:\nSigns, Sci-Fi, Christmas, Fantasy, Professions, Fairy Tales. America, Japan and many more!\n",
+    "publisher": "RAINYFROG",
+    "developer": null,
+    "base_release_date": 20170824,
+    "first_update_release_date": 20170920,
+    "latest_update_release_date": 20180530,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20180530
+    },
+    "versions": {
+        "65536": 20170920,
+        "131072": 20171108,
+        "196608": 20180228,
+        "262144": 20180328,
+        "327680": 20180530
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Draw lines between two numbers to reveal a hidden \npicture and complete the puzzle!\nHundred's of puzzles with free updates!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

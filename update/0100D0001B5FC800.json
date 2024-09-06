@@ -1,4 +1,39 @@
 {
     "id": "0100D0001B5FC800",
-    "version": 65536
+    "base_tid": "0100D0001B5FC000",
+    "name": "Onigo Hunter",
+    "description": "While investigating ancient ruins, the King has completely disappeared. His daughter, whose position as Princess is under threat, makes a request for help. A fledgling hunter takes on this request and sets off on a quest to find the King...\n\nFight turn-based battles and aim to become the strongest hunter by taking on requests at the guild. Set traps to capture monsters, combine and turn them into equipment and items! Changing your equipment will also change your outfit look. Complete a whole range of challenges, including a monster catalog and a skill list to complete!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230703,
+    "latest_update_release_date": 20230703,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230703
+    },
+    "versions": {
+        "65536": 20230703
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "What lies beyond the doors to the ruins? Become the best hunter in the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100D0500AD30800",
-    "version": 65536
+    "base_tid": "0100D0500AD30000",
+    "name": "Harvest Life",
+    "description": "Get your organic farm going! Depending on the weather and the local villagers' demands you tend to your fields and take care of your livestock. Sell your products in your farm store to expand your farm. Exciting challenges will add even more adventure to your gameplay. Will you manage to get the carriage through the woods before the wolves get it? Will you find the lost dog in the creepy catacombs? And will you finally win your sweetheart's love? \n\nShow your mettle as an adventurous organic farmer! And then you might be in for a romantic happy ending.\n",
+    "publisher": "Rokaplay",
+    "developer": null,
+    "base_release_date": 20181201,
+    "first_update_release_date": 20190308,
+    "latest_update_release_date": 20190308,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190308
+    },
+    "versions": {
+        "65536": 20190308
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Multiplayer",
+        "Lifestyle"
+    ],
+    "intro": "Farm with Friends",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

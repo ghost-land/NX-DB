@@ -1,4 +1,38 @@
 {
     "id": "0100CFD00BF3E800",
-    "version": 262144
+    "base_tid": "0100CFD00BF3E000",
+    "name": "Galaxy of Pen & Paper +1 Edition",
+    "description": "Create your own game master and RPG party, as they roleplay, explore distant planets in their imagination, fight weird aliens and save the galaxy in the era of dial-up internet and floppy disks!\n\nGalaxy of Pen & Paper is a turn-based RPG that takes the pen and paper games of your childhood and launches them into space.\n\nSet in the year 1999, a group of friends brave the perils of a strange new galaxy, armed with dice and unique skill sets.\n\nThe player creates their own Game Master and builds a party to play through a number of weird and exciting campaigns, earning prestige and unlocking new skills along the way.\n\nGalaxy of Pen & Paper expands on concepts from its predecessor, Knights of Pen & Paper, by featuring a larger universe, a greater variety of races, and an imaginative new sci-fi setting.\n\nFeatures:\n- Turn-based combat system\n- Customization options for character builds\n- Expansive galaxy with multiple systems and numerous planets to explore\n- Built-in dice mechanic for authentic tabletop game feel\n- Ability to increase or decrease difficulty of battles\n\nIncludes +1 Edition: new characters, classes, skills, planets, quests, and more than 3 hours of gameplay!",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20200408,
+    "first_update_release_date": 20200325,
+    "latest_update_release_date": 20201126,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201126
+    },
+    "versions": {
+        "65536": 20200325,
+        "131072": 20200512,
+        "262144": 20201126
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Simulation"
+    ],
+    "intro": "A turn-based meta RPG about a group of players rolling dice in the year 1999!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

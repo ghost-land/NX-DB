@@ -1,4 +1,40 @@
 {
     "id": "0100D0801D486800",
-    "version": 131072
+    "base_tid": "0100D0801D486000",
+    "name": "One More Dungeon 2",
+    "description": "One More Dungeon 2 is a dungeon crawler roguelite in a fantasy setting.\n\nAs a nameless adventure seeker, you venture into an ancient dungeon full of secrets, traps, and hostile creatures. You wake up in the ruins of an ancient fortress, held captive by giant sentient snails.\n\nUse a wide arsenal of magic staves, melee weapons, and forbidden artifacts to fight your way through the crowds of enemies and make it out alive! \n\n\nFeatures\n* 3D exploration and combat\n* Procedurally-generated levels\n* Boss fights \n* Five different regions\n* Arsenal of weapons and magic",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20240301,
+    "first_update_release_date": 20240227,
+    "latest_update_release_date": 20240325,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240325
+    },
+    "versions": {
+        "65536": 20240227,
+        "131072": 20240325
+    },
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Can you brave through one more dungeon?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

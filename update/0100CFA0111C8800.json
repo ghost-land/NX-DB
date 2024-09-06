@@ -1,4 +1,42 @@
 {
     "id": "0100CFA0111C8800",
-    "version": 262144
+    "base_tid": "0100CFA0111C8000",
+    "name": "Gods Will Fall",
+    "description": "You Are The Last Hope For Humanity\n\nThe gods’ torturous rule over humanity has lasted for millennia.  Bent on cruelty and suffering, they demand to be served with blind worship through an oath of fealty pledged from every man, woman and child. To those who don't submit to the gods’ will; a slow and merciless death awaits.\n \nExperience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.   \n A personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20210129,
+    "first_update_release_date": 20210115,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210115,
+        "131072": 20210517,
+        "196608": 20210629,
+        "262144": 20210831
+    },
+    "category": [
+        "Fighting",
+        "Action"
+    ],
+    "intro": "Fight or Perish",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,49 @@
 {
     "id": "0100D02014048800",
-    "version": 393216
+    "base_tid": "0100D02014048000",
+    "name": "FIGHTING EX LAYER ANOTHER DASH",
+    "description": "This latest edition re-examines the theory and systems of fighting games! \n Unbound by traditional techniques and systems.\n The latest title in the FEXL series!\n\n What fate lies ahead for these fighters and their new powers?\n The EX System is a new approach, take it for a spin! \n\n Tear it up!",
+    "publisher": "ARIKA",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210518,
+    "latest_update_release_date": 20240522,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240522
+    },
+    "versions": {
+        "65536": 20210518,
+        "131072": 20210615,
+        "196608": 20220331,
+        "262144": 20220407,
+        "327680": 20240205,
+        "393216": 20240522
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Fighting EX Layer Chapter 2 begins! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

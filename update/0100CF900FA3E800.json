@@ -1,4 +1,40 @@
 {
     "id": "0100CF900FA3E800",
-    "version": 393216
+    "base_tid": "0100CF900FA3E000",
+    "name": "FAIRY TAIL",
+    "description": "■Play as powerful mages from different guilds\nA total of 16 playable characters!\nVarious characters from guilds other than \"Fairy Tail\" appear!\nAlso, the game includes an original episode.\n\n■Magic battles, Fairy Tail style\nFamiliar moves from the source material such as Unison Raid and Extreme Magic can be performed!\nThere are also Unison Raids that are original to the game.\n\n■Aim to become the No. 1 guild\nThe town of Magnolia and inside of the guild are fully depicted.\nComplete missions that appear on the request board, raise your guild's rank with your comrades, and aim to become the No. 1 guild!",
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": null,
+    "base_release_date": 20240304,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20201007,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20201007
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200805,
+        "196608": 20200819,
+        "262144": 20200902,
+        "327680": 20200910,
+        "393216": 20201007
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "A game based on the popular \"FAIRY TAIL\" is available on Nintendo Switch™ for the first time!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

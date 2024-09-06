@@ -1,4 +1,39 @@
 {
     "id": "0100D04017FF0800",
-    "version": 65536
+    "base_tid": "0100D04017FF0000",
+    "name": "Mothmen 1966",
+    "description": "Mothmen 1966 is the first in a new series of interactive adventures: Pixel Pulps. Created by novelist Nico Saraintaris and artist Fernando Martinez Ruppel, Pixel Pulps are a fusion of exceptional writing and stunning illustration, inspired by mid-20th century pulp fiction and 80s home computer graphics.",
+    "publisher": "Chorus Worldwide Games",
+    "developer": null,
+    "base_release_date": 20220714,
+    "first_update_release_date": 20220713,
+    "latest_update_release_date": 20220713,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220713
+    },
+    "versions": {
+        "65536": 20220713
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "At the edge of reality, where nightmare creatures lurk...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

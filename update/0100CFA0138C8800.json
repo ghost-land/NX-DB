@@ -1,4 +1,42 @@
 {
     "id": "0100CFA0138C8800",
-    "version": 196608
+    "base_tid": "0100CFA0138C8000",
+    "name": "Missile Dancer",
+    "description": "Missiles! Missiles! And more missiles!\nAvoid the enemy missiles and destroy their flagship aircrafts with yours!\nSoar the skies on your fighter jet in this action-packed vertically scrolling shooter.\nExpand your radar and lock on your enemies to shoot them down with a mighty missile strike! You can increase the range of your lock-on radar and the number of missiles with bonus items after defeating enemies. Don't be hit!\nAnd be careful! Your guns won't take the enemies down! They're your best option against the incoming attacks!\nTwo game modes: Arcade and Against the clock. Complete the story like in the old time arcade machines, or try your best score in 3-minute score attack.\nDon't play alone! You can play local co-op in the same Nintendo Switch™. Double the fun!",
+    "publisher": "MoonGlass",
+    "developer": null,
+    "base_release_date": 20210122,
+    "first_update_release_date": 20210325,
+    "latest_update_release_date": 20211027,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211027
+    },
+    "versions": {
+        "65536": 20210325,
+        "131072": 20211014,
+        "196608": 20211027
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Welcome to the dancehall! The only music here are the aircrafts soaring the skies! Make your way through the enemy lines and save us from the final war!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100D0801FE18800",
-    "version": 65536
+    "base_tid": "0100D0801FE18000",
+    "name": "Erogods: Sunrise",
+    "description": "Okami, Tanuki, Oni, Amaterasu, Kitsune and other gods are waiting for you. Your goal is to establish a romantic relationship and pass the tests. Are you ready to receive your reward?\n\nFeatures:\n14 goddesses are waiting for you.\nRelaxing music.\nMeditative gameplay.\nInteractive gallery.",
+    "publisher": "Nelset interactive",
+    "developer": null,
+    "base_release_date": 20240802,
+    "first_update_release_date": 20240731,
+    "latest_update_release_date": 20240731,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240731
+    },
+    "versions": {
+        "65536": 20240731
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Adventure",
+        "Training"
+    ],
+    "intro": "Erogods: Sunrise - is a dating simulator with feminized Japanese gods.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }
