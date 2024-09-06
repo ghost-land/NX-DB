@@ -1,4 +1,38 @@
 {
     "id": "010029C01BCE6800",
-    "version": 65536
+    "base_tid": "010029C01BCE6000",
+    "name": "Arcade Archives GROWL",
+    "description": "\"GROWL\" is an action game released by TAITO in 1990.\nChoose one of the four rangers to control and save the animals from the evil poachers.\nUse weapons you can pick up along the way, such as swords, guns, and rocket launchers, as well as a variety of techniques that you can perform by combining buttons to defeat the poachers.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230727,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20230802
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Smash the evil poachers!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

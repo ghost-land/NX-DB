@@ -1,4 +1,37 @@
 {
     "id": "010029D00AFD0800",
-    "version": 65536
+    "base_tid": "010029D00AFD0000",
+    "name": "ACA NEOGEO KING OF THE MONSTERS 2",
+    "description": "“KING OF THE MONSTERS 2” is an action game released by SNK in 1992.\nChoose 1 of 3 monsters to thrash aliens around the world and become the undisputed King of the Monsters!\nWork together in a 2 player co-op mode, or duke it out in versus mode!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20181123,
+    "first_update_release_date": 20181121,
+    "latest_update_release_date": 20181121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181121
+    },
+    "versions": {
+        "65536": 20181121
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "The monsters are back with a vengeance! An earthshaking monster battle!! Who will rule the world!?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

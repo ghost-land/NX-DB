@@ -1,4 +1,37 @@
 {
     "id": "010029B00CC3E800",
-    "version": 65536
+    "base_tid": "010029B00CC3E000",
+    "name": "UTOPIA 9 - A Volatile Vacation",
+    "description": "Shoot your way through unexpected mutants in a deep rogue-like adventure, alone or with a friend.\n\nAre you in need of a vacation to remember? Utopia 9 guarantees sunshine, entertainment…and bloodthirsty mutants!\n\nYou play as the most recent guest of this scam resort. Can you survive the onslaught and sue the travel agency?\n\nOn Utopia 9, you will find diverse attractions:\n- 40 weapons including your trusty suitcase!\n- A journey to enjoy alone or in co-op for 2 players\n- Mutations granting unique abilities\n- Enemies evolving when they kill you (nemesis system)\n- A challenging rogue-like adventure\n- Achievements and great replay value",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20190119,
+    "first_update_release_date": 20190118,
+    "latest_update_release_date": 20190118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190118
+    },
+    "versions": {
+        "65536": 20190118
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "Welcome to the best vacation resort of the galaxy…where nothing is as promised! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "010029E01403A800",
-    "version": 131072
+    "base_tid": "010029E01403A000",
+    "name": "Disney Magical World 2: Enchanted Edition",
+    "description": "Immerse yourself in a world of magic in Disney Magical World 2: Enchanted Edition on Nintendo Switch™! Make a new home in this enchanted Disney world and hang out with beloved Disney characters! Explore Disney-themed worlds full of fun challenges and live your dream life as you go on fun adventures, dance with Disney Princesses, soar with Mickey in Magical Dream parades, and more! Get ready for hours of enchanted fun as you build your own Disney Magical World!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20211203,
+    "first_update_release_date": 20211119,
+    "latest_update_release_date": 20220117,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220117
+    },
+    "versions": {
+        "65536": 20211119,
+        "131072": 20220117
+    },
+    "category": [
+        "Simulation"
+    ],
+    "intro": "Build your Disney Magical World!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null
 }

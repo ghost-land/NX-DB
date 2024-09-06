@@ -1,4 +1,47 @@
 {
     "id": "01002A000CD48800",
-    "version": 131072
+    "base_tid": "01002A000CD48000",
+    "name": "Resident Evil 6",
+    "description": "Blending action and survival horror, Resident Evil 6 is a dramatic horror experience that cannot be forgotten. The game spans various areas across the globe starring multiple playable characters, including fan favorites and new faces.\n\nJump into the fray either solo or in 2-player co-op in 4 dramatic chapters of the campaign. Some missions even feature additional random matchmaking with other players for unique 4-player co-op crossover boss battles. For more multiplayer action, head into one of the extra modes such as Survivor - which pits up to 6-players head-to-head in a heated battle.\n\nThis edition includes all DLC, along with two costumes per main character that were originally Residentevil.net exclusives, but are now unlockable through the game itself.",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20220201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220201
+    },
+    "versions": {
+        "131072": 20220201
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "No Hope Left",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Suggestive Themes",
+        "Users Interact"
+    ],
+    "region": null
 }

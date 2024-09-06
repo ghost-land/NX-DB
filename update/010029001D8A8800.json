@@ -1,4 +1,37 @@
 {
     "id": "010029001D8A8800",
-    "version": 196608
+    "base_tid": "010029001D8A8000",
+    "name": "Top Racer Collection",
+    "description": "Top Racer Collection brings back the 90s classic in one incredible package, bringing together three iconic games from the renowned racing franchise. With online features, get up to speed and experience the nostalgic mix of action and addictive gameplay!\n\nThe Top Racer Collection features classic titles such as Top Racer, Top Racer 2 and Top Racer 3000. In addition, the collection will feature new and exclusive content.\n\nOriginally released for older systems, Top Racer won over gamers with its engaging gameplay, vibrant graphics and iconic soundtracks.\n\nFeatures\n- Filters for a nostalgic experience;\n- Online mode for multiplayer races;\n- Challenges with friends and opponents from around the world in ranking mode;\n- Time Attack mode to test your racing skills against the clock.\n- Campaign Mode and Custom Cup Mode",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20240307,
+    "first_update_release_date": 20240103,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20240103,
+        "131072": 20240209,
+        "196608": 20240404
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "The Top Racer Collection showcases the renowned 16-bit racing game franchise, featuring Top Racer, Top Racer 2, and Top Racer 3000, along with exciting new and exclusive content!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

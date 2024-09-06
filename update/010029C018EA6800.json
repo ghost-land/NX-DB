@@ -1,4 +1,33 @@
 {
     "id": "010029C018EA6800",
-    "version": 65536
+    "base_tid": "010029C018EA6000",
+    "name": "Speed or Death",
+    "description": "Cross a city infested with enormous monsters, dodge the fiery breath of a dragon, find how to escape an alien invasion... all without getting eaten by a worm. \nThis is Speed or Death, a frenzied racing game where the most important thing isn’t reaching the finish line, but surviving the chaos around you. Unlock the different cars and live to tell the tale another day. What apocalypse shall we race through today?\n \nFeatures\n•\t4 apocalyptic circuits\n•\t20 different cars\n•\tAutomatic or manual mode",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20231130,
+    "first_update_release_date": 20231212,
+    "latest_update_release_date": 20231212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231212
+    },
+    "versions": {
+        "65536": 20231212
+    },
+    "category": [
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Run for your life!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Mild Violence"
+    ],
+    "region": null
 }

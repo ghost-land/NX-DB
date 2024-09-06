@@ -1,4 +1,36 @@
 {
     "id": "010029701420A800",
-    "version": 196608
+    "base_tid": "010029701420A000",
+    "name": "SturmFront - The Mutant War: Übel Edition",
+    "description": "It is the year 1984 and it is the end of the world as we know it. A great plague, wrought by human hands, devoured all known life and puked forth a new and foreign kind of creature: the mutants. The evils that escaped this Pandora’s box, still loyal to the alien genes within their flesh, could not be controlled by humans. Our extinction is upon us!\n\nDr. Hartmuth Griesgram, a heartbroken and eccentric scientist who is responsible for the creation of synthetic humans, activates his accursed human manufactory one last time to unleash his ultimate creation and his final hope: the prototype SturmFront battle unit. A flawless cyborg engineered for war.\n\nYou play as Siegfried von Hammerstein, a unique semi-organic battle unit whose only purpose to exist is to kill and destroy.\n\n-Purge the mutant with your flamethrower\n-Find all the hidden souls to uncover the truth about the mutant war and its origin!\n-Slay gigantic enemies! Show them no mercy!\n-A classic arcade game with a touch of bullet hell",
+    "publisher": "RED ART GAMES",
+    "developer": null,
+    "base_release_date": 20210402,
+    "first_update_release_date": 20210330,
+    "latest_update_release_date": 20210427,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210427
+    },
+    "versions": {
+        "65536": 20210330,
+        "131072": 20210419,
+        "196608": 20210427
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Play as Siegfried von Hammerstein, a unique experimental battle unit to kill unrelenting mutant hordes!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Nudity",
+        "Strong Violence"
+    ],
+    "region": null
 }

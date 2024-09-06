@@ -1,4 +1,70 @@
 {
     "id": "010029200AB1C800",
-    "version": 1376256
+    "base_tid": "010029200AB1C000",
+    "name": "Prison Architect: Nintendo Switch™ Edition",
+    "description": "In Prison Architect you will see the impact of your grand design on the lives of your inmates be it a utopic centre for rehabilitation, a brutal Super Max Prison or anything in between.\n\nActing as both architect and governor, you control every detail of your Prison - from building new cells and facilities to hiring staff and creating reform programs - all while dealing with informants, contraband smuggling, gang warfare, full scale riots and more!\nExpose your prison to a whole host of outrageous characters who will impact your prisons in unique ways, take charge of new prisons and build your penitentiary on exciting new plots!\n\nAll Day and a Night contains 8 new wardens, 8 new prison maps and 8 new plots to expand your prison experience and bend the rules!\n\n• Show-off and share your prisons in World of Wardens.\n• Equip your prison with new padded cells and a Criminally Insane wing\n",
+    "publisher": "ParadoxInteractive",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20180926,
+    "latest_update_release_date": 20220705,
+    "latest_update": {
+        "version": "1376256",
+        "release_date": 20220705
+    },
+    "versions": {
+        "65536": 20180926,
+        "131072": 20181011,
+        "196608": 20181119,
+        "262144": 20191213,
+        "327680": 20200623,
+        "393216": 20200924,
+        "458752": 20210128,
+        "524288": 20210128,
+        "589824": 20210316,
+        "655360": 20210415,
+        "720896": 20210629,
+        "786432": 20210629,
+        "851968": 20210802,
+        "917504": 20211111,
+        "983040": 20220127,
+        "1048576": 20220127,
+        "1114112": 20220201,
+        "1179648": 20220204,
+        "1245184": 20220331,
+        "1310720": 20220628,
+        "1376256": 20220705
+    },
+    "category": [
+        "Strategy",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Your Design, Their Fate",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Violence",
+        "Users Interact",
+        "Digital Purchases"
+    ],
+    "region": null
 }

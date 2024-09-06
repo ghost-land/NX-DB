@@ -1,4 +1,45 @@
 {
     "id": "010029700EB76800",
-    "version": 196608
+    "base_tid": "010029700EB76000",
+    "name": "Adrenaline Rush - Miami Drive",
+    "description": "Find yourself smack in the middle of a police chase! \n\nGet a taste of adrenaline and thrills! \n\nIt’s all waiting for you in ‘Adrenaline Rush - Miami Drive’. \n\nDriving in the wrong direction, crackups and spectacular crashes, dizzying speed ‒ all this against the incredible backdrop of the night city and highways!\n\nYour task is to escape from your pursuers, collect coins and smash into as many vehicles as possible.\n \nAnd all this with a minimum of rules and a maximum of fun!\n\nPlay on Joy-Con or using motion controls!\n\nLet's go!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20190802,
+    "latest_update_release_date": 20201215,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201215
+    },
+    "versions": {
+        "65536": 20190802,
+        "131072": 20201128,
+        "196608": 20201215
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Fancy yourself a good driver? Well... we shall see!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

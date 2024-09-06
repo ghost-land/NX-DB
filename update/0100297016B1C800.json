@@ -1,4 +1,43 @@
 {
     "id": "0100297016B1C800",
-    "version": 131072
+    "base_tid": "0100297016B1C000",
+    "name": "Gems of Magic: Dwarf's Destiny",
+    "description": "Having lost his home, the young dwarf Axel embarks on a journey looking to discover the world and to find a new place to call home. After weeks of travel, Axel finds himself in the city of the Forest Dwellers. Their village has been destroyed by the Goblins who rampaged through the forest. The Forest Dwellers desperately need your help!\n \nTeam up with Violet the Dryad to rebuild the village and learn the true story of why the Goblins have taken over the forest…\n \n• 100 challenging levels with increasing difficulty\n• Match 3 gameplay combined with an intriguing story\n• Step inside a beautiful world, with fully hand-drawn visuals\n• Use 5 unique boosters like Shuffle, Magic Reach and Mana Tornado",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220812,
+    "latest_update_release_date": 20230421,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230421
+    },
+    "versions": {
+        "65536": 20220812,
+        "131072": 20230421
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Embark on an enchanting adventure to find your destiny by rebuilding the forest village and fend off the goblins in this exciting Match 3 adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

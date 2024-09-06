@@ -1,4 +1,32 @@
 {
     "id": "0100297013C7C800",
-    "version": 65536
+    "base_tid": "0100297013C7C000",
+    "name": "Operation Zeta",
+    "description": "Operation Zeta is a space action game. The great battle codenamed 'Operation Zeta' has been lost. Your ship is in shambles and you have to act quickly to collect all of the parts and repair your ship before the warzone is completely destroyed by the enemy's death laser. Play and unlock 13 playable characters from space monkeys to mischievous slugs each with their own unique set of skills and challenges. As well unlock new abilities and upgrades with credits you earn during each run. Each time you play the universe is randomly generated with random quests from wacky local aliens who have stolen the parts of your ship. All in a physics based battlefield, but beware as you only have ten minutes until the death laser fires! ",
+    "publisher": "SFS Studios",
+    "developer": null,
+    "base_release_date": 20220304,
+    "first_update_release_date": 20221122,
+    "latest_update_release_date": 20221122,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221122
+    },
+    "versions": {
+        "65536": 20221122
+    },
+    "category": [
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Recover parts to your crashed ship from wacky locals to escape a hostile battlefield. Unlock and play as 13 different characters from space monkeys to mischievous slugs.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

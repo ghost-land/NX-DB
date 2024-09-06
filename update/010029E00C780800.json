@@ -1,4 +1,34 @@
 {
     "id": "010029E00C780800",
-    "version": 131072
+    "base_tid": "010029E00C780000",
+    "name": "Azure Saga: Pathfinder DELUXE Edition",
+    "description": "Far into the future, the human race survives through colonies scattered across the universe. One tale gives humanity’s remnants hope – one of the legendary planet, Azure, a world full of life and abundant resources that could bring humanity back from the brink of extinction. Join a young scientist, Synch, as he travels across the galaxy to meet new companions and find his father.\n\nFeatures:\n- Immerse yourself in a world with a classic storyline that will delight both veterans and new RPG fans, infused with highly detailed 2D illustrations\n\n- Traditional Turn-Based RPG Gameplay inspired by the classic JRPG of the 90s\n\n- Strategize and configure your characters’ gear and jewels in to enhance their maximum potential. \n\n- Unite, mix, and match your characters’ skills to discover powerful abilities, each with their special effects\n\n- Classic old school adventure with tons of puzzles and secrets to discover",
+    "publisher": "Toge Productions",
+    "developer": null,
+    "base_release_date": 20190321,
+    "first_update_release_date": 20190411,
+    "latest_update_release_date": 20190425,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190425
+    },
+    "versions": {
+        "65536": 20190411,
+        "131072": 20190425
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Band together to search for the legendary planet that will save humanity in the DELUXE complete edition of the beautifully drawn isometric RPG world.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

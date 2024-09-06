@@ -1,4 +1,38 @@
 {
     "id": "01002950102CE800",
-    "version": 65536
+    "base_tid": "01002950102CE000",
+    "name": "Super Tennis",
+    "description": "Simply tap in the right time to launch ball across the court! Fun quick matches awaits you in cities like Tokyo, Berlin, New York City and London. Unlock new characters to play and take part in various game modes.\n",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20200127,
+    "first_update_release_date": 20200212,
+    "latest_update_release_date": 20200212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200212
+    },
+    "versions": {
+        "65536": 20200212
+    },
+    "category": [
+        "Arcade",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Do you enjoy fast-paced action and sportsmanship? Pick up Super Tennis to take part in exciting matches! Really easy, fast and entertaining game for everyone.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

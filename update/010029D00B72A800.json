@@ -1,4 +1,36 @@
 {
     "id": "010029D00B72A800",
-    "version": 196608
+    "base_tid": "010029D00B72A000",
+    "name": "TEAM SONIC RACING",
+    "description": "《Team Sonic Racing》結合了刺激街機遊戲與快節奏競速賽車遊戲中最精彩的元素。與好友在激烈緊湊的多人競速遊戲中一較高下，一同穿梭於眾多華麗繽紛的世界，還能組成隊伍通力合作，共享強化道具與加速衝刺效果。決定個人專屬的駕駛作風：3 種風格迥異的角色類型中任您挑選，還能解鎖足以扭轉局勢的車輛改裝選項，以符合您的駕駛作風。 ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190521,
+    "first_update_release_date": 20190515,
+    "latest_update_release_date": 20190708,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190708
+    },
+    "versions": {
+        "65536": 20190515,
+        "196608": 20190708
+    },
+    "category": [
+        "競速",
+        "動作",
+        "運動"
+    ],
+    "intro": "做好準備，加快速度。以音速來場團隊賽車吧！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "0100299013ADE800",
-    "version": 131072
+    "base_tid": "0100299013ADE000",
+    "name": "Arcade Archives MARKHAM",
+    "description": "\"MARKHAM\" is a scrolling shooter game released by SUNSOFT in 1983.\nUse a Beam Gun and powerful Missiles to attack and destroy Antarctic Bases. \nAiming each attack type takes some getting used to, but once you do, taking out enemies feels great!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20201211,
+    "first_update_release_date": 20201214,
+    "latest_update_release_date": 20210120,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210120
+    },
+    "versions": {
+        "65536": 20201214,
+        "131072": 20210120
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Your mission is to destroy Antarctic Bases. Go and bring peace to the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }
