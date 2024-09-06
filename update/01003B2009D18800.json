@@ -1,4 +1,27 @@
 {
     "id": "01003B2009D18800",
-    "version": 65536
+    "base_tid": "01003B2009D18000",
+    "name": "Violett Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20181127,
+    "latest_update_release_date": 20181127,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181127
+    },
+    "versions": {
+        "65536": 20181127
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Fear"
+    ],
+    "region": null
 }

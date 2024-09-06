@@ -1,4 +1,46 @@
 {
     "id": "01003BF01E940800",
-    "version": 393216
+    "base_tid": "01003BF01E940000",
+    "name": "The Exit 8",
+    "description": "Don't overlook any anomalies.\n\nIf you find anomalies, turn back immediately.\n\nIf you don't find anomalies, do not turn back.\n\nTo go out from Exit 8.\n\nThe Exit 8 is a short walking simulator inspired by Japanese underground passageways, liminal spaces and back rooms.",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20240417,
+    "first_update_release_date": 20240419,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240702
+    },
+    "versions": {
+        "131072": 20240419,
+        "196608": 20240510,
+        "262144": 20240524,
+        "327680": 20240605,
+        "393216": 20240702
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "You are trapped in an endless underground passageway. Observe your surroundings carefully to reach \"The Exit 8\".",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Violence"
+    ],
+    "region": null
 }

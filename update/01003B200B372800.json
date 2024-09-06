@@ -1,4 +1,42 @@
 {
     "id": "01003B200B372800",
-    "version": 262144
+    "base_tid": "01003B200B372000",
+    "name": "Hyper Light Drifter - Special Edition",
+    "description": "The wait is over, the worldwide acclaimed game Hyper Light Drifter is finally here with this impressive Special Edition!\n\nRuns at 60fps, includes new exclusive content and all the previously released remastered for a perfectly inmersive gaming experience to play anywhere.\n\nExplore a beautiful, vast and ruined world riddled with dangers and lost technologies. Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16­bit classics, with modernized mechanics and designs on a much grander scale.\n\nFeatures:\nMaximum quality 60 fps\nPlay it anywhere, alone or with a friend!\nExclusive Nintendo Switch™ content:\n- Find secrets with the help of the new outfit\n- Complete the Tower Climb challenge\n- Freeze your enemies with the Crystal Shot\n- Master the deadly Blade Caster",
+    "publisher": "Abylight",
+    "developer": null,
+    "base_release_date": 20180906,
+    "first_update_release_date": 20180828,
+    "latest_update_release_date": 20210310,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210310
+    },
+    "versions": {
+        "65536": 20180828,
+        "131072": 20181018,
+        "196608": 20190127,
+        "262144": 20210310
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Drift up in a mysterious world to find a cure for a deadly illness... traverse a dark, detailed land with vicious enemies and secrets abound.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

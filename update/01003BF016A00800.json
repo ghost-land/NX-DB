@@ -1,4 +1,37 @@
 {
     "id": "01003BF016A00800",
-    "version": 65536
+    "base_tid": "01003BF016A00000",
+    "name": "Gomoku Let's Go",
+    "description": "Gomoku Let's Go is a classic strategy board game. The goal is to make a line of five stones in any direction.\n\n-Stunning Zen style Gomoku set and beautiful environment\n-World-class AI with 8 difficulty levels, suits for both beginners and advanced players.\n-Demonstrate your skills in 50 carefully selected challenges\n-Includes both standard and Renju rules",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20220127,
+    "first_update_release_date": 20220330,
+    "latest_update_release_date": 20220330,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220330
+    },
+    "versions": {
+        "65536": 20220330
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Classic board game with a Zen style!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

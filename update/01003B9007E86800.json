@@ -1,4 +1,42 @@
 {
     "id": "01003B9007E86800",
-    "version": 524288
+    "base_tid": "01003B9007E86000",
+    "name": "Hammerwatch",
+    "description": "The highly acclaimed hack and slash action adventure Hammerwatch is finally here on Nintendo Switch!\n \nBe prepared to kill hordes of enemies with varied looks and features through unique environments with traps, hidden secrets and lots of puzzles. \n\nMaster each of 7 different classes, including The Sorcerer, a new class coming first to consoles. Unlock and upgrade the unique abilities of each class as you progress through the game.\n\nPlay solo or co-op from bottom to top of Castle Hammerwatch in the beautiful fantasy pixel art environment. Then crawl around the desert in the Temple of the Sun Expansion or try to survive in the hero defense and survival modes.\n\nGather your friends and unleash your powers in a memorable couch-play session!\n\nKEY FEATURES\n7 different classes, with unique features and skills\nCharacter development through unlocks and upgrades\n2 campaigns (Castle Hammerwatch, Temple of the Sun)\n2 extra modes (Hero defense, Survival)\nHard, medium and easy of course\nCustomize difficulty with several different modifiers\nOnline & local multiplayer co-op, for up to four players\n\nCOMING FIRST TO CONSOLES:\nBrand new class: The Sorcerer\nTons of balance changes to classes\nImproved character art",
+    "publisher": "BlitWorks",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20180122,
+    "latest_update_release_date": 20220826,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220826
+    },
+    "versions": {
+        "65536": 20180122,
+        "196608": 20181128,
+        "262144": 20181204,
+        "327680": 20190108,
+        "393216": 20200717,
+        "458752": 20200825,
+        "524288": 20220826
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

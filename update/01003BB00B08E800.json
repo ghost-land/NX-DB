@@ -1,4 +1,45 @@
 {
     "id": "01003BB00B08E800",
-    "version": 196608
+    "base_tid": "01003BB00B08E000",
+    "name": "Hidden Folks",
+    "description": "A strip of targets shows you what to look for. Tap a target for a hint, and find enough to unlock the next area.\n\n- 32 hand-drawn areas\n- 300+ targets to find\n- 2000+ mouth-originated sound effects\n- 500+ unique interactions\n- 3 supported play modes: TV mode, Tabletop mode, and Handheld mode\n- 3 color modes: normal, sepia, and night mode\n- 22 languages (translated by the community)",
+    "publisher": "Adriaan de Jongh",
+    "developer": null,
+    "base_release_date": 20181031,
+    "first_update_release_date": 20181128,
+    "latest_update_release_date": 20200813,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200813
+    },
+    "versions": {
+        "65536": 20181128,
+        "131072": 20181212,
+        "196608": 20200813
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooaarr!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

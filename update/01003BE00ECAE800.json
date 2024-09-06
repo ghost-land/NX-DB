@@ -1,4 +1,34 @@
 {
     "id": "01003BE00ECAE800",
-    "version": 65536
+    "base_tid": "01003BE00ECAE000",
+    "name": "Catch a Duck",
+    "description": "Face the challenge of catching ducks in a funny hand drawn forest. Outsmart hunters, cause a brawl between a wolf and a bear, use hideouts, move through underground tunnels, avoid traps but make enemies fall into them ! Be a sly fox !",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190729,
+    "first_update_release_date": 20190726,
+    "latest_update_release_date": 20190726,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190726
+    },
+    "versions": {
+        "65536": 20190726
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Simulation",
+        "RPG"
+    ],
+    "intro": "Take control of a fox and avoid any danger ahead of you. Travel through forest enjoying puzzles, tricking your enemies and hunting ducks.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

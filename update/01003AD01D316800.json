@@ -1,4 +1,43 @@
 {
     "id": "01003AD01D316800",
-    "version": 65536
+    "base_tid": "01003AD01D316000",
+    "name": "Planet of Lana",
+    "description": "A planet that used to be a place of undisturbed balance between human, nature, and animal has now become something else entirely. \n\nThe disharmony that had been in the making for hundreds of years has finally arrived in the form of a faceless army. But this is not a story about war. This is a story about a vibrant, beautiful planet –and the journey to keep it that way.\n\nKey Features\n• Unique companion-based gameplay.\n• Solve puzzles with diverse challenges and quirky twists.\n• Carefully navigate dangerous situations using stealth and wit.\n• Use your reflexes and survive challenging action sequences.\n• Discover an epic story that stretches across galaxies and centuries.",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20240416,
+    "first_update_release_date": 20240424,
+    "latest_update_release_date": 20240424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240424
+    },
+    "versions": {
+        "65536": 20240424
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "Welcome to an off-earth odyssey.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

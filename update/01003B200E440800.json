@@ -1,4 +1,33 @@
 {
     "id": "01003B200E440800",
-    "version": 131072
+    "base_tid": "01003B200E440000",
+    "name": "Five Nights at Freddy's: Sister Location",
+    "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\n\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.\n\nDon't hold it against us.",
+    "publisher": "Clickteam",
+    "developer": null,
+    "base_release_date": 20200710,
+    "first_update_release_date": 20200618,
+    "latest_update_release_date": 20201215,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201215
+    },
+    "versions": {
+        "65536": 20200618,
+        "131072": 20201215
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Now hiring: Late night technician for late night repair work at world famous \"Circus Baby's Pizza World\". Apply now! Not responsible for death or dismemberment.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

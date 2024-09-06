@@ -1,4 +1,35 @@
 {
     "id": "01003AF019086800",
-    "version": 196608
+    "base_tid": "01003AF019086000",
+    "name": "GOODBYE WORLD",
+    "description": "程式設計師蟹井和畫師熊手是在專門學校認識的好朋友。\n畢業之後，兩人為了合力創作遊戲，決定不找特定的工作，但現實生活並沒有那麼簡單。\n他們的遊戲銷量不佳，為了維持生計，大部分時間都浪費在打工兼差上……\n就在蟹井絞盡腦汁，試圖創造出能夠暢銷的產品時，熊手做出了一個決定—— \n\n《GOODBYE WORLD》是一款偏重劇情的冒險遊戲。\n玩家將要挑戰包含12個關卡的平台解謎遊戲，同時體驗兩位主角共計13個章節的故事。",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20221116,
+    "latest_update_release_date": 20221212,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221212
+    },
+    "versions": {
+        "65536": 20221116,
+        "131072": 20221116,
+        "196608": 20221212
+    },
+    "category": [
+        "冒險",
+        "益智"
+    ],
+    "intro": "嚴酷的現實，逝去的熱情。這是一個關於兩名遊戲創作者的故事。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

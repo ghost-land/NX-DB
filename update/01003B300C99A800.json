@@ -1,4 +1,35 @@
 {
     "id": "01003B300C99A800",
-    "version": 131072
+    "base_tid": "01003B300C99A000",
+    "name": "Fate/EXTELLA LINK",
+    "description": "Fate/EXTRA系列最新作品『Fate/EXTELLA LINK』始動！ 「Fate」系列的英靈們跨越作品框架一同參戰。可在場域上自由馳騁、使用寶具等華麗招式進行戰鬥的動作遊戲。 本作亦加入了新參戰的英靈、進化的圖像及系統，以及新的劇本等多種全新要素！ 新的英靈，新的戰場。以及新的對戰者們―――月之新天地，在此新生！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190131,
+    "first_update_release_date": 20190129,
+    "latest_update_release_date": 20190312,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190312
+    },
+    "versions": {
+        "65536": 20190129,
+        "131072": 20190312
+    },
+    "category": [
+        "動作",
+        "格鬥",
+        "冒險"
+    ],
+    "intro": "Fate/EXTELLA系列最新作品始動！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

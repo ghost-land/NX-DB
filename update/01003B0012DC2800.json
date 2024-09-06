@@ -1,4 +1,41 @@
 {
     "id": "01003B0012DC2800",
-    "version": 196608
+    "base_tid": "01003B0012DC2000",
+    "name": "Shin Megami Tensei III Nocturne HD Remaster",
+    "description": "What begins as a normal day in Tokyo turns out to be everything but, when the Conception – an ethereal apocalypse – is invoked.  The remains of the world are swallowed by chaos, as a demonic revolution descends into a broken city.  Caught between a battle of Gods and demons, the choices you make can bring life, rebirth, or death, and determine who triumphs.  \n\nThis genre-defining, infamously punishing RPG is back and now includes: \nRemastered 3D models and backgrounds \nAdditional difficulty settings for players of all skill levels \nSuspend save -- save your progress whenever you need!  \nVoiced audio -- choose between Japanese and English VO ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210524,
+    "first_update_release_date": 20210518,
+    "latest_update_release_date": 20210924,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210924
+    },
+    "versions": {
+        "65536": 20210518,
+        "131072": 20210708,
+        "196608": 20210924
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Reawaken your inner demon in a modernized version of the acclaimed ATLUS classic, Shin Megami Tensei III Nocturne HD Remaster.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

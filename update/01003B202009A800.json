@@ -1,4 +1,41 @@
 {
     "id": "01003B202009A800",
-    "version": 65536
+    "base_tid": "01003B202009A000",
+    "name": "DICE MAKE 10!",
+    "description": "This is a puzzle in which dice are connected to form blocks that fit together on the board.\nBlocks are erased when they are a multiple of 10 in both the vertical and horizontal directions.\n\nThree modes are available, from an easy mode with a fixed number of moves to an arranged mode with a completely different playing style.\n\nThis is a new puzzle game that tests your puzzle and simple math skills.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20240829,
+    "first_update_release_date": 20240828,
+    "latest_update_release_date": 20240828,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240828
+    },
+    "versions": {
+        "65536": 20240828
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Board Game",
+        "Study"
+    ],
+    "intro": "New type puzzle uses dice and make 10.\nTwo modes of puzzles, “Inserting Puzzle” and “Falling Block Puzzle”, are available",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

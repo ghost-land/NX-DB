@@ -1,4 +1,34 @@
 {
     "id": "01003B801712E800",
-    "version": 65536
+    "base_tid": "01003B801712E000",
+    "name": "食屍者的冒險飯",
+    "description": "「食屍者的冒險飯」是在怪物密布的迷宮中收集食材及材料，製作料理並嘗試逃出生天的生存冒險RPG。\n該怎麼活用食材，將是冒險關鍵。例如用「冒險飯」來強化角色，或是以腐壞食物弱化怪物等等。\n\n概要\n冒險者們踏進了據說是適合新手冒險者的迷宮，卻困於其中。\n冒險者們在飢渴交迫的極限狀態下發現了巨大怪物的屍體……\n總算脫離餓死危機的冒險者們決定要尋找迷宮的出口。\n不管是美味料理還是奇異食材都全部吃下肚，並嘗試逃出生天吧。",
+    "publisher": "NIHONICHI",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20220905,
+    "latest_update_release_date": 20220905,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220905
+    },
+    "versions": {
+        "65536": 20220905
+    },
+    "category": [
+        "角色扮演",
+        "模擬",
+        "策略"
+    ],
+    "intro": "吃遍世間萬物，成為人上之人！\n異食的迷宮探索生存冒險SRPG！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
