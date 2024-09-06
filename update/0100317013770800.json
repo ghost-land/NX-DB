@@ -1,4 +1,43 @@
 {
     "id": "0100317013770800",
-    "version": 393216
+    "base_tid": "0100317013770000",
+    "name": "MARIO + RABBIDS SPARKS OF HOPE",
+    "description": "Team up with Mario, Luigi, Princess Peach, Rabbid Peach, Rabbid Luigi, and their friends on a galactic journey to defeat a malevolent entity and save your Spark companions. Explore planets throughout the galaxy as you uncover mysterious secrets and compelling quests!\n\n•Build your dream team with three heroes from an eclectic roster of nine.\n•Take down all new bosses, along with some familiar enemies throughout the galaxy. \n•Rescue the adorable Sparks throughout the galaxy, who provide distinct powers that will help you in battle. \n•Unleash your heroes' skills but be strategic as you dash your enemies, team jump on your allies, and hide behind covers.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20221005,
+    "latest_update_release_date": 20230816,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230816
+    },
+    "versions": {
+        "65536": 20221005,
+        "131072": 20221201,
+        "196608": 20230228,
+        "327680": 20230621,
+        "393216": 20230816
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

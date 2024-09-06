@@ -1,4 +1,36 @@
 {
     "id": "010031D012BA4800",
-    "version": 131072
+    "base_tid": "010031D012BA4000",
+    "name": "Azurebreak Heroes",
+    "description": "Escape the Prison-World!\nThrough the bizarre, colorful, yet dark areas of Heldia, Heroes look for a way to escape a demonic grasp.\n\nAzurebreak Heroes is a 2D RPG with roguelite elements. Battle otherworldly creatures, enhance your skills, unlock new heroes and choose the upgrades you want while looking for a way to escape a prison-world of Heldia.\n\nFeatures:\n- A responsive, real-time combat system.\n- 6 playable heroes, each with its own skill tree and perks!\n- Create builds by choosing artifacts you want! All of the artifacts synergize with each other.\n- Random level layouts.\n- 3 possible endings to uncover.\n- Secrets!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220109,
+    "first_update_release_date": 20201113,
+    "latest_update_release_date": 20201207,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201207
+    },
+    "versions": {
+        "65536": 20201113,
+        "131072": 20201207
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Delve through dark caves, mystic temples, strange woods and other mysterious areas in a colorful world of Heldia in this 2D RPG with roguelite and permanent progression elements.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

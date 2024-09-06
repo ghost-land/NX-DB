@@ -1,4 +1,45 @@
 {
     "id": "010031E00EA24800",
-    "version": 393216
+    "base_tid": "010031E00EA24000",
+    "name": "Under the Jolly Roger",
+    "description": "Under the Jolly Roger is offering an ultimate ability to free roam three vast worlds filled with dozens of colonies and forts, hundreds of quests, and countless ships to plunder.\n\nYou can trade, fight, explore on your own, or call friends to do the same together!\nSet your foot on the land to plunder it!\n\nGame features:\n- Limitless sailing in real-time - use Global Map only if you want to!\n- A system of leveling your pirates, let them grow from sailor boys to skilled old salts!\n- Hundreds of quests\n",
+    "publisher": "HeroCraft",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20211228,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20211228
+    },
+    "versions": {
+        "65536": 20200813,
+        "131072": 20200908,
+        "196608": 20200923,
+        "262144": 20210405,
+        "327680": 20210406,
+        "393216": 20211228
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Open World Pirate Action RPG",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

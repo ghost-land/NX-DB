@@ -1,4 +1,49 @@
 {
     "id": "0100317014B7C800",
-    "version": 327680
+    "base_tid": "0100317014B7C000",
+    "name": "Bomb Rush Cyberfunk",
+    "description": "Start your own cypher and dance, paint graffiti, collect beats, combo your tricks and face off with the cops to stake your claim to the sprawling metropolis of New Amsterdam.\n\nRed is a graffiti writer who lost his head and instead has a Cyberhead. In search of his roots he joins the Bomb Rush Crew, Tryce and Bel, who are aiming to go All City. Together they slowly discover who it was that cut off his head and how deep Red's human side is linked to the graffiti world.",
+    "publisher": "Team Reptile",
+    "developer": null,
+    "base_release_date": 20230818,
+    "first_update_release_date": 20230819,
+    "latest_update_release_date": 20240614,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240614
+    },
+    "versions": {
+        "65536": 20230819,
+        "131072": 20230913,
+        "196608": 20230913,
+        "262144": 20231031,
+        "327680": 20240614
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Sports",
+        "Lifestyle"
+    ],
+    "intro": "Bomb Rush Cyberfunk is 1 second per second of advanced funkstyle. Battle rival crews and dispatch militarized police to conquer the five boroughs of New Amsterdam. Become All City.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

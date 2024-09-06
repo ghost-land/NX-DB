@@ -1,4 +1,34 @@
 {
     "id": "010031B012254800",
-    "version": 131072
+    "base_tid": "010031B012254000",
+    "name": "Everyday♪ Today's MENU for EMIYA Family",
+    "description": "The video game adaptation of the deliciously heartwarming world of “Today's MENU for EMIYA Family” is finally here!\n\nWatch as Saber,Sakura,and Rin slice,stir-fry,bake,and deep-fry their way through a mountain of recipes!\nWhat culinary delights will they grace us with next!?\nOf course, the game wouldn't be complete without everyone gathering together to enjoy these mouthwatering dishes!\n\nThe game features popular recipes from the original manga, along with a bevy of exclusive story content of its own!\nExperience the blending of the “Fate” universe and culinany world in this fun kitchen adventure!\n",
+    "publisher": "Aniplex",
+    "developer": null,
+    "base_release_date": 20210602,
+    "first_update_release_date": 20210811,
+    "latest_update_release_date": 20210917,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210917
+    },
+    "versions": {
+        "65536": 20210811,
+        "131072": 20210917
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Would you like to cook with me?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

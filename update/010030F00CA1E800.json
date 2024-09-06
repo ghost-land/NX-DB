@@ -1,4 +1,41 @@
 {
     "id": "010030F00CA1E800",
-    "version": 131072
+    "base_tid": "010030F00CA1E000",
+    "name": "Vaporum",
+    "description": "Vaporum is a grid-based dungeon crawler RPG in an original steampunk setting, inspired by old-school classics of the genre. Stranded in the middle of an ocean, in front of a gigantic tower, the hero has to find out what the place is, what happened there, and most importantly, who he is. ",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20190411,
+    "first_update_release_date": 20190417,
+    "latest_update_release_date": 20190525,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190525
+    },
+    "versions": {
+        "65536": 20190417,
+        "131072": 20190525
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null
 }

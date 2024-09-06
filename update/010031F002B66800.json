@@ -1,4 +1,37 @@
 {
     "id": "010031F002B66800",
-    "version": 65536
+    "base_tid": "010031F002B66000",
+    "name": "Mr. Shifty",
+    "description": "Shift through bullets, and master lightning-fast takedowns in an all new kind of action game from tinyBuild and Team Shifty! Mr. Shifty follows a teleportation-fueled heist to break into the world's most secure facility.",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20170414,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

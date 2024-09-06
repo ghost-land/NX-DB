@@ -1,4 +1,35 @@
 {
     "id": "010031501EF2C800",
-    "version": 196608
+    "base_tid": "010031501EF2C000",
+    "name": "Matsutake Game",
+    "description": "Stick the same mushrooms together to evolve! \nAim for a high score by changing mushrooms to prevent them from overflowing the basket!\nIf the basket overflows, the game is over.\nAim for a high score by creating large matsutake mushrooms!\n\nMode\nThere are two modes: \"Normal Mode\" and \"Shiitake Mode\" with only Shiitake mushrooms!\n",
+    "publisher": "Mamekujira",
+    "developer": null,
+    "base_release_date": 20240502,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240510,
+        "131072": 20240514,
+        "196608": 20240719
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Board Game",
+        "Simulation"
+    ],
+    "intro": "Aim for a high score by creating large matsutake mushrooms!\nStick mushrooms together to evolve them!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

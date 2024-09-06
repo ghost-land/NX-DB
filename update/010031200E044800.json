@@ -1,4 +1,53 @@
 {
     "id": "010031200E044800",
-    "version": 917504
+    "base_tid": "010031200E044000",
+    "name": "Two Point Hospital™",
+    "description": "*FREE UPDATE ALERT! Here it is! Sandbox: Freeplay mode is OUT NOW*\n\nBUILD, CURE and IMPROVE! Design stunning hospitals, decorate them as you like, cure very unusual illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.\n\nTwo Point Hospital includes two DLC - \"Bigfoot\" and \"Pebberley Island\"\n\nDesign and build your own hospital\n\nBuild up a hospital from nothing to a masterpiece as you design the most beautiful – or functional – healthcare operation in the whole of Two Point County. \n\nCure unusual illnesses\n\nDon’t expect Two Point County to be populated with your usual types of patients. In this world, you’ll experience Two Point's trademark quirky illnesses; from Light-headedness to Cubism – each requiring their very own special type of treatment machine. \n\nThe County's the limit\n\nYour first hospital is where it begins, but what next? ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20220809,
+    "first_update_release_date": 20200225,
+    "latest_update_release_date": 20220404,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20220404
+    },
+    "versions": {
+        "65536": 20200225,
+        "131072": 20200317,
+        "196608": 20200618,
+        "262144": 20200922,
+        "458752": 20210304,
+        "524288": 20210315,
+        "589824": 20210324,
+        "655360": 20210526,
+        "720896": 20210730,
+        "851968": 20220204,
+        "917504": 20220404
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "The hit hospital building management sim comes to console for the first time!",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Crude Humor",
+        "Users Interact"
+    ],
+    "region": null
 }

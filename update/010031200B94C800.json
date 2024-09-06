@@ -1,4 +1,49 @@
 {
     "id": "010031200B94C800",
-    "version": 393216
+    "base_tid": "010031200B94C000",
+    "name": "My Friend Pedro",
+    "description": "My Friend Pedro is a violent ballet about friendship, imagination, and one man’s struggle to obliterate anyone in his path at the behest of a sentient banana. The strategic use of split aiming, slow motion, and the ol’ stylish window breach create one sensational action sequence after another in an explosive battle through the violent underworld.\n\nUnleash a torrent of destruction with an incredible level of control over both your weapons and your body. Twist and turn through the air while aiming both hands at priority threats or line up a perfect ricochet to drop an unsuspecting gangster from behind.\n\nBreak up the high octane running and gunning a bit with dynamic sequences like a thrilling motorcycle chase or slow it all down and take a moment to think through a series of clever (and possibly fatal) physics-based puzzles.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20190620,
+    "first_update_release_date": 20190619,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20190619,
+        "196608": 20191017,
+        "262144": 20200319,
+        "327680": 20210701,
+        "393216": 20221115
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

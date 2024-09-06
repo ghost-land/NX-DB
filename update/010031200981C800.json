@@ -1,4 +1,34 @@
 {
     "id": "010031200981C800",
-    "version": 65536
+    "base_tid": "010031200981C000",
+    "name": "Grid Mania",
+    "description": "Solve over 170 levels in 4 different modes:\n \nCasual Puzzle – No pressure, place each ball on its right spot without worrying about the number of moves you can make.\nQuick Challenge – Levels must be completed in just a few moves. There is probably only one solution, can you find it?\nGrid Madness – Make the most of your brainpower to fill the whole level with colors in Match-3 style game.\nChain Reaction – Build large chains of balls of the same color in a fun but mind-boggling maze.\n \nIf you manage to solve all those riddles, the challenge is not yet over: Grid Mania generates random levels which might prove even more puzzling to wrap your head around.\n \nFeatures:\n-    4 game modes\n-    170 custom-crafted levels\n-    Randomly generated levels\n-    Chilly music\n-    Great for short gaming sessions\n-    Real challenge for your brain",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20180303,
+    "first_update_release_date": 20180411,
+    "latest_update_release_date": 20180411,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180411
+    },
+    "versions": {
+        "65536": 20180411
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Training",
+        "Board Game"
+    ],
+    "intro": "Put your brain to the test with Grid Mania, simple but challenging logical puzzle game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "010030E017C6C800",
-    "version": 131072
+    "base_tid": "010030E017C6C000",
+    "name": "Words With Freds",
+    "description": "Words With Freds is a simple word game where you must guess the randomly picked word within six tries. Every wrong guess will give you hints that will guide you to the answer!",
+    "publisher": "Mokuzai Studio",
+    "developer": null,
+    "base_release_date": 20220303,
+    "first_update_release_date": 20220325,
+    "latest_update_release_date": 20220416,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220416
+    },
+    "versions": {
+        "65536": 20220325,
+        "131072": 20220416
+    },
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Education"
+    ],
+    "intro": "Guess the word in six tries or less!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

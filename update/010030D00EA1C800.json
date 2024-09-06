@@ -1,4 +1,38 @@
 {
     "id": "010030D00EA1C800",
-    "version": 65536
+    "base_tid": "010030D00EA1C000",
+    "name": "Sparkle 4 Tales",
+    "description": "Begin the emotional journey and start as a small spark of life. Move out of the depths into the bright and peaceful place of grown species. Immerse yourself in the atmospheric surroundings from the beginnings of life, and the beautiful soundtrack to complement your experience.\n\nHave a conversation with the Creator to determine your future. Will you grow into a peaceful being, a bloodthirsty carnivore or something in between? Explore the Void and find your destiny. Become a magnificent being and explore your potential in a unique story.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200131,
+    "first_update_release_date": 20210419,
+    "latest_update_release_date": 20210419,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210419
+    },
+    "versions": {
+        "65536": 20210419
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "\"There you are, my little thing... Wondering who am I?\nLet's start here, with your first experience of life...\nMaybe it will lead us somewhere. Shall we?\"",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "010030F015C8C800",
-    "version": 131072
+    "base_tid": "010030F015C8C000",
+    "name": "Smoots Golf",
+    "description": "Visit golf courses in 5 unique locations for a fun and endless multiplayer golf experience! \n\n- 45 different golf holes to master. Get precise shots with touch controls and go for the Hole-In-One!\n\n- 20 different minigolf holes to master. Get precise shots with touch controls and go for the Hole-In-One!\n\n- In Smoots Golf you can challenge your friends in Tournaments and Exhibition mode or hone your skills in Training mode.\n\nChoose your Smoot and become a Golf Champion!",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20211119,
+    "first_update_release_date": 20211111,
+    "latest_update_release_date": 20220124,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220124
+    },
+    "versions": {
+        "65536": 20211111,
+        "131072": 20220124
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Will you be the Golf Champion?\nHit the green with your friends at over 40 holes!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
