@@ -1,4 +1,49 @@
 {
     "id": "0100AED0186E4800",
-    "version": 327680
+    "base_tid": "0100AED0186E4000",
+    "name": "Montezuma's Revenge: 8-Bit Edition",
+    "description": "Explore the chambers of the mysterious Aztec pyramid in Montezuma's Revenge: 8-Bit Edition! Climb the stairs and ropes, collect keys to open doors! Collect the jewels & swords, and the coveted torch! Beware of the snakes, skulls and spiders! And finally, find the treasure room at the end of the underground labyrinth!\n\nThe Montezuma's Revenge: 8-Bit Edition includes features such as level selection, rumble, photos from the 80's, a manual, and a map included to help you traverse the maze!",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20230216,
+    "first_update_release_date": 20230121,
+    "latest_update_release_date": 20231127,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231127
+    },
+    "versions": {
+        "65536": 20230121,
+        "131072": 20230127,
+        "196608": 20230810,
+        "262144": 20231101,
+        "327680": 20231127
+    },
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The game you loved from the 80's is out for Nintendo Switch™! Avoid skulls, spiders and snakes while you explore the pyramid and collect treasure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

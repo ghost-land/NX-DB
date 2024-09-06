@@ -1,4 +1,34 @@
 {
     "id": "0100AF801828A800",
-    "version": 131072
+    "base_tid": "0100AF801828A000",
+    "name": "Adrian's Tale",
+    "description": "For this purpose the Hero has to travel a lot, search for various items and weapons as well as solve puzzles, fight against enemies and bosses.",
+    "publisher": "Badri Bebua",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20221121,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20221121,
+        "131072": 20230322
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "One day most of the animals disappeared and Hero has to find out what happened the night when animals have disappeared and bring them back. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

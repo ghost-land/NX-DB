@@ -1,4 +1,36 @@
 {
     "id": "0100AFC00F7B6800",
-    "version": 131072
+    "base_tid": "0100AFC00F7B6000",
+    "name": "Stones of the Revenant",
+    "description": "Stones of the Revenant is inspired by retro arcade beat-em-ups mixed with elements from your favorite classic action-platformers. Choose from six playable heroes; Radcliffe the Knight, Halvar the Barbarian, Brielle the Sorceress, Galina the Ranger, Isaak the Thief, and Fritz the Tinkerer. Each with their own unique playstyle! Pair up with a friend via local co-op or fight your way solo through the Revenant's followers and their undead minions. Destroy powerful artifacts known as the Stones of the Revenant and defeat the Revenant himself. Don't let looks fool you! This is a challenging quest to save the realm of the living... Are you up for it? \n\nGame Features: \n\nSix unique playable characters\nTwo-player Local Co-op\nRetro arcade style gameplay\nBeautiful pixel art graphics\nFantastic chiptune soundtrack\n",
+    "publisher": "ChickenCat Games",
+    "developer": null,
+    "base_release_date": 20200331,
+    "first_update_release_date": 20200327,
+    "latest_update_release_date": 20200825,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200825
+    },
+    "versions": {
+        "65536": 20200327,
+        "131072": 20200825
+    },
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Destroy the stones and defeat the Revenant! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

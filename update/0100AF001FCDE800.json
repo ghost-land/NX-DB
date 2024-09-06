@@ -1,4 +1,34 @@
 {
     "id": "0100AF001FCDE800",
-    "version": 196608
+    "base_tid": "0100AF001FCDE000",
+    "name": "SUSHI Drop",
+    "description": "Drop sushi onto the sushi geta below!\nPile them up, but be careful not to let them fall onto the counter!\n\n[Score Attack]\nIncrease your score and aim for the top of the global leaderboards!\n\n[Battle]\nDrop sushi and battle with up to 4 players until only 1 player remains!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240808,
+    "first_update_release_date": 20240804,
+    "latest_update_release_date": 20240806,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240806
+    },
+    "versions": {
+        "131072": 20240804,
+        "196608": 20240806
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Simulation",
+        "Party"
+    ],
+    "intro": "Drop sushi and stack them up!\nGrow your sushi stack bigger and taller, and aim for a new high score!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

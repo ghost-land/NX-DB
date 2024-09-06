@@ -1,4 +1,47 @@
 {
     "id": "0100AF700BCD2800",
-    "version": 327680
+    "base_tid": "0100AF700BCD2000",
+    "name": "Game Dev Story",
+    "description": "Manage your own game company and try to create a million-selling game in this unique simulation.\n\nFeatures the ability to develop your company's own game console, plus a system for changing your staff members' professions.\n\nYour staff members can have a variety of game-related professions, from programmer to sound engineer.\n\nWork hard and you may reach the top of the video game industry!\n\n--\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20181011,
+    "first_update_release_date": 20190508,
+    "latest_update_release_date": 20220421,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220421
+    },
+    "versions": {
+        "65536": 20190508,
+        "196608": 20210422,
+        "262144": 20210820,
+        "327680": 20220421
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "RPG",
+        "Board Game"
+    ],
+    "intro": "Work hard and you may reach the top of the video game industry!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

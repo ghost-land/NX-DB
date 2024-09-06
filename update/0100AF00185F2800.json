@@ -1,4 +1,38 @@
 {
     "id": "0100AF00185F2800",
-    "version": 131072
+    "base_tid": "0100AF00185F2000",
+    "name": "RWBY: Arrowfell",
+    "description": "Dive into an explosive new RWBY action-adventure! Instantly switch between all four members of Team RWBY — Ruby Rose, Weiss Schnee, Blake Belladonna, and Yang Xiao Long — and use their signature weapons and Semblances to battle the Creatures of Grimm and other foes in this in-canon story set during RWBY Volume 7. Featuring voiceovers from RWBY's original cast, all-new cutscenes from the team behind the show, and a brand-new theme song by Jeff Williams and Casey Lee Williams, RWBY: Arrowfell lets you explore Atlas and the surrounding areas to solve environmental puzzles, slay massive bosses, power up with Skill Points, and interact with characters such as Penny, Winter, and General Ironwood, as well as the enigmatic new team of Huntresses, Team BRIR! Only Team RWBY can protect Remnant from a mysterious new threat in RWBY: Arrowfell!\n\nKey Features:\n• Play as all four members of Team RWBY — Ruby, Weiss, Blake, and Yang — each with their own weapons and abilities! Switch between them at any time!\n• Use each character's Semblances to get an edge in combat and solve puzzles!\n• Featuring the talents of RWBY's original vocal cast, plus a new theme song by Jeff Williams with vocals by Casey Lee Williams!\n• An all-new canonical story set during RWBY Volume 7 from RWBY writers Kerry Shawcross, Miles Luna, and Eddy Rivas!\n• Explore a variety of nonlinear environments in Atlas, Mantle, and the surrounding areas!\n• Interact with familiar characters such as Penny, Winter, General Ironwood, and the Ace Operatives, as well as new faces such as Team BRIR!\n• Collect Skill Points to power up Team RWBY's stats!",
+    "publisher": "WayForward",
+    "developer": null,
+    "base_release_date": 20221115,
+    "first_update_release_date": 20230120,
+    "latest_update_release_date": 20230721,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230721
+    },
+    "versions": {
+        "65536": 20230120,
+        "131072": 20230721
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "The RWBY saga comes to life in an all-new chapter of the hit animated series!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

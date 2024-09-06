@@ -1,4 +1,40 @@
 {
     "id": "0100AFA01731E800",
-    "version": 262144
+    "base_tid": "0100AFA01731E000",
+    "name": "Howloween Hero",
+    "description": "A spooky trick-or-treat adventure about a mischievous puppy on a mission to score the evening's best candy. Create your costume, explore the neighborhood, and help your friends track down a menacing monster to save Halloween.\n\nCUSTOMIZE YOUR HERO\nPurchase new costumes from the neighborhood dealer and mix & match parts to create your own unique style.\n\nCOLLECT CANDY\nSniff out candy around the block, trick-or-treat nearby houses, and earn sweets by lending a paw to a cast of quirky kids.\n\nSOLVE THE MYSTERY\nThere's some strange stories going around about a REAL-LIFE monster stealing candy from unsuspecting kids. Is there any truth to these ghost stories or is everyone just getting into the spooky spirit?",
+    "publisher": "Gossamer Games",
+    "developer": null,
+    "base_release_date": 20221021,
+    "first_update_release_date": 20221027,
+    "latest_update_release_date": 20221202,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221202
+    },
+    "versions": {
+        "65536": 20221027,
+        "131072": 20221106,
+        "196608": 20221116,
+        "262144": 20221202
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other",
+        "RPG"
+    ],
+    "intro": "Trick-or-treat as an adorable dog on a spooky Halloween adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

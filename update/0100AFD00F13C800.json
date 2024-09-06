@@ -1,4 +1,37 @@
 {
     "id": "0100AFD00F13C800",
-    "version": 65536
+    "base_tid": "0100AFD00F13C000",
+    "name": "CHOP",
+    "description": "Accessible in its mechanics, it offers a real strategic dimension and a depth of gameplay that will put your skills to the test. \nOne hit to kill, respawn almost instantly. CHOP gives a feeling close to the constant adrenaline rush you can experience in fast FPS.\nIt speaks to those who like gore, comics, post-apo and are looking for a supercharged party game!\n\nThe game offers a unique twist with the Rush Out mode. Here, no matter how many players you kill. Your goal is to rush out through your portal as fast as possible. Don't worry, you still need to kill, as it's the only way to open the portal. \n\nFeatures:\n\n- From 1 to 4 player local multiplayer\n- Glorious dismemberments, delightful executions, silly gory graphics all wrapped up in a comic book style.\n- 3 game modes\n- 4 playable characters\n- 4 special abilities\n- Blistering moves\n- Various arenas \n- Random bonuses to spice up battles\n- Many options to customize your games",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20190913,
+    "first_update_release_date": 20191204,
+    "latest_update_release_date": 20191204,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191204
+    },
+    "versions": {
+        "65536": 20191204
+    },
+    "category": [
+        "Fighting",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "CHOP is a 2D arena fighting game with a lot of gore and fast-paced action. Swords will fly, bodies will be chopped, friendships will break!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

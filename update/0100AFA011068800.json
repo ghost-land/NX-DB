@@ -1,4 +1,35 @@
 {
     "id": "0100AFA011068800",
-    "version": 131072
+    "base_tid": "0100AFA011068000",
+    "name": "Voxel Pirates",
+    "description": "Voxel Pirates is a simple pick-up-and-play action game where you defeat enemies with a variety of weapons in an adorably quirky fantasy world of toys.\n\nA golden age of piracy has come upon the toy world of Voxel! Pirates roam the seas, spending their days gathering treasure. Set sail into a world of great ships, secret bases, and port towns!\n\n[Single]\nBecome a legendary sailor!\nUse weapons with a wide variety of effects.\nComplete missions on both land and sea!\n\n[Multi]\nPlayable by 2-4 players.\nWork together to defeat giant sea monsters\nand enemy pirate ships!\nExperience loyalty and betrayal in player battles!\n\n[Race Mode]\nTake to the seas on your ship in races!\nSmart use of items is the key to winning battles!\nCompete for the title of best helmsman!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20230627,
+    "first_update_release_date": 20200217,
+    "latest_update_release_date": 20221201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221201
+    },
+    "versions": {
+        "65536": 20200217,
+        "131072": 20221201
+    },
+    "category": [
+        "Party",
+        "Shooter",
+        "Fighting",
+        "Racing"
+    ],
+    "intro": "Compete for control of the seven seas with yer mateys in wild cooperative battles!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

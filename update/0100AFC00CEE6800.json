@@ -1,4 +1,32 @@
 {
     "id": "0100AFC00CEE6800",
-    "version": 65536
+    "base_tid": "0100AFC00CEE6000",
+    "name": "ダンジョンに出会いを求めるのは間違っているだろうかインフィニト・コンバーテ",
+    "description": "主人公「ベル・クラネル」のストーリーと共に外伝ソード・オラトリアの主人公「アイズ・ヴァレンシュタイン」のストーリーも楽しむことができます。2人の主人公それぞれの視点で多角的にストーリーを楽しむことができるのでゲーム性に深みがあります。プレイヤーは「迷宮都市オラリオ」を拠点としており、「ギルド」にて「クエスト」を受けることで仲間たちと「ダンジョン」（アクションRPG）へ向かいます。",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20191128,
+    "first_update_release_date": 20191113,
+    "latest_update_release_date": 20191113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191113
+    },
+    "versions": {
+        "65536": 20191113
+    },
+    "category": [
+        "ロールプレイング",
+        "アドベンチャー"
+    ],
+    "intro": "TVアニメ『ダンジョンに出会いを求めるのは間違っているだろうか』『ソード・オラトリア ダンジョンに出会いを求めるのは間違っているだろうか外伝』がゲーム化！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }
