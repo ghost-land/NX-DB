@@ -1,4 +1,41 @@
 {
     "id": "0100AE300D496800",
-    "version": 262144
+    "base_tid": "0100AE300D496000",
+    "name": "Epic Astro Story",
+    "description": "Ready to test your mettle against the final frontier?\n\nPioneer an untamed planet, building roads and houses for your fellow denizens of the future. Cultivate your quaint colony into a stellar space citadel, and you'll pull alien tourists from everywhere this side of Alpha Centauri!\n\nCareful though, not all intelligent life seeks souvenirs. Prepare to engage in heated battle with all manner of cosmic creatures! Win--and you just might be rewarded...\n\nStrap into your spacecraft, all systems are go for an epic astro adventure that'll warp you to light speed and beyond!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20190627,
+    "first_update_release_date": 20210323,
+    "latest_update_release_date": 20240624,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240624
+    },
+    "versions": {
+        "65536": 20210323,
+        "131072": 20210729,
+        "196608": 20220906,
+        "262144": 20240624
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "Battle baddies and foster interplanetary diplomacy in an epic space colony sim!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

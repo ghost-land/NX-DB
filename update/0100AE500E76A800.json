@@ -1,4 +1,48 @@
 {
     "id": "0100AE500E76A800",
-    "version": 655360
+    "base_tid": "0100AE500E76A000",
+    "name": "AeternoBlade II: Director's Rewind",
+    "description": "Welcome back to the world of AeternoBlade.\nHarness the AeternoBlade, and defy the abyss in this sequel to the fast-paced action/puzzle platformer. In AeternoBlade II, use the power of time itself to outwit your enemies and explore mysterious new dimensions. Jump between frenetic combat encounters and intriguing puzzle segments that require ingenious use of time.\nLet's adventure with Freyja, Bernard, Felix to the Chronosian for finding the 3 AeternoBlades and using its power to stop Dark Abyss. All stories will be unveiled in AeternoBlade II.\nCan you help Freyja protect her future?",
+    "publisher": "CORECELL",
+    "developer": null,
+    "base_release_date": 20191011,
+    "first_update_release_date": 20191008,
+    "latest_update_release_date": 20240212,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240212
+    },
+    "versions": {
+        "65536": 20191008,
+        "131072": 20191022,
+        "196608": 20191111,
+        "262144": 20200111,
+        "327680": 20201205,
+        "393216": 20210116,
+        "458752": 20210202,
+        "589824": 20230426,
+        "655360": 20240212
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

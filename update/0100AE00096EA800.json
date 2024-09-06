@@ -1,4 +1,36 @@
 {
     "id": "0100AE00096EA800",
-    "version": 65536
+    "base_tid": "0100AE00096EA000",
+    "name": "Hyrule Warriors: Definitive Edition",
+    "description": "Cut down enemy hordes as Legend of Zelda™ characters—in full 1080p TV mode—or in two-player on one system! Link and Zelda can battle in costumes from the Legend of Zelda: Breath of the Wild game, while Tetra and King Daphnes appear in scenes based on the Legend of Zelda™: The Wind Waker game. Find and care for fairies who will aid you in battle! All features and downloadable content from past versions of the game, including My Fairy mode and elements from The Legend of Zelda: The Wind Waker, can now be enjoyed in crisp HD on the Nintendo Switch™ system. This time, you won’t face the dark sorceress, Cia, alone. Command legendary heroes and villains in battle to achieve objectives as you unleash special attacks. Advance the story to unlock characters, each with their own moves and weapon types. Collect rupees and other items to upgrade weapons and craft badges, which bolster your warriors’ abilities. The fate of Hyrule rests in your hands!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180518,
+    "first_update_release_date": 20180425,
+    "latest_update_release_date": 20180425,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180425
+    },
+    "versions": {
+        "65536": 20180425
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "Save Hyrule on your TV—or on the go!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

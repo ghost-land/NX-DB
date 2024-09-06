@@ -1,4 +1,36 @@
 {
     "id": "0100AE300F5B4800",
-    "version": 65536
+    "base_tid": "0100AE300F5B4000",
+    "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+    "description": "‘Scheming Through The Zombie Apocalypse: The Beginning’ is the first episode of an episodic adventure game set in an anthropomorphic animal society. Help Hank & Larry find food and loot to survive through the harsh zombie infested streets by convincing other animals to do the work for you!\n\nUse Hank’s old salesmen techniques to convince other characters to help you loot items! \n\nFeaturing fully voiced dialog, experience a funny adult themed zombie apocalypse story.\n\nFeatures:\n * Bargain to convince animals to scavenge for you and split the loot.\n * Guide your scavenger in high-risk situations.\n * Trade items to earn the highest value.\n * Gamble items, if you too like to live dangerously. \n * Learn a thing or two about influencing others.\n * Survive the zombie apocalypse without working too hard.",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190920,
+    "first_update_release_date": 20211218,
+    "latest_update_release_date": 20211218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211218
+    },
+    "versions": {
+        "65536": 20211218
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Con your way through the zombie apocalypse!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Drug Use",
+        "Strong Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "0100ADC014CDE800",
-    "version": 131072
+    "base_tid": "0100ADC014CDE000",
+    "name": "The Last Worker",
+    "description": "The Last Worker is an immersive narrative adventure centered around a lone worker’s last stand in an increasingly automated world, The Last Worker is a unique blend of work simulation and stealth strategic gameplay. \n\nThe game is set in a lonely, oppressive but strangely beautiful environment, with characters designed by comics legend Mick McMahon.\n\nKurt works for the world’s largest retailer and is forced to choose between capitalism or activism. Having dedicated his life to work, Kurt’s loyalty is put to the test when a group of activists ask him to dismantle Jüngle from the inside.\n\nAboard his corporate issued flying JünglePod and armed with his multi-purpose JüngleGun, Kurt dispatches countless products from a fulfilment centre the size of the sunken city of Manhattan.\n\nKurt (voiced by Ólafur Darri Ólafsson) has dedicated his life to Jüngle, with only his co-bot, Skew (Jason Isaacs) to keep him company. But when S.P.E.A.R., a group of activists, asks Kurt to help dismantle Jüngle from the inside, Kurt is forced to discover his employer’s dark underbelly.\n\nThe Last Worker delivers an emotional, thought provoking and inspiring story with rich characters performed by an all-star cast starring, Jason Isaacs, Ólafur Darri Ólafsson, Clare-Hope Ashitey, David Hewlett, Zelda Williams and Tommie Earl Jenkins.",
+    "publisher": "Wired Productions",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230329,
+    "latest_update_release_date": 20230502,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230502
+    },
+    "versions": {
+        "65536": 20230329,
+        "131072": 20230502
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Welcome to the Jüngle",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Strong Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

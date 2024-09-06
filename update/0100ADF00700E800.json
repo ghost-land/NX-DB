@@ -1,4 +1,41 @@
 {
     "id": "0100ADF00700E800",
-    "version": 131072
+    "base_tid": "0100ADF00700E000",
+    "name": "Runbow",
+    "description": "With tons of competitive modes for up to nine players online and eight players locally and a massive Single Player Adventure, Runbow is the crazy, color-based platformer you've been waiting for. \nThe world of Runbow changes with each swipe of the background, so you'll have to stay on your toes as platforms and obstacles disappear - If you can't see it, it doesn't exist. Fast, frantic, and fun for up to nine players, Runbow is filled with tons of modes and content to keep you running back for more.\nGo head to head with your friends, locally or online, in Run, Arena, or King of the Hill, for a colorful, crazy competition. \nHundreds of pieces of unlockable Gallery content await you, from concept art to characters, and even a few hidden secrets...\nCrazy multiplayer, five game modes, 19 guest characters, hundreds of levels, and tons more content all in one unforgettable colorful game, you better get ready to Runbow!",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20180703,
+    "first_update_release_date": 20180914,
+    "latest_update_release_date": 20190513,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190513
+    },
+    "versions": {
+        "65536": 20180914,
+        "131072": 20190513
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Are You Ready To Runbow?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

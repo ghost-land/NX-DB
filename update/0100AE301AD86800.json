@@ -1,4 +1,43 @@
 {
     "id": "0100AE301AD86800",
-    "version": 65536
+    "base_tid": "0100AE301AD86000",
+    "name": "Dig Deep",
+    "description": "Shovel your way to success: go underground and dig for treasure like a mole on a mission. But don't worry, you won't get stuck in a hole - unless you forget to hire workers to boost your digging empire.\n\nThis game is the perfect blend of laziness and ambition. Your job is to sit back, relax, and let your hired diggers do the dirty work while you search for those sweet gems and diamonds. If you become the best miner around, you can even hire more gold diggers to expand your mining tycoon empire.\n\nGame Features:\n- dig, shovel, excavate, burrow and dredge a hole\n- mine gems and earn money to unearth more holes\n- hire workers to enable idle play\n- use powerups to speedup mining or buy pets for permanent buffs\n- build monuments for your glory\n- play with your friend to dig even deeper!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20230428,
+    "first_update_release_date": 20230520,
+    "latest_update_release_date": 20230520,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230520
+    },
+    "versions": {
+        "65536": 20230520
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Grab a shovel and let's get digging! \nJoin the adventure, hire miners and dig for a treasure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

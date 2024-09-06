@@ -1,4 +1,44 @@
 {
     "id": "0100AE7013B90800",
-    "version": 131072
+    "base_tid": "0100AE7013B90000",
+    "name": "Kingdom Tales 2",
+    "description": "A long time ago, there was a kingdom ruled by a fair king, Arnor. His daughter Dahla was the most beautiful and clever in the land. Noble lords from many kingdoms begged the King for his daughter's hand. No one was good enough for his Dahla. However, in absolute secret, young blacksmith Finn and Dahla were in love. Until one day their secret love was revealed! The king was furious!\n\nJoin the expedition of the King's builders and architects on their noble quest! Explore, gather, produce, trade, build, repair and work for the well-being of all of your subjects. But watch out! The greedy count Ohli and his spies never sleep!\n\n- Help Finn and Dala, the two young \"love-birds\" reunite\n- Find your way to glory through 40 exciting levels\n- Meet peculiar and funny characters along the way\n- Outsmart the greedy Count Ohli and his spies\n- Build the prosperous kingdom for all of your subjects\n- 3 difficulty modes: relaxed, normal and extreme",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210107,
+    "first_update_release_date": 20210126,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20210126,
+        "131072": 20210927
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Help young Finn and princess Dahla reunite in love!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

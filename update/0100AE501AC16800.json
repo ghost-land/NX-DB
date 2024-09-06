@@ -1,4 +1,44 @@
 {
     "id": "0100AE501AC16800",
-    "version": 589824
+    "base_tid": "0100AE501AC16000",
+    "name": "Hodgepodge Hunch",
+    "description": "Hodgepodge Hunch features a new kind of gameplay in which you'll cook up ingredients you've collected all while conversing with other characters to find out just who the traitor is. Up to four players can join in at a time, but if you're short on players, never fret—you'll be joined by trusty (or not-so-trusty) CPUs. No need to worry about how many players you've assembled, unlike board games. You're sure to enjoy this who-done-it game either way.\n\nHodgepodge Hunch is a who-done-it game where everyone chips in to make a hotpot dish. Collaborate with your buddies to collect ingredients in the dungeons and whip up a delicious feast. There's just one problem... A backstabber may be lurking among you who'll throw your dinner plans awry... Find out who it is while making the dish of your dreams!\n\nGame Rules:\nPlayers are divided into two roles: the Staff and the Spy. Each works to fulfill certain conditions to win. The Staff’s goal is to cook a delicious hotpot, venturing into dungeons to collect ingredients and charms that, when combined, have the potential to generate high scores. Staff can also “ban” other players to protect the final product, reducing the number of ingredients they can put into the pot. The Spy’s job is to thwart the Staff’s efforts. Certain ingredients are forbidden from the pot, or else the dish will transform into a dreaded Hodgepodge. The Spy must sneak these forbidden ingredients into the pot without the Staff noticing. They can also spread false rumors to make the Staff suspicious of one another.\n\nCPUs and Solo Mode:\nHodgepodge Hunch features CPUs that can join in the game, so no need to worry about having enough players—an all-too-common issue with who-done-it games. CPUs even appear in the Tutorials and Solo Mode, allowing those new to the genre to practice by themselves at their own pace.\n\nPlot:\nAfter an unexpected turn of events, former hero Cocotte changes occupations and finds herself working at a hotpot shop, vying for victory in the Hotpot Contest—a festival where participants flaunt their hotpot-preparation prowess. However, when honing her cooking skills alongside fellow staff, Cocotte discovers that their precious hotpot has been transformed into a dreaded Hodgepodge. \n\nCould there be a traitor among them…?\n\nThe Staff members grow suspicious of one another, but their shop is simultaneously invaded by demons, stalkers, and all sorts of assassins. \n\nIs there truly a Spy? If so, then who? And more importantly—can they still win the Hotpot Contest?!",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20231115,
+    "first_update_release_date": 20231130,
+    "latest_update_release_date": 20240619,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240619
+    },
+    "versions": {
+        "65536": 20231130,
+        "131072": 20231208,
+        "196608": 20240110,
+        "262144": 20240125,
+        "327680": 20240215,
+        "393216": 20240306,
+        "458752": 20240419,
+        "524288": 20240604,
+        "589824": 20240619
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Communication",
+        "Multiplayer"
+    ],
+    "intro": "Find out who it is while making the dish of your dreams!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

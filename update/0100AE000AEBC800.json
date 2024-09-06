@@ -1,4 +1,44 @@
 {
     "id": "0100AE000AEBC800",
-    "version": 458752
+    "base_tid": "0100AE000AEBC000",
+    "name": "Angels of Death",
+    "description": "\"Please... kill me.\" \n\"Help me get outta here, and I'll kill you.\" \n \nThis dark promise deepens the peculiar bond between two reluctant partners.\nWhere is this place in which they’ve found themselves trapped? \nWhy have they been imprisoned here? What does fate have in store for them? \nThus begins a dangerous and terrifying escape mission from a mysterious sealed building!",
+    "publisher": "Vaka Gamez",
+    "developer": null,
+    "base_release_date": 20180628,
+    "first_update_release_date": 20180627,
+    "latest_update_release_date": 20220401,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220401
+    },
+    "versions": {
+        "65536": 20180627,
+        "131072": 20180704,
+        "196608": 20180720,
+        "262144": 20191118,
+        "393216": 20210421,
+        "458752": 20220401
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The hit indie game, which has also been made into an anime, is coming to Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Horror Themes"
+    ],
+    "region": null
 }

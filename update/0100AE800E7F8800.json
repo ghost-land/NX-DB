@@ -1,4 +1,43 @@
 {
     "id": "0100AE800E7F8800",
-    "version": 65536
+    "base_tid": "0100AE800E7F8000",
+    "name": "Deleveled",
+    "description": "上にあがった物は下に落ちる…そして落ちたものはかならずバウンドするのだ！慣性をブロックからブロックへ運んでいき、1組のキューブでマップを縦横無尽に飛び回ろう。賢く慣性を保存しながらマップを移動、スイッチをすべて押していこう。だけど気をつけて。このゲームはジャンプができないから、一度落ちたらもう戻れない…\n\n120のレベルにはかならず4組のスイッチが備え付けられているんだ。けど、一体どれがペアになっているんだろう？どのペアを押さなきゃいけないのか、どうやったらスイッチへたどり着けるのか、見つけ出せなきゃこのユニークなパズルは攻略不可能。\n\n重力の限界を超えて、10のワールドを探検しよう。それぞれのワールドには独自の仕掛け、ボーナスレベル、チャレンジ、そしてシークレットが盛りだくさん！\n",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20200910,
+    "first_update_release_date": 20201001,
+    "latest_update_release_date": 20201001,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201001
+    },
+    "versions": {
+        "65536": 20201001
+    },
+    "category": [
+        "パズル",
+        "ストラテジー",
+        "その他",
+        "アーケード"
+    ],
+    "intro": "自分自身と協力プレイ\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

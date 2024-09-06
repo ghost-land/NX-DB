@@ -1,4 +1,32 @@
 {
     "id": "0100AE1017F12800",
-    "version": 65536
+    "base_tid": "0100AE1017F12000",
+    "name": "Tile Flip",
+    "description": "Experience a fun and unique puzzle game!\nFlip the tiles and make all colors match \nCan you complete all 100 levels?",
+    "publisher": "Entity3",
+    "developer": null,
+    "base_release_date": 20220325,
+    "first_update_release_date": 20220611,
+    "latest_update_release_date": 20220611,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220611
+    },
+    "versions": {
+        "65536": 20220611
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "RPG",
+        "Action"
+    ],
+    "intro": "Make all colors match",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100ADF014C2A800",
-    "version": 131072
+    "base_tid": "0100ADF014C2A000",
+    "name": "Emily Archer and the Curse of Tutankhamun",
+    "description": "Lady Archer is invited to Egypt to see the priceless treasure of King Tutankhamun by her friend Lord Carnarvon. \nShe arrives to find her dear friend murdered and the mask of Tutankhamun stolen. \nShe's on a mission to solve the murder and find the missing mask! Collect evidence, examine clues, and solve intricate riddles as you move closer to the truth. \nCan you help Lady Archer to solve this case?\n\nSearch scenes through 1920s Egypt, including excavations, tombs and hotel room. \nSearch for clues and missing objects to discover who's murdered Emily's friend Lord Carnarvon and find the missing treasure of Tutankhamun. \nWith puzzles round every corner players are also challenged to take on thrilling mini-games. The great gameplay is complemented by beautiful backgrounds and an engrossing soundtrack.\n\nFeatures:\n- Seek and find through locations of ancient Egypt, recreated in stunning detail\n- Solve a myriad of unique puzzles as you examine the evidence\n- Enjoy musical score to accompany you on your investigation\n- Interact with an engaging cast of characters in each scene\n- Trace the footsteps of the killer and piece together a case",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210415,
+    "first_update_release_date": 20210928,
+    "latest_update_release_date": 20221124,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221124
+    },
+    "versions": {
+        "65536": 20210928,
+        "131072": 20221124
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Help Lady Archer to solve the case behind murder mystery in Egypt.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

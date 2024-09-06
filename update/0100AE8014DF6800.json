@@ -1,4 +1,31 @@
 {
     "id": "0100AE8014DF6800",
-    "version": 65536
+    "base_tid": "0100AE8014DF6000",
+    "name": "ガーディアンフォース サターントリビュート",
+    "description": "ハンマーボルト帝国の野望を打ち砕くため\nフォースの力を持つ秘密結社ガーディアンの戦車が\nいま立ち向かう！\n\nサクセスが1998年にリリースした\n多方向強制スクロールシューティングゲームです。\n\n独自開発を行った「ゼブラエンジン」によりサターン時代の名作が復活。\n遊びやすさが超格段に進化する、ゲームの巻き戻しやスローモード、\nクイックセーブといった新機能も搭載。\nさらに、オンラインランキングも実装！",
+    "publisher": "サクセス",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20220211
+    },
+    "category": [
+        "アーケード",
+        "シューティング"
+    ],
+    "intro": "360度攻撃せよ！！\nサイバー戦車が活躍するシューティングゲーム\n「ガーディアンフォース」が時を越えて復活！！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

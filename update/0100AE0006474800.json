@@ -1,4 +1,38 @@
 {
     "id": "0100AE0006474800",
-    "version": 196608
+    "base_tid": "0100AE0006474000",
+    "name": "Stern Pinball Arcade",
+    "description": "Stern Pinball Arcade is the most realistic and accurate pinball game ever created!\n\nStern Pinball Inc® has created many of the all-time greatest pinball tables. They are the most experienced and largest producer of real pinball machines in business today! Modern classics in this collection include:\n\nGhostbusters™ Premium\nStar Trek™ Vengeance Premium\nMustang® Premium \"Boss\"\nHarley-Davidson® / Third Edition\nLast Action Hero™\nMary Shelley's Frankenstein™\nStarship Troopers™\nHigh Roller Casino™\nRipley's Believe it or Not!®\nPhantom of the Opera™",
+    "publisher": "FarSight Studios",
+    "developer": null,
+    "base_release_date": 20171213,
+    "first_update_release_date": 20180115,
+    "latest_update_release_date": 20180306,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180306
+    },
+    "versions": {
+        "65536": 20180115,
+        "131072": 20180125,
+        "196608": 20180306
+    },
+    "category": [
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very mild themes and coarse language"
+    ],
+    "region": null
 }

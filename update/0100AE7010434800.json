@@ -1,4 +1,33 @@
 {
     "id": "0100AE7010434800",
-    "version": 65536
+    "base_tid": "0100AE7010434000",
+    "name": "Beyond Enemy Lines - Remastered Edition",
+    "description": "The world is near of nuclear apocalypse, a soviet seperatist group captured the control chip of a military satelite. It is your job to recover the chip! Equipped with state of the art weapons and equipment, you operate in absolute secrecy as a lone wolf far beyond enemy lines.\n\nThink your way in, observe your enemies, sneak into their base and complete your objective. You have total freedom to choose your path - guns blazing or silent assassin - it's your choice! Beyond Enemy Lines is an unforgiving, intense experience where skill and tactical decisions matter!\n\nBeyond Enemy Lines: Remastered Edition contains a variety of of remastered content.\n\nOriginal Campaign\n8 mission long campaign with an average playtime of ~10h.\n\nOperation: Arctic Hawk - AddOn\nAn additional 4 mission long campaign set in the winter with an average playtime of ~3h.\n\n- Remastered game- and gunplay\n- Improved AI\n- Fully remastered Foliage with dense vegetation and more realistic forests\n- Improved effects and post processing",
+    "publisher": "Polygon Art",
+    "developer": null,
+    "base_release_date": 20210916,
+    "first_update_release_date": 20211209,
+    "latest_update_release_date": 20211209,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211209
+    },
+    "versions": {
+        "65536": 20211209
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Think your way in, observe your enemies, sneak into their base and complete your objective.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

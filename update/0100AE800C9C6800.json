@@ -1,4 +1,32 @@
 {
     "id": "0100AE800C9C6800",
-    "version": 65536
+    "base_tid": "0100AE800C9C6000",
+    "name": "Yoshi’s Crafted World™ Demo",
+    "description": "Yoshi’s Crafted World™ Demo",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20190213,
+    "first_update_release_date": 20190423,
+    "latest_update_release_date": 20190423,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190423
+    },
+    "versions": {
+        "65536": 20190423
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

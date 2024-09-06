@@ -1,4 +1,47 @@
 {
     "id": "0100AD701344C800",
-    "version": 196608
+    "base_tid": "0100AD701344C000",
+    "name": "Mighty Goose",
+    "description": "Assume the role of Mighty Goose and bring the fight to the Void King. This galaxy conquering monarch commands a vast army of minions and mechanised monsters. Dealing with these baddies means traveling to distant worlds and facing all kinds of dangers. But not to worry, this is no problem for the legendary Mighty Goose!\n\nMighty Goose is a fast paced run & gun shooter starring a bounty hunter Goose. Use epic weapons and devastating warmachines to battle against screen filling bosses and hordes of enemies! Apart from that solid arcade formula, the game has a ton of crazy weapons, companions, upgrades and secrets for you to discover.\n\n・Fast-paced run-and-gun experience with tight controls.\n・Battle against screen filling bosses that will test your skill, timing, and dodging\n・Customize your playing style using a combination of upgrade chips, secondary weapons and assist characters.\n・Pilot devastating war-machine vehicles to decimate large groups of enemies.\n・Beautifully crafted vibrant pixel art worlds, vehicles and characters.\n・An amazing soundtrack featuring crunchy synth-rock and funky jazz-fusion melodies. Composed by Dominic Ninmark (Moonrider, Blazing Chrome, Gravity Circuit).",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20210605,
+    "first_update_release_date": 20210605,
+    "latest_update_release_date": 20230103,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230103
+    },
+    "versions": {
+        "65536": 20210605,
+        "131072": 20220419,
+        "196608": 20230103
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Travel the galaxy and hunt down evil.\nThis is the life of Mighty Goose!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
