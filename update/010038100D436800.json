@@ -1,4 +1,35 @@
 {
     "id": "010038100D436800",
-    "version": 196608
+    "base_tid": "010038100D436000",
+    "name": "Grand Guilds",
+    "description": "Grand Guilds is a story-driven, tactical RPG with unique card combat mechanics. You and your comrades will journey the lands of Irin, a continent on the brink of another war, while engaging in challenging tactical combat. Each playable character has unique mechanics and abilities that, when combined properly, will make the difference between complete victory or utter defeat.\n\n- Turn-Based Strategy -\nLearn and master the fundamentals of tactical combat. In Grand Guilds positioning, terrain, and your action points will mean the difference between victory and defeat.\n\n- Card Combat System -\nA diverse set of skill cards will form the abilities of your units, making every turn more dynamic and each decision more important and meaningful.\n\n- Deck Building -\nTailor each character to your playstyle by customizing their skill decks. Obtain powerful new abilities by completing quests or leveling your characters.\n\n- Guild Quests -\nEmbark on challenging, procedural missions that yield exciting rewards. Increase your guild's reputation to earn bonuses that will aid you in combat.\n\n- Diverse Cast -\nEach playable character has unique mechanics and abilities that enable them to fill various roles in your squad such as tank, support, and damage dealer.\n\n- Epic Narrative - \nUnravel the mysteries shrouding Irin, a continent on the brink of war. Follow Eliza and her companions as they journey through this vast, magical world.\n\n- Partial Voice Acting - \nHeroes will shout out their actions in combat and express their feelings during dialogue with short voice lines.\n\nWill you help Eliza in her struggle to save the beautiful world of Irin?",
+    "publisher": "Keybol Games",
+    "developer": null,
+    "base_release_date": 20200326,
+    "first_update_release_date": 20200429,
+    "latest_update_release_date": 20200820,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200820
+    },
+    "versions": {
+        "65536": 20200429,
+        "131072": 20200625,
+        "196608": 20200820
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Follow the adventures of Eliza and her crew as they struggle to prevent an impending war!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100386013D3A800",
-    "version": 131072
+    "base_tid": "0100386013D3A000",
+    "name": "MONSTER HUNTER RISE MEDIA DEMO",
+    "description": "New monsters. New abilities. New locations. An all-new and unique monster-hunting experience awaits!\n\nTake up your Nintendo Switch and gather for the hunt!",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20201222,
+    "first_update_release_date": 20210310,
+    "latest_update_release_date": 20210310,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210310
+    },
+    "versions": {
+        "131072": 20210310
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Rise up to face the thrilling challenge of the hunt!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Fantasy themes and violence",
+        "In-game purchases"
+    ],
+    "region": null
 }

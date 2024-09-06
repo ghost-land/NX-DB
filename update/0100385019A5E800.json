@@ -1,4 +1,29 @@
 {
     "id": "0100385019A5E800",
-    "version": 65536
+    "base_tid": "0100385019A5E000",
+    "name": "Cubic Parking",
+    "description": "Cubic Parking is a minimalistic parking based puzzle game where you need to move the double triangle block from right side of the field to the left.\nThere will be multiple blocks (one, two and three blocks shapes) on your way and you need to free the space by moving them. The directions you can move the block are limited and are indicated with arrows.\nYou can move the double triangle block only back and forward.\n\nFeatures:\n-\t3 difficulty levels\n-\t60 levels in total\n-\tbeautiful and relaxing atmosphere",
+    "publisher": "DillyFrame",
+    "developer": null,
+    "base_release_date": 20221027,
+    "first_update_release_date": 20221214,
+    "latest_update_release_date": 20221214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221214
+    },
+    "versions": {
+        "65536": 20221214
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "minimalistic parking based puzzle game",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

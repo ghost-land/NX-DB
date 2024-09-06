@@ -1,4 +1,47 @@
 {
     "id": "0100381018AB0800",
-    "version": 655360
+    "base_tid": "0100381018AB0000",
+    "name": "Remains",
+    "description": "After a terrible incident, you were left in complete silence and absolute loneliness in orbit of your planet. There is no one to help you, and you have to survive and find out what caused such an incident. You only have you and you, and you can only rely on yourself.\nResources from the remains of the same ships will be your salvation. Take apart the wreckage of the ships, maybe you will find something useful. But remember that you need oxygen and food, try to find a way to produce them.\n\nBe careful, space is unpredictable...\n\nFeatures:\nCrafting - you can create useful things for you from the mined and found resources.\nSurvival - you need to watch your needs in order not to die!\nBuilding - build your safe space station.\nManufacturing - create mechanisms for the production of your needs.\nResearch - search the area to find new resources, but don't fly too far.",
+    "publisher": "SoloQ",
+    "developer": null,
+    "base_release_date": 20230224,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20230316,
+        "131072": 20230429,
+        "196608": 20230524,
+        "262144": 20230621,
+        "327680": 20230622,
+        "393216": 20230629,
+        "458752": 20230906,
+        "524288": 20230922,
+        "589824": 20240317,
+        "655360": 20240419
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Action",
+        "Other"
+    ],
+    "intro": "Survival in outer space orbiting the planet. Explore the area. Find a way to restore oxygen. Create tools for your needs. Beware of the dangers of outer space. Build your shelter in orbit ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

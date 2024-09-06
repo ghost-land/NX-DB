@@ -1,4 +1,37 @@
 {
     "id": "010038501DB06800",
-    "version": 393216
+    "base_tid": "010038501DB06000",
+    "name": "Big Watermelon Match",
+    "description": "The goal of the game is to achieve a high score by strategically dropping fruits into a container without letting them overflow. Players earn points by successfully combining two identical fruits, resulting in the creation of a new fruit in the game's evolving fruit cycle. Skillful and efficient fruit combinations not only contribute to a higher score but also add a layer of strategic depth to the gameplay. Can you master the art of fruit pairing and reach the top of the leaderboard?",
+    "publisher": "Max Interactive Studio",
+    "developer": null,
+    "base_release_date": 20240131,
+    "first_update_release_date": 20240202,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20240202,
+        "131072": 20240216,
+        "196608": 20240228,
+        "262144": 20240325,
+        "327680": 20240404,
+        "393216": 20240419
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade",
+        "Strategy"
+    ],
+    "intro": "Match Fruits to create bigger fruits",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

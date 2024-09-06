@@ -1,4 +1,38 @@
 {
     "id": "0100382004206800",
-    "version": 65536
+    "base_tid": "0100382004206000",
+    "name": "Let's Sing 2018",
+    "description": "Warm up those vocal chords, enter the virtual stage and experience the best Let’s Sing ever made!\n• Exclusively chosen playlist: 30 top tracks including\nLukas Graham – 7 Years\nAlan Walker - Faded\nGnash ft. Olivia O’Brien – I Hate U, I Love U\nThe Chainsmokers ft. Halsey - Closer\nCharlie Puth - Attention\nQueen – We Are the Champions\nEllie Goulding - Burn\nand many more. \n• New rewarding gameplay elements: Beat your high score, collect avatars and unlock music certification records!\n• Four challenging game modes: Compete against your friends in diverse modes including the brand new mode - Mix Tape! ",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20171128,
+    "latest_update_release_date": 20171128,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171128
+    },
+    "versions": {
+        "65536": 20171128
+    },
+    "category": [
+        "Music",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Bad Language",
+        "Sex",
+        "Violence"
+    ],
+    "region": null
 }

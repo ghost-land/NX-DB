@@ -1,4 +1,47 @@
 {
     "id": "0100383012DF2800",
-    "version": 262144
+    "base_tid": "0100383012DF2000",
+    "name": "Gems of Magic: Lost Family",
+    "description": "Gems of Magic brings a match-3 game together with wonderful hand-drawn art with a story of magic, gems and adventure. Discover this mystical enchanted forest in a calm and relaxing world of spirits and magic. But a dark cloud is forming over the forest and Hurricane has kidnapped the Fuzzy family. It's now time to help the magic creatures to save the Fuzzy family and restore the magical forest.\n\nGame Features:\n• 100 fun levels\n• Simple gameplay with a mystical story\n• Hand-drawn art\n• Add boosters to help you progress\n• Use hammers, replacement magic, lightning and mystery magic",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20201217,
+    "first_update_release_date": 20201216,
+    "latest_update_release_date": 20220715,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220715
+    },
+    "versions": {
+        "65536": 20201216,
+        "131072": 20210104,
+        "196608": 20220306,
+        "262144": 20220715
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Rescue the Fuzzy family and save the enchanted forest in 100 challenging levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010038000F644800",
-    "version": 131072
+    "base_tid": "010038000F644000",
+    "name": "LA-MULANA 2",
+    "description": "Experience a classic tale of exploration, puzzle-solving, and deadly action with LA-MULANA 2!\n\nRenowned archaeologist Lemeza Kosugi has gone missing, and only his daughter Lumisa can find him! Enter Eg-Lana, an upside-down version of the legendary ruins of La-Mulana. Think fast, act fast, and whip hard in order to overcome dangerous traps and elaborate puzzles in your quest to uncover unfathomable secrets. What will you find at the end of your journey: triumph, or defeat?",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200327,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20230508,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230508
+    },
+    "versions": {
+        "65536": 20201021,
+        "131072": 20230508
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Sexual References",
+        "Mild Themes",
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01003770152AA800",
-    "version": 65536
+    "base_tid": "01003770152AA000",
+    "name": "Age of Sokoban",
+    "description": "Renovation of Japanese classical puzzle game. Age of Sokoban brings next level puzzle solving experience on your Nintendo Switch™ devices with newly introduced mechanics and gameplay.\n\nHelp detective Kedy to solve puzzles in Egypt, Greece and Space. But beware of the enemies who will block your paths during the game. Each level will bring more difficult puzzles, at the same time, newly encountered boxes with different mechanics will increase your thinking time.\n\nEgypt: Can you run away from the snakes or will you just crush them via the tomb of the mummy to open your paths?\n\nGreek: Sometimes all you need is Godly touch, let the Olympians help you in those dangerous adventures.\n\nSpace: How are we going to save the world from outer space invaders? Maybe just like Sinatra says; we need to fly them to the moon!",
+    "publisher": "Erik Games",
+    "developer": null,
+    "base_release_date": 20210610,
+    "first_update_release_date": 20210713,
+    "latest_update_release_date": 20210713,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210713
+    },
+    "versions": {
+        "65536": 20210713
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
