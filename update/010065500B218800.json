@@ -1,4 +1,37 @@
 {
     "id": "010065500B218800",
-    "version": 262144
+    "base_tid": "010065500B218000",
+    "name": "メモリーズオフ -Innocent Fille-",
+    "description": "物語は、札幌の高校に通う主人公・累（かさね）が、念願かなって10月から特待生として湘南の姉妹校へと一時的に転入することになるところから始まります。どこか遠くへ行きたいと願っていた累にとって、7年ぶりに再会する親友たちや新しい場所への期待に満ちていたはずの新たな一歩が波紋となり、複雑な恋愛模様が描かれていきます。",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20181025,
+    "first_update_release_date": 20190402,
+    "latest_update_release_date": 20200913,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200913
+    },
+    "versions": {
+        "65536": 20190402,
+        "131072": 20190402,
+        "196608": 20190416,
+        "262144": 20200913
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "冬の湘南を舞台に「最後のメモリーズ」が今、始まる。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

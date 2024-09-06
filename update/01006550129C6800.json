@@ -1,4 +1,42 @@
 {
     "id": "01006550129C6800",
-    "version": 65536
+    "base_tid": "01006550129C6000",
+    "name": "If Found...",
+    "description": "If Found… is a video game from DREAMFEEL about searching for connection.\n\nOn December 31st 1993 in the crumbling ruins of a mansion on Achill Island, Kasio destroys her diary.  \n\nIt tells the story of her return home to the West of Ireland, her conflict with her family, the friends she makes, and the challenges she goes through.\n\nEverything leads to this night when a black hole will destroy the entire world. Where did it come from? Is there any way to stop it? \nWith brand new gameplay mechanics, beautiful hand-drawn art, and a stunning soundtrack, players will relive Kasio's experiences and see the moments both happy and painful that make up the month of December 1993.\n\nFeatures include: awkward crushes, the planet Jupiter, many kisses, a punk concert, confusion, happiness, a cute dog, and a break in.  ",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20220110,
+    "first_update_release_date": 20201203,
+    "latest_update_release_date": 20201203,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201203
+    },
+    "versions": {
+        "65536": 20201203
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Erase everything, find Kasio",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Suggestive Themes",
+        "Use of Drugs"
+    ],
+    "region": null
 }

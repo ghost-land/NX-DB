@@ -1,4 +1,31 @@
 {
     "id": "010065A00213C800",
-    "version": 65536
+    "base_tid": "010065A00213C000",
+    "name": "そるだむ 開花宣言",
+    "description": "4つ1組になって落ちてくるカラフルな木の実「ソルダム」の色を挟んで揃え、ラインを消していくリバーシ型アクションパズルゲームです。\nプラミー（モンスター）が開花（進化）する育成要素を取り入れた1人用の「そるだむ」モードのほか、練習用の「らくだむ」モード、お題にチャレンジする「つめだむ」モード、2人で対戦ができる「たいけつ」モードの全4モードを収録。",
+    "publisher": "シティコネクション",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "パズル",
+        "アクション",
+        "アーケード"
+    ],
+    "intro": "アたまフル回転！ 才気煥発パズル",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

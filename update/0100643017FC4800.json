@@ -1,4 +1,33 @@
 {
     "id": "0100643017FC4800",
-    "version": 65536
+    "base_tid": "0100643017FC4000",
+    "name": "Bullet Soul -Infinite Burst-.",
+    "description": "This title includes a new mode called Burst Mode, as well as Normal Mode with the conventional system and the well-known Caravan Mode.\nIn all modes, enemy placement and enemy attacks have been readjusted, allowing even players who have played through the previous title to play with a fresh mindset.\nIn addition, the game also includes background music arranged by Jake \"virt\" Kaufman.\nThe BGM can also be switched to the previous title's BGM in the settings.",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20220929,
+    "first_update_release_date": 20221025,
+    "latest_update_release_date": 20221025,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221025
+    },
+    "versions": {
+        "65536": 20221025
+    },
+    "category": [
+        "Shooter"
+    ],
+    "intro": "This \"Bullet Soul -Infinite Burst-\" is an upgraded version of the hot-blooded vertical scrolling shooter game \"Bullet Soul\".",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

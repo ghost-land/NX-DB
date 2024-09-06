@@ -1,4 +1,45 @@
 {
     "id": "010064800F66A800",
-    "version": 131072
+    "base_tid": "010064800F66A000",
+    "name": "Borderlands: Game of the Year Edition",
+    "description": "Discover the co-op shooter-looter that started it all, crammed with content and enhancements! Equip bazillions of guns as one of 4 trigger-happy mercenaries, each with unique RPG skills. Take on the lawless desolate planet Pandora in pursuit of powerful alien technology: The Vault. With new weapons, visual upgrades, all 4 add-on packs and more!\n\n• Bazillions of Guns: Rocket-launching shotguns, enemy-torching revolvers, SMGs that fire lightning rounds, and tons more.\n\n• Radical Art Style: Traditional rendering combined with hand-drawn textures give Borderlands its iconic style.\n\n• Intense Vehicular Combat: Behind the wheel, engage in frenetic vehicle-to-vehicle combat.\n\n• Co-op Frenzy: Online or together on the couch.",
+    "publisher": "2K",
+    "developer": null,
+    "base_release_date": 20200529,
+    "first_update_release_date": 20200528,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200528,
+        "131072": 20200804
+    },
+    "category": [
+        "First-Person Shooter",
+        "RPG",
+        "Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Mature Humor",
+        "Strong Language",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

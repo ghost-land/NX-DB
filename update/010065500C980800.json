@@ -1,4 +1,38 @@
 {
     "id": "010065500C980800",
-    "version": 65536
+    "base_tid": "010065500C980000",
+    "name": "Pic-a-Pix Pieces",
+    "description": "Pic-a-Pix is a picture logic game, sometimes known as Picross, Nonogram or Hanjie, where whimsical pixel-art pictures are created by solving puzzles.\n\nIn Pic-a-Pix Pieces, large pictures have been split into a number of smaller pieces. Each piece is a puzzle grid, and by solving them all you’ll form a mosaic that reveals a spectacular final image.\n\nPlay alone or solve puzzles with friends! Co-op play supports up to 4 players using any combination of controllers. Touchscreen controls can be used in handheld mode.\n\nThere are more than 300 puzzle grids, from 10x10 to 20x20. They come together to form 20 huge, colourful pictures. Puzzles are designed by Conceptis Ltd and were created exclusively for this game.\n\nExtra add-on packs will be released regularly as DLC.\n",
+    "publisher": "Lightwood Games",
+    "developer": null,
+    "base_release_date": 20190104,
+    "first_update_release_date": 20190604,
+    "latest_update_release_date": 20190604,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190604
+    },
+    "versions": {
+        "65536": 20190604
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Party",
+        "Strategy"
+    ],
+    "intro": "The popular picture crossword game grows bigger, piece by piece!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100645016B38800",
-    "version": 65536
+    "base_tid": "0100645016B38000",
+    "name": "Arcade Archives TRIO THE PUNCH",
+    "description": "\"TRIO THE PUNCH\" is a side-scrolling action game released by Data East in 1990.\nIn 1990, the \"three strong men\" appeared at the game center and were wrapped in a whirlpool of laughter⁉\nThe priest barks! Cursed by sheep! And a hot man runs around!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220519,
+    "first_update_release_date": 20220518,
+    "latest_update_release_date": 20220518,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220518
+    },
+    "versions": {
+        "65536": 20220518
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Happy, embarrassing, nostalgic.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

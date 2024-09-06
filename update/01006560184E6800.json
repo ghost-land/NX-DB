@@ -1,4 +1,60 @@
 {
     "id": "01006560184E6800",
-    "version": 1376256
+    "base_tid": "01006560184E6000",
+    "name": "Mortal Kombat™ 1",
+    "description": "It’s In Our Blood!\n\nDiscover a reborn Mortal Kombat™ Universe created by the Fire God Liu Kang. Mortal Kombat™ 1 ushers in a new era of the iconic franchise with a new fighting system, game modes, and fatalities!\n",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20230919,
+    "first_update_release_date": 20230810,
+    "latest_update_release_date": 20240828,
+    "latest_update": {
+        "version": "1376256",
+        "release_date": 20240828
+    },
+    "versions": {
+        "65536": 20230810,
+        "196608": 20230913,
+        "327680": 20231011,
+        "393216": 20231026,
+        "524288": 20231123,
+        "589824": 20231214,
+        "655360": 20240114,
+        "720896": 20240202,
+        "786432": 20240228,
+        "851968": 20240328,
+        "917504": 20240419,
+        "983040": 20240510,
+        "1048576": 20240604,
+        "1114112": 20240605,
+        "1179648": 20240620,
+        "1245184": 20240723,
+        "1310720": 20240808,
+        "1376256": 20240828
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Discover a Reborn Mortal Kombat™ Universe\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

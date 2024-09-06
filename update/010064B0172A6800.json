@@ -1,4 +1,36 @@
 {
     "id": "010064B0172A6800",
-    "version": 131072
+    "base_tid": "010064B0172A6000",
+    "name": "Cop Car Police Simulator Chase - Car games simulator & driving",
+    "description": "Experience the exciting day-to-day life of an US police officer in Police Squad Simulator. Discover a large, lively and freely-accessible US city and ensure the safety in your district. Record traffic accidents, search for stolen vehicles and arrest criminals. Support other police officers at traffic checkpoints, flag down speeders and write them up. Stop and check every citizen or car you want and enforce the law. Pay attention to fugitive suspects and chase them on foot or by car with lights flashing and sirens blaring. Investigate crime scenes, interrogate witnesses and search for evidence.\n\nGet behind the wheel of three realistically recreated police vehicles with functional cockpits and use the in-car-computer to identify wanted suspects and stolen vehicles. Start with a typical police sedan and change to an all-terrain SUV and a fast police muscle car while you progress in the game. Use the siren to stop cars or to pave your way through heavy traffic in an emergency. If you crash or damage your car, you will not only have visible crash deformations, the handling of the car will also become more difficult.",
+    "publisher": "Erlano",
+    "developer": null,
+    "base_release_date": 20220117,
+    "first_update_release_date": 20220207,
+    "latest_update_release_date": 20220228,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220228
+    },
+    "versions": {
+        "65536": 20220207,
+        "131072": 20220228
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Shooter",
+        "Racing"
+    ],
+    "intro": "Get behind the wheel of three realistically recreated police vehicles with a lot of functional, identify wanted suspects and stolen vehicles, save victims and pedestrians.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null
 }

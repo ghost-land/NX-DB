@@ -1,4 +1,43 @@
 {
     "id": "0100644012F0C800",
-    "version": 131072
+    "base_tid": "0100644012F0C000",
+    "name": "Rooftop Renegade",
+    "description": "ROOFTOP RENEGADE is an action platformer all about speed & flow. Evade capture through futuristic skyscrapers channeling powerful abilities from your hoverblades.\n\nBoost through levels under constant bombardment, avoid dangerous hazards, and make split second decisions that mean the difference between a new personal best or total wipeout.\n\nFAST AND FLUID GAMEPLAY\nMaster precise controls and smooth physics to get into the zone. Blast through levels at high speeds while chaining together abilities and making split-second pathway decisions. Pursued by the sinister Globacorp, avoid capture while avoiding hazards and traps caused by incoming fire from gunners.\n\nEVERYBODY RUNS, EVERYBODY GUNS\nGear up to take on challenging levels alone or grab some controllers to disrupt your friends in chaotic offline multiplayer. Take turns in up to 3v1 asymmetric rounds to set your best time as the runner while your rivals disrupt you, then take control of a gunner to defend your record.\n\nMIX IT UP\nCreate fresh challenges with seed-based generator mode. Enter a keyword to dynamically generate a level from a variety of worlds, layouts, hazards, and enemy combinations. Pick your perfect loadout and dive into a new run to master.",
+    "publisher": "Melonhead Games",
+    "developer": null,
+    "base_release_date": 20230217,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20230510,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230510
+    },
+    "versions": {
+        "65536": 20230411,
+        "131072": 20230510
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Racing",
+        "Party"
+    ],
+    "intro": "Power up your hoverblades and blaze through the future!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

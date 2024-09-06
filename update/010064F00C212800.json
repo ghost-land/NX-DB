@@ -1,4 +1,39 @@
 {
     "id": "010064F00C212800",
-    "version": 131072
+    "base_tid": "010064F00C212000",
+    "name": "Soul Axiom Rebooted",
+    "description": "From the studio that brought you Master Reboot comes a first-person story-driven adventure puzzle game, set in the beautiful, haunting cyber-world of Elysia. Collect unique hand powers, discover multiple endings and choose your own destiny as you unravel the mystery of your digital afterlife.\n\nYou will be taken on an intriguing voyage of discovery, through beautiful, haunting locations, facing challenges that will lead you into danger on your mission to unlock your identity, your story, your mystery. But beware: some mysteries are better left unsolved.\n\n• Psychological adventure with exploration & puzzle elements\n• 20 to 30 hours of gameplay and 40 unique locations\n• Collectible hand powers to manipulate the world\n• Multiple story endings\n• Unique visual styles\n• Dynamic adaptive environments\n• Haunting soundtrack with 50 original compositions",
+    "publisher": "Wales Interactive",
+    "developer": null,
+    "base_release_date": 20200227,
+    "first_update_release_date": 20191129,
+    "latest_update_release_date": 20200209,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200209
+    },
+    "versions": {
+        "65536": 20191129,
+        "131072": 20200209
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover Elysia. Then, now and forever.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }
