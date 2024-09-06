@@ -1,4 +1,35 @@
 {
     "id": "0100AC7019E7C800",
-    "version": 65536
+    "base_tid": "0100AC7019E7C000",
+    "name": "Fight Club - Join us if you can",
+    "description": "In Fight Club - Join us if you can, you try to join a secret group where discipline and success go hand in hand. However, you have to get accepted by its members. You will meet the members of the club who will want to be sure that you deserve to be a member of this select group and they will ask you a lot of questions. Remember very well! If you get the wrong answer they will never trust you and you will not prove that you are worthy of being part of the club. \n\n- You have less and less time to answer the questions.\n- You will find more than 20 different questions.\n- Alternate endings depending on the number of questions you manage to answer.\n- Open chests to unlock new content.\n\nDon't lie or you'll be out of this secret fight club.",
+    "publisher": "Cooking & Publishing",
+    "developer": null,
+    "base_release_date": 20221219,
+    "first_update_release_date": 20230608,
+    "latest_update_release_date": 20230608,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230608
+    },
+    "versions": {
+        "65536": 20230608
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "The fight club is a select secret group in which everyone wants to enter, but you will have to prove that you are worthy. Answer the questions of its members right without failing.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Violent References"
+    ],
+    "region": null
 }

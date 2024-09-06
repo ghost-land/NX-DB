@@ -1,4 +1,38 @@
 {
     "id": "0100AC300BBE4800",
-    "version": 131072
+    "base_tid": "0100AC300BBE4000",
+    "name": "The Battle Of Mahjong",
+    "description": "“The Battle Of Mahjong” is the best longan game, players can know more about the quintessence of Chinese culture and the fun of mahjong through the challenges from the game. Every missions have certain connections, once you've won all the battles, the hidden characters and different functions are waiting for you! Are you ready for it? A free single user game for you to play until the end! Chinese and English versions are out now, come and join the battle today!\n\n【Game Features】\n- The first Mahjong game supports Chinese and English versions in HK!\n- Lots of hidden characters are waiting for you!\n- No monthly fee! And you can play the game every moment you want to!",
+    "publisher": "Kusone Studio",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20200123,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20200123,
+        "131072": 20210428
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Strategy",
+        "Training"
+    ],
+    "intro": "You can only find out the fun of playing “Mahjong” by yourself, I'm sure you'll addicted to it. Don’t hesitate, come and join “ THE BATTLE OF MAHJONG”!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

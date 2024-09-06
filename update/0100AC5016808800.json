@@ -1,4 +1,41 @@
 {
     "id": "0100AC5016808800",
-    "version": 196608
+    "base_tid": "0100AC5016808000",
+    "name": "Aspire: Ina's Tale",
+    "description": "Ina was trapped, placed in perpetual slumber inside the Tower – where she dreamed. Suddenly and unknowingly, she is woken. Ina must now explore the Tower’s inner chambers in search of a way out and a reason for her imprisonment.\n\nAlong the way, she’ll traverse marvelous scenery, meet enigmatic characters, solve intuitive puzzles, and conquer platforming sequences as she comes closer to her goal - but farther from innocence.\n\nFor this isn't a story about how Ina was saved. This is the story about how she discovered she could be so much more.\n\nExplore a Living Tower\nGet lost in a mystical side-scrolling adventure through beautiful sprawling levels, each with their own distinct feel. Every region presents its own peculiarities to unravel.\n\nEngaging Story\nIna's dreams shape reality while the Tower feeds. Hopes and imagination satiate its hunger. How are the two connected?\n\nMeet the Tower Dwellers\nLearn about the other denizens of the Tower as you search for the truth. Uncover their pasts, their memories, and set them free.\n\nControl Spirits\nIna was trapped for a reason, and her powers resonate with the spirits that inhabit the Tower. Use them to manipulate objects, solve puzzles, reveal hidden passages, and navigate the environment to find your way out.\n",
+    "publisher": "Untold Tales",
+    "developer": null,
+    "base_release_date": 20211218,
+    "first_update_release_date": 20211130,
+    "latest_update_release_date": 20220117,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220117
+    },
+    "versions": {
+        "65536": 20211130,
+        "131072": 20211221,
+        "196608": 20220117
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Music",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100AC40038F4800",
-    "version": 65536
+    "base_tid": "0100AC40038F4000",
+    "name": "ACA NEOGEO AERO FIGHTERS 2",
+    "description": "\"AERO FIGHTERS 2\" is a vertical-scrolling shoot 'em up released in 1994 by VIDEO SYSTEM. \n\nA variety of unique pilots, including a pop singer and an aviation ninja, take place in dog fights at the speed of sound to save the world. \n\nEnjoy a story mode packed with multiple endings.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20171025,
+    "latest_update_release_date": 20171025,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171025
+    },
+    "versions": {
+        "65536": 20171025
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Join up again with these eight extremely individual fighter pilots to save the world from danger!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

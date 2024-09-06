@@ -1,4 +1,35 @@
 {
     "id": "0100AD50164D0800",
-    "version": 131072
+    "base_tid": "0100AD50164D0000",
+    "name": "Mandalas",
+    "description": "Unleash your creativity in Mandalas and color beautiful mandalas in a simple and relaxing way. Choose from different Mandalas and color them just by touching the desired segment and choose from different color palets. Relax, color and create beautiful artwork with Mandalas. Share it with your friends and have a good time in Manadals!\n\nFeatures :\n- Different color paletts\n- 30 Different Mandalas\n- Relaxing drawing experience",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20211125,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211125
+    },
+    "versions": {
+        "65536": 20211007,
+        "131072": 20211125
+    },
+    "category": [
+        "Lifestyle",
+        "Other",
+        "Study",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

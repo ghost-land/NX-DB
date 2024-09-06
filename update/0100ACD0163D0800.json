@@ -1,4 +1,43 @@
 {
     "id": "0100ACD0163D0800",
-    "version": 196608
+    "base_tid": "0100ACD0163D0000",
+    "name": "Batman: Arkham Knight",
+    "description": "In Batman: Arkham Knight, tear through the streets of Gotham and take on the ultimate threat in the trilogy’s epic conclusion.\n\nExperience critically acclaimed gameplay & AAA original storytelling, PLUS all DLC, in one complete package, now on Nintendo Switch™.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20231201,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20240226,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240226
+    },
+    "versions": {
+        "131072": 20231129,
+        "196608": 20240226
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

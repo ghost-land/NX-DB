@@ -1,4 +1,35 @@
 {
     "id": "0100AD300E4FA800",
-    "version": 65536
+    "base_tid": "0100AD300E4FA000",
+    "name": "Vasilis",
+    "description": "Vasilis, the main character, has lost her husband Peter in the rebellious city center. The city has plunged into chaos by constant riots, and almost every day something is burned or someone is killed.\n\nHaving been abandoned by the government, the center is now dominated by local workers and students, who were able to build four towers that bring life back to those that have died.\n\nVasilis is a game which focuses on characters and story. It is divided into five chapters in which the player will deal with riots, cults, and cruel war events.\n\nThe game is inspired by Ukrainian political events from 2014.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200227,
+    "first_update_release_date": 20200212,
+    "latest_update_release_date": 20200212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200212
+    },
+    "versions": {
+        "65536": 20200212
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Vasilis is a hand-drawn adventure game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Nudity"
+    ],
+    "region": null
 }

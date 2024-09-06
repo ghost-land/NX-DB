@@ -1,4 +1,35 @@
 {
     "id": "0100AC60143F4800",
-    "version": 65536
+    "base_tid": "0100AC60143F4000",
+    "name": "Indigo 7 Quest for love",
+    "description": "Wear your swimsuit, dust off your beach tennis rackets, and put batteries in your old radio to enjoy this cool puzzle game. \n\nFeatures:\n• 11 playable characters.\n• 6 different play modes.\n• Play alone or with up to 3 friends.\n• Unlock all the levels, songs, and characters.\n\nAdventure Mode\nJourney with Nathan and his friends on a musical adventure of love and friendship in 32 episodes, told through a fantastic comic.\n\nBattle\nFight your rivals to see who gets the best score.\n\nConquest\nConquer all the territory before running out of time and moves.\n\nConquest VS\nConquer more territory than your opponents.\n\nParty Time\nThink quick and act carefully. The fastest-paced mode to keep all your senses on full alert.\n\nParty Colour\nBeat all the boards, but measure your moves carefully or you’ll end up without any colours.\n",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20210708,
+    "first_update_release_date": 20210707,
+    "latest_update_release_date": 20210707,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210707
+    },
+    "versions": {
+        "65536": 20210707
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Multiplayer",
+        "Board Game"
+    ],
+    "intro": "Easy to learn, hard to master! Indigo 7 is a fast-paced multiplayer puzzle game for up to 4 players, with a cool single-player story mode.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Coarse Language"
+    ],
+    "region": null
 }

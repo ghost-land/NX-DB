@@ -1,4 +1,54 @@
 {
     "id": "0100ACF013E9A800",
-    "version": 1114112
+    "base_tid": "0100ACF013E9A000",
+    "name": "Skul: The Hero Slayer",
+    "description": "Guide 'Skul' on his quest to single-handedly take on the Imperial Army and rescue his King from captivity, in an action-packed rogue-lite 2D platformer for the ages.",
+    "publisher": "NEOWIZ",
+    "developer": null,
+    "base_release_date": 20211022,
+    "first_update_release_date": 20211019,
+    "latest_update_release_date": 20240712,
+    "latest_update": {
+        "version": "1114112",
+        "release_date": 20240712
+    },
+    "versions": {
+        "65536": 20211019,
+        "131072": 20211020,
+        "196608": 20211104,
+        "327680": 20220211,
+        "458752": 20220323,
+        "524288": 20220627,
+        "589824": 20220822,
+        "655360": 20221004,
+        "720896": 20230217,
+        "786432": 20230302,
+        "851968": 20230417,
+        "917504": 20230526,
+        "983040": 20240120,
+        "1048576": 20240612,
+        "1114112": 20240712
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence and coarse language"
+    ],
+    "region": null
 }

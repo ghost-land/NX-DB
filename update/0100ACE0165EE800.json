@@ -1,4 +1,50 @@
 {
     "id": "0100ACE0165EE800",
-    "version": 1376256
+    "base_tid": "0100ACE0165EE000",
+    "name": "Fall Guys Beta",
+    "description": "Fall Guys: Ultimate Knockout flings hordes of contestants together online in a wild dash through round after round of escalating chaos until one victor remains!\n\nBattle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics as you stumble towards greatness. Leave your dignity at the door and prepare for hilarious failure in your quest to claim the crown!",
+    "publisher": "Epic Games",
+    "developer": null,
+    "base_release_date": 20220601,
+    "first_update_release_date": 20220121,
+    "latest_update_release_date": 20221012,
+    "latest_update": {
+        "version": "1376256",
+        "release_date": 20221012
+    },
+    "versions": {
+        "65536": 20220121,
+        "131072": 20220224,
+        "196608": 20220516,
+        "262144": 20220526,
+        "327680": 20220531,
+        "393216": 20220608,
+        "458752": 20220609,
+        "524288": 20220615,
+        "589824": 20220622,
+        "655360": 20220704,
+        "720896": 20220706,
+        "786432": 20220715,
+        "851968": 20220720,
+        "917504": 20220815,
+        "983040": 20220825,
+        "1048576": 20220905,
+        "1114112": 20220915,
+        "1179648": 20220923,
+        "1245184": 20220928,
+        "1310720": 20221004,
+        "1376256": 20221012
+    },
+    "category": [
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

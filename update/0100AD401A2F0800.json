@@ -1,4 +1,47 @@
 {
     "id": "0100AD401A2F0800",
-    "version": 786432
+    "base_tid": "0100AD401A2F0000",
+    "name": "Wargroove 2",
+    "description": "Trouble stirs on the shores of Aurania. An ambitious new faction has unearthed forbidden relics capable of catastrophic consequences. But how far will they go to achieve glory? \n\nTake to the battlefield, sea, and sky with a cast of new Commanders, using your wits to wage turn-based war!\n\nAn all-new Wargroove adventure for new recruits and veteran wardogs alike!\n\n• Return to the battlefield with new Commanders, as unknown factions join the fight.\n• Supercharge your Commander's Grooves to make them more powerful than ever!\n• Follow the tale of the warring Factions of Aurania in 3 interwoven Campaign stories.\n• Battle with or against your friends in Co-Op & Multiplayer mode, locally or online for up to 4 players\n• Put your strategic abilities to the test with a new roguelike mode - Conquest!\n• Develop new tactics with 5 new unit types to master.\n• Level-up an ordinary unit with special abilities by picking up items.\n• Battle after dark with new night mode.\n• Get more creative than ever with new & improved map, campaign & cutscene editors\n• Playable in English, French, German, Spanish, Japanese, Brazilian Portuguese, Russian, Traditional Chinese, and Simplified Chinese!",
+    "publisher": "Chucklefish",
+    "developer": null,
+    "base_release_date": 20231005,
+    "first_update_release_date": 20230920,
+    "latest_update_release_date": 20240612,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20240612
+    },
+    "versions": {
+        "131072": 20230920,
+        "196608": 20231004,
+        "262144": 20231011,
+        "327680": 20231018,
+        "458752": 20231130,
+        "524288": 20240313,
+        "786432": 20240612
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Wargroove is back! ",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100AC20128AC800",
-    "version": 131072
+    "base_tid": "0100AC20128AC000",
+    "name": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+    "description": "\"CHRONO CROSS: THE RADICAL DREAMERS EDITION\" is a remaster of \"CHRONO CROSS\".\n\nThe 3D models have been upgraded to HD, new illustrations have added, and all kinds of new features are now included. Additionally, the game that formed the bedrock of the story, \"RADICAL DREAMERS  - Le Trésor Interdit -\", is included in this edition!\n\nCHRONO CROSS is an RPG that transcends time and space, unfolding across two interlinked parallel worlds.\nWith over 40 party members to meet, people and dimensions will intertwine in this epic drama about the planet itself.\n\nNew Features in the Remastered Edition\n・3D models converted to HD\n・Refined character illustrations\n・Higher-quality background music\n・Switch enemy encounters on or off\n・Background filter feature\n・Battle enhancement features to make combat easier\n・Auto-battle function\n・Switch between imitation pixel font and HD font\n・Change screen resolution\n\nRADICAL DREAMERS  - Le Trésor Interdit -\n\"RADICAL DREAMERS  - Le Trésor Interdit -\" was released in 1996 as a standalone game, and has not been easily accesible for play in recent years. Players can experience the story that went on to become the basis for CHRONO CROSS in an audio novel format. Here, an alternate story of the RADICAL DREAMERS, a group of three thieves - Serge, Kid and Magil - unfolds in a parallel world.\n\n*You can switch between the new and old versions of the 3D models and illustrations.\n*The 3D models, illustrations, font and background filter cannot be toggled separately. They will all be switched together.",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20220407,
+    "first_update_release_date": 20220406,
+    "latest_update_release_date": 20230223,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230223
+    },
+    "versions": {
+        "65536": 20220406,
+        "131072": 20230223
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Another world, another destiny",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

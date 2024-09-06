@@ -1,4 +1,32 @@
 {
     "id": "0100AC501122A800",
-    "version": 65536
+    "base_tid": "0100AC501122A000",
+    "name": "Alluris",
+    "description": "Prepare to embark on a journey like no other in Alluris. In this choose your own adventure game play as a reluctant hero or villain to save the world… or just save a colony of bears from some lumberjacks. However you play, you’re sure to walk away with a few crazy stories about your adventure. ",
+    "publisher": "562 Interactive",
+    "developer": null,
+    "base_release_date": 20200924,
+    "first_update_release_date": 20200831,
+    "latest_update_release_date": 20200831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200831
+    },
+    "versions": {
+        "65536": 20200831
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }
