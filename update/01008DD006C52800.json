@@ -1,4 +1,37 @@
 {
     "id": "01008DD006C52800",
-    "version": 65536
+    "base_tid": "01008DD006C52000",
+    "name": "A Magical High School Girl",
+    "description": "A Magical High School Girl is a magic crafting rogue-like RPG! The only weapon you possess is the magic you conjure from within. You can freely name your magic. The elemental properties and effects are generated automatically with what you typed in.  ",
+    "publisher": "Sekai Games",
+    "developer": null,
+    "base_release_date": 20180607,
+    "first_update_release_date": 20191112,
+    "latest_update_release_date": 20191112,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191112
+    },
+    "versions": {
+        "65536": 20191112
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The magic beckons you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

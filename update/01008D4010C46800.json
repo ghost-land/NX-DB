@@ -1,4 +1,37 @@
 {
     "id": "01008D4010C46800",
-    "version": 65536
+    "base_tid": "01008D4010C46000",
+    "name": "Fluxteria",
+    "description": "Welcome to Fluxteria, non-stop arcade-space-shooting action in full 3D.\nFour modes of play: Story Mode, Survival Mode, Timed-Attack Mode and Obstacle Race Mode.\n14 different types of Enemies.\n20 different levels in beautifully stylized science-fiction setting.\nCrystal-Clear shooting and blasting sound effects.\nHearth-thumbing music.\n",
+    "publisher": "Playstige Interactive",
+    "developer": null,
+    "base_release_date": 20200521,
+    "first_update_release_date": 20200615,
+    "latest_update_release_date": 20200615,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200615
+    },
+    "versions": {
+        "65536": 20200615
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

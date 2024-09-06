@@ -1,4 +1,43 @@
 {
     "id": "01008D900B984800",
-    "version": 131072
+    "base_tid": "01008D900B984000",
+    "name": "FEZ",
+    "description": "Gomez is a 2D creature living in a 2D world. Or is he? When the existence of a mysterious 3rd dimension is revealed to him, Gomez is sent out on a journey that will take him to the very end of time and space. Use your ability to navigate 3D structures from 4 distinct classic 2D perspectives. Explore a serene and beautiful open-ended world full of secrets, puzzles and hidden treasures. Unearth the mysteries of the past and discover the truth about reality and perception. Change your perspective and look at the world in a different way.",
+    "publisher": "Polytron",
+    "developer": null,
+    "base_release_date": 20210415,
+    "first_update_release_date": 20210414,
+    "latest_update_release_date": 20210507,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210507
+    },
+    "versions": {
+        "65536": 20210414,
+        "131072": 20210507
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Gomez is a 2D creature living in a 2D world. Or is he?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

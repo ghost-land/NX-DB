@@ -1,4 +1,37 @@
 {
     "id": "01008D400A584800",
-    "version": 131072
+    "base_tid": "01008D400A584000",
+    "name": "Keep Talking and Nobody Explodes",
+    "description": "In Keep Talking and Nobody Explodes, one player is trapped in a room with a ticking time bomb they must defuse. The other players are the “Experts” who must give the instructions to defuse the bomb by deciphering the information found in the Bomb Defusal Manual. But there’s a catch: the Experts can’t see the bomb, so everyone will need to talk it out – fast!\n\nRounds are fast-paced, tense, occasionally silly, and almost always loud. \n\nPuzzle solving and communication skills – and maybe a few friendships – will be put to the test as players race to defuse bombs while communicating quickly, clearly, and effectively.\n\nFeatures\n• Challenging puzzles – Test the limits of your communication skills... and friendships?\n• A different bomb every time – Procedurally generated puzzles keep the action fresh.\n• Local co-op party game – Bomb defusing is a team endeavor. Going solo is not an option!\n\nThe Bomb Defusal Manual is freely available at http://www.bombmanual.com and can be printed or viewed on a tablet or any other web-enabled device.",
+    "publisher": "Steel Crate Games",
+    "developer": null,
+    "base_release_date": 20180816,
+    "first_update_release_date": 20181126,
+    "latest_update_release_date": 20190227,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190227
+    },
+    "versions": {
+        "65536": 20181126,
+        "131072": 20190227
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Communication",
+        "Board Game"
+    ],
+    "intro": "Find yourself alone in a room with a bomb. Your friends have the manual to defuse it, but they can’t see the bomb, so you're going to have to talk it out – fast!\n\nThis local co-op game requires two or more players.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

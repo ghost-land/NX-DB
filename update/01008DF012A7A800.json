@@ -1,4 +1,45 @@
 {
     "id": "01008DF012A7A800",
-    "version": 196608
+    "base_tid": "01008DF012A7A000",
+    "name": "Turnip Boy Commits Tax Evasion",
+    "description": "Take control of an adorable turnip who happens to be an absolute menace to society. After failing to pay taxes and getting evicted from your home, you must go on an epic quest to pay back your massive debt to Mayor Onion. Garden tools to solve plantastic puzzles, meet eccentric vegetables and fruits, and take on treacherous fights. Along the journey uncover what’s spoiling this garden community and rise to tear down the corrupt vegetable government!",
+    "publisher": "Graffiti Games",
+    "developer": null,
+    "base_release_date": 20210624,
+    "first_update_release_date": 20210623,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20210623,
+        "131072": 20210826,
+        "196608": 20220923
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Play as an adorable, yet trouble-making turnip. Avoid paying taxes, solve plantastic puzzles, and take on massive beasts in a journey to tear down a corrupt vegetable government!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

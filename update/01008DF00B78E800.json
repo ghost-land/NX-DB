@@ -1,4 +1,44 @@
 {
     "id": "01008DF00B78E800",
-    "version": 65536
+    "base_tid": "01008DF00B78E000",
+    "name": "Gunbrick: Reloaded",
+    "description": "In a future where cars are obsolete, the Gunbrick has become a worldwide sensation!\nEncounter wasteland mutants, crazed nerds, law enforcement and all manner of cube based adversaries in this action packed puzzle platformer. \n\n• Roll your way through a jam packed world set over five unique locations.\n• Put that grey matter to the test with some seriously crafty puzzles.\n• Use your shield to defend and your gun to attack! (Handy against knife wielding punks and crazed mutants)\n• Face your gun down to perform a ROCKET JUMP!\n• Epic Boss fights, including a thrilling chainsaw death match.\n• Unlock hidden levels opening a whole new perspective! can you find them all?\n• Music by Eirik Suhrke (Creator of Ridiculous Fishing & Super Crate box)",
+    "publisher": "Nitrome",
+    "developer": null,
+    "base_release_date": 20200409,
+    "first_update_release_date": 20200325,
+    "latest_update_release_date": 20200325,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200325
+    },
+    "versions": {
+        "65536": 20200325
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Roll your way through this action packed puzzle platformer.\nThe Gunbrick - A gun one side... a shield on the other. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

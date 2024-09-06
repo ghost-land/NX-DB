@@ -1,4 +1,37 @@
 {
     "id": "01008DB01CFD2800",
-    "version": 131072
+    "base_tid": "01008DB01CFD2000",
+    "name": "Lazriel: The Demon's Fall",
+    "description": "\"Lazriel: the Demon's Fall\" is a roguelike deckbuilding game with an added element of \"the dark side.\" Climb the tower and return to Heaven before you succumb to demon powers.\n\nTo survive in the demon world, the angel Lazriel must borrow demon powers from time to time. But be wary—overusing these evil powers may lead to her physical and mental decline. Can Lazriel truly persevere through the tower's many trials and climb her way back to Heaven in one piece?",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20240314,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240728
+    },
+    "versions": {
+        "65536": 20240328,
+        "131072": 20240728
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "\"Was using this power the right decision...?\"\nClimb the tower and return to Heaven before you succumb to demon powers in this rogue-like game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

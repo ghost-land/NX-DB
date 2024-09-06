@@ -1,4 +1,41 @@
 {
     "id": "01008D400E1BA800",
-    "version": 262144
+    "base_tid": "01008D400E1BA000",
+    "name": "Pocket Stables",
+    "description": "Manage your very own ranch while training your racehorses to win big in exciting races! \n\nBuild training facilities like dirt courses and pools amidst the beautiful natural surroundings of your ranch. Increase your ranch's fame and entice visitors to spend some dough at your ranch's amenities, like ice cream stands and gift shops.\n\nFind horses with the right combination of stamina and speed and intensity and train them to race. Keep winning races to earn bigger and better prizes, as well as the ability to compete in even bigger and more exciting races on an international scale.\n\nSend once-great racehorses out to stud. Find effective pedigree combinations and breed a new generation of talented colts.\n\nCan you train a Triple Crown winner and bring fame and glory to your ranch?\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20191010,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20240820,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240820
+    },
+    "versions": {
+        "65536": 20210526,
+        "131072": 20220907,
+        "196608": 20220907,
+        "262144": 20240820
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Manage a ranch while training your racehorses to race for a Triple Crown.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

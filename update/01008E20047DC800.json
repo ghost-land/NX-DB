@@ -1,4 +1,38 @@
 {
     "id": "01008E20047DC800",
-    "version": 65536
+    "base_tid": "01008E20047DC000",
+    "name": "Snipperclips Plus: Cut It Out, Together!",
+    "description": "Snipperclips Plus: Cut It Out, Together!",
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20171109,
+    "latest_update_release_date": 20171109,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171109
+    },
+    "versions": {
+        "65536": 20171109
+    },
+    "category": [
+        "Action",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

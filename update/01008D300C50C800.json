@@ -1,4 +1,64 @@
 {
     "id": "01008D300C50C800",
-    "version": 1572864
+    "base_tid": "01008D300C50C000",
+    "name": "Super Nintendo Entertainment System™ - Nintendo Switch Online",
+    "description": "With a Nintendo Switch Online membership, gain access to a large collection of Super NES™ games that are great to play anytime, anywhere! For the first time ever, you can play these classic games online and use voice chat via the Nintendo Switch Online smartphone app*. Compete or cooperate online with friends, share your screen, or virtually pass the controller, depending on the game.\n\nConquer classics such as Super Mario World™, Super Metroid™, and The Legend of Zelda™: A Link to the Past™, and EarthBound™. Depending on the game, you can engage in online competitive or co-op multiplayer, or take turns controlling the action. Need back up? Then team up in cooperative games like Donkey Kong Country™ and Joe & Mac 2: Lost in the Tropics. You can also compete against a friend in Super Mario Kart™, Kirby’s Dream Course™, and even Stunt Race FX™ —available for the first time since its original 1994 release! Friends can even watch each other play single-player games online, and virtually “pass the controller” at any time. Every classic Super NES game included in this collection will support voice chat via the Nintendo Switch Online smartphone app*. ",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20191212,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "1572864",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20191212,
+        "131072": 20200219,
+        "262144": 20200520,
+        "393216": 20200715,
+        "458752": 20200903,
+        "524288": 20200923,
+        "589824": 20201130,
+        "655360": 20201218,
+        "720896": 20210217,
+        "851968": 20210526,
+        "917504": 20210728,
+        "983040": 20220211,
+        "1048576": 20220331,
+        "1114112": 20220526,
+        "1179648": 20220609,
+        "1245184": 20220722,
+        "1310720": 20230316,
+        "1376256": 20230608,
+        "1441792": 20230905,
+        "1507328": 20240221,
+        "1572864": 20240412
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "Now you’re playing with super power!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

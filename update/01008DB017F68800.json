@@ -1,4 +1,38 @@
 {
     "id": "01008DB017F68800",
-    "version": 196608
+    "base_tid": "01008DB017F68000",
+    "name": "Atari Mania",
+    "description": "A wild journey through videogame history, Atari Mania is a microgame collection wrapped in a hilarious retro-driven narrative of exploration and surprise. ",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20220930,
+    "latest_update_release_date": 20230411,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230411
+    },
+    "versions": {
+        "65536": 20220930,
+        "131072": 20221012,
+        "196608": 20230411
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A wild journey through videogame history, Atari Mania is a microgame collection wrapped in a hilarious retro-driven narrative of exploration and surprise. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

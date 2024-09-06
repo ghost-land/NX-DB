@@ -1,4 +1,39 @@
 {
     "id": "01008E100E416800",
-    "version": 196608
+    "base_tid": "01008E100E416000",
+    "name": "PowerSlave Exhumed",
+    "description": "PowerSlave: Exhumed is a KEX Engine port of the classic console game\n\nDestination: The ancient Egyptian city of Karnak. Alien forces possessing horrifying powers have sealed off the once thriving community from all outside contact. As a covert operations specialist, you have been trained for all forms of contingencies. Nothing can prepare you, however, for the nightmare you are about to enter...\n\nFeatures:\n\nFirst Person Viewpoint Action\n20 Plus Levels of Non-stop gameplay through an ancient Egyptian city and the tomb of the Pharaoh Ramses\nReal time fully 3D rendered gameplay allows you to move between floors within a single level\nCross bridges and swim through underwater grottos\nWith just a machete to start, search for 6 other weapons including hand grenades, a flame thrower, an M-60 machine gun, and a magical cobra staff.\nDynamic lighting creates stunning visual effects.",
+    "publisher": "Nightdive Studios",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220204,
+    "latest_update_release_date": 20220712,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220712
+    },
+    "versions": {
+        "65536": 20220204,
+        "131072": 20220317,
+        "196608": 20220712
+    },
+    "category": [
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

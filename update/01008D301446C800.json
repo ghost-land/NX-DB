@@ -1,4 +1,34 @@
 {
     "id": "01008D301446C800",
-    "version": 65536
+    "base_tid": "01008D301446C000",
+    "name": "MARIOZZA COPS",
+    "description": "One year after the new world governments, 2:29. Unit 667 MARIOZZA is receiving a report of a suspicious flare in an industrial area. It turns out that there has been an explosion in one of the factories where the agents Jasper and TJ are carrying out unusual missions. While trying to reach out to the staff and explain the cause of the explosion, they encounter strong resistance from cyber machines that protect corporate secrets. \n\nWhat do you get:\n- ROE power to completely devastate your enemies\n- pimp your guns by boosting their performance \n- fight bosses that you haven't fought yet \n- game for 2 players \n- script with a dose of black humour \n- atmosphere of the game embedded in the graphic design of PIXEL ART",
+    "publisher": "KrzysztofPodsada",
+    "developer": null,
+    "base_release_date": 20210629,
+    "first_update_release_date": 20211026,
+    "latest_update_release_date": 20211026,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211026
+    },
+    "versions": {
+        "65536": 20211026
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Shooter"
+    ],
+    "intro": "Agents Jasper and TJ are ready for a brawl!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }

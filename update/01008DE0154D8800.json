@@ -1,4 +1,48 @@
 {
     "id": "01008DE0154D8800",
-    "version": 720896
+    "base_tid": "01008DE0154D8000",
+    "name": "APICO",
+    "description": "APICO is a laid-back beekeeping sim game about breeding, collecting, & conserving bees! \nLeave your boring city job behind to return to your family home in Port APICO and get back to your beekeeping roots.\n\nSet in a series of lush environments, APICO uniquely combines resource gathering, biology, and beekeeping minigames, taking ideas from a mix of real-life and fantasy apiculture & floriculture. \n\nOn your journey you'll rediscover lost species, cross-breed new bees, and help repopulate the islands.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20220715,
+    "latest_update_release_date": 20240606,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240606
+    },
+    "versions": {
+        "65536": 20220715,
+        "131072": 20220805,
+        "196608": 20220818,
+        "262144": 20230316,
+        "327680": 20230511,
+        "393216": 20230523,
+        "458752": 20230608,
+        "524288": 20240520,
+        "589824": 20240520,
+        "655360": 20240603,
+        "720896": 20240606
+    },
+    "category": [
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "- Live out your wildest beekeeping fantasies – sting free! \n- Unique crafting & beekeeping minigames that drive gameplay progression ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

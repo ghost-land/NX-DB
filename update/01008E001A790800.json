@@ -1,4 +1,43 @@
 {
     "id": "01008E001A790800",
-    "version": 65536
+    "base_tid": "01008E001A790000",
+    "name": "Right and Down",
+    "description": "A roguelike, dungeon crawler, card game that is played using only two buttons: Right and Down! Choose your hero and explore randomly generated card dungeons, gather powerful artifacts to get new abilities, and fight against increasingly mighty enemies! Will you make it to level 50?\n\nROGUELIKE GAMEPLAY\nEach dungeon is randomly generated, so each game is unique! But randomness ends there, as all needed information is shown in-game. Your destiny is determined by your decisions!\n\nEACH DECISION MATTERS\nOn each turn, the only decision you can make is to go right or down. This decision, which at first seems trivial, hides a great tactical depth. Will you try to dodge that high-level monster or fight it to get the artifact it hides to its right? The new artifact you just got gives you 5 coins every turn, but only if you move down. Will you risk it?\n\nUNLOCKABLE ARTIFACTS, HEROES, AND DUNGEONS\n*Unlock 6 heroes with different starting artifacts and skills to create your custom run!\n*More than 100 artifacts with a wide variety of effects that you can unlock with every game you play!\n*9 different dungeons. Each one adds a new rule to the game and will increase its difficulty. will you be able to reach the final dungeon?",
+    "publisher": "mc2games",
+    "developer": null,
+    "base_release_date": 20230124,
+    "first_update_release_date": 20230201,
+    "latest_update_release_date": 20230201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230201
+    },
+    "versions": {
+        "65536": 20230201
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "RPG",
+        "Puzzle"
+    ],
+    "intro": "A deep roguelike and card game that is played using only two buttons: Right and Down! Choose your hero and explore randomly generated card dungeons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

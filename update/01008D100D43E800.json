@@ -1,4 +1,49 @@
 {
     "id": "01008D100D43E800",
-    "version": 458752
+    "base_tid": "01008D100D43E000",
+    "name": "Saints Row IV®: Re-Elected™",
+    "description": "You are the President of the United States of America, and you must save all of us on Earth.\n\nThe Boss of the Saints has been elected to the Presidency of the United States but the Saints are just getting started.\n\nAfter a catastrophic alien invasion of Earth, led by the evil Overlord Zinyak, the Saints have been transported to a bizarro-Steelport simulation. With homies new and old at their side, and an arsenal of superpowers and strange weapons, they must fight to free humanity from alien granddaddy Zinyak’s mental grasp.\n \nThe Saints have gone from the crackhouse to the Penthouse, to The White House – but now it’s up to you to free the world from Zinyak and his alien empire, saving the world in the wildest open world game ever, playable for the first time on Nintendo Switch™.",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20200327,
+    "first_update_release_date": 20200312,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20200312,
+        "196608": 20200429,
+        "262144": 20200708,
+        "327680": 20210126,
+        "393216": 20210728,
+        "458752": 20220211
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "You are the President now",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Partial Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Use of Drugs",
+        "Users Interact"
+    ],
+    "region": null
 }

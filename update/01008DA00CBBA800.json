@@ -1,4 +1,47 @@
 {
     "id": "01008DA00CBBA800",
-    "version": 589824
+    "base_tid": "01008DA00CBBA000",
+    "name": "Snooker 19",
+    "description": "THE BIGGEST STARS IN WORLD SNOOKER\nPlay in every officially licensed tournament as any of the top 128 players in the world including: Mark Selby, Ronnie O’Sullivan, Ding Junhui and legends of the sport like Ken Doherty and Jimmy White.\n\nUNPRECEDENTED REALISM\nThis is the most authentic simulation of the sport ever created, with TV-style presentation and commentary, true-to-life physics and advanced artificial intelligence.\n\nBECOME A LEGEND\nMake history and break records as you assume the career of your favourite snooker pro, or start a brand new journey fresh from the Q-School academy.\n\nONLINE & OFFLINE MULTIPLAYER\nChoose from a full suite of offline and online modes, from quick play online match-making to global online tournaments that link in real-time with the live World Snooker calendar. Plus fully customised matches of full snooker, 6-red and shoot-out for both online and offline competition.",
+    "publisher": "Ripstone Publishing",
+    "developer": null,
+    "base_release_date": 20190823,
+    "first_update_release_date": 20190813,
+    "latest_update_release_date": 20230103,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230103
+    },
+    "versions": {
+        "65536": 20190813,
+        "131072": 20190909,
+        "196608": 20191003,
+        "262144": 20191118,
+        "327680": 20200114,
+        "393216": 20200427,
+        "458752": 20200918,
+        "524288": 20201014,
+        "589824": 20230103
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Training",
+        "Multiplayer"
+    ],
+    "intro": "Snooker 19 - The official video game of World Snooker.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

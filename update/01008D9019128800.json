@@ -1,4 +1,49 @@
 {
     "id": "01008D9019128800",
-    "version": 589824
+    "base_tid": "01008D9019128000",
+    "name": "Gravity Circuit",
+    "description": "Gravity Circuit - a flashy action packed 2d platformer in the spirit of console classics.\n\nMission: Stop the Virus Army’s Uprising!\n\nIn a futuristic world populated by sentient robots, its inhabitants are once more threatened by an old foe, the Virus Army. Defeated decades ago, it has re-emerged from the shadows with a unique goal, complete world domination. Severely weakened Guardian Corps are left with no other choice but to call upon a hero of the previous war: the lone operative, Kai, who harnesses the powers of the mysterious Gravity Circuit. As the world's last line of defense, journey through futuristic environments, and take down the evil mastermind behind this chaos.\n\nReminiscent of classic platformers from the 80s and 90s, with action dialed to maximum, channel your power into your fists and send foes flying, or grapple them to get up close and personal. In your quest you will acquire many new powers, which will allow you to go even further beyond!\n\nKey features\n\n-Action packed platforming \n\nBy channeling your energy into devastating punches, perform satisfying combos and send foes flying, causing destruction and mayhem in the process!\n\n-Save the innocent, and power up! \n\nStages are packed with secrets and innocent civilians alike. Uncover and rescue them, and unlock new powers!\n\n-Single player campaign with 12 stages\n\nEach with their unique set of mechanics, your platforming and combat skills will be tested against an armada of enemies and bosses!",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20230810,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240612,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240612
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20230714,
+        "196608": 20230809,
+        "262144": 20230911,
+        "327680": 20231003,
+        "393216": 20240130,
+        "458752": 20240313,
+        "524288": 20240419,
+        "589824": 20240612
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Follow a lone war hero in this flashy action packed 2D platformer",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

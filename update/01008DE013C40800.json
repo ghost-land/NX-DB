@@ -1,4 +1,44 @@
 {
     "id": "01008DE013C40800",
-    "version": 262144
+    "base_tid": "01008DE013C40000",
+    "name": "Fort Triumph",
+    "description": "Fort Triumph is a challenging fantasy turn-based tactics game where permanent death is a possibility at any moment. How's that for pressure?\n\nLead a band of heroes with different skill sets through a witty, parody fantasy plot. Missions with various objectives are waiting for you on tiled procedural maps—whether in story mode or skirmish, prepare yourself for a grand adventure.\n\n● Utilize your surroundings: Every tree or boulder is a potential weapon in battle.\n● Strategize: Choose between four factions and four classes. Build your base, gather resources and teach your characters new skills!\n● Grow your heroes: Gain traits and cross-class skills to make your heroes unique every time you play!\n● Explore procedurally generated maps: Fort Triumph features flexible world maps with variable locations and events. Each battle calls for a new plan.\n● Turn up the volume: Marco Valerio Antonini, an award-winning composer, created the original in-game music.",
+    "publisher": "ALL IN! GAMES",
+    "developer": null,
+    "base_release_date": 20220325,
+    "first_update_release_date": 20210722,
+    "latest_update_release_date": 20211124,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211124
+    },
+    "versions": {
+        "65536": 20210722,
+        "131072": 20210812,
+        "196608": 20210906,
+        "262144": 20211124
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Every foe is deadly. Each encounter is unique.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }
