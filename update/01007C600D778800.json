@@ -1,4 +1,42 @@
 {
     "id": "01007C600D778800",
-    "version": 131072
+    "base_tid": "01007C600D778000",
+    "name": "Creature in the Well",
+    "description": "Creature in the Well is a top-down, pinball-inspired, hack-and-slash dungeon crawler. As the last remaining BOT-C unit, venture deep into a desert mountain to restore power to an ancient facility, haunted by a desperate Creature. Uncover and upgrade powerful gear in order to free the city of Mirage from a deadly sandstorm.\n\n- Pinball with swords: Charge up energy orbs, then bounce and ricochet them to reactivate dormant machinery and stop the sandstorm.\n- Defeat the Creature: Escape the many challenges set by the Creature and confront it in intricate, skillful battles.\n- Dungeon-crawler: Delve deeper into the mountain as you unlock eight hand-crafted dungeons, each filled with unique gameplay themes, unlockables, and secrets to uncover. \n- Over 20 unique items: Customize your playstyle with upgradeable weapons and clothing that change how you play the game.",
+    "publisher": "Flight School Studio",
+    "developer": null,
+    "base_release_date": 20190906,
+    "first_update_release_date": 20190906,
+    "latest_update_release_date": 20200525,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200525
+    },
+    "versions": {
+        "65536": 20190906,
+        "131072": 20200525
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Unlock the power of an ancient facility and face the ominous, all-seeing Creature in this unique pinball-inspired hack & slash!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "fr",
+        "pt",
+        "en",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

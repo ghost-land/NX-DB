@@ -1,4 +1,36 @@
 {
     "id": "01007D600B70A800",
-    "version": 458752
+    "base_tid": "01007D600B70A000",
+    "name": "海腹川背 Fresh!",
+    "description": "『海腹川背Fresh!』はルアーを引っかけて、ラバーロープで世界を冒険するアクションゲームです。工夫次第でいろいろな動きが可能になります。巨大なワールドでクエストを進めたり、世界の果てを目指したり、集めた材料で料理もできちゃいます。",
+    "publisher": "サクセス",
+    "developer": null,
+    "base_release_date": 20190425,
+    "first_update_release_date": 20190603,
+    "latest_update_release_date": 20200603,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200603
+    },
+    "versions": {
+        "65536": 20190603,
+        "131072": 20190708,
+        "262144": 20190930,
+        "393216": 20200426,
+        "458752": 20200603
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "ラバーリングアクションが帰ってきた！\n海腹川背シリーズ完全新作。巨大な世界で、シリーズ初のストーリーや冒険をお楽しみください。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

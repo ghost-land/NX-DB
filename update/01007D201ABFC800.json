@@ -1,4 +1,38 @@
 {
     "id": "01007D201ABFC800",
-    "version": 393216
+    "base_tid": "01007D201ABFC000",
+    "name": "Corbid! A Colorful Adventure",
+    "description": "Have fun helping Corbid to overcome the mazes to be crowned champion. Eat, mix and shoot colors to solve the puzzles of Corbid! \n\nEnjoy the colorful worlds full of creatures with different abilities that you will have to play with to advance and solve the mysteries found in the gardens.\n",
+    "publisher": "MERIDIEM GAMES",
+    "developer": null,
+    "base_release_date": 20240314,
+    "first_update_release_date": 20231201,
+    "latest_update_release_date": 20240527,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240527
+    },
+    "versions": {
+        "65536": 20231201,
+        "131072": 20240125,
+        "196608": 20240227,
+        "327680": 20240313,
+        "393216": 20240527
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

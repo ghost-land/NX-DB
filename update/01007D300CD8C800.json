@@ -1,4 +1,41 @@
 {
     "id": "01007D300CD8C800",
-    "version": 196608
+    "base_tid": "01007D300CD8C000",
+    "name": "Asdivine Hearts II",
+    "description": "Picking up two years after the events of their first adventure, Zack and friends find themselves off on another quest, but this time to save the parallel world of Archelio, which is on the verge of being frozen in ice.\n\nWith a convenient summary of the previous title included, players can jump right into Asdivine Hearts II without having played the first!\n\nUtilizing a brand new team system, lead up to six characters into battle, and destroy onslaughts of powerful foes! See the amalgamation of years of RPG-crafting expertise and plug in jewels to boost character parameters as the beloved rubix makes its triumphant return.\nUpgrade rare weapons to make one's own personal slayer of evil! Dispatch buddies to earn Guild Coins while the party works on their quest! Or simply equip their jewels to learn their skills!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190125,
+    "first_update_release_date": 20190227,
+    "latest_update_release_date": 20221030,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221030
+    },
+    "versions": {
+        "65536": 20190227,
+        "131072": 20210819,
+        "196608": 20221030
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "With a world on the verge of being frozen in ice, hearts unite once more in a sequel to the smash hit RPG series!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Scary Scenes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

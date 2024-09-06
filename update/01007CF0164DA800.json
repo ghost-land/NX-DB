@@ -1,4 +1,33 @@
 {
     "id": "01007CF0164DA800",
-    "version": 65536
+    "base_tid": "01007CF0164DA000",
+    "name": "My Name is Mayo",
+    "description": "If you are looking for a next generation gameplay experience and an engrossing open world environment...!!! Well, this is not that game... This is the touching story about a Mayo Jar.\n\nThis is a clicking adventure that simulates the real-life tapping of a Mayo Jar! You will unveil its story and (maybe) you will learn from it, while you unlock 50 achievements!!",
+    "publisher": "Green Lava Studios",
+    "developer": null,
+    "base_release_date": 20230404,
+    "first_update_release_date": 20230520,
+    "latest_update_release_date": 20230520,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230520
+    },
+    "versions": {
+        "65536": 20230520
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "This is a clicking adventure that simulates the real-life tapping of a Mayo Jar! You will unveil its story and (maybe) you will learn from it!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

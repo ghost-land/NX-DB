@@ -1,4 +1,32 @@
 {
     "id": "01007C70111D6800",
-    "version": 65536
+    "base_tid": "01007C70111D6000",
+    "name": "Buddy Collection Extra －胡蝶荘の奇妙な五人－",
+    "description": "あなたは、とある高校の『探偵科』の生徒。\nバディとともに、とある依頼を引き受けるが、台風によって帰れなくなってしまう。\nやむを得ず宿泊することになった『胡蝶荘』と呼ばれる別荘には、一年前にそこで自殺した女性、久喜アゲハを悼むために４人の人物が集まっていた――……\n\n恋愛要素は薄く、推理要素が強いのでご注意ください。\n数ある選択肢の中から『BADEND』を回避し、バディとともに真相を突き止めてください。\n\nまた、このゲームは『Buddy Collectionシリーズ』の番外編ですが、\n他シリーズを遊んでいただかなくても、楽しめる内容になっております。\n\n※一部、キャラクターボイスがございます。",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20210204,
+    "first_update_release_date": 20210212,
+    "latest_update_release_date": 20210212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210212
+    },
+    "versions": {
+        "65536": 20210212
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "探偵×学園×相棒\nバディとともに\n『胡蝶荘』の謎を解け！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

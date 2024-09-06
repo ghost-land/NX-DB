@@ -1,4 +1,46 @@
 {
     "id": "01007C2002B3C800",
-    "version": 196608
+    "base_tid": "01007C2002B3C000",
+    "name": "GoNNER",
+    "description": "You will die. A lot. This is by design, but it's not made to feel unfair. You'll eventually get the hang of GoNNER, so don't lose your head. But even if you do it's okay cause we have a lot of replacement heads you can use.\n\n- PROCEDURALLY GENERATED! Every time you play the game the levels will be different and present unique challenges and opportunities.\n\n- UNLOCKS! You'll be able to choose from a variety of passive and active abilities at the beginning of each run so be sure to experiment with all of them and find the play style that best suits you.\n\n- SECRETS! Secret areas exist in the world of GoNNER, and these areas will get you different items that you can then always use from the beginning of each run. We're not going to tell you how you get to these areas or what the criteria is for even finding them because secrets, duh.\n\n- MUSIC! It's really freaking good.\n\nGood luck.",
+    "publisher": "Raw Fury",
+    "developer": null,
+    "base_release_date": 20170629,
+    "first_update_release_date": 20171005,
+    "latest_update_release_date": 20181218,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181218
+    },
+    "versions": {
+        "65536": 20171005,
+        "131072": 20180504,
+        "196608": 20181218
+    },
+    "category": [
+        "Platformer",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "GoNNER is a tough as hell score-based procedurally-generated platformer with roguelike elements. GoNNER is also a story about friendship between Ikk, Death, and a space whale named Sally.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

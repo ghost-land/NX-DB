@@ -1,4 +1,32 @@
 {
     "id": "01007C30140F4800",
-    "version": 65536
+    "base_tid": "01007C30140F4000",
+    "name": "Dynos & Ghosts",
+    "description": "Save the Dynos colony from the deadly ghosts. You drive a nano-robot whose aim is to crunch the ghosts and their power ups, while sparing the dynosaurs.\nServed by beautiful graphics, sounds and animation, this arcade game introduce a new type of gameplay that will bring you hours of fun!\n\nMain Features:\n-250 Levels\n-Fun arcade action\n-New style of gameplay\n-Trippy Music\n-Realistic Sound FX",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20210218,
+    "first_update_release_date": 20210421,
+    "latest_update_release_date": 20210421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210421
+    },
+    "versions": {
+        "65536": 20210421
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

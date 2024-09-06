@@ -1,4 +1,43 @@
 {
     "id": "01007C7018F8C800",
-    "version": 327680
+    "base_tid": "01007C7018F8C000",
+    "name": "Die After Sunset",
+    "description": "They're changing the past... we have to go back!  \n\nBlast into an action-packed adventure through time, where Earth is under attack by aliens. Lead the resistance against the 'Murkors' in Die After Sunset, a vibrant roguelite shooter. Experiment with different item combinations and power up through missions as you race against the clock to take on gigantic bosses! If they take you down, then don't worry - death is only the beginning! \n\nReturn to the fight, levelled-up and stronger with each new run!\n",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20230817,
+    "first_update_release_date": 20230816,
+    "latest_update_release_date": 20231002,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231002
+    },
+    "versions": {
+        "65536": 20230816,
+        "196608": 20230829,
+        "262144": 20230911,
+        "327680": 20231002
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": "Blast into an action-packed roguelite adventure through time, where Earth is under attack by aliens! \n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

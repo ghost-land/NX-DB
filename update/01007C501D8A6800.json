@@ -1,4 +1,37 @@
 {
     "id": "01007C501D8A6800",
-    "version": 65536
+    "base_tid": "01007C501D8A6000",
+    "name": "Mustache In Hell",
+    "description": "Mustache in Hell is a comical twin stick action game. You and your mustache must battle hordes of enemies, collect loot, upgrade weapons and take on enormous bosses.\n\nJohn Mustache is a tough-as-nails police officer. After some disquieting dreams, he finds himself awake in a strange place and must make an unexpected deal with the Grim Reaper to regain control of his life. \n\nFeatures\n- Dive head-first into high adrenaline combat\n- Find secret items and unlockables at every turn\n- Scratch your head at mini-puzzles and challenges\n- Collect pistols, shotguns and flamethrowers - Oh my!\n- Battle insane bosses armed with nothing but your mustache and gun\n\n\nWhat are you waiting for? Grab your razor, trim down your 'stache, and let's do it!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20240312,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20240312
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "A trip to hell. Hordes of demons. Big guns. Insane combat encounters. Pixel art mustaches. It's going to be a long day for Officer John Mustache.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
+    "region": null
 }

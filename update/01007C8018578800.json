@@ -1,4 +1,39 @@
 {
     "id": "01007C8018578800",
-    "version": 262144
+    "base_tid": "01007C8018578000",
+    "name": "Breakers Collection",
+    "description": "Breakers Collection features both of the original games (Breakers and Breakers Revenge) and a brand new content for the cult-classic among the fans of Fighting Games, that was first released in 1996 for the Neogeo and Arcades and after released with a sequel in 1998 with additional playable characters, balance adjustments and new gameplay elements.\n\nBreakers Collection is an action-fighting game, with a roster with many playable characters (10 in Breakers Revenge), that were all known by the fans from around the world.\n\nThe special actions are also similar to other fighting games from the same era, although the dashing and back-stepping techniques tend to differ between characters.\n\nIn this collection, the player will have the opportunity to play the classic Versus Mode local or with online lobbies, Arcade Mode, Ranked battles with Rollback Netcode (GGPO), Team Battle, Art gallery, Training mode and more!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230112,
+    "first_update_release_date": 20230110,
+    "latest_update_release_date": 20230224,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230224
+    },
+    "versions": {
+        "65536": 20230110,
+        "131072": 20230111,
+        "196608": 20230126,
+        "262144": 20230224
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "intro": "Breakers Collection features both of the original games (Breakers and Breakers Revenge) and a brand new content for the cult-classic among the fans of Fighting Game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }
