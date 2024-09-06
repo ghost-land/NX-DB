@@ -1,4 +1,42 @@
 {
     "id": "0100F6B01188E800",
-    "version": 131072
+    "base_tid": "0100F6B01188E000",
+    "name": "Little Big Workshop",
+    "description": "Manage your workers and create awesome stuff as you grow your dream factory!",
+    "publisher": "HandyGames",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20201016,
+    "latest_update_release_date": 20210111,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210111
+    },
+    "versions": {
+        "65536": 20201016,
+        "131072": 20210111
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Manage your workers and create awesome stuff as you grow your dream factory!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

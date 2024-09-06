@@ -1,4 +1,44 @@
 {
     "id": "0100F6200B7D4800",
-    "version": 131072
+    "base_tid": "0100F6200B7D4000",
+    "name": "fault - milestone one",
+    "description": "Experience the story of a princess named Selphine and her Royal Guardian Ritona. When a sudden assault devastates their homeland of Rughzenhaide, the two are forced to escape… but somehow end up teleported into an unknown forest full of vegetation they don’t recognize. The atmosphere is thick and heavy. There is no sign of life, which is very unusual for such a lush forest. Something is wrong about the land… But they are too startled to notice what.\n\nWho were the attackers and what was their goal?\nWhere did Selphine and Ritona end up?\nWill the two make it home safely?\nAnd more importantly, what has happened to their homeland?",
+    "publisher": "Sekai Games",
+    "developer": null,
+    "base_release_date": 20191003,
+    "first_update_release_date": 20191112,
+    "latest_update_release_date": 20210819,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210819
+    },
+    "versions": {
+        "65536": 20191112,
+        "131072": 20210819
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Follow Selphine, the bubbly Princess and her sharp-witted Royal Guardian, Ritona, on their journey of a lifetime back to their homeland of Rughzenhaide.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

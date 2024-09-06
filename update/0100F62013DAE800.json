@@ -1,4 +1,49 @@
 {
     "id": "0100F62013DAE800",
-    "version": 393216
+    "base_tid": "0100F62013DAE000",
+    "name": "FINALSWORD DefinitiveEdition",
+    "description": "The source of evil, it has brought numerous monster corps.\nDefeat the source of evil by acquiring various skills and magics through the adventure.\nYou will experience breathtaking battles with real fantasy monsters.",
+    "publisher": "HUP Games",
+    "developer": null,
+    "base_release_date": 20211202,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210608,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210608
+    },
+    "versions": {
+        "65536": 20210121,
+        "131072": 20210201,
+        "196608": 20210208,
+        "262144": 20210216,
+        "327680": 20210314,
+        "393216": 20210608
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "FINALSWORD DefinitiveEdition is a story-driven open world RPG set in a stunning fantasy universe full of breathtaking battles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

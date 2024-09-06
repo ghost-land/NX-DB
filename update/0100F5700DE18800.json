@@ -1,4 +1,35 @@
 {
     "id": "0100F5700DE18800",
-    "version": 131072
+    "base_tid": "0100F5700DE18000",
+    "name": "Rally Rock 'N Racing",
+    "description": "In Rally Rock 'N Racing, you’ll enjoy a wide variety of natural environments, such as deserts, snow-covered mountains, forests... where you can show your skill at the wheel, competing against everyone to become the fastest. The game has several modes, such as Championship, Time Trial, Arcade, and 4-player multiplayer.\n\nOnline leader board where you can compare your best times with those of your friends and players from around the world.\n\nFeatures:\n\n- Wide variety of tracks.\n- Multi-player with 4 players.\n- Realistic driving physics.\n- Lots of Rock 'N Roll music.",
+    "publisher": "EnjoyUp Games",
+    "developer": null,
+    "base_release_date": 20190628,
+    "first_update_release_date": 20190620,
+    "latest_update_release_date": 20190723,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190723
+    },
+    "versions": {
+        "65536": 20190620,
+        "131072": 20190723
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Get ready to skid around at full speed with your family and friends!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

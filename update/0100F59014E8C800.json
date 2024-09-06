@@ -1,4 +1,48 @@
 {
     "id": "0100F59014E8C800",
-    "version": 589824
+    "base_tid": "0100F59014E8C000",
+    "name": "hexceed",
+    "description": "A modern twist on a classic puzzle game! Progress through hexes to uncover which spaces are safe and which spaces hide danger! \nRelax and be rewarded!\n\nNumbers show you how many dangers lie around the hexagon! Each tile reveals even more information for you to progress through the level!\n\nLearn about the special tiles that give you knowledge in new and intriguing ways!\nLines for directions, walls for blocking, and more for you to discover!\nFind out what each mechanic gives you, as well as what it takes away!\n\nEvery single tile has an answer!\nUse your own critical thinking combined with the revealed information to correctly place each and every click!\nWatch out if you click in the wrong hex!\n\n100s of levels! \nEach level has its own unique layout, bringing a fresh puzzle for you to complete!\nAs you progress you will map out the world!\nEither race to the end by collecting all the milestones, or take the scenic route to visit each and every one of the side levels along your way!",
+    "publisher": "ToastieLabs",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20240221,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240221
+    },
+    "versions": {
+        "65536": 20211007,
+        "131072": 20211027,
+        "196608": 20211123,
+        "327680": 20211201,
+        "393216": 20220211,
+        "458752": 20230208,
+        "524288": 20230426,
+        "589824": 20240221
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "A relaxing, hexagon based, puzzle game. An exciting new twist on a classic game without the element of guesswork! Use your critical thinking to progress through hundreds of levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

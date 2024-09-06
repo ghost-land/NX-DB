@@ -1,4 +1,43 @@
 {
     "id": "0100F5501CE12800",
-    "version": 131072
+    "base_tid": "0100F5501CE12000",
+    "name": "Fearmonium",
+    "description": "Fearmonium is a psychedelic metroidvania with an expressive aesthetic where suspense joins together with humor.\n\nYou play as a phobia growing inside the confused mind of a teenage boy named Max. Discover a nightmarish world of his consciousness to explore. Get ready for a psychological world teeming with 2D platform exploration, memorable enemies, unique abilities, and incredible hand-drawn art.\n\nFearmonium poses the important question of whether fear always causes irreparable harm, or whether phobia can change life for the better.\n\n\nFeatures\n* Metroidvania gameplay with 2D platforming\n* Hand-drawn art and frame-by-frame animation\n* Comic book style storytelling\n* Memorable enemies and abilities\n* More than 15 hours of gameplay\n* Story written by a Master in psychology",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20231208,
+    "first_update_release_date": 20240115,
+    "latest_update_release_date": 20240115,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240115
+    },
+    "versions": {
+        "65536": 20240115,
+        "131072": 20240115
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Discover the strange, mysterious secrets of a troubled mind in the role of a growing phobia",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100F6A00E31E800",
-    "version": 196608
+    "base_tid": "0100F6A00E31E000",
+    "name": "侍道外傳 刀神",
+    "description": "《侍道外傳 刀神》是一個深入辭界（迷宮）討伐魑魅，暢遊深奧的攻防劍術的和風劍術動作RPG。\n為了拯救被債主帶走的打鐵鋪女兒，在夜晚前往孤松下進入辭界收集刀劍和素材，白天則待在山口的打鐵鋪賺錢，遊戲將以這樣的循環推進。\n登場的武器數量高達100種類以上，9種不同的戰鬥「架勢」，變換架勢享受截然不同的戰鬥風格。\n每當重新進入辭界時，地圖構造將會自動變換，無論挑戰幾次都仍能保有新鮮感。",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20200220,
+    "first_update_release_date": 20200218,
+    "latest_update_release_date": 20200409,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200409
+    },
+    "versions": {
+        "65536": 20200218,
+        "131072": 20200311,
+        "196608": 20200409
+    },
+    "category": [
+        "動作",
+        "角色扮演"
+    ],
+    "intro": "《侍道》系列的衍生作品隆重問世！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100F610122F6800",
-    "version": 196608
+    "base_tid": "0100F610122F6000",
+    "name": "Good Pizza, Great Pizza",
+    "description": "Do your best to fulfill pizza orders from customers while making enough money to keep your restaurant open. Upgrade your restaurant with new toppings, decor and kitchen equipment to compete against your pizza rival!",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20221109,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221109
+    },
+    "versions": {
+        "65536": 20201021,
+        "131072": 20211118,
+        "196608": 20221109
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

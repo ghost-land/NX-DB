@@ -1,4 +1,37 @@
 {
     "id": "0100F6400A77E800",
-    "version": 65536
+    "base_tid": "0100F6400A77E000",
+    "name": "Capcom Belt Action Collection",
+    "description": "除了當然要有的代表作Final Fight外, Powered Gear及Battle Circuit 更是首次移植。\n\n而當年在遊戲機中心不能選擇的難度和角色生命數等設定亦能更改。玩家還可根據個人喜好選擇遊玩日本版或海外版。其他內容還包括充滿秘密插畫的畫廊!\n\n超越世代的名作。\n全通！一幣通關！高得分！\n傳承下去！魂之Mega Crash！\n\n收錄遊戲: Final Fight / The King Of Dragons / Captain Commando / Knights of the Round / 吞食天地II 赤壁之戰 / Powered Gear / Battle Circuit ",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20181107,
+    "first_update_release_date": 20181106,
+    "latest_update_release_date": 20181106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181106
+    },
+    "versions": {
+        "65536": 20181106
+    },
+    "category": [
+        "動作",
+        "街機"
+    ],
+    "intro": "再次感受遊戲機中心的興奮!\n將Capcom的7款著名橫向清版動作遊戲集於1件作品內。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

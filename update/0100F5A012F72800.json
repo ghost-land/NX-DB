@@ -1,4 +1,32 @@
 {
     "id": "0100F5A012F72800",
-    "version": 65536
+    "base_tid": "0100F5A012F72000",
+    "name": "WRC9 The Official Game",
+    "description": "WRCは世界のトップドライバーに支持されているオフロード・シミュレーションゲームの人気シリーズ。\n実在するマシンやドライバーでリアルなシミュレーションを楽しむラリーゲームです。\n3つの新しいラリー（ケニヤ、日本、ニュージーランド）、15台以上のクラシックマシン、さらに挑戦可能なスペシャルステージは100個以上！\n物理エンジンの改善でよりリアルになった再設計された環境と、完全新規のペースノートによる高い没入感の中、公式ドライバー全員と3つのWRCカテゴリのマシンを自在に操作しましょう。",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20220127,
+    "first_update_release_date": 20220814,
+    "latest_update_release_date": 20220814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220814
+    },
+    "versions": {
+        "65536": 20220814
+    },
+    "category": [
+        "レース",
+        "シミュレーション",
+        "その他"
+    ],
+    "intro": "WRC 2020シーズン公式コンテンツ完全収録！！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

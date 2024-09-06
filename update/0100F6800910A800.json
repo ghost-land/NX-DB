@@ -1,4 +1,39 @@
 {
     "id": "0100F6800910A800",
-    "version": 65536
+    "base_tid": "0100F6800910A000",
+    "name": "Hover",
+    "description": "Hover is a fast-paced single and multiplayer Parkour game \nin a futuristic 3D Open World.\n\nExperience the thrills of a fast-paced single and multiplayer \nParkour game. Join the Rebellion and deride the security \nforces of an anti-leisure tyranny. Rise up to the many \nchallenges of a futuristic Open World. Assemble your team, \nenhance your gear and perform incredible tricks and \ncombos.\n \nThe game takes place in ECP17, a high-tech city also called \nHover City by its inhabitants and located on a distant \nplanet. The Great Admin cut the communication with the \nGalactic Union and established a strong dictatorship. \nHaving fun has become illegal and entertainment is \nbanished.\n \nYou're in charge of a team of young rebels, the Gamers, \nfighting against the new anti-leisure laws oppressing the \ncity. Equipped with high-tech gears allowing amazing \njumps and speed, they roam the city to sabotage the \npropaganda, help citizens, and find a way to reach the \nOrbital Station. This way they could warn the Galactic \nUnion and put an end to the oppression.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20180927,
+    "latest_update_release_date": 20180927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180927
+    },
+    "versions": {
+        "65536": 20180927
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Single and multiplayer Parkour game!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }
