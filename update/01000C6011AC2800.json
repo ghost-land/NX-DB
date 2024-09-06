@@ -1,4 +1,43 @@
 {
     "id": "01000C6011AC2800",
-    "version": 196608
+    "base_tid": "01000C6011AC2000",
+    "name": "Rusty Spout Rescue Adventure",
+    "description": "\"Rusty Spout is a lonely but honest pirate. He sails around the world looking for new adventures and always helps people in need.  \n\nCocco the evil pirate has kidnapped all the children from Rusty's village. \nNow, he needs you to help him defeat Cocco and his monsters.   \n\nNavigate with Rusty Spout through five different beautiful worlds, each one with 10 amazing levels.   \n\nBeat Cocco's monsters at the end of each world in an epic boss battle. \nFree all the children to unlock special characters. You can use them in either Endless or Battle mode.\"\n",
+    "publisher": "7 Raven Studios",
+    "developer": null,
+    "base_release_date": 20211015,
+    "first_update_release_date": 20201125,
+    "latest_update_release_date": 20210420,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210420
+    },
+    "versions": {
+        "131072": 20201125,
+        "196608": 20210420
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Fighting",
+        "Adventure"
+    ],
+    "intro": "5 Different Worlds\n50 Different Levels\n7 Characters to use in Endless Mode and Battle Mode",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null
 }

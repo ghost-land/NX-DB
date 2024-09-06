@@ -1,4 +1,40 @@
 {
     "id": "01000CF0084BC800",
-    "version": 131072
+    "base_tid": "01000CF0084BC000",
+    "name": "The Next Penelope",
+    "description": "Set in a futuristic Odyssey, \"The Next Penelope\" is a fast paced action racing game with loud colors, an original story and a challenging risk-reward system.\n\nAs Penelope is looking for Ulysses through the galaxy, the player is free to explore the planets in any order. Each world features unique situations, races, even bosses, and new permanent abilities to enhance Penelope's spaceship.\n\nWeapons can be mixed and used at any time, but all these abilities cost vital energy, so the player is very powerful and close to death at the same time!\n\nIf you've played a MicroMachines game, you'll feel right at home with the controls! (An alternative control scheme is available for newcomers as well.)\n\nAlso, HD rumble support! ",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20171222,
+    "first_update_release_date": 20171215,
+    "latest_update_release_date": 20180110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180110
+    },
+    "versions": {
+        "65536": 20171215,
+        "131072": 20180110
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Greek mythology, frantic races with shoot-'em-up action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

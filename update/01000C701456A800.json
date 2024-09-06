@@ -1,4 +1,41 @@
 {
     "id": "01000C701456A800",
-    "version": 65536
+    "base_tid": "01000C701456A000",
+    "name": "Mom Hid My Game! 2",
+    "description": "Let's find the game console mom hid!\n\nIs it under the sofa or on the fridge? Could it be behind the curtains, too?\nPlease give me back my game!\n\nFind the game in each level using various items!\n\nThe sequel to the previous 'Mom Hid My Game!', an easy-going and funny escape game awaits!",
+    "publisher": "hap Inc.",
+    "developer": null,
+    "base_release_date": 20210428,
+    "first_update_release_date": 20240213,
+    "latest_update_release_date": 20240213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240213
+    },
+    "versions": {
+        "65536": 20240213
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "My game is missing again! Take back to hunting for consoles hidden by mom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

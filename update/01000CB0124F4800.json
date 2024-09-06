@@ -1,4 +1,46 @@
 {
     "id": "01000CB0124F4800",
-    "version": 131072
+    "base_tid": "01000CB0124F4000",
+    "name": "Shotgun Farmers",
+    "description": "Reloading isn’t an option, so grab one of the deadly crops planted by the bullets of you and your enemies. Shot at by a sniper? Well they just planted you your very own sniper gun to fire back with! Harvest weapon plants quickly for more ammo or let them grow for a larger clip.\n\nCAPTURE THAT CHICKEN\nBattle enemy farmers in different game modes that change the way you play. Chase a chicken around the map in Chicken Run, steal the enemy’s prized pig in Capture The Pig, defend the scarecrow in King of the Crow, and more!\n\nSURVIVE THE HORDE\nBattle zombies in Horde Mode where you take on waves of infected farmers and animals. Can you survive to the end and take on the final boss?\n\nCUSTOMIZE YOUR FARMER\nLevel up your farmer and complete challenges to unlock over 200 cosmetics, including hats, shovel skins, costumes, and emotes!\n\nPLAY ONLINE OR OFFLINE\nPlay online with up to 10 players per match, in public lobbies and private rooms. Take on AI bots in Practice Mode to sharpen your farming skills offline or squad up with your friends and take on other players online.\n\nFREQUENT UPDATES\nShotgun Farmers is updated regularly with new weapons, new cosmetics, limited time game modes, and more new maps to come!",
+    "publisher": "Megastorm Games",
+    "developer": null,
+    "base_release_date": 20220930,
+    "first_update_release_date": 20230126,
+    "latest_update_release_date": 20230819,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230819
+    },
+    "versions": {
+        "65536": 20230126,
+        "131072": 20230819
+    },
+    "category": [
+        "First-Person Shooter",
+        "Multiplayer",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Shotgun Farmers is an online multiplayer shooter where missed shots grow new guns! Fire your bullets into the ground to plant your ammo. The longer it grows the more ammo you will get!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

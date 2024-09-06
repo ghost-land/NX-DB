@@ -1,4 +1,33 @@
 {
     "id": "01000C800FADC800",
-    "version": 131072
+    "base_tid": "01000C800FADC000",
+    "name": "Go All Out!",
+    "description": "When you're fighting, be sure to Go All Out! Be the last man standing in this intense and action packed platform fighter. Unique characters, tons of unlockables like skins, equipments or win poses. Different tactics, skills and ways of fighting.\n\nIt's not for glory, it's not for satisfaction, it's not just to find the strongest warrior of all - true power lies in cooperation and being able to fight together.\n\nFEATURES\n- Original and guest characters (and stages) from games and comic books\n- Advanced game mechanics like combo breakers, wall bounce, dash, dodge, special gauge overstack, air chaining and more\n- Unlockable playstyle variations for characters changing how character plays and feels\n- Unlockable equipment, win and lose poses, colors and more\n- Different game modes\n\n",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200214,
+    "first_update_release_date": 20200227,
+    "latest_update_release_date": 20240830,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240830
+    },
+    "versions": {
+        "65536": 20200227,
+        "131072": 20240830
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "A place where all the greatest warriors have been summoned in order to save the world of Cadread from mysterious danger that lurks in the shadows.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

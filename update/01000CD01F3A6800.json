@@ -1,4 +1,34 @@
 {
     "id": "01000CD01F3A6800",
-    "version": 65536
+    "base_tid": "01000CD01F3A6000",
+    "name": "EGGCONSOLE SORCERIAN PC-8801mkIISR",
+    "description": "Sorcerian is an action RPG released in Japan by Nihon Falcom in 1987.\n\nAs the fifth installment in the company's Dragon Slayer series, players create characters from four races: Fighter, Wizard, Dwarf, and Elf, forming parties of up to four members to embark on adventures across 15 scenarios. With a wide array of weapons and 120 types of magic at their disposal, players explore diverse challenges.\n\nEach player character has a set lifespan, and upon reaching the end of their life, they can pass on their abilities to the next generation through succession. The game features intricate systems such as career choices outside of adventuring, where characters receive annual salaries and undergo changes in their abilities as time passes.\n\nMoreover, the scenarios offer a variety of challenges beyond traditional monster-slaying and dungeon exploration, providing a unique satisfaction in completing individual stories rather than pursuing a single overarching narrative.\n\nThe seamless integration of these systems and scenarios allows players to fully immerse themselves in the world of Sorcerian, making it a deeply enjoyable experience for those who seek to delve into every aspect of the game.\n\n*Utility functions are not available.\n*This application does not have a scene select mode.\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.\n",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240613,
+    "first_update_release_date": 20240613,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20240613
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Dragon Slayer, the fifth installment in the Dragon Slayer series, continues to enjoy enduring popularity. \nEmbark on an adventure into a world of swords, magic!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

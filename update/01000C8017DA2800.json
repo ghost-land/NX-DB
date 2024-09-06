@@ -1,4 +1,34 @@
 {
     "id": "01000C8017DA2800",
-    "version": 65536
+    "base_tid": "01000C8017DA2000",
+    "name": "Rocket Cows",
+    "description": "Strap rockets to cows and take out those abducting little aliens in this destructive physics game!\nAim and lauch to smash down the aliens structures or go for a direct hit.\nRotate freely around the island to search for hidden aliens and TNT barrels.\n80 Great levels and hours of fun!",
+    "publisher": "Entity3",
+    "developer": null,
+    "base_release_date": 20220408,
+    "first_update_release_date": 20220611,
+    "latest_update_release_date": 20220611,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220611
+    },
+    "versions": {
+        "65536": 20220611
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "The cows are 'udderly' fed up being abducted!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

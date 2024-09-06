@@ -1,4 +1,40 @@
 {
     "id": "01000CC01440A800",
-    "version": 131072
+    "base_tid": "01000CC01440A000",
+    "name": "Gloom and Doom",
+    "description": "Gloom and Doom is a visual novel throwback to 90s slacker movies with a supernatural twist.\n\nA depressed wraith is trying to earn his way back into heaven by hunting demons.  After killing demons for 400 years, his final mark is a girl who believes she will cause the end of the world.\n\nHowever, even his formidable powers are unable to kill her, and they go on a quest to find death and peace for her.\n\nFeaturing a cast of moody characters and a 90s superhero comicbook style, your choices will lead you to one of seven endings. \n\nWill you save the girl or save the world?",
+    "publisher": "Viridian Software",
+    "developer": null,
+    "base_release_date": 20220719,
+    "first_update_release_date": 20220802,
+    "latest_update_release_date": 20221021,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221021
+    },
+    "versions": {
+        "65536": 20220802,
+        "131072": 20221021
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Gloom and Doom is a visual novel throwback to 90s slacker movies with a supernatural twist.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

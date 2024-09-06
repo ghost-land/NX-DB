@@ -1,4 +1,45 @@
 {
     "id": "01000C6015FAE800",
-    "version": 589824
+    "base_tid": "01000C6015FAE000",
+    "name": "The Hundred Year Kingdom",
+    "description": "Welcome to an untouched new world. Only you—the Creator—and a mythical young goddess who calls herself an oracle exist here.\n\nShare times of laughter, tears, and joy as you combine your skills and powers to guide the emergence of a brand new civilization.\n\nWhat will your world be like after a century of growth? That's up to you!\n\n[Key Features]\n・Develop a civilization from the ground up over 100 years in this simple turn-based simulation.\n\n・Construct buildings and cultivate land to create and nurture a civilization with the help of a mythical young goddess who calls herself an oracle.\n\n・Your world will be free of complicating elements like diplomacy, war, and calamities. Rest assured, barbarians won't invade and Gandhi won't launch a nuclear attack on your beautiful world!\n\n・How you care for your civilization is up to you.\n\nThe Hundred Year Kingdom lets you build and care for a civilization in a world of your own making. Set up and reshape your world with realms covered in mountains, vast seas, thick savanna, or whatever you like!",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20220204,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20220204,
+        "131072": 20220213,
+        "196608": 20220303,
+        "262144": 20220509,
+        "327680": 20220526,
+        "393216": 20220627,
+        "458752": 20221209,
+        "524288": 20230612,
+        "589824": 20230714
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "What kind of worlds will you create?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Sexual References",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

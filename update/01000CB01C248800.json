@@ -1,4 +1,43 @@
 {
     "id": "01000CB01C248800",
-    "version": 131072
+    "base_tid": "01000CB01C248000",
+    "name": "Laika: Aged Through Blood",
+    "description": "Laika: Aged Through Blood is a western-inspired motorvania set in a post-apocalyptic wasteland. It is the story about a tribe oppressed by occupant forces, and the personal story of a mother coyote warrior who descends on an endless path of vengeance to take back what her people lost.\n\nDrive, jump and fight your way through the huge hand-drawn world on your trustworthy motorbike. Race through the wasteland and perform dangerous jumps, shoot enemies in slowmo and reload your gun by performing a backflip! Use skill-based power-ups and persist challenging battles against big bosses!\n\nFEATURES\n- Vehicular combat on a fast and agile motorbike.\n- A beautiful, hand-painted and post-apocalyptic world.\n- A deep story about a mother-daughter relationship, vengeance and loss.\n- A varied world, epic boss battles and loads of missions.\n- The very first MOTORVANIA!",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240324,
+    "latest_update_release_date": 20240324,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240324
+    },
+    "versions": {
+        "131072": 20240324
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "A western-inspired motorvania set in a post-apocalyptic wasteland",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language"
+    ],
+    "region": null
 }

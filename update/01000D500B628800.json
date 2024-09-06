@@ -1,4 +1,33 @@
 {
     "id": "01000D500B628800",
-    "version": 131072
+    "base_tid": "01000D500B628000",
+    "name": "루프란의 지하미궁과 마녀의 여단",
+    "description": "「마녀의 여단」을 이끌고 전인미답의 지하미궁을 공략하라!!\n\n・「루프란」을 무대로 펼쳐지는 마녀와 어떤 책의 이야기\n・전투는 최대 40명의 인형병이 참가하는 집단전!\n・규칙을 무시하는 “벽 파괴“!? 전례 없는 자유로운 발상으로 탐색할 수 있는 RPG!\n・외모, 스킬, 성장스타일 등 다양하게 설정할 수 있는 캐릭터 메이킹\n\n",
+    "publisher": "Intragames",
+    "developer": null,
+    "base_release_date": 20180927,
+    "first_update_release_date": 20180926,
+    "latest_update_release_date": 20190212,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190212
+    },
+    "versions": {
+        "65536": 20180926,
+        "131072": 20190212
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "선정성",
+        "폭력성"
+    ],
+    "region": null
 }

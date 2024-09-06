@@ -1,4 +1,40 @@
 {
     "id": "01000D50149D8800",
-    "version": 65536
+    "base_tid": "01000D50149D8000",
+    "name": "MiniGolf Tour",
+    "description": "Mini golf, also known as minigolf, mini-putt, or putt-putt, is a sports game in which participants compete by shooting a small ball into special holes with putters. The goal of the game is to cover the allotted distance in the minimum number of strokes.\n\nDo you like sports and outdoor activities? Then this golf is perfect for you! Try to complete dozens of challenging levels and show everyone who is the best in minigolf!\n\nFEATURES\n\n️⛳️ Easy controls and simple gameplay.\n️⛳️ Unlock 4 amazing tours with challenging obstacles.\n️⛳️ Customize your ball, trail and hole effect for unique playing experience.\n️⛳️ Stunning 3D graphics and effects.\n\nDiscover and try out all the awesome minigolf tracks! Compete and earn coins and gems to unlock all the collectibles in chests.\n\nGet a completely new experience with this exciting golf blitz! You do not need special skills to begin.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20210902,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Show your skills and get a Hole in 1!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "01000D1008714800",
-    "version": 65536
+    "base_tid": "01000D1008714000",
+    "name": "ACA NEOGEO FATAL FURY 3",
+    "description": "“FATAL FURY 3” is a fighting game released by SNK in 1995. \nA new “Story” is about to begin in the city of South Town. Five new characters join for a total of 10 hungry wolves ready for battle. \nFeaturing new elements such as the Oversway and Combination Art mechanic, be ready for epic and intense fights!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20180216,
+    "first_update_release_date": 20211014,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211014
+    },
+    "versions": {
+        "65536": 20211014
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Only one needs to be the strongest. A new legend is about to be unveiled!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

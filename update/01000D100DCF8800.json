@@ -1,4 +1,38 @@
 {
     "id": "01000D100DCF8800",
-    "version": 131072
+    "base_tid": "01000D100DCF8000",
+    "name": "Redeemer: Enhanced Edition",
+    "description": "Intensive top-down action: Subdue your opponents with a wide range of firearms and melee weapons such as knives, truncheons, fire axes, hammers, and much more.\nBrutal close combat: Use your abilities as a mercenary to tame your opponents. You have at your disposal brutal fighting techniques, combos, charged attacks, and jumping techniques.\nUnique kill system: Utilize three different types of kills to mercilessly eliminate opponents. \nSystematic parrying: Defend yourself in battle with the correct use of blocking techniques. \n\nDisarm-and-dismember system: Deploy unique fighting techniques to either disarm opponents or to sever certain opponents’ body parts and use them as melee weapons.\nStory mode for solo players: Discover Vasily’s horrendous past and experience a story of betrayal and redemption.\nArena mode: Develop your fighting skills by going up against hordes of countless opponents that will be set upon you in the arena.\nCooperative gameplay: Take on the game together with a friend and turn your controllers into the ultimate weapon of vengeance!\nCharacter class selection: Choose whether Vasily is a monk or a soldier depending on your preferred fighting style.",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20190719,
+    "first_update_release_date": 20190808,
+    "latest_update_release_date": 20190924,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190924
+    },
+    "versions": {
+        "65536": 20190808,
+        "131072": 20190924
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Brutal, bloody beat-’em-up action without compromise. A true resurrection of this popular genre.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong violence"
+    ],
+    "region": null
 }

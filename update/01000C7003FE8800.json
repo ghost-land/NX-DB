@@ -1,4 +1,45 @@
 {
     "id": "01000C7003FE8800",
-    "version": 196608
+    "base_tid": "01000C7003FE8000",
+    "name": "GORSD",
+    "description": "Born from a womb-eye, you discover a world seething with challenges created by an unknown power. For what purpose were you created? Uncover the truth of the GORSD.\n\n• You have just one bullet, fire it, control it and collect it. \n• 7 hour single player game, set in a large overworld containing more than 60 battle stages.\n• Stupidly fun 1-4 player couch multiplayer.\n• 8 multiplayer game modes with modifiable rules, set over 21 maps.\n• Strategize by not only thinking about where you need to go, but also where your projectile needs to go.\n• Game specifically designed to stop you from terminal boredom and enrich your life permanently.\n\nThe GORSD will never leave you.",
+    "publisher": "SPRINGLOADED",
+    "developer": null,
+    "base_release_date": 20200918,
+    "first_update_release_date": 20200913,
+    "latest_update_release_date": 20200928,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200928
+    },
+    "versions": {
+        "65536": 20200913,
+        "131072": 20200917,
+        "196608": 20200928
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Intense arena combat, set deep inside the heart of darkness. Discover the story of the GORSD alone, or enter battle with up to 4 friends in local multiplayer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "01000C901B9D6800",
-    "version": 327680
+    "base_tid": "01000C901B9D6000",
+    "name": "Hole io",
+    "description": "Choose your favourite skin, eat, grow and stay alive. \nCompete in multiplayer mode with up to 4 players or eat it all by yourself.\n\nGrow by swallowing everything in front of you, whether it be garbage cans, fire hydrants or cars. Get large enough to consume even bigger objects or other players. Eat until nothing and no one is standing in your way! \n\nFeatures:\n- 6 maps with different things to swallow \n- 13 animated skins to make your black hole look cooler\n- 2 multiplayer modes up to 4 players on one screen!\n- endless mode where you swallow things falling from the sky\n- powerups spawning  during the game\n- collecting themed stickers\n- easy controls so anyone can play\n- simple rules and lots of fun!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20230901,
+    "first_update_release_date": 20230830,
+    "latest_update_release_date": 20240720,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240720
+    },
+    "versions": {
+        "65536": 20230830,
+        "131072": 20230830,
+        "196608": 20240319,
+        "262144": 20240511,
+        "327680": 20240720
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Show who is the biggest black hole in the town!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

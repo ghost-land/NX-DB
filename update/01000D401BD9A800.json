@@ -1,4 +1,43 @@
 {
     "id": "01000D401BD9A800",
-    "version": 131072
+    "base_tid": "01000D401BD9A000",
+    "name": "Capes",
+    "description": "Twenty years ago, the supervillains won.\n\nSince then, they’ve created a dystopian city where developing super powers is a crime. Nobody has managed to slow them down, until now. Capes is a turn based superhero strategy game where you build a team of heroes and fight to take back the city. Played across a series of campaign and patrol missions, choose to push forward with the story or take the time to explore the side missions and unlock more heroes, earn skill points and complete challenges, and learn more about your heroes lives.\n\nBUILD YOUR TEAM\nRecruit new heroes with a range of unique powers and abilities. Every hero plays differently, and requires a fresh approach to their powers and abilities. Learning and exploiting each hero's unique play style will build their power in combat allowing them to unleash their personal tide turning Ultimates.\n\nTURN BASED TACTICS\nExciting, heroic, turn based combat to test your strategic skills. Team ups and positioning matter, unlocking new ways to approach every enemy type and supervillain you encounter. Capes combat isn't based around random numbers or lurking behind cover. Power doesn't make you invulnerable, far from it. Your choices will make the difference between victory and defeat.\n\nTEAM UP!\nTake up to 4 heroes to work together in each mission. Each hero gains a unique team up ability from each of their allies, allowing them to work together to take advantage of their unique powers.\n\nUPGRADE YOUR POWERS\nLevel up your heroes to gain access to new abilities and powerful upgrades. Use Skill Points acquired from completing objectives and challenges to unlock their powers.\n\nCHALLENGE YOUR HEROES\nComplete collections of hero specific challenges during missions to earn bonus Skill Points and unlock optional missions that give a deeper insight into each of the heroes.",
+    "publisher": "Daedalic Entertainment",
+    "developer": null,
+    "base_release_date": 20240529,
+    "first_update_release_date": 20240604,
+    "latest_update_release_date": 20240819,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240819
+    },
+    "versions": {
+        "65536": 20240604,
+        "131072": 20240819
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Superheroes clash in this turn based strategy game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

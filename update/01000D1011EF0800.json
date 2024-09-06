@@ -1,4 +1,35 @@
 {
     "id": "01000D1011EF0800",
-    "version": 131072
+    "base_tid": "01000D1011EF0000",
+    "name": "Active Neurons 2",
+    "description": "Your main task in the game is to collect enough energy to discover the 12 greatest inventions of mankind.\n\nLook for the right way to energy charges using obstacles in the level.\nAvoid dangerous obstacles, they are destructive!\nTeleport from one space to another to get closer to your goal.\nSolve tasks on memory and orientation in space to get to the blocked areas.\nDestroy, move and combine objects on the levels to get to energy sources.\n\nMain features:\n- More than 150 logical tasks and subtasks;\n- More than 20 types of unique mechanics;\n- Ability to combine mechanics;\n- Nice minimalistic style with beautiful graphic effects;\n- Pleasant musical and audio accompaniment, improving immersion in the gameplay.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200916,
+    "first_update_release_date": 20200902,
+    "latest_update_release_date": 20200929,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200929
+    },
+    "versions": {
+        "65536": 20200902,
+        "131072": 20200929
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Active Neurons 2 is a game that trains the player in spatial logical thinking.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

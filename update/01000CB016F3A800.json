@@ -1,4 +1,41 @@
 {
     "id": "01000CB016F3A800",
-    "version": 131072
+    "base_tid": "01000CB016F3A000",
+    "name": "The Serpent Rogue",
+    "description": "Playing as a mysterious alchemist known only as The Warden, you will craft, brew, boil & concoct potions all in your stead to protect the realm from the dreadful Serpent Rogue!\n                                                                                                           EXPLORE THE UNKNOWN\nThe ominous Serpent Rogue has laid down roots on Mount Morbus. Its evil is spreading quickly, and it threatens to overwhelm the realm. It is your task as the Warden to confront the Serpent Rogue and bring peace and tranquillity to the land. Explore every inch of the map, unearth secret passages, and expand your knowledge to stand against the incoming disaster.\n                                                                                                                CRAFT POTIONS & EXPERIMENT\nUsing your alchemy skills, craft and experiment with different ingredients to create extraordinary potions each with its own unique effects. Take on quests from the inhabitants of the cursed land and earn resources to further your exploits.\n                                                                                                            CHOOSE YOUR ACTIONS\nEach action you take will create interesting sequences of cause and effect. Keep too many creatures in one place and this will attract blood-thirsty reapers. Forget to bury the perished ones and you’ll start to attract corpse-eating ghouls. Hoard too many items in one location and attract plague-spreading vermin.\n                                                                                                                      EVOLVE\nShapeshift into different creatures, brew potions that will alter your body, give you unique abilities and create the perfect balance between human and creature.\n",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20220426,
+    "first_update_release_date": 20220414,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220414,
+        "131072": 20220805
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The Serpent Rogue is an action-adventure game set in a medieval fantasy world. Craft & brew potions to defeat an ominous danger!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

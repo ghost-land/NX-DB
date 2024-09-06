@@ -1,4 +1,38 @@
 {
     "id": "01000CC0162C8800",
-    "version": 65536
+    "base_tid": "01000CC0162C8000",
+    "name": "Fantasy Blacksmith",
+    "description": "You are a blacksmith in the world of the sword, magic and war, in which any blacksmith who knows how to make even the simplest swords is in demand. You start off as a poor unskilled blacksmith, but in time you will gain experience and improve to achieve wealth, fame and power, and change this world!\n\nMain Features:\n- 10+ billions combinations of swords\n- Realistic smithing process\n- Apply magic runes\n- Use your alchemy skills\n- Mine your resources",
+    "publisher": "CheckMate Publishing",
+    "developer": null,
+    "base_release_date": 20221102,
+    "first_update_release_date": 20230905,
+    "latest_update_release_date": 20230905,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230905
+    },
+    "versions": {
+        "65536": 20230905
+    },
+    "category": [
+        "Simulation",
+        "RPG"
+    ],
+    "intro": "Become The Greatest Blacksmith In The World",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

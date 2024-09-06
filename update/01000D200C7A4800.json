@@ -1,4 +1,37 @@
 {
     "id": "01000D200C7A4800",
-    "version": 65536
+    "base_tid": "01000D200C7A4000",
+    "name": "Arcade Archives PSYCHO SOLDIER",
+    "description": "PSYCHO SOLDIER is an action game released by SNK in 1987.\nPlay as the Two Soldiers of Light, ATHENA ASAMIYA and SIE KENSOU, and use their psychic powers to defeat the otherworldly monster SIGMA!\nFill up the Psycho Gauge for a Psycho Ball attack!\nThe super items inside of eggs can be used to perform amazing transformations!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20190425,
+    "first_update_release_date": 20190528,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20190528
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Use your psychic powers to defeat SIGMA, the otherworldly monster that has awoken from thousands of years of slumber!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

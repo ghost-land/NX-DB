@@ -1,4 +1,58 @@
 {
     "id": "01000D3015088800",
-    "version": 983040
+    "base_tid": "01000D3015088000",
+    "name": "Mini Motorways",
+    "description": "Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands. \n\nFrom the makers of Mini Metro, Mini Motorways is a game about drawing the roads that drive a growing city. Build a road network, one road at a time, to create a bustling metropolis. Redesign your city to keep the traffic flowing, and carefully manage upgrades to meet the changing demands. How long can you keep the cities of the world moving?\n\nFeatures:\n\n• Draw roads in dynamic cities that grow and change - every game is unique!\n• Explore stunning maps inspired by cities all around the world.\n• Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n• Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n• Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n• Select different colour palettes on every map including colourblind and night modes.\n• Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n• Unlock new maps as you achieve mastery. \n• Compete against other players in Daily and Weekly Challenges.\n",
+    "publisher": "Dinosaur Polo Club",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20220530,
+    "latest_update_release_date": 20240603,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20240603
+    },
+    "versions": {
+        "65536": 20220530,
+        "131072": 20220707,
+        "196608": 20220915,
+        "262144": 20221103,
+        "327680": 20221110,
+        "393216": 20221213,
+        "458752": 20230308,
+        "524288": 20230423,
+        "589824": 20230504,
+        "655360": 20230724,
+        "720896": 20230724,
+        "786432": 20231010,
+        "851968": 20231204,
+        "917504": 20240408,
+        "983040": 20240603
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": "Draw roads that drive the city",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
