@@ -1,4 +1,49 @@
 {
     "id": "0100DB7003828800",
-    "version": 786432
+    "base_tid": "0100DB7003828000",
+    "name": "Pinball FX3",
+    "description": "Williams™ Pinball classics are now available -- and Fish Tales™ is yours for FREE! Zen is proud to bring these amazing games to players around the world. Enjoy!\n\nPinball FX3 is the BIGGEST, most COMMUNITY focused pinball game ever created. Multiplayer matchups, user generated tournaments and league play create endless opportunity for pinball competition.\n\n- Not so hot with the flippers? Pinball FX3 features new single player modes that will help you become a better player!\n- All tables have received graphics updates including real-time lighting and shadow projection.\n- All tables feature challenging new game modes, table upgrades and power-ups, unlockable bonus items and more!\n\nZen Studios will continue to support Pinball FX3 with frequent content releases and new features!\n\nPinball FX3 is home to the most exciting pinball library, with tables based on the biggest brands in entertainment including Aliens™, Family Guy, TellTale's The Walking Dead, Portal® and more!",
+    "publisher": "Zen Studios",
+    "developer": null,
+    "base_release_date": 20171212,
+    "first_update_release_date": 20180220,
+    "latest_update_release_date": 20220221,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20220221
+    },
+    "versions": {
+        "65536": 20180220,
+        "131072": 20180503,
+        "196608": 20180613,
+        "262144": 20181009,
+        "327680": 20181218,
+        "393216": 20190319,
+        "458752": 20190528,
+        "524288": 20191029,
+        "589824": 20191210,
+        "655360": 20201020,
+        "720896": 20201103,
+        "786432": 20220221
+    },
+    "category": [
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Digital Purchases"
+    ],
+    "region": null
 }

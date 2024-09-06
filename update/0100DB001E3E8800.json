@@ -1,4 +1,43 @@
 {
     "id": "0100DB001E3E8800",
-    "version": 131072
+    "base_tid": "0100DB001E3E8000",
+    "name": "CONSCRIPT",
+    "description": "CONSCRIPT is an upcoming survival horror game inspired by classics of the genre - set in 1916 during the Great War. CONSCRIPT will blend all the punishing mechanics of older horror games into a cohesive, tense, and unique experience.\n\nIn CONSCRIPT, you play as a French soldier searching for his missing-in-action brother during the Battle of Verdun. Will you be able to search twisted trenches, navigate overrun forts, and cross no-mans-land to find him, and ensure a home goes unbroken?\n\nExperience classic and methodical survival horror gameplay in a unique historical setting: the Battle of Verdun.\nHighly re-playable with various difficulty settings, multiple endings, unlockable costumes and bonus weapons.\n\nFend off a variety of enemy soldiers and combatants with a variety of WW1 melee weapons and firearms.\n\nSurvive in an intense, harrowing atmosphere boosted by a unique pixel art aesthetic and oppressive sound design.\n\nNavigate intricate level design that promotes item management and route planning, whilst solving complex environmental puzzles.\n\nDistinct WW1 themed areas that intertwine and overlap.",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20240723,
+    "first_update_release_date": 20240702,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20240702,
+        "131072": 20240710
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

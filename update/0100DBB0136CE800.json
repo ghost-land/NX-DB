@@ -1,4 +1,32 @@
 {
     "id": "0100DBB0136CE800",
-    "version": 65536
+    "base_tid": "0100DBB0136CE000",
+    "name": "Survival",
+    "description": "Can you survive for 30 days in the wilderness?\nSurvival will test you skills to the limit, you will need to hunt, fish and grow your own crops.\nThe forest is a dangerous place, so you will have to learn to avoid being attacked and killed by the bears or wolves that roam the forest in packs at Night.\nSurvival is a fun and easy to play game for ages",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20201105,
+    "first_update_release_date": 20220325,
+    "latest_update_release_date": 20220325,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220325
+    },
+    "versions": {
+        "65536": 20220325
+    },
+    "category": [
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

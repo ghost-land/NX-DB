@@ -1,4 +1,65 @@
 {
     "id": "0100DB3011E8C800",
-    "version": 1769472
+    "base_tid": "0100DB3011E8C000",
+    "name": "Super Animal Royale",
+    "description": "It’s fight for furvival! Super Animal Royale is a 64-player, frenetic, top-down 2D battle royale where murderous animals fight tooth, claw, and machine gun across an abandoned safari park. Collect and customize your favorite critters and weapons, then put them to work in solo matches or team up as a squad of up to four players!\n\nKey Features\n•\tSurvival of the Fittest: Scavenge a variety of powerful weapons, armor and items to become the apex predator in intense 64-player online matches. \n•\tThe Superest World: Explore a massive, beautifully illustrated 2D island and discover its hidden lore, by chatting with its inhabitants and scouring its rich environments for clues.\n•\tDifferent Stripes for Different Fights: Collect hundreds of animal breeds and customize them with thousands of cosmetic items, weapons, outfits, and even umbrellas!\n•\tEvolving Events & Updates: Enjoy an endless stampede of new content, including seasonal outfits, animals, and weapons to collect.\n•\tThe Fast and the Furriest: Flatten your foes while rolling dirty in a Hamster Ball, or mount a Giant Emu and peck your way to the promised land.",
+    "publisher": "Maximum Games",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20210825,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "1769472",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20210825,
+        "196608": 20211019,
+        "327680": 20211214,
+        "393216": 20211220,
+        "458752": 20220125,
+        "589824": 20220405,
+        "655360": 20220406,
+        "720896": 20220524,
+        "786432": 20220628,
+        "851968": 20220727,
+        "983040": 20220927,
+        "1048576": 20221213,
+        "1179648": 20230110,
+        "1245184": 20230328,
+        "1310720": 20230417,
+        "1376256": 20230714,
+        "1441792": 20230718,
+        "1507328": 20230926,
+        "1638400": 20231213,
+        "1703936": 20231225,
+        "1769472": 20240312
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

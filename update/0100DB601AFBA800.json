@@ -1,4 +1,42 @@
 {
     "id": "0100DB601AFBA800",
-    "version": 131072
+    "base_tid": "0100DB601AFBA000",
+    "name": "Side View Golf",
+    "description": "It is a golf game with simple rules that allows players to aim for a hole-in-one using five different clubs.\nEven if you do not know the rules of golf, you can  play it.\nMore than 300 holes to play. ",
+    "publisher": "Granzella",
+    "developer": null,
+    "base_release_date": 20230706,
+    "first_update_release_date": 20230927,
+    "latest_update_release_date": 20231220,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231220
+    },
+    "versions": {
+        "65536": 20230927,
+        "131072": 20231220
+    },
+    "category": [
+        "Puzzle",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "A golf game that you can enjoy, like playing a puzzle. That's \"Side View Golf\". ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

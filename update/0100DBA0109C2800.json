@@ -1,4 +1,33 @@
 {
     "id": "0100DBA0109C2800",
-    "version": 65536
+    "base_tid": "0100DBA0109C2000",
+    "name": "UBERMOSH:OMEGA",
+    "description": "The retro-hardcore topdown masterpiece was carefully crafted during 5 years of community feedback, carrying over 4k sprites, tribal drums, fuzzed guitars and flawless gameplay.\n\nThe players can choose a Saint, tune it to fit their gameplay style and try to survive a gun-filled pit where you can cut bullets with swords, unleash havoc with psionic powers, and evade hells of projectiles.\n\nEach character is a love letter to ARCADE games, like Kore, inspired on classic shmup gameplay or Aya that calls for a progressive combo score beater.\n\nA hardboiled egg of the Brazilian underground game development scene and a Must-Buy for the finest tasted ARCADE enthusiasts!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20200222,
+    "first_update_release_date": 20200218,
+    "latest_update_release_date": 20200218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200218
+    },
+    "versions": {
+        "65536": 20200218
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "UBERMOSH:OMEGA, the apex of Walter Machado's Cult Classic series UBERMOSH.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100DBC013496800",
-    "version": 131072
+    "base_tid": "0100DBC013496000",
+    "name": "Wrestledunk Sports",
+    "description": "Wrestledunk your friends!\n\nSpike, squish, stab, wrestle and dunk your way to victory in a pack of multiplayer sports games! Get into the super competitive local and online multiplayer action for up to 8 players. Try out the free demo!\n\n- Try out all the sports, like Fencing, Wrestling and Smashball!\n- Online and local multiplayer for up to 8 players\n- Warm up or round out the teams with AIs for every sport\n- Unlock dozens of arenas and modes\n- Easy to pick up controls, hard to master moves\n- Streamer mode for online play\n\nIt's easy to get a match going with Wrestledunk's custom cross-platform rollback netcode.\nCan you have 4 local players and face off against 4 others online? Of course!\nSomeone destroying you at Smashball? Switch up the sports and teams seamlessly!\nNot sure? Try out Wrestling and Volleyball in the free demo online with your friends!\nController recommended.",
+    "publisher": "TeamFractalAlligator",
+    "developer": null,
+    "base_release_date": 20210820,
+    "first_update_release_date": 20220509,
+    "latest_update_release_date": 20220528,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220528
+    },
+    "versions": {
+        "65536": 20220509,
+        "131072": 20220528
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Wrestledunk is an explosive, colorful collection of super competitive multiplayer sports games! Face off online or locally with up to 8 players. Get into it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

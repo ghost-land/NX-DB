@@ -1,4 +1,43 @@
 {
     "id": "0100DB00117BA800",
-    "version": 589824
+    "base_tid": "0100DB00117BA000",
+    "name": "9th Dawn III",
+    "description": "9th Dawn III is a huge 2D open world Role Playing Game and collectathon dungeon crawler packed full of adventure! Delve into the depths of the darkest dungeons, fighting over 270 unique monsters and searching for vast amounts of loot, treasures and rare materials. 1400 uniquely drawn items to collect, including over 300 weapons, and over 550 armour/accessories!\n\nTrain yourself by unlocking spells and abilities and fine-tuning your attributes and skills and evolve into an ultimate warrior! Level-up your crafting abilities in cooking, enchanting, weapon-smithing, and much more! Recruit some monsters to fight alongside you, taking care of them and improving their combat skills to turn them into powerful allies. Unlock a mysterious companion to fight alongside you to build the ultimate team! \n\nTake a moment from your adventure to enjoy a game of Fyued, a robust card game played throughout the region with 180 collectable cards! Help the townsfolk with their problems to raise the prosperity of their villages with sidequests ranging from silly to treacherous! Equip your best gear and experience a journey across the fields of Ashwick, the snowy regions of Halstom, dense forests of Vlak, the sprawling depths of huge dungeons, and the perilous Hollow Mountains of Scorn as you embark on an epic quest- To uncover the secrets of a mysterious evil force that threatens the lands.",
+    "publisher": "Valorware",
+    "developer": null,
+    "base_release_date": 20201006,
+    "first_update_release_date": 20200927,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20200927,
+        "131072": 20201014,
+        "196608": 20201021,
+        "262144": 20201104,
+        "327680": 20201120,
+        "393216": 20210127,
+        "458752": 20211215,
+        "524288": 20220330,
+        "589824": 20240510
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "A huge open world RPG dungeon crawler packed full of collectables, with over 270 monsters, and a fun card game to play!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

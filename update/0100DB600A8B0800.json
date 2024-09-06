@@ -1,4 +1,32 @@
 {
     "id": "0100DB600A8B0800",
-    "version": 65536
+    "base_tid": "0100DB600A8B0000",
+    "name": "True Disc Golf",
+    "description": "True Disc Golf has 4 courses with 18 holes to play.\nYou can play with 1-4 players locally with friends and against others online.\nThere's also training and skills challenges.\nYou can play with controller, touch or motion control.",
+    "publisher": "Kuvakertomo",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230627,
+    "latest_update_release_date": 20230627,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230627
+    },
+    "versions": {
+        "65536": 20230627
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Realistic disc golf game with easy to learn playability",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

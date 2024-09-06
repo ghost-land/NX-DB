@@ -1,4 +1,40 @@
 {
     "id": "0100DB501A6E2800",
-    "version": 131072
+    "base_tid": "0100DB501A6E2000",
+    "name": "The Legend of Gwen",
+    "description": "- 歷史\n格溫剛到魔法學校，她想成為世界上最好的女巫，不幸的是，她來得不是時候，剛來的時候連歡迎會都來不及，因為有驚喜客人..“邪惡！”\n邪惡沒有猶豫兩次，開始從學校吸納一切！現在誰來教格溫魔法？！她能否自學，能否克服邪惡的阻礙，恢復學業？幫助 Gwen 應對這個挑戰並擊敗邪惡（如果可以的話！）。\n\n- 特徵\n*訪問不同的衛星，它們有自己的障礙、顏色和敵人\n*每個衛星上的陷阱、敵人和大boss\n* 沒有敵人的限時關卡，是對敏捷性和技巧的真正考驗！\n*為花園收集不同的種子......（難道你可以得到它們嗎？）\n*等距模式和各個級別的不同觀點（幫助尋找秘密）！\n*由於遊戲難度高，增加了不同的幫助寶箱和boss獵人\n*添加了檢查點魔法（在定時關卡中不可用）\n* 使用兩個角色的遊戲模式......同時！在與 corki 的挑戰中！\n*6 種不同類型的魔杖，改變遊戲風格！",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20230406,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20230217,
+        "131072": 20230322
+    },
+    "category": [
+        "動作",
+        "格鬥",
+        "冒險",
+        "角色扮演"
+    ],
+    "intro": "打敗時間和邪惡，成為世界上最好的女巫或女巫！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

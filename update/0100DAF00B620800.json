@@ -1,4 +1,41 @@
 {
     "id": "0100DAF00B620800",
-    "version": 196608
+    "base_tid": "0100DAF00B620000",
+    "name": "Ultrawings Flat",
+    "description": "Ultrawings is an open-world, aerial-themed game where you'll pilot an Ultralight, Gee Racer, Rocket-powered Glider and Sport Plane to complete a variety of challenges across a beautifully-stylized, island-themed world. You'll pop balloons, perform spot landings, snap pictures, compete in thrilling air races, and more! Earn in-game money to unlock new airports and new aircraft. Ultrawings is truly the ultimate hobbyist aircraft game for the Nintendo Switch™!",
+    "publisher": "Bit Planet Games",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20190412,
+    "latest_update_release_date": 20200305,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200305
+    },
+    "versions": {
+        "65536": 20190412,
+        "131072": 20190514,
+        "196608": 20200305
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Pilot multiple aircraft to complete a variety of missions across a beautifully stylized open-world. Pop balloons, perform in thrilling air races, snap pictures, and so much more!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

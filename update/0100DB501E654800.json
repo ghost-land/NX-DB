@@ -1,4 +1,34 @@
 {
     "id": "0100DB501E654800",
-    "version": 131072
+    "base_tid": "0100DB501E654000",
+    "name": "SUSHI Shot Online",
+    "description": "Combining two sushi of the same type will merge them into a new type of sushi!\nKeep on matching your sushi so that they don't pile up and overflow onto the counter!\n\nMerge two large sushi together and send Bento Blockers to disrupt your opponents!\nClear Bento Blockers from your own field by merging nearby sushi!\n\nReach for your title as World Champion!\n\n[Quick Match]\nEarn Online Points while increasing your rank on the world leaderboards!\n\n[Keyword]\nSet a keyword and share it to match and battle with your friends!\n\n[Point Ranking]\nView your rank from the Online Points you've accumulated through Quick Matches!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240313,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20240313,
+        "131072": 20240404
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Shooter",
+        "Party"
+    ],
+    "intro": "Aim your sushi and shoot!\nBattle against players from all over the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

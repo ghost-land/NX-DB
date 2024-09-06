@@ -1,4 +1,34 @@
 {
     "id": "0100DBA012876800",
-    "version": 65536
+    "base_tid": "0100DBA012876000",
+    "name": "Espacio Cosmic Light-Seeker",
+    "description": "This space is full of magical characters too!\nEnjoy the monochrome worldview with cute space animals.\nWhat is the true nature of this space?\nWhat awaits you in search of the light!\n\nThe appearance of your buddy Celluar is customizable!\nThere are also various item books, so try to complete them!",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20210105,
+    "first_update_release_date": 20201208,
+    "latest_update_release_date": 20201208,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201208
+    },
+    "versions": {
+        "65536": 20201208
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Escape the mysterious space in search of light!\nLet's go on an adventure with your buddy Celluar in outer space, inhabited by little cute characters!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null
 }

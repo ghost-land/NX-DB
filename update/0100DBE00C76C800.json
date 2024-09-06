@@ -1,4 +1,41 @@
 {
     "id": "0100DBE00C76C800",
-    "version": 327680
+    "base_tid": "0100DBE00C76C000",
+    "name": "The Last Door - Complete Edition",
+    "description": "Feel what it’s truly like to be alone in the dark with this low-res, high-suspense point-and-click horror adventure, winner of multiple Best Games of the Year awards.\n\nSet in Victorian England, when Jeremiah Devitt receives a letter from his old schoolmate Anthony Beechworth with a hidden, cryptic message, he knows something is wrong. \n\nHis journey to an abandoned manor is only the beginning as he starts to remember a long-buried secret from his youth, discovering things man was not meant to know, and opening doors that should have remained closed…\n\nThe Last Door - Complete Edition includes eight terrifying episodes of occult and otherworldly horror inviting you to investigate Victorian England’s deepest, darkest secret. Featuring new scenes and puzzles, enhanced graphics, unlockable extras, and remastered sound. \n\nExplore ancient manors, decaying tenements, and twisting underground warrens with little but a lamp and magnifying glass to guide you. ",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20190522,
+    "first_update_release_date": 20190507,
+    "latest_update_release_date": 20190927,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190927
+    },
+    "versions": {
+        "65536": 20190507,
+        "131072": 20190611,
+        "196608": 20190724,
+        "262144": 20190814,
+        "327680": 20190927
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Would you dare to open The Last Door?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
