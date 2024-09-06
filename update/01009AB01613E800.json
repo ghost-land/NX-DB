@@ -1,4 +1,41 @@
 {
     "id": "01009AB01613E800",
-    "version": 65536
+    "base_tid": "01009AB01613E000",
+    "name": "Duo Zombies",
+    "description": "Duo Zombies is a cooperative game where you help two zombie friends escape an evil facility through obstacle filled levels.\n\nUse your BRAAIIIIINS and logic to solve all the puzzles, avoid getting caught and most importantly, never leave your friend behind.\n\nSome friendships last a lifetime, but some last longer.",
+    "publisher": "Refold",
+    "developer": null,
+    "base_release_date": 20211019,
+    "first_update_release_date": 20220217,
+    "latest_update_release_date": 20220217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220217
+    },
+    "versions": {
+        "65536": 20220217
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Some friendships last a lifetime, but some last longer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

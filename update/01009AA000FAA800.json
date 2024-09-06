@@ -1,4 +1,43 @@
 {
     "id": "01009AA000FAA800",
-    "version": 131072
+    "base_tid": "01009AA000FAA000",
+    "name": "Sonic Mania",
+    "description": "Experience the ultimate celebration of past and future in Sonic Mania, an all-new 2D Sonic adventure running at a crisp 60FPS with stunning HD retro-style graphics. Multiple playable characters give you the ability to go explosively fast as Sonic, soar as Tails, or power through tough obstacles with Knuckles’ brute strength. You can re-live the Sonic of the past with an exciting new twist on classic zones while fighting against new bosses and Dr. Eggman’s evil robot army. Go head to-head with players in Competition Mode or play in Co-Op Mode with a friend. Sonic Mania was developed by Christian Whitehead, Headcannon, and PagodaWest Games in collaboration with Sonic Team. Welcome to Sonic Mania!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20231225,
+    "first_update_release_date": 20171003,
+    "latest_update_release_date": 20180717,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180717
+    },
+    "versions": {
+        "65536": 20171003,
+        "131072": 20180717
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "The Ultimate Celebration of Past and Future",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence"
+    ],
+    "region": null
 }

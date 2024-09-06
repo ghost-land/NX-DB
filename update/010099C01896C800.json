@@ -1,4 +1,46 @@
 {
     "id": "010099C01896C800",
-    "version": 131072
+    "base_tid": "010099C01896C000",
+    "name": "Gripper",
+    "description": "Enter the burnout seat of None, a cyber biker who is stuck inside a collapsing world. Race through post-apocalyptic landscapes connected by treacherous tunnels. Explore dead lands with the help of your mechanized cat buddy. Defeat relentless bosses by gripping and ripping out their hearts.\n\nBOSS FIGHTS ON WHEELS\nRide, slide and dodge as you master the Gripper’s unique bike movement and combat mechanics. Go wheel-to-wheel with murderous monster trucks, giant arachnids, mechanized titans, and screen-shattering snakes. Crush them, rip out their weapon and use against them. Build the bike you want, from energy boosters to spawnable drones, mines and gadgets.\n\nGRIP & RIP\nControl the battlefield with your bike’s hook. Use it to grip the environment, grab and throw explosives or even rip enemies apart. Gripper challenges you to find unique ways to slay the bosses.\n\nCINEMATIC STORY-DRIVEN ACTION\nNone’s story is one of mystery and loss. Traverse the dystopian cyber landscapes in search of answers to your past. Help None make vital choices. Every answer you uncover is another loved one you put at risk, so go forth and save your family.\n\nPROGRESSION AND CUSTOMIZATION\nKill. Upgrade. Repeat. Each grueling encounter will reward you with a new special ability, lethal gadgets, and sometimes rare skins. Customize your Gripper experience to both play and look how you want. If you’re going to be ripping out hearts, you must make sure you look good!",
+    "publisher": "Heart Core",
+    "developer": null,
+    "base_release_date": 20230329,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230510,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230510
+    },
+    "versions": {
+        "65536": 20230316,
+        "131072": 20230510
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Arcade",
+        "Racing"
+    ],
+    "intro": "Gripper is a story-driven action game with boss fights on wheels. Tear your enemies apart with a grappling hook. Rip out their metal hearts to gain abilities. Rescue your family.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence"
+    ],
+    "region": null
 }

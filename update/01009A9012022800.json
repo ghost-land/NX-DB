@@ -1,4 +1,40 @@
 {
     "id": "01009A9012022800",
-    "version": 458752
+    "base_tid": "01009A9012022000",
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "description": "*French language text will be added via a patch\n\nThis story takes place three years after the events of the previous game “Atelier Ryza: Ever Darkness & the Secret Hideout,” and depicts the reunion of Ryza and her friends, who go through new encounters and goodbyes to discover a true priceless treasure.\n\n《The Story》\nThree years have passed since Ryza’s secret grand adventure on Kurken Island. Ryza, the only member of her group to remain on the island, receives a letter from her friend telling her about ruins that may be related to alchemy, along with a mysterious request involving a glowing stone. This inspires her to leave the island and venture out to the royal capital, Ashra-am Baird. However, Ryza is unaware that this will lead to the beginning of an imaginative new adventure involving a pursuit of the mysteries of the ruins surrounding the royal capital and a meeting with a strange creature that will change her life.\n\n《Main Features》\n■ Exploring with new field actions!\nRyza can now perform many new actions in the field, including diving underwater, using plants to climb walls, moving through narrow gaps, and using magic ropes to travel between separated areas. These and other abilities allow Ryza to explore various areas and ruins more fully and actively.\n■ More action-filled real-time battles!\nTake on your enemies using an improved “real-time tactics” battle system, which is now faster and more thrilling than ever. Speedily switch between characters, choose varied skills, and utilize items in just the right moments for best results.\n■ Straightforward and easy-to-use synthesis!\nUtilize several new synthesis systems, including the new intuitive “Linkage Synthesis” system where items are placed in cells called “Material Loops”, that are designed to allow both new players to easily learn synthesis, and experienced players to create unique customized items. Created items can also be mixed and matched with “Evolution Link” to create entirely new items.",
+    "publisher": "KOEI TECMO AMERICA",
+    "developer": null,
+    "base_release_date": 20230714,
+    "first_update_release_date": 20210119,
+    "latest_update_release_date": 20210530,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210530
+    },
+    "versions": {
+        "65536": 20210119,
+        "131072": 20210201,
+        "196608": 20210301,
+        "262144": 20210315,
+        "327680": 20210329,
+        "393216": 20210405,
+        "458752": 20210530
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Even if my strength is lost, I will always be by your side…",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

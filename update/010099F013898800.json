@@ -1,4 +1,46 @@
 {
     "id": "010099F013898800",
-    "version": 458752
+    "base_tid": "010099F013898000",
+    "name": "World War Z",
+    "description": "World War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch™. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.",
+    "publisher": "Saber Interactive Incorporated",
+    "developer": null,
+    "base_release_date": 20211102,
+    "first_update_release_date": 20211102,
+    "latest_update_release_date": 20220324,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220324
+    },
+    "versions": {
+        "262144": 20211102,
+        "327680": 20211115,
+        "393216": 20211213,
+        "458752": 20220324
+    },
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "intro": "The Swarm Comes to the Nintendo Switch™",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null
 }

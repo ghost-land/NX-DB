@@ -1,4 +1,40 @@
 {
     "id": "01009AC011810800",
-    "version": 327680
+    "base_tid": "01009AC011810000",
+    "name": "COGEN: Sword of Rewind",
+    "description": "■Story\nAwakening to find herself sprawled on a floor of hard steel, the first thing that greets Kohaku's eyes is a strange talking sword named ExeBreaker. Unsure of where she is or what's going on, she agrees to this sardonic sword's proposal to join forces, and together they journey deep into the heart of a transformed Cogen City—once Kohaku's home, now a collapsing ruin. Both mystery and mayhem await her, but with the power of ExeBreaker's Ouroboros System on her side, nothing will stop her from discovering the truth of what happened to her beloved home.\n\n■Defy Death by Rewinding Time!\nAny hit you take is a death sentence in this side-scrolling 2D action game. But fear not! You may lack the HP to weather a beating, but you've got the Ouroboros System on your side. This futuristic technology kicks in the instant death embraces you and allows you to rewind up to 3 seconds of time. Slip up and wish you could take it back? Want to play around and experiment? Easy, just rewind the clock! Hone your skills through trial and error, and triumph over diabolical traps and legions of fearsome foes!\n\n■Staff\nComposer: Motoi Sakuraba\nCharacter Designs: ntny",
+    "publisher": "Gemdrops",
+    "developer": null,
+    "base_release_date": 20220127,
+    "first_update_release_date": 20220126,
+    "latest_update_release_date": 20220331,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220331
+    },
+    "versions": {
+        "65536": 20220126,
+        "131072": 20220204,
+        "196608": 20220318,
+        "262144": 20220323,
+        "327680": 20220331
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Rewind, rethink, redo.\nCOGEN is a brand-new kind of 2D action game where there's no time for death.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

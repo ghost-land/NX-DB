@@ -1,4 +1,38 @@
 {
     "id": "01009A6013AE0800",
-    "version": 131072
+    "base_tid": "01009A6013AE0000",
+    "name": "Arcade Archives VS. TENNIS",
+    "description": "\"VS. Tennis\" is a sports game released by Nintendo in 1984. \nThis work can be played this game with up to 4 players. \nYou can compete with each other in singles play or play together in doubles play. \nThe key to victory is to use two different types of hitting balls: shots and lobs.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20201219,
+    "first_update_release_date": 20201217,
+    "latest_update_release_date": 20210215,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210215
+    },
+    "versions": {
+        "65536": 20201217,
+        "131072": 20210215
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "A heated rally battle, use two types of hitting balls!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010099E013430800",
-    "version": 65536
+    "base_tid": "010099E013430000",
+    "name": "Void Source",
+    "description": "Features:\n- Levels full of non-stop action, including highly hazardous environments: Underwater, Volcano, Space, Dark Cave, Railroad\n- Huge bosses that pack a punch. Boss rush extra mode.\n- Optional scanline screen FX, as seen in trailer.\n25 weapons (two same weapons stack up to higher power).\n- Dozens of new weapons, developed via technology tree between the levels.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20201229,
+    "first_update_release_date": 20210126,
+    "latest_update_release_date": 20210126,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210126
+    },
+    "versions": {
+        "65536": 20210126
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Classic multi-directional (360°) shoot 'em up. Navigate your UFO through hazardous environments with dangerous enemies and beat huge bosses!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

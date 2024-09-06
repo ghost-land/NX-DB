@@ -1,4 +1,36 @@
 {
     "id": "010099F017B3C800",
-    "version": 196608
+    "base_tid": "010099F017B3C000",
+    "name": "Pixel Game Maker Series DANDAN Z",
+    "description": "DANDAN, originally released in 1998, is back!\n\nThe \"Pixel Game Maker Series DANDAN Z\" is a fighting game in which players can enjoy heated 1 vs. 1 battles.\n\nVarious special moves are available for the 10 unique characters.\nFind your favorite character and play!\nWhen fighting, you can easily perform a \"DANDAN Combo\" by repeatedly pressing the B button, so you can save up your gauge by connecting attacks and use two types of super special moves to defeat your opponent!\n\nThe game also supports split play, so two players can play against each other!\nYou can enjoy battles at your ease!\n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch™.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20220512,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20220512,
+        "131072": 20220825,
+        "196608": 20231123
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The sixth installment in the fictional \"GAME BUDDY\" portable game console series!\nPlay against a total of 10 characters!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

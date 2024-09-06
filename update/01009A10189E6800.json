@@ -1,4 +1,38 @@
 {
     "id": "01009A10189E6800",
-    "version": 65536
+    "base_tid": "01009A10189E6000",
+    "name": "Silt",
+    "description": "《Silt》是款超現實的海洋探險遊戲。你是名獨自處在水下深淵的潛水夫，搜索著深處以揭開早已受人遺忘的謎團。佔有周圍的生物以解開謎題，並游往更深處的黑暗之中……\n自然進化成了詭異的型態。發掘奇特的有機物、未探索的遺跡，以及隱藏在水面下的古老機械。 \n在與深海巨怪的奇遇中生存下來。駕馭這些巨怪的力量，以喚醒深淵之中沉睡已久的力量。\n快來體驗栩栩如生的藝術風格。《Silt》中令人不安的黑白世界，建構於藝術家 Mr Mead 的素描作品及黑暗想像。一趟驚險刺激的旅程正等著你來探索……\n",
+    "publisher": "Fireshine Games",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20221010,
+    "latest_update_release_date": 20221010,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221010
+    },
+    "versions": {
+        "65536": 20221010
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

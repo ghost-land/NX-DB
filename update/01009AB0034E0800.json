@@ -1,4 +1,40 @@
 {
     "id": "01009AB0034E0800",
-    "version": 131072
+    "base_tid": "01009AB0034E0000",
+    "name": "Nintendo Labo™ Toy-Con 02: Robot Kit",
+    "description": "Nintendo Labo™ Toy-Con 02: Robot Kit ",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180420,
+    "first_update_release_date": 20180419,
+    "latest_update_release_date": 20190717,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190717
+    },
+    "versions": {
+        "65536": 20180419,
+        "131072": 20190717
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
