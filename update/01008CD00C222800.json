@@ -1,4 +1,48 @@
 {
     "id": "01008CD00C222800",
-    "version": 393216
+    "base_tid": "01008CD00C222000",
+    "name": "Streets of Rogue",
+    "description": "Streets of Rogue is a rogue-lite about player choice, freedom, and anarchic fun. The game takes inspiration from fast-paced top-down rogue-lites and adds free-form, experimentation-driven, emergent gameplay elements of immersive sims and RPGs.\n\nRather than taking place in a dungeon, the game is set in a functioning, procedurally generated city, where complex AI informs denizens from all walks of life, who are just trying to get by in their daily activities.\n\nIn order to progress, the player will need to accomplish specific mission goals in any way they see fit through the use of their special character traits, items, and the environment.\nWill you play as a soldier who shoots first and asks questions later?\nA stealthy doctor who uses chloroform and tranquilizer darts to take down the opposition?\nOr how about a gorilla, rescuing other caged gorillas to form a small mobilized gorilla army?\n\n\n",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20211220,
+    "first_update_release_date": 20190710,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240728
+    },
+    "versions": {
+        "65536": 20190710,
+        "131072": 20190823,
+        "196608": 20200305,
+        "262144": 20201228,
+        "393216": 20240728
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Fight, sneak, and hack your way through randomly generated cities. It's an anarchy riddled Twin-Stick, Rogue-lite, RPG, Immersive Sim, that goes completely insane.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug and Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Simulated Gambling"
+    ],
+    "region": null
 }

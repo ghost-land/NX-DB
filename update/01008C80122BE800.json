@@ -1,4 +1,54 @@
 {
     "id": "01008C80122BE800",
-    "version": 1114112
+    "base_tid": "01008C80122BE000",
+    "name": "Skyforge",
+    "description": "DISCOVER AELION\nSkyforge is an online action game inspired by science-fiction and fantasy, set in a breathtaking universe rife with gods and monsters. As an Immortal of Aelion, team up with players around the world to uncover amazing stories, explore lands uncharted, and defend a massive, constantly evolving world from invasion!\n\nPLAY WHEREVER, WHENEVER\nTake your intergalactic adventures on the move! Session-based gameplay makes it easy to play while traveling, on your lunch break, or kicking back at home. Pick up and play anytime, anywhere: Aelion will be waiting for you!\n\nDYNAMIC COMBAT OPTIMIZED FOR NINTENDO SWITCH™\nAwaken your Immortal powers in TV, tabletop, or handheld mode! Use Joy-Con™ controllers or the Nintendo Switch™ Pro Controller to master an intuitive combat system, and powerful attacks unique to each class. Unlock Divine Forms to unleash your true fighting potential!\n\nINSTANTLY SWITCH BETWEEN 18 CLASSES\nImmortals wield incredible magic and unique abilities, and you can switch between 18 unlockable classes to experience it to the fullest. Rock out with the Soundweaver's killer riffs, harness the power of nature with the Grovewalker, or set Aelion ablaze with the Firestarter!\n\nA WORLD UNDER ATTACK\nInvasions are limited-time seasonal events that will truly test your skill. As creatures from the deepest trenches, invaders from beyond the stars, and evil avatars of destruction descend on Aelion, stand and fight! Get the Invasion Pass to earn special rewards, including exclusive in-game cosmetics.\n\nPLAY FOR FREE\nSkyforge is free to download and play and receives regular, free content updates, so you can adventure without limits 24/7!",
+    "publisher": "MY.GAMES",
+    "developer": null,
+    "base_release_date": 20210205,
+    "first_update_release_date": 20210128,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "1114112",
+        "release_date": 20240719
+    },
+    "versions": {
+        "196608": 20210128,
+        "262144": 20210218,
+        "327680": 20210304,
+        "393216": 20210330,
+        "458752": 20210413,
+        "524288": 20210511,
+        "589824": 20210610,
+        "655360": 20210812,
+        "720896": 20210914,
+        "786432": 20211021,
+        "851968": 20220224,
+        "917504": 20220411,
+        "983040": 20220825,
+        "1048576": 20230411,
+        "1114112": 20240719
+    },
+    "category": [
+        "RPG",
+        "Multiplayer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A universe of adventures at your fingertips",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Online Interactivity",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

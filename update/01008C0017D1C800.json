@@ -1,4 +1,44 @@
 {
     "id": "01008C0017D1C800",
-    "version": 65536
+    "base_tid": "01008C0017D1C000",
+    "name": "Space Lines: A Puzzle Arcade Game",
+    "description": "Family friendly puzzle game for 1 to 4 players! Play alone or with friends! Conquer more than 100 stages! Battle with various creatures, traps and enjoy your space adventure.\n\nMore than 30 ships to unlock! 100 stages! Playable alone or up to 4 players!",
+    "publisher": "RuWaMo Games",
+    "developer": null,
+    "base_release_date": 20220505,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230113
+    },
+    "versions": {
+        "65536": 20230113
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Multiplayer",
+        "Education"
+    ],
+    "intro": "Family friendly puzzle game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01008C300648E800",
-    "version": 196608
+    "base_tid": "01008C300648E000",
+    "name": "Letter Quest Remastered",
+    "description": "The grim reapers Grimm and Rose need your help to defeat a legion of monsters, ghosts, and evil bunnies using the power of words!\n\nSpell words to battle monsters and earn gems that can be used to purchase upgrades, books, special items, potions, and much more! Letter Quest is a turn-based RPG featuring high-res artwork, clever wordplay, and two great soundtracks. Use your linguistic skills to survive!",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20171127,
+    "latest_update_release_date": 20180417,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180417
+    },
+    "versions": {
+        "65536": 20171127,
+        "131072": 20180314,
+        "196608": 20180417
+    },
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Other"
+    ],
+    "intro": "Limber up your lexicons for this word-based, turn-based, family-friendly puzzler!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

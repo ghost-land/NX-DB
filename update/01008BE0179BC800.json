@@ -1,4 +1,47 @@
 {
     "id": "01008BE0179BC800",
-    "version": 262144
+    "base_tid": "01008BE0179BC000",
+    "name": "Airoheart",
+    "description": "Our story begins in the land of Engard, where our beloved hero Airoheart sets out on a journey to stop his brother's diabolical plan to unleash an ancient evil that has been sealed in the shadows for generations, and to trigger a war using the power of the Draoidh Stone.  \n\nWill you confront your own brother and stop him from executing his wicked plans?",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20220930,
+    "first_update_release_date": 20220916,
+    "latest_update_release_date": 20221223,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221223
+    },
+    "versions": {
+        "65536": 20220916,
+        "131072": 20220930,
+        "196608": 20221012,
+        "262144": 20221223
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

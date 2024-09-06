@@ -1,4 +1,43 @@
 {
     "id": "01008C9014694800",
-    "version": 262144
+    "base_tid": "01008C9014694000",
+    "name": "My Friend Peppa Pig",
+    "description": "Have a fun-filled adventure by becoming Peppa Pig’s new friend! \n\nCreate and dress your character, ring Peppa’s doorbell, and begin a story that’s all up to you Peppa suggests activities everywhere you go – help Daddy Pig find his glasses, follow the animal tracks in the Forest, splash in muddy puddles, and much more! It’s just like being in an episode of the TV show, where all your favorite characters are excited to meet you. From the Beach to the Museum and even Potato City, every playtime is a new experience with your friend Peppa Pig.\n\n\nPARENTAL CONTROL – Easily set a time limit in Settings. Peppa ends the game when playtime is over.\n\nBUILD YOUR CHARACTER – Choose and dress your avatar\n\nPLAY WITH PEPPA – Learn and adventure with your new friend\n\nEXPLORE HER WORLD – Visit the beach , the Forest, Potato City and beyond\n\nMAKE FRIENDS – Your favorite Peppa Pig characters want to meet you\n\nGET CREATIVE – Young players star in their own unique story",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20211022,
+    "first_update_release_date": 20211022,
+    "latest_update_release_date": 20220704,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220704
+    },
+    "versions": {
+        "65536": 20211022,
+        "196608": 20220201,
+        "262144": 20220704
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Start a fun-filled adventure with Peppa Pig. Create your style, meet favorite characters, and play in Peppa’s world. It’s just like being in the TV show!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

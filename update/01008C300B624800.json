@@ -1,4 +1,38 @@
 {
     "id": "01008C300B624800",
-    "version": 262144
+    "base_tid": "01008C300B624000",
+    "name": "Mahjong Solitaire Refresh",
+    "description": "\"Mahjong Solitaire\" is a <Matching Puzzle> game of Mahjong tiles.\n\n★You do not need any knowledge about Mahjong, you just combine same design tiles!!\n★Contains 256 abundant stages!!\n★Enjoy the rhythm of removing tiles with Match type<Drag> which has introduced anew!!\n (You can of course enjoy with conventional Click type too!)\n★Included arrangement of arcade version \"Shanghai I\", \"Shanghai II\" and \"Shanghai III\" too!!\n★Able to select difficulty as you like!\n\nWon't you enjoy using brain and be healed with first series of Mahjong Solitaire with theme of water?",
+    "publisher": "SUNSOFT",
+    "developer": null,
+    "base_release_date": 20181224,
+    "first_update_release_date": 20181114,
+    "latest_update_release_date": 20201018,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201018
+    },
+    "versions": {
+        "65536": 20181114,
+        "131072": 20190213,
+        "196608": 20191104,
+        "262144": 20201018
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade"
+    ],
+    "intro": "Both Beginners and Experts, \nlet's \"Refresh\" with Mahjong Solitaire!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

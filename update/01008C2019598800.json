@@ -1,4 +1,47 @@
 {
     "id": "01008C2019598800",
-    "version": 393216
+    "base_tid": "01008C2019598000",
+    "name": "Bluey: The Videogame",
+    "description": "Join the fun with Bluey and her family in Bluey: The Videogame! Play a brand-new story set across 4 interactive adventures. For the first time ever, explore iconic locations such as the Heeler House, Playgrounds, Creek and a bonus beach location. Play your favourite games from the TV show, including Keepy Uppy, Chattermax Chase, and more!  \n\nThe fun doesn't stop there! This game won't be trifficult, just a lot of fun. Experience the joy and wonder of Bluey's world, with local multiplayer you can play with friends and family in story mode and free play! \n\nExplore and collect items for your sticker book, unlock outfits and uncover the many secrets and hidden references throughout each location. Recreate iconic scenes or create your very own Bluey inspired adventures and games.\n\nPlay time - Play as Bluey and her family including Chilli, Bingo and Bandit.\n\nCo-op play - Play with your family and friends in a variety of exciting games and challenges.\n\nExplore -  Recreate iconic moments from the TV series and immerse yourself in Bluey’s world",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20231117,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240320,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240320
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20231128,
+        "196608": 20240111,
+        "262144": 20240221,
+        "327680": 20240222,
+        "393216": 20240320
+    },
+    "category": [
+        "Multiplayer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "FOR REAL LIFE.",
+    "isDemo": false,
+    "languages": [
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

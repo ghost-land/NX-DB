@@ -1,4 +1,48 @@
 {
     "id": "01008C0019A5C800",
-    "version": 393216
+    "base_tid": "01008C0019A5C000",
+    "name": "BROK the InvestiGator",
+    "description": "In a futuristic \"light cyberpunk\" world where animals have replaced humans, privileged citizens live under a protective dome from the ambient air pollution while others struggle to make a living on the outside.\n\nBrok, a private detective and former boxer, lives with Graff, the son of his deceased wife. Although he could never elucidate her accident, recent events may shed some light on an even more tragic outcome... one that may be linked to their own existence. \n\nWill they be able to withstand the threats of this corrupted world and face their own destiny? \n\nFEATURES\n\n- Text fully translated into 10 languages\n- Solve puzzles with your wits... or muscles!\n- Make choices impacting gameplay and/or story\n- Easy mode for pure \"Point & Click\" gameplay (fights can be skipped)\n- Level up to beat enemies and bosses\n- Combine clues to uncover the truth!\n- In-game hints\n- Two playable characters, switch at any time\n- 15 to 20 hours long on first playthrough \n- Multiple distinct endings to unlock \n- Fully voice acted (23,000 lines)\n- In-game achievements\n- Optional touch controls\n- Free 60-pages artbook included\n- Local co-op adventure supported (up to 4 players)\n\nACCESSIBILITY\n\nBROK is the first full-fledged adventure game to be fully playable by blind or visually impaired players!\n\n- Fully narrated via quality text-to-speech and audiodescriptions (characters, locations and scenes.)\n- Puzzles adapted for blindness.\n- All puzzles and fights can be skipped.\n- Adapted tutorials.\n- Buttons to repeat the last voice speech and instructions.\n- Positional audio for fights.\n- No online connectivity required (after the download).\n- No specific device required: play with a controller.\n- Additional options: larger fonts and increased contrast (backgrounds and enemies.)\n\nTo enter the accessibility menu, press X on the title screen, then follow the audio instructions.\n\nIMPORTANT: Accessibility speeches are only available in English.",
+    "publisher": "COWCAT",
+    "developer": null,
+    "base_release_date": 20230301,
+    "first_update_release_date": 20230206,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20230206,
+        "131072": 20230322,
+        "196608": 20230412,
+        "262144": 20230429,
+        "327680": 20230802,
+        "393216": 20231123
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Fighting",
+        "Puzzle"
+    ],
+    "intro": "The very first PUNCH & CLICK!\nIn a grim world where animals have replaced mankind, what kind of detective will you be?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

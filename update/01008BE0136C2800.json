@@ -1,4 +1,34 @@
 {
     "id": "01008BE0136C2800",
-    "version": 65536
+    "base_tid": "01008BE0136C2000",
+    "name": "Super Meatball",
+    "description": "Super Meatball is game combine race car ,foot ball and meatball!? You can play with your friend in local multiplayer mode. The rule is easy. Shoot the fork on your car to get the meatball and bring the meatball into the shark's mouth to get 1 score. The team with higher score after a 3 minutes match is the winner!\n\nThe practice mode, 1 on 1 or 2 on 2, will be available under the PlayMode. If there is an inadequate number of players, the bots will automatically join the remaining spots.",
+    "publisher": "WOWWOW Technology",
+    "developer": null,
+    "base_release_date": 20210204,
+    "first_update_release_date": 20210421,
+    "latest_update_release_date": 20210421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210421
+    },
+    "versions": {
+        "65536": 20210421
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Racing",
+        "Sports"
+    ],
+    "intro": "Super Meatball is a phenomenon is animal planet.\nTeam up with your friends and compete with your opponent.\nRace your car and get the meatball into the goal.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

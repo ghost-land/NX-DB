@@ -1,4 +1,43 @@
 {
     "id": "01008BE01422C800",
-    "version": 262144
+    "base_tid": "01008BE01422C000",
+    "name": "Startup Company Console Edition",
+    "description": "Your company’s success depends on your ability to run and manage a website. You must develop and improve features while increasing hosting capacity and run marketing campaigns.\n\nThe city offers you offices in all sizes and shapes. It’s up to you to select the most suitable. It’s your job to organize and decorate the office while keeping your employees happy.\n\nYour employees are a vital part of your success. As you grow, you must continue recruiting more people. Over time, your employees will start demanding more of you and the company. It’s your job to keep them happy, before your competitors send them a job offer they can’t reject!\n\nThere’s no website without stable and reliable servers. As your website attracts more traffic, you'll have to move from virtual servers to your own fully featured hosting center.\n\nThe goal is obvious: become the biggest website in the industry. It’s up to you if you want to buy and merge your competitors or outrun them until they go out of business!\n\nFeatures:\n- Running a website\n- Setting up offices\n- Managing employees\n- Configuring servers",
+    "publisher": "2Awesome Studio",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20221201,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20221201,
+        "131072": 20221218,
+        "196608": 20230217,
+        "262144": 20230802
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Startup Company Console Edition is a business simulation sandbox game. You’re the CEO of a small startup and are eager to grow your company.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

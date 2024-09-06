@@ -1,4 +1,47 @@
 {
     "id": "01008C0016544800",
-    "version": 393216
+    "base_tid": "01008C0016544000",
+    "name": "Sea of Stars",
+    "description": "Sea of Stars tells the story of two Children of the Solstice who combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fighting off the monstrous creations of an evil alchemist known as The Fleshmancer.\n\n• Engaging Turn-Based Combat - Timed hits, combo attacks, boosting, damage types and spellbreaking.\n• Unshackled Traversal - Swim, climb, vault, jump off or hoist up as you traverse the world seamlessly.\n• A Story Rich Adventure - Dozens of characters and story arcs will take you on a captivating journey.\n• A World You Can Touch - Need a change of pace? Go sailing, cooking, fishing or find a tavern to relax.\n",
+    "publisher": "Sabotage Studio",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20230824,
+    "latest_update_release_date": 20231222,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20231222
+    },
+    "versions": {
+        "65536": 20230824,
+        "131072": 20230830,
+        "262144": 20231018,
+        "327680": 20231207,
+        "393216": 20231222
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Embark on a journey of peril and wonder as a Solstice Warrior in this turn-based RPG inspired by the classics",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

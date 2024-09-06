@@ -1,4 +1,55 @@
 {
     "id": "01008CD0172D6800",
-    "version": 655360
+    "base_tid": "01008CD0172D6000",
+    "name": "DREDGE",
+    "description": "Captain your fishing trawler to explore a collection of remote isles, and their surrounding depths, to see what lies below. Sell your catch to the locals and complete quests to learn more about each area’s troubled past. Outfit your boat with better equipment to trawl deep-sea trenches and navigate to far-off lands but keep an eye on the time. You might not like what finds you in the dark...\nGame Features\n\n● Unravel a Mystery: Captain your fishing trawler across a collection of remote islands, each with its own inhabitants to meet, wildlife to discover, and stories to unearth\n\n● Dredge the Depths: Scour the sea for hidden treasures and complete quests to gain access to strange new abilities\n\n● Study Your Craft: Research special equipment and upgrade your boat’s capabilities to gain access to rare fish and valuable deep-sea curios\n\n● Fish to Survive: Sell your discoveries to the locals to learn more about each area, and upgrade your boat to reach even more secluded locations\n\n● Fight the Unfathomable: Strengthen your mind and use your abilities to survive trips out on the water after dark",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230212,
+    "latest_update_release_date": 20240815,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240815
+    },
+    "versions": {
+        "65536": 20230212,
+        "131072": 20230217,
+        "196608": 20230322,
+        "262144": 20230511,
+        "327680": 20230714,
+        "393216": 20230918,
+        "458752": 20231123,
+        "524288": 20231218,
+        "655360": 20240815
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "A single-player fishing adventure with a sinister undercurrent.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

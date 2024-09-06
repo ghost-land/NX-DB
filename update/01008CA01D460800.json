@@ -1,4 +1,45 @@
 {
     "id": "01008CA01D460800",
-    "version": 65536
+    "base_tid": "01008CA01D460000",
+    "name": "Erogods: Asgard",
+    "description": "Odin, Thor, Loki, Bragi, Nanna and other gods are waiting for you. Your goal is to establish a romantic relationship and pass the tests. Are you ready to receive your reward?\n\nFeatures:\n14 goddesses are waiting for you.\nRelaxing music.\nMeditative gameplay.\nInteractive gallery.",
+    "publisher": "Nelset interactive",
+    "developer": null,
+    "base_release_date": 20231207,
+    "first_update_release_date": 20240312,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20240312
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Adventure",
+        "Training"
+    ],
+    "intro": "Erogods: Asgard - is a dating simulator with feminized Norse gods.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }

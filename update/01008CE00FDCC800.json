@@ -1,4 +1,32 @@
 {
     "id": "01008CE00FDCC800",
-    "version": 131072
+    "base_tid": "01008CE00FDCC000",
+    "name": "Bowling",
+    "description": "Grab your best bowling shoes and get ready to play this fun and easy to play bowling game anytime, anywhere.\n\nThe aim of the game is to score points by knocking down the pins, just line up your shot by choosing the position, power and direction of your ball.\n\nPlay against a friend or play against the computer’s smart artificial intelligence (AI) player, either way, winning won’t come easy. \n\n\nJust remember its precision and power that gets the best score and wins the game.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20191128,
+    "first_update_release_date": 20210728,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210728
+    },
+    "versions": {
+        "131072": 20210728
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

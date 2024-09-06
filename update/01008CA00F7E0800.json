@@ -1,4 +1,34 @@
 {
     "id": "01008CA00F7E0800",
-    "version": 65536
+    "base_tid": "01008CA00F7E0000",
+    "name": "Perils of Baking",
+    "description": "You play as the younger of two brothers, famous for their baking. It's up to you to stop your brother's evil plans as he has given in to a dark artifact.\n\nOver the 40 main levels in the game you will master driving a minecart, flying a balloon, swimming, baking, reversed gravity and more.\n\nTrue Bakers will discover all the bonus rooms and beat the levels in Secret Land.\n\nFeatures:\n\n• Experience a classic retro-style 2D platforming game\n• Play through 40 main levels and discover all bonus rooms and secrets\n• Collect food to power up and gain new abilities\n• Defeat a large variety of enemies and challenging boss encounters\n• Casual gameplay, suitable for the whole family",
+    "publisher": "Lillymo Games",
+    "developer": null,
+    "base_release_date": 20191114,
+    "first_update_release_date": 20191120,
+    "latest_update_release_date": 20191120,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191120
+    },
+    "versions": {
+        "65536": 20191120
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Perils of Baking is a 2D platforming love letter to its retro inspirations.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

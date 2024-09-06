@@ -1,4 +1,40 @@
 {
     "id": "01008CB0156BC800",
-    "version": 262144
+    "base_tid": "01008CB0156BC000",
+    "name": "The Legend of Heroes: Trails into Reverie",
+    "description": "What destinies await these three fateful figures? Use the Trails to Walk system to switch between Rean Schwarzer, Lloyd Bannings, and the masked figure \"C,\" and determine the fates of key characters and locations within Zemuria. Dive into refined tactical combat with new features such as United Front, and discover new allies and challenges within the halls of the True Reverie Corridor!\n\nThe following additional content is included in the game:\n- Elie's Crossbell Queen Outfit\n- Rixia's Moonlight Wedding Outfit\n- Nadia's Devilish Summer Swimsuit\n- Lapis' Magical Girl Outfit\n- Tio's Old School Outfit\n- Lapis' Li'l Slaughterer Outfit\n- Free Set Vol. 1\n- Free Set Vol. 2\n- Free Set Vol. 3",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20230707,
+    "first_update_release_date": 20230701,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240328
+    },
+    "versions": {
+        "131072": 20230701,
+        "196608": 20230802,
+        "262144": 20240328
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Where one trail ends, another begins...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Language",
+        "Simulated Gambling",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

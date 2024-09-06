@@ -1,4 +1,34 @@
 {
     "id": "01008CC019998800",
-    "version": 65536
+    "base_tid": "01008CC019998000",
+    "name": "Norn9: Last Era",
+    "description": "Twelve espers with superhuman powers brought together on a floating ship by a mysterious multinational entity known only as The World... \nTheir story together may have ended, but their own are just beginning.\n\nPast, present, and future converge in Norn9: Last Era’s three different story modes, including explorations of the characters’ pasts before their lives together on the ship, retellings of the events of Norn9: Var Commons from new perspectives, and tales taking place after the events of the first game.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20230831,
+    "first_update_release_date": 20230819,
+    "latest_update_release_date": 20230819,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230819
+    },
+    "versions": {
+        "65536": 20230819
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug References",
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "01008C201619C800",
-    "version": 327680
+    "base_tid": "01008C201619C000",
+    "name": "Everdell",
+    "description": "From Everfrost to Bellsong, many a peaceful year has passed in Everdell — but the time has come for new territories to be settled and new cities to be established...\n\nAdapted from the award-winning board game from Tabletop Tycoon, Everdell is a fantastical city building game combining worker placement and strategic card play to create a new civilization.  Gather resources to build fanciful Constructions and recruit colorful Critters to make your city thrive. Each card in your city scores points, and after four seasons have passed the highest-scoring city wins!\n\nFace off against other founders in cross-platform multiplayer games, or test your civic wits with AI play and Solo Challenges!",
+    "publisher": "Dire Wolf Digital",
+    "developer": null,
+    "base_release_date": 20220928,
+    "first_update_release_date": 20221004,
+    "latest_update_release_date": 20231207,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231207
+    },
+    "versions": {
+        "65536": 20221004,
+        "131072": 20221106,
+        "196608": 20230802,
+        "262144": 20231013,
+        "327680": 20231207
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Harvest resources to build a village of woodland critters in this adaptation of the award-winning tabletop board game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

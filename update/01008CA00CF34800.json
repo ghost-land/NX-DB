@@ -1,4 +1,37 @@
 {
     "id": "01008CA00CF34800",
-    "version": 131072
+    "base_tid": "01008CA00CF34000",
+    "name": "Skellboy",
+    "description": "Life was peaceful in the Cubold Kingdom until the king's evil court magician got dumped by the princess. With his heart broken and his rage fueled, he called upon the evil spirits to resurrect the dead and the kingdom's long forgotten monstrosities.\n\nWhat he doesn't realize in his fury is that he accidentally summoned an ancient hero as well... Skippy! Travel across the beautifully rendered kingdom of Cubold and take full advantage of your resurrected, skeletal body! Swap out body parts to acquire new abilities during your adventure or pick up a new weapon to vanquish the evil magician's lackeys. \n\nOnwards, Skippy, it's time to be a hero once more!\n\n• A true action-rpg experience that will test your skill and reward exploration!\n• An expansive singleplayer experience across the interconnected world of Cubold!\n• The unique ability to swap out body parts to acquire special abilities!\n• Several weapon types to clobber any foes you face!\n• Special enemies and bosses that will truly test your mettle!\n• A beautifully vibrant world alongside some rocking chiptune tracks!",
+    "publisher": "Fabraz",
+    "developer": null,
+    "base_release_date": 20200131,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20200204,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200204
+    },
+    "versions": {
+        "65536": 20191211,
+        "131072": 20200204
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Travel across Cubold and take full advantage of your resurrected, skeletal body by swapping out body parts and acquiring new abilities during your adventures!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null
 }
