@@ -1,4 +1,38 @@
 {
     "id": "0100B7D01EF62800",
-    "version": 65536
+    "base_tid": "0100B7D01EF62000",
+    "name": "Arcade Archives THE FINAL ROUND",
+    "description": "\"THE FINAL ROUND\" is a sports-action game released by KONAMI in 1988.\nTrain to become a boxing champion and win matches against your rivals.\nIf they hit you, hit them back! Hard Punchers covered in blood, win the hot fights and grab the glory!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20240801,
+    "first_update_release_date": 20240820,
+    "latest_update_release_date": 20240820,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240820
+    },
+    "versions": {
+        "65536": 20240820
+    },
+    "category": [
+        "Sports",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "GO ALL THE WAY TO... THE FINAL ROUND",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,48 @@
 {
     "id": "0100B87013EBE800",
-    "version": 458752
+    "base_tid": "0100B87013EBE000",
+    "name": "Farm for your Life",
+    "description": "Your community was taken down by a heavy storm which caused an apocalypse and unleashed the living dead. Together with the other survivors, it is your task to rebuild and to allow that sustainable life can still be assured. Cultivate your farm and manage your restaurant to provide food and deal with all the zombies.",
+    "publisher": "Secret Item Games",
+    "developer": null,
+    "base_release_date": 20210624,
+    "first_update_release_date": 20210616,
+    "latest_update_release_date": 20211210,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20211210
+    },
+    "versions": {
+        "65536": 20210616,
+        "131072": 20210628,
+        "196608": 20210701,
+        "262144": 20210708,
+        "327680": 20210727,
+        "393216": 20210730,
+        "458752": 20211210
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Farm for your Life is a Time Management Game. The light-hearted style of a casual game collides with elements, which are usually only seen in horror genres.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

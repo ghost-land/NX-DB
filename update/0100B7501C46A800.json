@@ -1,4 +1,44 @@
 {
     "id": "0100B7501C46A800",
-    "version": 327680
+    "base_tid": "0100B7501C46A000",
+    "name": "Arzette: The Jewel of Faramore",
+    "description": "After ten years of peace...the evil Daimur has returned! Princess Arzette is the Kingdom of Faramore’s only hope to restore harmony to the land!\n\nIn this brand new interactive action adventure game, you control the resourceful princess Arzette. Travel through multiple breathtaking locations filled with scum, villainy and secrets, speak with the locals to uncover mysteries and objectives, and take on the evil Daimur as Arzette: The Jewel of Faramore brings you the best interactive gaming experience since the invention of the CD-ROM!\n\nFeaturing:\n\n• Hand painted backgrounds and incredible sprite art.\n• Fully voice-acted cartoon cinematics with a colorful cast of characters.\n• A sprawling world with diverse locations and many secrets.\n• Acquire powerful items and abilities by exploring and helping those in need.\n• Veteran dev team including artist Rob Dunlavey, Digital Foundry's John Linneman and Audi Sorlie, voice talent Jeffrey Rath and Bonnie Jean Wilbur, and award winning composer Jake \"Button Masher\" Silverman.\n",
+    "publisher": "Limited Run Games",
+    "developer": null,
+    "base_release_date": 20240214,
+    "first_update_release_date": 20240125,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240419
+    },
+    "versions": {
+        "131072": 20240125,
+        "196608": 20240212,
+        "262144": 20240226,
+        "327680": 20240419
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

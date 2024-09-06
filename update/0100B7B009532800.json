@@ -1,4 +1,26 @@
 {
     "id": "0100B7B009532800",
-    "version": 131072
+    "base_tid": "0100B7B009532000",
+    "name": "Super Chariot Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20180426,
+    "latest_update_release_date": 20180607,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180607
+    },
+    "versions": {
+        "65536": 20180426,
+        "131072": 20180607
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

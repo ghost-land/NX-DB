@@ -1,4 +1,43 @@
 {
     "id": "0100B7C01169C800",
-    "version": 65536
+    "base_tid": "0100B7C01169C000",
+    "name": "The Coma 2: Vicious Sisters",
+    "description": "Mina Park, a student of Sehwa High, awakens at night in her school. It isn’t long before she realizes that something is amiss. The once-familiar school where she spends her evenings studying looks twisted by something dark and sinister. She finds herself pursued by someone or something that looks eerily like her teacher. To survive, Mina must venture beyond the boundaries of her school and into the surrounding district. There, she will encounter strange creatures, mysterious strangers, and uneasy allies. \n\nThe Coma 2: Vicious Sisters is an atmospheric, story-driven game. Immerse yourself in the warped Sehwa district as you encounter an engaging cast of characters, solve puzzles, discover revealing clues, and fight for survival against a relentless psycho.",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20200619,
+    "first_update_release_date": 20200826,
+    "latest_update_release_date": 20200826,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200826
+    },
+    "versions": {
+        "65536": 20200826
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Horror Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

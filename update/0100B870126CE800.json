@@ -1,4 +1,37 @@
 {
     "id": "0100B870126CE800",
-    "version": 131072
+    "base_tid": "0100B870126CE000",
+    "name": "Shin Megami Tensei V",
+    "description": "In Shin Megami Tensei V, the latest entry of the acclaimed Shin Megami Tensei RPG series, play as a high school student who must harness newfound powers to fight through a demon-infested wasteland using a command-based system.\n\nThough demons are formidable opponents, some can be worthy allies and recruited via negotiations to fight alongside you in a dying world. How will your destiny unfold?\n\nPlease note: Shin Megami Tensei V is available with Japanese and English voiceover.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20211112,
+    "first_update_release_date": 20211111,
+    "latest_update_release_date": 20211209,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211209
+    },
+    "versions": {
+        "65536": 20211111,
+        "131072": 20211209
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Strong sexualised imagery"
+    ],
+    "region": null
 }

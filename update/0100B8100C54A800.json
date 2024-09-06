@@ -1,4 +1,42 @@
 {
     "id": "0100B8100C54A800",
-    "version": 327680
+    "base_tid": "0100B8100C54A000",
+    "name": "Rack N Ruin",
+    "description": "Join Rack on an epic adventure across a world filled with magic and wonder. Then watch in astonishment as Rack befouls, corrupts, slaughters, and brings about a general air of misfortune to everything and everyone he confronts. Chaos reigns in this top-down action adventure rpg that's infused with the intensity of a classic shoot 'em up.\n \nFeatures\n-Burn through hordes of foes with an arsenal of over 28 different spells, items, and abilities.\n-Weave through complex bullet patterns while smiting titanic bosses and over 30 unique enemies.\n-Explore an enchanted benevolent world, and then transform it into a nightmarish image of its former self.\n-Ransack castles, pillage dungeons, escape eternal prisons, navigate gloomy caves, and awaken ancient evils.\n-Meet a charming cast of townsfolk, and collect their souls to upgrade your weapons.\n-Unravel devious puzzles, and scour the land for over 100 secrets.\n-And of course, destroy the world.",
+    "publisher": "Secret Item Games",
+    "developer": null,
+    "base_release_date": 20200313,
+    "first_update_release_date": 20200330,
+    "latest_update_release_date": 20220603,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220603
+    },
+    "versions": {
+        "65536": 20200330,
+        "131072": 20201204,
+        "196608": 20210318,
+        "262144": 20210318,
+        "327680": 20220603
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "RPG"
+    ],
+    "intro": "Rack N Ruin is a fusion of an action rpg and a bullet hell shooter. Starring Rack, a demonic wizard with an appetite for destruction. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

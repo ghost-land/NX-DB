@@ -1,4 +1,38 @@
 {
     "id": "0100B77012BD4800",
-    "version": 262144
+    "base_tid": "0100B77012BD4000",
+    "name": "NINJA GAIDEN Σ",
+    "description": "2007年發售的《NINJA GAIDEN Σ》再度登場。\n不僅有傳承隼流忍術的青年忍者「龍隼」接連展現過人的華麗武術，更提供了選擇更多樣化的日本、西洋和魔界的華麗舞台等，令熱愛動作遊戲迷們喜愛不已的構成要素。\n\n■盛大的故事輕鬆玩的「英雄模式」\n　於難易度選擇選擇「英雄模式」後，當體力減少時，一定時間的挌擋和迴避即自動發動，忍法將無限制射擊。即使是輕裝簡行的格鬥玩家，亦可沉浸於一氣化險為安逆轉勝的英雄感中，持續接受挑戰。當然，也設有可滿足狂熱格鬥玩家需求的高難易度模式。\n\n※此商品包含於《NINJA GAIDEN: Master Collection》《NINJA GAIDEN: Master Collection Deluxe Edition》。無單獨販售。",
+    "publisher": "KOEI TECMO GAMES",
+    "developer": null,
+    "base_release_date": 20210610,
+    "first_update_release_date": 20210609,
+    "latest_update_release_date": 20220814,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220814
+    },
+    "versions": {
+        "65536": 20210609,
+        "131072": 20210704,
+        "196608": 20220704,
+        "262144": 20220814
+    },
+    "category": [
+        "動作",
+        "冒險"
+    ],
+    "intro": "武功高強，何過之有－－獲得傳奇寶刀「龍劍」的超忍龍隼，力斬暗黑！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

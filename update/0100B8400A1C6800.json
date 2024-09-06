@@ -1,4 +1,36 @@
 {
     "id": "0100B8400A1C6800",
-    "version": 65536
+    "base_tid": "0100B8400A1C6000",
+    "name": "Bloons TD 5",
+    "description": "Five-star tower defense with unrivaled depth and replayability. The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon in the best ever version of the most popular family friendly tower defense series in history.",
+    "publisher": "Ninja Kiwi",
+    "developer": null,
+    "base_release_date": 20180619,
+    "first_update_release_date": 20180710,
+    "latest_update_release_date": 20180710,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180710
+    },
+    "versions": {
+        "65536": 20180710
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

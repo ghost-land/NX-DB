@@ -1,4 +1,40 @@
 {
     "id": "0100B810176A8800",
-    "version": 196608
+    "base_tid": "0100B810176A8000",
+    "name": "Etrian Odyssey II HD",
+    "description": "Etrian Odyssey II HD rebirths the timeless adventure of the mysterious floating castle. \n\nWhen civilization sunk beneath the seven seas, deep forests spread across the five remaining islands.\n\nOnly the chosen ones escaped the waters in their castle stronghold. Eventually, the waves overtook even the last five islands...And the castle was all that remained. After the passing of ages, the people of the floating castle have chosen to descend upon their mother soil.\n\nBuild your own party from twelve different classes of heroes and climb through the Yggdrasil tree to reach the clouds and uncover the truth of High Lagaard.\n\nEtrian Odyssey II HD Features:\n- Touch screen mapping functionality for the Nintendo Switch™: Plot your progress through the labyrinth, drawing walls and placing icons to note special events and resources\n- Newly remastered graphics, remastered soundtrack and quality of life improvements including difficulty selection and save slots\n- Easy access to the Monstrous Codex, quest log and skill tree\n- Maximize your adventuring by optimizing your party, choose the character classes that work for your playstyle",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20230601,
+    "first_update_release_date": 20230531,
+    "latest_update_release_date": 20230721,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230721
+    },
+    "versions": {
+        "131072": 20230531,
+        "196608": 20230721
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Create Endless Adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

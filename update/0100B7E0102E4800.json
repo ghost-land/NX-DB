@@ -1,4 +1,39 @@
 {
     "id": "0100B7E0102E4800",
-    "version": 196608
+    "base_tid": "0100B7E0102E4000",
+    "name": "Drawngeon: Dungeons of Ink and Paper",
+    "description": "Life went on as usual in the Inkland… until the Tower fell straight from the sky! Many heroes tried to solve its mystery, but none of them succeeded. It’s your turn to prove your worth.\nChoose your class - warrior, magician or rogue - each with their own strength and abilities. Loot and buy items, fight with various weapons, create and cast powerful spells. All the ingredients of a good role-playing game are there, but with a unique real-time combat based on grid movement – like on a piece of paper! The hand-drawn graphics especially fit the dark and old-school heroic fantasy settings.\nDrawngeon is a RPG adventure that can also be played in short gameplay sessions, thanks to the procedural generation of dungeons, caves, forests and items you will find as you progress and develop your character. \n\nFeatures summary:\n•    Everything is hand-drawn!\n•    Procedural generation of locations and items.\n•    Three classes of heroes - each with its own play style.\n•    Short gameplay sessions.\n•    Strange world and unexpected discoveries.\n•    You are able to eat items!",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20221028,
+    "first_update_release_date": 20191128,
+    "latest_update_release_date": 20200207,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200207
+    },
+    "versions": {
+        "65536": 20191128,
+        "131072": 20200109,
+        "196608": 20200207
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The Mysterious Tower suddenly appeared, waiting for heroes to beat its challenges. Choose your class and take up the quest in a unique hand-drawn RPG.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

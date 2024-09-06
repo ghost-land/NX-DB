@@ -1,4 +1,49 @@
 {
     "id": "0100B7A01386E800",
-    "version": 262144
+    "base_tid": "0100B7A01386E000",
+    "name": "Soundfall",
+    "description": "Soundfall is a fast-paced music-based dungeon crawler that combines looter-shooter action with rhythm-based gameplay to create a world of music unlike any other.\n\nDEFEND SYMPHONIA\nYou are a Guardian of Harmony--a musical genius transported to the world of Symphonia by the Composers to battle the forces of Discord. Venture out solo or with up to four players to fight your way through the corrupted Timbrelands of Symphonia, eradicating the Discordians and restoring Harmony to the environment.\n\nPlay to the Beat! In Soundfall, the closer you time your actions to the rhythm of the soundtrack, the more powerful you become! \n\nProtect the Music! Defeat the Lord of Discord and defend Symphonia in full campaign mode! \n\nThousands of Loot combinations! Unlock powerful new abilities, and explore Symphonia to discover incredible music-based weaponry! Customize your loadout with more than 500 pieces of equipment to choose from! \n\nUp to 4-Player co-op Defend Symphonia with your friends, either locally or through online co-op! \n\n5 characters to choose from! Play as one of five unique musical geniuses, each with their own play style, weapon and special abilities! \n\nExplore the world of music! Explore ten dynamically different environments and restore harmony to Symphonia! \n",
+    "publisher": "Noodlecake",
+    "developer": null,
+    "base_release_date": 20220511,
+    "first_update_release_date": 20220512,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20220512,
+        "131072": 20220608,
+        "196608": 20220805,
+        "262144": 20240822
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Music",
+        "Multiplayer"
+    ],
+    "intro": "Feel the Beat. Use the Beat. Defend the Beat. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

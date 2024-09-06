@@ -1,4 +1,37 @@
 {
     "id": "0100B86019098800",
-    "version": 196608
+    "base_tid": "0100B86019098000",
+    "name": "GOODBYE WORLD",
+    "description": "[The Story]\nProgrammer Kanii and graphics artist Kumade are two friends who met in college.\nAfter graduating, they’ve been creating indie games together, but so far life has been harsh; Their games don't sell, and most of their time is spent working part time jobs to make ends meet...\nAs Kanii desperately tries to find a way to make a product that sells, Kumade makes a decision―\n\n\n[About the Game]\n\"GOODBYE WORLD\" is a narrative adventure game.\nPlay through 12 stages of a puzzle platformer while following the two protagonists through 13 chapters of their story.",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20221117,
+    "latest_update_release_date": 20221213,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221213
+    },
+    "versions": {
+        "131072": 20221117,
+        "196608": 20221213
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A harsh reality. A passion lost. A story of two creators.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

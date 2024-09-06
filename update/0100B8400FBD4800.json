@@ -1,4 +1,40 @@
 {
     "id": "0100B8400FBD4800",
-    "version": 196608
+    "base_tid": "0100B8400FBD4000",
+    "name": "泡泡龍 4 伙伴",
+    "description": "■收錄原版泡泡龍及系列傳統的困難模式！\n本作中一起收錄了1986年上市的原版泡泡龍，且支援2人模式無限制繼續進行。\n而且也收錄了泡泡龍系列有名的困難模式，能夠以戰略性玩法享受開放隱藏關卡的趣味。\n在Nintendo Switch中，快樂地遊玩有著龐大份量當年的泡泡龍吧。\n\n■新特殊泡泡技能登場！\n本作中每通過一個關卡，就能獲得長射或炸彈泡等的新技能。\n用各式各樣特殊的泡泡技能，來更有效率地攻略關卡吧。\n\n■支援最多4人同樂的多人模式！\n本作不僅支援2人同時遊玩，更支援了最多可以4人同時遊玩。\n使用一個Nintendo Switch Joy-Con，\n便隨時隨地可以和家人朋友們一起遊玩遊戲。",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20191219,
+    "first_update_release_date": 20191218,
+    "latest_update_release_date": 20201116,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201116
+    },
+    "versions": {
+        "65536": 20191218,
+        "196608": 20201116
+    },
+    "category": [
+        "動作",
+        "街機",
+        "益智"
+    ],
+    "intro": "可愛的「巴比」和「波比」龍回來啦！\n傳說中的經典遊戲《泡泡龍》系列回歸，泡泡龍 4 伙伴！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

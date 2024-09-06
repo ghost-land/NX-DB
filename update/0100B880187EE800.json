@@ -1,4 +1,44 @@
 {
     "id": "0100B880187EE800",
-    "version": 131072
+    "base_tid": "0100B880187EE000",
+    "name": "Blossom's Bloom Boutique",
+    "description": "Meet Blossom, a cheerful girl in her twenties who had always wanted to run her own flower store. Arriving for the summer in the small town where she grew up, Blossom used all her savings to start her new journey. Help Blossom to rebuild and grow her Bloom Boutique.\n \nMeet different characters who will be part of Blossom’s story, like the mysterious biker who used to ride his motorcycle in the area where Blossom is opening her boutique.\n \n•\t100+ colorful Match 3 levels with increasing difficulty\n•\tUse 5 unique boosters like Water Sprinklers, Lawnmower and Flower Power \n•\tRebuild the flower store and use your green thumb to improve the entire neighborhood",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20220830,
+    "latest_update_release_date": 20220830,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220830
+    },
+    "versions": {
+        "131072": 20220830
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": "Open your flower store and create a beautiful garden landscape that everyone would love to visit!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null
 }

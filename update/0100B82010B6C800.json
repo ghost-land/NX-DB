@@ -1,4 +1,36 @@
 {
     "id": "0100B82010B6C800",
-    "version": 196608
+    "base_tid": "0100B82010B6C000",
+    "name": "Cook, Serve, Delicious! 3?!",
+    "description": "Hit the road in this massive sequel to the million-selling Cook, Serve, Delicious! series as you travel across the United States to participate in the Iron Cook Foodtruck Championships with your trusty robot crew Whisk and Cleaver.\n\nSet in the radically-changed war-torn America of 2042, play through an all new story-driven campaign where you cook hundreds of foods—including many brand new to the series—across hundreds of levels in a new gameplay structure that has been completely redesigned to deliver fast-paced action, or take it easy with the all new Chill Mode that can be toggled on or off at any time!\n\n•Play through the campaign via single player or with a friend in local co-op (with the ability to change on the fly).\n\n•Upgrade your food truck with dozens of gameplay-affecting modules!\n\n•Expand your food catalog with over two hundred foods!\n\n•Decorate your food truck with dozens of trinkets that span the US!\n\n•Tons of accessibility features that allow you to play the most comfortably you'd like, including motion settings, flashing/strobe settings, audio and colorblind features, and tons more.\n\n•Over a hundred hours of gameplay spanning over 380 levels!\n\n•An amazing original soundtrack by award-winning composer Jonathan Geer.",
+    "publisher": "Vertigo Gaming",
+    "developer": null,
+    "base_release_date": 20231030,
+    "first_update_release_date": 20201120,
+    "latest_update_release_date": 20210118,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210118
+    },
+    "versions": {
+        "65536": 20201120,
+        "131072": 20210106,
+        "196608": 20210118
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Cook, serve and manage your food truck as you dish out hundreds of different foods across war-torn America in this massive sequel to the million-selling series! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Violence"
+    ],
+    "region": null
 }

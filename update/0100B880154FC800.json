@@ -1,4 +1,33 @@
 {
     "id": "0100B880154FC800",
-    "version": 131072
+    "base_tid": "0100B880154FC000",
+    "name": "ペルソナ５ ザ・ロイヤル",
+    "description": "アトラスが贈る、ジュブナイルRPG『P5R』がNintendo Switch™に登場。主人公は、ある事情で“東京”の高校に転入することになった少年。昼間はごく普通の高校生。放課後は腐った大人たちの歪んだ欲望を盗む怪盗として暗躍。\n個性豊かな仲間たちが志す「世直し」の行く末は…？\n\nさらに、本作では、オリジナル版『ペルソナ５ ザ・ロイヤル』で販売された40以上のDLCを、最初から遊べる状態で収録！",
+    "publisher": "アトラス",
+    "developer": null,
+    "base_release_date": 20221021,
+    "first_update_release_date": 20221018,
+    "latest_update_release_date": 20230110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230110
+    },
+    "versions": {
+        "65536": 20221018,
+        "131072": 20230110
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "奪え、その意志で。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "犯罪",
+        "麻薬"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100B7E01234E800",
-    "version": 65536
+    "base_tid": "0100B7E01234E000",
+    "name": "Hotel Sowls",
+    "description": "As a pharmacologist looking for success,\nyou obtained a mysterious stone found in Sowls.\n\n\"With this stone, I'll be able to conduct a successful research!\"\n\nAfterwards, you visited \"Hotel Sowls\" to get some good rest...\n...and found out next morning your precious stone has disappeared!\n\n\"Someone must've stolen it!\"\n\nSo begins your investigation to find your stone...\n\n◆ Take back your precious stone\nYou can stay no longer than 5 days in the hotel.\nFind out who the thief is before time runs out!\n\n◆ Clues are in the hotel\nThis mysterious hotel has some weird secrets!\nSearch Hotel Sowls for the clues to your lost stone!\n\n◆ A fate you've never expected\nYou choose your own fate!\nThe ending changes depending on your choice!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20200730,
+    "first_update_release_date": 20200824,
+    "latest_update_release_date": 20200824,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200824
+    },
+    "versions": {
+        "65536": 20200824
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Welcome to Hotel Sowls!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Drug Use",
+        "Strong Horror Themes"
+    ],
+    "region": null
 }
