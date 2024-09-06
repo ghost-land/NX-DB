@@ -1,4 +1,35 @@
 {
     "id": "0100D37011F42800",
-    "version": 262144
+    "base_tid": "0100D37011F42000",
+    "name": "My Forged Wedding",
+    "description": "The Story:\nDue to a twist of fate, you're now pretending to be the wife of a man you've just met. At first, you're against the idea of this fake marriage, but as the days go on and you get to know one another, your mutual attraction deepens...\n\nCharacters:\nYamato Kougami  \"Physics lecturer\"\nTakamasa Saeki  \"Author\"\nRen Shibasaki     \"Scientist\"\nTakao Maruyama \"Lawyer\"\nYuta Kajima        \"Comedian\"\n\nContents\nIncludes \"Main Stories\" in the App \"Love 365: Find Your Story.\"\nFollows Yamato, Saeki, Ren, and Takao's stories up to \"Honeymoon: Epilogue.\"\nStories for Yuta are included up until \"Wedding Bells: Epilogue.\"",
+    "publisher": "Voltage",
+    "developer": null,
+    "base_release_date": 20200917,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20210704,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210704
+    },
+    "versions": {
+        "65536": 20200930,
+        "131072": 20201012,
+        "196608": 20201102,
+        "262144": 20210704
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Marry me... Only a month will do.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Sexual References"
+    ],
+    "region": null
 }

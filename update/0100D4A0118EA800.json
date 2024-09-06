@@ -1,4 +1,48 @@
 {
     "id": "0100D4A0118EA800",
-    "version": 327680
+    "base_tid": "0100D4A0118EA000",
+    "name": "Curse of the Dead Gods",
+    "description": "You seek untold riches, eternal life, divine powers - it leads to this accursed temple, a seemingly-infinite labyrinth of bottomless pits, deadly traps, and monsters. \n\nYour greed will lead you to death, but that is not an escape. Rise to fight again. Delve deeper again. Defy the malignant deities that linger in this place. Battle through hordes of enemies in dark, cavernous passages filled with traps and secrets of all sorts - fire-spewing statues, explosives, hidden spikes, and worse.\n\nCollect mystical Relics and an arsenal of weapons to make yourself unstoppable. Corruption builds in you with every step - encourage or ignore it, but each powerful curse can be a double-edged sword.\n\n- A skill-based roguelike exploring a cruel, dark temple made of endless rooms and corridors\n- Swords, spears, bows, guns - wield these and many more\n- Unique curses influence each attempt, putting a twist on every action\n- Dozens of enemies, with powerful champions and deadly bosses to face off against",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20220301,
+    "first_update_release_date": 20210129,
+    "latest_update_release_date": 20240220,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240220
+    },
+    "versions": {
+        "65536": 20210129,
+        "131072": 20210414,
+        "196608": 20210615,
+        "262144": 20220503,
+        "327680": 20240220
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Seek riches and divine powers in a temple filled with deadly traps and monsters.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null
 }

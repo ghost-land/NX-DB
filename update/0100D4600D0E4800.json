@@ -1,4 +1,51 @@
 {
     "id": "0100D4600D0E4800",
-    "version": 458752
+    "base_tid": "0100D4600D0E4000",
+    "name": "Descenders",
+    "description": "Descenders is a fast-paced extreme downhill biking game that's easy to pick up, but difficult to master.\n\n- Procedurally generated worlds: Take on different jumps, slopes and hillbombs every time you play\n\n-Freestyle bike controls: Control every subtle movement of your rider, with an in-depth physics system made for slick whips and scrubs\n\n- Rogue-Bike: Earn special mutators each time you play, and work out which abilities work best for your riding style\n\n- Build your Rep: A fully-featured online Rep system lets you show off your worth, and earn new bikes and threads\n\n- Fully licensed soundtrack: We've partnered up with drum & bass label Liquicity to bring you the perfect soundtrack for hitting the mountains\n- Become the next Descender: Can you survive the game in a single run, and reach the ranks of the legendary Descenders?\n\nGrab your bike, pick your team, and attempt to live up to the legend of your Descender. Will you join the die-hard, trick-frenzy ranks of Team Enemy, the proficient, off-road stylings of Team Arboreal, or the high-octane, speed-is-everything Team Kinetic?\n\nWear your team's colours and apparel with pride, and receive exclusive team gear!\n",
+    "publisher": "No More Robots",
+    "developer": null,
+    "base_release_date": 20201106,
+    "first_update_release_date": 20201028,
+    "latest_update_release_date": 20220623,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220623
+    },
+    "versions": {
+        "65536": 20201028,
+        "131072": 20201202,
+        "196608": 20210225,
+        "262144": 20210311,
+        "327680": 20210726,
+        "393216": 20211214,
+        "458752": 20220623
+    },
+    "category": [
+        "Sports",
+        "Racing",
+        "Simulation",
+        "Arcade"
+    ],
+    "intro": "Descenders is extreme downhill freeriding for the modern era, with procedurally generated worlds. Will you lead your team to glory and become the next legendary Descender?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100D36013DF6800",
-    "version": 65536
+    "base_tid": "0100D36013DF6000",
+    "name": "Clay Skeet Shooting",
+    "description": "As an Olympic Games official competition, Clay Pigeon Shooting is a real sport that requires talent, ability to concentrate and dexterity.\n\nClay Skeet Shooting is the most effective mobile simulation of this sport. It features many different guns, from semi-automatic riffles, hand guns to machine guns that will provide the best shooting experience. With very intuitive controls and interface along with a true physic engine, you'll get hours of fun through its 100+ levels increasingly challenging.\n\nAre you ready to shoot?",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20210118,
+    "first_update_release_date": 20211029,
+    "latest_update_release_date": 20211029,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211029
+    },
+    "versions": {
+        "65536": 20211029
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100D4900DEF4800",
-    "version": 65536
+    "base_tid": "0100D4900DEF4000",
+    "name": "英雄伝説 暁の軌跡モバイル",
+    "description": "「軌跡シリーズ」の世界観を踏襲し、クロスベル自治州やリベール王国、レミフェリア公国を舞台にドラマチックなストーリーが展開される。\n軌跡シリーズの個性豊かなキャラクターたちとの掛け合いはもちろん、戦略性の高いバトルシステムも採用！\nさらに、オンラインならではの要素を多数プラスされた新たな軌跡の物語をお楽しみください。",
+    "publisher": "USERJOY JAPAN",
+    "developer": null,
+    "base_release_date": 20190827,
+    "first_update_release_date": 20211130,
+    "latest_update_release_date": 20211130,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211130
+    },
+    "versions": {
+        "65536": 20211130
+    },
+    "category": [
+        "ロールプレイング",
+        "シミュレーション",
+        "コミュニケーション"
+    ],
+    "intro": "軌跡シリーズ15周年記念『英雄伝説 暁の軌跡モバイル』\n王道オンラインストーリーRPGがついに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "麻薬"
+    ],
+    "region": null
 }

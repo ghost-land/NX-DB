@@ -1,4 +1,35 @@
 {
     "id": "0100D36016AE4800",
-    "version": 131072
+    "base_tid": "0100D36016AE4000",
+    "name": "Unstrong: Space Calamity",
+    "description": "A long time ago, the star people of the Sun City Pyrmia made sure that nothing would go wrong with the sun. But then they disappeared, and whatever happened remains a mystery. Many centuries later, a star-shaped world held together by chains was torn apart by a big explosion, its debris sent drifting through space.\n\nOne of the inhabitants of this destroyed world, Glasses Unstrong, plans to put the old world back together with the help of her new friend, Flounder the star child. It's not gonna be easy, but mad scientists like Glasses always find a way to get what they want!\n\nUnstrong: Space Calamity is a 3d platformer all about planets, weird gravity and the secrets of outer space. Explore or follow the main storyline -- it's all up to you!\n\nFeatures:\n\n●Explore planets, moons and asteroids in outer space!\n●Explode blocks with bombs, pick up veggies or hit baddies with your trusty star friend Flounder!\n●Play around with grind rails, speed rings and zoom points.\n●Attempt to find hidden and often challenging 2d levels.\n●Follow optional quests or play the main story!\n●Explore numerous optional areas.",
+    "publisher": "Origamihero Games",
+    "developer": null,
+    "base_release_date": 20211227,
+    "first_update_release_date": 20211124,
+    "latest_update_release_date": 20211209,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211209
+    },
+    "versions": {
+        "65536": 20211124,
+        "131072": 20211209
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Space is really weird and dangerous, but that won't stop THIS mad scientist! Time to put your previously exploded planet back together -- somehow!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

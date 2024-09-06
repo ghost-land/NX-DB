@@ -1,4 +1,36 @@
 {
     "id": "0100D3C010DE8800",
-    "version": 196608
+    "base_tid": "0100D3C010DE8000",
+    "name": "The Legend of Heroes: Trails of Cold Steel IV",
+    "description": "The long awaited finale to the epic engulfing a continent comes to a head in the final chapter of the Trails of Cold Steel saga!\n\nIT'S WAR! The continent of Zemuria is dragged into conflict as the Erebonian Empire mobilizes the full force of its military. The heroes of Class VII old and new must unite to end the conflict before it consumes the continent.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20210416,
+    "first_update_release_date": 20210304,
+    "latest_update_release_date": 20210721,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210721
+    },
+    "versions": {
+        "65536": 20210304,
+        "131072": 20210408,
+        "196608": 20210721
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "In a world ablaze with war, heroes must unite",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling",
+        "Fantasy violence and sexual themes"
+    ],
+    "region": null
 }

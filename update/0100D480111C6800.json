@@ -1,4 +1,33 @@
 {
     "id": "0100D480111C6800",
-    "version": 65536
+    "base_tid": "0100D480111C6000",
+    "name": "Crypto by POWGI",
+    "description": "Crack the code to reveal the quote in this classic cryptogram puzzle.\n\nDecrypt the ciphers to find 180 funny and inspirational messages.\n",
+    "publisher": "Lightwood Games",
+    "developer": null,
+    "base_release_date": 20200521,
+    "first_update_release_date": 20200525,
+    "latest_update_release_date": 20200525,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200525
+    },
+    "versions": {
+        "65536": 20200525
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study"
+    ],
+    "intro": "Crack the code - reveal the quote!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

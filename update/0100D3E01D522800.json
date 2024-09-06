@@ -1,4 +1,37 @@
 {
     "id": "0100D3E01D522800",
-    "version": 327680
+    "base_tid": "0100D3E01D522000",
+    "name": "Make it! Takoyaki",
+    "description": "Let's make takoyaki on the Nintendo Switch™!\nUse your utensils well to make delicious takoyaki!\nShare Joy-Con™ and play with up to 4 players!\nReach for the ultimate high score!\n\n<Rules>\nCook using a takoyaki-maker.\nThe points you earn depend on how well your takoyaki are cooked!\nMake as much as you can before time runs out!\n\n<How to Play>\n1. Fill the holes with batter and ingredients.\n\n2. Once the takoyaki start to smoke, flip them over!\n   If you're too fast or too slow, it's a flop!\n   Once both sides are well cooked, finish by placing your takoyaki in the box!\n\n[Score Attack]\nAim for 1st place on the leaderboards by making as much takoyaki as possible!\n\n[Battle]\nTest your takoyaki-making mettle against others!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20231130,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240130,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240130
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20231218,
+        "196608": 20231222,
+        "262144": 20240105,
+        "327680": 20240130
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "It's a street-food classic: a takoyaki-making challenge!\nMake as much takoyaki as you can!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100D49017CEE800",
-    "version": 65536
+    "base_tid": "0100D49017CEE000",
+    "name": "My Brother Ate My Pudding!",
+    "description": "Hey! Who's eaten my pudding?\n\nTry to hide and escape from your sister in anger for the pudding you ate!\n\nAn easy-going and funny escape game in a situation everyone has experienced!",
+    "publisher": "hap Inc.",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20240219,
+    "latest_update_release_date": 20240219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240219
+    },
+    "versions": {
+        "65536": 20240219
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "It's gone! Where is my pudding? My brother ate my pudding!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

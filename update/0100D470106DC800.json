@@ -1,4 +1,38 @@
 {
     "id": "0100D470106DC800",
-    "version": 196608
+    "base_tid": "0100D470106DC000",
+    "name": "CRAYON SHINCHAN The Storm Called FLAMING KASUKABE RUNNER!!",
+    "description": "Everyone's favorite five-year-old, Shinnosuke,makes a Fierce Dash to collect sweets and Golden Balls. Get lots of different costumes using Golden Balls, obtained by proceeding from one stage to another and  completing special missions! Enjoy Shin-chan and his friends wearing a variety of cosplay clothes, well-known to people familiar with anime and movies!",
+    "publisher": "Bushiroad",
+    "developer": null,
+    "base_release_date": 20200125,
+    "first_update_release_date": 20200115,
+    "latest_update_release_date": 20200318,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200318
+    },
+    "versions": {
+        "65536": 20200115,
+        "131072": 20200214,
+        "196608": 20200318
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Jump-action Crayon Shinchan game that anyone can easily play! Collect various  costumes  and friends and run through the city of Kasukabe and the world of movies",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

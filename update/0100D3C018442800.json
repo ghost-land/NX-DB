@@ -1,4 +1,45 @@
 {
     "id": "0100D3C018442800",
-    "version": 65536
+    "base_tid": "0100D3C018442000",
+    "name": "Bike Jump",
+    "description": "Are you ready to become the craziest bike stunt driver? Ride down the awesome high ramp and fly as fast as you can! And that’s not all - after you jump, get off the bike and continue flying on your jetpack. How awesome is that? Try it out yourself!",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220614,
+    "first_update_release_date": 20220613,
+    "latest_update_release_date": 20220613,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220613
+    },
+    "versions": {
+        "65536": 20220613
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Sports",
+        "Action"
+    ],
+    "intro": "Become a crazy bike stunt driver! How far can you jump?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100D44016EA2800",
-    "version": 65536
+    "base_tid": "0100D44016EA2000",
+    "name": "The Wake",
+    "description": "The Wake is the last of game developer Somi’s “Guilt Trilogy,” consisting of Replica and Legal Dungeon.\n\n“Perhaps it means my life simply boils down to this: ‘Everything I say is a lie.’”\n\nThe Wake is a record of past wounds opened at a three-day funeral—a record of the roots of guilt, and the memories and emotions that chain together three generations of a family.\n\nThe journal is encoded with a simple substitution cipher that the player must break in order to reveal the writer’s psyche and discover the contradictions that define him.",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20220317,
+    "first_update_release_date": 20220316,
+    "latest_update_release_date": 20220316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220316
+    },
+    "versions": {
+        "65536": 20220316
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Explore a generational curse that has swallowed a man and his life.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

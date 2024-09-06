@@ -1,4 +1,35 @@
 {
     "id": "0100D4601D20A800",
-    "version": 196608
+    "base_tid": "0100D4601D20A000",
+    "name": "EGGCONSOLE THEXDER PC-8801mkIISR",
+    "description": "This action-shooting game was released in 1985. The player takes control of the hyper dual-armor \"\"THEXDER,\"\" which can transform into both robot and fighter forms, and throws himself into the battle to destroy the magnetic field generator of the asteroid Nediam. The game is played in side-view and consists of 16 stages (plus 16 back stages).In the battle against the enemy, you can use either the robot form, which has a tracking laser but inferior mobility, or the fighter form, which can only attack in the direction you are going but has superior mobility, depending on the situation.Barriers are also available, but if they are used too often, they will run out of energy, so they should be used only when the situation calls for it! You should use them only when you need them.The game is based on the life system with no save function, so you only have one shot each time you play! The difficulty level of the game is high, so if you are good at it, please give it a try.\n\nThis is a masterpiece that has been carefully crafted with a world view, excellent mecha design, and smooth animation during transformation, not to mention the addictive nature that makes you want to play it over and over again despite its difficulty.\n\n\n*This application does not have a scene select mode.\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"\"How to play\"\" screens are in English.\n",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20231027,
+    "first_update_release_date": 20231025,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240109
+    },
+    "versions": {
+        "65536": 20231025,
+        "131072": 20231124,
+        "196608": 20240109
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "When discussing retro robot-themed games, one masterpiece that always comes to mind is 'THEXDER'.  ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

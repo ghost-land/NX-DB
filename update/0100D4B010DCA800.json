@@ -1,4 +1,42 @@
 {
     "id": "0100D4B010DCA800",
-    "version": 131072
+    "base_tid": "0100D4B010DCA000",
+    "name": "Dune Sea",
+    "description": "Dune Sea a side-scrolling adventure goose game that lets you fly like a bird.\n\nIn Dune Sea you guide a migrating bird that got separated from its flock due to a catastrophic event. In order to survive you would need to fly across beautiful landscapes of strange and foreign land, while collecting items and avoiding predators.\n\nThe Game features a Goose protagonist flying over 12 individually handcrafted levels, each with its own original music track composed by Jake Butineau, creating a unique atmospheric experience.\n\nFly in either Classic or Zen mode: Classic has the full experience with challenge, while in Zen mode the player becomes invincible for easy exploration and just keeps going.\n\nThis edition contains the extension 'Neon Sea' with 3 additional levels, featuring new retro style areas with synthwave music",
+    "publisher": "Joydrop",
+    "developer": null,
+    "base_release_date": 20200701,
+    "first_update_release_date": 20200702,
+    "latest_update_release_date": 20200902,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200902
+    },
+    "versions": {
+        "65536": 20200702,
+        "131072": 20200902
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Fly. Honk. Explore.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

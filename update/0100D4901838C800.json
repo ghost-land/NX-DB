@@ -1,4 +1,39 @@
 {
     "id": "0100D4901838C800",
-    "version": 131072
+    "base_tid": "0100D4901838C000",
+    "name": "Football Kicks",
+    "description": "Build your dream team and work your way through the ranks to prove your team is the greatest.\n\nPerfect your style, develop your players and enjoy the tense moment by hitting penalty kicks. Take on any team who stands in your way. Your talent must be released for the world to see!\n\nCustomize and enhance your team with number of unlockable player upgrades. Overcome challenges, trick the opponent, earn coins and represent your team’s colors by shooting at a target or taking a free kick.\n\nWork hard, win easy!\n\nYou can shoot goals with: \n- Leg Strap\n- Joy-Con™ (R)\n- Touch screen\n\nFeatures:\n- 31 achievements\n- Team upgrades\n- Completely customizable players\n- Endless gameplay",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20221208,
+    "first_update_release_date": 20221119,
+    "latest_update_release_date": 20221212,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221212
+    },
+    "versions": {
+        "65536": 20221119,
+        "131072": 20221212
+    },
+    "category": [
+        "Sports",
+        "Training",
+        "Simulation",
+        "Party"
+    ],
+    "intro": "Score as many penalty kicks as you can!",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,63 @@
 {
     "id": "0100D4A00B284800",
-    "version": 1048576
+    "base_tid": "0100D4A00B284000",
+    "name": "ARK: Survival Evolved",
+    "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape! \n\nTAME, TRAIN, BREED & RIDE DINOSAURS, IN A LIVING ECOSYSTEM\nOver 80 creatures can be tamed using a challenging subdue-&-protect process. Weaken a feral creature to knock it out, and then nursing it to health. Once tamed, you can issue commands to your Pet, which it may follow depending on how well you’ve tamed and trained it. Pets continue to level-up and consume food, and carry Inventory and Equipment. Fly a Pteranodon over the mountains, race through the jungle with a pack of Raptors, or chase down prey on a T-Rex! Experience a dynamic ecosystem with its own predator & prey hierarchies. Breed Pets through successive generations to generate the best traits. Or put more simply, breed & raise Dino Babies!\n\nFOOD, WATER, TEMPERATURE AND WEATHER\nEat and drink to survive, with different foods having different nutritional values (including human meat!). All actions drain food and water, and long-distance travel is draining. Inventory weight slows you down, and the day/night cycle and weather alter the environment. Craft clothing, build shelter, and use fire to protect yourself against damage & the elements.\n\nHARVEST, CRAFT, AND PAINT ITEMS\nHarvest trees, ore, and more to become a master crafter. Use your hands, a Smithy, or a Fabricator to craft increasingly complex and powerful gear. Build a massive base using modular pieces--ranging from Thatch, to Wood, to Stone, to Metal. Customize your base by painting it and placing signs that you can actually draw on. Weapons, clothing, & armor gear can also be painted to express your own visual style.\n\nSUMMON THE ULTIMATE LIFE FORMS\nBring rare items to special Summon locations to awaken the ARK’s mythical creatures, who arrive ready for battle. These monstrosities provide an end-game goal for the most experienced Tribes and their Pets, and yield valuable items if they are defeated.\n\nRPG STATISTICS\nLevel-Up your survivor by gaining experience through in-game actions to learn new crafting Engrams, or find higher level item Blueprints in the most dangerous parts of the ARK. Customize the look of your character with a complex character creation system.\n\nHARDCORE MECHANICS\nItems have durability and wear out with use if not repaired. When you leave the game, your character remains “sleeping” in the persistent world. Your inventory also exists in the persistent world, vulnerable to theft. Death means permanent loss, and you can even enslave other players for your own purposes.",
+    "publisher": "Snail Games USA",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20181129,
+    "latest_update_release_date": 20240806,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20240806
+    },
+    "versions": {
+        "65536": 20181129,
+        "131072": 20181218,
+        "196608": 20221101,
+        "262144": 20221103,
+        "327680": 20221111,
+        "393216": 20221123,
+        "458752": 20221213,
+        "524288": 20230120,
+        "589824": 20230316,
+        "655360": 20230411,
+        "720896": 20230612,
+        "786432": 20230630,
+        "851968": 20230714,
+        "917504": 20231010,
+        "983040": 20240731,
+        "1048576": 20240806
+    },
+    "category": [
+        "Adventure",
+        "First-Person Shooter",
+        "Multiplayer",
+        "RPG"
+    ],
+    "intro": "Now updated to the latest version of Unreal Engine 4 with improved visuals, increased performance and tons of new content!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }
