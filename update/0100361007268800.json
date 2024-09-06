@@ -1,4 +1,36 @@
 {
     "id": "0100361007268800",
-    "version": 131072
+    "base_tid": "0100361007268000",
+    "name": "MotoGP™18",
+    "description": "Become the star of the 2018 MotoGP™ season! Pursue your career as a professional rider making your way from the Red Bull MotoGP™ Rookies Cup up to the Premier class of the MotoGP™.\n\nRace with all the riders of the MotoGP™ on 19 official tracks, including the new Buriram International Circuit in Thailand and enjoy an even more immersive experience thanks to new features.\n\nFeel like a professional rider, decide how to change your bike, learn how to manage tire wear, use the MotoGP™ ID to monitor your progress and challenge your friends with the local multiplayer. ",
+    "publisher": "Milestone",
+    "developer": null,
+    "base_release_date": 20220411,
+    "first_update_release_date": 20180623,
+    "latest_update_release_date": 20180925,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180925
+    },
+    "versions": {
+        "65536": 20180623,
+        "131072": 20180925
+    },
+    "category": [
+        "Racing",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

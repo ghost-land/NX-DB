@@ -1,4 +1,43 @@
 {
     "id": "0100373010D26800",
-    "version": 262144
+    "base_tid": "0100373010D26000",
+    "name": "Nosferatu Lilinor",
+    "description": "The super-difficult puzzle action game Nosferatu Lilinor is coming to Nintendo Switch™.\nThe game is a retro-like stage-clearing puzzle action game that leads the vampire girl Lilinor to her goal. The game's difficulty level is very high, and the game's style is to seek a clear route after multiple challenges.\n\n-STORY\nThe daughter of a vampire, Lilinor, was ravaged by vampire hunters, and she and her squire, Zasha, were on a quest to find a new stronghold.\nShe was on a journey with her squire, Zasha, to find a new stronghold.\nHowever, it was inhabited by the demons of the earlier guests ......\n'We'll go to the bottom level for now. Let's go take down the big guys and get the hierarchy straightened out.\n\n\n-MODE\n・NORMAL\nAll stages can be conquered on this level of difficulty.\n\n・EASY\nThis is a trial version of the game, which is easier to use and capture than NORMAL.\n\n・VERY EASY\nIt's like a tutorial mode. You can use skills more and more, so practice it.\n\n\n-Support 2P play system\n2P players can help Rilinoa by becoming \"Zasha\" the wolf, Rilinoa's follower.\n",
+    "publisher": "neon",
+    "developer": null,
+    "base_release_date": 20201224,
+    "first_update_release_date": 20201125,
+    "latest_update_release_date": 20210630,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210630
+    },
+    "versions": {
+        "65536": 20201125,
+        "131072": 20201223,
+        "196608": 20210304,
+        "262144": 20210630
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "It is cute but extremely hard!\nThe immortal girl gets beaten and keeps trying again and again.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

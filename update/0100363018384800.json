@@ -1,4 +1,38 @@
 {
     "id": "0100363018384800",
-    "version": 196608
+    "base_tid": "0100363018384000",
+    "name": "Geometric Sniper - Blood in Paris",
+    "description": "As a sniper, you'll have to pay attention to the details and find the perfect moment to shoot. Your targets know they are wanted and will try to hide in a variety of ways. Have the patience to establish a clear shot, memorizing the information for each mission.\n\nGame Modes:\n\nAdventure:\nAcross 10 missions, every detail counts, from carefully observing mission information to finding the perfect opportunity to shoot.\n\nElite:\nComplete the 10 adventure missions without the help of zoom and precision.\n\nMercenary:\nHave fun with new challenges and earn money to pay damages to the family of the civilian that you mistakenly killed during the missions.\n\nSurvival:\nFind randomly generated targets on the map while snipers look for you.\n\nFind:\nSearch for various objects scattered throughout these 10 missions and hit them before time runs out.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20230216,
+    "first_update_release_date": 20230203,
+    "latest_update_release_date": 20230302,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230302
+    },
+    "versions": {
+        "131072": 20230203,
+        "196608": 20230302
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Katy, a French sniper, needs to protect her magnificent city!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null
 }

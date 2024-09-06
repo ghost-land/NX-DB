@@ -1,4 +1,36 @@
 {
     "id": "0100363015476800",
-    "version": 196608
+    "base_tid": "0100363015476000",
+    "name": "Woodcutter",
+    "description": "This classic platformer, tells the story of Woodcutter whose child was kidnapped. Embark on a magical adventure through the land of Aaran and help Woodcutter retrieve his firstborn.\n\n-There are 50+ levels to complete, filled with coins and enemies (including 2 levels with bosses and 5 bonus levels),\n\n-3 weapons to use (Boomerang, Wooden pegs, Exploding barrels) and your body to smash your enemies,\n\n-You can: run, jump, double jump, wall jump, wall slide, swim and more.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20210708,
+    "first_update_release_date": 20210709,
+    "latest_update_release_date": 20211027,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211027
+    },
+    "versions": {
+        "65536": 20210709,
+        "131072": 20210813,
+        "196608": 20211027
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Woodcutter is a classic platformer, tells the story of Woodcutter whose child was kidnapped.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

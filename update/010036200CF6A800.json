@@ -1,4 +1,37 @@
 {
     "id": "010036200CF6A800",
-    "version": 65536
+    "base_tid": "010036200CF6A000",
+    "name": "The Ninja Warriors Once Again (ザ・ニンジャウォーリアーズ ワンスアゲイン)",
+    "description": "1987年発売のアーケードゲーム「ニンジャウォーリアーズ」をアレンジして1994年に発売されたスーパーファミコン向け「ザ・ニンジャウォーリアーズ AGAIN」をベースに、当時のメインスタッフ「TENGO PROJECT」が25年ぶりにセルフリメイク。16bitテイストはそのままに、キャラクターの解像度やパターン数等を、最新のハードに合わせて大幅パワーアップ！\n新キャラクターが2体追加されているほか、「ザ・ニンジャウォーリアーズ　AGAIN」では実現できなかった2人協力プレイモードを搭載した作品となっております。",
+    "publisher": "タイトー",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20190717,
+    "latest_update_release_date": 20190717,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190717
+    },
+    "versions": {
+        "65536": 20190717
+    },
+    "category": [
+        "アーケード",
+        "アクション"
+    ],
+    "intro": "「ザ・ニンジャウォーリアーズ AGAIN」をリメイク！　16bitテイストはそのままに、ワイドスクリーン対応、新キャラ2体追加、2人協力プレイ対応など大幅パワーアップ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

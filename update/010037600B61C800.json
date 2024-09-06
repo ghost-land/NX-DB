@@ -1,4 +1,32 @@
 {
     "id": "010037600B61C800",
-    "version": 131072
+    "base_tid": "010037600B61C000",
+    "name": "Little Dragons Café",
+    "description": "在大陸的離島上有一間小小的咖啡館「Little Dragons Café」。\n因為母親倒下無法繼續工作，雙胞胎兄妹決定努力經營咖啡館。\n\n為了讓母親甦醒過來，也為了將咖啡館經營得更加有聲有色、成為人人喜愛的店面，必須在解決客人煩惱的同時，和掌握故事關鍵的「龍」一起尋找美味的料理食譜與食材，外出冒險！\n",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20181114,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181114
+    },
+    "versions": {
+        "65536": 20180829,
+        "131072": 20181114
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": "『牧場物語』之父帶來的原創全新作品！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

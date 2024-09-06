@@ -1,4 +1,34 @@
 {
     "id": "010036200D2F6800",
-    "version": 131072
+    "base_tid": "010036200D2F6000",
+    "name": "PHAR LAP - Horse Racing Challenge",
+    "description": "Make history and build a brighter future in PHAR LAP - Horse Racing Challenge!\n\nCINEMATIC GRAPHICS showcase realistic horses and capture the action of the race with motion-captured animations.\nONLINE RACING lets you run in real time alongside other players.\nBREED CHAMPION HORSES with an in-depth genetic breeding system.\nPLACE BETS alongside your mates and watch the race play out in real time. Up to 8 players.",
+    "publisher": "Tru Blu Games",
+    "developer": null,
+    "base_release_date": 20200131,
+    "first_update_release_date": 20200617,
+    "latest_update_release_date": 20201112,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201112
+    },
+    "versions": {
+        "65536": 20200617,
+        "131072": 20201112
+    },
+    "category": [
+        "Racing",
+        "Sports"
+    ],
+    "intro": "THE RIDE OF YOUR LIFE!\nExperience the thrill and thunder of racing with the pride and prestige of building your own stable of champions. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling",
+        "Online interactivity"
+    ],
+    "region": null
 }

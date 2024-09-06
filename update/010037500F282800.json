@@ -1,4 +1,40 @@
 {
     "id": "010037500F282800",
-    "version": 131072
+    "base_tid": "010037500F282000",
+    "name": "KUUKIYOMI 2: Consider It More! - New Era",
+    "description": "You do not have to worry about the people around you as you consider the situation.\nThe new diagnostic game about reading a room, \"Consider It\", has a new subtitle and is now coming to the Nintendo Switch™.\n\nThe basic rule of reading the situation and moving the red item on the screen remains the same as the old game, but with all-new situations to consider.\nJoin us in this updated world of being considerate, with a more diverse set of situations and a much more refined evaluation system.\n\nPlay through 100 situations and improve your consideration level in the \"Consider It\" mode.\nTest your abilities with a friend or family member in the \"Consider It Together\" mode.\nOr see how fast your reaction time is in the \"Quick Consider It\" mode. There are plenty of situations to explore.\n\nPlay by yourself, with a friend, or with everyone.\nYou'll be sure to consider it all here.",
+    "publisher": "G-MODE",
+    "developer": null,
+    "base_release_date": 20200618,
+    "first_update_release_date": 20200617,
+    "latest_update_release_date": 20210422,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210422
+    },
+    "versions": {
+        "65536": 20200617,
+        "131072": 20210422
+    },
+    "category": [
+        "Communication",
+        "Party",
+        "Study",
+        "Other"
+    ],
+    "intro": "New situations added.\nA game that determines whether you have the skills to be considerate in this new world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Sexual References",
+        "Mild Themes"
+    ],
+    "region": null
 }

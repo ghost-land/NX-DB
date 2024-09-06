@@ -1,4 +1,43 @@
 {
     "id": "01003750154D6800",
-    "version": 393216
+    "base_tid": "01003750154D6000",
+    "name": "Wytchwood",
+    "description": "Wytchwood is a crafting adventure game set in an expressive land of gothic fables and fairytales. As the mysterious old witch of the woods, you will explore a strange countryside, collect magical ingredients, brew sorcerous enchantments, and pass your twisted judgement upon a capricious cast of characters and creatures.\nAfter all, how will they ever learn if you don’t teach them the moral of the story?",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20211209,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20211209,
+        "131072": 20211215,
+        "196608": 20220125,
+        "262144": 20220211,
+        "393216": 20230316
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Lovingly rendered storybook art style\nGather, collect, grow and craft bizarre ingredients\nResearch and concoct devious spells and sorceries. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

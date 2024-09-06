@@ -1,4 +1,46 @@
 {
     "id": "010036901472E800",
-    "version": 65536
+    "base_tid": "010036901472E000",
+    "name": "The Artful Escape",
+    "description": "On the eve of his first performance, Francis Vendetti struggles with the legacy of a dead folk legend and the cosmic wanderings of his own imagination.\n\nIn an attempt to escape the musical legacy of his uncle, a teenage guitar prodigy embarks on a psychedelic journey to inspire his new stage persona, searching for who he isn’t in an adventure spanning stolen opera houses, melodic alien landscapes, and the impossible depths of the Cosmic Extraordinary.\n\nStarring voice performances by Michael Johnston, Caroline Kinley, Lena Headey, Jason Schwartzman, Mark Strong, and Carl Weathers.",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20220125,
+    "first_update_release_date": 20220126,
+    "latest_update_release_date": 20220126,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220126
+    },
+    "versions": {
+        "65536": 20220126
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "A teenage guitar prodigy sets out on a psychedelic journey to inspire his stage persona. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Language",
+        "Mild Suggestive Themes",
+        "Use of Tobacco"
+    ],
+    "region": null
 }
