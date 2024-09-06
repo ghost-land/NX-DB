@@ -1,4 +1,49 @@
 {
     "id": "01007800122C8800",
-    "version": 589824
+    "base_tid": "01007800122C8000",
+    "name": "Flipon",
+    "description": "Mine flipoblocks by aligning them to make combos, survive the garbages tempest, solve puzzles and defeats the (cute) bad guys!\n\nSTORY\nJoin Kat and her crew of flipoblock miners in an epic quest in the Flipon solar system!\nEmbark your ship and visit 75+ differents levels though 5+ planets. But beware, each planet is owned by a powerful guardian and each level is a new challenge.\n\nFEATURES\nCAMPAIGN: 75+ levels mixing 5 game modes: objectives, survival, boss fights, puzzles and challenges!\nSCORE ATTACK: an infinite scoring mode with online leaderboards\nCHALLENGE: a procedural puzzle generator\nVERSUS: local multiplayer fights, up to 4 players!\nPOWERS: 6 unique superpowers to use wisely in fights!",
+    "publisher": "TyGAMES",
+    "developer": null,
+    "base_release_date": 20201009,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20230429,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230429
+    },
+    "versions": {
+        "65536": 20200930,
+        "131072": 20201021,
+        "196608": 20201030,
+        "262144": 20201112,
+        "327680": 20210119,
+        "393216": 20210426,
+        "458752": 20210615,
+        "524288": 20230411,
+        "589824": 20230429
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Flipon is a juicy and fun arcade puzzle game full of surprises!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

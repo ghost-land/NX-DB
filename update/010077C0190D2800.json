@@ -1,4 +1,40 @@
 {
     "id": "010077C0190D2800",
-    "version": 65536
+    "base_tid": "010077C0190D2000",
+    "name": "Classic Games Collection Vol.2",
+    "description": "This is a second installment of the series in which we present you with popular classic games from across the world! \n\nProve your mastery in those titles by playing against the AI or a friend in a local co-op mode.\n\nThis is a perfect game bundle to get your brain juices flowing!\n\nGames included in the bundle:\n\nMahjong - Traditional Asian game in which you will have to match sets and pairs of tiles.\n\nWord Search - find all the words hidden in the puzzle!\n\nBattleships - Choose a right strategy to guess the placement of the enemy ships on the map!\n\nHangman - Can you guess the right word before the stick man hangs?\n\nTry them all and find out why these games are still absorbing after all those years!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20220923,
+    "first_update_release_date": 20240110,
+    "latest_update_release_date": 20240110,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240110
+    },
+    "versions": {
+        "65536": 20240110
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Party",
+        "Strategy"
+    ],
+    "intro": "Welcome to the \"Classic Games Collection Vol.2\"!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

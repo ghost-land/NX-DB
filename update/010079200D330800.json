@@ -1,4 +1,50 @@
 {
     "id": "010079200D330800",
-    "version": 589824
+    "base_tid": "010079200D330000",
+    "name": "PICROSS S3",
+    "description": "This is the 3rd Picross S Series on the Nintendo Switch™!\nIn addition to the three usual game modes, Picross, Mega Picross, and Clip Picross,\nwe've added an all-new Color Picross mode!\nIn this new mode, the rules are the same as normal Picross,\nbut now you must complete color illustrations by filling in the correct squares with their corresponding hint number color.\nThe controls are the same as normal Picross, so even if it's your first time, it'll be easy to play!\nTons of puzzles await you! With a total of 300 Picross and Mega Picross puzzles,\n150 Clip Picross piece puzzles, and 30 Color Picross puzzles,\nthat's a grand total of 480 puzzles!\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+    "publisher": "JUPITER",
+    "developer": null,
+    "base_release_date": 20190425,
+    "first_update_release_date": 20200415,
+    "latest_update_release_date": 20221031,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20221031
+    },
+    "versions": {
+        "65536": 20200415,
+        "131072": 20201118,
+        "262144": 20210609,
+        "327680": 20211020,
+        "393216": 20211027,
+        "458752": 20220309,
+        "524288": 20220928,
+        "589824": 20221031
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Multiplayer",
+        "Education"
+    ],
+    "intro": "The eagerly anticipated Color Picross from the Picross S Series is finally here!\nComplete color illustrations using colorful hint numbers!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

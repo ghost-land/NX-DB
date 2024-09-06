@@ -1,4 +1,35 @@
 {
     "id": "010079000F0D2800",
-    "version": 65536
+    "base_tid": "010079000F0D2000",
+    "name": "Kitty Powers' Matchmaker: Deluxe Edition",
+    "description": "Match an endless parade of desperate clients with candidates from Kitty’s little black book and guide them through awkward conversations and dozens of perilous dating dilemmas.\n\nAs your reputation grows you’ll unlock new date venues, more demanding clientele and upgrades for your agency. Send your hopefuls out with the right look and perfect gift to maximise their chance of finding love.    \n\nAre you ready to bring romance to the world? Or will you leave a sea of broken hearts in your wake?\n\nIn this deluxe edition, there's more dating dilemmas for you to help your clients navigate. Customers will also be sporting new looks! Snazzy!",
+    "publisher": "Magic Notion",
+    "developer": null,
+    "base_release_date": 20200207,
+    "first_update_release_date": 20200228,
+    "latest_update_release_date": 20200228,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200228
+    },
+    "versions": {
+        "65536": 20200228
+    },
+    "category": [
+        "Simulation"
+    ],
+    "intro": "Kitty Powers’ Matchmaker is a hilarious dating simulator with a difference. Manage your own matchmaking agency with the guidance of your fabulous boss, drag queen diva Kitty Powers!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Sexual References"
+    ],
+    "region": null
 }

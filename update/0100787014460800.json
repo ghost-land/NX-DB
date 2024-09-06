@@ -1,4 +1,47 @@
 {
     "id": "0100787014460800",
-    "version": 131072
+    "base_tid": "0100787014460000",
+    "name": "Nobody Saves the World",
+    "description": "When the ancient Calamity re-awakens, who can save the world? Nobody! (That’s you, you’re Nobody.) Master the art of transformation to become a Slug, Ghost, Dragon, and more in this new take on Action RPGs from the creators of Guacamelee!\n\nComplete quests to discover and swap between 15+ varied and distinct Forms. Mix and match abilities in unexpected ways to unlock and complete even MORE challenging quests. Explore a vast overworld - on your own or with a friend online - while clearing shape-shifting dungeons in an effort to stop The Calamity and SAVE THE WORLD!\n\nFeatures\nTransform into MANY FORMS: Unlock 15+ distinct Forms, from Rat to Rogue to Robot, each with its own unique gameplay mechanics.\n\nUnconventional QUESTS: Help the strange inhabitants of this world deal with their troubles. Each Form also has its own set of quests, which you can complete in creative ways.\n\nEvolving Dungeons: As you become stronger, procedurally generated dungeons increase in difficulty and complexity to keep you on your toes.\n\nLocal & Online Co-op: Invite a friend to play through all, or part, of your adventure together!\n\nAwesome Soundtrack: New original music by acclaimed composer Jim Guthrie.\n\nNew Game+: Put your Forms and abilities to the test against leveled-up enemies and dungeons with remixed difficulty modifiers.",
+    "publisher": "DrinkBox Studios",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20230119,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230119
+    },
+    "versions": {
+        "65536": 20220915,
+        "131072": 20230119
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Change forms, combine abilities, save the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

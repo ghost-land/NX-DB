@@ -1,4 +1,31 @@
 {
     "id": "010078E0181D0800",
-    "version": 131072
+    "base_tid": "010078E0181D0000",
+    "name": "マール王国の人形姫",
+    "description": "1998年に発売した『マール王国の人形姫』がNintendo Switch™に登場！\n\n■STORY\n人形と心を通わす不思議な力を持った少女コルネットとお供の人形クルルが、憧れの王子様フェルディナンドを助けるために繰り広げる夢と希望と冒険心の物語。\n\n■SYSTEM\n本作は、ドット絵のかわいいキャラクターたちが歌って踊るミュージカルシーンが特徴のRPGです。\nシミュレーションの要素を取り入れた白熱のバトルに加え、人形やモンスターを仲間に加える収集要素までお楽しみいただけます。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20221027,
+    "first_update_release_date": 20221027,
+    "latest_update_release_date": 20230330,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230330
+    },
+    "versions": {
+        "65536": 20221027,
+        "131072": 20230330
+    },
+    "category": [
+        "ロールプレイング",
+        "シミュレーション"
+    ],
+    "intro": "夢と希望と冒険心。それがマール王国の世界",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

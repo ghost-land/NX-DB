@@ -1,4 +1,33 @@
 {
     "id": "010078D010BD6800",
-    "version": 196608
+    "base_tid": "010078D010BD6000",
+    "name": "來自深淵 朝向黑暗的雙星",
+    "description": "成為新手探險家在巨大深窟「深淵」的世界冒險！\n暢玩2種不同的遊戲模式！\n\nHELLO ABYSS 模式\n重新還原動畫版的故事情節！感受莉可殘酷而刺激的冒險\n\nDEEP IN ABYSS 模式\n親自探索深淵世界，體驗全新的原創故事",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20220901,
+    "first_update_release_date": 20220831,
+    "latest_update_release_date": 20230117,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230117
+    },
+    "versions": {
+        "65536": 20220831,
+        "196608": 20230117
+    },
+    "category": [
+        "角色扮演",
+        "動作"
+    ],
+    "intro": "無可救藥的冒險即將展開",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

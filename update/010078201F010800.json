@@ -1,4 +1,44 @@
 {
     "id": "010078201F010800",
-    "version": 131072
+    "base_tid": "010078201F010000",
+    "name": "The Eerie Surroundings",
+    "description": "The timer will start once you are ready to play. The correct decision will move you up a floor and the incorrect decision will reset you back to the beginning. Observation is key.\n\nIf you don't find anomalies, choose the elevator that states no anomalies otherwise choose the elevator that states confirm anomalies.",
+    "publisher": "SURPRISED HOTDOG",
+    "developer": null,
+    "base_release_date": 20240425,
+    "first_update_release_date": 20240425,
+    "latest_update_release_date": 20240512,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240512
+    },
+    "versions": {
+        "65536": 20240425,
+        "131072": 20240512
+    },
+    "category": [
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "You are trying to find the exit but you are stuck in a loop. To find the exit, observe your surroundings and get familiar with it. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

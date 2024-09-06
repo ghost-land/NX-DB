@@ -1,4 +1,35 @@
 {
     "id": "010077B01EB74800",
-    "version": 65536
+    "base_tid": "010077B01EB74000",
+    "name": "Operation STEEL",
+    "description": "Blow up loads of enemies, destroy huge bosses, find weapons, and upgrade your load-out between levels. Combat the electronic legion across 20+ procedurally generated levels!\n\nFeatures:\n- Procedurally generated levels with randomised enemy waves and pickups\n- Branching paths - select from 20+ levels\n- 25+ weird and wonderful bosses\n- 35+ unique weapons and items to find\n- Upgrade your ship between levels at the shop\n- Boss Rush mode\n- Awesome soundtrack by the amazing Dolphin!",
+    "publisher": "RAWRLAB Games",
+    "developer": null,
+    "base_release_date": 20240620,
+    "first_update_release_date": 20240702,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20240702
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Roguelike shoot-em-up rendered in beautiful hand-drawn art. Find and upgrade weapons while combatting the electronic legion across the galaxy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

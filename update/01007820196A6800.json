@@ -1,4 +1,49 @@
 {
     "id": "01007820196A6800",
-    "version": 262144
+    "base_tid": "01007820196A6000",
+    "name": "Red Dead Redemption",
+    "description": "Experience the epic western adventures that defined a generation\n\nWhen federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston’s journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster, Red Dead Redemption 2. Also included is Undead Nightmare, the iconic horror story that transforms the world of Red Dead Redemption into an apocalyptic fight for survival against a zombie horde.\n\nFeaturing the complete single-player experiences of both games, Red Dead Redemption also includes bonus content from the Game of the Year Edition and more.*\n\nOutlaws to the End\n\n*Red Dead Redemption features the single-player experiences from both Red Dead Redemption and Undead Nightmare, plus bonus content from the Game of the Year Edition and more. Red Dead Redemption does not feature multiplayer content.",
+    "publisher": "ROCKSTAR GAMES",
+    "developer": null,
+    "base_release_date": 20230817,
+    "first_update_release_date": 20230810,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20230810,
+        "131072": 20230905,
+        "196608": 20231018,
+        "262144": 20240312
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Experience the epic western adventures that defined a generation",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language",
+        "Strong Sexual Content",
+        "Use of Drugs"
+    ],
+    "region": null
 }

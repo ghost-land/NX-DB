@@ -1,4 +1,38 @@
 {
     "id": "010078D01CE8A800",
-    "version": 131072
+    "base_tid": "010078D01CE8A000",
+    "name": "Ancient Relics - Egypt",
+    "description": "Embark on an extraordinary journey through time in \"Ancient Relics - Egypt\", an immersive match-3 adventure set in the captivating world of Ancient Egypt. Solve challenging Match-3 puzzles to gather precious gold and rebuild a once-thriving village to its former glory. Unearth priceless power-ups hidden within the Pharaoh's tomb, as you delve deeper into the ancient secrets. Be strategic and make every move count to overcome the pharaoh's dark and ancient magic. Can you conquer the puzzles, save the village, and put an end to the Pharaoh's fury? The fate of Egypt rests in your hands.\n\nFeatures:\n\n• Rebuild an ancient Egypt village\n• 116 hand-crafted levels\n• Unearth priceless power-ups\n• Choose the mode and difficulty to match your mood\n• Experience a captivating ancient Egyptian tale",
+    "publisher": "Green Sauce Games",
+    "developer": null,
+    "base_release_date": 20231012,
+    "first_update_release_date": 20231031,
+    "latest_update_release_date": 20231230,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231230
+    },
+    "versions": {
+        "65536": 20231031,
+        "131072": 20231230
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Ancient Relics - Egypt redefines the Match-3 experience to extraordinary heights.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

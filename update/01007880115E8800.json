@@ -1,4 +1,33 @@
 {
     "id": "01007880115E8800",
-    "version": 65536
+    "base_tid": "01007880115E8000",
+    "name": "Colloc",
+    "description": "Since the BLACKHOLE NO.24 came, the colloc land lost its color. Let's defeat the BLACKHOLE NO.24 and make the fantasy world colorful again!\n\nAs the color elf, every colloc has its own different energy, using its energy they can fission and merge, players can use this ability to solve puzzles and explore interesting gameplay.\n\nThere are 6 entire unique chapters and 60 different challenging levels for you to explore. And there are so many fun elements that can keep your curiosity.",
+    "publisher": "NoobO Games",
+    "developer": null,
+    "base_release_date": 20200724,
+    "first_update_release_date": 20200811,
+    "latest_update_release_date": 20200811,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200811
+    },
+    "versions": {
+        "65536": 20200811
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "A family-friendly puzzle game",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

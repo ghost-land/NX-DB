@@ -1,4 +1,36 @@
 {
     "id": "01007870141DE800",
-    "version": 196608
+    "base_tid": "01007870141DE000",
+    "name": "Heroes of Loot 2",
+    "description": "After their job, of keeping the dungeons in balance, was done, our heroes needed a new job. Roaming the lands they found a call for heroes, a castle in need, possible even a damsel in distress?\n\nTake control of all four heroes at once, using their special skills to navigate the dangerous castle hallways, rooms and floors. Switching between the Elf, Wizard, Warrior and Valkyrie when needed to solve quests, puzzles, and of course destroy a lot of demons and skulls.\n\nQuests – The dungeon is full of problems, let’s call them quests. These problems range from simple “find a key” to “use magic powers to light all magic candles and open the magical gate”. Different types of quests require different solutions.\n\nWeapons – The four characters are your main weapons. The Elf shoots his arrows through multiple monsters, the Wizard has unlimited magic, the Warrior has a powerful melee attack with his hammer, and the Valkyrie besides having a quick spinning-melee attack can also detect secrets and important loot.\n\nSecrets – Find secret rooms, level-skipping teleports, secret items, and more!",
+    "publisher": "Orange Pixel",
+    "developer": null,
+    "base_release_date": 20220207,
+    "first_update_release_date": 20220222,
+    "latest_update_release_date": 20230812,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230812
+    },
+    "versions": {
+        "65536": 20220222,
+        "131072": 20230330,
+        "196608": 20230812
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "A castle with skulls, demons, minotaurs, bats, magic, bombo's, cyclops, and loot.. did we mention loot? This game has loot! and four heroes which you control at once!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010079000B56C800",
-    "version": 65536
+    "base_tid": "010079000B56C000",
+    "name": "UglyDolls: An Imperfect Adventure",
+    "description": "Robots are cool when they’re blinking lights and zooming by with their sleek metallic finish. In UglyDolls: An Imperfect Adventure, a whole horde of robots are on the loose and taking over Uglyville trying to make it “perfect!”.  \nOn the plus side, you play as Moxy, the energetic UglyDoll who’s got a lot of “moxy”! Prefer Ox? Pick him. And you’re about to team up with your friends from the UglyDolls movie, explore Uglyville, and work together to lure, trap, and send those uptight robots back to where they came from. Do you have the courage not to run away? No? Don’t worry. Moxy (or Ox) will run away with you. ",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20190830,
+    "first_update_release_date": 20190429,
+    "latest_update_release_date": 20190429,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190429
+    },
+    "versions": {
+        "65536": 20190429
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

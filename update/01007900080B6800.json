@@ -1,4 +1,40 @@
 {
     "id": "01007900080B6800",
-    "version": 131072
+    "base_tid": "01007900080B6000",
+    "name": "Bomber Crew",
+    "description": "Bomber Crew is a  World-war 2 strategic bombing sim, where completing the objective is just as important as keeping your crew alive, as death is permanent! \n\nTake to the skies in this immersive flight simulation where each mission is a high-risk expedition. Manage everything from fuel, ammo, hydraulics and more in your very own physics based Bomber, which can be customized with an array of liveries and paint jobs! \n\nDanger comes from every angle when the wheels are up; Enemy fighters, flak guns, poor weather and an array of other perilous dangers await, so ensure your Crew are prepared for each mission correctly, and come back victorious! ",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20180710,
+    "first_update_release_date": 20190311,
+    "latest_update_release_date": 20190318,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190318
+    },
+    "versions": {
+        "65536": 20190311,
+        "131072": 20190318
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Prepare your crew for their most dangerous mission yet and go chocks away for a sky-bound expedition in this strategic survival sim, Bomber Crew. \n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

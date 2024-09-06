@@ -1,4 +1,36 @@
 {
     "id": "01007820096FC800",
-    "version": 196608
+    "base_tid": "01007820096FC000",
+    "name": "Unexplored",
+    "description": "Descend into the depths of the Dungeon of Doom and complete your quest: steal the Amulet of Yendor from the fearsome dragon and make it out alive. Unexplored is the roguelite that feels like a roguelike. An accessible yet challenging action RPG that has won praise for its revolutionary level generation tech. \n\nExplore dangerous dungeons, forge magical items, solve mysterious puzzles and battle hundreds of foes.\n \nUnexplored: Unlocked Edition includes the main game and its three DLC packs: Mithril Run, Ripley Run, and The Dark Ritual. \n \nKey Features\nExplore the ever-changing Dungeon of Doom – no two runs the same \nIntense melee combat – fight against goblins, trolls, skeletons, wyrms and many more creatures and bosses \nStealth mechanics – dungeon-crawl like a real rogue!\nReal emergent gameplay with many tactical options \nChallenging, generated puzzles await on every new run\n7 distinctive character classes to unlock and master\nAdaptive, original soundtrack complements the action\n",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20180809,
+    "first_update_release_date": 20180718,
+    "latest_update_release_date": 20180918,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180918
+    },
+    "versions": {
+        "65536": 20180718,
+        "131072": 20180820,
+        "196608": 20180918
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "The Dungeon of Doom awaits…",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
