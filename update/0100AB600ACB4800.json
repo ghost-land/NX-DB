@@ -1,4 +1,41 @@
 {
     "id": "0100AB600ACB4800",
-    "version": 65536
+    "base_tid": "0100AB600ACB4000",
+    "name": "Demetrios - The BIG Cynical Adventure",
+    "description": "Bjorn Thonen, a slob of an antique dealer living in Paris, is robbed one night after coming home drunk. Forced to conduct his own investigation with the help of his neighbor Sandra, he ends up involved in a murky, mysterious affair.\n\nWill these unlikely heroes be able to rise up and discover ancient secrets?\n\n- A long, varied, standalone adventure (8 to 12 hours of gameplay)\n- Over 15,000 lines of dialog\n- Hand drawn art in Full HD\n- A high level of interactivity \n- Multiple, fun mini-games integrated into the story\n- In-game hints : Search and collect hidden cookies on every screen!\n- Fully translated into English, French, Spanish, Italian, German and Russian",
+    "publisher": "COWCAT",
+    "developer": null,
+    "base_release_date": 20240116,
+    "first_update_release_date": 20181217,
+    "latest_update_release_date": 20181217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181217
+    },
+    "versions": {
+        "65536": 20181217
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The Journey of an Idiot!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Language",
+        "Mild Violence",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100AB4015D1A800",
-    "version": 65536
+    "base_tid": "0100AB4015D1A000",
+    "name": "Earth Marines",
+    "description": "Earth Marines is a new game by HugePixel and Diedemor Studio. It’s an action-packed run-and-gun shooter full of zombies and brutal gunfights. Special task force from Earth has to eradicate the zombie threat — that’s why they come heavily packed, but in a few numbers. Your main objective is to kill zombie hordes, wipe out infected areas and destroy the sources of deadly virus capable of reanimating dead people.\n\nThis title shows great gameplay to the fans of old school shoot-em-ups with retro graphics and fluid gunplay. You will love smashing your way through dozens of different enemies as a brutal and unforgivable eradicator. Becoming Earth Marine means a big effort to act as a true zombie slayer. Are you up for a challenge?",
+    "publisher": "ESDigital Games",
+    "developer": null,
+    "base_release_date": 20210917,
+    "first_update_release_date": 20210914,
+    "latest_update_release_date": 20210914,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210914
+    },
+    "versions": {
+        "65536": 20210914
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Here is another one zombie pandemic that must be stopped by you.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

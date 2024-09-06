@@ -1,4 +1,44 @@
 {
     "id": "0100AC100CCF6800",
-    "version": 655360
+    "base_tid": "0100AC100CCF6000",
+    "name": "Cryogear",
+    "description": "Cryogear is a unique Metroidvania inspired Pixel Art platformer, set in an open sci-fi world and driven by rewarded exploration. Control the reprogrammed clone G.3.4.R as he discovers the world, learns new abilities and unveils the mystery of the Emperor AI.\n\nCryogear combines a versatile platformer core with exploration, shoot 'em up and RPG elements to an entertaining new game experience. Explore a dangerous open world with over 50 areas to discover. The changing world is filled with obstacles, boss fights, different enemy types, riddles, hidden areas, minigames and loot for a unique rewarding exploration experience.\n\nCryogear features a full-scale RPG inventory, combined with equipment, skill and crafting systems. Switch freely between active abilities and weapons during the action, which allows dynamic, skill-based strategies for every situation. While progressing through the game, you get introduced to different new abilities, weapons, and equipment to customize your clone to match your playstyle. \n\nYour clone G.3.4.R. is ready to boot up!\n\nA unique journey into the World of Cryogear awaits you..",
+    "publisher": "PolarityFlow,",
+    "developer": null,
+    "base_release_date": 20230921,
+    "first_update_release_date": 20190731,
+    "latest_update_release_date": 20200805,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20200805
+    },
+    "versions": {
+        "65536": 20190731,
+        "131072": 20190820,
+        "196608": 20190909,
+        "262144": 20191122,
+        "327680": 20191218,
+        "458752": 20200401,
+        "524288": 20200427,
+        "589824": 20200520,
+        "655360": 20200805
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Shooter",
+        "RPG"
+    ],
+    "intro": "Metroidvania inspired Pixel Art platformer, set in an open sci-fi world and driven by rewarded exploration.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

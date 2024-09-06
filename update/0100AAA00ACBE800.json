@@ -1,4 +1,35 @@
 {
     "id": "0100AAA00ACBE800",
-    "version": 196608
+    "base_tid": "0100AAA00ACBE000",
+    "name": "Risk of Rain",
+    "description": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible.\n\nKey Features:\n\n-Engage in local and online multiplayer with friends and other players from around the world!\n-Play and unlock 12 unique characters, from the Commando to the Miner to the Engineer.\n-Fight through hordes of different enemies and bosses, randomly chosen by the game with random abilities and powers. \n-Get lost and discover 10 massive levels with different enemies, shrines, and chests on each one! \n-Recruit the help of a wide variety of drones, from missile drones to healing drones!\n-Unlock the lore of the game through the item and monster logs!\n-Unlock new items and characters through difficult achievements to keep the game fresh with each playthrough.\n-Save your best highscores and stats!",
+    "publisher": "Gearbox Publishing",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20180920,
+    "latest_update_release_date": 20191029,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20191029
+    },
+    "versions": {
+        "65536": 20180920,
+        "131072": 20190215,
+        "196608": 20191029
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

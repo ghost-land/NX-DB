@@ -1,4 +1,38 @@
 {
     "id": "0100AA80194B0800",
-    "version": 65536
+    "base_tid": "0100AA80194B0000",
+    "name": "Pikmin™ 1",
+    "description": "Meet Captain Olimar and a capable cast of red, blue, and yellow Pikmin on a dire mission across a larger-than-life planet. Olimar must guide his loveably-leafy companions through obstacles, in battle, and when collecting his missing ship parts.\n\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20230621,
+    "first_update_release_date": 20230920,
+    "latest_update_release_date": 20230920,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230920
+    },
+    "versions": {
+        "65536": 20230920
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Find your way home in the original Pikmin-plucking adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

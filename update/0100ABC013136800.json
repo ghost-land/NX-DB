@@ -1,4 +1,38 @@
 {
     "id": "0100ABC013136800",
-    "version": 327680
+    "base_tid": "0100ABC013136000",
+    "name": "Disgaea 6: Defiance of Destiny",
+    "description": "The first new DISGAEA game in six years is here! Meet Zed, a zombie that has risen above them all except one - a God of Destruction!\n\nCan a mere Netherworld zombie rise up and destroy a god? Find out in the newest installment of the DISGAEA series! Features such as Super Reincarnation, 3D visuals (a first for this series), and adjustable gameplay settings make this the perfect game for both new and old DISGAEA fans!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20210706,
+    "first_update_release_date": 20210525,
+    "latest_update_release_date": 20211001,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20211001
+    },
+    "versions": {
+        "65536": 20210525,
+        "131072": 20210614,
+        "196608": 20210730,
+        "262144": 20210903,
+        "327680": 20211001
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "SRPGs are gonna get a serious punch in the throat!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy themes, violence, coarse language and sexualised imagery"
+    ],
+    "region": null
 }

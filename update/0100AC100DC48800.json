@@ -1,4 +1,33 @@
 {
     "id": "0100AC100DC48800",
-    "version": 65536
+    "base_tid": "0100AC100DC48000",
+    "name": "Event Horizon",
+    "description": "Take command of a space fleet and start your galaxy exploration mission. Battle hostile aliens, conduct scientific research, capture resources, trade, build new ships and upgrade existing ones. Thousands and thousands of star systems, ferocious battles and surprising encounters are waiting for you.\n\nFeatures:\n–  Millions of stars to discover\n–  Hardcore dynamic battles\n–  Over 50 individual space ships with options for modification\n–  Over 100 guns and modules\n–  10 Unique factions with powerful flagships\n\nEvent Horizon lets you discover all by yourself the game and its cosmic surroundings during many hours of gameplay - in this title you decide to which level you wish to develop your abilities and how to achieve your goals. You are the conqueror of the universe.",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20190416,
+    "latest_update_release_date": 20190416,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190416
+    },
+    "versions": {
+        "65536": 20190416
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100AB2010B4C800",
-    "version": 131072
+    "base_tid": "0100AB2010B4C000",
+    "name": "Unlock The King",
+    "description": "Move the pieces and create a path to Unlock the King.\n\nFeatures:\n\n- 100 hand-crafted levels with increasing complexity.\n\n- Originally designed concept, including electronic board, lightning-fast piece movements, trigger buttons and movable parts;\n\n- Extremely easy to learn and complex to master;\n\n- Original Soundtrack composed to help you focus and relax while solving the puzzles;\n\n- A fun puzzle game now available to everyone (even to those who never played chess);",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20200317,
+    "latest_update_release_date": 20200831,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200831
+    },
+    "versions": {
+        "65536": 20200317,
+        "131072": 20200831
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Training"
+    ],
+    "intro": "A Chess-inspired puzzle game designed by the creators of Zen Chess.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

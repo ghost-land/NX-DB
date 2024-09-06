@@ -1,4 +1,49 @@
 {
     "id": "0100ABF008968800",
-    "version": 458752
+    "base_tid": "0100ABF008968000",
+    "name": "Pokémon™ Sword",
+    "description": "A new generation of Pokémon is coming to the Nintendo Switch™ system. Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pokémon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pokémon known as Dynamax Pokémon. \n\nCertain Pokémon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there’s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the trainer you want to be. Throughout your journey, you’ll encounter newly discovered Pokémon as well as familiar ones that will look a little different in their new Galarian forms! For another way to level up your Pokémon, assign them Poké Jobs to complete, and for fun, you can even play with your Pokémon in Pokémon Camp!  ",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20191115,
+    "first_update_release_date": 20200109,
+    "latest_update_release_date": 20210512,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210512
+    },
+    "versions": {
+        "65536": 20200109,
+        "131072": 20200317,
+        "196608": 20200617,
+        "262144": 20200707,
+        "327680": 20201022,
+        "393216": 20201221,
+        "458752": 20210512
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Get ready for the next Pokémon adventure in the Pokémon™ Sword and Pokémon™ Shield games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Cartoon Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

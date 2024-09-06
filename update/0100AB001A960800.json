@@ -1,4 +1,40 @@
 {
     "id": "0100AB001A960800",
-    "version": 196608
+    "base_tid": "0100AB001A960000",
+    "name": "Gothic II Complete Classic",
+    "description": "The iconic sequel to a cult classic RPG\n\nContinue the story of the Nameless Hero in Gothic II Complete Classic, the award-winning sequel that improved on its predecessor in every way. Experience it now for the first time on Nintendo Switch™.\n\nGothic II Complete Classic brings together the excitement of Gothic II and the add-on Night of the Raven to your fingertips for the first time on a console.\n\nYou have torn down the magical barrier and released the prisoners of the Mine Valley. Now the former criminals of the forests and mountains are causing trouble around the capital of Khorinis. The town militia is powerless due to their low amount of force–outside of the town, everyone is helpless against the attacks of the bandits.\n\n\n",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20231129,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240305,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240305
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20231215,
+        "196608": 20240305
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug References",
+        "Violence"
+    ],
+    "region": null
 }

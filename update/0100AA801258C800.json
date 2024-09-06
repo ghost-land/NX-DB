@@ -1,4 +1,41 @@
 {
     "id": "0100AA801258C800",
-    "version": 589824
+    "base_tid": "0100AA801258C000",
+    "name": "Fallen Legion Revenants",
+    "description": "The world is covered in miasma, and the remnants of mankind have taken refuge in a floating castle ruled by a madman. Swap between the charismatic politician Lucien and the vengeful ghost Rowena, and make political maneuverings in the castle above as you fight off monsters in the wasteland below.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20210226,
+    "first_update_release_date": 20210122,
+    "latest_update_release_date": 20220825,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20220825
+    },
+    "versions": {
+        "65536": 20210122,
+        "131072": 20210302,
+        "196608": 20210324,
+        "262144": 20210408,
+        "327680": 20210416,
+        "393216": 20210805,
+        "458752": 20210824,
+        "524288": 20211028,
+        "589824": 20220825
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Seek Vengeance through Steel and Secrecy",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

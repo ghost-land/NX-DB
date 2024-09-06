@@ -1,4 +1,44 @@
 {
     "id": "0100AAA013598800",
-    "version": 458752
+    "base_tid": "0100AAA013598000",
+    "name": "Ghostrunner（ゴーストランナー）",
+    "description": "謎の天変地異により人類がほぼ死滅し、文明が崩壊してしまった近未来。\n“キーマスター”と呼ばれる人物が支配する\n要塞都市“ダーマタワー”で人々は暮らしていた。\n\n目覚めた主人公は自分が何者でどこから来たのかも分からない。\n与えられた目的はただ一つ。\nこの塔の最上階にいるキーマスターを倒すこと。\n\n高速パルクール×一撃必殺×スタイリッシュアクションで\n最強のサイバーウォーリア―となれ。",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20210128,
+    "first_update_release_date": 20210203,
+    "latest_update_release_date": 20220407,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220407
+    },
+    "versions": {
+        "65536": 20210203,
+        "131072": 20210214,
+        "196608": 20210505,
+        "262144": 20211020,
+        "327680": 20211208,
+        "393216": 20211223,
+        "458752": 20220407
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "巨大な要塞都市を駆け抜ける\nサイバーパンク・パルクール・アクション！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

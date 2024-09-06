@@ -1,4 +1,43 @@
 {
     "id": "0100AAE0100C4800",
-    "version": 327680
+    "base_tid": "0100AAE0100C4000",
+    "name": "The Dresden Files Cooperative Card Game",
+    "description": "Play Harry Dresden and his friends as they take on the cases from the bestselling Dresden Files novels in the ultimate what-if scenario—what if Harry was on the scene with allies who weren’t there in the original story? The core game includes Harry, Murphy, Susan, Michael, and the Alphas and plays through the first five novels as well as Side Jobs, a random scenario generator based on the short story collection of the same name.",
+    "publisher": "Hidden Achievement",
+    "developer": null,
+    "base_release_date": 20200504,
+    "first_update_release_date": 20200519,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20200519,
+        "131072": 20200714,
+        "196608": 20210209,
+        "262144": 20221030,
+        "327680": 20240829
+    },
+    "category": [
+        "Board Game",
+        "Multiplayer",
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 5,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100AB50175BC800",
-    "version": 262144
+    "base_tid": "0100AB50175BC000",
+    "name": "Guns at Dawn Arena",
+    "description": "Nintendo Switch™ edition includes an exclusive gunslinger: The Duelist!\n\nGuns at Dawn Arena is an action shooter multiplayer.\n\nCan you survive in deadly all-out gun battles and be the last gunslinger standing? Grab your weapon and don't miss the shot. Make each bullet count!\n\nKey Features\n• Skill based PvP Duel Battles\nPlay and master the art of shooting pistols and dodging bullets. Unleash lethal skills to gun down your enemy in split seconds.\n\n• Intuitive & Personalizable Controls\nIt’s so simple than you learn quickly tactics to kill your opponent and rank up in your leaderboard. The skill-cap is high enough to be extremely challenging and be the last survival in this PvP shooting game\n\n• Customizable Characters and accesories\n10+ gunslingers with special skills: The Outlaw, the Bounty Hunter, The Graverobber or the Marshall. Create a unique hero by using a combination of hundreds of accessories and find the perfect look.\n\n• Cool weapons\n10+ iconic weapons: Walker, Navy, or the PeaceMaker. Choose the specific gun-fighting skills you want to develop and acquire new shooting abilities to become the last shooter\n\n• High Quality 3D Battlegrounds\nFight across 7+ high quality multiplayer maps with objects to hide and destructible environments and obstacles\n\n• Worldwide competitions and modes\nRise in the leaderboards Leagues and weekly Rival Ranks to battle to the top in competitive ranked mode. Compete against thousands of shooters worldwide in realtime 1v1 matches.",
+    "publisher": "1MBand",
+    "developer": null,
+    "base_release_date": 20220823,
+    "first_update_release_date": 20220825,
+    "latest_update_release_date": 20230223,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230223
+    },
+    "versions": {
+        "65536": 20220825,
+        "131072": 20220902,
+        "196608": 20230113,
+        "262144": 20230223
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer",
+        "RPG"
+    ],
+    "intro": "Can you survive in deadly all-out gun battles and be the last gunslinger standing? Grab your weapon and don't miss the shot. Make each bullet count!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

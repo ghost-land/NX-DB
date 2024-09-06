@@ -1,4 +1,41 @@
 {
     "id": "0100AB901D3EC800",
-    "version": 196608
+    "base_tid": "0100AB901D3EC000",
+    "name": "MECHBLAZE",
+    "description": "An inferno roars over a destroyed secret military base.\nMachine guns mow down wave after wave of advancing steel.\nDeadly lances piercing through giant foes.\nThen, from the flaming rubble...an invincible super robot is reborn! \n\nSuper Mechs born of advanced science and modern weaponry battle in heavy weight run-and-gun mech shooter!!\n\n[Story]\nThe year is 1989 AD.\nThe extraterrestrial invasion from the \"Gogoh Army\" has been crushed, and humankind is finally beginning to return to peace and prosperity.\nBut then, a powerful secret society known as the \"Neo Roland Party\" rises up and executes synchronized attacks across the globe plunging the world into chaos once again.\nThe remaining military forces have now re-mobilized, and are poised to boldly fight back against the rampaging Neo Roland Party...\n\n[Features]\n- 6 Unique stages of robo combat action!\n- 13 types of weapons to meet any situation\n- 5 difficulty levels: Easy to INSANE! \n",
+    "publisher": "Sanuk",
+    "developer": null,
+    "base_release_date": 20231214,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240818,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240818
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20231130,
+        "196608": 20240818
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Modern mil-tech and super mechas battling each other!\nThe super-heavyweight side-scrolling action game every boy dreamed of!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

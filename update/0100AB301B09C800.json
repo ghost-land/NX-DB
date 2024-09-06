@@ -1,4 +1,34 @@
 {
     "id": "0100AB301B09C800",
-    "version": 65536
+    "base_tid": "0100AB301B09C000",
+    "name": "Numbers and Squares",
+    "description": "Numbers and Squares is a logic puzzle game where you need to place each number from 0 to 9 in each row and column. It offers different difficulties ranging from easy beginner friendly puzzles up to difficult expert levels. In addition little features like the hint system helps you if you are stuck and need a helping hand.\n\nFeatures:\n- Different difficulties\n- Hint and Note system\n- Portrait or Landscape mode",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20230407,
+    "first_update_release_date": 20230330,
+    "latest_update_release_date": 20230330,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230330
+    },
+    "versions": {
+        "65536": 20230330
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Study",
+        "Education"
+    ],
+    "intro": "Solve different Sudoku puzzles and choose from four different difficulties.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
