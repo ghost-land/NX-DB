@@ -1,4 +1,45 @@
 {
     "id": "0100CCE00A4F2800",
-    "version": 65536
+    "base_tid": "0100CCE00A4F2000",
+    "name": "Reigns: Kings & Queens",
+    "description": "Reigns: Kings & Queens includes both award-winning games Reigns and Reign: Her Majesty. Sit on the throne as a benevolent (or malevolent) monarch of the modern age and swipe your royal decrees to the left or right to impose your will upon the kingdom.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20180914,
+    "latest_update_release_date": 20180914,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180914
+    },
+    "versions": {
+        "65536": 20180914
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

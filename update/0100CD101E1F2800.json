@@ -1,4 +1,30 @@
 {
     "id": "0100CD101E1F2800",
-    "version": 65536
+    "base_tid": "0100CD101E1F2000",
+    "name": "Cat Survivors",
+    "description": "Cat Survivors is a casual roguelite game in which a cat fights against different creatures to survive while becoming stronger through new weapons and upgrades. Shoot, dodge and create powerful combos to become stronger with each attempt to survive the chaos.",
+    "publisher": "GAME NACIONAL",
+    "developer": null,
+    "base_release_date": 20240309,
+    "first_update_release_date": 20240406,
+    "latest_update_release_date": 20240406,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240406
+    },
+    "versions": {
+        "65536": 20240406
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "You have 20 minutes",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

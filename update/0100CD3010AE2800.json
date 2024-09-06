@@ -1,4 +1,44 @@
 {
     "id": "0100CD3010AE2800",
-    "version": 262144
+    "base_tid": "0100CD3010AE2000",
+    "name": "Crysis 3 Remastered",
+    "description": "In Crysis 3 Remastered, the fate of the world is once again in your hands. Returning to the fight as super-soldier Prophet, wielding a powerful auto-loading Predator Bow that fires electric, explosive, and carbon arrows, take on new and old enemies that threaten the peace you worked so hard to achieve. The search for the alien Alpha Ceph continues, but now you must also expose the truth behind the C.E.L.L. corporation, which has turned New York City into a sprawling urban rainforest sheltered by a giant nanodome. Equipped with your legendary Nanosuit, you must assess, adapt, and attack as you choose your path and fight through seven distinct districts. Decimate your opponents in a blaze of brute force using the Nanosuit's superior technology, or use stealth to achieve your goals and become humanity's silent savior. There's no wrong way to save the world.",
+    "publisher": "Crytek",
+    "developer": null,
+    "base_release_date": 20211015,
+    "first_update_release_date": 20211021,
+    "latest_update_release_date": 20220523,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220523
+    },
+    "versions": {
+        "65536": 20211021,
+        "131072": 20211206,
+        "262144": 20220523
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "First-Person Shooter"
+    ],
+    "intro": "Experience the single-player experience  from the iconic first-person shooter, Crysis 3, optimized to take advantage of today's hardware in Crysis 3 Remastered.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

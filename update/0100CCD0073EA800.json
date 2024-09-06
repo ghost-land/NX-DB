@@ -1,4 +1,70 @@
 {
     "id": "0100CCD0073EA800",
-    "version": 1966080
+    "base_tid": "0100CCD0073EA000",
+    "name": "Ninjala",
+    "description": "■ Ninja-Gum\nUse Ninja-Gum to blow bubbles that can be tossed at your foes, craft all sorts of weapons, and dash across stages.\nThe appearance and variety of your weapon will vary depending on the type of Ninja-Gum you use.\n■ Competitive Player\nTake part in Battle Royale-style matches of up to 8 players and vie for supremacy with ninja around the world. The player who earns the most points over the course of the match will be declared the winner. Score points by defeating your opponents, obtaining items, destroying drones positioned across the stage, and more. Earn extra points by taking down your opponents with an IPPON—impressive finishing techniques.\n■ Cooperative Play\nJoin up with friends and take part in a 4-on-4 team battle. Cooperate with your teammates and earn more points than the opposing team to be declared the winner.\n■ Avatar\nA colorful variety of costumes and accessories from an array of unique fashion brands are available. Choose from a wide variety of avatar items which can be combined as you see fit. You can stick to one brand for a consistent look, or mix and match to create a style all your own!",
+    "publisher": "GUNGHOONLINE",
+    "developer": null,
+    "base_release_date": 20200625,
+    "first_update_release_date": 20200617,
+    "latest_update_release_date": 20240620,
+    "latest_update": {
+        "version": "1966080",
+        "release_date": 20240620
+    },
+    "versions": {
+        "65536": 20200617,
+        "131072": 20200716,
+        "196608": 20200808,
+        "262144": 20201001,
+        "327680": 20201028,
+        "393216": 20210106,
+        "458752": 20210113,
+        "589824": 20210324,
+        "655360": 20210421,
+        "720896": 20210511,
+        "786432": 20210617,
+        "851968": 20210909,
+        "983040": 20211202,
+        "1048576": 20211222,
+        "1114112": 20220309,
+        "1179648": 20220615,
+        "1245184": 20220707,
+        "1310720": 20220811,
+        "1376256": 20220930,
+        "1441792": 20221019,
+        "1507328": 20230113,
+        "1572864": 20230208,
+        "1638400": 20230426,
+        "1703936": 20230621,
+        "1769472": 20230809,
+        "1835008": 20231123,
+        "1900544": 20240307,
+        "1966080": 20240620
+    },
+    "category": [
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "An online action battle game featuring ninja and gum! \nAssume the role of a modern-day ninja and take part in the Ninjala tournament! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

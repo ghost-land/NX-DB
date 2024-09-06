@@ -1,4 +1,45 @@
 {
     "id": "0100CC80152C4800",
-    "version": 65536
+    "base_tid": "0100CC80152C4000",
+    "name": "Zoo Dentist",
+    "description": "★ They are on strict controlled diet \n★ Some kind of food can be dangerous for them \n★ They can get overweight really fast \n★ AND... THEIR TEETH CAN BE DAMAGED!\n\nSo here we are to help these cute beings fix their smiles! Learn how to perform teeth fillings, cleaning, tooth extraction and everything else what makes ours smiles shine!\n\nZoo dentist will teach kids not only to treat their pets with love and care, but also to protect their own teeth! Do not forget to clean them after each meal, because going to the dentist is not the most pleasant experience.",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20210716,
+    "first_update_release_date": 20220320,
+    "latest_update_release_date": 20220320,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220320
+    },
+    "versions": {
+        "65536": 20220320
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Education",
+        "Utility"
+    ],
+    "intro": "Why we shouldn’t feed animals our own food at the Zoo? ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

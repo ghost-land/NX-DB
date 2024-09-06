@@ -1,4 +1,44 @@
 {
     "id": "0100CCF00F5BC800",
-    "version": 262144
+    "base_tid": "0100CCF00F5BC000",
+    "name": "Outpost Delta",
+    "description": "An abandoned research station has gone unnoticed in the depths of space for years, until now. With an army of invasive aliens boarding the station, the outpost AI has rebooted its last remaining defense drone: Delta. Now Delta needs to repel the Klaath threat, save the outpost, and head out into space to search for answers.\n\n* Classic platforming blended with twin-stick shooting\n* Explore an interconnected space station under attack by a relentless horde\n* Control the station’s gravity; float in 0G, or turn up the force and bring your enemies to their knees\n* Discover an arsenal of weapons and tools and equip the right ones for the job\n* Upgrade your suit to help survive the might of the Klaath",
+    "publisher": "Hidden Achievement",
+    "developer": null,
+    "base_release_date": 20201020,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20210212,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210212
+    },
+    "versions": {
+        "65536": 20201021,
+        "131072": 20201022,
+        "196608": 20201117,
+        "262144": 20210212
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A single player, 2-D side-scrolling sci-fi shooter. Take on the role of Delta, who along with her AI companion must defend the space station against alien intruders.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

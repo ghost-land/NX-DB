@@ -1,4 +1,38 @@
 {
     "id": "0100CD1010740800",
-    "version": 458752
+    "base_tid": "0100CD1010740000",
+    "name": "Jay and Silent Bob: Mall Brawl",
+    "description": "Play as Jay and Silent Bob in a retro 8-bit sidescrolling brawler. Go solo or team up with a friend. Pummel enemies with hard-hitting combos, dash attacks, and elbow drops as well as a random assortment of weapons as you battle your way out of the mall and back to the Quickstop.",
+    "publisher": "The Media Indie Exchange",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200601,
+    "latest_update_release_date": 20210618,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210618
+    },
+    "versions": {
+        "131072": 20200601,
+        "262144": 20210208,
+        "327680": 20210520,
+        "393216": 20210601,
+        "458752": 20210618
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Classic retro beat-em-up with contemporary design.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

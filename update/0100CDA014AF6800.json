@@ -1,4 +1,32 @@
 {
     "id": "0100CDA014AF6800",
-    "version": 65536
+    "base_tid": "0100CDA014AF6000",
+    "name": "Glitchangels",
+    "description": "Experience the thrill of old-school arcade mayhem, updated and improved for the modern day!\n\nDefeat hordes of enemies, purify areas of corruption and unlock devastating abilities as you go.\n\nBecome a ghostly apparition, go supersonic, summon minions, nuke the world, or even rewind space-time itself!\n\nThe braver you are, the deeper you go, into the depths of the virtual realm - headlong into confrontation with the five bosses of the forbidden partions.",
+    "publisher": "Pumpkin Games",
+    "developer": null,
+    "base_release_date": 20210705,
+    "first_update_release_date": 20211201,
+    "latest_update_release_date": 20211201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211201
+    },
+    "versions": {
+        "65536": 20211201
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Deploy your team of Glitchangels to repair 'THE SYSTEM', one corrupt subroutine at a time.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

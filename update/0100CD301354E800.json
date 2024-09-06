@@ -1,4 +1,48 @@
 {
     "id": "0100CD301354E800",
-    "version": 655360
+    "base_tid": "0100CD301354E000",
+    "name": "Sam & Max Save the World",
+    "description": "Together, they’re the Freelance Police. And they’re about to save the world.\n\nIn 2006, the comic book crime-fighting duo Sam & Max starred in the first full-fledged episodic game from Telltale, the studio that went on to make The Walking Dead and Batman: The Enemy Within.\n\nNow everyone’s favorite dog and rabbity-thing are back in Sam & Max Save the World Remastered, a new version of their first season of episodic games that has been lovingly updated by a small group of the original developers with the blessing of Sam & Max creator Steve Purcell.\n \nIt’s just another day at the office for the self-proclaimed Freelance Police when the Commissioner calls in with a disturbing report: former child stars are running amok in the street! What starts as an open-and-shut case of idiotic vandalism balloons into an all-out conspiracy as Sam and Max encounter one miscreant after another who have been mysteriously hypnotized. (You can tell from the “spinny thing” they do with their eyes.)\n \nWho’s the source of this malfeasance, and what is their dastardly plan? Cracking this case will require Sam’s nose for detective work, Max’s lack of conscience, an assortment of inventory items, and a little help from neighbors Sybil Pandemik, Bosco, and Jimmy Two-Teeth. From Sam & Max’s street to the White House lawn, inside the internet, and all the way to the moon, this baffling mystery gets weirder and funnier as it unfolds.\n\nReturn to the adventure game that was once called “gaming’s first sitcom” and is today known as “the remaster you didn’t know you were waiting for.” With enhanced graphics, Joy-Con™ and touch screen support, an original jazz score with five new tracks, and the same brain-tickling puzzles and offbeat humor that won it IGN’s Best Adventure GOTY award back in the day, Sam & Max Save the World Remastered is a modern classic that will be right at home in your Nintendo Switch™ library.\n",
+    "publisher": "Skunkape Games",
+    "developer": null,
+    "base_release_date": 20211109,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20220217,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20220217
+    },
+    "versions": {
+        "65536": 20201110,
+        "131072": 20201201,
+        "196608": 20210112,
+        "262144": 20210210,
+        "393216": 20210428,
+        "524288": 20210810,
+        "589824": 20211206,
+        "655360": 20220217
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Sam is a six-foot canine detective with a love of justice. Max is a hyperkinetic rabbity-thing with a taste for mayhem.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Crude Humor",
+        "Mild Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

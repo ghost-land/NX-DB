@@ -1,4 +1,34 @@
 {
     "id": "0100CCA015740800",
-    "version": 65536
+    "base_tid": "0100CCA015740000",
+    "name": "Pixel Game Maker Series BLOCK SLIME CAVE",
+    "description": "Reach new heights in BLOCK SLIME CAVE, a puzzle action game involving the trampoline-like block slimes.\nGet past the various tricks and clear every stage!\n\n2-player cooperative play is available in the 2P Mode, so you can play with your friends and family!\n\nGame Features\nYour key to success: the block slime!\nThere are many different types of block slimes, including big slimes that can overlap to increase your jump height and slimes that can block beams.\n\nMind-boggling tricks!\nIn order to open a door, you need to get a key or flip a switch.\nEnjoy solving a variety of riddles.\nClear stages by leading the NPCs to the goal, but be mindful of the many tricks keeping players busy!\nWill you be able to clear all 50 stages?\n\n2P Mode: Cooperation is essential!\nThere are 30 special stages in this cooperative two players mode.\nThe key to success is to cooperate with each other!\nBuild your teamwork by clearing the stages while working together!\n\n\"Pixel Game Maker Series\" is a series of interesting games created using the game production software \"Pixel Game Maker MV\" (Not available on Nintendo Switch™) for Nintendo Switch.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20210805,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Use slime to get to the goal!\nA puzzle action game that will stick with you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

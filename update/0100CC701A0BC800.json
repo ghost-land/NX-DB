@@ -1,4 +1,47 @@
 {
     "id": "0100CC701A0BC800",
-    "version": 524288
+    "base_tid": "0100CC701A0BC000",
+    "name": "Fashion Dreamer",
+    "description": "Enter a virtual world of fashion fantasies made real, where coordination and communication mix like never before. Your new life as an influencer awaits!\n\n◆Create new outfits to rake in the Likes!\nThe virtual space is bustling with Muses, fashion fans who are always on the lookout for new inspiration. Dazzle them with your freshest fits—and if you catch their eye, you'll earn their Likes. Rack up more and more Likes to grow as an iconic fashion influencer!\n\n◆Send Likes to get new items!\nSpot a Muse with impeccable taste? Let them know! Giving a Like will let you use their fashion items not only for yourself, but also when recommending outfits to other Muses.\n\n◆Build your brand with custom items all your own!\nWhen designing new clothing and accessories, the sky's the limit! Customize over 1400 collectable items with your favorite styles and colors for a truly unique flair. Your creations form the basis for your brand, so recommend them to other Muses and conquer the fashion world!\n\n◆Go online to interact with Muses from across the globe!\nWhen you connect to the internet, other players' Muses will appear in your world, letting you snag whatever original outfits they're wearing. Before you know it, your very own designs might just become an international sensation!",
+    "publisher": "Marvelous Europe",
+    "developer": null,
+    "base_release_date": 20231103,
+    "first_update_release_date": 20231019,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20231019,
+        "131072": 20231205,
+        "196608": 20231220,
+        "327680": 20240117,
+        "393216": 20240314,
+        "458752": 20240516,
+        "524288": 20240613
+    },
+    "category": [
+        "Lifestyle",
+        "Communication"
+    ],
+    "intro": "Share your unique style with the world!♡",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

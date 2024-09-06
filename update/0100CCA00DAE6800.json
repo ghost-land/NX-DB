@@ -1,4 +1,50 @@
 {
     "id": "0100CCA00DAE6800",
-    "version": 983040
+    "base_tid": "0100CCA00DAE6000",
+    "name": "Captain Tsubasa: Rise of New Champions",
+    "description": "Captain Tsubasa: Rise of New Champions is an arcade football game bringing a refreshing look to the football genre with the exhilarating action and over the top shots.\n\nBUILD YOUR DREAM ELEVEN:\nCreate your own characters with new skills and abilities, and build your dream team to play offline and online!\n4 PLAYER VERSUS: Decide who's the football legend amongst your firends with offline versus up to 4 players!\nONLINE: Compete across several online modes to claim trophies and rewards\n2 STORY MODES: experience the events from the anime or become a part of the world of Captain Tsubasa!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20200828,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20200813,
+        "131072": 20201013,
+        "196608": 20201201,
+        "262144": 20210119,
+        "327680": 20210310,
+        "393216": 20210420,
+        "458752": 20210803,
+        "524288": 20210929,
+        "589824": 20211207,
+        "720896": 20220330,
+        "786432": 20220419,
+        "851968": 20220825,
+        "983040": 20221115
+    },
+    "category": [
+        "Action",
+        "Sports"
+    ],
+    "intro": "Super plays clash in arcade football game Captain Tsubasa!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild coarse language",
+        "Online interactivity",
+        "In-game purchases"
+    ],
+    "region": null
 }

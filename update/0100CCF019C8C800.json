@@ -1,4 +1,48 @@
 {
     "id": "0100CCF019C8C800",
-    "version": 589824
+    "base_tid": "0100CCF019C8C000",
+    "name": "F-ZERO™ 99",
+    "description": "Line up with 98 other F-ZERO machines and race to the finish in this thrilling take on the original Super NES™ game. Keep an eye on your power meter as you boost and bash, because speed is just as important as survival. Defend yourself with a Spin Attack and collect Super Sparks to breeze past the competition on the elevated Skyway. The F-ZERO 99 game is available only to active Nintendo Switch Online* members.\n\nOutpace and outlive your opponents in rotating modes\n\nThe core F-ZERO 99 mode is just one way to race at breakneck speeds. Mini Prix and Grand Prix modes appear on a set schedule and challenge you to compete and qualify in a series of races. Team Battle and the extra-tough Pro Tracks mode rotate throughout the day. Prepare yourself in Practice Mode and race against your ghost.\n\nComplete challenges for even more customization\n\nBoost your Skill Rating by excelling in races and take on challenges to unlock customization options. Make your F-ZERO machine your own with alternate colors, decals, and boost effects. Complete achievements in your Pilot Card and receive different unlockable backdrops and display badges.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20230914,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20240712,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240712
+    },
+    "versions": {
+        "131072": 20231013,
+        "196608": 20231129,
+        "262144": 20231220,
+        "327680": 20240125,
+        "393216": 20240208,
+        "458752": 20240328,
+        "524288": 20240704,
+        "589824": 20240712
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": "Lightning-fast F-ZERO™ racing with a 99-player twist",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

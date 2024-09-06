@@ -1,4 +1,34 @@
 {
     "id": "0100CD801766E800",
-    "version": 65536
+    "base_tid": "0100CD801766E000",
+    "name": "Colors and Numbers",
+    "description": "Colouring fun cartoons, mandalas or other joyful pictures. Have a relaxing and joyful experience with Colors and Numbers by colouring pictures in a simple and easy way!\n\nColors and Numbers is a digital colouring book where you colour different pictures by choosing the right numbered colour and touch the corresponding numbered section on the picture. Colouring has never been easier! \n\nFeatures:\n- Different Themes\n- Simple way of colouring",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20220127,
+    "first_update_release_date": 20220222,
+    "latest_update_release_date": 20220222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220222
+    },
+    "versions": {
+        "65536": 20220222
+    },
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Other",
+        "Arcade"
+    ],
+    "intro": "Colouring has never been easier! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

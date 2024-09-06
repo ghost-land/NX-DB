@@ -1,4 +1,33 @@
 {
     "id": "0100CD3000BDC800",
-    "version": 196608
+    "base_tid": "0100CD3000BDC000",
+    "name": "ドラゴンクエストヒーローズI・II for Nintendo Switch",
+    "description": "『ドラゴンクエストヒーローズ 闇竜と世界樹の城』、『ドラゴンクエストヒーローズⅡ 双子の王と予言の終わり』の2つの物語を1本に収録。モンスターの大群を蹴散らす爽快なバトル、巨大モンスターとの白熱の攻防をその手に！ 追加キャラクターや追加ボス、遊びやすさや操作性も向上！ 友だちとのマルチプレイも楽しめる、究極の一作！",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20170814
+    },
+    "versions": {
+        "196608": 20170814
+    },
+    "category": [
+        "アクション",
+        "ロールプレイング"
+    ],
+    "intro": "ドラゴンクエストの本格アクションRPG！\n2つの物語が1本になってNintendo Switchに登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

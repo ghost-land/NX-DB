@@ -1,4 +1,33 @@
 {
     "id": "0100CDB00BC94800",
-    "version": 65536
+    "base_tid": "0100CDB00BC94000",
+    "name": "A Case of Distrust",
+    "description": "A Case of Distrust is a narrative mystery from 1924 San Francisco. Play as private investigator Phyllis Cadence Malone in this historical 2D adventure game. Explore underground speakeasies, smoke-filled billiard halls, classic barber shops, and more. Catch suspects in lies by using evidence, statements, and your wits. Intrinsic challenges face our heroine, as she struggles against a pushback on emancipation, leading to many doubts, both internal and external. Uncover the truth in a mystery full of deception!",
+    "publisher": "Serenity Forge",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20190524,
+    "latest_update_release_date": 20190524,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190524
+    },
+    "versions": {
+        "65536": 20190524
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A narrative mystery from 1924 San Francisco.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes"
+    ],
+    "region": null
 }

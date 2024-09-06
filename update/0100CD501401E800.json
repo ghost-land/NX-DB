@@ -1,4 +1,41 @@
 {
     "id": "0100CD501401E800",
-    "version": 65536
+    "base_tid": "0100CD501401E000",
+    "name": "A Day Without Me",
+    "description": "A Day Without Me is a puzzle adventure game, where you have to find out where everyone is going, why is there only you in the city, why are there so many oddities in the city.\n\nFeatures:\n-Plot mysterious story\n-Semi open world\n-Lots of challenges and mysteries to solve",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220119,
+    "first_update_release_date": 20210923,
+    "latest_update_release_date": 20210923,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210923
+    },
+    "versions": {
+        "65536": 20210923
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Simulation"
+    ],
+    "intro": "You just woke up and without knowing it, you were the only person left in the city.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

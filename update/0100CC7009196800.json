@@ -1,4 +1,37 @@
 {
     "id": "0100CC7009196800",
-    "version": 65536
+    "base_tid": "0100CC7009196000",
+    "name": "Masters of Anima",
+    "description": "Masters of Anima is an original adventure game that takes you deep into the magical world of Spark. Battle against the forces of evil in strategic, action-packed battles, where making tactical decisions quickly is vital. Summon and control large armies of up to 100 Guardians, thanks to intuitive and innovative gameplay.\n\nPlay as Otto, an apprentice of Anima gifted with incredible powers and aspire to the rank of Master to finally marry your betrothed Ana - captive of the terrible Zahr and his fearsome Golems! \n\nUse the powers of Anima to summon an army of magical Guardians. During your adventure, learn to control new types of Guardians, each with their own unique abilities useful for exploring the world of Spark, as well as for taking down formidable bosses on your way. Acquire new powers for both yourself and your Guardians, and become a true Master of Anima. \n\nSave your fiancée - and maybe even the world while you’re at it!",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20220301,
+    "first_update_release_date": 20180626,
+    "latest_update_release_date": 20180626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180626
+    },
+    "versions": {
+        "65536": 20180626
+    },
+    "category": [
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
