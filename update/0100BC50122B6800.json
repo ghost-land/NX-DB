@@ -1,4 +1,42 @@
 {
     "id": "0100BC50122B6800",
-    "version": 65536
+    "base_tid": "0100BC50122B6000",
+    "name": "Farm Builder",
+    "description": "Farm Builder is strategy puzzle board game in which you have to construct farms, roads and surround windmills and water-towers in order to score points. \nThe game is online multiplayer and in each room can play between 2 and 5 people together.\nThe winner is the player who manages to score the most points.\n\nTo make points you have to own a completed farm, road, windmill or water tower. \nThis is done by placing farmers and tractors (pieces) which indicate that you own the property. \n\nThe game has three different game play types:\n1) Online multiplayer - you play versus real people from all around the world.\n2) Play VS Robots - you can play versus computer robots offline.\n3) Pass the device mode - you can play versus friends on the same device without having need of internet\n\n\nGood luck!",
+    "publisher": "LAN - GAMES EOOD",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20230920,
+    "latest_update_release_date": 20230920,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230920
+    },
+    "versions": {
+        "65536": 20230920
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Build and connect your farm\nScore most points\nGrow and destroy your opponents",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 5,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }

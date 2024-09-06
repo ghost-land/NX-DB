@@ -1,4 +1,37 @@
 {
     "id": "0100BBA015E8E800",
-    "version": 65536
+    "base_tid": "0100BBA015E8E000",
+    "name": "Klonoa Phantasy Reverie Series",
+    "description": "Klonoa is a 3D side-scrolling action game series whose first title was released by Namco in 1997.\nSet in a unique universe populated by a range of original characters, the game follows the hero, Klonoa, as he sets off on a journey to save the world.\n\nCommemorating the 25th anniversary of the first title in the series, we are pleased to announce the release of the Klonoa Phantasy Reverie Series, a remastered title combining both Klonoa: Door to Phantomile and Klonoa 2: Lunatea’s Veil!\n\nThe world of the games and their gameplay elements remains unchanged, while the graphics have been upgraded. Adjustable difficulty settings have also been introduced to make the games more accessible to first-time players.\nEnjoy a nostalgic trip down memory lane playing this new and improved Klonoa.\n\nIncluded:\n・Main game\n・Klonoa Costume Set: Moo Costume Set\n\nKlonoa Costume Set: Moo Costume Set\nThis costume allows the Player to dress as the enemy character, Moo.\n\n*Design, content, and specifications may be changed without prior notice.\n*Costume DLC is added to the main game.\n*Bonus features may be released separately at a later date.\n*After being downloaded, bonus features may be equipped from Costumes under Options.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20220708,
+    "first_update_release_date": 20220706,
+    "latest_update_release_date": 20220706,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220706
+    },
+    "versions": {
+        "65536": 20220706
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Klonoa is back!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild fantasy violence"
+    ],
+    "region": null
 }

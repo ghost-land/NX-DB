@@ -1,4 +1,46 @@
 {
     "id": "0100BB801B79C800",
-    "version": 262144
+    "base_tid": "0100BB801B79C000",
+    "name": "Hauntii",
+    "description": "Play as Hauntii, a naive but brave ghost on a relentless quest for answers. A mysterious race of glowing creatures, known as Eternians, guides lost souls to an ominous central tower where they appear to ascend to a higher plane. They look like angels, but no one really knows who they are, nor where they came from.\n\nUnleash ghostly powers to possess both inhabitants and environment, unveiling various solutions to combat and puzzle challenges. Unravel the mysteries of Eternity and shape your fate in a mesmerising adventure like no other!\n\nLook and Feel\nThe game employs a unique hand-crafted art style, making use of line art, animation and a striking two-tone palette. The camera is a character in itself, sweeping over and zooming in and out of the environment to emphasise certain scenes and provide direction to the player.\n\nMeanwhile, Hauntii’s dynamic soundtrack sways and swells with the action on-screen, creating a captivating audiovisual experience.\n\nHaunt\nAs a ghost, use your haunting powers to command both creatures and the environment itself.\nCraft an array of solutions to puzzles, and devise various approaches to combat scenarios.\n\nExplore\nAn expansive hand-crafted world, with tight yet open-ended environments. Whichever path you take, there'll always be something around the corner, waiting to be discovered.\n\nCollect\nBuild the Constellations and uncover the story of Hauntii's past life. Find the pieces you'll need by exploring, solving challenges, and trading with other ghosts.\n\nRelax\nA twin-stick game like no other, Hauntii combines classic shooting action with a slower, more contemplative pace as you traverse the otherworldly landscapes of Eternity - all set to a richly textured soundtrack by LightReturn",
+    "publisher": "Firestoke",
+    "developer": null,
+    "base_release_date": 20240523,
+    "first_update_release_date": 20240522,
+    "latest_update_release_date": 20240621,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240621
+    },
+    "versions": {
+        "65536": 20240522,
+        "131072": 20240529,
+        "196608": 20240612,
+        "262144": 20240621
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "No ghost can truly die in Eternity, but all can be led astray. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

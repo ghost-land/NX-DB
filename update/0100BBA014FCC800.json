@@ -1,4 +1,34 @@
 {
     "id": "0100BBA014FCC800",
-    "version": 131072
+    "base_tid": "0100BBA014FCC000",
+    "name": "Eat your letters",
+    "description": "Eat your letters is a new type of classic word search puzzle game. In this game, you have a plate full with exquisite letters and your duty is to find the right formulas to make great words and empty up your plate.\n\nFeatures :\n- Funny word search puzzle\n- 540 Levels\n- Different difficulties ",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210524,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211012
+    },
+    "versions": {
+        "131072": 20211012
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Board Game"
+    ],
+    "intro": "Mix exquisite letters into delicious words and empty your plate !",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

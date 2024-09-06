@@ -1,4 +1,36 @@
 {
     "id": "0100BB700EF82800",
-    "version": 196608
+    "base_tid": "0100BB700EF82000",
+    "name": "RetroMania Wrestling",
+    "description": "RetroMania Wrestling is a pick up and play arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play.  With 16 playable characters from legends up to today's superstars, RetroMania has something for everyone. There are 4 distinct game modes including Story Mode and over 50 possible match variations! Do you have what it takes to step into the RetroMania Wrestling ring?",
+    "publisher": "Retrosoft Studios",
+    "developer": null,
+    "base_release_date": 20210331,
+    "first_update_release_date": 20210403,
+    "latest_update_release_date": 20240220,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240220
+    },
+    "versions": {
+        "65536": 20210403,
+        "131072": 20220617,
+        "196608": 20240220
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action",
+        "Sports"
+    ],
+    "intro": "RetroMania is a fast paced  pick up and play 2d arcade wrestling game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

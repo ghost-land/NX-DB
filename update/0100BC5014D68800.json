@@ -1,4 +1,45 @@
 {
     "id": "0100BC5014D68800",
-    "version": 131072
+    "base_tid": "0100BC5014D68000",
+    "name": "Zombo Buster Advance",
+    "description": "Key Features:\n- Lead a team of 12+ anti zombie shooters into the operation.\n- Craft and equip power up badges to your units, create your own super soldiers.\n- Fight against 30+ kinds of zombies and engage in epic boss battles.\n- Make good use of various supportive gadgets in the war zone, from dynamites to the Kill-with-snap gauntlets!\n- Use your tactics to counter the in-game flow changer such as the escalator, travelators, passages and many others.\n- Forge ahead a total of 50 fun and challenging stages worth of hours playing.\n- Examine your units, enemies, gadgets and others with the in-game game journal.\n- Complete a series of missions and claim the rewards.\n- As always, a bunch of upgrades!\n",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220213,
+    "first_update_release_date": 20210914,
+    "latest_update_release_date": 20230426,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230426
+    },
+    "versions": {
+        "65536": 20210914,
+        "131072": 20230426
+    },
+    "category": [
+        "Strategy",
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Zombo Buster Advance is a tower defense game taking place inside buildings with interchangeable elevators. \nDeploy, swap and shoot like a boss!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

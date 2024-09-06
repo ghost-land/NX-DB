@@ -1,4 +1,50 @@
 {
     "id": "0100BBF011394800",
-    "version": 393216
+    "base_tid": "0100BBF011394000",
+    "name": "Dicey Dungeons",
+    "description": "In this new fast-paced deckbuilding roguelike from Terry Cavanagh, Chipzel, and Marlowe Dobbe, you'll fight monsters, find better loot, and level up your heroes as you work together to take down the Goddess of Fortune, Lady Luck herself. Balance your carefully planned strategies against the unknown of a dice roll.\n\nPlay as six different characters, each with their own unique play styles and abilities. Master each class and figure out which one best fits your style in this charming world filled with a growing array of twists and secrets.\n\nCan you make it out alive? Maybe, but luck is definitely not on your side.",
+    "publisher": "Distractionware",
+    "developer": null,
+    "base_release_date": 20220120,
+    "first_update_release_date": 20201203,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20201203,
+        "131072": 20210107,
+        "196608": 20211029,
+        "262144": 20211209,
+        "327680": 20220707,
+        "393216": 20220818
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Adventure"
+    ],
+    "intro": "Become a giant walking dice and battle to the end of an ever-changing dungeon! Can you escape the cruel whims of Lady Luck?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

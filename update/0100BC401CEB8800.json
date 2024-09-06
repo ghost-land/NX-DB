@@ -1,4 +1,34 @@
 {
     "id": "0100BC401CEB8800",
-    "version": 131072
+    "base_tid": "0100BC401CEB8000",
+    "name": "Coffee, Plis",
+    "description": "A Young man gets to fill in for his colleagues at a large cafeteria franchise as his first job, but things spiral out of control when he discovers chaos, also known as rush hour.",
+    "publisher": "Cube Games",
+    "developer": null,
+    "base_release_date": 20240329,
+    "first_update_release_date": 20240323,
+    "latest_update_release_date": 20240409,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240409
+    },
+    "versions": {
+        "65536": 20240323,
+        "131072": 20240409
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Lifestyle",
+        "Multiplayer"
+    ],
+    "intro": "Serving coffee in complete chaos, \"Coffee, Plis\" shows a crazy day of service in all the coffee shops in the city. Being able to play alone or with friends all you have to do is serve customers ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

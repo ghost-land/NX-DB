@@ -1,4 +1,36 @@
 {
     "id": "0100BBF0027EC800",
-    "version": 131072
+    "base_tid": "0100BBF0027EC000",
+    "name": "ULTRA STREET FIGHTER™ II The Final Challengers",
+    "description": "Features a stellar line-up of 19 unique characters, including all of the original fighters and bosses, the characters added in Super Street Fighter II, plus the first new additions in nearly 20 years: Evil Ryu and Violent Ken! \n\nTeam-up with a friend to take on the CPU opponent in a new co-op mode. Create new two-character combos and attack the CPU on both sides! \n\nBattle it out with a friend in local multiplayer or take the fight online in Ranked and Casual matches. \n\nUtilize the motion controls of the Joy-Con in “Way of the Hado” mode, a new first-person single player experience where players attempt to defeat the Shadaloo army using signature Hadouken and Shoryuken special moves! \n\nNintendo Switch TV, Tabletop, and Handheld modes allow you to play Ultra Street Fighter II at home or on-the-go.\n\nNotice: Fighting online requires a software update.",
+    "publisher": "CAPCOM Europe",
+    "developer": null,
+    "base_release_date": 20170526,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20170814
+    },
+    "versions": {
+        "131072": 20170814
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

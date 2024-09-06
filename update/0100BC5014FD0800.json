@@ -1,4 +1,36 @@
 {
     "id": "0100BC5014FD0800",
-    "version": 196608
+    "base_tid": "0100BC5014FD0000",
+    "name": "Basketball Pinball",
+    "description": "Enjoy Basketball Pinball, a perfect reproduction of a real pinball machine, with all the graphic details and sounds. \n\nDiscover all the secrets, complete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n- Multiball, Extraball, Skillshot, Jackpots...\n- Reproduction with all the details, lights and sounds.\n- 4 different cameras to choose from.\n- Online Leaderboard.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20210604,
+    "first_update_release_date": 20210521,
+    "latest_update_release_date": 20210610,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210610
+    },
+    "versions": {
+        "65536": 20210521,
+        "131072": 20210528,
+        "196608": 20210610
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Action",
+        "Sports"
+    ],
+    "intro": "The most entertaining Pinball is back! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

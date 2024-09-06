@@ -1,4 +1,42 @@
 {
     "id": "0100BC401BF5E800",
-    "version": 65536
+    "base_tid": "0100BC401BF5E000",
+    "name": "Hentai Uni 2",
+    "description": "Hentai Uni 2 is a sequel to our last year's hit. Luckily, you can still play it with one hand. In HU2 you'll get to see both old and completely new characters. \n15 unique jigsaw puzzles 75+ levels Each scene has voice-over, which helps reveal the character through a short story.",
+    "publisher": "Big Way",
+    "developer": null,
+    "base_release_date": 20230725,
+    "first_update_release_date": 20240125,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20240125
+    },
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Sequel to a relaxing puzzle game featuring charming girls.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery",
+        "Strong Nudity"
+    ],
+    "region": null
 }

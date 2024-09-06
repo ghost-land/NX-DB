@@ -1,4 +1,33 @@
 {
     "id": "0100BBB00F6B2800",
-    "version": 65536
+    "base_tid": "0100BBB00F6B2000",
+    "name": "Creepy Brawlers",
+    "description": "After a spectral hand pulls you out of your seat and into the silver screen, you become the underdog in an underworld championship. Lace up your gloves and get ready to duck, bob, and weave as you go toe to toe with a marathon of monsters. Better train like hell...",
+    "publisher": "Mega Cat Studios",
+    "developer": null,
+    "base_release_date": 20191024,
+    "first_update_release_date": 20191114,
+    "latest_update_release_date": 20191114,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191114
+    },
+    "versions": {
+        "65536": 20191114
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "The Rumble from Really Down Under!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "0100BBF0122B4800",
-    "version": 327680
+    "base_tid": "0100BBF0122B4000",
+    "name": "Sally Face",
+    "description": "Delve into an unsettling adventure following a boy with a prosthetic face, as he uses his handheld video game system to speak with the dead and learn their stories. After a string of mysterious murders, Sal and his three friends discover something truly sinister casting shadows over their small town.\n\nFEATURES\n* Intriguing narrative will linger in your thoughts\n* Speak with the ghosts, using the Gear Boy\n* Handcrafted by a solo dev: including art, design and music\n* Inspired by 1990s cartoons and personal nightmares\n* Bizarre characters, ponies, headbanging and more",
+    "publisher": "Portable Moose",
+    "developer": null,
+    "base_release_date": 20220729,
+    "first_update_release_date": 20210219,
+    "latest_update_release_date": 20220719,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220719
+    },
+    "versions": {
+        "131072": 20210219,
+        "196608": 20210330,
+        "327680": 20220719
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "A Dark Mystery is Unfolding...",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language"
+    ],
+    "region": null
 }
