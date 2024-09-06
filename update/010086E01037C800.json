@@ -1,4 +1,39 @@
 {
     "id": "010086E01037C800",
-    "version": 131072
+    "base_tid": "010086E01037C000",
+    "name": "BREAK DOT",
+    "description": "ARCADE MODE\nTry clearing all 20 stages in a row.\nYou can enjoy as speedrun challenge or highest score challenge.\nThe secrets of this world wil appear as you move forward ... Will you reach to the truth? \n\nCREATE MODE\nYou can create your own original stage.\nChangin the color, arrangement of items, background, etc.\nEnjoy with storaging locally, or publishing it ONLINE. \n\nONLINE MODE\nPlay stages posted from all around the world.\nThe wide variety of stages may lead to new tales.\nPress Good! for your favorite stages",
+    "publisher": "Caerux",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20201012,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201012
+    },
+    "versions": {
+        "65536": 20200930,
+        "131072": 20201012
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Board Game",
+        "Shooter"
+    ],
+    "intro": "This is  a RETRO-FUTURE breakout game.\nAll shall be blocks in this world.\nCreate your own stage and show it to the whole world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }

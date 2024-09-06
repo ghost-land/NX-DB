@@ -1,4 +1,33 @@
 {
     "id": "0100872012B34800",
-    "version": 65536
+    "base_tid": "0100872012B34000",
+    "name": "My Little Dog Adventure",
+    "description": "In Little Dog Adventure you play as a little dog that discovers the world on its mission to find its way back home. \n\nIt's a short emotional story-driven exploration game that will keep you interested with an immersive story and lovable characters. ",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20201106,
+    "first_update_release_date": 20201125,
+    "latest_update_release_date": 20201125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201125
+    },
+    "versions": {
+        "65536": 20201125
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

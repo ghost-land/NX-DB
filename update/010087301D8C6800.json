@@ -1,4 +1,33 @@
 {
     "id": "010087301D8C6800",
-    "version": 131072
+    "base_tid": "010087301D8C6000",
+    "name": "Surmount",
+    "description": "Surmount is a free-flowing, physics-based platforming adventure where you’ll experience the joys of mountain climbing. Make your perilous ascent through the various handcrafted and procedurally generated challenges of Mount Om, all the while following a silly story with eccentric folks along the way. Master your own unique style of climbing either alone or with a friend, upgrade and customize your climber to stand a better chance, and maybe just maybe, you'll be the first ever to reach the top!\n\nFeatures:\n- An approachable physics based climbing system that is endlessly replayable and not overly punishing.\n- A mix of handmade levels and large procedurally generated areas to overcome.\n- On your way to the top of Mount Om, you’ll meet a variety of eccentric characters, all with their own reason to  journey to the top. \n- Unlock a variety of permanent and equipable items that will boost your stats.\n- Be the most fashionable climber out there by customizing your character’s look.\n- Play alone or tethered to a friend in local co-op.",
+    "publisher": "Jasper & Jonas",
+    "developer": null,
+    "base_release_date": 20240502,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240619,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240619
+    },
+    "versions": {
+        "65536": 20240510,
+        "131072": 20240619
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Multiplayer",
+        "Sports"
+    ],
+    "intro": "Be the first to reach the top of the highest mountain in the world and meet eccentric characters along the way! Discover endless amounts of climbing routes, alone or in co-op mode.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

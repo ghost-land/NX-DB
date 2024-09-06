@@ -1,4 +1,38 @@
 {
     "id": "010088001AA52800",
-    "version": 196608
+    "base_tid": "010088001AA52000",
+    "name": "Fireside",
+    "description": "Make friends, trade and chat at the campfire, weave connections, and explore a serene magic-filled world\n\n•Your friends could always use your help! Chat with the folks you meet, learn their stories and while traveling on, be on the lookout for what your friends could need!\n\n•On your journey, you’ll collect an array of supplies, trinkets, and other stuff you or your friends could use. Trade with others to get what you need for your next steps, and provide your allies with the means to carry on!\n\n•Use the materials you find or trade to build and improve your home and invite your new pals to visit!\n\n•Fireside will never want you to harm anyone. So kick back, make a cup of warm tea, turn up Fireside’s tranquil ambiance, and enjoy the calm of NOW.",
+    "publisher": "Nordcurrent",
+    "developer": null,
+    "base_release_date": 20240618,
+    "first_update_release_date": 20240618,
+    "latest_update_release_date": 20240826,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240826
+    },
+    "versions": {
+        "65536": 20240618,
+        "131072": 20240618,
+        "196608": 20240826
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Fireside is an uplifting narrative experience about a journey and the breaks that follow it.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

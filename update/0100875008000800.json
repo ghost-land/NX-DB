@@ -1,4 +1,41 @@
 {
     "id": "0100875008000800",
-    "version": 65536
+    "base_tid": "0100875008000000",
+    "name": "Bloody Zombies",
+    "description": "Bloody Zombies is a co-op brawler evolved for Nintendo Switch™ with innovative freeform combat, expansive multiplayer options, and hordes upon hordes of zombies! \nFight over 20 diverse environments using your brutal, expanding abilities to take down a huge variety of deadly, mutated zombies. Created for 1-4 players both online & offline, Bloody Zombies is fully playable across all Nintendo Switch play modes, and supports all controller configurations.\nFIGHT HORDES OF ZOMBIES - Take on a diverse plague of zombies in brutal and bloody hand-to-zombie combat. More than 30 different undead types, each requiring a different strategic approach.\nBRAWLING EVOLVED – Innovative Freeform Combat allows you to combine unlockable moves and create your own chainable combos.\nONLINE & LOCAL CO-OP – Supports 1-4 players across TV, Tabletop and Handheld modes, using all Joy-Con™ and Pro Controller combinations.\nFULL CAMPAIGN – Fight in the iconic ruins of London across over 20 unique environments.\nLONE SURVIVORS – Choose from 4 playable anti-heroes each with a full arsenal of zombie-bashing skills.",
+    "publisher": "nDreams",
+    "developer": null,
+    "base_release_date": 20171224,
+    "first_update_release_date": 20180123,
+    "latest_update_release_date": 20180123,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180123
+    },
+    "versions": {
+        "65536": 20180123
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Team Up! Bash Brains! Anywhere, with Anyone!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Coarse Language",
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010087000FD2A800",
-    "version": 131072
+    "base_tid": "010087000FD2A000",
+    "name": "Station Manager",
+    "description": "All aboard this exciting journey to build the world's greatest train station!\n\nCustomize your station with your favorite facilities and trains. Help your passengers travel in comfort by adding vending machines, benches, information boards and more. With fun features including arcades, VIP lounges and taco stands, you'll soon be everyone's favorite stop!\n\nLink different carriages to create new trains for business, tourism and more. Expand into the surrounding area to attract new passengers.\n\nIt's full steam ahead for your spectacular new station! Watch as it fills with commuters, students and other travelers!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20210204,
+    "first_update_release_date": 20220425,
+    "latest_update_release_date": 20230313,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230313
+    },
+    "versions": {
+        "65536": 20220425,
+        "131072": 20230313
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Study",
+        "Other"
+    ],
+    "intro": "Build your own spectacular, multi-story station for your favorite trains!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

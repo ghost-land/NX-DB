@@ -1,4 +1,44 @@
 {
     "id": "0100883018D54800",
-    "version": 131072
+    "base_tid": "0100883018D54000",
+    "name": "BIOHAZARD VILLAGE CLOUD Z Version Gameplay Demo",
+    "description": "※本商品は、CEROレーティング「Z」相当となる「Z Version」です。\nより激しい暴力表現が“お好み”の方は、こちらをご購入ください。\n暴力表現がマイルドな「通常Version」もございますので、ご購入の際は十分ご注意ください。\n\nサバイバルホラーは次のステージへ。\n\n『バイオハザード7　レジデント イービル』の悪夢から数年後。\n主人公“イーサン・ウィンターズ”は妻子とともに、静かな生活を取り戻していた。\nしかし彼の平穏は英雄“クリス・レッドフィールド”の手で破られ、ふたたび混沌へと投げ込まれる…。\n\n熟成を重ねたゲームエンジン“RE ENGINE”が新たなサバイバル“アクション”ホラーを創造する、ナンバリングシリーズの第8作。\n\n＜収録内容＞\n・「BIOHAZARD VILLAGE CLOUD Z Version」本編\n・武器パーツ「ラクーン君」\n・サバイバルリソースパック\n・トラウマパック",
+    "publisher": "カプコン",
+    "developer": null,
+    "base_release_date": 20220914,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20221024,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221024
+    },
+    "versions": {
+        "65536": 20220915,
+        "131072": 20221024
+    },
+    "category": [
+        "アクション",
+        "シューティング"
+    ],
+    "intro": "本ゲームはクラウドストリーミング技術を使用しています\n購入にはこの無料トライアル版での動作確認が必要です",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

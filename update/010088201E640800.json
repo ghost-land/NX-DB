@@ -1,4 +1,46 @@
 {
     "id": "010088201E640800",
-    "version": 65536
+    "base_tid": "010088201E640000",
+    "name": "Mining Mechs",
+    "description": "Strange noises and weird activities have been detected underground and you've been called in to help! Mining Mechs is a retro 2D action game presented in fluid pixel art style! Commandeer a high-tech mining mech to dig deep into the earth and collect valuable resources. Sell those resources on the surface to earn money, which you'll need to upgrade your mech or buy new ones.\n\nEach mech has its own benefits and will help you explore the depths even further. Don't think your quest will be easy, though. The deeper you get, the tougher it gets! Will you unravel the dark secrets of the underground, or will you come up against challenges that push your digging skills to the limit?\n\nFeatures:\n\n• Drill and blast through the earth to find ores and treasure!\n• Connect pipes to carry valuable resources back to the surface.\n• Use earnings to pay for fuel, supplies, upgrades and new mechs!\n• Meet profit objectives to advance the story.\n• Enjoy retro pixel art aesthetics and multi-directional scrolling mining sites!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240904,
+    "first_update_release_date": 20240809,
+    "latest_update_release_date": 20240904,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240904
+    },
+    "versions": {
+        "65536": 20240809,
+        "131072": 20240904
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "Dig deep and make it big as you pilot mining machines to collect subterranean resources in pixel art style!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

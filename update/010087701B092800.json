@@ -1,4 +1,45 @@
 {
     "id": "010087701B092800",
-    "version": 262144
+    "base_tid": "010087701B092000",
+    "name": "Persona 5 Tactica",
+    "description": "Ignite your heart— An emotional uprising begins!  \n\nAfter a strange incident, the Phantom Thieves wander into a bizarre realm where its citizens are living under tyrannical oppression. Surrounded by a military group named Legionnaires, they find themselves in grave danger until a mysterious revolutionary named Erina rescues them and offers an enticing deal in exchange for their help. What truth lies behind Erina and the deal she offers to the Phantom Thieves?  \n\nPersona 5 Tactica features an all-new story, the return of fan-favorite characters, and brand-new allies and foes. Join the group as they lead an emotional revolution in this thrilling combat adventure! \n\nAn Emotional Revolution  \nLead an uprising of the heart in a brand-new storyline that takes place in Persona’s iconic universe.  \n  \nBuild Your Dream Squad \nAssemble a team of beloved heroes to fight oppressive armies in thrilling turn-based combat.\n\nDynamic Combat \nOverthrow your enemies with powerful Personas, an assortment of weapons, and wipe them out with style!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20231117,
+    "first_update_release_date": 20231031,
+    "latest_update_release_date": 20240314,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240314
+    },
+    "versions": {
+        "65536": 20231031,
+        "131072": 20231123,
+        "196608": 20231218,
+        "262144": 20240314
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Ignite your heart— An emotional uprising begins!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

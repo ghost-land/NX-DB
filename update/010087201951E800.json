@@ -1,4 +1,35 @@
 {
     "id": "010087201951E800",
-    "version": 65536
+    "base_tid": "010087201951E000",
+    "name": "Afterthought",
+    "description": "Navigate your way through a dream-like world and overcome excessive boss fights. Finish the levels at your own pace while enjoying the wild and uncompromissing art and soundtrack. While experimenting with different playstyles and abilities you will most likely learn to speedrun the levels with ease.\n\nAfterthought is a 2D arthouse platformer and contains:\n- 56 playable levels with low skill floors but extremely high skill ceilings\n- 8 crazy boss fights\n- a profound story, that you can reflect on as an Afterthought\n- a serene and at times wild and uncompromising original soundtrack\n- a refined and complex movement system, that offers near infinite solutions\n- online leaderboards for all kinds of playstyles\n- a speedrun mode with a master timer, that lets you play all levels in a row\n- unlockable achievements, skins and special effects\n\nTry the free Demo!",
+    "publisher": "Studio Moondowner",
+    "developer": null,
+    "base_release_date": 20230228,
+    "first_update_release_date": 20230419,
+    "latest_update_release_date": 20230419,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230419
+    },
+    "versions": {
+        "65536": 20230419
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Racing",
+        "Music"
+    ],
+    "intro": "What were you thinking?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language"
+    ],
+    "region": null
 }

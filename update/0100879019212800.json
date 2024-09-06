@@ -1,4 +1,48 @@
 {
     "id": "0100879019212800",
-    "version": 65536
+    "base_tid": "0100879019212000",
+    "name": "Clunky Hero",
+    "description": "Clunky Hero is a story-driven, platformer metroidvania, with a touch of RPG, Hack’n’Slash and tons of humor. If you’d love a platformer game where you have a funny storyline, can talk with characters, solve side quests, find and buy items, change weapons and wearables, with great hand-drawn-looking backgrounds, presented in a very comical way, then Clunky Hero might be the game of your dreams!\n\nFeatures:\nNearly 50 levels set in 9 different areas\n15+ Interiors\n8 Skills: Double Jump, Dash, Dive, Cling, Range Shot, Blasting Attack, Mighty Burp and Rocket Leap\nCombine 9 different enhancement items on 3 bonus slots to boost your character's skills and abilities\nDefeat tough bosses\nHumorous dialogues and funny items/weapons\nTrade Items on various shops along the game\nVarious side quests to level up your character\nOriginal Music\n\n\nSTORYLINE\nIn a village far, far away, a dull peasant named Rufus was living an ordinary life. The boss of the house was his wife, Brunilde, a boisterously smart and funny woman that you wouldn’t exactly call “pretty”. Life was nice and happy in the village, until one day, awakened by some magical mistake, the Evil One started to spread his minions around town, performing hideous acts against the people. The worst of which was the kidnapping of Brunilde. She was torn from Rufus’ hands and put in a prison at the Evil One’s castle. Transformed into a blondie duck-faced doll girl, she now spends all her time staring at herself in a small handheld mirror.\n\nDetermined to win her back, Rufus made a helmet out of a bucket and picked a broom as a weapon. Everybody now calls him the CLUNKY HERO, but he might be the only hope to defeat the evil one that no one wants to call by name. Rufus is now on his journey to save his wife and the whole village!",
+    "publisher": "chaosmonger studio",
+    "developer": null,
+    "base_release_date": 20230125,
+    "first_update_release_date": 20230203,
+    "latest_update_release_date": 20230203,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230203
+    },
+    "versions": {
+        "65536": 20230203
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "A crazy platformer with a touch of RPG and tons of quirky but challenging things! For a world crowded with funny creatures and bizarre weapons.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

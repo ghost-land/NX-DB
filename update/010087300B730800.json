@@ -1,4 +1,40 @@
 {
     "id": "010087300B730800",
-    "version": 65536
+    "base_tid": "010087300B730000",
+    "name": "Pang Adventures",
+    "description": "The Pang series is a beloved collection of arcade games from the 90s. Guide two brothers around the world to save humankind from an alien invasion! Use your skills to overcome the attack balls pouring from the skies & rescue the world from impending annihilation!\n\nPang Adventures brings new features & gameplay while keeping true to the original spirit:\n\n● Local Co-op in every game mode!\n● 3 different modes:\nTour Mode: one location at a time!\nScore Attack: 3 lives and NO CONTINUES! The real arcade experience!\nPanic Mode: 99 levels of continuous battle! Put your skills to the ultimate test!\n\nThe Bros. have upgraded their gear since the last invasion: machine guns, flamethrowers, shurikens... you name it, they've got it! Electric, explosive, smoke & lava balls will all be deployed to knock them off their feet!\n\nBoss fights! For the 1st time, the Bros. come face-to-face with the nefarious Alien Commanders! They didn't come to Earth for the sightseeing... so get ready to blow them to smithereens!",
+    "publisher": "DotEmu",
+    "developer": null,
+    "base_release_date": 20190103,
+    "first_update_release_date": 20201105,
+    "latest_update_release_date": 20201105,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201105
+    },
+    "versions": {
+        "65536": 20201105
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": "Guide two brothers around the world to save humankind from an alien invasion! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very mild violence"
+    ],
+    "region": null
 }

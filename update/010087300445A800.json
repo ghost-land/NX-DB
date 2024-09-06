@@ -1,4 +1,42 @@
 {
     "id": "010087300445A800",
-    "version": 65536
+    "base_tid": "010087300445A000",
+    "name": "Bombslinger",
+    "description": "Wear the poncho of the Bombslinger, a ruthless bandit turned peaceful rancher on a quest to avenge the murder of his missus and destruction of his ranch at the hands of his former posse.\n\nBomb your way through hordes of enemies and master the classic bomb-slinging gameplay in a solo adventure with procedurally generated levels, character progression with skill upgrades, and a variety of offensive and defensive items.\n\nAnd when you want a break from the solo adventure, take the fight to your friends in hectic 4-player deathmatch battles!",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20180411,
+    "first_update_release_date": 20180423,
+    "latest_update_release_date": 20180423,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180423
+    },
+    "versions": {
+        "65536": 20180423
+    },
+    "category": [
+        "Fighting",
+        "Party",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "A Wild West action game filled with explosive single player action and hectic 4 player deathmatch battles!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

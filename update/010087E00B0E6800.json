@@ -1,4 +1,25 @@
 {
     "id": "010087E00B0E6800",
-    "version": 65536
+    "base_tid": "010087E00B0E6000",
+    "name": "Toki Tori 2+ Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20180926,
+    "latest_update_release_date": 20180926,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180926
+    },
+    "versions": {
+        "65536": 20180926
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

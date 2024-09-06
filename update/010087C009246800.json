@@ -1,4 +1,42 @@
 {
     "id": "010087C009246800",
-    "version": 131072
+    "base_tid": "010087C009246000",
+    "name": "Muddledash",
+    "description": "Squidge up to four players on your couch for competitive fun (party hats are mandatory!). Join your friends on a mad-as-a-squid race to the most bopping octopus party of the year and wrestle the only present out of their wriggly tentacles. Be the first to present it at the octo-party to win!\n\nRACE YOUR WAY TO THE PARTY\nWriggle, jiggle, and squiggle past your friends!\n\nCOUCH MULTIPLAYER\nUp to four players can squish up on the couch for competitive fun!\n\nBE THE BEST DRESSED GUEST\nExpress your inner pode by donning a range of delightful hats!\n\nFIGHT FOR THE PRESENT\nKick, boop, slap and jump your way to party-superiority over your friends!\n\nINFINITELY VARIED RUNS\nWith ever-changing stages each round, you'll never play the same race twice!\n\nEVERYONE'S INVITED\nSea-dwellers, land-walkers, cat-lovers and players of all ages can join this wild pode chase!",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20180710,
+    "latest_update_release_date": 20181031,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181031
+    },
+    "versions": {
+        "65536": 20180710,
+        "131072": 20181031
+    },
+    "category": [
+        "Multiplayer",
+        "Racing",
+        "Party",
+        "Arcade"
+    ],
+    "intro": "Multiplayer Octopus Party Madness",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

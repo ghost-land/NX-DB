@@ -1,4 +1,36 @@
 {
     "id": "010087D008D64800",
-    "version": 65536
+    "base_tid": "010087D008D64000",
+    "name": "BINGO for Nintendo Switch",
+    "description": "BINGO comes to Nintendo Switch™!\n4 bingo party games in one pack!\n\nBuzzer BINGO\nBuzzer BINGO is a game in which 4 players scramble for the number that appears.\n\nSlide BINGO\nSlide BINGO is a game in which you move the rows around to allign the red tiles on your card to make a row.\n\nBINGO Poker\nBINGO Poker is a game in which you try to get a BINGO using both the pre-existing red tiles and the new numbers you get.\nHowever, when you acquire a new number, you must throw away one existing number in return.\n\nClassic BINGO\nClassic BINGO is a simple game in which you take in all the numbers that appear on your card.\n\nLay flat Mode\nPlace the Nintendo Switch on a table and play head-to-head!",
+    "publisher": "STARSIGN",
+    "developer": null,
+    "base_release_date": 20180315,
+    "first_update_release_date": 20180726,
+    "latest_update_release_date": 20180726,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180726
+    },
+    "versions": {
+        "65536": 20180726
+    },
+    "category": [
+        "Puzzle",
+        "Party"
+    ],
+    "intro": "Bingo anywhere, anytime!\nBINGO for Nintendo Switch!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010087D0084A8800",
-    "version": 65536
+    "base_tid": "010087D0084A8000",
+    "name": "Hello Kitty Kruisers With Sanrio Friends",
+    "description": "The world famous and incredibly popular Hello Kitty is back and starring in an all-new 3D racing game! Join Hello Kitty and her Sanrio friends as they race on land, through air and over water. Race by yourself or with up to three of your friends. Unlock new outfits and vehicles for Hello Kitty and her Sanrio Friends, or challenge your racing skills in the all-new Adventure Mode!",
+    "publisher": "Thunderful Games",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20201218,
+    "latest_update_release_date": 20201218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201218
+    },
+    "versions": {
+        "65536": 20201218
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
