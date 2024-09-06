@@ -1,4 +1,32 @@
 {
     "id": "0100A06011A48800",
-    "version": 131072
+    "base_tid": "0100A06011A48000",
+    "name": "UNREAL LIFE",
+    "description": "After losing her memories, the girl could only remember one name—\"Miss Sakura\".\nShe set out to find Miss Sakura, aided by a talking traffic light, and by the power to read the memories of the things she touched.\n\n\"Unreal Life\" is the story of her journey.\nCompare memories of the past with the present, solve mysteries, and follow the girl and the traffic light in this atmospheric puzzle adventure game.\n\nFollow the memories, follow the path, and what you will find is...",
+    "publisher": "room6",
+    "developer": null,
+    "base_release_date": 20201119,
+    "first_update_release_date": 20201119,
+    "latest_update_release_date": 20231022,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231022
+    },
+    "versions": {
+        "65536": 20201119,
+        "131072": 20231022
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "\"And now, for today's story.\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

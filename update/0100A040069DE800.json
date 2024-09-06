@@ -1,4 +1,35 @@
 {
     "id": "0100A040069DE800",
-    "version": 65536
+    "base_tid": "0100A040069DE000",
+    "name": "Combat Core",
+    "description": "Combat Core is a 3D arena fighting game sporting a colorful mix of modern aesthetics and futuristic cyberpunk. Fighters from across the galaxy have gathered to compete in the Combat Core League!\n\nThe fighting mechanics focus on fast-paced combat, strategic use of your environment, and weapons in the arena. Fight against challenging AI or your friends, online or offline!\n\n\n- High-Powered Combat from 1v1 to 4 player battle royale or team modes\n-Physics-based environment destruction and interactive ragdolls\n-Original Characters with fun, unique movesets and strengths\n-Combat Cores can boost fighter stats and grant special attacks to fit your play style!\n-Local Multiplayer + Online Multiplayer\n-Interactive Arenas with a variety of mechanics and hazards\n-Weapon Pickups ranging from lazer swords to energy grenade launchers, with multiple attacks and uses\n-Full Character Editor to create custom fighters with different gear, stats, and skills",
+    "publisher": "MABManZ",
+    "developer": null,
+    "base_release_date": 20190110,
+    "first_update_release_date": 20190107,
+    "latest_update_release_date": 20190107,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190107
+    },
+    "versions": {
+        "65536": 20190107
+    },
+    "category": [
+        "Fighting",
+        "Multiplayer",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "High-Powered Arena Fighter",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

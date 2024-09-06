@@ -1,4 +1,41 @@
 {
     "id": "0100A08013BB6800",
-    "version": 458752
+    "base_tid": "0100A08013BB6000",
+    "name": "Crush Crush",
+    "description": "Hey hot stuff! Are you looking for a fun and flirty game to kill some time and make you laugh out loud? That’s a crazy coincidence, because it’s been looking for you too!\n\nWelcome to Crush Crush – the Idle Dating Sim! Begin your quest to win the hearts of your town's lovely ladies... after a few disastrous intros! Impress the girls by building your stats, unlocking jobs, and earning promotions. Woo them with romantic dates, thoughtful gifts, and a tickle fight or two! Work your way up from Frenemy to Lover, and unlock tons of amazing content along the way.",
+    "publisher": "Sad Panda Studios",
+    "developer": null,
+    "base_release_date": 20220127,
+    "first_update_release_date": 20220127,
+    "latest_update_release_date": 20240619,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240619
+    },
+    "versions": {
+        "65536": 20220127,
+        "196608": 20220415,
+        "262144": 20220512,
+        "327680": 20220907,
+        "393216": 20220930,
+        "458752": 20240619
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Communication",
+        "Lifestyle"
+    ],
+    "intro": "Idle Dating Sim!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Sexual Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

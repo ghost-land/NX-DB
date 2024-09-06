@@ -1,4 +1,39 @@
 {
     "id": "0100A0F00BC24800",
-    "version": 327680
+    "base_tid": "0100A0F00BC24000",
+    "name": "UNI",
+    "description": "UNI is a two-player party game containing 40 different types of mini games.\nAnd you can enjoy WeU mode, which is four-player team battle mode.\nUNI includes games from many genres adapted for a two-player game experience:\nSports, Action, Fighting, Arcade, Racing… Even RPG!\nIt’s easy to play and the rules are quite simple, making it enjoyable for all people regardless of age or gender.\n\nWith UNI, enjoy a happy and wonderful game experience together with your family, friends, and partners.",
+    "publisher": "Game Museum",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20190408,
+    "latest_update_release_date": 20210802,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210802
+    },
+    "versions": {
+        "65536": 20190408,
+        "131072": 20190614,
+        "196608": 20190730,
+        "262144": 20201105,
+        "327680": 20210802
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Two-player and Four-player games of all genres in one!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

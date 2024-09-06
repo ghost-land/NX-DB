@@ -1,4 +1,49 @@
 {
     "id": "0100A0C00D846800",
-    "version": 720896
+    "base_tid": "0100A0C00D846000",
+    "name": "Fell Seal: Arbiter's Mark",
+    "description": "Take control of the Arbiter Kyrie, an agent of the Immortal Council tasked with preserving stability and order throughout the land, and lead your troops through difficult encounters.\n\nFeatures:\n- Experience an epic and mature story, over 40 story encounters and challenging end-game content.\n- Tactical combat battles, with rugged terrain and elevation, on beautiful hand-drawn environments.\n- A deep and complex class system with over 20 classes and 200 abilities, customize every one of your characters through the selection of their class, sub-class and passives. \n- Equip your army with over 240 pieces of equipment, either purchased, gathered from fallen enemies or created from crafting.",
+    "publisher": "Fulqrum Publishing",
+    "developer": null,
+    "base_release_date": 20190814,
+    "first_update_release_date": 20191024,
+    "latest_update_release_date": 20220812,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20220812
+    },
+    "versions": {
+        "65536": 20191024,
+        "131072": 20191125,
+        "196608": 20200623,
+        "262144": 20200702,
+        "327680": 20200714,
+        "393216": 20200804,
+        "458752": 20200808,
+        "524288": 20210114,
+        "589824": 20210311,
+        "655360": 20210909,
+        "720896": 20220812
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Fell Seal: Arbiter's Mark is a story-driven, turn-based tactical RPG set in a fantasy world with a touch of steampunk.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null
 }

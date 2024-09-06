@@ -1,4 +1,37 @@
 {
     "id": "0100A070105A6800",
-    "version": 65536
+    "base_tid": "0100A070105A6000",
+    "name": "Arcade Archives GRADIUS",
+    "description": "\"GRADIUS\" is a shooting game released by KONAMI in 1985.\nPlayers control the Super Dimension fighter 'Vic Viper' and fight 'Bacterian' with the aid of devastating power-ups.\nThis shooting game is the first of a masterpiece series from KONAMI that had a major impact on later shooters.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20200714,
+    "latest_update_release_date": 20200714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200714
+    },
+    "versions": {
+        "65536": 20200714
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "OUT OF THIS WORLD PLAY ACTION!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

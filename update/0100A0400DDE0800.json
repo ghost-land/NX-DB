@@ -1,4 +1,43 @@
 {
     "id": "0100A0400DDE0800",
-    "version": 131072
+    "base_tid": "0100A0400DDE0000",
+    "name": "AER Memories of Old",
+    "description": "The gods of old are forgotten, lost in the events that shattered the world, leaving only fragments of islands in the sky. This mystic world of endless skies, colorful islands and ancient ruins is in danger of falling into darkness. As one of the last few shapeshifters, you are sent on a pilgrimage to the Land of Gods. Uncover the secrets that will help save reality itself.\n\nFly and explore by transforming into a bird at will\nA large open world of hidden secrets and new discoveries\nA pilgrimage of mysteries, puzzles and temples\nStrong focus on atmosphere and aesthetics with a vibrant minimalisitic art style",
+    "publisher": "Daedalic Entertainment",
+    "developer": null,
+    "base_release_date": 20220223,
+    "first_update_release_date": 20210305,
+    "latest_update_release_date": 20220509,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220509
+    },
+    "versions": {
+        "65536": 20210305,
+        "131072": 20220509
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Transform into a bird and fly to explore and experience a vibrant world of floating islands in the sky",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

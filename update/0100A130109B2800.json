@@ -1,4 +1,40 @@
 {
     "id": "0100A130109B2800",
-    "version": 196608
+    "base_tid": "0100A130109B2000",
+    "name": "Summer in Mara",
+    "description": "Take care of your own island and explore the ocean in this farming adventure. 'Summer in Mara' mix farming, crafting and exploring mechanics in a tropical archipelago with a colorful style and strong narrative.\n\n‘Summer in Mara’ is a single-player experience in a calm, relaxing environment, with a handmade look and an exciting narrative. You will be Koa, a little adventurer girl who has to explore the world and discover the secrets that the ocean keeps. \n\n- An open ocean with over 20 islands to explore. \n\n- Customize your own island with buildings, crops and farm animals.\n\n- Over 25 characters to meet and befriend. \n\n- More than 300 quests to make Mara a better place. \n\n- Day and night cycle that have an effect on the world with climatic events.",
+    "publisher": "CHIBIG",
+    "developer": null,
+    "base_release_date": 20211104,
+    "first_update_release_date": 20200701,
+    "latest_update_release_date": 20201130,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201130
+    },
+    "versions": {
+        "65536": 20200701,
+        "131072": 20200715,
+        "196608": 20201130
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Take care of your own island and explore the ocean in this farming adventure! Discover the story of Koa, with farming, crafting and exploring mechanics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

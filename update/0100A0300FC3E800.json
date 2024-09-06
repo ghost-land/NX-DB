@@ -1,4 +1,35 @@
 {
     "id": "0100A0300FC3E800",
-    "version": 65536
+    "base_tid": "0100A0300FC3E000",
+    "name": "Perseverance",
+    "description": "You play as Jack Cutter, a father who is struggling to keep his family together. He’s a ‘go-to’ guy in his hometown of Grey Ville. Research conducted in the nearby military base gives the town a mysterious aura. Residents prefer to stay away from it. Things take an unexpected turn when one of the experiments goes horribly wrong and the area is quarantined.\n\nMeanwhile a mysterious woman chases a fugitive. Her superiors expect her to fulfill her orders as usual... but they aren't telling her everything. The person she’s after is more than what she appears to be.\n\nSoon both Jack and this mysterious agent will find themselves in the middle of a crisis that will change them forever.\n\nMain features:\n\n* PLAY At your own pace\n* IMMERSE yourself in a gripping story\n* CHOOSE and create your own version of Jack",
+    "publisher": "Titanite Games",
+    "developer": null,
+    "base_release_date": 20191101,
+    "first_update_release_date": 20191129,
+    "latest_update_release_date": 20191129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191129
+    },
+    "versions": {
+        "65536": 20191129
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "A horror and drama-filled story revolving around two different characters whose paths cross in the middle of nightmarish events.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

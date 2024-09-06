@@ -1,4 +1,37 @@
 {
     "id": "0100A0D019DD8800",
-    "version": 65536
+    "base_tid": "0100A0D019DD8000",
+    "name": "Dr Smart Space Adventure",
+    "description": "A SPACE ADVENTURE!\n\nLearn about stars, moons and planets. Visit all the major planets or some less known locations such as the egg shaped dwarf planet Haumea.\n\nBECOME A SPLENDID ASTRONOMER! \n\nEnjoy rediscovering famous constellations, huge gas giants, our very own star or our home planet. Your story begins now!",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230217,
+    "first_update_release_date": 20240605,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20240605
+    },
+    "category": [
+        "Education",
+        "Study",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Set out on an epic adventure through the Solar System. A journey of a lifetime alongside Dr Smart, and his reliable Cosmic Encyclopedia.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

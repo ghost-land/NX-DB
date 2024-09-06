@@ -1,4 +1,39 @@
 {
     "id": "0100A0E014C6C800",
-    "version": 196608
+    "base_tid": "0100A0E014C6C000",
+    "name": "My universe - Puppies & Kittens",
+    "description": "Adopt a new companion!\n\nKitten, puppy or even both. Your new companions are waiting for you to take them home and give them love. Help them grow by taking care of them daily and educate them properly so they will become well behaved cubs. Do not forget to give them lots of cuddles and play with them often. Each animal is unique and has its own personality and preferences so listen to your animal and their needs and they will give it back to you by becoming the most loyal friend. \n\nTake your puppy out\n\n Meet other pets while walking your animal so they can make four-legged friends to play with and get advices from other owners to raise your puppy well.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20211029,
+    "first_update_release_date": 20211022,
+    "latest_update_release_date": 20220303,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220303
+    },
+    "versions": {
+        "65536": 20211022,
+        "131072": 20211207,
+        "196608": 20220303
+    },
+    "category": [
+        "Simulation",
+        "Education"
+    ],
+    "intro": "Raise and cuddle your puppy or kitten, like real ones",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

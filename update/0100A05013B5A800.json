@@ -1,4 +1,41 @@
 {
     "id": "0100A05013B5A800",
-    "version": 65536
+    "base_tid": "0100A05013B5A000",
+    "name": "PING REDUX",
+    "description": "PING REDUX™ is a challenging ping pong puzzle game, remade from its older sibling PING 1.5+™. It's not for the weak at heart. Bounce off the walls and obstacles and reach the succulent tasty orange. It boasts an excellent techno soundtrack that's so good, it'll stay in your brain for days. \n\nPING REDUX has 100+ levels including 12 bosses that are inspired by classic games to help keep the gameplay varied. With bombs, lava, moving hazards, and other sorts of blocks to get in your way, do you think you can beat it?",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20240201,
+    "first_update_release_date": 20210513,
+    "latest_update_release_date": 20210513,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210513
+    },
+    "versions": {
+        "65536": 20210513
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "PING REDUX has 100+ levels including 12 bosses that are inspired by classic games to help keep the gameplay varied.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100A0600C610800",
-    "version": 65536
+    "base_tid": "0100A0600C610000",
+    "name": "SEGA AGES Columns II: A Voyage Through Time",
+    "description": "The classic puzzle game Columns II returns in SEGA AGES for Nintendo Switch™.\n\nMatch jewels, fossils, and disks as you jump through time! Control the falling pieces and aim for three-in-a-row to clear the screen before they stack to the top! Switch between multiple game modes, like Flash Columns where you target flashing jewels and unlock secret Jewel Case characters, or Versus Columns where you challenge your friends. Want to level up your game? Challenge online mode to encounter players from all over the world! \n\nSEGA AGES Columns II brings back its fun and exciting puzzle gameplay in its beloved retro form for both old and new fans alike.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20191018,
+    "first_update_release_date": 20191126,
+    "latest_update_release_date": 20191126,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191126
+    },
+    "versions": {
+        "65536": 20191126
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Match jewels, fossils, and disks as you jump through time! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

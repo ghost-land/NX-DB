@@ -1,4 +1,34 @@
 {
     "id": "0100A0D01A118800",
-    "version": 65536
+    "base_tid": "0100A0D01A118000",
+    "name": "MLB® The Show™ 23 Tech Test",
+    "description": "This Tech Test is intended to help gameplay experience for MLB The Show 23. We appreciate your support/feedback to help make our game better. Please note: this will be a limited Diamond Dynasty experience and by no means representative of the final product. Learn more at theshow.com/techtest.",
+    "publisher": "MLBAM",
+    "developer": null,
+    "base_release_date": 20230215,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230217
+    },
+    "versions": {
+        "65536": 20230217
+    },
+    "category": [
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "Shock The Game. Own The Show.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "No Descriptors",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

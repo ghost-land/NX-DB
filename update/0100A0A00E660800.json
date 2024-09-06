@@ -1,4 +1,54 @@
 {
     "id": "0100A0A00E660800",
-    "version": 1048576
+    "base_tid": "0100A0A00E660000",
+    "name": "Blackmoor 2",
+    "description": "Experience a platformer with genre defining beat-em-up combat based on classics from the 90s. Journey through the world via story mode or traverse player made dungeons with up to 4 players co-operative play! Or if you wish, challenge your friends to an old school style street fight in the VS mode!\n\nWhether it be bone dragons or masked owls, giant lobsters or fallen kings, taverns or castles… it’s a fantasy world that is like no other.\n\n• STORY mode with twists and turns, no filler, meaningful enemies and bosses full of character.\n\n• HEROES with individual stories, levels and abilities to power up.\n\n• BUILD with our user-generated dungeon builder.  Build your own challenges and share them with ease.\n\n• MULTIPLAYER co-op in real time with up to 4 players.\n\n• PVP challenge other players OR challenge a series of CPU warriors.",
+    "publisher": "Four Fats",
+    "developer": null,
+    "base_release_date": 20200106,
+    "first_update_release_date": 20191216,
+    "latest_update_release_date": 20230225,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20230225
+    },
+    "versions": {
+        "65536": 20191216,
+        "131072": 20200106,
+        "196608": 20200110,
+        "262144": 20200310,
+        "327680": 20200522,
+        "393216": 20201004,
+        "458752": 20201024,
+        "524288": 20201112,
+        "589824": 20210125,
+        "655360": 20210208,
+        "720896": 20210609,
+        "786432": 20210629,
+        "851968": 20210805,
+        "917504": 20220512,
+        "983040": 20230117,
+        "1048576": 20230225
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Battle Solo or CO-OP with Friends! Fists, Swords, Magic and Bears. Finish the Quest.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes",
+        "Sexualised Imagery",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
