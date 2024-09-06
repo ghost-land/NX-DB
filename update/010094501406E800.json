@@ -1,4 +1,31 @@
 {
     "id": "010094501406E800",
-    "version": 65536
+    "base_tid": "010094501406E000",
+    "name": "Sokodice",
+    "description": "Sokodice is a puzzle game where you must navigate dice through mind boggling levels to match the number of the dice with the number on a designated tile.\n\nFeatures:\n-100+ levels across 11 unique worlds\n-Unique dice with different abilities\n-Various environmental challenges\n-Relaxing atmosphere\n-Gorgeous soundtrack",
+    "publisher": "The Socially Awkward Studio",
+    "developer": null,
+    "base_release_date": 20210312,
+    "first_update_release_date": 20210429,
+    "latest_update_release_date": 20210429,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210429
+    },
+    "versions": {
+        "65536": 20210429
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "A puzzle game where you roll dice to match numbers",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

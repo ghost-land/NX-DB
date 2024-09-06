@@ -1,4 +1,47 @@
 {
     "id": "0100944003820800",
-    "version": 917504
+    "base_tid": "0100944003820000",
+    "name": "Fantasy Strike",
+    "description": "Fantasy Strike is a colorful fighting game where fantasy meets martial arts. It focuses on depth and strategy rather than difficult execution. It's designed for tournament play, but also to welcome you to the genre if you haven't played other fighting games before. Online play uses the excellent GGPO networking technology. Includes several single player modes.",
+    "publisher": "Sirlin Games",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20190712,
+    "latest_update_release_date": 20210706,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20210706
+    },
+    "versions": {
+        "131072": 20190712,
+        "196608": 20190724,
+        "262144": 20190731,
+        "327680": 20190827,
+        "393216": 20190913,
+        "458752": 20190927,
+        "524288": 20191211,
+        "589824": 20200804,
+        "655360": 20200810,
+        "720896": 20200910,
+        "786432": 20201015,
+        "851968": 20201125,
+        "917504": 20210706
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "David Sirlin's Reboot of the Fighting Game Genre",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

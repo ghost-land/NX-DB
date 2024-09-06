@@ -1,4 +1,47 @@
 {
     "id": "01009380114E0800",
-    "version": 196608
+    "base_tid": "01009380114E0000",
+    "name": "Breakpoint",
+    "description": "We mixed elements from classic arcade games with modern sensibilities to bring you Breakpoint: a challenging top-down score chaser featuring melee weapons that explode. \n\nIn a twist on the twin-stick formula, you have no ranged attack. Instead, slice, crush, and blast your way through the swarm. Push your weapons to their breakpoint to unleash a devastating explosion on your enemies. Break, charge, and break your weapons again as you fight to stay alive.\n\nFeatures:\n• Master the challenges of a single, focused game mode.\n• Wield five distinct melee weapons, each with three levels of upgrades.\n• Break your weapons, annihilating everything in the blast zone.\n• Dodge through swarms of twelve different enemies.\n• Compete with your friends for score, or reach for the top of the global leaderboard.\n• Watch the best run of anyone in the world through the replay system.\n\n",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20200924,
+    "latest_update_release_date": 20201106,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201106
+    },
+    "versions": {
+        "65536": 20200924,
+        "131072": 20201014,
+        "196608": 20201106
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Strategy"
+    ],
+    "intro": "Charge. Break. Defeat. Repeat.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

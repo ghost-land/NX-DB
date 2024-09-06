@@ -1,4 +1,39 @@
 {
     "id": "0100932004208800",
-    "version": 131072
+    "base_tid": "0100932004208000",
+    "name": "Let's Sing 2018 Hits Français et Internationaux",
+    "description": "Bring deine Stimmbänder in Schwung, begib dich auf die virtuelle Bühne und erlebe das beste Let’s Sing aller Zeiten!\n• Exklusive Songauswahl: 40 der besten Charthits inklusive\nLouane - Maman\nKendji Girac - Conmigo\nKids United - L'Oiseau Et L'Enfant\nVianney - Je M'En Vais\nSoprano - En Feu\nCharlie Puth - Attention\nQueen – We Are the Champions\n...und vielen mehr. \n• Neue motivierende Spielelemente: Verbessere deinen Highscore, sammle Avatare und schalte Musikzertifikate frei!\n• Vier herausfordernde Spielmodi: Tritt in diversen Modi, wie dem brandneuen Mix-Tape-Modus, gegen deine Freunde an! ",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20171128,
+    "latest_update_release_date": 20171227,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171227
+    },
+    "versions": {
+        "65536": 20171128,
+        "131072": 20171227
+    },
+    "category": [
+        "Musik",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Bad Language",
+        "Sex",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010093A0117A0800",
-    "version": 262144
+    "base_tid": "010093A0117A0000",
+    "name": "Slice of Life",
+    "description": "Experience a twisting narrative filled with interesting friends and foes. Slice of Life features fast-paced arcade-style tennis action, a deep perk-based customization system and many\ncharacter driven storylines and social links. With tons of Sub-Games and several local multiplayer modes, you'll have a packed semester at Rosegate University.",
+    "publisher": "Smallrave Entertainment",
+    "developer": null,
+    "base_release_date": 20211008,
+    "first_update_release_date": 20211011,
+    "latest_update_release_date": 20211129,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211129
+    },
+    "versions": {
+        "65536": 20211011,
+        "131072": 20211015,
+        "196608": 20211029,
+        "262144": 20211129
+    },
+    "category": [
+        "RPG",
+        "Sports",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "What Will We Do Today? Step into the shoes of Drake Lacasse as he starts a new life at Rosegate University. Battle on the court and search for answers to your past.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Drug Reference",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "01009440095FE800",
-    "version": 262144
+    "base_tid": "01009440095FE000",
+    "name": "Pode",
+    "description": "Pode is a co-op puzzle exploration game about a rock and a fallen star working together to solve ancient puzzles in a stunning environment inspired by Norwegian art and culture.\nKey Features:\nExploration. Discover a beautiful and ancient cave system and uncover its secrets to reach your goal.\nPuzzles. Solve puzzles, riddles and mysteries. Combine the two character’s special abilities to overcome obstacles.\nCo-op or single player. Share the experience with a friend, or enjoy playing it by yourself.\nUnique art style. Enjoy a world inspired by Norwegian art and nature",
+    "publisher": "Henchman&Goon",
+    "developer": null,
+    "base_release_date": 20180621,
+    "first_update_release_date": 20180625,
+    "latest_update_release_date": 20201016,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201016
+    },
+    "versions": {
+        "65536": 20180625,
+        "131072": 20180710,
+        "196608": 20180905,
+        "262144": 20201016
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

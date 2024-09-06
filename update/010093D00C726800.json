@@ -1,4 +1,43 @@
 {
     "id": "010093D00C726800",
-    "version": 131072
+    "base_tid": "010093D00C726000",
+    "name": "Downwell",
+    "description": "Make your way further and further down into the darkness filled with nasty creatures and mysterious secrets to collect the spectacular red gems scattered about the rocks. Step into precariously placed shops and buy some helpful items or level up between levels to battle well-dwelling monsters and uncover hidden caves filled with riches and relics. No two trips down the well are ever the same!\n\nFeatures:\n\nThe Amazing Gunboots - The fashionable and lethal Gunboots allow players to unleash a torrent of firepower on the nasty creatures dwelling in the well and slow your decent with each shot. \n\nUnique Weapons & Items - Get different weapons, shop for peculiar items and obtain powerful upgrades that all stack and affect the way you play!\n\nA New Adventure Every Time - Each level in Downwell is procedurally generated, so no two trips down the well are ever the same providing a fresh new adventure each time!\n\n",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20190507,
+    "latest_update_release_date": 20190521,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190521
+    },
+    "versions": {
+        "65536": 20190507,
+        "131072": 20190521
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Downwell is a curious game about a young person venturing down a well in search of untold treasures with only his Gunboots for protection. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

@@ -1,4 +1,30 @@
 {
     "id": "010093500E24C800",
-    "version": 65536
+    "base_tid": "010093500E24C000",
+    "name": "Little Bit War (リトルビットウォー)",
+    "description": "｢建設｣と｢特殊能力｣で全ての街を占領せよ！\n\n兵舎や工場を建設すれば、歩兵や戦車が現れて敵国に進軍！\n塔や要塞を建設すれば、やってきた敵を自動迎撃！\nマップに建物を配置するだけの簡単操作だ。\n\n建設をおこなう軍資金は時間で増加。\n敵の街を占領すれば収入アップ。\n全て占領すればステージクリアで、特殊能力ゲットだ！\n\n爆弾、修理、隕石、ミサイル、スパイ、博士、\n怪獣召喚、建物の強化etc.　特殊能力は50以上！\n\nやり込み系 高速RTSの登場だ。 ",
+    "publisher": "メディアスケープ",
+    "developer": null,
+    "base_release_date": 20191205,
+    "first_update_release_date": 20200123,
+    "latest_update_release_date": 20200123,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200123
+    },
+    "versions": {
+        "65536": 20200123
+    },
+    "category": [
+        "ストラテジー",
+        "シミュレーション"
+    ],
+    "intro": "1ステージ5～10分で遊べる高速RTS！\n部隊を大量生産して敵を圧倒しろ！ ",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

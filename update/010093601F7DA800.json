@@ -1,4 +1,34 @@
 {
     "id": "010093601F7DA800",
-    "version": 65536
+    "base_tid": "010093601F7DA000",
+    "name": "Cyborg Force",
+    "description": "As a member of mankind’s most top-elite military corps, your mission is to save the universe, no less. Cyborg Force is a classic arcade run'n'gun that will give you a healthy dose of shooting, platforming and score hunting. Good luck, soldier!",
+    "publisher": "NEO BYTE FORCE",
+    "developer": null,
+    "base_release_date": 20240903,
+    "first_update_release_date": 20240901,
+    "latest_update_release_date": 20240901,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240901
+    },
+    "versions": {
+        "65536": 20240901
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "When the Universe is in danger and nukes just don't cut it...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

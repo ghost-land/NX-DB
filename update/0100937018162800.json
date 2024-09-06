@@ -1,4 +1,32 @@
 {
     "id": "0100937018162800",
-    "version": 65536
+    "base_tid": "0100937018162000",
+    "name": "Galagi Shooter",
+    "description": "Galagi Shooter is based on the old school arcade hit space defender game, probably one of the best game ever made.\n\nHighly playable, action-packed, this game include many aliens waves to defeat and power ups to collect.\n\nEither you played this game before and will enjoy pure fun tinted of nostalgia, either you will discover why retro gaming is so cool.\n\nGet Ready!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20220422,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220427,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220427
+    },
+    "versions": {
+        "65536": 20220427
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

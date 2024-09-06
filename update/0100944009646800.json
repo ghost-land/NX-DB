@@ -1,4 +1,40 @@
 {
     "id": "0100944009646800",
-    "version": 65536
+    "base_tid": "0100944009646000",
+    "name": "Arena of Valor",
+    "description": "Arena of Valor",
+    "publisher": "Tencent Games",
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20180626,
+    "latest_update_release_date": 20180626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180626
+    },
+    "versions": {
+        "65536": 20180626
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Shares Location",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }
