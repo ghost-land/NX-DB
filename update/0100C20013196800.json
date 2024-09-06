@@ -1,4 +1,44 @@
 {
     "id": "0100C20013196800",
-    "version": 131072
+    "base_tid": "0100C20013196000",
+    "name": "OctaFight",
+    "description": "OctaFight is an explosive combat game. A tribute to good old couch multiplayer titles, offering intense and devastating versus matches.\n\nCreate your own fighting rules, from fairly competitive to deliciously chaotic, compose with various bomb types, crazy game modes and momentous arenas.\n\nWith his amazing overpixelated Art, OctaFight declare his love to minimalism and refined design, and explore the promises of the ultra-low definition!\n\nFeatures :\n- Simple controls and deep gameplay\n- From 2 to 8 players in a same couch\n- Create your own fighting rules\n- Overpixelated Art",
+    "publisher": "Pixel Almost Perfect",
+    "developer": null,
+    "base_release_date": 20220121,
+    "first_update_release_date": 20201202,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20201202,
+        "131072": 20230621
+    },
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Move, jump, shield, throw and trigger your bomb on time to be the last in one piece!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

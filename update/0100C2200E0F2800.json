@@ -1,4 +1,40 @@
 {
     "id": "0100C2200E0F2800",
-    "version": 131072
+    "base_tid": "0100C2200E0F2000",
+    "name": "Drift Zone Arcade",
+    "description": "Take part in two types of competition and win high cash prizes and reputation points needed to climb up the career ladder. Buy new cars, upgrade them and drive the wheels off them in diverse tracks. ",
+    "publisher": "Plot Twist",
+    "developer": null,
+    "base_release_date": 20200403,
+    "first_update_release_date": 20200331,
+    "latest_update_release_date": 20200429,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200429
+    },
+    "versions": {
+        "65536": 20200331,
+        "131072": 20200429
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Welcome to the world of drifting! The smell of burned rubber, the roar of 500 bhp engines and the style you have never seen before are waiting for you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

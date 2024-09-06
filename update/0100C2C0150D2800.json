@@ -1,4 +1,35 @@
 {
     "id": "0100C2C0150D2800",
-    "version": 65536
+    "base_tid": "0100C2C0150D2000",
+    "name": "Space Haters",
+    "description": "You play as Photon who, after another sell-out gig, has once again asserted his galactic lyrical dominance. He gets word his friend Gamma-Boi is organizing the ultimate after-party in his honor. However, it is not going to be easy to reach. The other musical artists want a shot at the top and will do anything to get there. However, to Photon, they are just Haters. Space Haters. It is up to Photon to blast through the so-called \"Monarchs of Music\" and reach the afterparty of the light-year, and of course, look good whilst doing it",
+    "publisher": "Beehive Games",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20230322,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20230322
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "intro": "Space Haters is a tough-as-nails vertical shoot 'em up featuring classic arcade-style gameplay and set in the ruthless world of intergalactic music.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

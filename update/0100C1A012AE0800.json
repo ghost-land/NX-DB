@@ -1,4 +1,34 @@
 {
     "id": "0100C1A012AE0800",
-    "version": 65536
+    "base_tid": "0100C1A012AE0000",
+    "name": "Futoshiki Math",
+    "description": "> 90 puzzles both for beginners and pro's\n> Beautiful background art\n> Light and dark color themes\n\nFutoshiki Math is played on a square grid. The objective is to place the numbers such that each row and column contains only one of each digit. Some digits may be given at the start. Inequality constraints are initially specified between some of the squares, such that one must be higher or lower than its neighbor. These constraints must be honored in order to complete the puzzle. \n\n",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20201205,
+    "first_update_release_date": 20210305,
+    "latest_update_release_date": 20210305,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210305
+    },
+    "versions": {
+        "65536": 20210305
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Study"
+    ],
+    "intro": "Sudoku + a little bit of math = Futoshiki. Try it!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

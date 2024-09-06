@@ -1,4 +1,37 @@
 {
     "id": "0100C1B01872A800",
-    "version": 131072
+    "base_tid": "0100C1B01872A000",
+    "name": "Terraformers",
+    "description": "EXPLORE THE RED PLANET\n\n- Send your leaders to mysterious locations and uncover rich resource depots, giant crystal caves and stunning natural wonders.\n- Found new cities on craters and in lava Tubes. Make them thrive and meet your population's rising demands.\n- As the planet is procedurally generated, every new playthrough will be unique.\n\nTERRAFORM WITH AMBITIOUS PROJECTS\n\n- Restart a volcano, construct giant space mirrors or nuke the poles to geo-engineer the entire planet.\n- From spreading adaptive bacteria, to planting full-grown forests with bears. Each life form has specific requirements and provides strategic benefits.",
+    "publisher": "Goblinz Studio",
+    "developer": null,
+    "base_release_date": 20231121,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240328
+    },
+    "versions": {
+        "131072": 20240328
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Terraform Mars in this turn-based colony builder and resource management game with roguelike elements.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

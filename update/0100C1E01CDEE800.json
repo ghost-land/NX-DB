@@ -1,4 +1,39 @@
 {
     "id": "0100C1E01CDEE800",
-    "version": 196608
+    "base_tid": "0100C1E01CDEE000",
+    "name": "Raccoo Venture",
+    "description": "Defeat different enemies and challenges in this spiritual successor to the 3D platform genre. Find new ways to customize the hero, and discover new friends who will help you on your journey to retrieve the holy relics.\n\nDiscover your true destiny through a world full of magic and secret items. Save the harmony of the world and prevent chaos from returning to the land of Verta. But for that, many puzzles and the most unusual enemies will cross your path.\n\nResources:\n- Collect memorable Special Costumes that will give new looks and customize our esteemed hero.\n- Find the answers to the mysteries on your way, expanding new horizons in this magical land.\n- Simple gameplay\n- Stylized graphic with excellent animations\n- Numerous puzzles and secrets across maps.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20231214,
+    "first_update_release_date": 20231212,
+    "latest_update_release_date": 20240221,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240221
+    },
+    "versions": {
+        "65536": 20231212,
+        "131072": 20240112,
+        "196608": 20240221
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Other"
+    ],
+    "intro": "Raccoo Venture is a 3D platformer that brings the nostalgia of the 90s into a playful, puzzle-filled world inspired by the great classics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

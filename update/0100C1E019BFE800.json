@@ -1,4 +1,36 @@
 {
     "id": "0100C1E019BFE800",
-    "version": 327680
+    "base_tid": "0100C1E019BFE000",
+    "name": "Cavity Busters",
+    "description": "Take control of Gummy The Soft, whose fall from The Great Gob was far and hard. Chomp your way through tough as teeth enemies and face the dreaded Pearly Knights, a true test of your enam-mettle. Collect upgrades AND diseases to enhance your agility and control over your one and only tooth. Brush and floss daily.\n\nFeatures:\n- 280 upgrades to aid or hinder your run. Take a diseased upgrade and risk being able to cure the disease to keep only the positive effects\n- Boss fights with multiple phases and attacks to keep you on your gums\n- Hundreds of handcrafted rooms and a new body to explore every time you die\n- Challenging rewarding skill based combat. No permanent stat upgrades\n- Slow motion\n- Accessibility options",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230417,
+    "latest_update_release_date": 20240202,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240202
+    },
+    "versions": {
+        "131072": 20230417,
+        "196608": 20230421,
+        "262144": 20230508,
+        "327680": 20240202
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Cavity Busters is a roguelite toothpunk bullet hell",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

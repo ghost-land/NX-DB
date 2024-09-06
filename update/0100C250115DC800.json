@@ -1,4 +1,50 @@
 {
     "id": "0100C250115DC800",
-    "version": 589824
+    "base_tid": "0100C250115DC000",
+    "name": "PICROSS S4",
+    "description": "This is the 4th Picross S Series on the Nintendo Switch™!\nThere are brand new puzzles for you to enjoy in all four familiar game modes: Picross, Mega Picross, Color Picross, and Clip Picross.\nWe've also added bonus Extra puzzles which are dedicated for Picross S series veterans! There are two 30x30 large Picross puzzles for you to solve. Link the play data from Picross S, Picross S2, and Picross S3 to unlock an even larger 40x30 Picross puzzle for each series played, up to a maximum of three. There are a total of 300 Picross and Mega Picross puzzles, 150 Clip Picross piece puzzles, 30 Color Picross puzzles, and 5 Extra puzzles, a grand total of 485 puzzles!\n\nPicross is a picture crossword puzzle game where you follow hint number to complete a picture.\nWith simple, easy-to-follow rules, it's a game anyone can play!",
+    "publisher": "JUPITER",
+    "developer": null,
+    "base_release_date": 20200423,
+    "first_update_release_date": 20201118,
+    "latest_update_release_date": 20221031,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20221031
+    },
+    "versions": {
+        "65536": 20201118,
+        "131072": 20210414,
+        "262144": 20210609,
+        "327680": 20211020,
+        "393216": 20211027,
+        "458752": 20220309,
+        "524288": 20220928,
+        "589824": 20221031
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Multiplayer",
+        "Education"
+    ],
+    "intro": "The highest number of puzzles in the Picross S series with a total of 485 in all! Included with a bonus content, Extra, featuring large Picross puzzles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

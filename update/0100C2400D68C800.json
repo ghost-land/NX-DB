@@ -1,4 +1,37 @@
 {
     "id": "0100C2400D68C800",
-    "version": 196608
+    "base_tid": "0100C2400D68C000",
+    "name": "SeaBed",
+    "description": "SeaBed is a critically acclaimed yuri-themed mystery visual novel told through the perspectives of three separate characters: Mizuno Sachiko, a designer plagued by hallucinations of her past lover; Narasaki Hibiki, Sachiko's friend and a psychiatrist researching the workings of human memories; and Takako, Sachiko's former lover who has been rapidly forgetting her past, including how or why the two women drifted apart despite being together since childhood.\n\nAll three live in different worlds, but seek the same goal. To separate truth from illusion. To make sense of their own lives.\n\nThe Nintendo Switch™ version of SeaBed features two new, never before seen scenes.",
+    "publisher": "Fruitbat Factory",
+    "developer": null,
+    "base_release_date": 20200320,
+    "first_update_release_date": 20200303,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210927
+    },
+    "versions": {
+        "131072": 20200303,
+        "196608": 20210927
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "SeaBed brings you a compelling story of psychological mystery - dive in to the deep end now!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Sexualised Imagery",
+        "Sexual References"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100C250178BA800",
-    "version": 65536
+    "base_tid": "0100C250178BA000",
+    "name": "amazin' George 2",
+    "description": "BEAUTIFUL GRAPHICS\namazin' George 2 combines the industry standard in 3D video game development to bring to you a fun, easy to play JRPG, featuring George and Binky, a feline duo that are tasked with saving the human master from King Rattie and his evil plot against the world of Felina,\nTURN BASED COMBAT\namazin' George 2 adds Turn based battles as a new game mechanic.\n\nA BIG WORLD\nThe world of Felina, the world of cat dreams is a big one and will take hours of enjoyable turn based RPG gameplay to explore.\nROLE-PLAYING AT ITS FINEST\nA mixture of familiar RPG elements, featuring dozens of locations to explore, diverse 3D characters with cute animation and secrets to find\n\nA POETIC STORY\n-A charming story with rhymes!",
+    "publisher": "SPACEFARER GAMES",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20220309,
+    "latest_update_release_date": 20220309,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220309
+    },
+    "versions": {
+        "65536": 20220309
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "amazin' George 2 is a colourful, stunning 3D HD JRPG Style, turn based RPG featuring the Spacefarer cat, George. Help him rescue his Master from King Rattie and restore the dreamworld.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

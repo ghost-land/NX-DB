@@ -1,4 +1,38 @@
 {
     "id": "0100C2B013B70800",
-    "version": 131072
+    "base_tid": "0100C2B013B70000",
+    "name": "Kosmokrats",
+    "description": "Pilot your drone. Make new friends. Construct a utopia. Drink vodka. Build a mighty space fleet. Earn Potatoes. Shape your own narrative. Humanity's fate depends on you, Comrade!",
+    "publisher": "Modern Wolf",
+    "developer": null,
+    "base_release_date": 20210326,
+    "first_update_release_date": 20210325,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20210325,
+        "131072": 20210428
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Kosmokrats is the people's zero-gravity, comedy adventure game! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

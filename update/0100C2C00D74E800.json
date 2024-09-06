@@ -1,4 +1,48 @@
 {
     "id": "0100C2C00D74E800",
-    "version": 262144
+    "base_tid": "0100C2C00D74E000",
+    "name": "West of Dead",
+    "description": "Purgatory, Wyoming, 1888.\nA place of gun smoke and darkness, sin and damnation, wendigos and witches. A shifting, chaotic world that takes its form from the memories, culture or beliefs of the souls who pass through. When a dead man awakens with only the memory of a figure in black, he sets into motion a chain of events that have truly mythic consequences.\n\nStep into the boots of the dead man William Mason (voiced by Ron Perlman) and descend into the grim and gritty world of Purgatory in this fast-paced cover shooter which combines the fluidity of twin-stick controls and tactical cover usage. Put your skills to the test - Dodge behind cover as you try to outgun your enemies in the unknown procedurally generated hunting grounds. The Wild West has never been this dark. ",
+    "publisher": "Raw Fury",
+    "developer": null,
+    "base_release_date": 20230530,
+    "first_update_release_date": 20200918,
+    "latest_update_release_date": 20210629,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210629
+    },
+    "versions": {
+        "65536": 20200918,
+        "131072": 20201120,
+        "196608": 20210212,
+        "262144": 20210629
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Welcome to Purgatory! Dodge for cover and outgun your enemies. The Wild West has never been this dark.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

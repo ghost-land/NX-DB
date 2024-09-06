@@ -1,4 +1,33 @@
 {
     "id": "0100C19015F0C800",
-    "version": 65536
+    "base_tid": "0100C19015F0C000",
+    "name": "One Last Memory",
+    "description": "One Last Memory is an emotional story driven exploration game about an old man who re-discovers his own past and lost memories on his journey through the beauty of nature. It is an adventure filled with joy, sadness and breathtaking locations and environments that are waiting to be discovered.\n\nWhat should expect to find in the game?\n- A heart-breaking story  \n- A Journey through all 4 seasons \n- A ton of secret locations that only a careful explorer will discover\n- An exciting boat ride \n- A maze build out of elevators \n- Giant toys and other surreal references to the story that show the way \n- Watch towers that help with the orientation \n- A wonderful underground cave system full of surprises and little environmental riddles\n- A couple of small key challenges that need to be completed in order to progress\n- A hidden pirate bay\n- A story filled with twists and emotions\n- Many more… ",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20211104,
+    "first_update_release_date": 20211125,
+    "latest_update_release_date": 20211125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211125
+    },
+    "versions": {
+        "65536": 20211125
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "Jump into this emotional adventure and dicovere the fading memories of an old man.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "0100C20012A54800",
-    "version": 262144
+    "base_tid": "0100C20012A54000",
+    "name": "Nevaeh",
+    "description": "Darkness looms over a bright and peaceful town as street lights begin to go out one by one.\nTo bring back the light, a girl heads to the Tower from which the light came.\n\nHidden in the Tower was a glowing butterfly.\nThinking its light could help the town, the girl takes the butterfly with her.\n...But what she found was the town entirely covered in darkness.\nThe girl heads to the Tower once again to find a way to save the town.\n\nWith the light gone, the Tower turned into a place full of lethal traps and monsters lurking in the dark.\n\nVenture forth with the glowing butterfly.\nIt is up to you to drive out the dark and save the townspeople!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20200917,
+    "first_update_release_date": 20200910,
+    "latest_update_release_date": 20201028,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201028
+    },
+    "versions": {
+        "65536": 20200910,
+        "131072": 20201005,
+        "196608": 20201016,
+        "262144": 20201028
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Arcade"
+    ],
+    "intro": "A girl's journey to bring back the light",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
+    "region": null
 }
