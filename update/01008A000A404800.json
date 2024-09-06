@@ -1,4 +1,31 @@
 {
     "id": "01008A000A404800",
-    "version": 65536
+    "base_tid": "01008A000A404000",
+    "name": "The Lost Child",
+    "description": "The Lost Child is an RPG set in modern Japan. Hayato Ibuki, an occult journalist, is thrust into the middle of a conflict between angels, demons, and fallen angels. Now, he must capture defeated foes and turn them into valuable allies.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180706,
+    "first_update_release_date": 20180808,
+    "latest_update_release_date": 20180808,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180808
+    },
+    "versions": {
+        "65536": 20180808
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Heavenly and demonic forces wage a covert war beyond human perception, and you're the newest combatant!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual references"
+    ],
+    "region": null
 }

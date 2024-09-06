@@ -1,4 +1,57 @@
 {
     "id": "01008AD00BE3E800",
-    "version": 983040
+    "base_tid": "01008AD00BE3E000",
+    "name": "Cluedo: Classic Edition",
+    "description": "You’re invited to an exclusive party! Play this award winning adaptation of the beloved classic mystery board game.  Join your friends and family, become iconic characters, and enter the Mansion! Soon after you arrive the host’s body is discovered at the bottom of the stairs. The house is on lockdown until the puzzle is solved and the criminal is revealed.\n\n■ CHOOSE YOUR CHARACTER \nGather up to 6 players and become Miss Scarlett, Colonel Mustard, Doctor Orchid, Reverend Green, Mrs. Peacock or Professor Plum.\n\n■ LAUNCH YOUR INVESTIGATION \nAsk questions and gather answers from your fellow suspects. Your in-game clue sheet will record your discoveries while you note your suspicions.\n\n■ MAKE YOUR ACCUSATION \nYou must be on the scene of the crime to make your accusation. Roll the dice, get to the correct room and unravel the mystery!\n\n■ UP-TO 6 PLAYERS \nJoin friends and family offline and online, challenge AI characters, or gather friends and AIs in a single game.\n\n■ DISCOVER NEW MYSTERIES\nBecome the best detective in Hollywood. Solve the mystery of Snowy Peaks. Be a sparkling suspect at the Venetian Masquerade. Question Sherifs in the Wild West! Each theme comes with new characters, weapons and locations to explore.\n\n■ UNLOCK THE  ULTIMATE DETECTIVE'S PACKAGE\nSolve mysteries in 5 MORE themes that transform the suspects, weapons and locations! Become the Great Detective himself and play as Sherlock Holmes. Catch criminals from the Vampire Castle to an Egyptian dig site and beyond!\n\n*Note: \nFor local multiplayer mode, each player requires a mobile device and the free Cluesheet Companion app or Cluedo: The Official Edition app to participate. ",
+    "publisher": "Marmalade Game Studio",
+    "developer": null,
+    "base_release_date": 20181130,
+    "first_update_release_date": 20190503,
+    "latest_update_release_date": 20240221,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20240221
+    },
+    "versions": {
+        "65536": 20190503,
+        "131072": 20190605,
+        "196608": 20190821,
+        "262144": 20191112,
+        "327680": 20200407,
+        "393216": 20200928,
+        "458752": 20210729,
+        "524288": 20211102,
+        "589824": 20220927,
+        "655360": 20221122,
+        "720896": 20230411,
+        "786432": 20230621,
+        "851968": 20240101,
+        "917504": 20240115,
+        "983040": 20240221
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "intro": "It’s Hasbro’s murder mystery board game, Cluedo. Roll the dice and start your investigation. Whodunit? With what weapon? Where? Race your friends and family to the truth!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

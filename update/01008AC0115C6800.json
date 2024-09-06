@@ -1,4 +1,33 @@
 {
     "id": "01008AC0115C6800",
-    "version": 131072
+    "base_tid": "01008AC0115C6000",
+    "name": "RMX Real Motocross",
+    "description": "Take part in exciting motocross racing - race on different tracks. Upgrade your bike to score higher place. After each race remember to Fix broken parts and upgrade your motorcycle to win! Learn tricks, earn money, and win every championship.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20200410,
+    "first_update_release_date": 20200520,
+    "latest_update_release_date": 20200520,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200520
+    },
+    "versions": {
+        "131072": 20200520
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Racing"
+    ],
+    "intro": "Prepare for an amazing gaming experience in a realistic Motocross game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

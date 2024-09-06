@@ -1,4 +1,41 @@
 {
     "id": "010089C00DA6A800",
-    "version": 720896
+    "base_tid": "010089C00DA6A000",
+    "name": "ONE PIECE 海賊無雙4",
+    "description": "■海賊無雙系列是由超人氣動畫『ONE PIECE』與以爽快動作獲得人氣的『無雙』系列攜手合作，累計超過400萬套的超人氣系列遊戲！\n以「和一夫當關的夥伴們一起冒險」為遊戲主軸，讓玩家可透過爽快的ONE PIECE動作體驗動畫中的冒險旅程！\n\n■海賊無雙4是進化後的『ONE PIECE』無雙遊戲！本作以「擬真的ONE PIECE戰場體驗」為核心概念，在動作場面中加入建築物的破壞及煙塵瀰漫的效果等，力求再現「ONE PIECE戰場」。\n此外也添加過去的「海賊無雙」中從未出現的全新要素，實現前所未有、爽快感十足的『ONE PIECE』無雙動作遊戲體驗！\n\n遊戲語言：韓文、日文、繁體中文、簡體中文、泰文",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20200326,
+    "first_update_release_date": 20200324,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240328
+    },
+    "versions": {
+        "65536": 20200324,
+        "131072": 20200719,
+        "196608": 20200922,
+        "262144": 20201215,
+        "327680": 20230719,
+        "393216": 20230912,
+        "458752": 20230919,
+        "589824": 20240110,
+        "655360": 20240207,
+        "720896": 20240328
+    },
+    "category": [
+        "動作"
+    ],
+    "intro": "以一「擋」百、萬夫莫敵！大幅進化的爽快無雙動作！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

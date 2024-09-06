@@ -1,4 +1,44 @@
 {
     "id": "01008A900CB90800",
-    "version": 65536
+    "base_tid": "01008A900CB90000",
+    "name": "RPG Maker MV Player",
+    "description": "Enjoy role-playing games made by fellow gamers with the RPG Maker MV Player, free for download and play, even without the RPG Maker MV software! ",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200918,
+    "first_update_release_date": 20210823,
+    "latest_update_release_date": 20210823,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210823
+    },
+    "versions": {
+        "65536": 20210823
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "New Game > Start",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

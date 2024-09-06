@@ -1,4 +1,41 @@
 {
     "id": "010089701BC96800",
-    "version": 196608
+    "base_tid": "010089701BC96000",
+    "name": "DINOSAURS: Mission Dino Camp",
+    "description": "The schleich ® DINOSAURS have come to life and need your help! As part of Team Dino embark on an action-filled adventure deep in the amazon jungle to find and rescue the legendary giant creatures.\n\nExplore and discover a vast amazon jungle with breathtaking environments and forgotten temples from an ancient civilization full of mystery and challenges.  \n\nCross dangerous jungle tracks that you traverse by foot as well as engage in adrenalin filled racing action with the Team Dino vehicles (jeep /quad).   \n\nBring down Dinosaurs with a stun gun and tranquilizer while avoiding being attacked in order to get them transported to the Team Dino base.  \n\nTake care of and heal Dinosaurs by gathering plants and other ingredients and apply medicine to get them back to their feet.  \n\nDiscover and interact with your favourite Dinosaurs like the Brontosaurus, Velociraptor, the mighty T-Rex and many more Dinosaurs and well-known characters from schleich® DINOSAURS  !\n",
+    "publisher": "Wild River Games",
+    "developer": null,
+    "base_release_date": 20231019,
+    "first_update_release_date": 20231019,
+    "latest_update_release_date": 20240521,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240521
+    },
+    "versions": {
+        "65536": 20231019,
+        "131072": 20231205,
+        "196608": 20240521
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Find and rescue the schleich® DINOSAURS in an action filled adventure deep in the amazon jungle ! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

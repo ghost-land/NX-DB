@@ -1,4 +1,34 @@
 {
     "id": "0100897019402800",
-    "version": 65536
+    "base_tid": "0100897019402000",
+    "name": "Intrepid Izzy",
+    "description": "Intrepid Izzy is a genre-defying 2D game with a unique HD art style.\n\nSeamlessly blending platforming with beat-'em-up and adventure elements, the game features a striking art style inspired by retro game graphics, with crisp, detailed sprites with smooth animations.\n\nYou’ll explore huge levels, each with its own theme and mechanics. Get different costumes for Izzy and take advantage of the special powers they grant!\n\nFeatures\n* Platform action and beat-em-up gameplay\n* Modern graphics with retro game inspiration\n* Diverse levels\n* Fun and exciting story\n* Soundtrack by Ben Kurotoshiro",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20221202,
+    "first_update_release_date": 20230310,
+    "latest_update_release_date": 20230310,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230310
+    },
+    "versions": {
+        "65536": 20230310
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Platforming and beat-em-up gameplay with a unique HD art style",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

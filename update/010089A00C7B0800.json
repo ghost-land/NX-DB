@@ -1,4 +1,39 @@
 {
     "id": "010089A00C7B0800",
-    "version": 393216
+    "base_tid": "010089A00C7B0000",
+    "name": "Warhammer Age of Sigmar: Champions",
+    "description": "We are Sigmar’s Champions!\nThousands of players are heralding the new era – the Age of Sigmar, in this epic Warhammer Trading Card Game born from magic and fantasy    \n\nDeploy units and unleash deadly magical abilities, while completing quests to earn blessings from the gods. Only the mightiest of warriors will stand victorious in this battle for the Mortal Realms, spanning both physical and digital worlds.\n\nWhere does your allegiance lie? Start your mighty quest today!\n\n• DISCOVER the WARHAMMER AGE OF SIGMAR universe\n• CHOOSE your allegiance from the GRAND ALLIANCES\n• COMMAND legendary Champions that form the backbone of your army.\n• FAST, TACTICAL GAMEPLAY – easy to play, takes skill to master.\n• CARDS with unique rotating mechanics: for damage over-time effects.\n• COMPLETE quests to unlock powerful blessings.\n• BATTLE your opponents in an epic duel of strategy and skill.\n• BUILD YOUR OWN MIGHTY DECK of cards to prove your might.\n• PLAY with digital cards or scan* physical cards into your digital collection to level-up and play them digitally for free!\n\nAre you ready to choose your allegiance?\n\n*Scanning physical cards requires account link to internet-enabled mobile device with camera.",
+    "publisher": "Playfusion",
+    "developer": null,
+    "base_release_date": 20190416,
+    "first_update_release_date": 20190415,
+    "latest_update_release_date": 20200227,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20200227
+    },
+    "versions": {
+        "65536": 20190415,
+        "131072": 20190516,
+        "196608": 20190612,
+        "262144": 20190722,
+        "327680": 20190827,
+        "393216": 20200227
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Board Game"
+    ],
+    "intro": "Command powerful factions & legendary Champions in this Warhammer Age of Sigmar Trading Card Game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

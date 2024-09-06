@@ -1,4 +1,43 @@
 {
     "id": "01008A300F61E800",
-    "version": 65536
+    "base_tid": "01008A300F61E000",
+    "name": "Medulla",
+    "description": "Medulla is a puzzle-platformer adventure game set in a dream-like scenery. A young character called Takito travels through the places and environments where various strange obstacles and seemingly illogical puzzles appear. Various beautifully hand-crafted landscapes create confusing and mysterious aura that Takito needs to escape from. The visual language of the game revolves around the painting styles of contemporary artists. Some visuals reflect the surrealism art movement, others are infused with traditional methods and unique figurative styles that create an overall feeling of magic realism.\n",
+    "publisher": "Lemondo Games",
+    "developer": null,
+    "base_release_date": 20210115,
+    "first_update_release_date": 20210128,
+    "latest_update_release_date": 20210128,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210128
+    },
+    "versions": {
+        "65536": 20210128
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Man can fly",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "01008A30083E2800",
-    "version": 65536
+    "base_tid": "01008A30083E2000",
+    "name": "ワールドエンド・シンドローム",
+    "description": "百年に一度、死者が蘇り禍（わざわい）をもたらすと言われる「黄泉人伝説」。\n古い伝承が今も残る田舎町で起こる不可解で意味深な事件。\nまるでそれが夢かのような彼女と過ごす、掛け替えの無い日々。\nひと夏の眩しさと儚さが同居するミステリー×恋愛アドベンチャー。\n",
+    "publisher": "アークシステムワークス",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20181209,
+    "latest_update_release_date": 20181209,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181209
+    },
+    "versions": {
+        "65536": 20181209
+    },
+    "category": [
+        "アドベンチャー",
+        "その他"
+    ],
+    "intro": "生者に紛れ込んだ死者は誰だ――",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }

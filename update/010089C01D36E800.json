@@ -1,4 +1,34 @@
 {
     "id": "010089C01D36E800",
-    "version": 131072
+    "base_tid": "010089C01D36E000",
+    "name": "Twin Mind: Murderous Jealousy Collector's Edition",
+    "description": "Twin detectives Randall and Eleanor Jones share a passion for justice, but their methods couldn't be more different.\nHe's the logical, deductive type, while she uses a mystical approach, \nbut they'll need to combine their skills when they're called in to investigate an onstage murder at the local theater!\nAnd once they dig into the victim's past, they discover that nothing about this case is as simple as it seems!\n\nThe Collector’s Edition includes:\n- Find hidden coins, morphing objects, and more to complete your collections!\n- Replay your favorite hidden-object scenes and mini-games to unlock challenging achievements!\n- Keep the case moving with a strategy guide!",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20231218,
+    "first_update_release_date": 20231222,
+    "latest_update_release_date": 20240216,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240216
+    },
+    "versions": {
+        "65536": 20231222,
+        "131072": 20240216
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Can you solve a murder case of Adaline Salfield?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol and Tobacco Reference",
+        "Fantasy Violence"
+    ],
+    "region": null
 }
