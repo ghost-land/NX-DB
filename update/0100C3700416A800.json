@@ -1,4 +1,32 @@
 {
     "id": "0100C3700416A800",
-    "version": 65536
+    "base_tid": "0100C3700416A000",
+    "name": "SUPER PING PONG TRICK SHOT",
+    "description": "ピンポン球を投げてカップに入れるアクションパズルゲームです。\n「2バウンドで入れろ！」といったミッションをクリアしていく【チャレンジモード】の他、\nカップにボールを入れてスコアを稼ぐ【スコアアタックモード】、\nJoy-Conを\"おすそわけ\"して2人で対戦が出来る【対戦モード】の3つのモードが収録されています。",
+    "publisher": "スターサイン",
+    "developer": null,
+    "base_release_date": 20170713,
+    "first_update_release_date": 20171018,
+    "latest_update_release_date": 20171018,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171018
+    },
+    "versions": {
+        "65536": 20171018
+    },
+    "category": [
+        "アクション",
+        "パズル"
+    ],
+    "intro": "投げて　入って　超気持ちイイ！\n「ピンポントリックショット」をNintendo Switchで遊ぼう！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

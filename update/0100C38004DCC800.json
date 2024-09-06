@@ -1,4 +1,37 @@
 {
     "id": "0100C38004DCC800",
-    "version": 131072
+    "base_tid": "0100C38004DCC000",
+    "name": "The Flame In The Flood: Complete Edition",
+    "description": "The Flame in the Flood: Complete Edition is a wilderness survival game in which a girl and her dog travel on foot and by raft down a procedurally-generated river.\n\nScrounge for resources, craft tools, remedy afflictions, evade the vicious wildlife and, most importantly, stay healthy in a dangerous wilderness. This Complete Edition includes various gameplay enhancements and a Director’s Commentary mode.\n\nThe Flame in the Flood also features an original soundtrack by acclaimed Alt-Country rocker Chuck Ragan featuring The Camaraderie, The Fearless Kin and other special guests.",
+    "publisher": "CD PROJEKT",
+    "developer": null,
+    "base_release_date": 20171012,
+    "first_update_release_date": 20171013,
+    "latest_update_release_date": 20171211,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171211
+    },
+    "versions": {
+        "65536": 20171013,
+        "131072": 20171211
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "0100C2E01254C800",
-    "version": 327680
+    "base_tid": "0100C2E01254C000",
+    "name": "Lunistice",
+    "description": "Lunistice is a linear 3D platformer that is heavily inspired by the 32-bit era of yesteryear. Follow Hana the Tanuki on her adventure through her dreams!\nExplore the different dreamscapes to guide her to her final destination - The Moon - and try to uncover the secrets of \"The Lunistice\" along the way!\n\n~ More than 7 different dreams ~\nExplore a multitude of different dreamscapes created from Hana's memories! Jump and run through an old shrine, a fancy water park or a world made out of food!\n\n~ Simple, affordable fun ~\nLunistice is designed as a simple and short experience that you can easily play in short bursts! Have fun and enjoy the good vibes!\n\n~ Replayability for days ~\nTry to beat your fastest times and highest completion and get an S-Rank on every stage! And if you're looking for some additional variety: play the whole game as a different character with their own skills and gameplay!",
+    "publisher": "Deck 13",
+    "developer": null,
+    "base_release_date": 20221111,
+    "first_update_release_date": 20221031,
+    "latest_update_release_date": 20231003,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231003
+    },
+    "versions": {
+        "65536": 20221031,
+        "131072": 20221106,
+        "196608": 20221201,
+        "262144": 20221205,
+        "327680": 20231003
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Lunistice is a 3D platformer created with simple but fun gameplay and a cute artstyle in mind. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

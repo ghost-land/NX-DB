@@ -1,4 +1,35 @@
 {
     "id": "0100C3001F852800",
-    "version": 196608
+    "base_tid": "0100C3001F852000",
+    "name": "Let's Aim! Shooting Gallery",
+    "description": "Let's enjoy playing a shooting gallery on the Nintendo Switch™!\nShare Joy-Con™ and play with up to 4 players!\nAim for a new high score!\n\nFix your aim and win all sorts of prizes!\n\n[Score Attack]\nKnock down lots of prizes and aim for a high ranking on the leaderboards!\n\n[Battle]\nFace off against CPUs in single-player mode, or test your skills against friends in multiplayer battles!\nChallenge shooting gallery players from all over the world in online battles!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240711,
+    "first_update_release_date": 20240708,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240708,
+        "131072": 20240818,
+        "196608": 20240829
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "Gear up for a carnival game classic: shooting gallery!\nHit as many targets as you can and become a shooting gallery master!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

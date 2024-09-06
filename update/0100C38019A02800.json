@@ -1,4 +1,42 @@
 {
     "id": "0100C38019A02800",
-    "version": 131072
+    "base_tid": "0100C38019A02000",
+    "name": "Isle of Jura Fishing Trip",
+    "description": "Be a master of fishing\n\nMeet the locals and get your tools. Sit down or stand and wait for pike, salmon, and other smaller or bigger fish to swallow the hook. \nShow everyone your trophies. Catch fish and artifacts with a fishing net or a suitable rod.\n\nLearn more\n\nValuable knowledge will allow you to complete the biology report successfully.\n\nRelax and unwind. Feel the climate and peaceful, quiet atmosphere of the island.\n\nKey Features:\n\n - More than 50 species of fish\n - 3 different fishing techniques\n- No time limits (play at your own pace) ",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230324,
+    "first_update_release_date": 20230803,
+    "latest_update_release_date": 20230803,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230803
+    },
+    "versions": {
+        "65536": 20230803,
+        "131072": 20230803
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Training",
+        "Study"
+    ],
+    "intro": "Visit the remarkable Isle of Jura and catch some delicious fish! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100C3300D8C4800",
-    "version": 196608
+    "base_tid": "0100C3300D8C4000",
+    "name": "The Touryst",
+    "description": "You are just arriving at the Monument Islands. Want to go swimming? Or rather take a dive into the deep sea? Or do you want to visit the amusement arcade, do some shopping, dance at the beach party? Fancy some surfing? Or will you talk with the strange old tourist and listen what he has to say about these ancient mysterious monuments..",
+    "publisher": "Shin’en Multimedia",
+    "developer": null,
+    "base_release_date": 20191122,
+    "first_update_release_date": 20191205,
+    "latest_update_release_date": 20221028,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221028
+    },
+    "versions": {
+        "65536": 20191205,
+        "131072": 20220607,
+        "196608": 20221028
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Enjoy your vacation!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

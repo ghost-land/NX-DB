@@ -1,4 +1,50 @@
 {
     "id": "0100C3200E7E6800",
-    "version": 458752
+    "base_tid": "0100C3200E7E6000",
+    "name": "Black Legend",
+    "description": "Lead a squadron of Mercenaries into the accursed city of Grant and aid a surviving resistance in fighting against a deadly cult of fanatics. Eradicate the fog that shrouds the streets and inflicts madness among the populace in this thrilling alternate history Turn-Based Strategy RPG!\n\nExplore the ruined streets of Grant, a 17th century city based on the architecture of the Low Lands. Aid the resistance in their struggle against the Mephistian Cultists.\nUncover the history of Mephisto, a menacing Alchemist who brewed a maddening fog, and clouded the entire city.\nFight using bodily alchemy based on the old concept of Humorism. Master the four different instabilities and combine them with Catalyst Attacks to deal massive damage to enemies!\nUnlock 15 playable classes, each capable of learning unique abilities and handling different equipment. Master them, synergize with other units and become the ultimate liberator of Grant!\nCustomize your journey, from a forgiving experience for the story lovers, to a hardcore challenge that punishes every mistake.\n\nWe await our liberation at your hands, stranger.\n\nGrant us our wish!",
+    "publisher": "Warcave",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20210318,
+    "latest_update_release_date": 20210616,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210616
+    },
+    "versions": {
+        "65536": 20210318,
+        "131072": 20210324,
+        "196608": 20210408,
+        "262144": 20210414,
+        "327680": 20210423,
+        "393216": 20210506,
+        "458752": 20210616
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "A dark, immersive Turn Based Strategy RPG. Master the art of 17th century alchemy to liberate a doomed city from a bloodthirsty cult of the great alchemist Mephisto.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Nudity",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

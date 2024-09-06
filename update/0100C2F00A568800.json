@@ -1,4 +1,36 @@
 {
     "id": "0100C2F00A568800",
-    "version": 65536
+    "base_tid": "0100C2F00A568000",
+    "name": "Shio",
+    "description": "“Shio” is a challenging platformer game in which you deep and moving story by jumping from lantern to lantern. If you like to challenge yourself, you will like Shio as well!",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20180823,
+    "first_update_release_date": 20180913,
+    "latest_update_release_date": 20180913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180913
+    },
+    "versions": {
+        "65536": 20180913
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Everything turns to ash, in the end.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

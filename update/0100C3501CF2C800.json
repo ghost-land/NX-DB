@@ -1,4 +1,34 @@
 {
     "id": "0100C3501CF2C800",
-    "version": 65536
+    "base_tid": "0100C3501CF2C000",
+    "name": "Nephenthesys",
+    "description": "Nephenthesys is a vertical scrolling shoot’em up presented in widescreen top-down 3D style. Blast through a huge variety of enemy ships, collect power-ups for wider shot spreads and special bombs, then face off against screen-filling bosses. This mission will take you through caverns, waterways, cityscapes and more. Do you have the skills to see it through?\n\nFeatures:\n\n• Experience old-school shoot’em up action inspired by arcade genre classics!\n• Choose from a variety of ships with unique stats and shot types.\n• Face off against enemy swarms and collect power-ups!\n• Navigate caverns, waterways, cityscapes and other unique environments.\n• Take on screen-filling bosses at the end of each stage.\n• Enjoy a light story conveyed through comm dialogue!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240117,
+    "first_update_release_date": 20240220,
+    "latest_update_release_date": 20240220,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240220
+    },
+    "versions": {
+        "65536": 20240220
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Blast off on a treacherous mission to recover an unidentified energy source amidst an alien onslaught!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

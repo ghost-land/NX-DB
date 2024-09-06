@@ -1,4 +1,40 @@
 {
     "id": "0100C3A00B97E800",
-    "version": 131072
+    "base_tid": "0100C3A00B97E000",
+    "name": "House of Golf",
+    "description": "\"An arcade sports game with full 3D graphics, physics and easy pick-up- and-play game mechanics for all the family to enjoy.\n\nHouse of golf is the golfing dojo you always dreamed of. Go mental with 135 fiendish levels of golfing madness. Reduce your golf buddies to a crying mess with the ultimate 4 player party mode. Test your metal as the difficulty and insanity ramps. But ultimately stand tall as a House of Golf ninja master and pile exclusive in-game loot into your pockets!\n\n- Full 3D ball physics with beautiful graphics.\n- 5 different environments and 135 levels.\n- Unlock awesome new golf balls as you progress.\n- Multiplayer for up to 6 players.\"",
+    "publisher": "Atomicom",
+    "developer": null,
+    "base_release_date": 20191108,
+    "first_update_release_date": 20191108,
+    "latest_update_release_date": 20191113,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191113
+    },
+    "versions": {
+        "65536": 20191108,
+        "131072": 20191113
+    },
+    "category": [
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Mini golf comes home, bringing with it 135 beautiful and challenging levels to master. The craziest, crazy golf you are ever gonna get.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

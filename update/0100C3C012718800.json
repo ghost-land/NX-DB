@@ -1,4 +1,51 @@
 {
     "id": "0100C3C012718800",
-    "version": 458752
+    "base_tid": "0100C3C012718000",
+    "name": "Grand Theft Auto III – The Definitive Edition",
+    "description": "Experience the epic open world adventure that started it all updated for a new generation with across-the-board enhancements including brilliant new lighting and environmental upgrades, with high-resolution textures, increased draw distance, Grand Theft Auto V-style  controls and targeting, and much more, bringing these beloved worlds to life with all new levels of detail.\n \nIt all starts in Liberty City. With revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it.",
+    "publisher": "ROCKSTAR GAMES",
+    "developer": null,
+    "base_release_date": 20211111,
+    "first_update_release_date": 20211028,
+    "latest_update_release_date": 20221018,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20221018
+    },
+    "versions": {
+        "65536": 20211028,
+        "131072": 20211103,
+        "196608": 20211122,
+        "327680": 20211202,
+        "393216": 20220224,
+        "458752": 20221018
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Intense Violence",
+        "Sexual Content",
+        "Strong Lyrics"
+    ],
+    "region": null
 }

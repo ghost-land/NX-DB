@@ -1,4 +1,43 @@
 {
     "id": "0100C3701C19A800",
-    "version": 196608
+    "base_tid": "0100C3701C19A000",
+    "name": "Rogue Glitch Ultra",
+    "description": "Rogue Glitch Ultra is packed with unlockable items, characters, and cosmetics to make every run a worthwhile one. \n\nWorry less about aiming with auto-targeting and more about landing your jumps and building the best loadout - throwing sponges at your foes, using a minion pistol to summon little helpers, firing projectiles from another dimension, or any of the other 150+ weapon options to advance in this hostile universe! By using the currency known as Malbytes, you’ll be able to transform your existing characters into more powerful glitched evolutions as you proceed deeper into the unknown and meet an ominous being who wants to make a deal...\n\nFeatures:\n• Play solo or with up to 4 players online\n• Collect and evolve 150+ unique weapons and powerups that offer radically different playstyles\n• Embody 18 character variants, each with upgrading stats and skins\n• Auto-targeting lets you focus on platforming finesse and the perfect loadout \n• Complete events to unlock a narrative about a video game world that is starting to glitch\n• Experience the ultimate version of Rogue Glitch with Rogue Glitch Ultra, which features reworked graphics, all-new content, items, and boss fights",
+    "publisher": "Rarebyte",
+    "developer": null,
+    "base_release_date": 20231114,
+    "first_update_release_date": 20231204,
+    "latest_update_release_date": 20240515,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240515
+    },
+    "versions": {
+        "65536": 20231204,
+        "131072": 20231222,
+        "196608": 20240515
+    },
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "A roguelite action platformer in a vibrant glitch-ridden world.\nAmass a huge arsenal from over 150 weapon options and face hordes of enemies and tough boss fights.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Users Interact"
+    ],
+    "region": null
 }

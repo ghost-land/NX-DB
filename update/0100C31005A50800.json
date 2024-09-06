@@ -1,4 +1,39 @@
 {
     "id": "0100C31005A50800",
-    "version": 65536
+    "base_tid": "0100C31005A50000",
+    "name": "Phantom Trigger",
+    "description": "Stan is losing control. The phantom realm brings arcane hexes into a pulsing neon reality, where demons fight in packs and use every trick they have to break your defense. Throw spells and traps mid-combo, ride the edge of control and chaos in this fresh take on action combat. You are your own worst enemy in Phantom Trigger.\n\nStory\n\nYou play as Stan, a white-collar middle-class worker living an ordinary life that gets disrupted by a mysterious event. Discover a brand new world and connect the dots along a branching story through neon-demonic worlds. Phantom Trigger has 4 alternate endings.\n\nGameplay\n\nMerging elements from slasher, RPG, and rogue-like genres, Phantom Trigger takes a rich combo system and builds on it, with trapping and freezing enemies, herding groups, burning bosses and dashing from one combo to the next.\n\nFeatures\n\n- Branching story with 4 alternative endings\n- 5 Distinct Worlds to explore\n- Estimated 7+ hours of gameplay\n- A deep combat system focusing on unlocking combos and upgrading weapons",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20170810,
+    "first_update_release_date": 20170922,
+    "latest_update_release_date": 20170922,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170922
+    },
+    "versions": {
+        "65536": 20170922
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

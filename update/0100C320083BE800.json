@@ -1,4 +1,41 @@
 {
     "id": "0100C320083BE800",
-    "version": 65536
+    "base_tid": "0100C320083BE000",
+    "name": "Splitter Critters",
+    "description": "Splitter Critters is an award-winning freeform puzzle game that puts world-splitting power into your hands. Split and rearrange the world to bring faraway platforms together, move deadly lasers out of the way, and create floating swimming pools to guide alien critters back to their spaceship.\n\nKey Features\nSolve - There's no wrong way to solve any of the puzzles, so you are free to get creative with your solutions.\nExplore - Diverse planets full of danger and innovative mechanics that will make you think in new ways.\nListen - Each world features an immersive soundscape and soundtrack composed by A Shell in the Pit.",
+    "publisher": "RAC7",
+    "developer": null,
+    "base_release_date": 20180515,
+    "first_update_release_date": 20180607,
+    "latest_update_release_date": 20180607,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180607
+    },
+    "versions": {
+        "65536": 20180607
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
