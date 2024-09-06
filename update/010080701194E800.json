@@ -1,4 +1,38 @@
 {
     "id": "010080701194E800",
-    "version": 65536
+    "base_tid": "010080701194E000",
+    "name": "Flying Soldiers",
+    "description": "Not everything is as it seems in this outlandish puzzle game, because these \"flying soldiers\" can hardly glide a few inches and they don't exactly have the abilities to go into battle. So, it's no surprise that, with squads made up of these \"characters\", they wouldn't be able to get themselves out of the mess they're in. Their only hope lies in your tactical skills to help them advance.\n\nSpikes, traps, electric fences, and rings of fire are just some of the many dangers these daredevil soldiers must avoid over a total of 45 missions. You'll find yourself with three types of birds with different skills, but even the boldest won't make it through without your help.\n\nIt's not only about strategic placement of the limited objects available throughout the terrain. You also have to think about the soldiers' positions and skills; timing their movements right; and how they interact with objects.",
+    "publisher": "Wild Sphere",
+    "developer": null,
+    "base_release_date": 20200917,
+    "first_update_release_date": 20211118,
+    "latest_update_release_date": 20211118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211118
+    },
+    "versions": {
+        "65536": 20211118
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Get ready to command an odd squad of fun birds on your Nintendo Switch™ and devise a plan to bring them safe and sound to the end of the battlefield.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

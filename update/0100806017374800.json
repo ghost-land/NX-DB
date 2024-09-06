@@ -1,4 +1,39 @@
 {
     "id": "0100806017374800",
-    "version": 65536
+    "base_tid": "0100806017374000",
+    "name": "Defend the Rook",
+    "description": "- Deploy your heroes to outsmart the enemy -\nEnjoy challenging tactics whilst fighting through waves of enemies.\nTurn the tables on the invaders with the aid of devastating spells! Overcome the odds and outsmart the enemy.\n\n- Build and upgrade your towers to survive the onslaught -\nTo survive you'll need to utilize more than just your heroes wit and prowess! Careful placement of towers and upgrades will be necessary to ensure victory.\n\n- Place traps and barricades to defend your castle -\nUse these wisely to funnel and confuse the invaders. Wreak havoc amongst their ranks and break up their carefully manicured ranks!\n\n- Become a champion to save the kingdom -\nDo you have what it takes to save the land? Jump right in and enjoy a set of procedurally generated roguelike turn-based battles like no other! Every battle fought is unique.",
+    "publisher": "Goblinz Studio",
+    "developer": null,
+    "base_release_date": 20220415,
+    "first_update_release_date": 20220718,
+    "latest_update_release_date": 20220718,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220718
+    },
+    "versions": {
+        "65536": 20220718
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": "Defend the Rook is a roguelike tactics board combat combined with tower defense elements. Defeat the invading hordes to stay alive and save the land!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

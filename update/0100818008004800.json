@@ -1,4 +1,38 @@
 {
     "id": "0100818008004800",
-    "version": 65536
+    "base_tid": "0100818008004000",
+    "name": "Serial Cleaner",
+    "description": "Can you dig it?\n\nStep into the polished shoes of The Cleaner, a professional crime scene cleaner for the mob. There's no business like the cleaning business, and right now business is booming…\n\nSneak around crime scenes avoiding detection from the guarding cops as you vacuum up blood, hide bodies and remove evidence in this 70's styled, fast paced, 2D action/stealth game.",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20171130,
+    "first_update_release_date": 20171212,
+    "latest_update_release_date": 20171212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171212
+    },
+    "versions": {
+        "65536": 20171212
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Violence",
+        "Coarse language"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010080F00F490800",
-    "version": 65536
+    "base_tid": "010080F00F490000",
+    "name": "Mirror",
+    "description": "This is a game that combines match-3, GALGAME elements and beauties. If you want to learn more about those beauties, you need to win against them first. How the story goes is choice-based, so your choices will ultimately decide their fate.\n",
+    "publisher": "DORIDORI STUDIO",
+    "developer": null,
+    "base_release_date": 20200106,
+    "first_update_release_date": 20191222,
+    "latest_update_release_date": 20191222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191222
+    },
+    "versions": {
+        "65536": 20191222
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

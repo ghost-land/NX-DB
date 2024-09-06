@@ -1,4 +1,43 @@
 {
     "id": "010081001B516800",
-    "version": 131072
+    "base_tid": "010081001B516000",
+    "name": "Placid Plastic Duck Simulator",
+    "description": "A relaxing 3D environment where you experience life as a rubber duck, Placid Plastic Duck Simulator is an experiment to induce calm and bliss. You're up for a reinvigorating stay at your favorite seaside pool.\n\nYou are not alone. Different ducks will slowly and happily fall into the pool with you, each with their own style and demeanor.\n\nFloat on the water, sunbathe, dip your beak, go down the slide. The radio is playing a nostalgic tune.\nHere comes the night. Look at the stars. Turn off the radio, listen to the waves in the dark. Dream.\nThe sun is rising. The sky is blue. Slide down into the second pool.\nAn airplane is rushing somewhere, there's stuff to do.\nNot for you.\nLive in the present moment, enjoy life.\nEverything is going to be alright.",
+    "publisher": "Tunnel Vision",
+    "developer": null,
+    "base_release_date": 20230627,
+    "first_update_release_date": 20230629,
+    "latest_update_release_date": 20230927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230927
+    },
+    "versions": {
+        "65536": 20230629,
+        "131072": 20230927
+    },
+    "category": [
+        "Simulation",
+        "Music",
+        "Lifestyle",
+        "Party"
+    ],
+    "intro": "The ultimate high-tech rubber duck simulation, Placid Plastic Duck brings you dangerous levels of relaxation. With many different happy ducks, your only priority is to float around.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

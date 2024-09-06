@@ -1,4 +1,39 @@
 {
     "id": "0100806016A24800",
-    "version": 196608
+    "base_tid": "0100806016A24000",
+    "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue Cloud Version",
+    "description": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue features 3 magical experiences, all leading up to KINGDOM HEARTS III:\n\nKINGDOM HEARTS Dream Drop Distance HD: A full-HD remaster. Sora and Riku take on the Mark of Mastery exam in preparation for their coming showdown with Master Xehanort.\n\nKINGDOM HEARTS χ Back Cover (movie): A new HD movie that tells the mysterious story of the Foretellers from the series’ origins.\n\nKINGDOM HEARTS 0.2 Birth by Sleep – A fragmentary passage – : A brand new episode that links to KINGDOM HEARTS III.",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220211,
+        "131072": 20220309,
+        "196608": 20220512
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

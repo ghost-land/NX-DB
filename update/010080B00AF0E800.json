@@ -1,4 +1,37 @@
 {
     "id": "010080B00AF0E800",
-    "version": 65536
+    "base_tid": "010080B00AF0E000",
+    "name": "Mentori Puzzle",
+    "description": "Puzzle game featuring the popular Mentori characters. Use the \"Hiyoko Ball\" anytime to easily make combos. Easy to pick up for newcomers to the genre. Progress the \"Story\" to collect Photos and have fun with Mentori 4-Box Manga.",
+    "publisher": "ITL",
+    "developer": null,
+    "base_release_date": 20181228,
+    "first_update_release_date": 20181212,
+    "latest_update_release_date": 20181212,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181212
+    },
+    "versions": {
+        "65536": 20181212
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Mentori is now a puzzle game, available on the Nintendo Switch™!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

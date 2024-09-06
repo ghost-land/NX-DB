@@ -1,4 +1,54 @@
 {
     "id": "010081700EDF4800",
-    "version": 655360
+    "base_tid": "010081700EDF4000",
+    "name": "WWE 2K Battlegrounds",
+    "description": "The world of WWE is your battleground with over the top, arcade action as your favorite WWE Superstars and Legends battle in interactive environments around the world. Compete using special abilities and power-ups in match types like Steel Cage, Royal Rumble, and more!  \n\nBattle Across the Globe! \nPlay through a new story mode told through original comic strips, alongside Paul Heyman and Stone Cold Steve Austin to find the next WWE Superstars while unlocking unique characters and Battlegrounds.\n \nIt’s Your Battleground!\nMake WWE 2K Battlegrounds your own with tons of customizable parts as you create and edit your own characters and Battlegrounds!\n  \nBattle with Friends - Online or on the Couch!\nCompete in Online Tournaments or stake your claim as King of the Battleground against players from around the world! Plus, battle it out in local multiplayer and dominate your friends.",
+    "publisher": "Take-Two Interactive",
+    "developer": null,
+    "base_release_date": 20200918,
+    "first_update_release_date": 20200916,
+    "latest_update_release_date": 20230505,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20230505
+    },
+    "versions": {
+        "65536": 20200916,
+        "131072": 20200924,
+        "196608": 20201006,
+        "262144": 20201101,
+        "327680": 20201123,
+        "393216": 20201217,
+        "458752": 20210126,
+        "524288": 20210209,
+        "589824": 20210324,
+        "655360": 20230505
+    },
+    "category": [
+        "Sports",
+        "Fighting",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Brawl Without Limits!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Mild Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

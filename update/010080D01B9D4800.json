@@ -1,4 +1,36 @@
 {
     "id": "010080D01B9D4800",
-    "version": 196608
+    "base_tid": "010080D01B9D4000",
+    "name": "Paper io 2",
+    "description": "Paint the map in your own color, eliminate your opponents, get the highest score and take over the Paper io world.\nCompete in a fierce battle and become a champion!\n\nGlide over the white space or your friends territory and create connection back to your own color to claim that area. Watch out! When you move outside of your color, your tail is exposed to attack and you can be eliminated by others.\n\nUse your strategic skills and powerups to attack and claim all of the white space that was previously owned by other players! \n\nFeatures:\n- as many maps as there are countries in the world\n- 14 skins which also change the look of your terrain\n- multiplayer mode up to 8 players on one screen!\n- custom game with 45 various shaped maps\n- powerups spawning during the game\n- catchy music\n- easy controls so anyone can play\n- simple rules and lots of fun!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20230901,
+    "first_update_release_date": 20230830,
+    "latest_update_release_date": 20230904,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230904
+    },
+    "versions": {
+        "131072": 20230830,
+        "196608": 20230904
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Conquer territory solo or beat your friends in multiplayer mode with up to 8 players! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

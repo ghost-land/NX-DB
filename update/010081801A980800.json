@@ -1,4 +1,42 @@
 {
     "id": "010081801A980800",
-    "version": 327680
+    "base_tid": "010081801A980000",
+    "name": "CounterAttack: Uprising",
+    "description": "There's also 3 endless survival modes, multi-crew ships, special levels, a campaign and level editor, several difficulties, and several play modes. ",
+    "publisher": "Relative Software",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20230926,
+    "latest_update_release_date": 20240902,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240902
+    },
+    "versions": {
+        "65536": 20230926,
+        "131072": 20231015,
+        "196608": 20231123,
+        "262144": 20240112,
+        "327680": 20240125,
+        "393216": 20240902,
+        "458752": 20240902
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Multiplayer",
+        "Adventure"
+    ],
+    "intro": "CO-OP SHMUP / STG (Shoot em' up), 4 player local and 8 player online. Customize your ship with over 500 attachments while you blast through 32 levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

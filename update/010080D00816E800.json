@@ -1,4 +1,39 @@
 {
     "id": "010080D00816E800",
-    "version": 131072
+    "base_tid": "010080D00816E000",
+    "name": "くにおくん ザ・ワールド クラシックスコレクション",
+    "description": "くにおくんのクラシックタイトル11本、\n日本未発売の海外版くにおくんタイトル4本、\n日本未発売の海外版ダブルドラゴン3本がセットになって、\n全てのタイトルでオンラインプレイに対応した\nくにおくんシリーズの作品集が登場！\nちらつきや処理落ちが軽減されたクオリティアップ版も搭載！",
+    "publisher": "アークシステムワークス",
+    "developer": null,
+    "base_release_date": 20181220,
+    "first_update_release_date": 20181226,
+    "latest_update_release_date": 20190403,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190403
+    },
+    "versions": {
+        "65536": 20181226,
+        "131072": 20190403
+    },
+    "category": [
+        "アクション",
+        "スポーツ",
+        "格闘",
+        "ロールプレイング"
+    ],
+    "intro": "やり尽くせるか、18タイトル！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

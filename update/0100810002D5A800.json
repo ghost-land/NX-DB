@@ -1,19 +1,21 @@
 {
-    "id": "0100818019B46800",
-    "base_tid": "0100818019B46000",
+    "id": "0100810002D5A800",
+    "base_tid": "0100810002D5A000",
     "name": "",
     "description": "",
     "publisher": "",
     "developer": "",
     "base_release_date": null,
-    "first_update_release_date": 20240313,
-    "latest_update_release_date": 20240313,
+    "first_update_release_date": 20180325,
+    "latest_update_release_date": 20190215,
     "latest_update": {
-        "version": "65536",
-        "release_date": 20240313
+        "version": "327680",
+        "release_date": 20190215
     },
     "versions": {
-        "65536": 20240313
+        "65536": 20180325,
+        "131072": 20180829,
+        "327680": 20190215
     },
     "category": [],
     "intro": "",

@@ -1,4 +1,36 @@
 {
     "id": "010080B00AD66800",
-    "version": 131072
+    "base_tid": "010080B00AD66000",
+    "name": "Undertale",
+    "description": "The world-famous indie RPG UNDERTALE comes to Nintendo Switch™! Fall into the underworld and explore a hilarious and heartwarming world full of dangerous monsters. Date a skeleton, dance with a robot, cook with a fishwoman...or destroy everyone where they stand. The future is yours to determine!",
+    "publisher": "8-4",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20180830,
+    "latest_update_release_date": 20180926,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180926
+    },
+    "versions": {
+        "65536": 20180830,
+        "131072": 20180926
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

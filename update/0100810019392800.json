@@ -1,4 +1,31 @@
 {
     "id": "0100810019392800",
-    "version": 65536
+    "base_tid": "0100810019392000",
+    "name": "VALIS: The Fantasm Soldier (MSX)",
+    "description": "Yuko Aso was once an ordinary high school girl. One fateful day, her destiny was forever changed when she was chosen by Valia, the queen of the Dreamland, to be the next Warrior of Valis. Meanwhile Rogles, the Dark King of Vecenti, began his cross-dimensional assault with his powerful Vogue generals at his command. \n\nThe MSX version contains only 5 stages due to space limitations, and while the story is not very deep since there are no animated cutscenes, the characters have good movement and it stands on its own as a pure side-scrolling action game that can be enjoyed even today. ",
+    "publisher": "Edia",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20230621
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Why was an ordinary girl chosen as the Warrior of Valis? What caused the Fantasm Jewel to break into 5 pieces? What of the 4 evil kings?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

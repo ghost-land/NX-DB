@@ -1,4 +1,45 @@
 {
     "id": "010080D01955A800",
-    "version": 262144
+    "base_tid": "010080D01955A000",
+    "name": "Swoon! Earth Escape",
+    "description": "The planet is flooded with a mysterious green acid. Help Swoon and the rest of the crew escape the Earth. Collect all the mechanical parts of your spaceship and face the most daring bosses in this epic retro-style journey!\n• Play 5 different worlds in 2.5D and 3D, travel from the adventurous Jurassic Island to the glowy Sci-Fi world!\n• Unlock new wearable suits from your Garage, learn skills like Roll, Swirl and Path Builder. Put on the Adventure, Snow, Steampunk and Sci-Fi suits and switch between them to kill enemies, solve puzzles or build alternate paths.\n• Explore, collect mechanical parts, gems and keys to unlock new game features.\n• Save all your friends and get ready to leave planet Earth!\n",
+    "publisher": "SOFT SOURCE",
+    "developer": null,
+    "base_release_date": 20221124,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20221218,
+        "131072": 20230217,
+        "196608": 20230523,
+        "262144": 20240207
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Fasten your Seat belt, You're about to crash on Earth",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

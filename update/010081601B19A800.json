@@ -1,4 +1,39 @@
 {
     "id": "010081601B19A800",
-    "version": 65536
+    "base_tid": "010081601B19A000",
+    "name": "ALIEN WAR 2 DOGFIGHT",
+    "description": "The year is 2222. Only 5% of humanity has survived the alien invasion.\nThe aliens begin their final attack.\nFly the supersonic fighter and eliminate the alien invaders.\n\nPlayers can choose from five different types of fighters.\nSurvive against 12 kinds of unique enemies and 10 kinds of giant bosses.\nBreak through the pouring attacks of the enemies.\nExperience the thrill of 360° free-view shooting in addition to horizontal and vertical scrolling shooting. \nThe perspectives switch in real-time.\n\nIn order to eliminate the ever-evolving enemies, you must upgrade your plane.\nSecure funds by eliminating enemies to strengthen your machine gun and missiles. \nIt also helps you call for support quicker.\n\nIn score attack mode, 'BOSS RUSH MODE', you have to fight successive bosses and aim for high scores.\nNever getting hit by enemy's bullets is the secret of Highscore.\n\nExperience everything about the best shooting game, Alien War 2 Dogfight.",
+    "publisher": "Game Museum",
+    "developer": null,
+    "base_release_date": 20230727,
+    "first_update_release_date": 20230920,
+    "latest_update_release_date": 20230920,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230920
+    },
+    "versions": {
+        "65536": 20230920
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The best shooting game with various perspectives.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
