@@ -1,4 +1,44 @@
 {
     "id": "01001F401A480800",
-    "version": 65536
+    "base_tid": "01001F401A480000",
+    "name": "Gigantosaurus: Dino Sports",
+    "description": "Play as Mazu, Rocky, Bill and Tiny and compete in eight chomp-sized games. You’ll fly across deserts, race across glaciers, blast targets with berrys and more. But look out – Giganto himself might just stomp into the action! \n\nWith lots of game modes you can create your own tournaments, take on AI opponents, or get the gang together for a split-screen party. Can you earn the most medals and win the Super Giganto Pineapple? You’ll have dino-mite fun finding out!\n\nIT’S PARTY TIME! – Race, fly and blast through eight dino-style games \n\nVISIT GIGANTO’S WORLD – With colorful 3D animation inspired by the show \n\nMULTIPLAYER MAYHEM – Up to four players can compete in split-screen mode \n\nCREATE NEW CHALLENGES – Build your own Giganto Games events \n\nPLAY AS YOUR FAVES – Control dino buddies Mazu, Rocky, Bill and Tiny ",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20240628,
+    "first_update_release_date": 20240702,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20240702
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "On your marks for a roar-some sports party for one to four dinos. These eight chomp-sized games are enormous fun – but watch out for Giganto!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

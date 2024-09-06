@@ -1,4 +1,35 @@
 {
     "id": "01001F2014CCC800",
-    "version": 131072
+    "base_tid": "01001F2014CCC000",
+    "name": "Wood Block Escape Puzzles 2",
+    "description": "Wood block escape puzzles a fun and simple way to relax and challenge your logical reasining and concentration.\n\nFeatures :\n- 256 levels \n- 4 difficulties (Beginner, Advanced, Master, Expert).",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210628,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20220105,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220105
+    },
+    "versions": {
+        "65536": 20211007,
+        "131072": 20220105
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Strategy"
+    ],
+    "intro": "Challenging unblocking puzzles with different difficulties ranging from beginner to expert.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

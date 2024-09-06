@@ -1,4 +1,35 @@
 {
     "id": "01001F3013F6C800",
-    "version": 131072
+    "base_tid": "01001F3013F6C000",
+    "name": "Gradiently",
+    "description": "Gradiently - casual color puzzle game for everyone. \nReorder tiles in a way they will form perfect gradient.\n\n- 400 beautiful hand-tuned gradients\n- Minimal art style\n- Full touch screen support\n- Relaxing soundtrack\n",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20210123,
+    "first_update_release_date": 20210218,
+    "latest_update_release_date": 20210304,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210304
+    },
+    "versions": {
+        "65536": 20210218,
+        "131072": 20210304
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Education",
+        "Training"
+    ],
+    "intro": "Beautiful relaxing puzzler, challenge your color perception!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

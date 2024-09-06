@@ -1,4 +1,33 @@
 {
     "id": "01001F501A9AA800",
-    "version": 131072
+    "base_tid": "01001F501A9AA000",
+    "name": "KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!",
+    "description": "Follow Kazuma and company, as they discover a mysterious \"Black Slab\" which curses them with desires contrary to their personality. The gang must now find and feed ingredients to the slab to create outfits which match and fulfil their new desires, and thus break their curse. Are you ready to meet Darkness as a ruthless dominatrix? How about Aqua as a prim and proper goddess? Or Megumin as the proud leader of the Lolita League?",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20231101,
+    "latest_update_release_date": 20240517,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240517
+    },
+    "versions": {
+        "65536": 20231101,
+        "131072": 20240517
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "An Isekai Visual Novel Adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "01001F201121E800",
-    "version": 131072
+    "base_tid": "01001F201121E000",
+    "name": "Paw Patrol: Mighty Pups Save Adventure Bay!",
+    "description": "A fallen meteor has given the pups mighty powers – and left Adventure Bay in a mighty mess. Now, it’s up to you and the Pups to use their powers, rescue skills and gadgets to make the town PAWsome again! \n\nEmbark on a super-heroic mission with the Mighty Pups and Chase’s Super Speed, Marshall’s Mighty Heat, Skye’s Whirlwind Power and the whole mighty PAW Patrol team. Explore the town and journey to Jake’s resort, Tracker’s jungle and beyond. With a whole town to help out and 2-player co-op fun, Adventure Bay has never been so interactive!\n\n• EVERY PUP IS HERE – Play as Chase, Rubble, Marshall, Everest, Skye, Rocky, Zuma and Tracker \n\n• EXPLORE ADVENTURE BAY – Take on 7 super-heroic missions to rescue friends and save the day. Plus 7 fun mini-games!\n\n• USE MIGHTY POWERS – Play as the pups and use their mighty powers to create whirlwinds, use Energy Super Tools, lift the heaviest things, and more!\n\n• TEAM UP ON THE DOUBLE – Two can play in co-op mode on the same screen\n",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20201106,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20210128,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210128
+    },
+    "versions": {
+        "65536": 20201110,
+        "131072": 20210128
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Join the Super Patrol on superheroic missions to save Adventure Bay.\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

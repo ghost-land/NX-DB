@@ -1,4 +1,35 @@
 {
     "id": "01001E600AF08800",
-    "version": 65536
+    "base_tid": "01001E600AF08000",
+    "name": "SEGA AGES Gain Ground",
+    "description": "It's 2348 and the Gain Ground battle-simulation supercomputer has gone rogue, trapping people inside with rampaging robots! It's up to you to rescue them.\n\nChoose between twenty playable characters, each with their unique abilities and skill sets. Do you have what it takes to escape?",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20210127,
+    "latest_update_release_date": 20210127,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210127
+    },
+    "versions": {
+        "65536": 20210127
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Strategy"
+    ],
+    "intro": "The classic arcade game returns on SEGA AGES for Nintendo Switch™.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

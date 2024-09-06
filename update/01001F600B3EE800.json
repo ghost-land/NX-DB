@@ -1,4 +1,35 @@
 {
     "id": "01001F600B3EE800",
-    "version": 131072
+    "base_tid": "01001F600B3EE000",
+    "name": "The Legend of Evil",
+    "description": "With two main modes, enjoy countless hours exploring, destroying and corrupting the world of humanity in this strategic tower offense!\n\nCampaign Mode:\n• Play as Bill, as he triumphantly carries out his duties to destroy mankind.\n • Build towers to summon procedurally generated demons that will unleash devastation on your enemies. \n • Discover new demons and unlock new tower upgrades throughout your quest to bring about the apocalypse!\n • Overcome obstacles and challenges by utilizing your demon's unique strengths.\n\nRogue Conquest Mode:\n • Different every time you play!\n • Build an adaptive strategy and think on your feet to combat the constantly changing human scourge.\n • Use unique demons each with their strengths, weaknesses and special abilities.\n • Experiment with endless combinations by fusing demons together.\n • Meet exciting and new enemies and bosses of all sizes.\n • Manage your resources while carefully balancing risk and reward.",
+    "publisher": "SPRINGLOADED",
+    "developer": null,
+    "base_release_date": 20181020,
+    "first_update_release_date": 20181012,
+    "latest_update_release_date": 20181025,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181025
+    },
+    "versions": {
+        "65536": 20181012,
+        "131072": 20181025
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Fight for the forces of evil, in this ultimate battle of tower offense!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

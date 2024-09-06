@@ -1,4 +1,42 @@
 {
     "id": "01001F2013DF2800",
-    "version": 65536
+    "base_tid": "01001F2013DF2000",
+    "name": "Escape 2088",
+    "description": "Escape 2088 is an old-school point & click escape room game with modern 3D graphics! Explore a futuristic environment and use your problem-solving skills to set yourself free!\nCareful observation of the surroundings will help you discover hidden clues, solve logic puzzles and escape in time!\n\n- 3 different areas to explore\n- Optional time limitation\n- Multi-language support\n- Logic and observation puzzles\n- Unlockable achievements\n",
+    "publisher": "OnSkull Development",
+    "developer": null,
+    "base_release_date": 20210128,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Escape 2088 is an old-school escape room game set in a futuristic, cyberpunk world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

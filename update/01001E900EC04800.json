@@ -1,4 +1,34 @@
 {
     "id": "01001E900EC04800",
-    "version": 65536
+    "base_tid": "01001E900EC04000",
+    "name": "Blast Brawl 2",
+    "description": "A fast-paced fighting game where any hit means DEATH! Battle your friends as a vastly diverse selection of characters, experiencing intense combat where every blow earns a kill, and skill reigns supreme. Brawl amidst a huge selection of maps, each set in a post-apocalyptic future and featuring unique elements that can change the face of a battle. And what's victory without a little dance?",
+    "publisher": "Mind's Eye Games",
+    "developer": null,
+    "base_release_date": 20200820,
+    "first_update_release_date": 20201217,
+    "latest_update_release_date": 20201217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201217
+    },
+    "versions": {
+        "65536": 20201217
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Fast-paced combat where any hit means DEATH!\nA diverse set of champions with unique abilities and play styles!\nDeadly enemies and bosses to test your mettle!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

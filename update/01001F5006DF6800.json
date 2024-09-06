@@ -1,4 +1,34 @@
 {
     "id": "01001F5006DF6800",
-    "version": 131072
+    "base_tid": "01001F5006DF6000",
+    "name": "Jim is Moving Out!",
+    "description": "Jim is Moving Out! is a physics-based game, where players have to pay attention to the environment, carefully plan their next move and be ready for everything! \n\nFrom the concrete jungle, through the land of sun and dunes, up to northern wilderness - JIMO will send you on the adventure you won’t forget, especially in co-op mode. If you are keen to solve puzzles, like to listen to classical music and love co-op gaming experience, you need to try this game.\n\nCollect Vinyl in Story mode and get access to the new levels in Laboratory and Death Match modes. There’s also Time Trial mode for family contests. See you in JIMO!",
+    "publisher": "Cinemax",
+    "developer": null,
+    "base_release_date": 20190719,
+    "first_update_release_date": 20190716,
+    "latest_update_release_date": 20190822,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190822
+    },
+    "versions": {
+        "65536": 20190716,
+        "131072": 20190822
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "A physics-based mix of platformer and puzzle game with classical music tunes included. Family friendly, especially in co-op. Help Jim to move-out and see the world!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "01001E401A182800",
-    "version": 262144
+    "base_tid": "01001E401A182000",
+    "name": "Ten Dates",
+    "description": "Ten Dates is the sequel to the interactive rom-com, Five Dates, taking place in the post-pandemic world. \n\nMisha, a millennial from London in search of that elusive in-person connection, tricks her best friend Ryan into going to a speed dating event with her. Each with their own five potential matches, Misha and Ryan must pluck up the courage and turn on the charm to date wildly different personalities.\n\nThroughout the game, your choices and interactions will either strengthen or weaken your relationship with your date. Amidst a branching, multi-directional chain of conversation topics and deep-dive questions, Misha and Ryan are faced with ice-breaker games, awkward scenarios and unexpected truths. Will either find love?\n\nFrom the publishing studio that brought you Five Dates, The Complex, The Bunker, Bloodshore, The Shapeshifting Detective, Who Pressed Mute on Uncle Marcus? And many more!\n\nFEATURES\n- A live-action romantic comedy, directed by Paul Raschid (Five Dates, The Complex)\n- Choose who you play and explore a connection with a diverse set of characters \n- Discover up to 10 successful endings with multiple failing scenarios from over 12 hours of filmed footage\n- Real-time Relationship Status Tracking that influences the story as you play\n- Streamer Mode – Pause your choices to interact with your community",
+    "publisher": "Wales Interactive",
+    "developer": null,
+    "base_release_date": 20230214,
+    "first_update_release_date": 20230221,
+    "latest_update_release_date": 20240220,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240220
+    },
+    "versions": {
+        "131072": 20230221,
+        "262144": 20240220
+    },
+    "category": [
+        "Adventure",
+        "Video",
+        "Other"
+    ],
+    "intro": "A live-action interactive romantic comedy sequel",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Language",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

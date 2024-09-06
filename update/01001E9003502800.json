@@ -1,4 +1,37 @@
 {
     "id": "01001E9003502800",
-    "version": 65536
+    "base_tid": "01001E9003502000",
+    "name": "Nintendo Labo Toy-Con 03 Vehicle Kit",
+    "description": "Only for GP and Patches",
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20190717,
+    "latest_update_release_date": 20190717,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190717
+    },
+    "versions": {
+        "65536": 20190717
+    },
+    "category": [
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence"
+    ],
+    "region": null
 }
