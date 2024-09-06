@@ -1,4 +1,27 @@
 {
     "id": "01005C101CFFC800",
-    "version": 262144
+    "base_tid": "01005C101CFFC000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20231102,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20231102,
+        "196608": 20231123,
+        "262144": 20240125
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }
