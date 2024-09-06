@@ -1,4 +1,32 @@
 {
     "id": "01000E600B05C800",
-    "version": 196608
+    "base_tid": "01000E600B05C000",
+    "name": "魔界戰記DISGAEA Refine",
+    "description": "「魔界戰記DISGAEA」系列遊戲是一款由魔王、惡魔、天使們領\n銜主演，\n所有角色們盡情大肆喧鬧，兼具痛快感與爽快感的策略RPG。\n全系列遊戲的共同魅力就是那怎麼玩也玩不完的耐玩要素，以及特\n立獨行的遊戲系統。\n角色等級最高可以升級至9999級，攻擊時所造成的傷害力可說是\n天差地別。\n\n不論是本系列的忠實粉絲或是從未玩過的新玩家，都能盡興地享受\n遊戲內容！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180809,
+    "first_update_release_date": 20180808,
+    "latest_update_release_date": 20190224,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190224
+    },
+    "versions": {
+        "65536": 20180808,
+        "131072": 20181121,
+        "196608": 20190224
+    },
+    "category": [
+        "角色扮演",
+        "模擬"
+    ],
+    "intro": "即使經過15年的時間仍然很有得玩！史上最兇惡的策略RPG！",
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

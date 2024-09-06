@@ -1,4 +1,45 @@
 {
     "id": "01000E801ACDE800",
-    "version": 65536
+    "base_tid": "01000E801ACDE000",
+    "name": "DESOLATIUM",
+    "description": "In this graphic point-and-click adventure, you get to investigate the mysterious disappearance of a friend through the eyes of 4 different characters, each with their own characteristics. Uncover the mystery as you’re led toward a dark path filled with Lovecraftian myths and creatures. Are the ‘old ones’ they read about truly real? Be careful what you ask for, because the answer might lead you to your doom if you don’t tread carefully. \nFeatures\n•\tExplore a new graphic adventure based on Lovecraft mythos \n•\tExplore levels based on real-world locations in 360º\n•\tPlay as 4 different characters, each with their own mechanics and characteristics\n•\tGet Immersed in a thrilling adventure with ambisonics audio and a unique art style straight out of a comic\n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20231027,
+    "first_update_release_date": 20231026,
+    "latest_update_release_date": 20231026,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231026
+    },
+    "versions": {
+        "65536": 20231026
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01000E300E2D6800",
-    "version": 131072
+    "base_tid": "01000E300E2D6000",
+    "name": "Super Star Blast",
+    "description": "Super Star Blast is a space based game with challenging levels of increasing difficulty. All enemies must be shot down to finish a level and go to the next one. A scanner around the player tells roughly where the enemies are located. The player ship can fly forwards to attack and backwards to fight during the retreat against the opponents. After clearing a level you can purchase equipment to boost the ship, as well as extra shields and firepower or more ships.\n\nIn local multiplayer mode, up to 4 players can fight together trough the levels (campaign mode) or can get each other in a battle (competition mode).",
+    "publisher": "EntwicklerX",
+    "developer": null,
+    "base_release_date": 20190426,
+    "first_update_release_date": 20190508,
+    "latest_update_release_date": 20191009,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191009
+    },
+    "versions": {
+        "65536": 20190508,
+        "131072": 20191009
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

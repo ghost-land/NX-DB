@@ -1,4 +1,42 @@
 {
     "id": "01000E000DD40800",
-    "version": 196608
+    "base_tid": "01000E000DD40000",
+    "name": "Vambrace: Cold Soul",
+    "description": "Vambrace: Cold Soul is a roguelike fantasy-adventure set amidst a frozen landscape. Plan your expeditions underground, then journey to the cursed city surface with your team of heroes. Wield unique powers, avoid dangerous traps, brave strange encounters, and survive deadly combat!\n\nThe King of Shades has cursed the great city of Icenaire. Now cast under a permanent blight of frost fall, its former residents have returned from the dead as mad Wraiths. Woefully outmatched the few refugees are forced into hiding as the King of Shades amasses an army of the undead above them. One fateful day, a mysterious stranger appears in the city with an enchanted vambrace…\n\nA narrative-driven game filled with memorable characters, brutal challenges, and deep strategy. You must choose perceptive party leaders, camp to recuperate, navigate strange encounters, and survive deadly combat. The surface of Icenaire is cold and unforgiving. So, prepare your party well before departing… \n",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20190829,
+    "first_update_release_date": 20190913,
+    "latest_update_release_date": 20200716,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200716
+    },
+    "versions": {
+        "65536": 20190913,
+        "196608": 20200716
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

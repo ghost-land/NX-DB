@@ -1,4 +1,32 @@
 {
     "id": "01000E100A470800",
-    "version": 65536
+    "base_tid": "01000E100A470000",
+    "name": "東方計劃 不可思議的幻想鄉 TOD -RELOADED-\nAsia All-in-One Edition",
+    "description": "以「東方Project（製作：上海愛麗絲幻樂團）」為題材的粉絲取向遊戲『不可思議的幻想鄉』是每次遊玩地城構造與道具都會改變的「地城探索RPG」。\n原作的「東方紅魔鄉」之後的角色，包含敵人與夥伴，登場角色多達約120位！　絕妙再現擁有豐富性格的能力與特徵。全語音的冒險部分讓故事更加精彩。\n讓人忍不住多次遊玩的大量全破要素與簡單易懂的系統獲得高度評價，即便是不知道東方企劃、第一次遊玩地城探索RPG的玩家也能非常盡興。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180628,
+    "first_update_release_date": 20180627,
+    "latest_update_release_date": 20180627,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180627
+    },
+    "versions": {
+        "65536": 20180627
+    },
+    "category": [
+        "角色扮演",
+        "策略"
+    ],
+    "intro": "廣獲好評的東方計劃二次創作作品以中文版登場！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

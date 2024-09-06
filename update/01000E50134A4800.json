@@ -1,4 +1,34 @@
 {
     "id": "01000E50134A4800",
-    "version": 65536
+    "base_tid": "01000E50134A4000",
+    "name": "#Halloween, Super Puzzles Dream",
+    "description": "#Halloween! is the hashtag for the most terrifying topic!\n\nPuzzles move onto the next level with ‘Super Puzzle Dream’, a mix between classic jigsaw puzzle and a ‘Tetromino’-style dynamic mechanic.\n\n Two levels of play, 'senior' (for adults) and 'junior' (for children aged 3+), guarantee hours of entertainment for all.\n\n Become an expert and finish the puzzles in the shortest possible time and you will find yourself amongst the best in the world on the online leaderboard.\n\nHave fun working together to complete the puzzles in Cooperative (co-op) mode.\n\n You can also play with friends and family in the one-on-one split-screen competition mode. Your rival won't make it easy for you! Don't give up - fill an energy bar to perform a counterattack and put them in their place.\n\nRemember, without fun there is no « Super Puzzles Dream »",
+    "publisher": "FuriouSoftPhoenix",
+    "developer": null,
+    "base_release_date": 20201029,
+    "first_update_release_date": 20210104,
+    "latest_update_release_date": 20210104,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210104
+    },
+    "versions": {
+        "65536": 20210104
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Party",
+        "Board Game"
+    ],
+    "intro": "Without fun there is no « Super Puzzles Dream »",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

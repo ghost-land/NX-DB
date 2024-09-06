@@ -1,4 +1,43 @@
 {
     "id": "01000E2003FA0800",
-    "version": 393216
+    "base_tid": "01000E2003FA0000",
+    "name": "MIGHTY GUNVOLT BURST",
+    "description": "Rather than make a direct sequel to their bite-sized 2D action game Mighty Gunvolt from 2014, Inti Creates has made the next installment in the Mighty Gunvolt series a brand new full-sized game that features characters from multiple universes with Gunvolt (Azure Striker Gunvolt) and Beck (Mighty No. 9) taking the stage once again, but in a much deeper and more expansive world that differs greatly from the original in many ways.\n\nThe game systems have been completely revamped and powered up with lots of new additions, including a deep character customization system that lets you mold and shape your character into the ultimate hero that works best for you! \n\nBut that's not all! The new Burst Combo system rewards you for finishing off enemies and bosses up close and personal, and the Dowsing ability triggers the HD rumble when you get close to one of the many hidden items/areas in the game.\n\nThe classic pixel style graphics have also been completely redone to blur the line between 8-bit and 16-bit and take you back to the golden age of 2D action games!",
+    "publisher": "Inti Creates",
+    "developer": null,
+    "base_release_date": 20170615,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20191108,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20191108
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170927,
+        "196608": 20171227,
+        "327680": 20180423,
+        "393216": 20191108
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Gunvolt and Beck’s universes collide in a brand new virtual world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

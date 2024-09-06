@@ -1,4 +1,40 @@
 {
     "id": "01000E6016A22800",
-    "version": 196608
+    "base_tid": "01000E6016A22000",
+    "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX - Cloud Version",
+    "description": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX is the essential HD remastered collection, featuring:\n\n• KINGDOM HEARTS FINAL MIX\n• KINGDOM HEARTS Re:Chain of Memories\n• KINGDOM HEARTS 358/2 Days (HD Remastered cinematics)\n• KINGDOM HEARTS II FINAL MIX\n• KINGDOM HEARTS Birth by Sleep Final MIX\n• KINGDOM HEARTS Re:coded (HD Remastered cinematics) \n\nThis is is the perfect opportunity to start wielding your Keyblade to save the Disney worlds from darkness!",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220211,
+        "131072": 20220309,
+        "196608": 20220512
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "THIS GAME REQUIRES INTERNET CONNECTION TO PLAY. PLEASE TRY OUT THE FREE DEMO BEFORE PURCHASE.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

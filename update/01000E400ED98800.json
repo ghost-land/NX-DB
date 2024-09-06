@@ -1,4 +1,40 @@
 {
     "id": "01000E400ED98800",
-    "version": 131072
+    "base_tid": "01000E400ED98000",
+    "name": "Farm Mystery",
+    "description": "The Happy Orchard Farm is trapped in a nightmare! People are disappearing into the mist that surrounds the town at night in this Farm Mystery. It's up to you to solve the chilling case of this haunted place. Search for clues, solve puzzles and play mini-games to uncover the secrets of the Happy Orchard nightmare. Will you solve the Farm Mystery?",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20190822,
+    "first_update_release_date": 20210128,
+    "latest_update_release_date": 20210930,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210930
+    },
+    "versions": {
+        "65536": 20210128,
+        "131072": 20210930
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Scary Scenes"
+    ],
+    "region": null
 }

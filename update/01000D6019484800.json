@@ -1,4 +1,36 @@
 {
     "id": "01000D6019484800",
-    "version": 65536
+    "base_tid": "01000D6019484000",
+    "name": "Brewmaster: Beer Brewing Simulator",
+    "description": "在精釀啤酒的極致慶典中發現、學習及掌握自釀藝術。\n從精進真實的化學釀造工藝到命名、入瓶及加上標籤——在首個逼真的啤酒釀造體驗中精煉你的工藝，成為終極釀造大師。掌握行業的所有技巧且有最好的設備任你使用，你可以按照食譜進行操作，或嘗試現實世界種類繁多的原料來磨練你的技能。參加友誼賽、賺取啤酒代幣及升級你的設備，以成為更出色的釀造者。",
+    "publisher": "Game Source Entertainment",
+    "developer": null,
+    "base_release_date": 20221124,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20221218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221218
+    },
+    "versions": {
+        "65536": 20221218
+    },
+    "category": [
+        "模擬"
+    ],
+    "intro": "在這款令人放鬆的自家釀造模擬遊戲中，釀造出你的完美啤酒。",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

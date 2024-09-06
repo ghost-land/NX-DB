@@ -1,4 +1,45 @@
 {
     "id": "01000E701B172800",
-    "version": 196608
+    "base_tid": "01000E701B172000",
+    "name": "Farming Simulator Kids",
+    "description": "Farming Simulator Kids introduces the growing generation to the colorful and fun world of farming and blooming nature – educating and entertaining them in a child-friendly and sheltered environment. Suited for all ages and easy to play.\n\nFarming Fun For The Little Ones\n\nWith cute aesthetics, Farming Simulator Kids invites young players to live a cozy farm life. Children explore farm locations to grow and harvest healthy crops, or care for adorable farm animals like cows, chickens, or geese. As big tractors and other vehicles are a must, kids can operate a variety of machines by renowned manufacturer John Deere.\n\nLearning the Value of Produce\n\nRich with mini-games from gardening to sandwich making, there is much more to do: Little farmers visit their own farmers’ market to get a feeling for the value of the fresh produce, trade items at a swap shop, create delicious food items, and meet lovable characters to interact with.\n\nFeature Highlights\n\n* Child-Friendly Presentation\n* Character Creator with Colorful Styles\n* Multiple Locations to Explore\n* 10+ Crops to Plant & Harvest\n* Countless Items to Produce, Collect & Trade\n* Vehicles & Tools by John Deere\n* Loveable Characters and Animals to Meet\n* Lots of Activities like Farming, Gardening & More",
+    "publisher": "GIANTS Software",
+    "developer": null,
+    "base_release_date": 20240326,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240806,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240806
+    },
+    "versions": {
+        "65536": 20240328,
+        "131072": 20240419,
+        "196608": 20240806
+    },
+    "category": [
+        "Education",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Child-friendly & colorful introduction to farming.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

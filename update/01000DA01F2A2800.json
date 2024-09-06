@@ -1,4 +1,33 @@
 {
     "id": "01000DA01F2A2800",
-    "version": 65536
+    "base_tid": "01000DA01F2A2000",
+    "name": "Scoop it! Goldfish",
+    "description": "Let's enjoy goldfish scooping on the Nintendo Switch™!\nShare Joy-Con™ and play with up to 4 players!\nAim for a new high score!\n\nWield your net and scoop up all kinds of goldfish!\n\n【Score Attack】\nScoop as many goldfish as you can and aim for a high spot on the leaderboards!\n\n【Battle】\nCompete with others and test your goldfish scooping skills!\n\n【Display】\nDisplay the fish you've caught in Score Attack in an aquarium!\nChange to fullscreen mode and relax while watching your fish!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240704,
+    "first_update_release_date": 20240618,
+    "latest_update_release_date": 20240618,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240618
+    },
+    "versions": {
+        "65536": 20240618
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Arcade",
+        "Communication"
+    ],
+    "intro": "It's time for a carnival game classic: goldfish scooping!\nScoop as many as you can and become a master!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

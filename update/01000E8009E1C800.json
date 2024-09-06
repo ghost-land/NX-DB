@@ -1,4 +1,41 @@
 {
     "id": "01000E8009E1C800",
-    "version": 65536
+    "base_tid": "01000E8009E1C000",
+    "name": "Shift Quantum",
+    "description": "Axon Vertigo, the world's leading authority and most trusted friend in cerebral contentedness programming, promises to deliver better life quality for everyone with the Shift Quantum program.\n \nConnected to the cyber-noir action-puzzle platformer, you will be tasked to solve puzzles and create negative space by inverting the world to transform barriers into escape routes.\n \nShift the world, twist your environment, bend your mind to unveil its secrets and solve each brain-drilling level .\nMake use of all special gameplay blocks to overcome obstacles and get to the exit to find the happiness you have been searching for and promised by Axon Vertigo.\n\nJoin Axon Vertigo's Level Editor for the Shift Quantum program to create your own custom levels and publish them to the community to get played, rated and featured.\nDon't limit your challenges, challenge your limits.",
+    "publisher": "Red Panda Interactive",
+    "developer": null,
+    "base_release_date": 20180530,
+    "first_update_release_date": 20180709,
+    "latest_update_release_date": 20180709,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180709
+    },
+    "versions": {
+        "65536": 20180709
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

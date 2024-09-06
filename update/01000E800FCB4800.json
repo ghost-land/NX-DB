@@ -1,4 +1,38 @@
 {
     "id": "01000E800FCB4800",
-    "version": 131072
+    "base_tid": "01000E800FCB4000",
+    "name": "Ships",
+    "description": "Participate in the extraction of large-scale marine facilities from the bottom of the sea, in the transport and assembly of large offshore installations, as well as in rescue and transport missions.\n\nIn a special game mode, you will take direct control of crew members and appropriate accessories (e.g. fire extinguishers, fire hoses, water cannons, inflatable boats, searchlights) to defend the ship against pirate attacks, put out a fire or pick out survivors.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20191105,
+    "first_update_release_date": 20191127,
+    "latest_update_release_date": 20191127,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191127
+    },
+    "versions": {
+        "131072": 20191127
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Lifestyle"
+    ],
+    "intro": "Take control of 3 special-purpose ships and perform interesting missions in the dangerous waters of the Baltic Sea.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

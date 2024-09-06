@@ -1,4 +1,34 @@
 {
     "id": "01000D9007C28800",
-    "version": 131072
+    "base_tid": "01000D9007C28000",
+    "name": "Cave Story+",
+    "description": "記憶をなくし見知らぬ洞窟で目覚めた少年は、そこに暮らす不思議な種族ミミガー達と出会う…。彼等を狙うドクターの野望を砕け！果たして少年は過去を取り戻し、真実にたどりつけるのか！？",
+    "publisher": "Pikii",
+    "developer": null,
+    "base_release_date": 20180208,
+    "first_update_release_date": 20210531,
+    "latest_update_release_date": 20210623,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210623
+    },
+    "versions": {
+        "65536": 20210531,
+        "131072": 20210623
+    },
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": "ずっとずっと語り継がれる冒険",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

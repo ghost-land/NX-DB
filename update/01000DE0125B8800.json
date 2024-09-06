@@ -1,4 +1,33 @@
 {
     "id": "01000DE0125B8800",
-    "version": 131072
+    "base_tid": "01000DE0125B8000",
+    "name": "Hunt",
+    "description": "Hunt is a sandbox hunting simulator game where the goal is to hunt as many game in 15 minutes. \n\nYour hunting gear includes a sniper rifle, 9mm pistol, shotgun, revolver and a semi-automatic machine gun \n\nWith so many different kinds of animals to hunt no game will be the same \n\nPick the time to go hunting,  If you hunt during the afternoon beware of the bears wandering around, they will attack you and if you are hunting during the night beware of wild attacking wolf packs. \n\nThe animals you can hunt are randomly created in different sizes and colors and sizes and your score is based on the kind of  animal and its size and colour. ",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200723,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210831
+    },
+    "versions": {
+        "131072": 20210831
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
