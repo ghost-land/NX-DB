@@ -1,4 +1,42 @@
 {
     "id": "010044501A768800",
-    "version": 327680
+    "base_tid": "010044501A768000",
+    "name": "Moonleap",
+    "description": "Moonleap is a game about a moon boy on his journey to recover shooting stars. Change day to night with your jump and catch all the stars in this challenging puzzle-platformer!\n\nAn innovative mechanic with simple and accessible controls, walk and jump!",
+    "publisher": "guselect",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230529,
+    "latest_update_release_date": 20240513,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240513
+    },
+    "versions": {
+        "65536": 20230529,
+        "131072": 20230529,
+        "196608": 20240412,
+        "262144": 20240510,
+        "327680": 20240513
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Help our moon boy on his journey to recover shooting stars",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

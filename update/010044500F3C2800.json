@@ -1,4 +1,35 @@
 {
     "id": "010044500F3C2800",
-    "version": 131072
+    "base_tid": "010044500F3C2000",
+    "name": "The Mims Beginning",
+    "description": "Experience the mysterious and mystical by taking on a journey with Mims in this strategic god-like video game. Create structures, plant vegetation, breed animals, take care of your minions, use divine PSI powers, triumph in face of natural disasters, fight monsters, predict the future, reveal secrets and so much more. Assume the lead over Mims as they journey across the galaxy in their epic quest!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20191124,
+    "first_update_release_date": 20191119,
+    "latest_update_release_date": 20191122,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191122
+    },
+    "versions": {
+        "65536": 20191119,
+        "131072": 20191122
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "The Mims Beginning is a god-like strategy game with a dose of cosmic humor. The story takes place in an unknown space and time.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

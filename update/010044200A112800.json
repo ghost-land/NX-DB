@@ -1,4 +1,27 @@
 {
     "id": "010044200A112800",
-    "version": 65536
+    "base_tid": "010044200A112000",
+    "name": "Vostok Inc. Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20180420,
+    "latest_update_release_date": 20180420,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180420
+    },
+    "versions": {
+        "65536": 20180420
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010044101CD78800",
-    "version": 65536
+    "base_tid": "010044101CD78000",
+    "name": "Eventide 3: Legacy of Legends",
+    "description": "Step into the shoes of Mary Gilbert - world renowned botanist and guardian of Fern Flower - to once again explore the mythical realm of Slavic fables. Travel to forgotten flying islands among the clouds to stop an evil sorcerer and gain the favor of a thunder god. Save your kidnapped brother and prevent a catastrophic flood caused by the conflict between humans and the ancient Clouders.\n",
+    "publisher": "Artifex Mundi",
+    "developer": null,
+    "base_release_date": 20231012,
+    "first_update_release_date": 20240226,
+    "latest_update_release_date": 20240226,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240226
+    },
+    "versions": {
+        "65536": 20240226
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover mythical Slavic flying islands!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

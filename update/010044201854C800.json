@@ -1,4 +1,37 @@
 {
     "id": "010044201854C800",
-    "version": 65536
+    "base_tid": "010044201854C000",
+    "name": "Arcade Archives THUNDER CEPTOR II",
+    "description": "\"THUNDER CEPTOR II\" is a shooter released by NAMCO (currently Bandai Namco Entertainment Inc) in 1986.\nThis title is an update of the previous \"THUNDER CEPTOR,\" in which players navigated the energy corridors that connect star systems to make their way back to the Federation Base. Now featuring new varieties of stage layouts and enemies!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230328,
+    "latest_update_release_date": 20230328,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230328
+    },
+    "versions": {
+        "65536": 20230328
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Take a seat in the cockpit and blast off into space!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,49 @@
 {
     "id": "0100449011506800",
-    "version": 393216
+    "base_tid": "0100449011506000",
+    "name": "The Last Campfire",
+    "description": "ON A JOURNEY\nTravel deeper into the lands beyond the dark forest and overcome the adversities before you.\n\nUNCOVER A WORLD\nDiscover beautiful wilderness filled with lost folk, strange creatures and mysterious ruins.\n\nLIGHT THE LAST CAMPFIRE\nFind hope and carry it with you on your Journey to light The Last Campfire.\n\nFROM A SMALL STUDIO\nA unique tale from Hello Games and the creative minds behind LostWinds.",
+    "publisher": "Hello Games",
+    "developer": null,
+    "base_release_date": 20200827,
+    "first_update_release_date": 20200826,
+    "latest_update_release_date": 20210409,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210409
+    },
+    "versions": {
+        "65536": 20200826,
+        "131072": 20200901,
+        "196608": 20200918,
+        "262144": 20200930,
+        "327680": 20201023,
+        "393216": 20210409
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "The Last Campfire is an adventure, a story of a lost ember trapped in a puzzling place, searching for meaning and a way home.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Crude Humour"
+    ],
+    "region": null
 }

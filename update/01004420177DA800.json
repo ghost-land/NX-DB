@@ -1,4 +1,46 @@
 {
     "id": "01004420177DA800",
-    "version": 196608
+    "base_tid": "01004420177DA000",
+    "name": "Tales of the Neon Sea",
+    "description": "Tales of the Neon Sea is a retro-style pixel-art adventure, set in a fully-realized cyberpunk cityscape where you will encounter innumerous items to investigate, curious easter eggs, and a whole cast of interactive NPCs. You must analyze every detail, and discover the truth that lurks behind the heavy mist…",
+    "publisher": "Thermite Games",
+    "developer": null,
+    "base_release_date": 20230421,
+    "first_update_release_date": 20230403,
+    "latest_update_release_date": 20230630,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230630
+    },
+    "versions": {
+        "65536": 20230403,
+        "131072": 20230424,
+        "196608": 20230630
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Arcade"
+    ],
+    "intro": "Cyberpunk\nAdventure\nDetective",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

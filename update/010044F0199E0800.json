@@ -1,4 +1,43 @@
 {
     "id": "010044F0199E0800",
-    "version": 131072
+    "base_tid": "010044F0199E0000",
+    "name": "Hamster on Rails",
+    "description": "In \"Hamster on Rails\", you will join the best and bravest railroad builder on an incredible journey to search for precious minerals and save the beloved Hamster Village. Travel through four intriguing worlds, such as a forest, a desert, and even the medieval era, in a total of 64 challenging stages.\n\nCheck out the key features of \"Hamster on Rails\":\n\n- Use different pieces to build railroads and overcome obstacles to solve fun challenges. Use levers to change the direction of the tracks and buttons to activate or deactivate different mechanisms, such as doors and traps.\n\n- Help your friends along the way, find hidden chests, and earn new looks. Dress your hamster up as a strawberry, striped, or even spotted like a cow.\n\n- With cute characters, \"Hamster on Rails\" is a fun and challenging problem-solving game that will put your skills to the test. Your Hamster will have several ways to interact such as the construction mode, interaction mode, x-ray, and turbo.\n\nJoin this adventure and have fun building unusual railroads, helping other hamster friends, customizing your hero, and saving the Hamster village!",
+    "publisher": "DX Gameworks",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20230803,
+    "latest_update_release_date": 20231004,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231004
+    },
+    "versions": {
+        "65536": 20230803,
+        "131072": 20231004
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Build railways to solve challenges and help the Hamsters' village.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

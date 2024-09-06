@@ -1,4 +1,48 @@
 {
     "id": "0100440012FFA800",
-    "version": 262144
+    "base_tid": "0100440012FFA000",
+    "name": "DARQ Complete Edition",
+    "description": "DARQ will take you on a journey through Lloyd's dreams that quickly turn into a loop of nightmares. The boy’s main priority is to wake up, but unfortunately, each attempt sinks him deeper into his lucid subconscious-driven dreams. Lloyd has to adapt to the new world, re-learn gravity, strain all of his senses and mind in order to solve puzzles and sneak past the creatures guarding the corners of DARQ.\n\nWill you decipher the true meaning of Lloyd’s dreams?\n\nThe Complete Edition includes: \n\nDARQ - Original Game.\nThe Tower DLC - Lloyd wakes up in his dreams again only to find himself in a Tower filled with many new mysteries, puzzles, and creepy creatures. \nThe Crypt DLC - Another loop of nightmares continues introducing new mechanics and puzzles in a crypt filled with dark surprises.",
+    "publisher": "Feardemic",
+    "developer": null,
+    "base_release_date": 20210319,
+    "first_update_release_date": 20210318,
+    "latest_update_release_date": 20220801,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220801
+    },
+    "versions": {
+        "65536": 20210318,
+        "131072": 20210326,
+        "196608": 20210729,
+        "262144": 20220801
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

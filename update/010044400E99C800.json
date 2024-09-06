@@ -1,4 +1,40 @@
 {
     "id": "010044400E99C800",
-    "version": 131072
+    "base_tid": "010044400E99C000",
+    "name": "BATTLE & CRASH",
+    "description": "BATTLE & CRASH is a Car Battle Action Game in which you take out car after car in a battle royal to achieve victory.\nCompete for unique Rifles, Missiles, Lasers, and clash and take out your enemies in an ultimate battle royal!\n\nThis game contains 3 game modes: \"Battle League\", \"Team Battle\", and \"Survival\".\nAll game modes can be played by up to 4 Players.\n\nBattle League\n8 cars clashing with full force!\nPlay 5 Stages in a row and compete in overall performance. \n\nTeam Battle\nClash in a 4 vs. 4 Team Battle!\nYou can freely choose Stages, Time Limits, Revival Restrictions,\nand switch whether Items and Main Weapons appear in the Stage ON, or OFF. \n\nSurvival\nA full-on 15 car brawl!\n15 cars battle it out to be the last one remaining. \n",
+    "publisher": "STARSIGN",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20190805,
+    "latest_update_release_date": 20210324,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210324
+    },
+    "versions": {
+        "65536": 20190805,
+        "131072": 20210324
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": "Fire! Clash! Obliterate!\nExciting Car Battle Royal!!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

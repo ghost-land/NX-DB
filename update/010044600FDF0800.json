@@ -1,4 +1,47 @@
 {
     "id": "010044600FDF0800",
-    "version": 262144
+    "base_tid": "010044600FDF0000",
+    "name": "Marooners",
+    "description": "Play a wild mix of fun party games as the action regularly switches back and forth between games. Can you handle the switcheroo chaos? Join your friends both on the couch and online while sadistically laughing at their misfortune, or come back to haunt them if you die. Run, jump and slap your way to victory!Party Game madness: experience switcheroo chaos as the action jumps between multiple intense minigames when you least expect it, or take the challenge of completing a full play through of each minigame once. Face different game types and surprise bonus stages.\n\nPick your Marooner: a host of quirky characters to unlock and play as, 70+ hilarious weapons to unlock and use, and if you die... come back as a ghost to haunt your friends.\n\nPlay Party Mode and Arena Mode: 25 different games and arena maps, as you race for treasure in Party Mode or duke it out to see who will be king of the ring in Arena Mode. Whichever mode you pick, expect the unexpected!\n\nSeamless local and online play: up to 6 players in any combination of local and online as you level up and unlock new weapons, plus full bot support to play solo and in multiplayer mode, spectator mode, streamlined matchmaker and lobby system.\n\n\"Marooners Deluxe Content\" included!",
+    "publisher": "M2H",
+    "developer": null,
+    "base_release_date": 20220110,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20200819,
+        "131072": 20200923,
+        "196608": 20211124,
+        "262144": 20230523
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The most chaotic multiplayer party game on the planet!\nParty game madness!\nPick your Marooner!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
