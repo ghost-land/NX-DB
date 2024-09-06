@@ -1,4 +1,45 @@
 {
     "id": "0100EF50132BE800",
-    "version": 458752
+    "base_tid": "0100EF50132BE000",
+    "name": "Kingdoms of Amalur: Re-Reckoning",
+    "description": "The hit RPG returns! From the minds of the bestselling author R.A. Salvatore, Spawn creator Todd McFarlane, and Elder Scrolls IV: Oblivion lead designer Ken Rolston, comes Kingdoms of Amalur: Re-Reckoning.  Remastered with stunning visuals and refined gameplay Re-Reckoning delivers intense, customizable RPG combat inside a sprawling game world.\n\n----------\n\nUncover the secrets of Amalur, from the vibrant city of Rathir to the vast region of Dalentarth to the grim dungeons of the Brigand Hall Caverns. Rescue a world torn apart by a vicious war and control the keys to immortality as the first warrior ever to be resurrected from the grips of death.",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20210317,
+    "first_update_release_date": 20210202,
+    "latest_update_release_date": 20230721,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20230721
+    },
+    "versions": {
+        "65536": 20210202,
+        "131072": 20210303,
+        "196608": 20210331,
+        "262144": 20210415,
+        "393216": 20230307,
+        "458752": 20230721
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong fantasy violence"
+    ],
+    "region": null
 }

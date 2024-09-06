@@ -1,4 +1,37 @@
 {
     "id": "0100EFE009424800",
-    "version": 262144
+    "base_tid": "0100EFE009424000",
+    "name": "Animal Super Squad",
+    "description": "Animal Super Squad is a physics-based adventure game that lets you play as your favorite animal. Speed through a world full of dangers and bananas. Create your own levels, share them with the community, or forget all that nonsense and just play other people’s stuff.",
+    "publisher": "DoubleMoose",
+    "developer": null,
+    "base_release_date": 20180501,
+    "first_update_release_date": 20180618,
+    "latest_update_release_date": 20190313,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190313
+    },
+    "versions": {
+        "65536": 20180618,
+        "131072": 20180703,
+        "196608": 20180718,
+        "262144": 20190313
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Physics-based adventure with community driven content.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

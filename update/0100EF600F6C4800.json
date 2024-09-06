@@ -1,4 +1,41 @@
 {
     "id": "0100EF600F6C4800",
-    "version": 131072
+    "base_tid": "0100EF600F6C4000",
+    "name": "Still There",
+    "description": "STILL THERE is a story-driven psychological adventure game about lingering grief, technical puzzles, wacky AIs and dark humour. Evade the past, welcome oblivion, make the perfect Italian coffee.\n\nLEARN THE TRUTH\nAfter receiving an emergency radio transmission, the routines of an isolated space-lighthouse keeper and his AI companion are broken forever. Confront, console and confess through dialogues with rich and compelling characters. A classic, humane, sci-fi mystery.\n\nSOLVE CHALLENGING PUZZLES\nYou’ll earn a living as Karl Hamba, sole operator of The Bento; monitoring and repairing its core systems alongside Gorky, your on-board artificial intelligence. Study your environment to understand the complex functions of the station, report back to your inept employers and discover your true purpose.\n\nPASS THE TIME\nIn between your daily tasks you’ll find plenty to occupy yourself with. Challenge Gorky to a game of chess, nurture a pet tuatara and recycle your own urine into another “delicious” meal. The Bento is brimming with detail and interesting ways to interact with everything you see.",
+    "publisher": "Iceberg Interactive",
+    "developer": null,
+    "base_release_date": 20191121,
+    "first_update_release_date": 20191219,
+    "latest_update_release_date": 20200114,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200114
+    },
+    "versions": {
+        "65536": 20191219,
+        "131072": 20200114
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other",
+        "Simulation"
+    ],
+    "intro": "How Far is Far Enough?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Sexual References"
+    ],
+    "region": null
 }

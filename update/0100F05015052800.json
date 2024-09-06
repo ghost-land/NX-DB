@@ -1,4 +1,40 @@
 {
     "id": "0100F05015052800",
-    "version": 327680
+    "base_tid": "0100F05015052000",
+    "name": "Rise of the Third Power",
+    "description": "Rise of the Third Power is a retro-themed, console-style role playing game, loosely based on the political climate of Europe in the late 1930's. The story takes place in the land of Rin during the height of the Age of Sail, following the events that would lead to the greatest war in human history.\n\nSTORY DRIVEN - Join a party of eight, each with their own unique ambitions, perspectives and personalities as they embark upon a suicide mission to topple the Arkadyan emperor, Dimitri Noraskov. A blend of humor, drama and tragedy await players as they navigate the treacherous world of Rin.\n\nPOLITICAL INTRIGUE - As the world of Rin recovers from the Great War, the balance of power remains badly skewed, with vacuums of power still waiting to be filled. The player's party will be both beset and aided by schemers, liars and betrayers, all while the clock ticks down to a reprise of the greatest war in human history.\n\nCUSTOM BATTLE SYSTEM - Rise of the Third Power offers eight playable characters in a battle system built from scratch, each with their own strengths and weaknesses, all of whom are meant to participate in battle simultaneously without the need for tedious party management. Combine each character's unique powers and disadvantages, analyze the abilities of your foes, set your formation and charge into battle.\n\nPERSISTENT EQUIPMENT - Each piece of equipment found, purchased or stolen is a permanent, unique upgrade for each character. Instead of purchasing replacements, the player purchases upgrades. No more buying that awesome helmet back in town only to stumble over a better one as treasure in a dungeon. Each character has 3 equipment slots with 8 upgrades each, with 192 to find in total. This system avoids the tedium of inventory management, while also giving the completionist something useful to hunt for.",
+    "publisher": "DANGEN Entertainment",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220119,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220119,
+        "131072": 20220125,
+        "196608": 20220301,
+        "262144": 20220418,
+        "327680": 20220512
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "They Can’t Save The World.\nBut They Can Change History.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Mature Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100EFE01A9E0800",
-    "version": 65536
+    "base_tid": "0100EFE01A9E0000",
+    "name": "Herodes",
+    "description": "It is the year 2197. Humanity has never been closer to immortality - there is no disease that can't be cured, no virus that can't be defeated. Until now.\nYou will use cutting-edge technology to shrink yourself down and hunt down a new and mysterious virus that can't be defeated by any other means.\n\nGame Features:\n\n- Incredible pixel art graphics\n- Shoot'em up-style gameplay\n- Diverse enemies\n- Beautiful and unique soundtrack",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230511,
+    "first_update_release_date": 20230505,
+    "latest_update_release_date": 20230505,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230505
+    },
+    "versions": {
+        "65536": 20230505
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": "Find the source of the disease and destroy it in Herodes!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

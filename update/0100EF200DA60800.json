@@ -1,4 +1,52 @@
 {
     "id": "0100EF200DA60800",
-    "version": 458752
+    "base_tid": "0100EF200DA60000",
+    "name": "The Survivalists",
+    "description": "Hunt (or be hunted by!) animals for food and an array of mythical enemies, who aren’t necessarily pleased to see you. Get quests from a Mysterious Stranger or find them washed up on the shore. Prepare to trek into a procedurally generated wilderness, with a variety of biomes, for an adventure that’s unique to every player.\n\nBuild Together, Survive Together \n\nFinding the perils of island life too much or just looking to share your building expertise with friends? The Survivalists has you covered! Complete joint adventures, gain loot, trade and ultimately survive together and as you and up to three fellow castaways explore an island paradise.\n\nMonkey See, Monkey Do! \n\nIf you’re in need of a builder, a lumberjack or even a soldier, the monkeys on the island can be tamed and trained to help you with everyday tasks or back you up on raids to a fanatic camp! The Mimic System means a wide variety of functions can be performed by your banana loving friends, with monkey management becoming key to surviving the island’s challenges.\n\nGet Crafty \n\nThe secret to survival is to make the most of the resources around you. Whether that’s piecing together a primitive axe to chop wood or mixing up a refreshing fruit smoothie to keep the hunger at bay, you can discover recipes and expand your options across food, item or structure crafting trees. \n\nRun the Gauntlet \n\nLooking for an epic sword to hang on your hut wall or want to lay waste to encroaching hostiles? What you seek could be in one of the many labyrinths scattered around the island. However, getting your hands on the loot won’t be easy so any would-be raiders will need to prepare for their treasure hunting crusade. ",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20200908,
+    "latest_update_release_date": 20210715,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210715
+    },
+    "versions": {
+        "65536": 20200908,
+        "131072": 20200918,
+        "196608": 20200929,
+        "262144": 20201118,
+        "327680": 20210304,
+        "393216": 20210329,
+        "458752": 20210715
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "A World of Adventure and Possibilities Awaits! The island is alive! Your newfound home will change with day/night cycles as you explore and uncover its secrets. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Users Interact"
+    ],
+    "region": null
 }

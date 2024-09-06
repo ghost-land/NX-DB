@@ -1,4 +1,37 @@
 {
     "id": "0100EFC010398800",
-    "version": 65536
+    "base_tid": "0100EFC010398000",
+    "name": "Aborigenus",
+    "description": "Invaders enslaved your peaceful tribe. The best fighters were sent to save your beloved and relatives but nobody ever returned. It's now your turn to save the flying islands from the enemy. Choose who you are - a shaman, a warrior or a hunter.  You are the last hope of your fellow tribesmen. \n\nFeatures:\n- Hunt the aggressive fauna\n- Learn new abilities\n- Divine landscapes with unique enemies\n- Flexible perks system\n- Chicken riding!",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20220715,
+    "first_update_release_date": 20200507,
+    "latest_update_release_date": 20200507,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200507
+    },
+    "versions": {
+        "65536": 20200507
+    },
+    "category": [
+        "RPG",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Adventure-RPG Platformer in a primal world. Choose your class, hunt the aggressive fauna, learn new abilities and fight the enemy army. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

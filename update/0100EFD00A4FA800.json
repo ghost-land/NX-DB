@@ -1,4 +1,39 @@
 {
     "id": "0100EFD00A4FA800",
-    "version": 65536
+    "base_tid": "0100EFD00A4FA000",
+    "name": "Shantae and the Pirate's Curse",
+    "description": "Embark on a brand new adventure with Shantae, the hair-whipping belly dancing genie. When she loses her magic, Shantae must team up with her nemesis, the nefarious pirate Risky Boots in order to save Sequin Land from an evil curse. As a pirate, Shantae gains new weapons to advance her quest, slay monsters, battle epic bosses…and hopefully get her magic back in the bargain!  But can she really trust her deadliest enemy?\n\nThe third Shantae game is the biggest yet! Beyond Sequin Land lie cursed islands and labyrinths each hiding a new piece of Pirate Gear - Flintlock Pistol, Pirate Hat, Scimitar, Risky's Boots, and even a Cannon. Upgrade Shantae's hair and weapons or unlock advanced Fighter's Moves. Locate maps, return lost Heart Squids, collect rare loot, and laugh out loud at the weird, wild, and wonderfully humorous cast of characters. Incredible high resolution artwork, unlockable Pirate-Mode, multiple endings, and an unforgettable soundtrack make this one game you won't want to miss!",
+    "publisher": "WayForward",
+    "developer": null,
+    "base_release_date": 20220714,
+    "first_update_release_date": 20190404,
+    "latest_update_release_date": 20190404,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190404
+    },
+    "versions": {
+        "65536": 20190404
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Avast, mateys! Set sail for swashbuckling fun as Shantae protects Sequin Land from a sinister curse!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

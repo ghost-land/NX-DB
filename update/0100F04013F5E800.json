@@ -1,4 +1,33 @@
 {
     "id": "0100F04013F5E800",
-    "version": 65536
+    "base_tid": "0100F04013F5E000",
+    "name": "ケープ君の脱出ゲーム　2部屋目",
+    "description": "ようやくお金が貯まって引越しした主人公。\nこれでケープ君からのイタズラに悩まされずに済むとホッとしています。\nでも引越し先の家賃も驚く程安かった事には毎度の事ながら気にしていない様子。\n何事も無ければ良いのですが……。\n\n引越し先にも現れたケープ君によって、またしても閉じ込められた主人公。\n謎を解いて主人公を脱出させてあげよう。\n\nキャラクターボイス\n主人公：藤野裕規\nケープ君：村岡仁美\n牛君：福島潤\n鶏さん：高森奈津美\n\nスマホ版からの変更点\n・おまけのブロマイド探しが11枚から２０枚にボリュームアップ\n・画面レイアウトをNintendo Switch™用に改修\n・Joy-Con™に対応し、コントローラーでも快適プレイ\n・カウンター機能や？マークの表示等、システム類も改善",
+    "publisher": "AlignmentSharp",
+    "developer": null,
+    "base_release_date": 20210218,
+    "first_update_release_date": 20210308,
+    "latest_update_release_date": 20210308,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210308
+    },
+    "versions": {
+        "65536": 20210308
+    },
+    "category": [
+        "アドベンチャー",
+        "パズル"
+    ],
+    "intro": "フルボイスADV+脱出ゲーム\nゲストキャラは豪華声優をキャスティング\n前作にも増してケープ君達が大暴れするぞ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "性的ほのめかし"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100EFE01452A800",
-    "version": 131072
+    "base_tid": "0100EFE01452A000",
+    "name": "House Cleaning Survival",
+    "description": "\"House Cleaning Survival\" is a satisfying cleaning simulation game.\n\nOne day, our freshly unemployed main protagonist receives a message from a strange character, asking for...house cleaning?\n\nComplete cleaning orders to pay off your debt!\nUse all-powerful special cleaning equipment to conquer all filth!!\n\n - simple controls for fun cleaning!\n - many \"unique\" and \"special\" rooms wait for your makeover!\n - an intriguing story illustrated through casual conversation",
+    "publisher": "SUNSOFT",
+    "developer": null,
+    "base_release_date": 20210422,
+    "first_update_release_date": 20210404,
+    "latest_update_release_date": 20210512,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210512
+    },
+    "versions": {
+        "65536": 20210404,
+        "131072": 20210512
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "One hose to clean them all!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

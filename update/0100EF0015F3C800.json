@@ -1,4 +1,34 @@
 {
     "id": "0100EF0015F3C800",
-    "version": 65536
+    "base_tid": "0100EF0015F3C000",
+    "name": "Ball Physics Draw Puzzles",
+    "description": "Ball Physics Draw Puzzles is a simple and a fun puzzle game with the goal to guide all balls into a cup just by drawing paths on the screen. Draw Shapes with physical forces act to them and complete challenging puzzles.\n\nFeatures:\n- Great ball physics puzzles\n- Two game modes\n- 100 Levels\n- Fun, simple and easy",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210910,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Education",
+        "Study"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

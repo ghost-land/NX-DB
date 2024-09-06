@@ -1,4 +1,37 @@
 {
     "id": "0100EF70178D8800",
-    "version": 65536
+    "base_tid": "0100EF70178D8000",
+    "name": "Arcade Archives THUNDER CEPTOR",
+    "description": "\"THUNDER CEPTOR\" is a shooter released by NAMCO (Bandai Namco Entertainment Inc.) in 1986. Your mission is to safely return to the Federation Base through the energy corridors that connect star systems. This title also features a new score by the original title's composer, Norio Nakagata.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230316
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Blaze a trail through space!!\nThunder Ceptor!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
