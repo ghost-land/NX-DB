@@ -1,4 +1,25 @@
 {
     "id": "010095B00AA38800",
-    "version": 65536
+    "base_tid": "010095B00AA38000",
+    "name": "Monopoly for Nintendo Switch - Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20181214,
+    "latest_update_release_date": 20181214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181214
+    },
+    "versions": {
+        "65536": 20181214
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

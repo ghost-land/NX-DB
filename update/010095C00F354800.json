@@ -1,4 +1,42 @@
 {
     "id": "010095C00F354800",
-    "version": 65536
+    "base_tid": "010095C00F354000",
+    "name": "Monster Jam Steel Titans",
+    "description": "Real Trucks. Real Action. Monster Jam! Monster Jam Steel Titans delivers the complete Monster Jam experience for everybody to enjoy!\n\nAll the trucks, stunts, stadiums, racing and massive air in one game! Play in various game modes including Stadium and outdoor Racing, various Stunt Challenges and Destruction modes!",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20191127,
+    "first_update_release_date": 20191213,
+    "latest_update_release_date": 20191213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191213
+    },
+    "versions": {
+        "65536": 20191213
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "010095C014068800",
-    "version": 262144
+    "base_tid": "010095C014068000",
+    "name": "Sheepo",
+    "description": "You are Sheepo, and it's your first day on the job at an intergalactic species database. Your first task? To visit an uncharted planet and save all its living creatures from extinction!  It might seem like a lot of work for a single day, but thankfully a day on Planet Cebron lasts 8000 earth days. Unfortunately, your pay is based on Cebron days.\n\nSheepo is a metroidvania, but contains no standard combat. Instead, gameplay is based on platforming and exploration. With the collection of each creature, Sheepo is able to dig, fly, and teleport across an interconnected series of landscapes, uncovering hidden shrines, old ruins, and strange characters.\n\nTo capture a creature, Sheepo must find their unhatched egg, which happen to be highly guarded by that species \"queen\" (aka, a boss) With each egg Sheepo collects, you gain the ability to transform into that creature on contact, and explore the deeper reaches of the planets sprawling environment\n\nFeatures:\n-Tight platforming with variety. Play as both Sheepo, and the variety of creatures you come in contact with. Gameplay remains fresh as you consistently learn the moves of each creature!\n-Traverse a sprawling landscape with tons of hidden rooms and characters. Explore old mines, an abandoned mall, lush forests, the dingy sewer system, and much more.\n-75+ hidden feathers to collect (the planet's currency), which can be spent at the last remaining shop in DeadMall.\n-Non-linear gameplay. As you explore, discover eggs, and gain more transformations. Sheepo's world quickly opens up to allow you to make your own route.\n-Meet the locals and discover what's happening to planet Cebron.",
+    "publisher": "Top Hat Studios",
+    "developer": null,
+    "base_release_date": 20240501,
+    "first_update_release_date": 20210928,
+    "latest_update_release_date": 20221208,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221208
+    },
+    "versions": {
+        "65536": 20210928,
+        "131072": 20211104,
+        "196608": 20211123,
+        "262144": 20221208
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Sheepo is a quirky metroidvania platformer featuring a shape-shifting sheep-thing, who must traverse an uncharted planet in order to collect samples of each living species.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

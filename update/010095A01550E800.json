@@ -1,4 +1,51 @@
 {
     "id": "010095A01550E800",
-    "version": 524288
+    "base_tid": "010095A01550E000",
+    "name": "Manic Mechanics",
+    "description": "It’s time to dust off your overalls and hitch on your toolbelt in Manic Mechanics - a chaotic couch co-op game where you and up to three fellow grease monkeys serve the car-obsessed residents of Octane Isle. \n\nYour mission? Work your way through Octane Isle's five neighborhoods, challenging the Master Mechanics that rule each part of town. Repair as many cars, trucks, choppers, tractors, mini-subs (and even UFOs) as possible to prove your worth in this hectic race against the clock. \n\nNo two games are the same as you work your way through 25 unique garage levels, each one more challenging than the last. Completing a garage is one thing, but mastering it and beating your team's best score requires coordination, skill, and determination. \n\nThis is couch co-op chaos for you and up to three other players, working as a finely-tuned machine across local, wireless and online play. Track your team's best scores, unlock new characters and discover hidden secrets as you explore Octane Isle together. \n\nThe faster you work, the more chaos is unleashed. Fuel spills ignite, tires explode, robots short-circuit, cows stampede and aliens abduct... just about anything can happen in Octane Isle. But with teamwork, skill - and maybe just a little luck - you'll earn the right to call yourselves Manic Mechanics! ",
+    "publisher": "4J Studios",
+    "developer": null,
+    "base_release_date": 20230713,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240322,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240322
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20230811,
+        "196608": 20231011,
+        "262144": 20231018,
+        "327680": 20231204,
+        "393216": 20240307,
+        "458752": 20240314,
+        "524288": 20240322
+    },
+    "category": [
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "GRAB YOUR TOOLS AND GET SET FOR SOME CO-OP MECHANICAL MAYHEM!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

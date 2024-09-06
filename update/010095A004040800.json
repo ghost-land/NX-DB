@@ -1,4 +1,44 @@
 {
     "id": "010095A004040800",
-    "version": 131072
+    "base_tid": "010095A004040000",
+    "name": "Flip Wars",
+    "description": "This tense multiplayer action game will have you stomping to flip over panels—and unwitting opponents! To win, flip the most panels to your color in local battles, online*, or single-player. The more you flip, the faster you’ll move in a mad dash to nab power ups. Increase your flip range, turn invincible, and more across 3 modes and 12 arenas! Compete alone or against up to 3 players to see who’s best at each mode: flip the most panels before time runs up in Panel Battle, knock out the most opponents in Time Battle, or outlast your rivals in Life Battle. All 12 arenas have 4 layouts to choose from, some containing hazards like panel-flipping buttons, beam cannons, and waves so beautiful they truly stun competitors. Learn the art of the flip with tutorials and try your hand at achievements. When you’re ready to compete, jump into an online* battle or a private room with friends via local wireless. No matter how you play, it’s time to think fast and pull off the ultimate color scheme!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20170810,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170919,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20170919
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170919
+    },
+    "category": [
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Pull off the ultimate color scheme!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

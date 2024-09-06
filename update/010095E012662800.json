@@ -1,4 +1,35 @@
 {
     "id": "010095E012662800",
-    "version": 196608
+    "base_tid": "010095E012662000",
+    "name": "McDROID",
+    "description": "\"This game is love. It's a nice mix of arcade game & tower defense which I've never seen before.\" -lin\n\"it's really really fun\" -Jesse Cox\n\"Juicy Delicious Strawberries\" -etalyx\n\"Simply delightful\" -Al\n\"I can't stop playing :)\" -Bar.pys\n\"An awesome little pearl\" -Kodijack\n\"And it has strawberry-DRM!\" -RadioRhino\n\nUpgrade your little farming robot into a BATTLE STATION, herd a flock of doggy bots, listen to giant lasers talking back at you, plant many many trees to cover the land with boosting bliss and collect outfits for your robot!\n\nAn original blend of Farming, Arcade and Tower Defense that will challenge your itchy trigger finger as well as make you want to pet those Furry Worms and drink Strawberry Juice.\n\n",
+    "publisher": "Elefantopia",
+    "developer": null,
+    "base_release_date": 20220105,
+    "first_update_release_date": 20220103,
+    "latest_update_release_date": 20220727,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220727
+    },
+    "versions": {
+        "65536": 20220103,
+        "131072": 20220204,
+        "196608": 20220727
+    },
+    "category": [
+        "Action",
+        "Strategy"
+    ],
+    "intro": "Farm, Build, Defend! As your adorable robot saves Planet M in the Galaxy's most unique Arcade-Tower-Defense",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

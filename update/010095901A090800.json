@@ -1,4 +1,35 @@
 {
     "id": "010095901A090800",
-    "version": 65536
+    "base_tid": "010095901A090000",
+    "name": "Bright Lights of Svetlov",
+    "description": "Panel houses, ordinary repetitive jobs, boring household activities. Take a look at the life of the most ordinary family, and become a witness to the difficulties that it will face.\n\n- Carefully depicted atmosphere of USSR.\n- Linear, story-focused experience.\n- Do your daily routine and get to know about family members.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20230811,
+    "first_update_release_date": 20240216,
+    "latest_update_release_date": 20240216,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240216
+    },
+    "versions": {
+        "65536": 20240216
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Mid 1980s. A small industrial town somewhere in Soviet Union.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

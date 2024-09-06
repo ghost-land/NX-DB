@@ -1,4 +1,33 @@
 {
     "id": "0100965012E22800",
-    "version": 65536
+    "base_tid": "0100965012E22000",
+    "name": "コープスパーティー ブラッドカバー リピーティッドフィアー",
+    "description": "本作はキャラクターを操作して、マップ上のいろいろな場所を調べ、謎を解き明かし、廃校からの脱出を目指す探索型の廃校監禁アドベンチャーゲームです。\n全５章からなるシナリオと全１６本にも及ぶエキストラチャプターで構成され、内エクストラチャプター２本は完全新作となっています。\nこれがコープスパーティー ブラッドカバー リピーティッドフィアーのコンプリート版！！",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20210218,
+    "first_update_release_date": 20210217,
+    "latest_update_release_date": 20210217,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210217
+    },
+    "versions": {
+        "65536": 20210217
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "天神小学校で起こった児童四名連続誘拐・殺害事件\n三十年前に封印された惨劇が、現代に蘇る",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

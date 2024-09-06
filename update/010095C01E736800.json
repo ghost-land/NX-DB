@@ -1,4 +1,37 @@
 {
     "id": "010095C01E736800",
-    "version": 65536
+    "base_tid": "010095C01E736000",
+    "name": "Goliath Depot",
+    "description": "Goliath Depot is a door-slamming 2D arcade platformer in the style of the early 80's. Close all doors, kick away the enemies and rack up your score in 4 worlds filled with single-screen levels inspired by tough-as-nail retro arcade platformers. Are you good enough to lift the curse of the Goliath Depot?\n\n- Pick-up-and-play arcade gameplay\n- 4 worlds with unique themes and gimmicks (40 levels and 2 difficulties)\n- Play in solo or local co-op (*2 controllers are required for local co-op)\n- Graphics and music inspired by the 1980\n- Unlockable modes and power ups\n- 25 medals (in-game achivements) that unlock new characters!\n- A built-in randomizer mode with settings for infinite replayability\n- Online leaderboards\n- Speedrun-mode (timer + individual level practice)!",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20240530,
+    "first_update_release_date": 20240528,
+    "latest_update_release_date": 20240528,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240528
+    },
+    "versions": {
+        "65536": 20240528
+    },
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Goliath Depot is a door-slamming 2D arcade game taken straight from the early 80's. Close all doors, kick the enemies and speedrun your way through 40 unique levels",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

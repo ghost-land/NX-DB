@@ -1,4 +1,46 @@
 {
     "id": "010096400CBC6800",
-    "version": 524288
+    "base_tid": "010096400CBC6000",
+    "name": "TerraTech",
+    "description": "Explore, build, craft and battle across alien worlds in this physics-based construction sandbox adventure.\n\nDesign cars, tanks and planes from a huge library of blocks. Scavenge, craft and buy new parts in order to survive and become the ultimate planetary prospector.\n\nSingle player modes:\n• Fight enemies, complete missions & work your way up the ranks in Campaign.\n• Explore and build with or without the threat of enemies in Creative.\n• Build the fastest Tech you can and beat your previous race times in Gauntlet.",
+    "publisher": "Payload Studios",
+    "developer": null,
+    "base_release_date": 20190529,
+    "first_update_release_date": 20201117,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20231123
+    },
+    "versions": {
+        "196608": 20201117,
+        "262144": 20210521,
+        "327680": 20211201,
+        "393216": 20220519,
+        "458752": 20221019,
+        "524288": 20231123
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

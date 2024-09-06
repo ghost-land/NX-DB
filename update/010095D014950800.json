@@ -1,4 +1,39 @@
 {
     "id": "010095D014950800",
-    "version": 131072
+    "base_tid": "010095D014950000",
+    "name": "World Splitter",
+    "description": "You'll travel through wonderful and fantastic worlds that are beautifully animated and full of tricky challenges.\nThe game features a unique gameplay mechanic: A combination of jump & run elements and logical thinking puzzles. Each level consist of two parallel worlds separated by the ’Dimension Rift‘. The character can move freely through the Rift and interacts only with the visible parts of both worlds.\nYou have to master the Rift and make it pave your way through the worlds!",
+    "publisher": "NeoBird",
+    "developer": null,
+    "base_release_date": 20210421,
+    "first_update_release_date": 20210413,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20210413,
+        "131072": 20210428
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "World Splitter is a 2D² puzzle platformer, challenging you with multidimensional puzzles.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

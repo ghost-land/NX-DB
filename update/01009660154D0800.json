@@ -1,4 +1,46 @@
 {
     "id": "01009660154D0800",
-    "version": 65536
+    "base_tid": "01009660154D0000",
+    "name": "AnimaLudo",
+    "description": "Ludo is a party board, once played by kings, and now you, your family and friends can enjoy it. While the gameplay of Ludo may be simple at first, it is in fact challenging and very enjoyable. Think carefully about your next move, stay one step ahead of your opponents and return safely from your journey. Beat your rivals and compete for the highest score on the luckiest #7 leaderboard!\n\n★ Local Multiplayer - Play with family and friends!\n★ Single player - Try your luck against computer players\n★ Choose from over 20 animals to play and lead them to victory!\n★ Cute animal theme which calm you down during the game\n★ Compare yourself with luckiest 7 players on the world!\n★ Auto move system which speeds up the game\n★ Available in over 10 languages\n★ Relaxing, happy songs\n★ Suitable for all ages",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20210625,
+    "first_update_release_date": 20210707,
+    "latest_update_release_date": 20210707,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210707
+    },
+    "versions": {
+        "65536": 20210707
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Party",
+        "Lifestyle"
+    ],
+    "intro": "Let's roll... the dice!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

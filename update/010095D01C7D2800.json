@@ -1,4 +1,36 @@
 {
     "id": "010095D01C7D2800",
-    "version": 65536
+    "base_tid": "010095D01C7D2000",
+    "name": "Geometric Sniper Z",
+    "description": "The zombifying pathogen came out of nowhere...\nSociety is falling apart, and people are in pain.\nStill, they can take comfort in knowing that there is a watchful sniper always on the lookout for zombies.\n\nTake the role of that sniper in GSZ – a highly stylized 2D isometric shooter.\n\nChallenge yourself in different game modes, neutralize zombies using different weapons, save and escort survivors, and progress through the story.\n(...And if you’re feeling like playing the bad guy, take the role of a zombie patient zero!)\n\nThink fast, act fast, be resourceful… And reload often!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20240222,
+    "first_update_release_date": 20240210,
+    "latest_update_release_date": 20240210,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240210
+    },
+    "versions": {
+        "65536": 20240210
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "A black and white world. Thousands of zombies, one sniper to neutralize ’em all.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

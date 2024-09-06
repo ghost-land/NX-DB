@@ -1,4 +1,35 @@
 {
     "id": "010096500B018800",
-    "version": 65536
+    "base_tid": "010096500B018000",
+    "name": "Cubikolor",
+    "description": "Immerse yourself in the world of Cubikolor!\nMove your Kube by matching the kolors of the sides and the platform to complete each level.\n\nDiscover lots of special Kubes with some surprising effects, and advance through the different game backdrops in Classik or Hardkore mode.\n\nIn Cubikolor your logic will be severely tested against a formidable enemy. Roll, go up, go down and rewind time to explore all the options and reach the locks in each level. Keep an eye on the time and move limits!\n\nOutsmart the System and use its traps to your advantage:\nBooby-trapped Kubes, multikolored Kubes and many more await you in this next-gen puzzle game.\n\nWin all the medals and challenge yourself in Hardkore mode. Only the best will survive.",
+    "publisher": "Light Maze",
+    "developer": null,
+    "base_release_date": 20180626,
+    "first_update_release_date": 20200421,
+    "latest_update_release_date": 20200421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200421
+    },
+    "versions": {
+        "65536": 20200421
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Armed only with your logic and your Kube, move through the 150 levels outwitting the traps in the System, an evil, scheming entity, to confront the machine and pass the test!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

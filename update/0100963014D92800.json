@@ -1,4 +1,36 @@
 {
     "id": "0100963014D92800",
-    "version": 196608
+    "base_tid": "0100963014D92000",
+    "name": "Wood Block Escape Puzzles",
+    "description": "Tease your brain in this challenging puzzle game where the player must move the red block all the way to the right side of the game board. However, other blocks obstruct the way which must be moved out of the way to unblock the red one. Unlock new difficulties by earning stars and reach the expert difficulty. \n\nWood block escape puzzles a fun and simple way to relax and challenge your logical reasining and concentration.\n",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20211004,
+    "latest_update_release_date": 20230628,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230628
+    },
+    "versions": {
+        "65536": 20211004,
+        "131072": 20220916,
+        "196608": 20230628
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Other"
+    ],
+    "intro": "Challenging unblocking puzzles with different difficulties ranging from beginner to expert.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

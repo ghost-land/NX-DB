@@ -1,4 +1,45 @@
 {
     "id": "010096201B80E800",
-    "version": 65536
+    "base_tid": "010096201B80E000",
+    "name": "Evil Wizard",
+    "description": "Evil Wizard is a humor-filled action RPG that puts you in the shoes of a former Final Boss. Rise from defeat, rediscover long lost powers, and fight to reclaim your castle from an army of so-called heroes.\n- We are totally aware of the save issue that bring troubles to all players, we are so sorry and there will be an update \nsoon in days ",
+    "publisher": "E-Home",
+    "developer": null,
+    "base_release_date": 20230921,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20231013
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null
 }

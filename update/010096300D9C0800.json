@@ -1,4 +1,38 @@
 {
     "id": "010096300D9C0800",
-    "version": 131072
+    "base_tid": "010096300D9C0000",
+    "name": "Sushi Time!",
+    "description": "Welcome to Sushi Time! \n\nManage a sushi bar and become a tycoon of Japanese food!\n \nTry to deliver the orders on time, but be careful not to mix them up! \n\nUpgrade your bar and beautify it, so that you'll be able to create the best sushi in town!\n\nTo work!\n\nIN SUSHI TIME! YOU WILL FIND:\n\n• 60+ levels to explore, 50+ sushi types to serve.\n• Great cartoonish graphics, music and sound effects.\n• Upgrades you can apply to the bar and its decorations.\n• 20+ Achievements to unlock.\n• Easy to play and hard to master.\n\nCome on, try it out!",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211101,
+    "first_update_release_date": 20200515,
+    "latest_update_release_date": 20220204,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220204
+    },
+    "versions": {
+        "65536": 20200515,
+        "131072": 20220204
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "It's Sushi Time!\nCreate the most amazing sushi bar in your town!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
