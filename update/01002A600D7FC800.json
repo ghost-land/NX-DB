@@ -1,4 +1,39 @@
 {
     "id": "01002A600D7FC800",
-    "version": 65536
+    "base_tid": "01002A600D7FC000",
+    "name": "Collection of Mana",
+    "description": "Quintessential JRPG series \"Collection of Mana\" is now on Nintendo Switch! Fall in love with the Mana series all over again, including the first-ever release of the action-packed third game in the trilogy: \"Trials of Mana\"!\n\nNotice:\nFinal Fantasy Adventure/Mystic Quest and Secret of Mana are playable in English, French and German.\nTrials of Mana is playable in English, French, German and Spanish.\n\nMultiplayer available for \"Secret of Mana\" (1-3 players) and \"Trials of Mana\" (1-2 players).",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20240513,
+    "first_update_release_date": 20190729,
+    "latest_update_release_date": 20190729,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190729
+    },
+    "versions": {
+        "65536": 20190729
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "The long-awaited \"Trials of Mana\" is now available outside of Japan! Play all three games in the original Mana series!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

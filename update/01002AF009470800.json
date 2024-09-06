@@ -1,4 +1,34 @@
 {
     "id": "01002AF009470800",
-    "version": 65536
+    "base_tid": "01002AF009470000",
+    "name": "シャンティ：ハーフ・ジーニー ヒーロー アルティメット・エディション",
+    "description": "ジーニー（魔人）を母に持つ、ハーフ・ジーニーの女の子「シャンティ」が「スカットルタウン」を中心に大冒険を繰り広げる。自慢の長い髪の毛をムチのようにしならせて攻撃したり、攻撃魔法や変身魔法を使って世界を救おう！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20180531,
+    "first_update_release_date": 20180730,
+    "latest_update_release_date": 20180730,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180730
+    },
+    "versions": {
+        "65536": 20180730
+    },
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": "かわいくて強いシャンティの大冒険！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

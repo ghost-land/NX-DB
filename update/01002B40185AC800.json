@@ -1,4 +1,42 @@
 {
     "id": "01002B40185AC800",
-    "version": 65536
+    "base_tid": "01002B40185AC000",
+    "name": "Nessy The Robot",
+    "description": "Nessy The Robot is a platformer game designed for the 8bit generation. Where you play as Nessy, a little controller-themed robot, on a quest to stop his home, Pixel Park, from total destruction.\n\nFight your way through zombified robots, slime creatures, and a multitude of other enemies & bosses, as well as a plethora of levels, secrets & easter eggs to discover, collectible gems to... well... collect, as well as characters & dogs to talk to.\n\n- 6+ worlds/courses to explore\n- Multiple secrets to discover\n- Unique & interesting enemies\n- Collectibles\n- Cutscenes\n- Memorable characters",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20231207,
+    "first_update_release_date": 20231210,
+    "latest_update_release_date": 20231210,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231210
+    },
+    "versions": {
+        "65536": 20231210
+    },
+    "category": [
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Nessy The Robot - Relive the 8bit Era in this Epic Quest!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

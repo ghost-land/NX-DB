@@ -1,4 +1,37 @@
 {
     "id": "01002B3008500800",
-    "version": 131072
+    "base_tid": "01002B3008500000",
+    "name": "方塊創造者X",
+    "description": "是使用稱作方塊的四角磚塊\n進行冒險、戰鬥、建築、收集、農業、培養、料理……等\n充滿各種活動的非常自由的遊戲！\n\n■冒險模式\n在不可思議的村莊，也就是從我的世界開始的大冒險！\n收集石盤的碎片，會打開嚮往新的世界的大門。\n而且，用藏寶圖還可以獲得稀有道具！\n\n■創意模式\n把想象中的形狀用方塊自由地表達！\n可以簡單地複製配件。\n用家具方塊把自己的家佈置地豪華富麗！\n\n■關卡建立模式\n組合含有裝置的隱具方塊\n建造有起點、終點、過關條件的獨創的關卡！\n",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20180725,
+    "latest_update_release_date": 20180904,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180904
+    },
+    "versions": {
+        "65536": 20180725,
+        "131072": 20180904
+    },
+    "category": [
+        "冒險",
+        "動作",
+        "交流",
+        "其他"
+    ],
+    "intro": "在方塊世界裡自由地活動！\n< 方塊創造者X >",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

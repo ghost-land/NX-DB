@@ -1,4 +1,37 @@
 {
     "id": "01002B2004F76800",
-    "version": 196608
+    "base_tid": "01002B2004F76000",
+    "name": "GUNBARICH for Nintendo Switch™",
+    "description": "Gunbarich launched in arcade version in 2001. It is a new game with elements of puzzle and shooting in the late works of Japanese brand \"Psikyo\". In Japan's amusement arcade, there is always one popular game.",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20170803,
+    "first_update_release_date": 20170906,
+    "latest_update_release_date": 20190530,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190530
+    },
+    "versions": {
+        "65536": 20170906,
+        "131072": 20171011,
+        "196608": 20190530
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Psikyo Revival!! Play the good old game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

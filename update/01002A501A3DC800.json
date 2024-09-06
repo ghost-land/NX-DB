@@ -1,4 +1,37 @@
 {
     "id": "01002A501A3DC800",
-    "version": 65536
+    "base_tid": "01002A501A3DC000",
+    "name": "Adventures of Ben: Rabbit Run",
+    "description": "Adventures of Ben: Rabbit Run - is a 3d platformer in the fantasy world.\nWhere the young traveler Ben has a long way to go from his small town to the tower of the powerful wizard, because Ben was transformed into Rabbit. And He'd like to be a boy again.\n\nYou will have to get acquainted with every corner of the huge world of Valentardia and to explore it.\nA fascinating journey will make you encounter various characters and visit the colorful locations you need to explore to get to Malcolm's Magic Tower.\n\nBut Ben can not complete this journey without helping. Owl Foxy will accompany Ben and will instruct and teach how to be an animal.",
+    "publisher": "GaGa Games Studio",
+    "developer": null,
+    "base_release_date": 20230911,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20231010,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231010
+    },
+    "versions": {
+        "65536": 20231010
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "World of Valentardia will not let you get bored for a second! Adventures will require the hero to be not only determined but also to be faithfully accepted.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

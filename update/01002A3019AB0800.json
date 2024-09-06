@@ -1,4 +1,32 @@
 {
     "id": "01002A3019AB0800",
-    "version": 65536
+    "base_tid": "01002A3019AB0000",
+    "name": "Amber City",
+    "description": "A girl in a white dress wakes up in a ruined city. She uses her light to light up mysterious cocoons, reverse time, and restore the city to its former splendor. You take on the role of this mysterious girl. As you restore Amber City, more and more of its history will unfurl before you.",
+    "publisher": "Gamera Games",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230316
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Amber City is an indie puzzler with gorgeous areas and ingenious hand-drawn levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

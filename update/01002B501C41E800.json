@@ -1,4 +1,36 @@
 {
     "id": "01002B501C41E800",
-    "version": 65536
+    "base_tid": "01002B501C41E000",
+    "name": "schleich® Puzzles FARM WORLD",
+    "description": "Sheep, cows, pigs, horses, chickens and much more: The exciting world of schleich® Farm World in 60 lovely designed puzzle scenes.\nAll puzzles have been carefully designed for children ranged between 3-7 years old. Reading skills are not required to understand and thanks to the intuitive touch screen controls, the game is very easy to use even for the youngest children.\nAttention: Only playable in handheld mode!",
+    "publisher": "Wild River Games",
+    "developer": null,
+    "base_release_date": 20231005,
+    "first_update_release_date": 20231004,
+    "latest_update_release_date": 20231004,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231004
+    },
+    "versions": {
+        "65536": 20231004
+    },
+    "category": [
+        "Puzzle",
+        "Education"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "es",
+        "fr",
+        "en",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

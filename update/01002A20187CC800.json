@@ -1,4 +1,41 @@
 {
     "id": "01002A20187CC800",
-    "version": 65536
+    "base_tid": "01002A20187CC000",
+    "name": "Last Beat Enhanced",
+    "description": "Vanquish the Mad Stroke gangs across 8 levels! Punch and kick your way to defeat enemies, use melee and throwing weapons to defeat the most powerful bosses, collect bonuses and enjoy special shots. Race your motorbike at full speed in the bonus stages, earn money to unlock additional characters and secret images from a rich gallery! Don't be discouraged if you are defeated, you can purchase upgrades to throw yourself into the fray with a little advantage. Complete the game with all the characters to know the endings and have fun with a friend to discover the combined ones! For the bravest, increase the difficulty level and if that's still not enough, wipe out all the enemies in a row in the fearsome Ring mode and prove you're the best of them all.",
+    "publisher": "7 Raven Studios",
+    "developer": null,
+    "base_release_date": 20220915,
+    "first_update_release_date": 20221003,
+    "latest_update_release_date": 20221003,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221003
+    },
+    "versions": {
+        "65536": 20221003
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Amazing Co-op mode!\n9 Different Stages.\nBonus stages and Secret areas.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }
