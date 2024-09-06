@@ -1,4 +1,41 @@
 {
     "id": "0100B6C00AF6E800",
-    "version": 65536
+    "base_tid": "0100B6C00AF6E000",
+    "name": "Lost in Harmony",
+    "description": "Experience music in a new way with the combination of rhythmic tapping and choreographic runner\nDiscover the musical story from the co-creator of Valiant Hearts\nGuide Kaito and Aya through their adventures, in total harmony with music\nTravel trough 30+ painted environments\nCustomize your character's clothes, headphones, hat and skateboard",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20180621,
+    "first_update_release_date": 20180712,
+    "latest_update_release_date": 20180712,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180712
+    },
+    "versions": {
+        "65536": 20180712
+    },
+    "category": [
+        "Music",
+        "Adventure",
+        "Other",
+        "Arcade"
+    ],
+    "intro": "Dive into a fantastic musical odyssey, brought by an immersive soundtrack imagined by famous composers.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

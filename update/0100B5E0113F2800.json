@@ -1,4 +1,39 @@
 {
     "id": "0100B5E0113F2800",
-    "version": 262144
+    "base_tid": "0100B5E0113F2000",
+    "name": "Monochrome World",
+    "description": "The world lost its color all of a sudden.\nAnd only the gray remained.\nNobody knows how much time has passed since then.\nI just kept falling from the sky to the ground over and over.\nI am a raindrop.\n\nThen one day, I fell to the place I've never been before.\nThe power unknown led me to the color I thought was lost.\nI had no idea what it meant...\n\n◆The adventure of a raindrop\n『Monochrome World』 features the journey of a raindrop to recolor the gray world.\nBring back the colors to the world in a total of 60 stages!\n\n◆Thrilling action puzzle experience with extreme difficulty\nRecolor the stages full of gimmicks and puzzles!\nSome parts will test your speed and control!\n\n◆Make your own cute little raindrop\nClear the stage and unlock colors, shapes, accessories, and skills.\nCustomize your own little raindrop!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200429,
+    "latest_update_release_date": 20200630,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200630
+    },
+    "versions": {
+        "65536": 20200429,
+        "131072": 20200503,
+        "196608": 20200529,
+        "262144": 20200630
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Behold the thrilling action puzzle game!\nColor the world rainbow!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

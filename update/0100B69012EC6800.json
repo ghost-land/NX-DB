@@ -1,4 +1,37 @@
 {
     "id": "0100B69012EC6800",
-    "version": 65536
+    "base_tid": "0100B69012EC6000",
+    "name": "Nexoria: Dungeon Rogue Heroes",
+    "description": "Battles\nThis game is a unique mix of rogue-like with dungeon exploration, RPG, turn-based tactics and collectible card game. At the base of the turn-based system are not turns, but time. Find and improve new heroes and get coins to buy new spells. But remember, a hero’s death will be fatal.\n\nHeroes\nEvery hero has a special perk and a spell, in addition to the three stats (strength, dexterity, endurance). Gather your team of heroes, come up with unique tactics for battles. Traditional Tank, Healer and Warrior? Or would you only use brute force?\nDuring battles, the pre-selected 20 cards with spells are mixed into the deck. Every 6 seconds of combat you take a new card into your hand. During the normal turn, you will have a choice of actions:\n- Normal attack;\n- Defense;\n- Position change;\n- Casting a hero's spell (one for each);\n- Casting spells from hand\n\nEach spell, be it heroic or from a deck has its own mana cost. \n\nMana is shared by all heroes and accumulates during battle. The player will have to choose which spell to use now, because there may not be enough mana for the next one.\n\nDungeons\nSend your heroes to the most dangerous adventure — Dungeons of Nexoria. Randomly generated floors with a boss at the end of each. Not everyone will be able to return, but those who can will gain great glory!\n\nEvents\nExploration of dungeons is fraught not only with crowds of enemies that need to be destroyed, but also random events and traps, the outcome of which could be fatal.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20211228,
+    "first_update_release_date": 20210927,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20210927
+    },
+    "category": [
+        "RPG",
+        "Board Game",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Hardcore roguelike about dungeons with hybrid battles, combining classical turn based combat system and a collectible card game. Collect the best spells and conquer the dungeons!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

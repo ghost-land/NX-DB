@@ -1,4 +1,44 @@
 {
     "id": "0100B6D00DA6E800",
-    "version": 327680
+    "base_tid": "0100B6D00DA6E000",
+    "name": "Ding Dong XL",
+    "description": "Ding and Dong between the top and bottom of the screen as you attempt to avoid obstacles, collect points, and smash helpful power-ups. Try to survive as long as you can!\n\nSimple one button controls, just pressing the Ding Dong button allows you to cross the screen from top to bottom or vice-versa. Wait for the proper timing and don't hit enemies.\n\nFeatures:\n-An endless, fast paced and challenging arcade style game play that constantly gets harder\n-Unlock a variety of unique cosmetic skins for your player using the points you've accumulated\n-'Close Call' system rewards points for playing dangerously and nearly hitting objects\n-Dual Mode allows you to control two players for a brain bending challenge by yourself or cooperatively with a friend\n-Infinite Mode changes the game and adds an incredibly difficult new challenge for experts",
+    "publisher": "Adamvision Studios",
+    "developer": null,
+    "base_release_date": 20220119,
+    "first_update_release_date": 20190422,
+    "latest_update_release_date": 20211214,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20211214
+    },
+    "versions": {
+        "65536": 20190422,
+        "131072": 20190508,
+        "196608": 20200128,
+        "262144": 20211120,
+        "327680": 20211214
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "intro": "Ding Dong XL is a neon-infused one button arcade game. It is an addictive 'just-one-more-round' score attack that will test your reflexes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

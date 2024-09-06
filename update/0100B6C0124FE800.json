@@ -1,4 +1,45 @@
 {
     "id": "0100B6C0124FE800",
-    "version": 131072
+    "base_tid": "0100B6C0124FE000",
+    "name": "Doomsday Vault",
+    "description": "Rescue Earth’s precious plant life. In your robotic suit navigate a flooded city, break into an underground lair and explore ancient pyramids. Collect seeds and return them to the safety of the Vault. Nurture seeds to grow new sustainable crops. Unlock additional tools and items to customise your suit.\n\nFeaturing:\nAdventure missions to find precious seeds for the Vault\nChallenge mode with races, mazes, scores and leaderboards\nVault to nurture seeds into crops\nChallenging puzzles and gameplay to suit all ages and experience\nEngaging 3D environments\nPlay as the iconic DV Robot character\nRobot suit customisation\nBeautiful soundtrack and sound effects\nHelpful plant information",
+    "publisher": "Flightless",
+    "developer": null,
+    "base_release_date": 20210805,
+    "first_update_release_date": 20210813,
+    "latest_update_release_date": 20210820,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210820
+    },
+    "versions": {
+        "65536": 20210813,
+        "131072": 20210820
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Rescue Earth's precious plants.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

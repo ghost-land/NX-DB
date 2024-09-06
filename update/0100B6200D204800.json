@@ -1,4 +1,34 @@
 {
     "id": "0100B6200D204800",
-    "version": 65536
+    "base_tid": "0100B6200D204000",
+    "name": "LOVE",
+    "description": "LOVE is a reductive platforming game with a retro aesthetic and a focus on a challenging difficulty. It has an custom respawn system, 16 levels, 12 track original soundtrack, and competitive scoring.\n\nThe challenging levels are balanced with the inclusion of a simple yet unique respawn system wherein the player can leave a checkpoint at any location at any point, as long as they are on solid ground. Players have a number of gameplay modes to choose from, whether they want it easy, normal, or they want to try their hand at a mode designed specifically for Speed Running.\n\nBeyond the visual aesthetic, the challenging level design, and the abundance of features, there is the fantastic soundtrack composed by James Bennett, which brings the simple 3-color atmospheres to life. \n\nFeatures\n• 16 Levels \n• 7-Level Remix Mode\n• 3-Level kuso Mode\n• Speedrun Mode for intense competition\n• Multi-faceted scoring system for competitive play \n• Unique Respawn Mechanic ",
+    "publisher": "Mokuzai Studio",
+    "developer": null,
+    "base_release_date": 20190215,
+    "first_update_release_date": 20200410,
+    "latest_update_release_date": 20200410,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200410
+    },
+    "versions": {
+        "65536": 20200410
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Set your own checkpoints in this challenging platformer",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

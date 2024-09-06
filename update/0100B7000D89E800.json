@@ -1,4 +1,41 @@
 {
     "id": "0100B7000D89E800",
-    "version": 393216
+    "base_tid": "0100B7000D89E000",
+    "name": "Knights and Bikes",
+    "description": "You’ll play as Nessa & Demelza as they explore an ancient island with their pet goose Captain Honkers, riding and upgrading their bikes on a quest for answers.\n\nAs the story unfolds they’ll face hazards, puzzles, and the gathering forces of an ancient curse with their growing collection of frisbees, water-balloons, toilet-plungers, and a boom-box loud enough to wake the undead.\n \nTogether our heroines will laugh, learn, and cry - but will the power of their friendship be enough to actually save the island AND each other?",
+    "publisher": "Foam Sword",
+    "developer": null,
+    "base_release_date": 20200206,
+    "first_update_release_date": 20200123,
+    "latest_update_release_date": 20210825,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210825
+    },
+    "versions": {
+        "65536": 20200123,
+        "131072": 20200430,
+        "196608": 20200826,
+        "262144": 20201022,
+        "327680": 20210719,
+        "393216": 20210825
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Saddle up for a bike-riding, friendship-building, frisbee-throwing, goose-petting, treasure-hunting adventure for 1 or 2 players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

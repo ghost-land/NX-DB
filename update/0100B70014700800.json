@@ -1,4 +1,34 @@
 {
     "id": "0100B70014700800",
-    "version": 65536
+    "base_tid": "0100B70014700000",
+    "name": "Skycadia",
+    "description": "The world of Skycadia is overrun with sky pirates -- and there's profit to be made! Take to the skies and collect bounties by shooting down the scoundrels in this light-hearted flying adventure.",
+    "publisher": "Studio Nisse",
+    "developer": null,
+    "base_release_date": 20220908,
+    "first_update_release_date": 20230926,
+    "latest_update_release_date": 20230926,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230926
+    },
+    "versions": {
+        "65536": 20230926
+    },
+    "category": [
+        "Simulation",
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Take to the skies and collect bounties by shooting down sky pirates in this light-hearted flying adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,50 @@
 {
     "id": "0100B61008208800",
-    "version": 655360
+    "base_tid": "0100B61008208000",
+    "name": "BLAZBLUE CROSS TAG BATTLE",
+    "description": "An unrivaled clash of explosive proportions! The beloved BlazBlue franchise Crosses universes, Tags in fan favorites, and Battles it out in BlazBlue: Cross Tag Battle! Created through an all-star collaboration between BlazBlue, Atlus’ Persona, French Bread’s Under Night In-Birth, and Rooster Teeth’s hugely popular RWBY web series, Cross Tag Battle celebrates the fighting genre for pros and newcomers alike! Choose your team in fast paced 2v2 team battles filled with the craziness you’ve come to love from BlazBlue, with all the tight mechanics, smooth gameplay, and gorgeous 2D graphics you expect from Arc System Works.\n\n• CROSS Cross over between 4 different universes! Play as characters from the BlazBlue, Persona, Under Night In-Birth, and (for the first time ever in a fighting game), RWBY series!\n• TAG Dive deep into the accessible 2 vs 2 gameplay system in a gorgeous 2D tag team based fighting game!\n• BATTLE Take the fight to your friends, online, or against CPU opponents in robust single and multiplayer modes!\n• LOOK GOOD DOING IT High definition anime styled 2D characters alongside beautiful 3D backgrounds and smooth animation brings the game to life!\n• ARC ASSEMBLED Developed by Arc System Works, creators and developers of critically acclaimed and fan favorite fighting series BlazBlue and Guilty Gear.\n\nBlazBlue, celebrating 10 years of fighting game excellence in 2018, is a series long beloved by the fighting game community for its deep and engrossing story, its vast cast of balanced characters, and its quick and kinetic gameplay style.\n\nAtlus’ Persona series, a worldwide RPG phenomenon and no stranger to the fighting game genre itself. Persona characters have appeared in Arc System Works games before, notable Persona 4 Arena and Persona 4 Arena Ultimax.\n\nUnder Night In-Birth is veteran fighting game developer French Bread’s first foray into an original title, coming hot off the heels of their success with the cult classic series Melty Blood.\n\nRooster Teeth’s animated mega hit, RWBY, has been a popular franchise for years, crossing both gender and age barriers to become a mainstream hit. Characters from the RWBY series have never appeared in a fighting game before. Until now.",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20180605,
+    "first_update_release_date": 20180529,
+    "latest_update_release_date": 20200109,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20200109
+    },
+    "versions": {
+        "65536": 20180529,
+        "131072": 20180618,
+        "196608": 20180705,
+        "262144": 20180806,
+        "327680": 20180910,
+        "393216": 20181101,
+        "458752": 20190520,
+        "524288": 20190613,
+        "589824": 20191120,
+        "655360": 20200109
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "THE COLLISION IS INEVITABLE! THE IMPACT WILL BE UNAVOIDABLE!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

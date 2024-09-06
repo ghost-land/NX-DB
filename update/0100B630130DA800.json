@@ -1,4 +1,43 @@
 {
     "id": "0100B630130DA800",
-    "version": 131072
+    "base_tid": "0100B630130DA000",
+    "name": "트롤헌터: 아카디아의 수호자 (Trollhunters: Defenders of Arcadia)",
+    "description": "트릭스터 트롤 포르곤의 교활한 계획을 막아야 하는 짐 레이크 주니어와 함께 트롤 헌터의 세계로 떠나보세요! 협동 모드에서 클레어와 팀을 이뤄 사랑스러운 캐릭터들의 도움을 받아 수수께끼 속 악의 무리를 상대하고 타임포칼립스를 막아내야 해요! 아머를 업그레이드하고 능력을 강화해 그 어느 때보다 강력한 힘을 갖추세요. 우주의 운명이 당신의 손에 달렸습니다!",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20201129,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201129
+    },
+    "versions": {
+        "65536": 20200930,
+        "131072": 20201129
+    },
+    "category": [
+        "액션",
+        "어드벤처"
+    ],
+    "intro": "액션으로 가득한 게임에서 트롤헌터 유니버스를 탐험하고 \n짐 레이크 주니어가 되어 세계를 구해주세요!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "폭력성"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100B5E011920800",
-    "version": 131072
+    "base_tid": "0100B5E011920000",
+    "name": "TOHU",
+    "description": "Experience a brand new adventure game set amongst a world of weird and wonderful fish planets. Explore beautiful environments, solve intricate puzzles and discover the truth about a mysterious little girl and her mechanical alter-ego, Cubus.\n\nAdventure as a little girl\nExplore vivid and atmospheric locations, meet intriguing characters, and solve elaborate puzzles - all on your quest to repair the Sacred Engine. As The Girl you are light and nimble, and so can reach areas of the world that others can't.\n\nUtilise the might of Cubus\nAt any time you can transform into The Girl’s mechanical friend, Cubus. Need something heavy lifting? Need big strong arms to catch lightbulb flies as they pass by? Need to win an impromptu arm wrestle with an arcane and somehow tangible mirror image of yourself? Cubus has you covered.\n\nDiscover gorgeous handcrafted worlds\nEach fish planet in TOHU is brought to life through bewitchingly beautiful artwork and is packed with detail. Meet a cast of bizarre characters and uncover cute critters to collect!\n\nSolve intricately crafted puzzles\nYou'll need your wits about you to solve TOHU’s unique and wacky conundrums. From a simple search for critters needed to power your expanse-traversing fly-ship, to learning how to operate a moustache-imbuing mole cannon.\n\nBathe in an entrancing soundscape\nTOHU features a musical score by Christopher Larkin, the award winning composer responsible for the soundtrack of Hollow Knight.",
+    "publisher": "The Irregular Corporation",
+    "developer": null,
+    "base_release_date": 20210129,
+    "first_update_release_date": 20210107,
+    "latest_update_release_date": 20210412,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210412
+    },
+    "versions": {
+        "65536": 20210107,
+        "131072": 20210412
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Explore beautiful environments and solve intricate puzzles in a brand new adventure game set amongst a world of wonderful fish planets.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

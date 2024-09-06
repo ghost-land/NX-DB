@@ -1,4 +1,53 @@
 {
     "id": "0100B620139D8800",
-    "version": 917504
+    "base_tid": "0100B620139D8000",
+    "name": "THE GAME OF LIFE 2",
+    "description": "The Game of Life 2 is the sequel to Hasbro's board game, The Game of Life, played by over 50 Million players worldwide. With more choices than ever before, join friends and family for a multiplayer adventure in a fun 3D world and live your way!\n\nPLAY IN 3 WORLDS\nMaster the Classic City, Become a Knight in shining armour in the Fairytale Kingdom, and a Monster Herder in the Haunted Hills. There are thousands of lives to live in these magical worlds!\n\nCUSTOMISE YOUR PEG\nCustomise your pink, blue or NEW purple peg. Wear any outfit with any colour peg, and be yourself! Browse a selection of cars, bikes and scooters and find a ride to suit your style.\n\nSPIN THE SPINNER\nThere are no dice, in this board game it’s all about the spinner! Everywhere you land you’ll have choices to make, but it’s the “crossroad moments” that define the journey!\n\nFACE CROSSROAD MOMENTS\nGet married or don’t. Have kids, adopt pets, do both or neither! Work as a Pet Groomer, then qualify as a Wind Turbine Technician and save the planet. The big choices define your path.\n\nWIN YOUR WAY\nEarn points for Knowledge and Happiness as well as wealth, and make every choice count. Will you make all the money, or follow your dreams, or go for a healthy balance of all three?\n\nPLAY PAST RETIREMENT\nLife doesn’t end at retirement. Cross the finish line and relax in a luxury home, or continue the adventure, drive off into the sunset and fulfil your bucket list!\n\nEARN REWARDS TO UNLOCK ITEMS\nUnlock new Outfits and Vehicles by playing the game and earning rewards! Play the game and upgrade your wardrobe and vehicle options.\n\nDISCOVER THE ULTIMATE LIFE COLLECTION\nGet 8 more amazing worlds with the Ultimate Life Collection! Qualify as an Intergalactic Translator in the Lunar Age, become a Recipe Librarian in Sweet Haven, and more!",
+    "publisher": "Marmalade Game Studio",
+    "developer": null,
+    "base_release_date": 20210329,
+    "first_update_release_date": 20210512,
+    "latest_update_release_date": 20240801,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20240801
+    },
+    "versions": {
+        "65536": 20210512,
+        "131072": 20210713,
+        "196608": 20210730,
+        "262144": 20211220,
+        "327680": 20220121,
+        "393216": 20220324,
+        "458752": 20220614,
+        "524288": 20220805,
+        "589824": 20221027,
+        "655360": 20221218,
+        "720896": 20230714,
+        "786432": 20240115,
+        "851968": 20240711,
+        "917504": 20240801
+    },
+    "category": [
+        "Board Game",
+        "Party",
+        "Multiplayer",
+        "Simulation"
+    ],
+    "intro": "The Game of Life 2 brings bright, fun 3D animated magic to your game night. Spin the spinner and discover new choices, new crossroads and new ways to win. The decisions are all yours",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100B6701B15A800",
-    "version": 262144
+    "base_tid": "0100B6701B15A000",
+    "name": "Your Computer Might Be At Risk",
+    "description": "Your Computer Might Be At Risk is a first-person narrative puzzle game. Locked up in a room after a mysterious car accident, you must figure out how to escape while surviving dangerous trials and solving dozens of puzzles. Narrated in parallel, twenty years later your son unravels the story of your mysterious vanishing.\n\nThe game includes the special chapter \"La Rata Escarlata\". This last chapter explores the origins of the story and adds new interconnected puzzles in a unique new location.\n\nAs of December 2023, the game also includes the \"Xmas Special\" chapter. This short Christmas-themed episode constrasts the tone of the main game and features new puzzles, music and scenarios.\n\nFeatures:\n\n- Unique 3D visual style with stylized models, vibrant colors aesthetic inspired by Giallo genre and animated video cutscenes created from real video footage.\n\n- Solve dozens of puzzles with unique and interesting mechanics.\n\n- Varied gameplay, from fixed-camera point and click scenes to first-person camera with free movement.\n\n- Diverse scenes and situations, from the real world to dreamlike stages.",
+    "publisher": "Tenebris Studio",
+    "developer": null,
+    "base_release_date": 20230629,
+    "first_update_release_date": 20230629,
+    "latest_update_release_date": 20231214,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231214
+    },
+    "versions": {
+        "65536": 20230629,
+        "131072": 20230720,
+        "196608": 20230802,
+        "262144": 20231214
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "An unfinished story, returns to be concluded.\nA story about wrong decisions.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null
 }

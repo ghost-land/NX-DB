@@ -1,4 +1,55 @@
 {
     "id": "0100B63016916800",
-    "version": 589824
+    "base_tid": "0100B63016916000",
+    "name": "My Time at Sandrock",
+    "description": "300 years after the Day of Calamity destroyed most modern technologies, travel to the desert community of Sandrock and take on the role of a fledgling Builder. Use your trusty toolset to gather resources, construct machines, and turn your run-down workshop into a well-oiled production facility to save the town from the jaws of economic ruin.\n\nFeatures:\n•\tDiscover over 60 hours of adventure with a deep story, sidequests, and rich character backstories\n•\tEngage in numerous activities and interactions with NPCs, including romance and the option to get married and have children!\n•\tBuild your own workshop, craft hundreds of items, decorate your home, plant crops, cook recipes, raise livestock, and meet many animals with unique personalities\n•\tDiscover treasure, relics, and resources hidden beneath the Eufaula Desert\n•\tFace a wide range of enemies in dungeons and experience a realistic and ever-changing desert environment.\n•\tFind even more fun with exciting mini-games like sand running, gun fighting, sand fishing, holiday events and many more!\n•\tEmbark on a unique Multiplayer adventure, arriving as a free update after launch, to rebuild Sandrock with friends!",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20231102,
+    "first_update_release_date": 20230923,
+    "latest_update_release_date": 20240528,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240528
+    },
+    "versions": {
+        "65536": 20230923,
+        "131072": 20231002,
+        "196608": 20231010,
+        "262144": 20231102,
+        "327680": 20240125,
+        "393216": 20240131,
+        "458752": 20240328,
+        "524288": 20240419,
+        "589824": 20240528
+    },
+    "category": [
+        "RPG",
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "My Time at Sandrock is an adventure RPG that takes place in a wholesome post-apocalyptic world. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

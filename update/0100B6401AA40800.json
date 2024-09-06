@@ -1,4 +1,43 @@
 {
     "id": "0100B6401AA40800",
-    "version": 262144
+    "base_tid": "0100B6401AA40000",
+    "name": "Poosh XL",
+    "description": "\"Poosh\" your way through the obstacles and see how far you can get in this one-button arcade score chaser!\n\nJust press the \"Poosh\" button when your power and angle is just how you want it but don't wait too long or the floor will raise up and destroy you. Avoid hitting anything and survive as long as you can to make waves in the leaderboard.\n\n-Easy to learn, one button controls\n-An endless, fast paced and challenging arcade gameplay that constantly gets harder\n-Includes bespoke Challenges to unlock unique cosmetic skins\n-Procedurally generated music by \"veryhandsomebilly\" Billy Mills",
+    "publisher": "Adamvision Studios",
+    "developer": null,
+    "base_release_date": 20230508,
+    "first_update_release_date": 20230426,
+    "latest_update_release_date": 20240205,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240205
+    },
+    "versions": {
+        "65536": 20230426,
+        "131072": 20230523,
+        "196608": 20230802,
+        "262144": 20240205
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Poosh XL is a neon-infused one button arcade game. It is an addictive 'just-one-more-round' score attack that will test your reflexes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

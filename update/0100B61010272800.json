@@ -1,4 +1,37 @@
 {
     "id": "0100B61010272800",
-    "version": 65536
+    "base_tid": "0100B61010272000",
+    "name": "Kemono Heroes",
+    "description": "When the Moon God turns the inhabitants of the forest to stone, four Animal Ninja Masters must fight their way to Mt. Fuji and break his spell. Use swift moves, an arsenal of tools, and each Master’s unique abilities to save your home!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200228,
+    "first_update_release_date": 20200702,
+    "latest_update_release_date": 20200702,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200702
+    },
+    "versions": {
+        "65536": 20200702
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

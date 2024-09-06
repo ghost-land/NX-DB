@@ -1,4 +1,48 @@
 {
     "id": "0100B6E012EBE800",
-    "version": 720896
+    "base_tid": "0100B6E012EBE000",
+    "name": "UNO®",
+    "description": "UNO®, the beloved card game, is coming to the Nintendo Switch system with exciting new features. \nPlayers can now race against friends to see who can empty their hand first in Classic Play, or you can customize your experience with a variety of unique and exciting House Rules. For even more fun, the new Emote system allows players to share the joy of victory – or the agony of defeat.\n\nThe addition of Today’s Rulesets brings a new collection of game attributes, challenges, and live leaderboards.\n\nThe classic rules you love are back! Stacking, swapping 7s, passing 0s, and, for the first time on consoles, Jump-In.\n\nFlick the controller to play, draw, or pass cards for the physical feel of real-life UNO.\n\nPlay online or locally using up to four Switch consoles, and communicate using the new Emote system!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20210127,
+    "latest_update_release_date": 20240708,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240708
+    },
+    "versions": {
+        "65536": 20210127,
+        "131072": 20210602,
+        "196608": 20211014,
+        "262144": 20211208,
+        "327680": 20220405,
+        "393216": 20230109,
+        "458752": 20230117,
+        "524288": 20230313,
+        "589824": 20230423,
+        "655360": 20231017,
+        "720896": 20240708
+    },
+    "category": [
+        "Board Game",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }
