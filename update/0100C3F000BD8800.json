@@ -1,4 +1,31 @@
 {
     "id": "0100C3F000BD8800",
-    "version": 65536
+    "base_tid": "0100C3F000BD8000",
+    "name": "みんなでワイワイ！スペランカー",
+    "description": "前作『みんなでスペランカーZ』をベースに、ゲーム史上最弱の主人公がパワーアップしてNintendo Switchに登場！\nJoy-Conを渡せばその場ですぐにワイワイマルチプレイ！\nコアゲーマーからファミリーまで、みんなで楽しめるアクションゲームです。",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20170420,
+    "first_update_release_date": 20171018,
+    "latest_update_release_date": 20171018,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171018
+    },
+    "versions": {
+        "65536": 20171018
+    },
+    "category": [
+        "アクション",
+        "アドベンチャー",
+        "パーティー"
+    ],
+    "intro": "スペランカーになって仲間といっしょに冒険しよう！！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

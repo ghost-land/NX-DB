@@ -1,4 +1,50 @@
 {
     "id": "0100C510166F0800",
-    "version": 851968
+    "base_tid": "0100C510166F0000",
+    "name": "Chained Echoes",
+    "description": "Chained Echoes is a story-driven JRPG where a group of heroes travel around the vast continent of Valandis to bring an end to the war between its three kingdoms. \n\nIn the course of their journey, they will travel through a wide array of diverse landscapes spanning from wind-tanned plateaus and exotic archipelagos to sunken cities and forgotten dungeons.\nTake up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit Style RPG set in a fantasy world where dragons are as common as piloted mechanical suits. \n\nFollow a group of heroes as they explore a land filled to the brim with charming characters, fantastic landscapes and vicious foes. \nCan you bring peace to a continent where war has been waged for generations and betrayal lurks around every corner?\n\nFeatures:\n- 30 - 40 hours of play time\n- Fast paced turn-based battles\n- No random encounters; enemies can be seen running around\n- Tons of items to be looted, stolen or crafted\n- Complex skill and equipment system\n- Customize your own airship\n- Travel and fight by foot or in your Mech\n- 16-bit Style graphics",
+    "publisher": "Deck 13",
+    "developer": null,
+    "base_release_date": 20221208,
+    "first_update_release_date": 20221205,
+    "latest_update_release_date": 20231018,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20231018
+    },
+    "versions": {
+        "65536": 20221205,
+        "131072": 20221208,
+        "196608": 20221220,
+        "262144": 20221229,
+        "327680": 20230106,
+        "393216": 20230201,
+        "458752": 20230217,
+        "524288": 20230613,
+        "589824": 20230621,
+        "655360": 20230626,
+        "720896": 20230921,
+        "851968": 20231018
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Grab your sword, board your mech and save Valandis!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

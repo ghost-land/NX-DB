@@ -1,4 +1,36 @@
 {
     "id": "0100C4801223C800",
-    "version": 65536
+    "base_tid": "0100C4801223C000",
+    "name": "Ultra Foodmess",
+    "description": "Experience the food mess! Call your friends to explode, shoot, swing, push, dodge, destroy and, eventually, ruin your friendship.\n\nGame Features:\n- LOCAL MULTIPLAYER. \n2 to 4 Players on local multiplayer.\n\n- 11 different fast-paced GAME MODES. \nChoose from a great variety of crazy modes, each of them with their own mechanics.\n\n- A lot of FOOD CHARACTERS.\nChoose the food that you like the most to defeat the others and prove who is the best!\n\n- It’s very EASY TO PLAY!\nAnyone can pick up the controller and start having fun!\n\n- Battle against the AI.\nPrepare yourself and battle against the food bots.\n\n- UNLOCKABLES!.\nFinish the challenges to earn achievements and unlock new awesome characters!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211110,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20230523
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Ultra Foodmess is a competitive party game for up to 4 players in which food characters battle against each other in a variety of crazy and fast-paced modes!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

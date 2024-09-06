@@ -1,4 +1,40 @@
 {
     "id": "0100C3E00D68E800",
-    "version": 196608
+    "base_tid": "0100C3E00D68E000",
+    "name": "Deep Sky Derelicts: Definitive Edition",
+    "description": "In a grim dystopian future, where mankind has scattered across the galaxy and the human society has split into two distinct classes, you are a poor stateless outcast forced to live off scraps from derelict alien stations and ships in the outer space. A fabled alien derelict ship somewhere within the Deep Sky sector of space is your voucher for a citizenship and a promise of cozy life on a hospitable planet.\n\nExperience Deep Sky Derelicts in its definitive edition, which brings together the base game and its two DLC, New Prospects and Station Life. Both adding new features, content, areas, gameplay mechanics and much more!\n\nKey Features:\n•\tFresh take on turn-based combat with cards\n•\tRefined sci-fi comic book look & feel\n•\tEndless customization options for characters and scavenging teams\n•\tHigh replay value thanks to procedural generation of content\n•\tStory of the human society divided within a dystopian universe\n•\tTwo game modes: story and arena",
+    "publisher": "Fulqrum Publishing",
+    "developer": null,
+    "base_release_date": 20200324,
+    "first_update_release_date": 20200408,
+    "latest_update_release_date": 20200625,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200625
+    },
+    "versions": {
+        "65536": 20200408,
+        "131072": 20200508,
+        "196608": 20200625
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Deep Sky Derelicts is an original combination of turn-based strategy and RPG, enriched with tactical card combat and popular roguelike elements.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

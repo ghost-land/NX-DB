@@ -1,4 +1,38 @@
 {
     "id": "0100C4D0093EA800",
-    "version": 327680
+    "base_tid": "0100C4D0093EA000",
+    "name": "Battle Princess Madelyn",
+    "description": "Battle Princess Madelyn is a game that follows the journey of a young knight in training, Madelyn, and her ghostly pet dog, Fritzy. They set out on a journey to save her kingdom and her family from the clutches of an evil wizard.",
+    "publisher": "Causal Bit Games",
+    "developer": null,
+    "base_release_date": 20190108,
+    "first_update_release_date": 20181211,
+    "latest_update_release_date": 20190328,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190328
+    },
+    "versions": {
+        "65536": 20181211,
+        "131072": 20181217,
+        "196608": 20190104,
+        "262144": 20190125,
+        "327680": 20190328
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "10 levels, each of which include up to 5 stages.\nAmazingly detailed hand drawn pixel art.\nTwo modes of game play: Arcade and story mode",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

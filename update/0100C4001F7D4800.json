@@ -1,4 +1,34 @@
 {
     "id": "0100C4001F7D4800",
-    "version": 131072
+    "base_tid": "0100C4001F7D4000",
+    "name": "Pair Horror",
+    "description": "The mysterious mansion you've visited is full of perplexing traps and strange monsters!\n\nShare Joy-Con™ and play co-op together!\n\n[Play Together (2-player)]\nWork together to complete a total of 20 unique co-op games!\n\n[Online]\nTeam up with players from around the world and play together!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240725,
+    "first_update_release_date": 20240712,
+    "latest_update_release_date": 20240821,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240821
+    },
+    "versions": {
+        "65536": 20240712,
+        "131072": 20240821
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "Nothing is scary when we work together!\nTeam up and complete a variety of games!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

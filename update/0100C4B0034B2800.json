@@ -1,4 +1,35 @@
 {
     "id": "0100C4B0034B2800",
-    "version": 65536
+    "base_tid": "0100C4B0034B2000",
+    "name": "Nintendo Labo Toy-Con 01 Variety Kit",
+    "description": "Nintendo Labo Toy-Con 01 Variety Kit",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180420,
+    "first_update_release_date": 20190116,
+    "latest_update_release_date": 20190116,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190116
+    },
+    "versions": {
+        "65536": 20190116
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

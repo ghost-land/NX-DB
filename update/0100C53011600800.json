@@ -1,4 +1,39 @@
 {
     "id": "0100C53011600800",
-    "version": 131072
+    "base_tid": "0100C53011600000",
+    "name": "Anarkade",
+    "description": "Anarkade is a multiplayer arena shooter with pixel art graphics and intense platforming action.\n\nRun, jump, and frag your opponents with explosive weaponry that causes hilarious hijinks. With intuitive controls that are easy to learn but hard to master, players can gain an edge over rivals by performing moves like wall jumps and corner hangs to strike from anywhere.\n\n● Customizable characters:\nMake your character stand out in the wasteland with an absurd range of hats, gas masks, Viking apparel, and more.\n\n● Contrasting Stage themes with unique physics:\nShoot your way through an eclectic collection of arenas in space, on ice or even in the ancient terrain of Egypt.\n\n● Multiple weapons with distinctive tactics:\nBring a knife to a gun fight... or a Gatling gun or a bazooka. Heck, even use a bowling bomb to blow away your opponents!\n\nMake sure you loot crates for power ups and weapons while navigating randomly generated arenas in local matches or online multiplayer.",
+    "publisher": "Blowfish Studios",
+    "developer": null,
+    "base_release_date": 20240924,
+    "first_update_release_date": 20240820,
+    "latest_update_release_date": 20240820,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240820
+    },
+    "versions": {
+        "131072": 20240820
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Anarkade is a Multiplayer Arena Shooter with 2D platforming mechanics that features multiple weapons, randomly generated arenas, and humorously bloody animations.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

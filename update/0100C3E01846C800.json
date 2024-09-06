@@ -1,4 +1,47 @@
 {
     "id": "0100C3E01846C800",
-    "version": 393216
+    "base_tid": "0100C3E01846C000",
+    "name": "fig.",
+    "description": "You do not know anything, yet you have to move forward.  Wander through the corridors of a mysterious factory and recover your abilities.  Fight patroling drones and break through to demanding boss battles.  Seek a way out and find the meaning of the game's title.",
+    "publisher": "Take IT Studio!",
+    "developer": null,
+    "base_release_date": 20220804,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20230317,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230317
+    },
+    "versions": {
+        "65536": 20220805,
+        "131072": 20220915,
+        "196608": 20221021,
+        "262144": 20221028,
+        "393216": 20230317
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Who are you? A human or a robot? Where are you? Is this a factory? When are you? Is this a future or a present?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

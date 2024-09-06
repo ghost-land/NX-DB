@@ -1,4 +1,46 @@
 {
     "id": "0100C5000F294800",
-    "version": 851968
+    "base_tid": "0100C5000F294000",
+    "name": "Battle Brothers – A Turn Based Tactical RPG",
+    "description": "Battle Brothers is a turn based tactical RPG which has you leading a mercenary company in a gritty, low-power, medieval fantasy world. You decide where to go, whom to hire or to fight, what contracts to take and how to train and equip your men in a procedurally generated open world campaign. Do you have what it takes to lead them through bloody battles and to victory?\n\nThe game consists of a strategic worldmap and a tactical combat layer. On the worldmap you can freely travel in order to take contracts that earn you good coin, find places worth looting, enemies worth pursuing or towns to resupply and hire men at. This is also where you manage, level up and equip your Battle Brothers. Once you engage a hostile party the game will switch to a tactical map where the actual fighting takes place as detailed turn based combat.\n\nManage a medieval mercenary company in a procedurally generated open world.\n- Fight complex turn-based tactical battles with historical equipment and brutal injuries.\n- Permadeath. All characters that die in combat will stay dead – unless they return as the undead.\n- All characters come with their own background stories and traits. Want a stuttering ratcatcher, a greedy witch hunter or a drunkard disowned noble?\n- Character development without a restrictive class-system. Each Character gains experience through combat, can level up and acquire powerful perks.\n- Equipment that matters. Different weapons grant unique skills – split shields with axes, stun enemies with maces, form a spearwall with spears or crush armor with a warhammer.\n- Diverse enemy roster. All enemies have unique equipment, skills and AI behavior.\n- a dynamic event system with atmospheric encounters and tough decisions outside of combat.\n- Three late game crises – a war between noble houses, a greenskin invasion and an undead scourge – add a looming threat.\n- Two full hours of orchestral soundtrack.",
+    "publisher": "Ukiyo Publishing",
+    "developer": null,
+    "base_release_date": 20210312,
+    "first_update_release_date": 20210215,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20210215,
+        "131072": 20210225,
+        "196608": 20210310,
+        "262144": 20210323,
+        "327680": 20210409,
+        "393216": 20210426,
+        "458752": 20210506,
+        "524288": 20210517,
+        "589824": 20210714,
+        "655360": 20211230,
+        "720896": 20220330,
+        "786432": 20220608,
+        "851968": 20220923
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

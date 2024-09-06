@@ -1,4 +1,39 @@
 {
     "id": "0100C4E004406800",
-    "version": 262144
+    "base_tid": "0100C4E004406000",
+    "name": "Adventure Time: Pirates of the Enchiridion",
+    "description": "Ahoy! The Land of Ooo is underwater and it’s up to Finn and Jake to find out why.  Join our heroes as they explore the high seas, search for hidden clues, interrogate shady suspects and fight pirates to solve the mystery and save their waterlogged world!\n\nKey Features:\n- Explore the Land of Ooo freely, discover secrets and collect loot with playable fan-favourite characters, Finn, Jake, BMO and Marceline\n- Set sail across the high seas between kingdoms and venture into uncharted territories to figure out what’s going on\n- Upgrade your heroes, use items, spells, potions and unique ultimate hero abilities to battle bad guys in fast-paced tactical combat\n- An original adventure with the series voice cast",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20180720,
+    "first_update_release_date": 20180716,
+    "latest_update_release_date": 20190401,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190401
+    },
+    "versions": {
+        "65536": 20180716,
+        "131072": 20180921,
+        "196608": 20181108,
+        "262144": 20190401
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy themes and violence"
+    ],
+    "region": null
 }

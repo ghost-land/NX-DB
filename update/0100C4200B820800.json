@@ -1,4 +1,38 @@
 {
     "id": "0100C4200B820800",
-    "version": 65536
+    "base_tid": "0100C4200B820000",
+    "name": "SmuggleCraft",
+    "description": "You’ve got a fast hovercraft and a heavy debt. Also the world is falling apart.\n\nAs a smuggler in a society in which travel, trade, and technology are highly regulated and virtually inaccessible for most, your deliveries could decide the fate of your world. \n\nSmuggleCraft is a quest-based hovercraft racing adventure. Pilot your Hovercraft to smuggle contraband, build upgrades, and escape the authorities as you discover the incredible stories of the inhabitants of the unforgiving and troubled world Dirahl.",
+    "publisher": "Happy Badger Studio",
+    "developer": null,
+    "base_release_date": 20190124,
+    "first_update_release_date": 20190404,
+    "latest_update_release_date": 20190404,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190404
+    },
+    "versions": {
+        "65536": 20190404
+    },
+    "category": [
+        "Racing",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Ever-changing Environments - Procedural race tracks.\nCharacters and Consequence - Everyone has a story.\nCustomize your Hovercraft - Over 60 hovercraft parts.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Drug Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes",
+        "Users Interact"
+    ],
+    "region": null
 }

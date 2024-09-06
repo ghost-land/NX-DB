@@ -1,4 +1,40 @@
 {
     "id": "0100C4A015214800",
-    "version": 65536
+    "base_tid": "0100C4A015214000",
+    "name": "スター・ウォーズ ジェダイナイト２：ジェダイアウトキャスト",
+    "description": "カイル・カターンの大人気アドベンチャーが復活！\n新共和国のエージェント、ジェダイのカイル・カターンとなり、フォースやライトセーバーを駆使し、銀河を危機に陥れる新たな悪に立ち向かえ。\n\nディスラプター・ライフル、サーマル・デトネーター、トリップ・マイン、ウーキー・ボウキャスターなどの13種類の豊富な武器が登場。\n\n24のシングルプレイミッションと4つのボス戦、さらにカンティーナの戦いがあなたを待ち受ける。\n\n伝説のシングルプレイゲームを新しい操作方法で体験しよう。",
+    "publisher": "THQ Nordic ジャパン",
+    "developer": null,
+    "base_release_date": 20211223,
+    "first_update_release_date": 20211222,
+    "latest_update_release_date": 20211222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211222
+    },
+    "versions": {
+        "65536": 20211222
+    },
+    "category": [
+        "アドベンチャー",
+        "アクション"
+    ],
+    "intro": "ジェダイとなり、新たな悪に立ち向かえ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恋愛",
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }
