@@ -1,4 +1,40 @@
 {
     "id": "010007701F400800",
-    "version": 65536
+    "base_tid": "010007701F400000",
+    "name": "Purrfect Rescue",
+    "description": "Five different sceneries, a hundred kittens to rescue in each, and only one person to take care of it all. (That person is you!)\n\nKeep your eyes open for ears, tails and noses - kittens are small, and there's a lot of them around ^^\n\nFeatures:\n- Original soundtrack;\n- 5 different scenarios;\n- 505 cats to find;\n- 5 special cats with personal rescue stories!\n- Game experience designed for a bit of thought and relaxation ^^",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20240829,
+    "first_update_release_date": 20240808,
+    "latest_update_release_date": 20240808,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240808
+    },
+    "versions": {
+        "65536": 20240808
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "A hidden object game, in which you must find and rescue alley kittens lost in a big city.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

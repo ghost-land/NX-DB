@@ -1,4 +1,45 @@
 {
     "id": "0100082014D86800",
-    "version": 655360
+    "base_tid": "0100082014D86000",
+    "name": "VasterClaws 3:Dragon slayer of the God world",
+    "description": "The gameplay focuses on raising your soldiers' levels, strengthening their weapons, and balancing their unique traits and skills to create the strongest squad possible. \nLead your ultimate squad deeper into the realm of evil, or try it skills online against other players' squads and move your way up the online ranks.\n\n[Story]\nTwo beings of the 《human world》 hold holy power:\n《Shrine Maiden》holds “The Holy Power of Transition\",\n《Dragon Slayer》 holds “The Holy Power of Dragonslaying”.\nThese two souls resonate, and the soldiers of the 《human world》 assemble to\nface the 《evil dragons of the God World》.\n\nYou must become the 《dragon slayer》 or 《shrine maiden》to defeat 《Lord Vaster Dragon》 and his monsters to free the 《God World》 from his terrible power.\nEnter the belly of 《the dragon》 and release the 《spirit hoard》 of Gods and men that are trapped within.",
+    "publisher": "Mediascape",
+    "developer": null,
+    "base_release_date": 20210701,
+    "first_update_release_date": 20210630,
+    "latest_update_release_date": 20240810,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240810
+    },
+    "versions": {
+        "65536": 20210630,
+        "131072": 20210714,
+        "196608": 20210730,
+        "262144": 20210810,
+        "327680": 20211126,
+        "393216": 20211213,
+        "458752": 20230802,
+        "524288": 20231129,
+        "589824": 20240626,
+        "655360": 20240810
+    },
+    "category": [
+        "RPG",
+        "Simulation",
+        "Action"
+    ],
+    "intro": "Defeat the God-devouring Dragon in this deceptively simple squad building game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "01000750084B2800",
-    "version": 131072
+    "base_tid": "01000750084B2000",
+    "name": "Shiftlings - Enhanced Edition",
+    "description": "Shiftlings is a colorful puzzle platformer with a twist! You’re controlling two quirky custodians who are tethered together; one large and one small. Play alone or work together with a friend to run, bounce and swap size through 55 challenging levels.\n\nEach level challenges you to utilize various mechanics to avoid traps and reach the objective. Collectible cola bottles add replay value by opening up new levels and challenges to experience. \n\nWarning: Use your wits to turn the tether into an advantage. Failure to comply may lead to hilarious results.\n",
+    "publisher": "RockPocket",
+    "developer": null,
+    "base_release_date": 20180201,
+    "first_update_release_date": 20180124,
+    "latest_update_release_date": 20180201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180201
+    },
+    "versions": {
+        "65536": 20180124,
+        "131072": 20180201
+    },
+    "category": [
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "A couch co-op where size matters!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

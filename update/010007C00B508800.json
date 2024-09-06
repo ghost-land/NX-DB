@@ -1,4 +1,44 @@
 {
     "id": "010007C00B508800",
-    "version": 393216
+    "base_tid": "010007C00B508000",
+    "name": "SNK Heroines Tag Team Frenzy",
+    "description": "Fan-favourite heroines from SNK gather together for 2-on-2 tag-team action in SNK Heroines Tag Team Frenzy on Nintendo Switch!\n\nActivate a variety of moves in battle with just one button. Then, while changing characters, get the upper hand using a huge variety of items!\n\nThe party won’t stop just because you took down your opponents’ HP. Get ‘em in a tough spot, and initiate the ultra-special move, Dream Finish!\n\nBy customising your fighters, you can show ‘em what you’re made of. Time to party on to victory with some of your favourite leading ladies!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180907,
+    "first_update_release_date": 20180913,
+    "latest_update_release_date": 20190315,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20190315
+    },
+    "versions": {
+        "65536": 20180913,
+        "131072": 20180919,
+        "196608": 20181010,
+        "262144": 20181114,
+        "327680": 20181212,
+        "393216": 20190315
+    },
+    "category": [
+        "Fighting",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "Sexualised imagery",
+        "Online interactivity"
+    ],
+    "region": null
 }

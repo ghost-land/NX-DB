@@ -1,4 +1,41 @@
 {
     "id": "010006A01441C800",
-    "version": 131072
+    "base_tid": "010006A01441C000",
+    "name": "Trigger Witch",
+    "description": "Recalling the visual style and intuitive gameplay of 16-bit action-adventure classics, Trigger Witch puts an ultra-violent spin on cute and colorful pixel art. With a compelling and original narrative, puzzling environments to explore, a dynamic soundtrack, twin-stick shooter mechanics and a vast array of enemies to blast into smithereens, this is a tale that will grip you from start to bloody finish.\n\nFrom the creators of Reverie, Trigger Witch is a stylized 2D twin-stick action game set in an odd open world where magic is outdated and firearms are the new way of life. Players assume the role of Colette, a prospective graduate from the Stock, an academy for Witchcraft and Triggery. After a mysterious man invades her realm, events are set in motion that turn Colette’s life upside-down, casting her as the sole heroine with enough firepower to restore peace.\n\nFeatures:\n\n• Explore an open world in classic action-adventure style!\n• Wield and upgrade new firearms as you progress.\n• Meet strange and endearing characters through engaging dialogue.\n• Blast monsters back to their rightful plane of existence in bloody fashion!\n• Solve environmental puzzles and overcome obstacles in clever ways.\n• Play solo or multiplayer at any time, with drop-in local co-op.",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20210727,
+    "latest_update_release_date": 20210811,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210811
+    },
+    "versions": {
+        "65536": 20210727,
+        "131072": 20210811
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Magic and firearms make a deadly combo in this blood-splattered take on classic top-down adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

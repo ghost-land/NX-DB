@@ -1,4 +1,45 @@
 {
     "id": "010007001A09C800",
-    "version": 917504
+    "base_tid": "010007001A09C000",
+    "name": "Party Party Time",
+    "description": "A party game with simple controls anyone can enjoy!\nPass around the Joy-Con™ and play with up to six players!\n\nExperience a whole variety of intuitive, easy-to-play minigames.\nTry to find your new favorite!\n\nFree Mode\nChoose the game you want to play!\n\nParty Mode\nPlay your chosen games in order\nand compete for the most points!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20221219,
+    "first_update_release_date": 20221219,
+    "latest_update_release_date": 20231212,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20231212
+    },
+    "versions": {
+        "65536": 20221219,
+        "131072": 20230120,
+        "196608": 20230217,
+        "262144": 20230411,
+        "327680": 20230426,
+        "393216": 20230429,
+        "458752": 20230526,
+        "524288": 20230714,
+        "589824": 20230714,
+        "655360": 20230814,
+        "720896": 20231123,
+        "917504": 20231212
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "It's time to get this party started!\nEndless fun in a bash everyone can join!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

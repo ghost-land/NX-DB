@@ -1,4 +1,34 @@
 {
     "id": "0100089010A92800",
-    "version": 65536
+    "base_tid": "0100089010A92000",
+    "name": "Bucket Knight",
+    "description": "Even knights still have to pay taxes, loans and alimony. Help unnamed but brave knight in his sacred mission to find the Holy Grail (and make some money). Explore dungeons, slay enemies, avoid traps, stay alive and get rich!\n\nFeatures:\n- Explore dangerous dungeons filled with traps, treasures and... food?\n- Various enemies that will try to shoot you, stab you, explode you or will try to be your friend... nevermind, just shoot at them\n- Multiple weapons for every honorable knight taste\n- Deadly traps that you never want to put at your home (but maybe at your ex home)\n- Gold, gems and treasures\n- There is no text in the game and the story is told through visuals",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200229,
+    "first_update_release_date": 20200214,
+    "latest_update_release_date": 20200214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200214
+    },
+    "versions": {
+        "65536": 20200214
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Bucket Knight is a classic run-and-gun platformer game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

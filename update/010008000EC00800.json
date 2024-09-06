@@ -1,4 +1,42 @@
 {
     "id": "010008000EC00800",
-    "version": 131072
+    "base_tid": "010008000EC00000",
+    "name": "Indivisible",
+    "description": "Indivisible是一款動作RPG平臺遊戲， 具有令人驚嘆的手繪藝術和動畫，以及獨特的實時戰鬥力學。讓自己沈浸在一個充滿幻想的世界中，擁有數十個可玩的角色，豐富的故事講述體驗，易於學習但難以掌握的遊戲玩法， 以及Lab Zero Games以其標誌性的銳利品質而聞名！",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20200527,
+    "first_update_release_date": 20200608,
+    "latest_update_release_date": 20201012,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201012
+    },
+    "versions": {
+        "65536": 20200608,
+        "131072": 20201012
+    },
+    "category": [
+        "動作",
+        "角色扮演",
+        "冒險"
+    ],
+    "intro": "圖案優秀的 獨特動作 RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

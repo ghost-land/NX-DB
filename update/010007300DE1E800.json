@@ -1,4 +1,37 @@
 {
     "id": "010007300DE1E800",
-    "version": 131072
+    "base_tid": "010007300DE1E000",
+    "name": "Monaco: Complete Edition",
+    "description": "Monaco: Complete Edition more than doubles the content from the original release, including a survival campaign, and a zombie mode, and a new ultra-challenging campaign that brings closure and a twist to the epic heist story.\n\nPlay with up to four people online or on the same screen. Compete with others via daily leaderboards. Find out why it has been described by PCGamer as \"one of the best co-op games of all time.\"",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20191022,
+    "first_update_release_date": 20191017,
+    "latest_update_release_date": 20191029,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191029
+    },
+    "versions": {
+        "65536": 20191017,
+        "131072": 20191029
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "intro": "Monaco: What's Yours Is Mine is a single player or co-op heist game. Assemble a crack team of thieves and pull off the perfect heist.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Crude Humour",
+        "Users Interact"
+    ],
+    "region": null
 }

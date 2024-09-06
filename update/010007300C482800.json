@@ -1,4 +1,36 @@
 {
     "id": "010007300C482800",
-    "version": 131072
+    "base_tid": "010007300C482000",
+    "name": "Sydney Hunter and the Curse of the Mayan",
+    "description": "Sydney Hunter and the Curse of the Mayan is a love-letter to 8-bit action adventure games with challenging platformer gameplay and a huge number of Maya-inspired bosses.\n\nYou play as Sydney Hunter, adventurer supreme, who by sheer luck manages to get trapped inside a massive Maya pyramid. He soon discovers that the “Feathered Serpent” Kukulkan has broken up the sacred Haab calendar into seven individual pieces and has hidden them inside the very same pyramid!\n\nWidespread chaos and a time freeze will certainly follow if the Haab calendar isn't located and put back together. With the support of the local Mayan population, Sydney Hunter must now find all seven pieces of the Haab calendar, defeat Kukulkan, and return peace and balance to the Mayan civilization.\n\nAre you ready to beat the Curse of the Mayan?\n",
+    "publisher": "CollectorVision Games",
+    "developer": null,
+    "base_release_date": 20211021,
+    "first_update_release_date": 20191127,
+    "latest_update_release_date": 20200212,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200212
+    },
+    "versions": {
+        "65536": 20191127,
+        "131072": 20200212
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "intro": "In this pixel-perfect homage to the classics, you play as Sydney Hunter – an explorer who gets trapped inside a Mayan pyramid while he’s out exploring!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

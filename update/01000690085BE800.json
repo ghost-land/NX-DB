@@ -1,4 +1,44 @@
 {
     "id": "01000690085BE800",
-    "version": 65536
+    "base_tid": "01000690085BE000",
+    "name": "Little Triangle",
+    "description": "“Little Triangle” is a side-scrolling action game. \nButton operations are simply walking and jumping. \nComplete the stages by defeating the unique enemy characters and bosses!\n\n- Story Mode (1 player)\nPacked with a variety of over 30 stages\nEach stage contains hidden areas and caught citizens \nDiscover them all to complete the stages\n\n- MultiPlayer Mode (2-4 players)\nContains \"Combat\" and \"Cooperation\"\nPlay the Combat mode to enjoy the different stages with friends!\nIn Cooperation Mode a second player can help you complete the story mode\nSingle player mode will contain distinctive bits created specially for this mode\n\n- Challenge (1 player)\nChallenge the boss stages with a time score\nYou can receive new rules and skins once completed\n\n・Supported Language\nFeatures Polish as an additional language option",
+    "publisher": "CottonGame",
+    "developer": null,
+    "base_release_date": 20180301,
+    "first_update_release_date": 20191224,
+    "latest_update_release_date": 20191224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191224
+    },
+    "versions": {
+        "65536": 20191224
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Party"
+    ],
+    "intro": "Little Kingdom was invaded by the enemies!\nSave your friends and fight to take back the kingdom!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

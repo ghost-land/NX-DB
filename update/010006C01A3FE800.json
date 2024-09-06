@@ -1,4 +1,34 @@
 {
     "id": "010006C01A3FE800",
-    "version": 65536
+    "base_tid": "010006C01A3FE000",
+    "name": "お名前なんだっけ？ ー大人も子供もかんたん楽しい名前当てクイズゲームー",
+    "description": "校庭に白い線を引く時のアレ、なんだっけ？\nチルダってどんな形の記号だっけ？\n分かりそうでわからないお名前当てクイズにチャレンジ！\n\nイラストを見ながら当てはまるものを探していくゲームです！\nなんとなく呼んでるアレの名前がハッキリわかったら、\nスッキリすること間違いなし！\n明日話せる雑学をぜひゲットしてください♪\n\n知識に自信がないアナタも安心！\n全問ヒント付きです\n",
+    "publisher": "TT",
+    "developer": null,
+    "base_release_date": 20230112,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230113
+    },
+    "versions": {
+        "65536": 20230113
+    },
+    "category": [
+        "学習",
+        "実用",
+        "アドベンチャー",
+        "パーティー"
+    ],
+    "intro": "街で見かけるアレのお名前当ててみて！\n明日みんなに出したくなるクイズがいっぱい",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "性的ほのめかし"
+    ],
+    "region": null
 }

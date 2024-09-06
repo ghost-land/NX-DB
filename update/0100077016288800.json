@@ -1,4 +1,36 @@
 {
     "id": "0100077016288800",
-    "version": 65536
+    "base_tid": "0100077016288000",
+    "name": "Haustoria",
+    "description": "EXPLORE THE CURSED WORLD\nPlay as a young boy and travel across a weird forest, explore a cursed house, creep around in pitch black caves, and avoid dangerous traps in an old dungeon.\n\nMAGICAL THUMBTACK\nUse the magical thumbtack to pin and unpin various game objects, cross paths, overcome obstacles and solve puzzles to advance through the game.\n\nFOREST FRIENDS\nForest Dwellers are there to help you along your difficult journey through Haustoria’s unique world. Some of them can be spotted and collected. Some, when combined with the magical thumbtack, will help clear your path of monstrous creatures.\n\nKey features:\n- hand-drawn illustrated book-style graphics\n- harsh adventure through the peculiar game world\n- various tough challenges and weird cosmic creatures at each level\n- innovative \"magical thumbtack\" system to solve puzzles, cross paths and overcome obstacles",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20210924,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20211007,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211007
+    },
+    "versions": {
+        "65536": 20211007
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Haustoria is a 2D puzzle platformer with innovative game mechanics and a unique hand-drawn visual style. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

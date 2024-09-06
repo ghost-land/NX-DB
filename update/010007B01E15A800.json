@@ -1,4 +1,34 @@
 {
     "id": "010007B01E15A800",
-    "version": 131072
+    "base_tid": "010007B01E15A000",
+    "name": "EGGCONSOLE HYDLIDE3 PC-8801mkIISR",
+    "description": "\"Hydlide 3,\" released by T&E SOFT in 1987, is an action RPG.\n\nThis is the third installment in the iconic Japanese action RPG series, \"\"Hydlide.\"\" and the player once again rises to the occasion to save Fairyland from a new crisis.\n\nIn addition to the graphics and sound inherited from the previous title as a sequel to the series, this ambitious work incorporates a moderate amount of various elements, such as the ability to choose a class, the concept of time, the need to eat during adventures, and the need to manage luggage due to the weight of items to be carried.\n\nIt can be said that this game title not only appealed to fans of the Hydlide series but also left a lasting impression on numerous gaming enthusiasts.\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240223,
+    "first_update_release_date": 20240228,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20240228,
+        "131072": 20240412
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "The concluding chapter of the Hydlide series. Can you, as an adventurer, once again save Fairyland?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

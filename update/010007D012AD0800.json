@@ -1,4 +1,34 @@
 {
     "id": "010007D012AD0800",
-    "version": 65536
+    "base_tid": "010007D012AD0000",
+    "name": "Shikaku Shapes",
+    "description": "Shikaku Shapes is played on a rectangular grid. Some of the squares in the grid are numbered. The objective is to divide the grid into rectangular and square pieces such that each piece contains exactly one number, and that number represents the area of the rectangle. \n\n> 90 puzzles from 5x5 to 15x15\n> Light / dark color themes\n> Perfect puzzle to challenge your brain",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20201219,
+    "first_update_release_date": 20210307,
+    "latest_update_release_date": 20210307,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210307
+    },
+    "versions": {
+        "65536": 20210307
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Study"
+    ],
+    "intro": "Hours of brain challenge, great for both beginners and pros!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "010007D00D43A800",
-    "version": 196608
+    "base_tid": "010007D00D43A000",
+    "name": "Serious Sam Collection",
+    "description": "Experience one of the most explosive shooter game series of all time as you save the world from a merciless alien invasion. Visit the ruins of ancient Egypt and roam through the vivid arenas of South America fighting seemingly never-ending hordes of enemies using an extremely destructive arsenal including shotguns, heavy lasers, rocket launchers, a huge cannon and an iconic minigun.\n\nTired of playing alone? Go to war against Mental's horde with up to 4 players in local co-op, blasting your way through the campaign or the stand-alone survival mode. Finally, put your skills to the test against other players in classic multiplayer modes including Deathmatch, Team Deathmatch, Capture the Flag and more.\n\nSerious Sam Collection includes all content from Serious Sam HD: The First Encounter, Serious Sam HD: The Second Encounter and Serious Sam 3: BFE, including The Legend of the Beast and Jewel of the Nile expansions.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20201111,
+    "latest_update_release_date": 20210423,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210423
+    },
+    "versions": {
+        "65536": 20201111,
+        "131072": 20201217,
+        "196608": 20210423
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "intro": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Intense Violence",
+        "Partial Nudity",
+        "Strong Language"
+    ],
+    "region": null
 }

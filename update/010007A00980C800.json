@@ -1,4 +1,38 @@
 {
     "id": "010007A00980C800",
-    "version": 196608
+    "base_tid": "010007A00980C000",
+    "name": "Arcade Archives City CONNECTION",
+    "description": "\"City CONNECTION\" is an action game that was released from JALECO in 1985.\nGirl Clarice drives \"Clarice car\", and runs around the world in search of the ideal of man.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220303,
+    "first_update_release_date": 20180730,
+    "latest_update_release_date": 20230116,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230116
+    },
+    "versions": {
+        "65536": 20180730,
+        "196608": 20230116
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Hop into your beloved Clarice car and chase patrol cars on highways around the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

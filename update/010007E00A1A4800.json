@@ -1,4 +1,32 @@
 {
     "id": "010007E00A1A4800",
-    "version": 65536
+    "base_tid": "010007E00A1A4000",
+    "name": "Henry The Hamster Handler",
+    "description": "The ancient art of Hamster alchemy, a long-forgotten lore... Until now. Join the team at Hamsters Inc. as they delve into the practice and reveal that hamsters must endure as many near-death experiences as possible and over time the little furry balls of fun turn into bronze, silver, and gold! It’s your job to ensure that they survive the ordeal before they get melted down and turned into a fancy pair of earrings!\n",
+    "publisher": "Pocketmoneygames",
+    "developer": null,
+    "base_release_date": 20180518,
+    "first_update_release_date": 20180518,
+    "latest_update_release_date": 20180518,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180518
+    },
+    "versions": {
+        "65536": 20180518
+    },
+    "category": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Have you ever Had one of those days? Henry has...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

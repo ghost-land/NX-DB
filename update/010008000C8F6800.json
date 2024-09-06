@@ -1,4 +1,40 @@
 {
     "id": "010008000C8F6800",
-    "version": 262144
+    "base_tid": "010008000C8F6000",
+    "name": "Lyrica",
+    "description": "This is a game that allows players to enjoy musical pieces that are fusions of the classical Chinese poetry of Li Bai and Du Fu with modern music such as rock, ballad, and jazz.\nThere are three modes, Story, in which the stories of modern and ancient China are intertwined, Songs, in which players can freely play pieces, and Challenge, in which players take on the challenge of clearing difficult requirements.\nBy achieving Achievements, additional components will be unlocked.\n\nThe musical pieces that can be chosen from will increase by clearing various requirements.\nThere are a total of 57 pieces that can be played. Other than pieces based on Chinese poetry, pieces inspired by the music of the indigenous people of Taiwan and Japanese pieces are also available, and the content also allows more people to become familiar with ancient Chinese literature as an entry to learning about it.\n\nSummary\nA young man who dreams of succeeding in life through music suddenly slips through time and space into ancient China and meets a mysterious poet.\nPlease enjoy the story that is intertwined with the historical anecdotes and classic masterpieces of famous poets.",
+    "publisher": "COSEN",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20190604,
+    "latest_update_release_date": 20230501,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230501
+    },
+    "versions": {
+        "65536": 20190604,
+        "131072": 20211007,
+        "196608": 20211215,
+        "262144": 20230501
+    },
+    "category": [
+        "Music",
+        "Study",
+        "Education",
+        "Training"
+    ],
+    "intro": "A music game that has Chinese poetry as its theme and comes and goes between modern and ancient China",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

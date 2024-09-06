@@ -1,4 +1,44 @@
 {
     "id": "010007C0136C4800",
-    "version": 131072
+    "base_tid": "010007C0136C4000",
+    "name": "Doctor Who: Duo Bundle",
+    "description": "Doctor Who: Edge of Reality + Doctor Who: The Lonely Assassins",
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20210811,
+    "latest_update_release_date": 20230916,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230916
+    },
+    "versions": {
+        "65536": 20210811,
+        "131072": 20230916
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Violence"
+    ],
+    "region": null
 }

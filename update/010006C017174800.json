@@ -1,4 +1,38 @@
 {
     "id": "010006C017174800",
-    "version": 65536
+    "base_tid": "010006C017174000",
+    "name": "Super Rebellion",
+    "description": "Humanity succumbed to the power of an intergalactic alien empire, but managed to organize itself and establish a resistance army. Join the peace-seeking rebels and help them defeat the evil that haunts the Earth.\n",
+    "publisher": "Cube Games",
+    "developer": null,
+    "base_release_date": 20220708,
+    "first_update_release_date": 20220801,
+    "latest_update_release_date": 20220801,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220801
+    },
+    "versions": {
+        "65536": 20220801
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Enlist in the rebel army and board a spaceship towards the fatal destination!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100084016206800",
-    "version": 65536
+    "base_tid": "0100084016206000",
+    "name": "Not Tonight 2",
+    "description": "In an alternative broken America, where capitalism and political greed have taken center stage, your friend has gone missing. Snatched during a protest, Eduardo Suarez has been seized by the authorities, and now sits ready for processing in the Miami gulag.\n\nNot Tonight 2 is an American document-checking road trip, fusing a time-pressure RPG with a politically charged, dark comedy where every decision matters. Will Eduardo's friends Malik, Kevin and Mari manage to locate and deliver his documents to Miami in time, or is this the end of the American dream?\n\n- Three compelling stories, written by a team of diverse authors\n- Make your way across America, making terrifying decisions along the way\n- Work the doors of clubs, churches, race tracks, casinos, and cults\n- Check IDS, while completing a variety of silly, poignant minigames\n- Rhythm games, wizard shooting, serving poutine, assessing religion, checking chickens, and more",
+    "publisher": "No More Robots",
+    "developer": null,
+    "base_release_date": 20240327,
+    "first_update_release_date": 20240320,
+    "latest_update_release_date": 20240320,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240320
+    },
+    "versions": {
+        "65536": 20240320
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle"
+    ],
+    "intro": "Immigration Enforcement Case #112: You are under arrest. Unless your friends can cross a broken America and stay out of trouble... this is the end of the American Dream for you.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Drugs"
+    ],
+    "region": null
 }

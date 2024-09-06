@@ -1,4 +1,30 @@
 {
     "id": "010006C017354800",
-    "version": 131072
+    "base_tid": "010006C017354000",
+    "name": "デュエマであそぼう！2022",
+    "description": "「デュエル・マスターズ」のカードを持っていなくてもデュエマの遊び方を覚えられるソフトの第2弾！\nキャラクターがルールを教えてくれるから、デュエマを知らない方でもバッチリ覚えられ、各キャラクターと対戦できる！\n\n最新のスタートデッキや一部のカードを使用して、キャラクター達との対戦を楽しめます。\nゲームに勝利するとデュエル・マスターズの漫画を読めちゃう特典も！",
+    "publisher": "タカラトミー",
+    "developer": null,
+    "base_release_date": 20220418,
+    "first_update_release_date": 20220512,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20220512,
+        "131072": 20220915
+    },
+    "category": [
+        "その他"
+    ],
+    "intro": "「デュエル・マスターズ」の入門ソフト第2弾！\nカードを持っていなくてもデュエマの遊び方を覚えられるNintendo Switchソフトとなります！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

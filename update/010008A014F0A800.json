@@ -1,4 +1,32 @@
 {
     "id": "010008A014F0A800",
-    "version": 65536
+    "base_tid": "010008A014F0A000",
+    "name": "We Are OFK",
+    "description": "Cry, skate, date, and run for your life in 5 interactive music videos, in an interactive tv series of arguing over lyrics, sending sad texts, and building a band!\n\nItsumi Saito just moved Downtown and broke up with her long-term girlfriend, leaning into her dream of making it in music. But juggling practice, friends, a brutal commute to the west side, and a full-time job... Itsu is struggling to establish herself in the cutthroat music scene of LA. When she talks her way into a shmoozy Hollywood party and makes friends with a rising music producer, she sees a chance to bring her dreams a little closer.\n\nFeatures:\n- 5 Episodes of the interactive animated series\n- 5 Interactive Music Videos: with debut tracks performed by OFK\n- Fully-voiced interactive dialogue from a star-studded cast\n- Emotional texting, thirst texting, meme texting, emoji spamming\n- Original Los Angeles locations. You're gonna love the boba shop it's wild",
+    "publisher": "Team OFK",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20220915
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Pop. Love. Panic! Start a band in a dreamy, heartfelt, musical journey from indiepop cuties OFK. A story about chasing your dreams.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

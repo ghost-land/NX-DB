@@ -1,4 +1,35 @@
 {
     "id": "010007401B5BE800",
-    "version": 196608
+    "base_tid": "010007401B5BE000",
+    "name": "Veritas",
+    "description": "Veritas is a game of mystery and discovery that poses the question; what is truth, and does it even matter?\n\nHaving volunteered to take part in a study conducted by Veritas Industries, you now find yourself waking up in a small room with no memory of what happened the day before.\n\nThe last thing you remember is signing on the dotted line and following some nice people wearing white coats, but they couldn’t have been lying to you could they? They were doctors for goodness sake...\n\nFeatures:\n• A first person point and click adventure game.\n• Trademark Glitch humour and puzzles that will leave you screaming at us.\n• The Glitch Camera to help you solve puzzles and keep track of clues.\n• Lots of clues to find and puzzles to solve.\n• A beautiful soundtrack and immersive sound effects.\n• A full Hint System to help you if you get stuck.\n• 8 save slots, share the game with your family!\n• Auto-saves your progress!",
+    "publisher": "Glitch Games",
+    "developer": null,
+    "base_release_date": 20230731,
+    "first_update_release_date": 20240606,
+    "latest_update_release_date": 20240722,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240722
+    },
+    "versions": {
+        "65536": 20240606,
+        "131072": 20240719,
+        "196608": 20240722
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Veritas is a game of mystery and discovery that poses the question; what is truth, and does it even matter?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "010007900FCE2800",
-    "version": 131072
+    "base_tid": "010007900FCE2000",
+    "name": "Crash Drive 2",
+    "description": "Whether you're driving a bus, a classic muscle car, or a monster truck—you go your own way in this multiplayer stunting game. Speed across a huge map equipped with plenty of bizarre terrain to make the race intense. Collect coins, upgrade your ride, and WIN the offroad race!\n\n- Multiplayer gameplay\n- 6 random competitive events: Coin Collect, King of the Crown, Race, Tag, Stunt, Find the Ring\n- 4 huge levels to explore…can you find all the secret areas?\n- 30 unique vehicles to unlock\n- Special car-leveling system",
+    "publisher": "M2H",
+    "developer": null,
+    "base_release_date": 20220117,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20210526,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210526
+    },
+    "versions": {
+        "131072": 20210526
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Multiplayer gameplay\n30 unique vehicles to unlock\nSpecial car-leveling system",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

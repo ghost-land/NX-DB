@@ -1,4 +1,37 @@
 {
     "id": "010006C015C4A800",
-    "version": 262144
+    "base_tid": "010006C015C4A000",
+    "name": "X-Force Genesis",
+    "description": "A game that is a love letter to fans of shmups from the 80s/90s. X-Force Genesis is a space shooter created from amazing graphics and insane boss battles. Join this epic adventure and don't let the enemies take over the Genesis planet",
+    "publisher": "Cube Games",
+    "developer": null,
+    "base_release_date": 20211112,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20220115,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220115
+    },
+    "versions": {
+        "65536": 20211112,
+        "131072": 20211204,
+        "196608": 20211216,
+        "262144": 20220115
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Join the X-Force Squad and stop a hybrid race from taking over your planet",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

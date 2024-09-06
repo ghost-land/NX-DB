@@ -1,4 +1,37 @@
 {
     "id": "01000810151FA800",
-    "version": 131072
+    "base_tid": "01000810151FA000",
+    "name": "LiEat",
+    "description": "LiEat is the classic story of a vagabond traversing a strange and mysterious world together with a dragon protégé, buying and selling secrets, while also attempting to uncover the truth about themselves.\n\nAlong the way, they'll discover a web of arcane mysteries, meet a variety of colorful characters (including other dragons), and shed light on events of the past which ultimately served to lead them to where―and who―they are today.\n\n・Engaging and emotionally resounding JRPG storytelling\n・Entrancing atmospheric music that seamlessly transports the player into the world of LiEat\n・Myriad hidden items and conversations spread throughout the game\n・All three chapters in one package; no DLC, just the whole story",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210622,
+    "latest_update_release_date": 20210622,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210622
+    },
+    "versions": {
+        "131072": 20210622
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Efina is a very special young girl. \nShe's curious. She's optimistic. She's also a dragon.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

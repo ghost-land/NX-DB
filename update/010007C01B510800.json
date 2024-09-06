@@ -1,4 +1,38 @@
 {
     "id": "010007C01B510800",
-    "version": 131072
+    "base_tid": "010007C01B510000",
+    "name": "DOG®",
+    "description": "Looks like Ludo, but it's DOG®. In this game, you also have to safely bring your four game pieces into your home area. The difference is that they are moved using cards that have a few surprises in store for you. Team spirit is important, because you can only win together.\n\nHighlights:\n• Different game modes \n• Game boards with different looks\n",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20231031,
+    "latest_update_release_date": 20231031,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231031
+    },
+    "versions": {
+        "131072": 20231031
+    },
+    "category": [
+        "Board Game",
+        "Multiplayer",
+        "Party",
+        "Other"
+    ],
+    "intro": " The dog takes the hindmost!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [],
+    "region": null
 }

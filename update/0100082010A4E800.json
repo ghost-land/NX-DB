@@ -1,4 +1,45 @@
 {
     "id": "0100082010A4E800",
-    "version": 393216
+    "base_tid": "0100082010A4E000",
+    "name": "Voxelgram",
+    "description": "It is a 3D variation of nonograms/picross. \n\n* 256 puzzles\n* 20 dioramas\n* Procedurally generated puzzles",
+    "publisher": "Lukasz Krasniewski",
+    "developer": null,
+    "base_release_date": 20200228,
+    "first_update_release_date": 20200322,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240829
+    },
+    "versions": {
+        "131072": 20200322,
+        "196608": 20200918,
+        "262144": 20220516,
+        "327680": 20230419,
+        "393216": 20240829
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Voxelgram is a relaxing 3D puzzle game where you sculpture models by following logical hints. No guessing involved, only deduction and dioramas made out of solved puzzles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
