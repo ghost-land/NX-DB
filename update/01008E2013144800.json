@@ -1,4 +1,41 @@
 {
     "id": "01008E2013144800",
-    "version": 65536
+    "base_tid": "01008E2013144000",
+    "name": "Paw Paw Paw",
+    "description": "Paw Paw Paw was a peaceful and prosperous kingdom until one fateful day, when the King had decided to enforce everyone to wear pants.\n\nYou play as part of the resistance group ANTIPANTS, in their effort to bring down the King. Hack and slash your way to victory, and beat all your enemies into pulps!\n\nFeatures:\n* Play single player or local co-op up to 4 players\n* Level up your character\n* Unlock new combos\n* Loot and equip new weapons\n* Hire a companion to help you in battle\n* Ride your mount into battle",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20201205,
+    "first_update_release_date": 20201215,
+    "latest_update_release_date": 20201215,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201215
+    },
+    "versions": {
+        "65536": 20201215
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Fight for the freedom to not wear pants!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

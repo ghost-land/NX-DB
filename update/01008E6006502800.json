@@ -1,4 +1,41 @@
 {
     "id": "01008E6006502800",
-    "version": 262144
+    "base_tid": "01008E6006502000",
+    "name": "Aegis Defenders",
+    "description": "Explore, build, & defend in this unique mashup of action-platformer and tower defense strategy. You play as a team of Ruinhunters searching for the one thing that can save their village - a legendary weapon known as Aegis.",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20180206,
+    "latest_update_release_date": 20210819,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210819
+    },
+    "versions": {
+        "65536": 20180206,
+        "131072": 20180209,
+        "196608": 20180508,
+        "262144": 20210819
+    },
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "EXPLORE. BUILD. DEFEND.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

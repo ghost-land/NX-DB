@@ -1,4 +1,39 @@
 {
     "id": "01008ED00B916800",
-    "version": 65536
+    "base_tid": "01008ED00B916000",
+    "name": "Aqua TV",
+    "description": "Want to turn that big screen TV in to a stunning virtual aquarium? Then get Aqua TV - a fully customisable aquarium that lets your Nintendo Switch™ do just that!\n\nChoose a tank then change the floor, walls, decoration – and of course fish – to make the aquarium YOU want!\n\nOr choose the stunning tropical reef for the Supervillain's Lair experience!\n\nAll rendered in glorious 3D.\n\nAnd all easily controllable straight from the Nintendo Switch whether docked or on the go!\n\nAqua TV is a stunning, fully customisable, virtual aquarium.\n\nFeatures:\n·       Beautifully created and animated 3D fish.\n·       Loads of customisation options to make the tank look just as you want.\n·       Shuffle mode to switch between multiple tanks at random.\n·       View tanks from the front, or from above!\n·       Select from three chilled out soundtracks or use your own playlists.\n",
+    "publisher": "EM Studios",
+    "developer": null,
+    "base_release_date": 20181025,
+    "first_update_release_date": 20190530,
+    "latest_update_release_date": 20190530,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190530
+    },
+    "versions": {
+        "65536": 20190530
+    },
+    "category": [
+        "Lifestyle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "The Ultimate Digital Aquarium",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

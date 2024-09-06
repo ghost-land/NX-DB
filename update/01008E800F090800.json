@@ -1,4 +1,30 @@
 {
     "id": "01008E800F090800",
-    "version": 65536
+    "base_tid": "01008E800F090000",
+    "name": "TETRA for Nintendo Switch",
+    "description": "『TETRA for Nintendo Switch』は謎解きアドベンチャーゲームです。\n\n４つの扉の先に広がる世界を旅します。\nすべての世界を旅した後に何があるのか。\n\nもし『謎』につまってもヒントを見ながら進めることができるので安心です。\n\nさらにNintendo Switch版の追加要素として、\n４つの世界には新しい『謎』が追加されています。\n\nこの幻想的で美しい世界の『謎』を解き明かしましょう！",
+    "publisher": "レジスタ",
+    "developer": null,
+    "base_release_date": 20200618,
+    "first_update_release_date": 20200703,
+    "latest_update_release_date": 20200703,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200703
+    },
+    "versions": {
+        "65536": 20200703
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "迷い込んだ路地裏は、４つの世界につながっていた！？",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

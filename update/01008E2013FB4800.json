@@ -1,4 +1,36 @@
 {
     "id": "01008E2013FB4800",
-    "version": 196608
+    "base_tid": "01008E2013FB4000",
+    "name": "Multi Quiz",
+    "description": "A great quiz to play alone, with your family or friends! Test your knowledge with this exceptional Multi Quiz game.\nOur quiz offers not only challenging facts but also funny and interesting knowledge.\n\nMULTIPLAYER\nChallenge your friends, your family or any other player and show that you're the best!\n\nHOW TO PLAY\nStart a new game with random questions or select your favorite category. \n\nPLAY WITH CATEGORIES\nDo you have a favorite topic? Do you want to increase your knowledge in a specific field?\nTry playing by categories and choose between:\n\nTechnology\nSports\nMath\nGeography\nTales\nMusic\nMovies\nGames\nAnimals\nFlags",
+    "publisher": "Run-Down Games",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20210325,
+    "latest_update_release_date": 20231202,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231202
+    },
+    "versions": {
+        "65536": 20210325,
+        "131072": 20211007,
+        "196608": 20231202
+    },
+    "category": [
+        "Party",
+        "Study",
+        "Education",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Strong Language"
+    ],
+    "region": null
 }

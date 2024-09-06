@@ -1,4 +1,40 @@
 {
     "id": "01008ED00DABC800",
-    "version": 131072
+    "base_tid": "01008ED00DABC000",
+    "name": "Dry Drowning",
+    "description": "Follow the story of Mordred Foley, an unscrupulous private detective haunted by his dark past, and look into a series of macabre serial killings inspired by Greek mythology.",
+    "publisher": "LeonardoInteractive",
+    "developer": null,
+    "base_release_date": 20210222,
+    "first_update_release_date": 20210221,
+    "latest_update_release_date": 20210226,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210226
+    },
+    "versions": {
+        "65536": 20210221,
+        "131072": 20210226
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Dry Drowning is a psychological investigative Visual Novel set in a futuristic dystopian city. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

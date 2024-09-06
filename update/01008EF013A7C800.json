@@ -1,4 +1,35 @@
 {
     "id": "01008EF013A7C800",
-    "version": 262144
+    "base_tid": "01008EF013A7C000",
+    "name": "Gnosia",
+    "description": "The crew of a drifting spaceship, facing off against a mysterious and deadly threat known as the “Gnosia” and having no idea who among them is really the enemy, formulate a desperate plan for survival. The most suspicious among them will be put into “cold sleep” one by one, in an effort to rid the ship of Gnosia.\n\nGnosia is a Sci-Fi Social Deduction RPG in which you will engage in discussion with a variety of unique characters, with the aim of identifying the Gnosia among the group. Players will have to use what information they can gather during the discussions to ascertain whom they think is Gnosia and then vote to put them into cold sleep. As you progress, your abilities will improve - but so will those of the crew. \nAs the numbers of crew members, Gnosia, and various “roles” increase, it will become increasingly difficult to determine who is telling the truth. Work in collaboration with or against other crew members to ensure your survival until the end.\n\n・Repeatedly play through “loops”, triggering special events to unravel mysteries in a uniquely original narrative. Certain events will unlock new commands for you to use during discussions.\n\n・Step into a variety of roles to develop different character builds. Your stats will determine how effectively you can sway the group’s opinion or lie, and will also affect your likelihood of being selected for cold sleep.  \n\n・Engage with an engrossing and eclectic cast of characters and experience randomly triggered events, each one unique to its subject. Character events will reveal information about your crewmates in the form of special “Notes”.",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20210304,
+    "first_update_release_date": 20210303,
+    "latest_update_release_date": 20210726,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210726
+    },
+    "versions": {
+        "65536": 20210303,
+        "131072": 20210315,
+        "196608": 20210329,
+        "262144": 20210726
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "The Gnosia lie. Pretending to be human, they’ll get in close, trick and deceive, and then eliminate one victim at a time...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

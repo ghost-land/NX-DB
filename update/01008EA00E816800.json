@@ -1,4 +1,44 @@
 {
     "id": "01008EA00E816800",
-    "version": 131072
+    "base_tid": "01008EA00E816000",
+    "name": "OVERPASS™",
+    "description": "In OVERPASS™, the scree slopes, steep inclines, tree trunks and bogs present as much of an obstacle to victory as other drivers.\n\nAt the controls of powerful buggies and quads from major manufacturers, such as Yamaha, Polaris, Arctic Cat and Suzuki, venture off into extreme off-road environments and challenge yourself on the game's highly technical tracks. Cope with vehicle damage, and negotiate the many natural and artificial obstacles in your way to achieve the best time possible.\n\nPure speed is not the name of the game; you'll need to master the realistic terrain physics and unique characteristics of the game's vehicles. Carefully select your UTV or ATV, plot your route intelligently, and manage your acceleration and the various differential and drivetrain options to dominate in local and online competitions.\n",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20200220,
+    "latest_update_release_date": 20200529,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200529
+    },
+    "versions": {
+        "65536": 20200220,
+        "131072": 20200529
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Multiplayer"
+    ],
+    "intro": "Take control of big-name buggies and quads to negotiate scree slopes, steep inclines and various obstacles on extreme off-road and technically challenging tracks. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "01008E40192CE800",
-    "version": 65536
+    "base_tid": "01008E40192CE000",
+    "name": "Kingdom of Aurelia - Mystery of the Poisoned Dagger",
+    "description": "Why was Princess Aurora poisoned? Will she recover? What secrets does this curious amulet hide? \n\nStep inside the magical world of Aurelia, solve head-scratching puzzles and find answers!\n\nYou will meet many mysterious people on your astonishing journey. But beware, for you cannot trust them all...\n\nExplore a fascinating steampunk world brought to life with beautiful music and hand-drawn graphics and unravel the web of secrets surrounding the royal family.\n\n- more than 50 hand-drawn scenes\n- a modern blend between a point-and-click adventure and a picture puzzle\n- a complex story in a thrilling steampunk setting",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230412,
+    "latest_update_release_date": 20230412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230412
+    },
+    "versions": {
+        "65536": 20230412
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Experience an incredible steampunk adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "01008EF018266800",
-    "version": 65536
+    "base_tid": "01008EF018266000",
+    "name": "HEROish",
+    "description": "In HEROish, Players can enjoy single-player adventures with three campaigns filled with campy storytelling, sweeping musical scores, and hand-crafted environments. Or they can dive into fast-paced battles with friends and family in competitive 1v1 or 2v2 matches. Players can build custom decks and upgrade cards to create monstrous combinations of troops and spells as they aim to defeat their opponents, destroy the Soul Gem that gives them power, and move to the top of the leaderboards.",
+    "publisher": "Sunblink",
+    "developer": null,
+    "base_release_date": 20230102,
+    "first_update_release_date": 20230323,
+    "latest_update_release_date": 20230323,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230323
+    },
+    "versions": {
+        "65536": 20230323
+    },
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "intro": "Play as one of six epic heroes, summon troops, sling spells, and destroy enemy towers to achieve victory in this exciting head-to-head castle defense game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

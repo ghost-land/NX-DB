@@ -1,4 +1,40 @@
 {
     "id": "01008E500EDE0800",
-    "version": 196608
+    "base_tid": "01008E500EDE0000",
+    "name": "8-Bit Farm",
+    "description": "This humble little farm desperately needs a new manager, such as you! Start out by getting some livestock, grow flowers, fruit and vegetables, gradually expanding your fields and increasing the number of staff until you're ready to open for agritourism.\n\nAs your farm's Appeal grows, you will be able to enter a variety of contests. The key to winning is raising the levels of your produce and skillful placement of farm facilities so that they work together as combos. A prize-winning farm is certain to attract even more visitors!\n\nReceive photos as gifts from happy visitors or for completing achievements, and exchange them at the FarmMart to obtain a wide range of installations for your farm. Photos can also be traded at the Odds&Ends Shop for handy items such as gadgets which influence the weather.\n\nMore fun awaits at festivals, where you can try your skill in minigames like Tug of War, Outdoor Sports or puzzles. Apart from getting monetary prizes for winning these, you can also get cool hats for your staff.\n\nThe end of each year is a thrilling time, as that's when the National Farm Ranking is announced! Challenge yourself and see if you can top all rankings for sales, number of visitors, visitors satisfaction and number of staff!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20201105,
+    "first_update_release_date": 20201129,
+    "latest_update_release_date": 20230308,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230308
+    },
+    "versions": {
+        "65536": 20201129,
+        "131072": 20210715,
+        "196608": 20230308
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Study"
+    ],
+    "intro": "Farm management simulation game!\nCreate the most awesome farm!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

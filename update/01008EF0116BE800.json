@@ -1,4 +1,36 @@
 {
     "id": "01008EF0116BE800",
-    "version": 196608
+    "base_tid": "01008EF0116BE000",
+    "name": "Hidden Through Time(ヒドゥンスルータイム)",
+    "description": "「Hidden Through Time」は、たくさんのオブジェクトが配置されたマップから、指定のモノを「発見」する「アイテム探しゲーム」です。\n\n石器時代に行方不明になった恐竜の卵から、中世の王の王冠まで、アナタは全てを発見することができるでしょうか？ \nうまく見つからないときは、各オブジェクトに用意されたヒントも参考にしてみてください。\n\nまた、「マップエディター/オンライン」では、マップを自分で作成して世界中のプレイヤーに遊んでもらったり、逆に、世界中のプレイヤーが自作したマップをダウンロードしてプレイすることが可能。\n色んなマップを作って世界中のみんなに解いてもらいましょう。",
+    "publisher": "フライハイワークス",
+    "developer": null,
+    "base_release_date": 20201112,
+    "first_update_release_date": 20201111,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20201111,
+        "131072": 20210602,
+        "196608": 20220805
+    },
+    "category": [
+        "パズル",
+        "パーティー"
+    ],
+    "intro": "いろんなモノを「発見」しよう！\n時代を超えて「アイテム探し」！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

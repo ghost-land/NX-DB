@@ -1,4 +1,34 @@
 {
     "id": "01008EA0080F6800",
-    "version": 327680
+    "base_tid": "01008EA0080F6000",
+    "name": "プロ野球 ファミスタ エボリューション",
+    "description": "野球ゲームの決定版がNintendo Switchに登場！\n前作を大きく超える収録選手1,000人以上！NPBプロ野球選手はもちろん、独立リーグ選抜や女子ソフトボールリーグ選抜、東京六大学チームも実名で初収録！夢のチームを創り上げよう！\nゲームモードも進化！シリーズ人気のドリームペナントや白熱のオンライン対戦、オリジナル選手育成の「ファミスタファンタジー」や「ボードdeファミスタ」も収録！\n新アクション要素も追加！Joy-Conを振って、打って！投げる！ファミスタ32年目の進化をとくと見よ！",
+    "publisher": "バンダイナムコエンターテインメント",
+    "developer": null,
+    "base_release_date": 20180802,
+    "first_update_release_date": 20180801,
+    "latest_update_release_date": 20181211,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20181211
+    },
+    "versions": {
+        "65536": 20180801,
+        "131072": 20180918,
+        "196608": 20181009,
+        "262144": 20181106,
+        "327680": 20181211
+    },
+    "category": [
+        "スポーツ",
+        "アクション"
+    ],
+    "intro": "ファミスタがNintedo Switch版で進化！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

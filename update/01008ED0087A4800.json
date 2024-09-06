@@ -1,4 +1,35 @@
 {
     "id": "01008ED0087A4800",
-    "version": 65536
+    "base_tid": "01008ED0087A4000",
+    "name": "The Adventure Pals",
+    "description": "Inspired by classic platformers and cartoons alike, The Adventure Pals sets you and your best friends (a giraffe and a rock) out to save the world and your dad from turning into hotdogs! Level up to learn special abilities, throw bombs and whack things with your sword. Find cupcakes to unlock costumes and fill your scrap book up with secret stickers across five big, creative areas each with unique levels. Explore the mystical forests of Treevale, hike the haunted craters of the moon and dive into the depths of the ocean to find the lost city of Crablantis. \n\nIt's a mixture of lovingly handcrafted action-platforming levels, and RPG-like locations with townsfolk who provide quests, items and other goodies for you to buy to aid you on your journey. Just like your favorite peanut butter and jelly sandwich, The Adventure pals is both nutty and sweet,with perhaps just a little crunch. It's lighthearted, goofy fun no matter what your age.\n\nOh, and three words: Giraffe. Helicopter. Tongue.",
+    "publisher": "Armor Games Studios",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20210819,
+    "latest_update_release_date": 20210819,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210819
+    },
+    "versions": {
+        "65536": 20210819
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "A story of love, giraffes, and hot dogs.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence"
+    ],
+    "region": null
 }

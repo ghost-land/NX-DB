@@ -1,4 +1,37 @@
 {
     "id": "01008EA00C27E800",
-    "version": 131072
+    "base_tid": "01008EA00C27E000",
+    "name": "DYING: Reborn - Nintendo Switch™ Edition",
+    "description": "《DYING: Reborn - Nintendo Switch™ Edition》is a highly unique first-person problem-solving puzzle game. In this special edition, we will be introducing you to a whole new story; every shred of paper, every nook and cranny, are scattered with fragments of the past. Don't miss out on a single detail and piece together a complete storyboard. Explore every corner of a storied hotel of blood and violence, solve layers of puzzles, and inch your way towards the chilling truth.",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20190118,
+    "first_update_release_date": 20190103,
+    "latest_update_release_date": 20190221,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190221
+    },
+    "versions": {
+        "65536": 20190103,
+        "131072": 20190221
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "The Ultimate 3D Room-Escape Experience.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes"
+    ],
+    "region": null
 }
