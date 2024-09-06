@@ -1,4 +1,39 @@
 {
     "id": "0100953009DF8800",
-    "version": 196608
+    "base_tid": "0100953009DF8000",
+    "name": "Let's Sing 2019",
+    "description": "It’s your time to shine! Whether you're training your voice solo or celebrating a karaoke party with friends and family – it will be a success with Let’s Sing 2019’s new game modes and features. The latest version of the Let's Sing series features cutting-edge artists like:\n\nRita Ora - 'Anywhere'\nShawn Mendes - 'There's Nothing Holdin' Me Back'\nDNCE - 'Cake By The Ocean' \nMartin Garrix & Dua Lipa - 'Scared To Be Lonely'\nLorde - 'Green Light'\nABBA - 'Mamma Mia'\nNo Doubt - 'Don't Speak'  \n...and many more.\n\n- 30 international songs\n- Sing solo or with up to four players\n- Game modes: 'Classic', 'Mixtape 2.0', 'feat.' and more\n- Microphone-App: use your phone as microphone \n- More song packages available online",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20181026,
+    "first_update_release_date": 20181024,
+    "latest_update_release_date": 20181129,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181129
+    },
+    "versions": {
+        "65536": 20181024,
+        "131072": 20181108,
+        "196608": 20181129
+    },
+    "category": [
+        "Music",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild coarse language and sexualised imagery"
+    ],
+    "region": null
 }

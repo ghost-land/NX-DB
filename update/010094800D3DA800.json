@@ -1,4 +1,34 @@
 {
     "id": "010094800D3DA800",
-    "version": 65536
+    "base_tid": "010094800D3DA000",
+    "name": "Reptilian Rebellion",
+    "description": "The Reptilian Rebellion has just started. \nWait, don’t you know what reptilians are? There are thousands of these green lizard-men living amongst us, but now they have become too dangerous and want to take control of the planet.\nDon’t let reptilians rule the world and send them to hell.\n\nReptilian Rebellion is a casual and challenging game, kill as many reptilians as you can, keeping an eye on your ammunition, and looking for powerups and friends.\nBe careful with the vehicles, find the leader of the Illuminati, unlock different characters and collect bitcoins to enter the leaderboards.\n\nStop the New World Order!",
+    "publisher": "FrontView Studio",
+    "developer": null,
+    "base_release_date": 20190322,
+    "first_update_release_date": 20210505,
+    "latest_update_release_date": 20210505,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210505
+    },
+    "versions": {
+        "65536": 20210505
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Party"
+    ],
+    "intro": "Stop the New World Order in this challenging game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

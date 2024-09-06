@@ -1,4 +1,43 @@
 {
     "id": "0100946018B80800",
-    "version": 131072
+    "base_tid": "0100946018B80000",
+    "name": "Counter Recon 2: The New War",
+    "description": "「Counter Recon 2: The New War」 is a solo single player/first person shooter game. \nEnjoy a thrilling FPS game with a diverse play mode and various weapons that can be unlocked by leveling up.\n\n・【EPISODE】complete the missions, according to the story.\n・【WAVE】mode requires you to defeat terrorists who constantly rush and hold out for as long as possible.\n・【ZOMBIE】fight for your survival from zombies in the contaminated areas.\n・ Accumulate XP and level up by clearing the mission stages\n・ Unlock the new weapons by leveling up\n・ Enjoy realistic battle environments with 3D graphics\n・ Collect and enjoy various weapons in the game\n・ Upgrade characters and weapons to enhance combat skills\n\nBecome a member of the Counter Recon 2 Special Force, wipe out terrorist organizations and complete all the missions to see the true ending.",
+    "publisher": "TROOOZE",
+    "developer": null,
+    "base_release_date": 20220728,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240221,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240221
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20240221
+    },
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "The sequel to a single-player FPS game that fights against terrorists around the world! Overwhelming number of stages and Weapons that excite military fans!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

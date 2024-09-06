@@ -1,4 +1,32 @@
 {
     "id": "0100946012446800",
-    "version": 131072
+    "base_tid": "0100946012446000",
+    "name": "Paint",
+    "description": "Take your Nintendo Switch™ and unleash the artist in you!\n\nNow with Paint you can draw, paint and colour-in anytime, anywhere.\n\nWith so many different drawing tools available there is no limit to creating your masterpiece. Use the touch screen or the the Joy-Con™ for maximum accuracy\n\nPaint will transform your Nintendo Switch™ into a real \"drawing board\" complete with all the accessories you need.\n\nAs a bonus we have also included some colouring-in pictures.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200618,
+    "first_update_release_date": 20210731,
+    "latest_update_release_date": 20210731,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210731
+    },
+    "versions": {
+        "131072": 20210731
+    },
+    "category": [
+        "Puzzle",
+        "Education"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,30 @@
 {
     "id": "0100950012F66800",
-    "version": 65536
+    "base_tid": "0100950012F66000",
+    "name": "テニス ワールドツアー 2",
+    "description": "世界で70万本の累計販売本数を記録した『テニス ワールドツアー』がパワーアップして帰ってきた! 錦織圭選手を始め、ロジャー・フェデラー、ラファェル・ナダル、アシュリー・バーティ等合計38人の実名選手を収録。\n\n自分の選手を作って世界トッププレイヤーを目指すキャリアモードや、最大4人で楽しめるダブル・モード等、全てにおいてパワーアップした作品となっている!",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20201217,
+    "first_update_release_date": 20210725,
+    "latest_update_release_date": 20210725,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210725
+    },
+    "versions": {
+        "65536": 20210725
+    },
+    "category": [
+        "スポーツ"
+    ],
+    "intro": "錦織圭選手がシリーズ初参戦！世界トップクラスのプレイヤー達と対戦しよう！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

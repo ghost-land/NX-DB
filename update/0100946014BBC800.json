@@ -1,4 +1,35 @@
 {
     "id": "0100946014BBC800",
-    "version": 65536
+    "base_tid": "0100946014BBC000",
+    "name": "Cross the Moon",
+    "description": "Something once great lies dormant beneath the cold streets of Armorica's isolated capital, L'Amour.\n\nWhen it sleeps it dreams, and when it dreams it hunts. Fates converge as a young man's mysterious death brings sibling vampires Aurore and Lux Amanite into a world of occult obsession and corporate corruption.\n\nMeanwhile, police inspector Ryouko Otsuki arrives in L'Amour to find a city whose identity is just as severed and broken as her own… \n\nFeatures\n- A linear visual novel told through the eyes of three protagonists\n- Around 100,000 words of text (roughly 6-10 hours long)\n- A large cast of 24 illustrated characters\n- 1000+ photographs make the story come to life\n- Hours of original soundtrack",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20210618,
+    "first_update_release_date": 20210618,
+    "latest_update_release_date": 20210618,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210618
+    },
+    "versions": {
+        "65536": 20210618
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "When you look up, the moon looks back.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Horror Themes",
+        "Sex Scenes",
+        "Violence"
+    ],
+    "region": null
 }

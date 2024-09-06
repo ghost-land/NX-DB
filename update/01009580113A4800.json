@@ -1,4 +1,32 @@
 {
     "id": "01009580113A4800",
-    "version": 65536
+    "base_tid": "01009580113A4000",
+    "name": "Satazius NEXT",
+    "description": "Discover SATAZIUS NEXT the new classic shoot them up for your console.\nCompletely redesigned and animated for more gaming pleasure, Satazius Next takes you in a galaxy far away.\nLost on planet Agano, resist the attacks of space pirates and save the universe from destruction.\nAim to kill to defeat your enemies.",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20200514,
+    "first_update_release_date": 20201015,
+    "latest_update_release_date": 20201015,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201015
+    },
+    "versions": {
+        "65536": 20201015
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

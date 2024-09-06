@@ -1,4 +1,42 @@
 {
     "id": "0100954014718800",
-    "version": 327680
+    "base_tid": "0100954014718000",
+    "name": "Ice Station Z",
+    "description": "Based on the #1 Best Selling Nintendo 3DS™ game in Japan.\n\nAfter a strange virus spreads across an Arctic Island you are left alone to survive.\n\nScavenge for food, drink, medical supplies, weapons, ammunition, clothes, fuel and other useful equipment.\n\nFind shelters, vehicles and other interesting locations to help you survive during day and night.\n\nFeatures Single Player, Local Play and Internet Multiplayer (Worldwide with anyone plus Game Chat).\n\nGo scavenging, fishing and hunting with friends or alone, it's up to you how you survive.",
+    "publisher": "Wobbly Tooth",
+    "developer": null,
+    "base_release_date": 20211118,
+    "first_update_release_date": 20211122,
+    "latest_update_release_date": 20220204,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220204
+    },
+    "versions": {
+        "131072": 20211122,
+        "196608": 20211208,
+        "262144": 20211215,
+        "327680": 20220204
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "MULTIPLAYER OPEN WORLD ZOMBIE SURVIVAL.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

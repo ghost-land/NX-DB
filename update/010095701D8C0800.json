@@ -1,4 +1,35 @@
 {
     "id": "010095701D8C0800",
-    "version": 131072
+    "base_tid": "010095701D8C0000",
+    "name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
+    "description": "Join Scott Whiskers on his quest to find Mr. Fumbleclaw – the future star of the legendary cat beauty contest “Ricky’s Finest”.\n\n“Scott Whiskers in: the Search for Mr. Fumbleclaw” is a modern, funny and family-friendly point & click adventure game about cats, Star Trek and life itself. Created in the spirit of the classics of the genre. \n\nFeatures\n\n- a gripping story about animals, people, and life itself, told with a big wink\n- beautifully hand-drawn, high-resolution backgrounds in combination with three-dimensional characters give the game its very own visual charm\n- a captivating soundtrack you won’t be able to get out of your head for a long time\n- an automatic journal of your journey and tasks\n- hotspot display that can be activated at any time\n- free and automatic saving\n- duration: approx. 12 hours",
+    "publisher": "Fancy Factory",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240322,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20240322,
+        "131072": 20240404
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A modern, funny and family-friendly point & click adventure game about cats, Star Trek and life itself. Created in the spirit of the classics of the genre.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "010094C00E180800",
-    "version": 262144
+    "base_tid": "010094C00E180000",
+    "name": "Ghost Parade",
+    "description": "There’s something spooky in the woods... And it needs your help!\n\nYour walk home takes an other-worldly turn as you become lost in a dark, mysterious forest. Join a mystical battle to protect the supernatural inhabitants from those who are trying to level their home for profit. Team up with 30 ghostly companions – each one lending its unique magical ability to help you on your way. Explore beautifully realized environments in this spine-tingling scrolling action adventure brimming with surprises and original character designs. Working together, everyone has a ghost of a chance to safely make it home.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191031,
+    "latest_update_release_date": 20200123,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200123
+    },
+    "versions": {
+        "65536": 20191031,
+        "131072": 20191112,
+        "196608": 20191203,
+        "262144": 20200123
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Suggestive Themes",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

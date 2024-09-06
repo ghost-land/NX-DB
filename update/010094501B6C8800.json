@@ -1,4 +1,45 @@
 {
     "id": "010094501B6C8800",
-    "version": 131072
+    "base_tid": "010094501B6C8000",
+    "name": "A Castle Full of Cats",
+    "description": "A Castle Full of Cats is a hidden object game with a bit of a metroidvania structure: it features alternate paths, keys to be found, mysterious NPC’s… and more!\n\nFofiño hasn’t been himself, since he found himself cursed by an evil force… He had transformed every cat in the castle into a dark (yet cute) creature!\n\nNow only Lily the calico cat can save her soulmate, and release the castle from the evil spell!\n\nFeatures:\n500+ cats to find\n100+ cats… that are even harder to find!\n20+ unique rooms to search\n…Secrets!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20230817,
+    "first_update_release_date": 20230803,
+    "latest_update_release_date": 20230804,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230804
+    },
+    "versions": {
+        "65536": 20230803,
+        "131072": 20230804
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "An atmospheric hidden object game with cat drama, cat betrayal… and cat love.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,57 @@
 {
     "id": "010095500D9F4800",
-    "version": 983040
+    "base_tid": "010095500D9F4000",
+    "name": "Quest Hunter",
+    "description": "Quest Hunter is an isometric action-RPG where your choice drives the story. Find tons of treasures and secrets, solve puzzles, equip your character, level up your skills and finish off enemy bosses. Play on the couch, alone or with friends, or make it an online party for up to four players!\n\nBasic Features\n\n+ Story-driven RPG: influence the storyline, choosing the answers in the dialogues. Untangle the insidious plans of your enemies and bring them out into the open. Save the world from the eternal darkness!\n\n+ Cooperative mode: play the game online with your friends, or on couch on one screen (Up to 4 players). Fight against evil shoulder to shoulder or make a mass grave in the enemy’s lair!\n\n+ Random generated dungeons: try your luck, see if you can find the way out of the dungeon. Where could it be this time? Who’s waiting for you around the corner?\n\n+ Quests and puzzles: move, turn, light, switch over, dig up… In short, solve a variety of quests and puzzles. Search for treasure maps to become the richest man in the camp!\n\n+ Skills and super powers: upgrade the character attributes and explore new skills. Become an invincible killing machine and turn your enemies into dust!\n\n+ Weapons, armor and items: find, create and upgrade your weapon and armor. Cook potions or make bombs. Take a shovel and a straw hat or a sharp blade and a helmet – it’s up to you to decide!\n\n+ Monsters and bosses: mysterious beasts from the darkness – light the torch and they will scatter away. Insidious bandits – give them your money and you’ll stay alive. Cunning bosses – find your approach to them!\n\n+ Treasure and trophies: stuff your pockets with trophies of your defeated enemies. Find all stashes and hiding places. Dig up all the treasures of the Dark World!\n\nAnd remember: you are safe only by the light of the torch!",
+    "publisher": "2 Zombie Games",
+    "developer": null,
+    "base_release_date": 20221019,
+    "first_update_release_date": 20190815,
+    "latest_update_release_date": 20230209,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20230209
+    },
+    "versions": {
+        "65536": 20190815,
+        "131072": 20190913,
+        "196608": 20191005,
+        "262144": 20191028,
+        "327680": 20200129,
+        "393216": 20200306,
+        "458752": 20200317,
+        "524288": 20200618,
+        "589824": 20210107,
+        "655360": 20210512,
+        "720896": 20210715,
+        "786432": 20210726,
+        "917504": 20221225,
+        "983040": 20230209
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Party"
+    ],
+    "intro": "Action-RPG where your choice drives the story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

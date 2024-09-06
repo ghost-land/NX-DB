@@ -1,4 +1,42 @@
 {
     "id": "010094600DC86800",
-    "version": 262144
+    "base_tid": "010094600DC86000",
+    "name": "Tower Of Time",
+    "description": "Lead the ultimate party of heroes into the Tower of Time, a vertical battleground filled with lore, mystery, and combat. Combining the nuances of classic RPGs with challenging tactical combat, Tower of Time transforms each battle into a puzzle of magic and mettle. Slow or pause time to plan your every move: strategically place your warriors, control the battleground with precise spells, counter incoming waves with devastating maneuvers.\n \nKey Features:\n\n•    7 distinct classes, a complex skill system, rich equipment and alignment systems, crafting, enchanting and more\n\n•    Divide the battlefield with walls of stone, manipulate gravity, unleash torrents of flame, and more with myriad spells\n\n•    150 different enemies and 50 bosses, each with unique skills and tactics\n\n•    Hand-crafted levels, unique Combat Challenges, multiple modifiers and five difficulty levels\n\n•    Gamepad friendly control scheme implemen\nted for console players",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20200625,
+    "first_update_release_date": 20200621,
+    "latest_update_release_date": 20201013,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201013
+    },
+    "versions": {
+        "65536": 20200621,
+        "131072": 20200821,
+        "196608": 20200917,
+        "262144": 20201013
+    },
+    "category": [
+        "Strategy",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Prepare for a new kind of RPG\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }
