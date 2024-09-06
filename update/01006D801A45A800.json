@@ -1,4 +1,40 @@
 {
     "id": "01006D801A45A800",
-    "version": 131072
+    "base_tid": "01006D801A45A000",
+    "name": "Bumballon",
+    "description": "Join Bumballon on this cute but frantic adventure spanning across an incredible world full of dangers!\n\nExplore 7 unique worlds overflowing with beautifully animated graphics and retro game nostalgia. Overcome various perils to save Bumballon's magical kingdom and rescue the beautiful Princess Moon.\n\nEach mistake becomes a lesson to overcome future obstacles in Bumballon’s tough but fun and rewarding journey.\n\n\nFeatures:\n* Beautiful animated graphics.\n* Explore 7 worlds.\n* 35 different levels.\n* 5 unlockable skins.\n* Variety of action mechanics.",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20230407,
+    "first_update_release_date": 20230324,
+    "latest_update_release_date": 20230327,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230327
+    },
+    "versions": {
+        "65536": 20230324,
+        "131072": 20230327
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Lift of for a vibrant action adventure full of variety and challenge",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

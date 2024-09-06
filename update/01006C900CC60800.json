@@ -1,4 +1,37 @@
 {
     "id": "01006C900CC60800",
-    "version": 327680
+    "base_tid": "01006C900CC60000",
+    "name": "超級機器人大戰Ｔ",
+    "description": "人類前進外宇宙受挫，在衰退與妥協支配的世界中被捲入新的戰爭。\n\n賭上人類和地球存在意義的戰鬥，結果會是……。",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20190320,
+    "first_update_release_date": 20190318,
+    "latest_update_release_date": 20190625,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190625
+    },
+    "versions": {
+        "65536": 20190318,
+        "131072": 20190319,
+        "196608": 20190423,
+        "262144": 20190522,
+        "327680": 20190625
+    },
+    "category": [
+        "模擬",
+        "角色扮演",
+        "冒險"
+    ],
+    "intro": "必須賭上性命守護的故鄉——那就是地球（TERRA）",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

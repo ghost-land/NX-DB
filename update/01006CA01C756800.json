@@ -1,4 +1,36 @@
 {
     "id": "01006CA01C756800",
-    "version": 196608
+    "base_tid": "01006CA01C756000",
+    "name": "RPG Alchemy",
+    "description": "What happens if an adventurer enters the dungeon? And if two adventurers meet? What monsters live in the sewers?...\n\nRPG Alchemy is a variation on the Alchemy genre, but instead of trying to connect water to sand and fire to air you will start with a basic adventurer and just as a basic mob... then the two meet and the fun begins. Discover nearly 200 unique team members, enemies, and locations. Try and see if you can defeat all the monsters. ",
+    "publisher": "Error300 Games",
+    "developer": null,
+    "base_release_date": 20230908,
+    "first_update_release_date": 20240217,
+    "latest_update_release_date": 20240626,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240626
+    },
+    "versions": {
+        "65536": 20240217,
+        "131072": 20240524,
+        "196608": 20240626
+    },
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Education",
+        "Other"
+    ],
+    "intro": "RPG Alchemy is a variation of the Alchemy genre in the RPG theme, so connecting two objects to uncover a third one until everything is discovered. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

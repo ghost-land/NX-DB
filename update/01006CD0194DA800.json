@@ -1,4 +1,34 @@
 {
     "id": "01006CD0194DA800",
-    "version": 65536
+    "base_tid": "01006CD0194DA000",
+    "name": "Mythargia",
+    "description": "Mythargia is a 2D side scrolling retro adventure with emphasis on discovering the island’s story.\n\n**Explore the island:**\nAs you search for information you will come face to face with the unnatural present on the island. Find tools and items to help you on your journey further inland. \n\n**Unravel the secrets:**\nLeave no stone unturned as you travel deeper into the island. Solve puzzles to find all the clues you can find to get a full picture of what has happened on the island.\n\n**Discover the nightmare:**\nEnter the other dimension and assist the islanders to earn their trust in order to learn more about them and their backgrounds.\n\n**Gather information:**\nWrite journal entries and take photos of your journey to understand what has gone down on the island of Mythargia and compile a story of the century.",
+    "publisher": "Bonus Stage Publishing",
+    "developer": null,
+    "base_release_date": 20230531,
+    "first_update_release_date": 20240125,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20240125
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "You are a journalist in search of a breakthrough story. A promising lead takes you to abandoned Mythargia where you have to discover its buried history connecting two dimensions.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Violence"
+    ],
+    "region": null
 }

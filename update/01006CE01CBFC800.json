@@ -1,4 +1,36 @@
 {
     "id": "01006CE01CBFC800",
-    "version": 131072
+    "base_tid": "01006CE01CBFC000",
+    "name": "The GhostX : Sniper Simulator (Tactical Shooting & Eliminator)",
+    "description": "     If you crave a pulse-pounding and exhilarating experience, you've found your ultimate destination. In “GhostX”, you step into the shoes of an elite sniper, entrusted with the critical mission of eliminating targets.\n     Key Advantages:\n   ▪ Diverse Environments: Engage in thrilling missions across urban streets and tranquil forests, each demanding distinct tactics.\n   ▪ Challenging Missions: Take your sniping skills to the next level by mastering the art of shooting from a helicopter, eliminating targets on a moving train, and more. \n   ▪ Customise Your Arsenal: Personalise your weapons with various scopes, including night and thermal vision, for superior long-range precision.\n   ▪ Weapon Mastery: Fine-tune barrels, mufflers, and magazines, and choose eye-catching skins. Unlock upgrades for enhanced power and control.\n   ▪ Immersive Experience: Enjoy stunning visuals and lifelike audio for an immersive adventure. \n     Dive into the ultimate sniper simulator and prove your prowess. “GhostX” awaits – are you up to the challenge?",
+    "publisher": "GameToTop Corp.",
+    "developer": null,
+    "base_release_date": 20231021,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20240522,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240522
+    },
+    "versions": {
+        "65536": 20231010,
+        "131072": 20240522
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "First-Person Shooter",
+        "Shooter"
+    ],
+    "intro": "In the Shadows We Thrive - GhostX Sniper Elite!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

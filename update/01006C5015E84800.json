@@ -1,4 +1,55 @@
 {
     "id": "01006C5015E84800",
-    "version": 786432
+    "base_tid": "01006C5015E84000",
+    "name": "Disco Elysium - The Final Cut",
+    "description": "Disco Elysium - The Final Cut is the definitive edition of the groundbreaking role playing game. You’re a detective with a unique skill system at your disposal and a whole city block to carve your path across. Interrogate unforgettable characters, crack murders, or take bribes. Become a hero or an absolute disaster of a human being.",
+    "publisher": "ZA/UM",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20211012,
+        "131072": 20211118,
+        "196608": 20211215,
+        "262144": 20220207,
+        "327680": 20220310,
+        "393216": 20220718,
+        "458752": 20221025,
+        "589824": 20230327,
+        "655360": 20240728,
+        "786432": 20240822
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Lifestyle",
+        "Party"
+    ],
+    "intro": "A groundbreaking role playing game. Become a hero or an absolute disaster.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

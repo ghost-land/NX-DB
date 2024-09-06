@@ -1,4 +1,39 @@
 {
     "id": "01006DA00707C800",
-    "version": 131072
+    "base_tid": "01006DA00707C000",
+    "name": "3D MiniGolf",
+    "description": "Experience virtual but realistic mini-golf and master an entertaining match on over 54 challenging holes, 18 of which faithfully modelled after official courses in the real world. \n\nThree scenarios in glorious HD are waiting for the discerning mini-golf enthusiast: a lovely green park, a camping site in the mountains and a dreamy sandy beach. \n\nUse your profile to keep track of your statistics. Thanks to the integrated medal system you collect virtual rewards for your best matches. Try improving your own records in Challenge and Tournament mode or face off against your friends in multiplayer mode. \n\nEnjoy exciting most realistic matches with 1-4 players.\n\n• 3 completely different scenarios (Park, Camping Site, Beach)\n• 54 challenging holes in total\n• 18 official tournament holes\n• Cutting edge HD graphics\n• Two exciting single player modes: Challenge and Tournament\n• Local Multiplayer mode for 2-4 players",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20180202,
+    "first_update_release_date": 20180118,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20180118,
+        "131072": 20240710
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Minigolf for 1 to 4 Players!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

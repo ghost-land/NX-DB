@@ -1,4 +1,35 @@
 {
     "id": "01006D801F5BC800",
-    "version": 131072
+    "base_tid": "01006D801F5BC000",
+    "name": "Cat Warrior",
+    "description": "Cat Warroir is an action-platformer of retro and cute style about a cat knight on his way to recapture his stolen treasure.\nDeep into the exciting and dangerous fantasy world,defeat the challenging big boss with your slash, dash, jump, walljump and other skills to find the treasure back!\n\nFeature\nAddictive gameplay\nCompete with players from all over the world in BossRush mode\n4 unique challenge worldsand 30 handmade levels.\nBeautiful pixel-art graphics;\nA cute cat",
+    "publisher": "Sadi Makes Games",
+    "developer": null,
+    "base_release_date": 20240527,
+    "first_update_release_date": 20240707,
+    "latest_update_release_date": 20240729,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240729
+    },
+    "versions": {
+        "65536": 20240707,
+        "131072": 20240729
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "retro action platformer\nnice pixel art graphics",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

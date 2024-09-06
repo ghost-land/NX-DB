@@ -1,4 +1,34 @@
 {
     "id": "01006C501CF90800",
-    "version": 65536
+    "base_tid": "01006C501CF90000",
+    "name": "Frido",
+    "description": "Frido是一款受2000年代熱門街機遊戲啟發，為兒童和成人設計的簡單遊戲。玩家將控制一台機器人，他穿越時空陷入了過去，你必須盡一切努力幫助他返回家園。隨著遊戲的 進行，你需要收集零件並解決簡單的謎題。\n\n• 迷人的主角！\n• 遊戲簡單易懂！\n• 喚起懷舊情感！ \n",
+    "publisher": "Big Way",
+    "developer": null,
+    "base_release_date": 20240111,
+    "first_update_release_date": 20240110,
+    "latest_update_release_date": 20240110,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240110
+    },
+    "versions": {
+        "65536": 20240110
+    },
+    "category": [
+        "街機"
+    ],
+    "intro": "機器人時光旅行者穿越到了過去，為了回到現在，他必須透過10個令人興奮的關卡抵達時光機。\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

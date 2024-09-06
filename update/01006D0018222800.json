@@ -1,4 +1,31 @@
 {
     "id": "01006D0018222800",
-    "version": 65536
+    "base_tid": "01006D0018222000",
+    "name": "Unimime - Unicycle Madness",
+    "description": "Unimime is a fun, not-so-easy to master, physics-based balance game.\n\nStart your adventure as a simple mime, barely able to stay upright. Master the art of unicycling and venture across breakneck flat surfaces, minimal inclines, and pocketbook-sized crates!\n\nDo I hear seesaws, jumps and catapults? You'll have that down in no time. Well, maybe a tad later. Or maybe shortly after. Oh dear, please don't hate us.\n\nLook forward to 90 hand-designed levels, unlockable characters, and a game that's hard to master, but also very hard to put down.\n\nBreak a leg!",
+    "publisher": "Roflcopter Ink",
+    "developer": null,
+    "base_release_date": 20230622,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20230621
+    },
+    "category": [
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "\"Become a mime!\", they said.\n\"Riding a unicycle is easy!\", they said.\nI don't like them.\"",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

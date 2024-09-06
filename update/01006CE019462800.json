@@ -1,4 +1,39 @@
 {
     "id": "01006CE019462800",
-    "version": 65536
+    "base_tid": "01006CE019462000",
+    "name": "Railway Islands - Puzzle",
+    "description": "A minimalist and relaxing experience with a unique look. You are the manager of a railway line responsible for delivering resources to Islanders, residents of a group of distant islands. Create a safe path and deliver all the resources to the small towns on the islands.\n\nFeatures:\n- 50 islands.\n- 4 variation of environment.\n- Satisfying and relaxing sound effects.\n- Unique puzzles.\n- A minimalist and relaxing experience.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230316
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Make a safe path between the stations and let your train deliver all the resources and go to the next island. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Users Interact"
+    ],
+    "region": null
 }

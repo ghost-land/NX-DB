@@ -1,4 +1,39 @@
 {
     "id": "01006CD01A068800",
-    "version": 65536
+    "base_tid": "01006CD01A068000",
+    "name": "Rakuen: Deluxe Edition",
+    "description": "Rakuen is an adventure game about a little Boy who lives in the hospital. One day, the Boy asks his Mom to escort him to the fantasy world from his favorite storybook, so that he can ask the Guardian of the Forest to grant him one wish. In order to receive his wish, the Boy must complete a set of challenges that revolve around helping his neighbors in the hospital by interacting with their alter-egos in the fantasy world...\n\n...A cranky old man who guards a broken music box with his life while complaining that he never gets any visitors; a young woman in a coma whose husband hasn’t left her side in months; a little girl who laments over a friend she was never able to say goodbye to after growing ill… The Boy slowly begins to realize that his neighbors are plagued by secrets and struggles that are mysteriously tied to the strange hospital.\n\nFeatures:\n-Tons of bonus content, including the newest game in the Rakuen universe (Mr. Saitou), as well as a 3D animated film collection (Farmer in the Sky)!\n\n-Heartwarming and character-rich story.\n\n- A unique non-combat adventure that mixes whimsical dungeons, eerie room escape puzzles, and dialogue-based mysteries that are intricately tied to the story.\n\n- Walk a mile in everyone's shoes as you traverse each character's life to learn about their unfinished business and help them through it.\n\n-An original soundtrack featuring multiple vocal songs that are closely tied to each character.\n\n-Collect items and build friendships to gradually make the hospital a better place.\n\n-Go on humorous quests for strange creatures in the fantasy world.",
+    "publisher": "Morizora Studios",
+    "developer": null,
+    "base_release_date": 20230323,
+    "first_update_release_date": 20230313,
+    "latest_update_release_date": 20230313,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230313
+    },
+    "versions": {
+        "65536": 20230313
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Video",
+        "Other"
+    ],
+    "intro": "An award-winning indie adventure game about a hospitalized Boy who travels with his Mom to a beautiful fantasy world. Includes an extra game and a 3D animated film collection!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }
