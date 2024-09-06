@@ -1,4 +1,47 @@
 {
     "id": "010000D016FC2800",
-    "version": 196608
+    "base_tid": "010000D016FC2000",
+    "name": "Space Warlord Organ Trading Simulator",
+    "description": "ORGANS.\nEveryone has them, and everyone wants them. You are an Organ Trader, the funnel for fleshy meat parts into a strange, evolving, and desperate universe full of clients.\n\nContend with the cutthroat organ market. Trade viscera with dubious figures. Keep vampire-leech organs from devouring the rest of the goods inside your cargo hold. Flood galaxies with meat. Make a profit.\nThis is Space Warlord Organ Trading Simulator: the sci-fi body horror market tycoon you didn't know you needed.",
+    "publisher": "Strange Scaffold",
+    "developer": null,
+    "base_release_date": 20220429,
+    "first_update_release_date": 20220725,
+    "latest_update_release_date": 20230724,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230724
+    },
+    "versions": {
+        "65536": 20220725,
+        "131072": 20220725,
+        "196608": 20230724
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Fast-paced innard-trading action!\nA simulated, organ-based market with dozens of commodities!\nRise to become the most profitable organ trader of all time!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

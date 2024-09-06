@@ -1,4 +1,34 @@
 {
     "id": "01000030146BE800",
-    "version": 65536
+    "base_tid": "01000030146BE000",
+    "name": "Animal Bomber",
+    "description": "Animal Bomber is game where your focus is to eliminate all enemies and stay alive at the end. It’s a truly engaging, fun game where tactics are very important if you want to win. The lovely game world is also full of dangers, and you need to time everything wisely to really bring in the efficiency and results that you always wanted. It leads to a great opportunity and resounding quality and value.\nDo you have what it takes to eliminate these enemies in over 85 different levels? Test your skills and start becoming the ultimate animal bomber today. The game features endless replay value, lots of stages you can play through and engaging gameplay. Just check it out today!\nFeatures:\nAction-packed and fun gameplay mechanics\n85+ levels that you can play through\nVisually impressive, 2D game world\nMultiple stages and game worlds",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210306,
+    "first_update_release_date": 20210317,
+    "latest_update_release_date": 20210317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210317
+    },
+    "versions": {
+        "65536": 20210317
+    },
+    "category": [
+        "Arcade",
+        "Strategy",
+        "Platformer",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

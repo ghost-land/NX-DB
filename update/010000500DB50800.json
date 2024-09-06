@@ -1,4 +1,40 @@
 {
     "id": "010000500DB50800",
-    "version": 393216
+    "base_tid": "010000500DB50000",
+    "name": "Super Tennis Blast",
+    "description": "Start your professional career in the World Tour mode, train your skills and become a tennis legend playing on courts around the world.\n\nHost couch parties playing tournaments in singles or doubles with classic rules or the awesome Super Blast modes.\n\n5 minigames and a powerful avatar editor complete the best tennis experience out there.",
+    "publisher": "Unfinished Pixel",
+    "developer": null,
+    "base_release_date": 20190525,
+    "first_update_release_date": 20190524,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240109
+    },
+    "versions": {
+        "65536": 20190524,
+        "131072": 20190605,
+        "196608": 20190703,
+        "262144": 20190731,
+        "327680": 20231127,
+        "393216": 20240109
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Smash that ball and have a real blast enjoying the best tennis!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

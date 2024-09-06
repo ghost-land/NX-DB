@@ -1,4 +1,41 @@
 {
     "id": "010000500B9F4800",
-    "version": 65536
+    "base_tid": "010000500B9F4000",
+    "name": "Minesweeper Genius",
+    "description": "Inspired by the classic computer game from our childhood - as well as sudoku and picross - Minesweeper Genius is a brain teaser that will challenge your mind and logical thinking.\n\nHelp Aristotle – the genius with a broom – sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden.\n\nHOW TO PLAY:\n\n• Read the numbers to calculate how many mines there are in each column and each line\n• Flag the tiles which contain a mine\n• Then move the minesweeper genius to the portal!\n\nFEATURES:\n\n• Our procedural generator can create an unlimited number of random levels\n• Mixes the mechanics of sudoku, nonogram (picross) and minesweeper\n• Absolutely no guessing or luck involved",
+    "publisher": "Blowfish Studios",
+    "developer": null,
+    "base_release_date": 20190212,
+    "first_update_release_date": 20190214,
+    "latest_update_release_date": 20190214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190214
+    },
+    "versions": {
+        "65536": 20190214
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "Train your brain! Help Aristotle sweep the minefield to regain his memory and escape from the aliens' scientific experiments, discovering where all the bombs are hidden.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

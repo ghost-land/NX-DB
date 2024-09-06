@@ -1,4 +1,35 @@
 {
     "id": "0100001017FD6800",
-    "version": 327680
+    "base_tid": "0100001017FD6000",
+    "name": "Dragon Caffi",
+    "description": "Dragon Caffi is an open-world puzzle adventure game of pure, lighthearted happiness suitable for all ages! This game is all lovingly hand-painted and traditionally animated (on paper in some cases!), and the sole purpose of this little adventure is to be a happy, fun experience for all to enjoy.\n\nMEET MARGO\nYou play as Margo, a happy-go-lucky little fox spirit adopted into a family of dragons in the final stage of her studies to become a world-class baker. Travelling around the wonderful world of Aethwy, you'll come across delightful characters just ready to share their favourite recipes with you to cook using ingredients you've foraged.\n\nCOOK UP DELICIOUS DESSERTS\nHelp Margo complete her studies by lovingly crafting the delicious desserts you come across on your travels! From tasty trifles to perfect parfaits, this game will have your mouth watering for over 100 unique dishes!\n\nHELP THE FOLKS YOU MEET ON THE WAY\nOn your journey with Margo, you'll meet folks from all walks of life! From helping them deliver letters to fixing their tractors, to lighting up puddles and chasing the dastardly Zombooshies out of the Bok-Bok pens, there's no shortage of things to do!\n\n ",
+    "publisher": "Ddraig House Game Studio",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220815,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220815
+    },
+    "versions": {
+        "65536": 20220427,
+        "131072": 20220502,
+        "196608": 20220617,
+        "262144": 20220704,
+        "327680": 20220815
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "Join Margo on her quest to discover the joy that food brings to others, and the memories gathered around sharing a treat with loved ones!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

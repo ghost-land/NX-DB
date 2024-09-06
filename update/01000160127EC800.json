@@ -1,4 +1,36 @@
 {
     "id": "01000160127EC800",
-    "version": 65536
+    "base_tid": "01000160127EC000",
+    "name": "Professor Rubik's Brain Fitness",
+    "description": "Good old Rubik’s is back in a brand new shape! With professor Rubik’s, get your brain back on track in a new brain fitness game. He is ready to test you with fast and ludic mini-games daily and see how much brain power you have!\n\nStimulate your brain!\nTrain the different areas of your brain such as your memory, concentration or your 3D visualization with colorful challenges. Play with a wide range of mini-games, with four different play modes, alone or with your friends! Also rediscover famous games in a Rubik’s version with 2048, Tetrubik and more!\n\nYour own brain coach.\nProfessor Rubik’s is there to be your dedicated coach. He will track your training, adapt your training program and be a true coach for you. With him on your side, you won’t miss a single day of training and progress faster than ever!",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20201113,
+    "first_update_release_date": 20201106,
+    "latest_update_release_date": 20201106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201106
+    },
+    "versions": {
+        "65536": 20201106
+    },
+    "category": [
+        "Lifestyle",
+        "Multiplayer"
+    ],
+    "intro": "Let Professor Rubik's Brain Fitness color your brain!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

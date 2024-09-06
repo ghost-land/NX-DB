@@ -1,4 +1,54 @@
 {
     "id": "01000130120EE800",
-    "version": 917504
+    "base_tid": "01000130120EE000",
+    "name": "Fuga: Melodies of Steel",
+    "description": "\"We have to fight! If we don't, everyone we love will be taken away!\"\n\nOn a fateful night a peaceful village is thrown into the flames of war. Determined to save their families, a group of children gets aboard a giant tank and begins an offensive charge!\n\nFuga: Melodies of Steel is a RPG where you place children on the different gun turrets in a tank, each with their own characteristics and skills, to stand up and fight against the enemy.\n\nWhile living inside the tank, the children show emotions, and affinity between each other. Manage those emotions and affinities to change the outcome of their journey!\n\n-A mysterious ancient weapon: The Taranis\nTaranis, the giant tank sheltering the children, conceals many mysteries and somehow seems to have its own will. In situations of crisis, it can release a forbidden weapon, the dreadful Soul Canon.\n\n-Your adventure. Your choices.\nWill you make sacrifices for victory? Or will you seek for other ways?\nIn this RPG, many choices have to be made in order to progress... but taking the safest road may not always be the best option.\nFaced with a desperate situation, what course of action will you choose?",
+    "publisher": "CyberConnect2",
+    "developer": null,
+    "base_release_date": 20210729,
+    "first_update_release_date": 20210820,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20210820,
+        "131072": 20210917,
+        "196608": 20211019,
+        "262144": 20211123,
+        "327680": 20220119,
+        "393216": 20220323,
+        "458752": 20220526,
+        "524288": 20220713,
+        "589824": 20220801,
+        "655360": 20230329,
+        "720896": 20230612,
+        "786432": 20230717,
+        "851968": 20231123,
+        "917504": 20240822
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "A dramatic action strategy RPG depicting hope and despair.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

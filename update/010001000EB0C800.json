@@ -1,4 +1,37 @@
 {
     "id": "010001000EB0C800",
-    "version": 65536
+    "base_tid": "010001000EB0C000",
+    "name": "Circuit Superstars",
+    "description": "A sim-meets arcade top-down racer built by racing fans, for racing fans. A celebration of generations of motorsport, focused on driving that feels great – but with a high skill ceiling, that will have you chasing your perfect line lap after lap. Feel the thrill of race craft and strategy and become a Circuit Superstar!\n\nTACTILE HANDLING MODEL\nFeel the rubber bite into the road as you pass the start/finish line and dive, brakes squealing, into the first corner!\n\nVIBRANT LOCATIONS AND CUSTOMISABLE VEHICLES\nRace on 32 tracks, across 15 vibrant locations in 14 vehicles, each with their own unique handling models. Customize your cars and driver with liveries, helmets, and victory celebrations.\n\nPIT STOP STRATEGY\nFeaturing tire degradation, fuel consumption and damage, Circuit Superstars challenges you to dynamically choose your pit stop strategy during the race.\n\nCHALLENGE YOURSELF AND FRIENDS AT HOME OR RACE RIVALS ONLINE\nConquer the leaderboards of Weekly Time Trials, compete against 5 different AI difficulties in single player mode. Create your own race events and tournaments, play vs AI or with your friends in local and online multiplayer or dive into specially curated online races of up to 12 players from around the globe!",
+    "publisher": "Original Fire Games",
+    "developer": null,
+    "base_release_date": 20230621,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": "Sim-meets arcade top-down racer built by racing fans, for racing fans.\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

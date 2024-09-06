@@ -1,4 +1,34 @@
 {
     "id": "0100016012D38800",
-    "version": 65536
+    "base_tid": "0100016012D38000",
+    "name": "BIT.TRIP CORE",
+    "description": "Dive controller-first into unfamiliar territory, blast your way through a barrage of beats in this rhythm-music adventure.\n- Retro-inspired controls!\n- Beautiful boss battles!\n- A thumpin’ chiptune-inspired soundtrack with special guest Bubblyfish!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Mind-melting challenges!\n- Thought-provoking cutscenes!\n",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20201225,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210121
+    },
+    "versions": {
+        "65536": 20210121
+    },
+    "category": [
+        "Arcade",
+        "Music",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "BIT.TRIP CORE marks the second phase of CommanderVideo’s strange and transcendental journey.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

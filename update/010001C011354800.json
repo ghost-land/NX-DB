@@ -1,4 +1,44 @@
 {
     "id": "010001C011354800",
-    "version": 131072
+    "base_tid": "010001C011354000",
+    "name": "Aeolis Tournament",
+    "description": "Aeolis Tournament is a 3D party action game where up to 8 players compete in various game modes based on a simple one-button mechanic. Characters use an air cannon to control the power of the wind and affect their surroundings. It features physics-based gameplay, a tournament mode and local and online multiplayer play.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200723,
+    "first_update_release_date": 20200827,
+    "latest_update_release_date": 20201214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201214
+    },
+    "versions": {
+        "65536": 20200827,
+        "131072": 20201214
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Sports"
+    ],
+    "intro": "Use the power of the wind to compete in the various games of the Storm Championship in this charmingly chaotic 8-player action party game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

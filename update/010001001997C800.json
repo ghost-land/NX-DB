@@ -1,4 +1,41 @@
 {
     "id": "010001001997C800",
-    "version": 131072
+    "base_tid": "010001001997C000",
+    "name": "Pixel Family Fun",
+    "description": "It's nothing like a classic coloring book. This game is all about taking your mind off things, following the numbers and filling each pixel with the right color. \n\nImmerse yourself in the gameplay loop. Choose your theme and enjoy the creative process. Don't forget that every pixel matters.\n\nKey features:\n\n-Dozens of illustrations to choose from\n-Relaxing gameplay\n-Cute characters\n-Easy to play\n-Suplication\n-Unique pixel arts",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20221226,
+    "first_update_release_date": 20221220,
+    "latest_update_release_date": 20221220,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221220
+    },
+    "versions": {
+        "65536": 20221220,
+        "131072": 20221220
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Utility",
+        "Other"
+    ],
+    "intro": "Have fun and relax in Pixel Family Fun. Choose from a wide range of drawings and expand your pixel art gallery!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

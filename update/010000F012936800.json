@@ -1,4 +1,44 @@
 {
     "id": "010000F012936800",
-    "version": 196608
+    "base_tid": "010000F012936000",
+    "name": "Agatha Christie - Hercule Poirot: The First Cases",
+    "description": "Discover an untold crime story from the mysterious youth of the famous detective Hercule Poirot. \n\nIn his early years as a detective, Hercule Poirot is invited to a reception by the influential Van den Bosch family, for the announcement of their daughter’s engagement. But tensions amongst the guests run high as a snowstorm descends on the town, trapping everyone inside the manor. The happy event is soon marred by the murder of one of the guests…\n \nIn the right place at the right time, Poirot immediately begins to investigate. What buried secrets and deadly rivalries will he uncover?\n\nFeatures: \n\nHERCULE POIROT AS NEVER SEEN BEFORE:\n- Rediscover the legendary detective in an all-new crime story.\n\n- Play as Hercule Poirot in his early years as a detective, when he still had everything to prove.\n\n- Solve a complex murder case where everyone has something to hide. \n\n- Unveil what hides behind the deceiving appearances of the Van den Bosch family. \n\nYOUR MIND IS YOUR BEST ASSET:\n- Question all the suspects and glean crucial information from them without their knowing.\n\n- Notice all suspicious behavior as you uncover the dark secrets and rivalries of the upper class. \n\n- Explore a luxurious house full of buried mysteries. There is more to discover than just the murderer… \n\n- Use your talents of deduction to link clues in your mindmap.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20210928,
+    "first_update_release_date": 20210919,
+    "latest_update_release_date": 20220225,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220225
+    },
+    "versions": {
+        "65536": 20210919,
+        "131072": 20211111,
+        "196608": 20220225
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover the early cases of the legendary detective Hercule Poirot.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes, violence and coarse language"
+    ],
+    "region": null
 }

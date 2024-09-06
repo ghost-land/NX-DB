@@ -1,4 +1,44 @@
 {
     "id": "010001F0145A8800",
-    "version": 65536
+    "base_tid": "010001F0145A8000",
+    "name": "Isolomus",
+    "description": "Make your own way through the madness!\n\nI swear, they forced me to make this game! Help me!\n(distant mumbling and the sounds of struggle)\n...\nPlay time is about 10–20 minutes. I hope you will remember this experience for a long time.\nTwo endings. The question is which of them is the worst.\nAll the graphics and animations are handmade from plasticine.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20210414,
+    "first_update_release_date": 20210428,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20210428
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Short handcrafted horror adventure with multiple choices...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

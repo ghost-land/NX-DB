@@ -1,4 +1,35 @@
 {
     "id": "010000301D428800",
-    "version": 131072
+    "base_tid": "010000301D428000",
+    "name": "Redgar: The Space Viking",
+    "description": "An action-packed, story-driven top-down shooter with vibrant pixel graphics and a pumping soundtrack.",
+    "publisher": "Bonus Stage Publishing",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240412,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20240412,
+        "131072": 20240419
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "An action-packed, story-driven top-down shooter with vibrant pixel graphics and a pumping soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100001017216800",
-    "version": 131072
+    "base_tid": "0100001017216000",
+    "name": "Labyrinth of Galleria: The Moon Society",
+    "description": "Below the Galleria Manor there exists a mystifying maze overflowing with treasure. This dungeon-exploring adventure is filled with over 50 hours of labyrinth to traverse and a witch brigade custom made into your very own unstoppable monster-fighting force!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20230214,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230331,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230331
+    },
+    "versions": {
+        "65536": 20230217,
+        "131072": 20230331
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "The pursuit of mystery–a tale of love and courage.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

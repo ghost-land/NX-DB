@@ -1,4 +1,43 @@
 {
     "id": "0100008011882800",
-    "version": 589824
+    "base_tid": "0100008011882000",
+    "name": "天穗之咲稻姬",
+    "description": "畫面精美的『天穗之咲稻姬』\n以被鬼族支配的「日之惠島」為舞臺，融合了與鬼族戰鬥時施展的爽快連段攻擊以及\n深度重現日本傳統種稻過程的模擬要素，\n是富有特色的和風動作RPG。\n\n■種稻\n可以深刻體驗遊戲史上史無前例的日本傳統種稻。\n經過插秧、培育、收割等工序來培育優良的稻米。\n\n■動作\n以農具為武器施展各種武技，伸縮自如的羽衣進行無拘無束的移動，盡享爽快戰鬥的橫向捲軸動作。",
+    "publisher": "Marvelous Entertainment",
+    "developer": null,
+    "base_release_date": 20201112,
+    "first_update_release_date": 20201111,
+    "latest_update_release_date": 20211201,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20211201
+    },
+    "versions": {
+        "131072": 20201111,
+        "196608": 20201128,
+        "262144": 20201207,
+        "327680": 20201218,
+        "393216": 20210115,
+        "524288": 20210622,
+        "589824": 20211201
+    },
+    "category": [
+        "動作",
+        "角色扮演",
+        "冒險",
+        "其他"
+    ],
+    "intro": "透過種植稻米變強大的和風動作RPG登場！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

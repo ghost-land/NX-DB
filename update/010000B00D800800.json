@@ -1,4 +1,40 @@
 {
     "id": "010000B00D800800",
-    "version": 393216
+    "base_tid": "010000B00D800000",
+    "name": "The Church in the Darkness",
+    "description": "In the late 1970s, the charismatic Isaac and Rebecca Walker lead the Collective Justice Mission. Labeled radicals and feeling persecuted by the US government, they relocate their followers to the one place they believe they can create a socialist utopia: the jungles of South America. There they build Freedom Town. But relatives left behind in the US become worried: what exactly is going on at this compound in the jungle?\nYou play as Vic, an ex-law enforcement officer who has snuck into Freedom Town to check on their nephew, Alex. Whether you choose stealth or violence, you must infiltrate the commune, find out what’s going on within, and locate your nephew, before it’s too late.\nHow dangerous are the Walkers? How far will you go to uncover the truth and save Alex? Could it all have turned out differently?",
+    "publisher": "Fellow Traveller",
+    "developer": null,
+    "base_release_date": 20190802,
+    "first_update_release_date": 20190723,
+    "latest_update_release_date": 20231018,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20231018
+    },
+    "versions": {
+        "65536": 20190723,
+        "131072": 20190830,
+        "196608": 20191002,
+        "262144": 20200116,
+        "327680": 20210108,
+        "393216": 20231018
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "No one is forced to join a cult. It welcomes you. It understands you. It envelops you until the words become more than truth—they make you whole.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null
 }

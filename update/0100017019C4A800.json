@@ -1,4 +1,37 @@
 {
     "id": "0100017019C4A800",
-    "version": 131072
+    "base_tid": "0100017019C4A000",
+    "name": "Rocket Knight Adventures: Re-Sparked",
+    "description": "Rocekt Knight Adventures: Re-Sparked is an electrifying 3 game classic revival collection where players relive the nostalgic side scrolling experience by becoming Sparkster. As Sparkster prepare to battle an army of robots and pigs in order to save the princess. The key features of the game will be:\n    >3 games within the franchise are available\n            >Rocket Knight Adventures\n            >SPARKSTER Rocket Knight Adventures\n            >SPARKSTER\n   >2 new non-gameplay modes\n           >Museum\n           >Music Player\n   >Boss Rush (jump right to the boss fight immediately) \n   >Save game (progression) at any time\n   >Rewind feature",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20240611,
+    "first_update_release_date": 20240709,
+    "latest_update_release_date": 20240709,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240709
+    },
+    "versions": {
+        "131072": 20240709
+    },
+    "category": [
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Become SPARKSTER in this Classic Collection",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

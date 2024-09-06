@@ -1,4 +1,40 @@
 {
     "id": "010001701248C800",
-    "version": 262144
+    "base_tid": "010001701248C000",
+    "name": "Super Monkey Ball Banana Mania",
+    "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It’s monkey business for the gang as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\n• The ultimate Super Monkey Ball Experience – More than 300 stages from Super Monkey Ball, Super Monkey Ball 2 and Super Monkey Ball Deluxe. \n• Go Bananas with 12 fun minigames including Monkey Racing, Monkey Soccer, Monkey Bowling, Monkey Baseball and much more! \n• Challenge your friends as you compete for top banana on the online leaderboards!\n• Immerse yourself in the Super Monkey Ball world with creative comic book-style story telling in Story Mode.\n• Want to be the coolest monkey on the block? Customize your character and Super Monkey Ball to make it your own!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20221101,
+    "first_update_release_date": 20210916,
+    "latest_update_release_date": 20230424,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230424
+    },
+    "versions": {
+        "131072": 20210916,
+        "196608": 20211001,
+        "262144": 20230424
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": "Go Bananas with your favorite monkey gang in the ultimate Super Monkey Ball adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,49 @@
 {
     "id": "010001300D14A800",
-    "version": 393216
+    "base_tid": "010001300D14A000",
+    "name": "Castle Crashers Remastered",
+    "description": "Hack, slash, and smash your way to victory in this Remastered edition of the popular 2D arcade adventure from The Behemoth! At 60FPS, Castle Crashers Remastered delivers hi-res visuals like nothing you've ever seen before. Up to four friends can play locally or online and save your princess, defend your kingdom, and crash some castles!\n\nFeaturing:\n• Unlock more than 25 characters and over 40 weapons!\n• Intuitive combo and magic system: Unlock an arsenal of new attacks as your character progresses through the game.\n• Level up your character and adjust Strength, Magic, Defense, and Agility.\n• Adorable animal orbs are your companions. Each adds different abilities to aid you on your journey.\n• Arena mode: Battle other players in free-for-all or team matches!\n• Back Off Barbarian mini game: Jump and hop across the level to avoid the enemies!\n• Insane Mode: Test your skills in the ultimate campaign challenge",
+    "publisher": "The Behemoth",
+    "developer": null,
+    "base_release_date": 20190917,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20230313,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230313
+    },
+    "versions": {
+        "65536": 20191014,
+        "131072": 20200804,
+        "196608": 20200902,
+        "262144": 20210825,
+        "327680": 20220302,
+        "393216": 20230313
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "RPG"
+    ],
+    "intro": "Hack and slash your way to victory in this Remastered edition of the popular 2D arcade adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence"
+    ],
+    "region": null
 }

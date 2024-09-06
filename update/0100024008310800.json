@@ -1,4 +1,45 @@
 {
     "id": "0100024008310800",
-    "version": 196608
+    "base_tid": "0100024008310000",
+    "name": "Street Fighter 30th Anniversary Collection",
+    "description": "Celebrate Street Fighter’s historic legacy with the Street Fighter 30th Anniversary Collection. In this massive collection of 12 Street Fighter titles, which encompass the Street Fighter I, Street Fighter II, Street Fighter III and Street Fighter Alpha series, perfect arcade balance makes it to consoles for the first time ever. Hop online and relive the arcade experience through the online Arcade Mode or play with friends in the online lobby within four of the most definitive Street Fighter titles in the collection.\n\nThe celebration continues in the Museum, where fans and historians alike can follow the timeline of how Street Fighter has evolved over the past 30 years. Learn more about the Street Fighter cast, view key animation sprites in the character viewer and take a behind-the-scenes look at the design documents that helped solidify the franchise that produced generations of World Warriors!",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20180523,
+    "latest_update_release_date": 20181023,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181023
+    },
+    "versions": {
+        "65536": 20180523,
+        "131072": 20180730,
+        "196608": 20181023
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "12 arcade classics in one collection!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Blood",
+        "Online Interactions Not Rated by the ESRB",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

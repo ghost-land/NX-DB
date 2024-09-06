@@ -1,4 +1,38 @@
 {
     "id": "0100011005D92800",
-    "version": 196608
+    "base_tid": "0100011005D92000",
+    "name": "Batman - The Telltale Series",
+    "description": "The billionaire and the bat: enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight. In this gritty and violent new story, you'll make discoveries that will shatter Bruce Wayne's world, and shake the stability of a corrupt Gotham City to its very foundations. At your disposal is the sophisticated genius of Wayne and the fearsome skills of the Batman. What happens next is entirely up to you.\n\nIncludes all five episodes of the first season.",
+    "publisher": "TellTale",
+    "developer": null,
+    "base_release_date": 20171118,
+    "first_update_release_date": 20180110,
+    "latest_update_release_date": 20200319,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200319
+    },
+    "versions": {
+        "65536": 20180110,
+        "196608": 20200319
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Determine the fate of the Batman.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

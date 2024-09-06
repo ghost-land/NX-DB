@@ -1,4 +1,44 @@
 {
     "id": "010000401313A800",
-    "version": 262144
+    "base_tid": "010000401313A000",
+    "name": "Demong Hunter",
+    "description": "Demong Hunter is the story of a Hunter trying to Regain Peace by defeating the bug ‘Demong’created by the whole brain in the virtual world.\nEnjoy the Battle with Different Special Skills and Unique Attack Style for each Character.\n\nEnjoy Fantasy RPG elements by\nCollecting Gold to increase your Stats\nAnd Defeating the Boss to Collect Artifacts for Special Effects.\nAfter the Ending, Many Volume Stages will lead you to the True Ending.\n\nHighly Recommend this game to those who Love Fast-Paced Battles with Adorable Characters,\nand those who Love Continuous Stages with Various Attack Actions with a Sword and a Bow.",
+    "publisher": "TROOOZE",
+    "developer": null,
+    "base_release_date": 20201029,
+    "first_update_release_date": 20201125,
+    "latest_update_release_date": 20210716,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210716
+    },
+    "versions": {
+        "131072": 20201125,
+        "196608": 20210609,
+        "262144": 20210716
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Stunning 3D Graphics using Toon Rendering Techniques! Experience a Unique Attack Style with Different Characters. Attack! Avoid! SD action to Enjoy Control!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

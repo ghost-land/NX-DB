@@ -1,4 +1,37 @@
 {
     "id": "010002300C632800",
-    "version": 131072
+    "base_tid": "010002300C632000",
+    "name": "Fairy Fencer F™: Advent Dark Force",
+    "description": "Three Stories, Three Paths\nIn three branching stories, friends become foes, foes become friends, and based on your choices, multiple endings can be unlocked!\n\nShape the World\nCustomize weapons by fusing them with fairies and change dungeon stats through World Shaping. Even power up Fencers through the fairies’ power to transform, or Fairize, during battle and change your world!\n\nThree's a Crowd, Six is a Party\nWith up to six party members on the battlefield at a time, you can play as all your favorite Fencers!\n\nThree Ways to Fight\nPlay in Easy, Normal, or Hard mode and switch the difficulty up whenever you want to balance the game to your play style!\n\nStory \nLong ago, a war waged between the Vile God and the Goddess. Each created weapons known as Furies containing fairies imbued with their power. Now those who can wield these weapons fight to collect them. Our hero Fang reluctantly joins this ancient battle and must now choose to revive either the Goddess or the Vile God. With up to six characters on the battlefield, a revolving cast of party members, and customizable dungeons, your choices will reshape the world! ",
+    "publisher": "Idea Factory",
+    "developer": null,
+    "base_release_date": 20190117,
+    "first_update_release_date": 20190118,
+    "latest_update_release_date": 20201014,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201014
+    },
+    "versions": {
+        "65536": 20190118,
+        "131072": 20201014
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Will you revive the Goddess or the Vile God? Your choice will reshape the world...",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Language",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "010001F01BAB4800",
-    "version": 327680
+    "base_tid": "010001F01BAB4000",
+    "name": "BOKURA",
+    "description": "BOKURA is a two-player puzzle adventure game. Play as two boys who ran away from their homes and work together to take yourselves somewhere far, far away. Relive the friendship of your childhood through the journey of two boys.",
+    "publisher": "KODANSHA",
+    "developer": null,
+    "base_release_date": 20230810,
+    "first_update_release_date": 20230822,
+    "latest_update_release_date": 20240214,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240214
+    },
+    "versions": {
+        "65536": 20230822,
+        "196608": 20230915,
+        "327680": 20240214
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "Are you and I really seeing the world the same way?\nAn exclusively two-player puzzle adventure game that makes you question your reality.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

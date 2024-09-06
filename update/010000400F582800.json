@@ -1,4 +1,42 @@
 {
     "id": "010000400F582800",
-    "version": 65536
+    "base_tid": "010000400F582000",
+    "name": "TT Isle of Man Ride on the Edge 2",
+    "description": "...that is the challenge that awaits in TT2! Lots of new features lie ahead: open world, reworked physics, classic motorbikes, and more.\nWithout a shadow of a doubt it is one of the most dangerous motorbike races in the world. In TT Isle of Man – Ride On the Edge 2, you prove your worth in different championships before setting out to conquer the Snaefell Mountain Course, a 60 km-long track with both winding and straight sections that will push your riding skills to the limit. TT 2 features 17 additional tracks, 18 different motorbikes including classic models, and the official riders. And now it’s more realistic than ever, thanks to entirely revamped physics and faithfully reproduced rider movements. Fine-tune your motorbike, upgrade its performance and monitor its data in real time so you can stay competitive. TT2 also offers a brand-new open world, a biker's paradise where you can test your bike settings and gain the experience you'll need to win the TT Isle of Man title!",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20200421,
+    "latest_update_release_date": 20200421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200421
+    },
+    "versions": {
+        "65536": 20200421
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "Racing across an over 60 km long ultra-technical track at breakneck speed requiring realistic riding skills...",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100004017E54800",
-    "version": 65536
+    "base_tid": "0100004017E54000",
+    "name": "Run Box Run",
+    "description": "Run Box Run is easy to pick up and play! Compete in escape-runs with friends and foes online through fun dungeons and silly trivia intermissions. Only the best box will survive and claim the coveted crown!",
+    "publisher": "Atooi",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20221103,
+    "latest_update_release_date": 20221103,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221103
+    },
+    "versions": {
+        "65536": 20221103
+    },
+    "category": [
+        "Party",
+        "Racing",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Online Platforming Fun for Everyone!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

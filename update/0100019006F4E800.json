@@ -1,4 +1,44 @@
 {
     "id": "0100019006F4E800",
-    "version": 131072
+    "base_tid": "0100019006F4E000",
+    "name": "I Am The Hero",
+    "description": "I Am The Hero is a love note to retro gaming, ripped from the fuzzy memories of the developer’s childhoods and seasoned with a wild passion for fighting games. If you want a truly modern re-interpretation of classic gaming, then it’s time to join the fate and answer one simple question, \"are you the hero?\"\n\nEnjoy fast paced, retro action inspired by modern and old-school classics. I Am The Hero will give you shot of nostalgia and adrenaline that you’ve been crazing.\n\nSo what are you waiting for? It’s time to join the fight!\n\nFEATURES:\n• Single Player Campaign \n• Local Co-Op\n• Fast Moving, Fluid Combat\n• Free Style Combos : trample, juggle, rush, and crush your enemies into submission with your own unique fighting styles\n• Critical Blink : by timing your attacks perfectly you can unleash massive damage on your foes with Critical Blink",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20181201,
+    "first_update_release_date": 20181201,
+    "latest_update_release_date": 20190213,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190213
+    },
+    "versions": {
+        "65536": 20181201,
+        "131072": 20190213
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "I Am The Hero is a pixel art, beat 'em up, fighting game that tells the story of a \"Hero\" with a glorious but mysterious past. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Sexualised Imagery",
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010001400E474800",
-    "version": 65536
+    "base_tid": "010001400E474000",
+    "name": "Subdivision Infinity DX",
+    "description": "With more than 30 engaging story missions and side-quests spanning several star systems, Subdivision Infinity is an action-packed journey brimming with dogfights, boss battles, and more set against the stunning wild outer reaches of the cosmos.\n\n - Complete exciting missions in the main storyline and explore mysterious sectors of the galaxy.\n\n- Tight space combat gameplay - fight massive space battles against different enemies: drones, fighters, dreadnoughts capital ship and more.\n\n- Explore stunning locations, each with a different feel and atmosphere. \n\n- Find lost relics to build new ships, harvest asteroids and sell their minerals for profit, or use them for crafting.\n\n- Boss battles - hone your combat skills facing most powerful enemies\n\n- Prepare for the fight - enhance your ship and equip with diverse selection of weapons available for upgrade.",
+    "publisher": "Blowfish Studios",
+    "developer": null,
+    "base_release_date": 20190808,
+    "first_update_release_date": 20190920,
+    "latest_update_release_date": 20190920,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190920
+    },
+    "versions": {
+        "65536": 20190920
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Simulation"
+    ],
+    "intro": "Step into the cockpit of an intergalactic fighter and explore the great expanses of outer space.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

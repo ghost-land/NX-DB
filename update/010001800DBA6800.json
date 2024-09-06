@@ -1,4 +1,38 @@
 {
     "id": "010001800DBA6800",
-    "version": 65536
+    "base_tid": "010001800DBA6000",
+    "name": "Winter Sports Games",
+    "description": "Off to the snow!\n\nIt does not matter if you prefer to ski, bobsleigh or sled down the ice rink, or relax curling the stones over the ice when curling - there is certainly something for everyone here.\n\nThere are six exciting disciplines to win tournaments and master challenges. You can play alone or with up to four players on the sofa - and all without a runny nose after the competition!\n\nfeatures\n• 6 exciting disciplines:\n• Ski jumping\n• Ski slalom\n• Ski downhill\n• Bobsledding\n• sledging\n• curling\n• Local multiplayer for 2 to 4 players\n• modern graphics and classic controls",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20191025,
+    "first_update_release_date": 20240710,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20240710
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Simulation",
+        "Party"
+    ],
+    "intro": "Six winter disciplines for 1 to 4 players!\nSki jumping, slalom, downhill, bobsleigh, tobogganing and curling!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

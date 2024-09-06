@@ -1,4 +1,39 @@
 {
     "id": "010002900294A800",
-    "version": 131072
+    "base_tid": "010002900294A000",
+    "name": "NBA Playgrounds",
+    "description": "Classic NBA arcade action is back! Take your “A” game to the playground and beat the best in high-flying 2-on-2 basketball action. Practice your skills, play with up to three others on your Nintendo Switch™ and use your talents to posterize your opponents with acrobatic jams and ridiculous displays of skill. Collect your favorite players from a massive roster of current and retired NBA superstars from every team. Travel to playgrounds across the globe to compete in matches against the very best with your massive arsenal of dunks and moves. Use your fine-tuned skills to take on the master of the playground himself – Allen Iverson.",
+    "publisher": "Saber Interactive Incorporated",
+    "developer": null,
+    "base_release_date": 20170509,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20170814
+    },
+    "versions": {
+        "131072": 20170814
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Up your game!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010001601590E800",
-    "version": 65536
+    "base_tid": "010001601590E000",
+    "name": "Marbles Rush",
+    "description": "The game is an amazing three match puzzle game! Your target is to eliminate all the marble and don't let the chain reach the end. You eliminate the balls by shooting the same colour in the row to end up with a minimum of three of the same kind to eliminate them. Discover over 80 action packed levels and use different power ups to eliminate the chain. ",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210701,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Board Game"
+    ],
+    "intro": "Enter the jungle and find treasures, traps and an amazing action packed three match puzzle game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

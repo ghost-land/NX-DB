@@ -1,4 +1,43 @@
 {
     "id": "010000E0145BA800",
-    "version": 131072
+    "base_tid": "010000E0145BA000",
+    "name": "Stonefly",
+    "description": "Harness the wind and soar through the wilderness of Stonefly. Brilliant but naïve inventor Annika Stonefly must recover a lost family heirloom using her smarts and strategy. Glide strategically among flora and fauna, confronting hungry bugs, adventures, and memorable characters. Along the way, you'll unravel a heartwarming story of self-discovery, family, legacy, and belonging.\n\nChill and tranquil action-adventure gameplay punctuated by unique and skillful bug showdowns. Stun ‘em. Shoo ‘em. Get the loot.\n\nInvent and craft new abilities for your mech while customizing it to match your play style.\n\nTake on a variety of bug types to harvest minerals, then use them to craft specialized mech parts.\n\nGlide through tree canopies, across marshes, among prickly briars, and breathtaking nature throughout missions.\n\nRichly handcrafted art, equally inspired by mid-century modern design and the natural world.\n\nForge relationships with a cast of memorable characters from the Acorn Corps, a band of castaway mech pilots.",
+    "publisher": "Flight School Studio",
+    "developer": null,
+    "base_release_date": 20210601,
+    "first_update_release_date": 20210604,
+    "latest_update_release_date": 20210901,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210901
+    },
+    "versions": {
+        "65536": 20210604,
+        "131072": 20210901
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Harness the wind and soar.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010002300CB0A800",
-    "version": 65536
+    "base_tid": "010002300CB0A000",
+    "name": "Desktop Football",
+    "description": "The desk is your field! Lace up your shoes for a simple yet challenging football game!\nShare the Joy-Con™ with up to 4 people for a football free-for-all!\nMake your own original team by adjusting formations and positions!\nAim to win the tournament! \n\n[Practice Match]\nPit your team against the CPU for pratcice,\nor spectate a match between two CPU teams!\n\n[Friendly Match]\nUp to 4 players\nTake on a football titan in a 3 on 1 ambush, or compete evenly, 2 on 2.\nChoose sides as you like!\nA world of scenarios awaits you!\n\n[Team Selection]\nYou can decide everything, from player names to formations, numbers, and positions.\nAssign power-up items and statuses \nto create your own original team!\n\n[Tournament]\nParticiapte in tournaments with other veteran players.\nStrengthen your team, polish your techniques,\nand aim for the win!\n\n[Free Kick Prize Pool]\nUse points acquired from matches \nto score new power-up items, \nformations, and uniforms.\n\n[Mini Game]\nHit the kick-target for a chance to get extra points!\nAim carefully to hit the mark!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20181114,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20210929,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210929
+    },
+    "versions": {
+        "65536": 20210929
+    },
+    "category": [
+        "Sports",
+        "Action",
+        "Party",
+        "Arcade"
+    ],
+    "intro": "Fun for everyone! It's time for the crazy kick-off!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
