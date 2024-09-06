@@ -1,4 +1,49 @@
 {
     "id": "0100E20012952800",
-    "version": 262144
+    "base_tid": "0100E20012952000",
+    "name": "Card Shark",
+    "description": "Card Shark is an adventure game full of cunning, intrigue, and delectable deceit.\n\n\"Our adversaries tonight? An unscrupulous group of scoundrels and rogues, rumoured to possess an unlimited fund between them. If we stick to the strategies you’ve learnt, this will be a walkover.\" \n- Comte de Saint-Germain\n\nLEARN AND MASTER NEW TRICKS\nCheat your way to the top of 18th-century French society. Master deceptions using card marking, false shuffles, deck switching, false deals, and more! Use your ill-gotten gains to buy your way into the closed world of high-stakes tables.\n\nUNCOVER A CONSPIRACY\n... as you climb from local card parlors to the King's table.\nA word of advice: Don't get caught. Your fellow gamblers do not take kindly to cheats…\n\nTRAVEL THROUGH 18TH CENTURY FRANCE\nDiscover small towns, remote mansions, and luxurious lounges imagined by Nerial team (Reigns), game creator Arnaud De Bock (Pikuniku). Immerse yourself in the ornate visual artwork of Nicolai Troshinsky. Have your every move accompanied by an original score from Andrea Boccadoro as interpreted by an orchestra.\n",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20220602,
+    "first_update_release_date": 20220519,
+    "latest_update_release_date": 20220801,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220801
+    },
+    "versions": {
+        "65536": 20220519,
+        "131072": 20220603,
+        "196608": 20220627,
+        "262144": 20220801
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Enter a world where you’ll need to play your opponents better than you play your cards.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence",
+        "Simulated Gambling",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

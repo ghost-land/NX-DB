@@ -1,4 +1,39 @@
 {
     "id": "0100E20014028800",
-    "version": 327680
+    "base_tid": "0100E20014028000",
+    "name": "Everhood",
+    "description": "Welcome to the world of Everhood\nWhere up is down\nAnd left is right\nWhere time has stopped\nAnd strange characters R O A M\n\nHere you control a wooden doll whose arm has been stolen by a blue gnome…\n\nFeatures\n-Groove to music based battles\n-Embark on a 5-6 hour journey with many twists and turns\n-Expect the unexpected\n-Enter a wild world with visceral visuals accompanied with magical music\n-Conquer a great challenge that awaits the bold...\n\n ",
+    "publisher": "Foreign Gnomes",
+    "developer": null,
+    "base_release_date": 20210305,
+    "first_update_release_date": 20210222,
+    "latest_update_release_date": 20220311,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220311
+    },
+    "versions": {
+        "65536": 20210222,
+        "131072": 20210323,
+        "196608": 20210409,
+        "262144": 20210506,
+        "327680": 20220311
+    },
+    "category": [
+        "Adventure",
+        "Music",
+        "Action",
+        "Other"
+    ],
+    "intro": "An UNCONVENTIONAL ADVENTURE RPG that takes place in an inexpressible world filled with amusing musical battles and strange delightful encounters.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

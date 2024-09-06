@@ -1,4 +1,35 @@
 {
     "id": "0100E2800BBC2800",
-    "version": 196608
+    "base_tid": "0100E2800BBC2000",
+    "name": "Galactic Defence Squadron",
+    "description": "With an amazing soundtrack, explosive visuals and simple controls, Galactic Defence Squadron is an addictive and challenging shooter which harks back to arcade classics of old. \n\nFEATURES\n- Endless waves of enemies that increase in difficulty & number the further you progress\n-Collect Asteroid Gold to replenish your health or load the Ursa Major's super powered Solar Cannon\n- Every game is different, enemies spawn in different locations and will vary their attacks each time.\n- Different enemy types mean you need a clear strategy, go for the ships attacking the Ursa Major or defend yourself first?\n- A glorious soundtrack from up and coming musician Harry Burt\n- Tutorial mode to ease you into the action\n- Addictive gameplay, can you beat your high score?",
+    "publisher": "4MB Interactive",
+    "developer": null,
+    "base_release_date": 20191114,
+    "first_update_release_date": 20200127,
+    "latest_update_release_date": 20220102,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220102
+    },
+    "versions": {
+        "65536": 20200127,
+        "131072": 20210524,
+        "196608": 20220102
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Galactic Defence Squadron is a top-down endless twin-stick shooter. Your only goal is to defend the mining vessel Ursa Major!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

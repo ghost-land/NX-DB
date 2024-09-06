@@ -1,4 +1,54 @@
 {
     "id": "0100E2E00EA42800",
-    "version": 786432
+    "base_tid": "0100E2E00EA42000",
+    "name": "Reventure",
+    "description": "Features:\n\n- One hundred different endings.\n        Choose your path, every decision leads to a new ending.\n        Will you find the real one? Is there such a thing?\n        Only one way to know...\n\n- Lots of \"Aha!\" moments.\n        The world doesn't change with each new game, you do.\n        Well, actually it DOES change, but that's a secret for you to find out.\n\n- A big bunch of unlockable stuff.\n        New playable characters, hints, costumes, visual effects and more!\n\n- Bazillions of secrets and pop-culture references.\n        They are, you know, secrets. So we won't spoil them here ;)\n\n- Magic\n        Even a simple-looking-yet-amazing game like this takes a lot of time and big piles of money to make, but you can get it for only a few bucks.\n        How's that for magic?\n\n- Time travel, battle royale fights, mimics, permadeath, shotguns, mining, resource gathering, base building, global leaderboards, farming...\n        Ok, we may have had exaggerated on that one...\n        OR HAVE WE???\n\n- Humor.\n        Yup, there's that too.\n        Available in many flavours.\n\n- A beautiful OST.\n\n\nHere's how to play Reventure in 8 easy steps:\n\nStep 1: Adventure calls... Wake up, hero!\n\nStep 2: Meet your mentor and gear up for glory...\n\nStep 3: Then... Embark on your quest!\n\nStep 4: Ok, don't embark...\n\nStep 5: Face the consequences...\n\nStep 6: Rise again...\n\nStep 7: Fix your past mistakes...\n\nStep 8: And become a legend!\n\nDisclaimer: this is just an orientative guide, you probably won't become a legend on your second attempt.",
+    "publisher": "Pixelatto Games",
+    "developer": null,
+    "base_release_date": 20191008,
+    "first_update_release_date": 20190923,
+    "latest_update_release_date": 20200928,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20200928
+    },
+    "versions": {
+        "65536": 20190923,
+        "131072": 20191107,
+        "327680": 20200128,
+        "393216": 20200204,
+        "458752": 20200310,
+        "524288": 20200316,
+        "655360": 20200409,
+        "720896": 20200704,
+        "786432": 20200928
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Strategy"
+    ],
+    "intro": "An adventure with 100 different endings.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Sexual References",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100E230159DE800",
-    "version": 196608
+    "base_tid": "0100E230159DE000",
+    "name": "Ronister Adventure",
+    "description": "Ronister Adventure is a true tribute to classic platform games, come help Ronister to save the Amazon rainforest",
+    "publisher": "Isaias Game Dev",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20211028,
+    "latest_update_release_date": 20220308,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220308
+    },
+    "versions": {
+        "65536": 20211028,
+        "131072": 20220307,
+        "196608": 20220308
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "A Brazilian game with everything a good classic platform game should have.\nA game from the developers of Ronik Game Group.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

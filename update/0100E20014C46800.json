@@ -1,4 +1,36 @@
 {
     "id": "0100E20014C46800",
-    "version": 65536
+    "base_tid": "0100E20014C46000",
+    "name": "Green Phoenix",
+    "description": "Green Phoenix is an on-rails 3D space shooter mixed with a deep narrative experience that focuses on the concept of ego and the meaning of freedom. \n \nIn Green Phoenix, we are transported to a single player story where society is fully technologized and authoritarian and take us on the role of the spaceship AI, Green Phoenix, as it remembers its dead pilot, Dana, and embarks on a journey of revenge. \n\nFeatures \nDeep and inmersive storytelling \nBeautifully sculpted worlds \nFully voiced \nArcade mode, how long will you survive? ",
+    "publisher": "Zerouno Games",
+    "developer": null,
+    "base_release_date": 20210826,
+    "first_update_release_date": 20210809,
+    "latest_update_release_date": 20210809,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210809
+    },
+    "versions": {
+        "65536": 20210809
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Lifestyle"
+    ],
+    "intro": "Where 3D Space shooter meets deep narrative experience",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

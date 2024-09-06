@@ -1,4 +1,30 @@
 {
     "id": "0100E2C01A7E4800",
-    "version": 65536
+    "base_tid": "0100E2C01A7E4000",
+    "name": "Give me toilet paper!",
+    "description": "This is an action game in which you prepare toilet paper with a Joy-Con™ in it and roll it around on a board.\nThere is a toilet paper in the game that is linked to your toilet paper.\nIf you roll your toilet paper left and right, the toilet paper in the game will also roll left and right.\n\n\n\n\"Oh my God! There's no toilet paper!\" Let's help a man in big trouble!\n\nYou are the ordinary toilet paper in every house, but you can roll at will.\nAnd now there is a man in need of toilet paper!\n\nYou start from the ceiling of the toilet and go your way to the man.\nBut all sorts of traps await you along the way!\n\nHelp the man by avoiding or taking advantage of them.",
+    "publisher": "Takahiro Miyazawa",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20231003,
+    "latest_update_release_date": 20231003,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231003
+    },
+    "versions": {
+        "65536": 20231003
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "A game played with the Joy-Con™ inside a roll of toilet paper!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,50 @@
 {
     "id": "0100E24011D1E800",
-    "version": 720896
+    "base_tid": "0100E24011D1E000",
+    "name": "NBA 2K21",
+    "description": "NOTE: All multiplayer servers for NBA 2K21 will be shutdown as of 12/31/2022. After that time, all game functions requiring online servers will no longer function.\n\nNBA 2K21 is the latest title in the world-renowned, best-selling NBA 2K series, delivering an industry-leading sports video game experience.\n \nWith extensive improvements upon its best-in-class graphics and gameplay, competitive and community online features, and deep, varied game modes, NBA 2K21 offers one-of-a-kind immersion into all facets of NBA basketball and culture - where Everything is Game.",
+    "publisher": "2K",
+    "developer": null,
+    "base_release_date": 20200904,
+    "first_update_release_date": 20200902,
+    "latest_update_release_date": 20210719,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20210719
+    },
+    "versions": {
+        "65536": 20200902,
+        "131072": 20200928,
+        "196608": 20201019,
+        "262144": 20201116,
+        "327680": 20201215,
+        "393216": 20210104,
+        "458752": 20210222,
+        "524288": 20210323,
+        "589824": 20210415,
+        "655360": 20210526,
+        "720896": 20210719
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "Everything is Game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

@@ -1,4 +1,55 @@
 {
     "id": "0100E2300FB84800",
-    "version": 1179648
+    "base_tid": "0100E2300FB84000",
+    "name": "CRSED: F.O.A.D.",
+    "description": "CRSED: F.O.A.D is a brutal MMO last-man-standing shooter with realistic weaponry, elements of lethal mystic forces and incredible superpowers! \n\nWin using all your combat skills and experience: rush into a gunfight, or use stealth to crawl in, snipe from afar or burst point blank, use precise bolt-action rifles or rely on a fast heavy machine gun. Backstab, slash and smash bones in melee or tear the enemy apart with rockets and grenades. Attack from above with a jetpack, spraying lead rain or request an orbital supply drop to trigger a new fight over it’s content. \n\nFeatures:\n\n• Massive and dense PvP battles: dozens of players begin their trip in one of the four picturesque and detailed locations, fighting their way to the centre of the battlefield. All the while, the battlefield itself shrinks constantly, surrounded by the deadly Dark Zone. \n\n•  Seven different champions to select - each one with a unique superpower. \n\n• A constantly growing collection of realistically modelled weapons and armor, including anti-materiel guns, sniper rifles, assault rifles, rocket launchers, flamethrowers and mortars. There are few compromises in the game regarding physics or ballistics rules. Different vehicles, military amphibians and speed boats will help to cover distances. \n\n• There are mystical powers in game! Draw seals with your blood or conduct ancient rituals, throw hex bags at enemies and use your own special power. You can flood the whole map or cause the sun to eclipse, set up traps, summon zombies or teleport yourself or others the hell out of here. But first, one needs to collect sinner souls for killing enemies - to be able to pay for most of that luxury. \n\n• Stand out from the crowd with different costumes, masks, talismans, hats, gestures, graffiti and even underwear! Unlock new spirit-guardians to get additional tactical abilities in the battles. \n\n• There are regular special events in the game with new rules and setups of battles and a system of daily tasks and secret missions rewarding players with unique items and powers. \n\n• Fair play TPV: you can play in first or third person view. In order to mitigate any advantage of the latter, every player has a familiar with a camera that can uncover the position of a player who is peeking around a corner. So if you see a butterfly or a drone - you should know that you are being watched.\n\n• New content is added frequently!",
+    "publisher": "GaijinDistribution",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210525,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20210525,
+        "196608": 20210615,
+        "262144": 20210713,
+        "327680": 20210714,
+        "393216": 20210824,
+        "458752": 20210913,
+        "524288": 20210922,
+        "589824": 20211007,
+        "720896": 20211115,
+        "786432": 20211207,
+        "851968": 20211209,
+        "917504": 20220117,
+        "983040": 20220322,
+        "1048576": 20221101,
+        "1114112": 20231024,
+        "1179648": 20240419
+    },
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Strong Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

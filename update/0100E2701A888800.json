@@ -1,4 +1,46 @@
 {
     "id": "0100E2701A888800",
-    "version": 327680
+    "base_tid": "0100E2701A888000",
+    "name": "Trine 5: A Clockwork Conspiracy",
+    "description": "Trine 5: A Clockwork Conspiracy will take Amadeus the Wizard, Zoya the Thief, and Pontius the Knight on their most action-packed journey yet!\n\nWith their reputations tarnished, loved ones in danger, and their own magical powers at stake, the Heroes of Trine must reunite to push back a fearsome Clockwork army and bring peace and justice to the land!\n\nTraverse breathtaking 2.5D landscapes in Trine's deepest and visually richest chapter to date, with an all new cast of characters - some friends, some foes, but all unforgettable.\n\nWhether by yourself or playing with up to three friends in online and local co-op, the upgraded puzzle difficulty system keeps things fresh, adapting the challenge to the number of players.\n\nLevel up the heroes' abilities with the all-new skill quest system, growing their legend as they are once again united by… the Trine!",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20230831,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231123
+    },
+    "versions": {
+        "131072": 20230802,
+        "196608": 20230830,
+        "262144": 20231003,
+        "327680": 20231123
+    },
+    "category": [
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "Mild fantasy themes and violence"
+    ],
+    "region": null
 }

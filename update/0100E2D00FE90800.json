@@ -1,4 +1,34 @@
 {
     "id": "0100E2D00FE90800",
-    "version": 196608
+    "base_tid": "0100E2D00FE90000",
+    "name": "Trials of Mana (中文版)",
+    "description": "獨特的「三線故事」設計。可從6位角色中選擇主角和夥伴，不同的隊伍將會帶來不同的冒險旅程。\n\n《TRIALS of MANA》為日本於1995年發售的《Trials of Mana》的3D重製作品。\n\n本作除了提升畫質、重製戰鬥系統外，還導入了角色語音、收錄全新編曲，並且追加角色間的支線對話，使《Trials of Mana》脫胎換骨，重生成為新時代的遊戲！\n\n不幸被捲入企圖利用瑪那之力征服世界的勢力之爭，決定拚死抵抗命運的年輕人們，將踏上旅途面臨各種試煉，他們的故事即將華麗重現。",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20200424,
+    "first_update_release_date": 20200423,
+    "latest_update_release_date": 20201109,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201109
+    },
+    "versions": {
+        "65536": 20200423,
+        "131072": 20201013,
+        "196608": 20201109
+    },
+    "category": [
+        "角色扮演",
+        "動作"
+    ],
+    "intro": "各自的命運，不同的選擇。\n三線故事將再次展開。",
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

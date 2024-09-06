@@ -1,4 +1,51 @@
 {
     "id": "0100E21011446800",
-    "version": 655360
+    "base_tid": "0100E21011446000",
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "description": "A new adventure awaits you in this second installment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210709,
+    "first_update_release_date": 20210610,
+    "latest_update_release_date": 20240514,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240514
+    },
+    "versions": {
+        "131072": 20210610,
+        "196608": 20210714,
+        "262144": 20210804,
+        "327680": 20210901,
+        "393216": 20210929,
+        "458752": 20211008,
+        "524288": 20211020,
+        "589824": 20211214,
+        "655360": 20240514
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Monster Hunter's turn-based RPG series returns with its second installment! Will your special bond with these monsters bring hope or destruction?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
