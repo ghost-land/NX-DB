@@ -1,4 +1,41 @@
 {
     "id": "0100A7801A530800",
-    "version": 262144
+    "base_tid": "0100A7801A530000",
+    "name": "Disgaea 7: Vows of the Virtueless",
+    "description": "The demonic realm of Hinomoto is changing and the days of noble warriors are numbered. Caught up in the commotion, the lazy warrior Fuji and bushido fangirl Pirilika find unlikely allies in each other as they fight against a tyrannical regime while discovering the meaning of honor and redemption! \n\nEmbark on an epic SRPG adventure stuffed to the brim with new features including Jumbification, Hell Mode, Item Reincarnation, new and improved auto-battle, and online ranked battles! You can even customize your own team with a robust roster of over 40 character classes. Disgaea 7: Vows of the Virtueless is bigger and better than ever!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20231003,
+    "first_update_release_date": 20230930,
+    "latest_update_release_date": 20231205,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231205
+    },
+    "versions": {
+        "131072": 20230930,
+        "196608": 20231026,
+        "262144": 20231205
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "To Hell, With Honor",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Suggestive Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

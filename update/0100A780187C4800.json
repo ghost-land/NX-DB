@@ -1,4 +1,48 @@
 {
     "id": "0100A780187C4800",
-    "version": 327680
+    "base_tid": "0100A780187C4000",
+    "name": "Falling Out",
+    "description": "FALLING OUT is a charming, light-hearted and accessible 2D roguelite adventure.\n \nTake control of two accidental adventurers, as you explore ancient kingdoms, discover treasures (be careful of the traps!) and bump into the equally lost shopkeeper, Azar. Collect items to craft weird weapons and useful objects that will help you traverse the world in this unplanned escapade.\n \nIt was supposed to be a relaxing vacation but ditch the itinerary because you'll now need to choose your own path. Navigate through procedurally generated levels that offer the perfect balance of risk and reward. Help Giorgio and Felicie overcome their differences and work as a team in single-player or co-op. However you play, you'll need to work together to conquer the unique obstacles and challenges scattered throughout each world.\n\nFEATURES\n\nGo it alone or find a real human. \nPlay as either Giorgio or Felicie in solo, co-op or vs mode. Easily switch between characters to use each of their unique characteristics. \n \nBoat not included\nIt’s fun to explore but don't hang about for too long because these temples flood! Grab what you can and get to the exit before it’s too late. Oh, and please don't leave your partner behind…\n\nNo Deja Vu here! \nNavigate your way through hordes of ghastly ancient creatures while exploring randomly generated temples, threats and exit locations. Every level is different and every challenge is unique but the feeling you get from mastering them is always just as satisfying. \n \nDaily Pyramid\nA randomly generated pyramid is kept for 24 hours for everyone to enjoy together. \n\nCraft works\nDecode blueprints, buy objects and collect scraps to build weapons and items that will help you overcome the unknown perils ahead\n \nHilarious vs mode\nCreate total chaos with bananas, frying pans, landmines, boomerangs and anything that comes to hand in order to steal your opponent's loot. Just remember to protect your partner at all times!\n \nLet’s see that again\nRelive all your hilarious moments anytime with slow-mo replay. ",
+    "publisher": "Firestoke",
+    "developer": null,
+    "base_release_date": 20221006,
+    "first_update_release_date": 20221006,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20221006,
+        "131072": 20221027,
+        "196608": 20221205,
+        "262144": 20230209,
+        "327680": 20240822
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "FALLING OUT is a light-hearted action-packed roguelite where you take control of an oddball couple who are on a vacation from hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

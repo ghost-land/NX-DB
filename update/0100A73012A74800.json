@@ -1,4 +1,33 @@
 {
     "id": "0100A73012A74800",
-    "version": 65536
+    "base_tid": "0100A73012A74000",
+    "name": "Solitaire Spider Minimal",
+    "description": "- Play classic Spider Solitaire with 1/2/4 suits\n- Beautiful minimalist design, nothing will disturb you from puzzle\n- View your game stats on Statistics screen\n- Progress saving, pause game anytime\n- Play with touch screen, Joy-Con™ or Nintendo Switch™ Pro Controller\n- Relaxing music ",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20200904,
+    "first_update_release_date": 20210305,
+    "latest_update_release_date": 20210305,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210305
+    },
+    "versions": {
+        "65536": 20210305
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Good old card puzzle - all you need to challenge your brain!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

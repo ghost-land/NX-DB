@@ -1,4 +1,47 @@
 {
     "id": "0100A6E01201C800",
-    "version": 196608
+    "base_tid": "0100A6E01201C000",
+    "name": "Supraland",
+    "description": "Embark on a valiant quest to save your toy village in the hit first-person open-world puzzle platformer! \n \nRoam and explore a huge interconnected world. Unlock powerful new abilities and combine them to overcome imaginative puzzles or uncover shrouded secrets. Defeat charging hordes in fast, frenetic first-person combat as you battle your way towards an audience with the Blue King.  \n \nGame features:\n- 12–25 hours of open-world puzzle, action and platformer gameplay\n- A grand adventure in a tiny \"sandbox\", with rewarding exploration gameplay and hundreds of secrets to discover\n- Discover exciting upgrades and unlock a wide range of game-changing weapons and abilities\n- Family-friendly visuals combined with countless crafty puzzles",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20201013,
+    "latest_update_release_date": 20210106,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210106
+    },
+    "versions": {
+        "65536": 20201013,
+        "131072": 20201123,
+        "196608": 20210106
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Supraland is the ultimate \"sandbox\" adventure and offers players a fresh take on puzzles, exploration, and adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

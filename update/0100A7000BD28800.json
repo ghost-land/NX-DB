@@ -1,4 +1,41 @@
 {
     "id": "0100A7000BD28800",
-    "version": 393216
+    "base_tid": "0100A7000BD28000",
+    "name": "Coloring Book",
+    "description": "Coloring Book has 62 beautiful drawings and 18 whiteboards:\n● The Basic Chapter offers 12 drawings for free (the Jungle and Space themes). 36 drawings are available as Downloadable Content (Cats, Ocean, Farm, Girls Room, Construction Site and Dinosaurs themes)\n● The ever-hungry hero of the famous Cut the Rope series is the newest addition: Om Nom Chapter offers 1 delicious drawing for free. Supernom and Nommies themes (12 drawings) + 1 bonus “Crazy Labo” drawing are available as Downloadable Content.\n● The Whiteboard chapter offers you 1 empty canvas to unleash your creativity. 17 additional canvases are available as Downloadable Content.\n\nNo limits to your creativity:\n● A palette of 130 colors for fantastic nuances\n● 9 tools for advanced effects and convenience – a brush that always paints inside contours for example\n● Use the touch screen or the buttons on the Joy-Con™ controller\n\nShare your creations:\n● Up to 4 players can color in the same time!\n● Save your images and view them easily in your album\n\nWith its large range of options, Coloring Book is perfect for young and older children but can also be a great way to relax for adults.\n\nNew drawings might be available in future updates!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20181117,
+    "first_update_release_date": 20190329,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230113
+    },
+    "versions": {
+        "65536": 20190329,
+        "131072": 20200804,
+        "196608": 20210730,
+        "262144": 20220520,
+        "327680": 20220915,
+        "393216": 20230113
+    },
+    "category": [
+        "Education",
+        "Training",
+        "Simulation",
+        "Utility"
+    ],
+    "intro": "Create the most impressive coloring book, alone or together with up to 4 artists!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

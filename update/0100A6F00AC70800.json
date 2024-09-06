@@ -1,4 +1,41 @@
 {
     "id": "0100A6F00AC70800",
-    "version": 196608
+    "base_tid": "0100A6F00AC70000",
+    "name": "NAIRI: Tower of Shirin",
+    "description": "Follow Nairi, a troubled upper class girl, and Rex, a gangster-turned-scholar, as they uncover a dark mystery involving the mysterious Tower of Shirin! In a world brimming with with delightful, deadly, and dastardly creatures Nairi will need all her wits to outsmart bandit cats, befriend crime lord ducks, and escape a conspiracy as old as time. \n\nNAIRI: Tower of Shirin is a charming graphic adventure with adorable characters within a troubled world that is sure to delight people of all ages looking for a strong narrative and puzzle experience!\n\n - Enjoy a huge amount of ridiculously cute hand-drawn art!\n - Meet tons of charming characters!\n - Become absorbed in a captivating story!\n - Collect, trade and combine wacky items!\n - Solve brain-teasing puzzles!\n - Enjoy a beautiful soundtrack!",
+    "publisher": "Hound Picked Games",
+    "developer": null,
+    "base_release_date": 20181130,
+    "first_update_release_date": 20181130,
+    "latest_update_release_date": 20181218,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181218
+    },
+    "versions": {
+        "131072": 20181130,
+        "196608": 20181218
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "Let the saga commence in this point-and-click logic puzzler that's kawaii to the core. Taking cues from the classic visual novel set-up, NAIRI crafts a rich fantasy inspired world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

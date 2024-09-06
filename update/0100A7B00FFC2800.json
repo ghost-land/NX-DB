@@ -1,4 +1,36 @@
 {
     "id": "0100A7B00FFC2800",
-    "version": 262144
+    "base_tid": "0100A7B00FFC2000",
+    "name": "Neon City Riders",
+    "description": "Looking for a 2D action-adventure mixed with super-powered urban gangs in a post-cyberpunk neon scenario? Well, if you do, Neon City Riders is right for you!\n\nAssume the role of Rick, a rad masked vigilante in search of superpowers and companions to defeat hordes of vicious enemies, solve defiant puzzles, unlock new paths, complete engaging side-quests, and finally, free the decaying futurist Neon City that has been seized by a group of superpowered gangs!\n\nFeatures\n\n• Fight in a deep and fast-paced combat based on unlockable super-abilities.\n\n• Explore the open-ended progression and the lots of optional side-quests to complete the game through one of the four different endings.\n\n• Immerse in the retro-futuristic graphics and sounds inspired in the 80's pop-culture and video game consoles.",
+    "publisher": "Mecha Studios",
+    "developer": null,
+    "base_release_date": 20200313,
+    "first_update_release_date": 20200305,
+    "latest_update_release_date": 20200525,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200525
+    },
+    "versions": {
+        "65536": 20200305,
+        "131072": 20200312,
+        "196608": 20200430,
+        "262144": 20200525
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Explore a post-cyberpunk decaying city searching for new abilities and bizarre companions to free all its turfs from a group of vicious super-powered gangs.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

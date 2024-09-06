@@ -1,4 +1,46 @@
 {
     "id": "0100A7D008392800",
-    "version": 262144
+    "base_tid": "0100A7D008392000",
+    "name": "Rival Megagun",
+    "description": "Transform into your Mega Gunship boss form to blast your rival head-on in this unique shooting game with a competitive twist.\n\nRival Megagun is a competitive split-screen vertical shmup (or shoot 'em up, shooting game, STG) where you transform into a gigantic boss ship - your 'Mega Gunship' - to invade your opponent's screen.\n\nFEATURES:\n\n-Classic shmup action with a competitive twist\n-Multiple playable heroes, each with their own special weapons and Mega Gunship boss form\n-Intense 2-player 'couch-competitive' local versus battles\n-Online battles - challenge your friends or find opponents via matchmaking\n-Unlockable gear and weapons for customizing your ship\n-A single-player arcade mode",
+    "publisher": "KOMODO",
+    "developer": null,
+    "base_release_date": 20181130,
+    "first_update_release_date": 20181204,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20181204,
+        "131072": 20190116,
+        "196608": 20200825,
+        "262144": 20210527
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Party"
+    ],
+    "intro": "Manic. PVP. Battle. Shmup.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

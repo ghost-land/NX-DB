@@ -1,4 +1,37 @@
 {
     "id": "0100A6D009840800",
-    "version": 65536
+    "base_tid": "0100A6D009840000",
+    "name": "The Wardrobe",
+    "description": "The Wardrobe is a 2D point & click adventure game in which you play as Skinny, a teen-skeleton with an impertinent attitude and a sparkling wit, willing to do anything to save his best friend’s soul from eternal damnation!\n\n-A visually-rich 2D point & click adventure game which pays tribute to the pop culture through a myriad of references.\n\n-Inspired by the great ‘90s classics, the game has a strong sense of humour and isn't shy about dealing with mature and non-politically correct themes.\n\n-More than 40 hand-illustrated and digitally colored locations, populated with more than 70 characters.\n\n-Four types of actions for each hotspot and dialogues with multiple choices (full of funny answers to try)!\n\n-Dozens of clever puzzles and many inventory objects to collect!",
+    "publisher": "MixedBag",
+    "developer": null,
+    "base_release_date": 20180706,
+    "first_update_release_date": 20180731,
+    "latest_update_release_date": 20180731,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180731
+    },
+    "versions": {
+        "65536": 20180731
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Sexual References"
+    ],
+    "region": null
 }

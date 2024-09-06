@@ -1,4 +1,47 @@
 {
     "id": "0100A7101B806800",
-    "version": 458752
+    "base_tid": "0100A7101B806000",
+    "name": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+    "description": "Experience the world of Demon Slayer: Kimesu no Yaiba through a board game!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20240425,
+    "first_update_release_date": 20240407,
+    "latest_update_release_date": 20240821,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240821
+    },
+    "versions": {
+        "65536": 20240407,
+        "131072": 20240423,
+        "196608": 20240621,
+        "327680": 20240719,
+        "393216": 20240802,
+        "458752": 20240821
+    },
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

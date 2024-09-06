@@ -1,4 +1,41 @@
 {
     "id": "0100A70016FEE800",
-    "version": 458752
+    "base_tid": "0100A70016FEE000",
+    "name": "Freak Crossing",
+    "description": "The game tells the story of your second uncle, who has been hospitalized unexpectedly and entrusted you with replacing him as the temporary Village Head. The village is in a sparsely populated wilderness where years of mismanagement have led to most residents becoming unruly. The game features multiple endings, but only one automatic save slot is available. Your choice will determine the fate of the villagers. Disabling the Save/Load feature aims to provide a unique gaming experience with each save, forcing players to seize every moment. \n\nKey Features\n● Retro cartoon style\n● Multiple endings, unique experience with each playthrough",
+    "publisher": "Wildbus Studio",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20230824,
+    "latest_update_release_date": 20231225,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20231225
+    },
+    "versions": {
+        "65536": 20230824,
+        "131072": 20230913,
+        "196608": 20230919,
+        "262144": 20231003,
+        "327680": 20231016,
+        "393216": 20231020,
+        "458752": 20231225
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "An accident has made you the head of a lawless village...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Drug Use"
+    ],
+    "region": null
 }

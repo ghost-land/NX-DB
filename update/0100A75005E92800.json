@@ -1,4 +1,59 @@
 {
     "id": "0100A75005E92800",
-    "version": 1114112
+    "base_tid": "0100A75005E92000",
+    "name": "Baldo The guardian owls",
+    "description": "Journey through a magical land teeming with mysteries to unravel.\nBaldo: the Guardian Owls is full of challenging puzzles to solve and intricate dungeons to explore.\nTraverse this captivating open world as Baldo, and meet a host of quirky and unforgettable characters, as you struggle to decipher the cryptic prophecy, and thwart destiny.\nFrom delightful whimsy to thrilling adventure, discover new towns and their distinctive inhabitants, fight ferocious foes, locate hidden temples, and collect objects both magical and mundane to obtain powerful new weapons, or to help unveil the myriad secrets of this strange land.",
+    "publisher": "Naps Team",
+    "developer": null,
+    "base_release_date": 20210827,
+    "first_update_release_date": 20210825,
+    "latest_update_release_date": 20231024,
+    "latest_update": {
+        "version": "1114112",
+        "release_date": 20231024
+    },
+    "versions": {
+        "65536": 20210825,
+        "196608": 20210906,
+        "262144": 20210917,
+        "327680": 20211105,
+        "393216": 20211118,
+        "458752": 20211210,
+        "524288": 20220426,
+        "589824": 20220426,
+        "655360": 20220715,
+        "786432": 20230107,
+        "851968": 20230209,
+        "917504": 20230323,
+        "983040": 20230411,
+        "1048576": 20230929,
+        "1114112": 20231024
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "The prophecy is coming true, a pure-heart child has been born. The no-heart creature sealed in the underworld by the wise owls is destined to rise again.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

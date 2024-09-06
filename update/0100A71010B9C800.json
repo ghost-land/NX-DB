@@ -1,4 +1,39 @@
 {
     "id": "0100A71010B9C800",
-    "version": 196608
+    "base_tid": "0100A71010B9C000",
+    "name": "Purrs In Heaven",
+    "description": "Fortunately, she has the chance to come back to life. Help the kitten pass all the tests and defeat the guardians, keepers of the 3 pieces of her soul. Do you accept the challenge?\n\n- 30 game levels.\n- Simple puzzles of increasing difficulty.\n- Mini game with hidden ships.\n- Unlockable challenges and difficult mode for the most skillful.\n- Wonderful graphics and soundtrack.",
+    "publisher": "EnjoyUp Games",
+    "developer": null,
+    "base_release_date": 20200417,
+    "first_update_release_date": 20200418,
+    "latest_update_release_date": 20200626,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200626
+    },
+    "versions": {
+        "65536": 20200418,
+        "131072": 20200507,
+        "196608": 20200626
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Poor Lanna has gone to heaven following a tragic accident.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

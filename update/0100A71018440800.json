@@ -1,4 +1,38 @@
 {
     "id": "0100A71018440800",
-    "version": 196608
+    "base_tid": "0100A71018440000",
+    "name": "UnderDungeon",
+    "description": "Armed to the teeth\n\nThis fantasy world let's you fight in a variety of ways. Magical bubbles, a boomerang cannon or a classic longsword can go a long way in this foreign land. Every one of your weapons can be further upgraded to unlock their hidden potential.\n\nInteresting world\n\nEnjoy stylized 2D graphics, and  mini games. Every character you meet has something interesting to say...maybe except for the ducks. Other then that, pay close attention to all of them.\n\nHidden secrets\n\nThroughout the map, you'll find secret areas with some very strange fellows. What could they be up to? There is only one way to find out.\n\nKey Features:\n\n- Simple controls\n- Charming mini-games\n- Stylized 2D graphics\n- Incredible music track\n- Multiple weapons and enemies\n- Lots of interesting characters\n",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230113,
+    "first_update_release_date": 20230119,
+    "latest_update_release_date": 20240603,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240603
+    },
+    "versions": {
+        "65536": 20230119,
+        "131072": 20230520,
+        "196608": 20240603
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "RPG",
+        "Fighting"
+    ],
+    "intro": "Become the deadliest delivery... cat in the world. Intense fights, multiple weapons and demanding boss fights. Join Kimuto on his hardest first day on the job.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Drugs"
+    ],
+    "region": null
 }

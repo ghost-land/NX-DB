@@ -1,4 +1,41 @@
 {
     "id": "0100A6E01681C800",
-    "version": 262144
+    "base_tid": "0100A6E01681C000",
+    "name": "METAL DOGS",
+    "description": "The main characters this time are three \"dogs\".\n\"METAL DOGS\" is a one-of-a-kind action game in which cute dogs run around in tight spaces and shoot rugged weapons on their backs.\nAs the first spin-off work of the 30th anniversary tank, dog, and human RPG \"METAL MAX\" series, the familiar Shiba Inu \"Pochi\" who helps humans in the usual series and the fighting dogs are selected as the main characters. ! A casual shooting action game that even non-fans can enjoy! !\n\nThe stage is \"Aokigahara Heaven Hill\", a former human base at the foot of Mt. Fuji.\nThe adventure of the dogs begins in this land that has been turned into ruins on the verge of annihilation due to the invasion of monsters.\nInheriting the tradition of the \"Cannon\", \"Machine Gun\" and \"S-E (Special Equipment)\" series, use a wide variety of 3 types of weapons and repel monsters!",
+    "publisher": "24Frame",
+    "developer": null,
+    "base_release_date": 20230308,
+    "first_update_release_date": 20220407,
+    "latest_update_release_date": 20230302,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230302
+    },
+    "versions": {
+        "65536": 20220407,
+        "131072": 20220930,
+        "196608": 20221221,
+        "262144": 20230302
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "Be careful when handling these 3 cute animals!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }
