@@ -1,4 +1,34 @@
 {
     "id": "0100FF30128F8800",
-    "version": 65536
+    "base_tid": "0100FF30128F8000",
+    "name": "哆啦Ａ夢　迷你哆啦樂園的七大修煉",
+    "description": "能紮實培養思考、觀察、記憶等能力的益智冒險遊戲！與迷你哆啦樂團踏上旅途，解開各式謎題和遊戲以增加樂器與歌曲，讓演奏變得越來越熱鬧吧！故事中還會使用哆啦Ａ夢的「祕密道具」，絕對驚喜滿分！",
+    "publisher": "小學館",
+    "developer": null,
+    "base_release_date": 20210715,
+    "first_update_release_date": 20231219,
+    "latest_update_release_date": 20231219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231219
+    },
+    "versions": {
+        "65536": 20231219
+    },
+    "category": [
+        "學習",
+        "訓練",
+        "益智",
+        "冒險"
+    ],
+    "intro": "挑戰七大試煉，培養七大能力！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

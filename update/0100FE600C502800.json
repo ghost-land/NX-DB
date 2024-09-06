@@ -1,4 +1,39 @@
 {
     "id": "0100FE600C502800",
-    "version": 262144
+    "base_tid": "0100FE600C502000",
+    "name": "Old School Musical（舊式歌劇）",
+    "description": "《Old School Musical（舊式歌劇）》含有豐富的 Chiptune 音軌與惡搞 。不僅僅是享受音樂和節奏， 根據玩家的操作進行故事情節，完成故事時獲得音樂後，繼續進行下一個故事情節的獨特的遊戲進行方式。\n\n通過能夠感受到兩兄弟之間的友愛和感動的故事，共有50多首以上的Chiptune音樂。可以享受模仿古典遊戲的眾多的舞台、音樂、節奏和動作，解決侵犯遊戲世界的錯誤，並能享受最多4人合作模式。\n\n遊戲特色\n■ 收錄50個Chiptune音軌\n■ 令人敬畏的作曲家： Dubmood, Zabutom, Hello World, Yponeko, Le Plancton\n■ 具有20個等級的故事模式\n■ 最多4個玩家合作的多人模式",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20181206,
+    "first_update_release_date": 20200127,
+    "latest_update_release_date": 20200415,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200415
+    },
+    "versions": {
+        "131072": 20200127,
+        "196608": 20200325,
+        "262144": 20200415
+    },
+    "category": [
+        "音樂"
+    ],
+    "intro": "含有豐富的 Chiptune 音軌與惡搞!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

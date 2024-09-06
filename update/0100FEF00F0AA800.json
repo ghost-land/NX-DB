@@ -1,4 +1,45 @@
 {
     "id": "0100FEF00F0AA800",
-    "version": 131072
+    "base_tid": "0100FEF00F0AA000",
+    "name": "Escape From Chernobyl",
+    "description": "Dive into the darkness and the dangers of the Chernobyl power plant in this continuation of the Radiation City adventure. Unravel the mystery left unsolved: find what happened to Lauren and the story of the nightmare at its source.\n\nNavigate the accurately recreated Chernobyl power plant complex from the destroyed Unit 4 reactor to the outskirts of the complex at their natural scale. \n\nExplore the full area in a seamless experience from open world exploration to the maze-like corridors of each building and the nuclear unit buildings. Scavenge them for weapons and gear to give you the needed edge to overcome this tremendous challenge.\n\nRadiation with anomalies and zombies are just parts of the dangers trying to kill you at every corner.\n\nFight the deadly zombie infested area and the experimental abominations crawling the complex with improved controls and a wide range of melee and fire weapons. Hone your skills in a new combat system based on natural physics and real motion and plan your fights and try to survive using a new noise based stealth system. ",
+    "publisher": "Atypical Games",
+    "developer": null,
+    "base_release_date": 20200123,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20210702,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210702
+    },
+    "versions": {
+        "65536": 20200819,
+        "131072": 20210702
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": "True horror is back at the Chernobyl Nuclear Power Plant. Will you be able to survive it?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

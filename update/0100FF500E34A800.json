@@ -1,4 +1,44 @@
 {
     "id": "0100FF500E34A800",
-    "version": 196608
+    "base_tid": "0100FF500E34A000",
+    "name": "Xenoblade Chronicles™ Definitive Edition",
+    "description": "Discover the origins of Shulk as he and his companions clash against a seemingly-unstoppable mechanical menace. Wield a future-seeing blade, chain together attacks, and carefully position your party members in strategic, real-time combat as you journey across a massive world.\n\nDuring an attack from the mechanical invaders known as the Mechon, Shulk discovers that he can tap into the full power of a mysterious blade known as the Monado. With the mighty Monado in hand, Shulk sets out to defeat the Mechon once and for all.\n\nIn addition to the Mechon, you’ll run into wildlife that ranges from docile to deadly. Keep an eye on what attracts monsters’ attention to avoid unwanted conflict…or try your hand at bringing down an ultra-powerful Unique Monster.\n\nUpgrade your party as you progress through the adventure by selecting equipment, enhancing weapon skills, and using benefit-granting gems. Put your dependable companions to work by filling the party gauge to trigger a Chain Attack and attack enemies in quick succession!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20200529,
+    "first_update_release_date": 20200526,
+    "latest_update_release_date": 20200709,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200709
+    },
+    "versions": {
+        "131072": 20200526,
+        "196608": 20200709
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Join the fight between man and machine in the definitive edition of this critically-acclaimed RPG",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Partial Nudity",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

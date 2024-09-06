@@ -1,4 +1,37 @@
 {
     "id": "0100FF5005B76800",
-    "version": 327680
+    "base_tid": "0100FF5005B76000",
+    "name": "STRIKERS1945 for Nintendo Switch",
+    "description": "A revolution broke out in the shooting game in 1995. The Japanese brand \"Psikyo\" introduced an new enemy's attack \"Spread bullets\" not shooting before then, and the history of a new shooting game began.\nIf you are a shooting fan, \"Psikyo shooting\" that anyone knows is revived! Shoot!",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20170803,
+    "first_update_release_date": 20170830,
+    "latest_update_release_date": 20190725,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190725
+    },
+    "versions": {
+        "65536": 20170830,
+        "131072": 20180221,
+        "196608": 20180727,
+        "262144": 20190528,
+        "327680": 20190725
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Psikyo Revival!! Play the good old arcade game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

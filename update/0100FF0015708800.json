@@ -1,4 +1,43 @@
 {
     "id": "0100FF0015708800",
-    "version": 65536
+    "base_tid": "0100FF0015708000",
+    "name": "Circa Infinity",
+    "description": "Reach the core of each level by slipping through a series of circular layers. Time your jumps carefully to avoid the creatures that reside within the circles and reach the next layer. As you go deeper, the action gets faster and more challenging! Can you keep up?\n\n50 stages of mind-bending action are waiting for you, with 5 bosses that will test your nerves. You can also test yourself in speedrun mode.\n\nHypnotic visuals and pumping soundtrack will turn up the already intense gameplay experience.\n\nThink of Circa infinity as a live music video, with challenging action and psychedelic graphics!\n\nKey features:\n\n● world of a never-ending circle - Immerse yourself in this hypnotic world\n● dazzling experience - unlike any you've seen before.\n● 50 levels, 5 bosses - with non-stop action!\n● mesmerizing visuals - minimalist, unique style\n● pulse-pounding soundtrack - created by Jack + Jim Fay",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20211105,
+    "first_update_release_date": 20211031,
+    "latest_update_release_date": 20211031,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211031
+    },
+    "versions": {
+        "65536": 20211031
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Test your skills in this brain-melting platformer with an incredible pulse-pounding soundtrack.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

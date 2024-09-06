@@ -1,4 +1,35 @@
 {
     "id": "0100FF5015416800",
-    "version": 65536
+    "base_tid": "0100FF5015416000",
+    "name": "Smashroom",
+    "description": "The faith of the forest is threatened by evil forces. Your new form comes with new abilities. It's up to you to break this spell and save the forest, maybe you'll even get your humanity back!\n\n\"Smashroom\" is an indie platform-adventure.\nThe main character is a small mushroom with the ability to explode at will, making his way through the levels of the game.\nThe explosive-skill can also be used as a \"mid-air jump\" and part of the level design revolves around this characteristic.\nAnother important feature is the simple \"level-up\" system the player can use to improve specific skills, such as the attack rate, the defence, and the special elemental damage. New skill-levels can be reached by collecting points that are obtained from enemies, boxes and destructible rocks.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20210805,
+    "first_update_release_date": 20210830,
+    "latest_update_release_date": 20210830,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210830
+    },
+    "versions": {
+        "65536": 20210830
+    },
+    "category": [
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "A mysterious curse has turned your human body into a small mushroom and your world is invaded by molds, but not all is lost! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

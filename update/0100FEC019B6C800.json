@@ -1,4 +1,43 @@
 {
     "id": "0100FEC019B6C800",
-    "version": 131072
+    "base_tid": "0100FEC019B6C000",
+    "name": "Animal Puzzle Cats",
+    "description": "Discover cats & puzzles in this simple adventure!\n\nPlay alone or with friends! Try your best as an animal puzzle maker. Earn new stages, discover new pictures and try your best! ",
+    "publisher": "RuWaMo Games",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20230124,
+    "latest_update_release_date": 20240714,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240714
+    },
+    "versions": {
+        "65536": 20230124,
+        "131072": 20240714
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Puzzle"
+    ],
+    "intro": "Play with Animal Puzzle Cats!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

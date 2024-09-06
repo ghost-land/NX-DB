@@ -1,4 +1,44 @@
 {
     "id": "0100FF301EBF4800",
-    "version": 131072
+    "base_tid": "0100FF301EBF4000",
+    "name": "Garten of Banban 4",
+    "description": "Nowhere to go but down! Continue where Garten of Banban 3 left off and explore the mysterious underworld! Avoid the unpleasant residents of the facility, make friends with ones who aren’t out to get you, and find your child.\n\nLittle do you know, you are heading down to where no human has been for quite some time…\n\nSurvive the abandoned lower levels of Banban’s Kindergarten:\nWith no direction to go but down, you are forced to delve into even deeper levels of the mysterious establishment that is Banban’s kindergarten. Little do you know, you are heading down to where no human has been for quite some time…\n\nEven more friends to make!\nWith an entire underworld for you to explore and survive, you will be having plenty of opportunities to finally make some friends. Despite the suspicious lack of humans in the entire establishment, you will never feel alone! In Banban’s Kindergarten, there are friends to be made in every corner!\n\nFEATURES\n• Sense of 4boding - There are no humans here but it doesn’t mean you’re alone\n• Drone 4ce - Escape the facility with the help of your trusty drone\n• 4get all you know - Use your head, solve the puzzles, and progress through the underworld\n• Push through - You’re getting somewhere now, don’t get cold feet\n\nAdditional languages: \n- Polish (PL/Polski),\n- Turkish (TUR/Türkçe),\n- Indonesian (IDN/Indonesia),\n- Arabic (AR)",
+    "publisher": "Feardemic",
+    "developer": null,
+    "base_release_date": 20240620,
+    "first_update_release_date": 20240619,
+    "latest_update_release_date": 20240712,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240712
+    },
+    "versions": {
+        "65536": 20240619,
+        "131072": 20240712
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Explore the abandoned underground levels of Banban's Kindergarten, and continue the search for your missing child. Can you find them before the facility's residents find you?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

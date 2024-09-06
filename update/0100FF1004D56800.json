@@ -1,4 +1,37 @@
 {
     "id": "0100FF1004D56800",
-    "version": 196608
+    "base_tid": "0100FF1004D56000",
+    "name": "Ace of Seafood",
+    "description": "You can now openly admit to the desire we all share to become seafood.\nBecause ACE OF SEAFOOD is an action game where you can form a party of up to 6 fish, crustaceans etc. and scavenge the depths of ocean while battling other life forms and increasing the strength of your own forces.\nFish, crabs, squid, sharks, seals... even warships. Open world level design lets you freely explore the sea, taking control of a wide variety of life forms. As you win more battles, you will gain access to more unique and powerful lifeforms.\nBy the way, life forms in this world have the ability to shoot powerful laser beams that can destroy pretty much anything.",
+    "publisher": "Calappa Games",
+    "developer": null,
+    "base_release_date": 20180222,
+    "first_update_release_date": 20180328,
+    "latest_update_release_date": 20181121,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181121
+    },
+    "versions": {
+        "65536": 20180328,
+        "131072": 20180926,
+        "196608": 20181121
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "In the seas of the distant future, humans have all but disappeared.\nNow fish and crustaceans fight great wars, shooting deadly rays of light at each other.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

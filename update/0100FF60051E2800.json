@@ -1,4 +1,36 @@
 {
     "id": "0100FF60051E2800",
-    "version": 131072
+    "base_tid": "0100FF60051E2000",
+    "name": "SUPERBEAT XONiC EX",
+    "description": "Experience SUPERBEAT XONiC EX, the new music game sensation that's bound to have you on the edge of your seat! Enjoy stunning visuals and effects as you play your way through over 70* unique songs, unlocking tonnes of hidden rewards and items! Perform and perfect awesome combos, then show the world you’re the best by climbing the Ranking system!\n\n* Initial total includes seven free songs downloadable from Nintendo eShop.",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20171201,
+    "first_update_release_date": 20171130,
+    "latest_update_release_date": 20191003,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191003
+    },
+    "versions": {
+        "65536": 20171130,
+        "131072": 20191003
+    },
+    "category": [
+        "Music",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "3, 2, 1... Dance!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild coarse language",
+        "Online interactivity"
+    ],
+    "region": null
 }

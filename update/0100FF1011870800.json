@@ -1,4 +1,34 @@
 {
     "id": "0100FF1011870800",
-    "version": 65536
+    "base_tid": "0100FF1011870000",
+    "name": "Depixtion",
+    "description": "Depixtion blends color mixing mechanics with the rules of nonograms to create a uniquely colorful experience.\n\nFeatures:\n- 100 Depixtion Images - 300 Nonogram Puzzles\n- Sizes range from 4x4, 8x8, 12x12, 16x16, 20x20, and 24x24\n- Largest color palette in a Nonogram game to date\n- Hand-crafted puzzles, truly solvable with logic\n- Beginners and Advanced Tutorial. Easy to learn, hard to master!\n- Autosaving. Don't worry about any losing any progress\n\nNonogram?\nNonogram are picture logic puzzles in which cells in a grid are filled in by following the number hints provided on the top and side of the grid. Once all the hints are filled in, a secret image reveals itself!\n\nHaven't I seen this before? \nYou may have! Nonograms have been around for quite some time. You may also know them as Hanjie, Pic-a-Pix, Paint by Numbers, or Griddlers. However, we have a secret twist to our puzzles! Unlike traditional games which limit your puzzle to one grid, our puzzles consist of 3 layers. As a portion of each layer is colored in, the final image will begin to form based on how all 3 layers blend together. Ensure each layer is correct, and you'll reveal the final image and solve the puzzle!",
+    "publisher": "DevHour Games",
+    "developer": null,
+    "base_release_date": 20200410,
+    "first_update_release_date": 20201030,
+    "latest_update_release_date": 20201030,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201030
+    },
+    "versions": {
+        "65536": 20201030
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Education",
+        "Lifestyle"
+    ],
+    "intro": "Welcome to Depixtion, a relaxing puzzle game where you create beautiful works of art using logic.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

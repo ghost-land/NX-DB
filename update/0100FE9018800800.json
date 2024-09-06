@@ -1,4 +1,42 @@
 {
     "id": "0100FE9018800800",
-    "version": 65536
+    "base_tid": "0100FE9018800000",
+    "name": "Jump The Car",
+    "description": "Get ready for spectacular car disintegration! Perform the craziest stunts, and forget about the brakes, because you don't have one...\n- Destructable cars, and environment;\n- Enormous levels full of surprises; \n- Lots of vehicles ready to crash.\nThis is just a fraction of what this game has to offer. So buckle up, and crash to the finish line!",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220804,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220805
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Racing"
+    ],
+    "intro": "Get ready for spectacular car disintegration!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

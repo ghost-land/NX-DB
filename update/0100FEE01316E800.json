@@ -1,4 +1,32 @@
 {
     "id": "0100FEE01316E800",
-    "version": 65536
+    "base_tid": "0100FEE01316E000",
+    "name": "Shisen-Sho NIKAKUdori",
+    "description": "It is a puzzle game that you can play carefully based on the \"Double corner game (Shisen-Sho)\".\nIt is not a fancy type specialized for elements such as acquisition of characters and illustrations,\nAiming for a universal style that can be played by a wide range of people.\nIn addition to the original tiles and items, puzzle elements have been added, making it a definitive version that can be played repeatedly!",
+    "publisher": "RED FLAGSHIP",
+    "developer": null,
+    "base_release_date": 20201105,
+    "first_update_release_date": 20201207,
+    "latest_update_release_date": 20201207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201207
+    },
+    "versions": {
+        "65536": 20201207
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "The definitive edition of the \"Shisen-Sho\" that you can play many times!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

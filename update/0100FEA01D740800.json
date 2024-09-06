@@ -1,4 +1,41 @@
 {
     "id": "0100FEA01D740800",
-    "version": 327680
+    "base_tid": "0100FEA01D740000",
+    "name": "Everafter Falls",
+    "description": "You once had a serene and peaceful existence right here in Everafter Falls. Don't you remember?\n\nYou wake up to discover your previous life was nothing but a simulation. You've no memory of this place, your quaint animal neighbors, the refreshing wind and fragrant flowers, the little farm you had tucked away just outside town, none of it. But once you spend a little time with your forgotten friends and your helpful pet, doesn't Everafter Falls just feel perfect? Isn't it where you always wanted to be?\n\nSure, you'll need to farm, fish and fight your way back to prominence in the tiny, cozy town, but you know your way around a sword, right? You know how to water your farm and progress through the dungeons. You know how to upgrade your stats and beat back tougher and tougher enemies, don't you? Just give those cards a good chomp and you'll have everything you need!\n\nOf course, if you need a little help, don't worry! Automated drones can expand your inventory, tend to your harvest, and even help you fight. And your pet missed you more than anything while you were under. They're here to help out around the farm, learning all sorts of neat things, like tilling your soil, watering your crops, and even teleporting you across the map. What? You've never heard of a teleporting cat before?\n\nIt's Everafter Falls! Things are peaceful here. There's nothing to worry about... right?",
+    "publisher": "Akupara Games",
+    "developer": null,
+    "base_release_date": 20240620,
+    "first_update_release_date": 20240606,
+    "latest_update_release_date": 20240823,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240823
+    },
+    "versions": {
+        "65536": 20240606,
+        "131072": 20240626,
+        "196608": 20240719,
+        "262144": 20240723,
+        "327680": 20240823
+    },
+    "category": [
+        "Simulation",
+        "Multiplayer",
+        "RPG"
+    ],
+    "intro": "Rediscover the simple life. Farm, fish, forge and fight in an all-new farming adventure. Featuring split-screen co-op, a helpful pet, and dangerous dungeons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }
