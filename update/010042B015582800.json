@@ -1,4 +1,44 @@
 {
     "id": "010042B015582800",
-    "version": 196608
+    "base_tid": "010042B015582000",
+    "name": "Spelunker HD Deluxe",
+    "description": "The legendary game \"Spelunker\" is back with a full remake! Overcome difficult obstacles in search of the legendary treasure! It's time to embark on an unknown adventure!\n\nThe cave is full of dangers such as various creatures and nasty traps! The slightest mistake will result in a failure! Use items like bombs, flashes, fans and Spelunker's signature jumping technique to overcome these obstacles!\n\nEnjoy beautiful 3D graphics with a nostalgic 8-bit classic mode! \nPlay with your friends, online and offline!\n\nGame Modes:\n- Adventure Mode\n- Competition Mode\n- Championship Mode\n- Random Mode \"Infinite Cave NEO\"\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20210806,
+    "first_update_release_date": 20210810,
+    "latest_update_release_date": 20211201,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211201
+    },
+    "versions": {
+        "65536": 20210810,
+        "131072": 20210824,
+        "196608": 20211201
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "The legendary game \"Spelunker\" is back with a full remake!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

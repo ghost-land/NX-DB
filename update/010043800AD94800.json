@@ -1,4 +1,35 @@
 {
     "id": "010043800AD94800",
-    "version": 65536
+    "base_tid": "010043800AD94000",
+    "name": "Neverout",
+    "description": "It will lock you down in a room and won't let you escape. Will you survive or ever get out? Your only choice is to find your way to the next room, but watch out, many traps lie ahead. Wander around for hours solving over 60 beautifully crafted levels.\n\nNeverout is a mysterious puzzle game for Nintendo Switch™. It puts you in a small, claustrophobic room that only has one way out and its unique mechanics let every wall become the floor. Watch out for something heavy, getting electrocuted or giant spikes.",
+    "publisher": "Gamedust",
+    "developer": null,
+    "base_release_date": 20180710,
+    "first_update_release_date": 20190506,
+    "latest_update_release_date": 20190506,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190506
+    },
+    "versions": {
+        "65536": 20190506
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Will you survive?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

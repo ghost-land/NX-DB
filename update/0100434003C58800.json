@@ -1,4 +1,35 @@
 {
     "id": "0100434003C58800",
-    "version": 65536
+    "base_tid": "0100434003C58000",
+    "name": "Firefighters – The Simulation",
+    "description": "Buildings ablaze, people screaming and flames shooting several feet high! Welcome to the professional fire brigade. You and your team will experience the exciting work of the professional fire brigade, surviving realistic missions where you extinguish house fires, salvage and neutralize extremely toxic and hazardous substances, and accomplish many other fascinating tasks.\n\nFrom small fires to CBRN defence ops, the professional fire brigade offers a wide range of operations. Track down and analyse dangerous goods, secure dangerous goods transportation and contain escaping liquids. Use the robot to salvage contaminated objects, and save lives!\n\nFEATURES\n•\tA large open world scenario including a city, nuclear power plant, industrial park and countryside\n•\tSearch for radioactive substances, extract smoke from tunnels, combat small fires and major conflagrations\n•\tIncludes special vehicles and equipment like turntable ladders, special robots, tank trucks and hook lift trucks",
+    "publisher": "UIG Entertainment",
+    "developer": null,
+    "base_release_date": 20180424,
+    "first_update_release_date": 20180522,
+    "latest_update_release_date": 20180522,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180522
+    },
+    "versions": {
+        "65536": 20180522
+    },
+    "category": [
+        "Simulation"
+    ],
+    "intro": "Welcome to the professional fire brigade!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

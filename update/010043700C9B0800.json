@@ -1,4 +1,51 @@
 {
     "id": "010043700C9B0800",
-    "version": 458752
+    "base_tid": "010043700C9B0000",
+    "name": "Conduct TOGETHER!",
+    "description": "Conduct TOGETHER! is an addictive game of explosive railway action that will challenge your inner conductor. \n\nConduct everything yourself or hand a Joy-Con controller to a friend for a hectic teamwork of commanding trains, switching tracks and avoiding collisions in increasingly challenging action-puzzles. Play with up to 4 friends for the ultimate party game!\n\nSet in a stunning world you race against time to bring passengers safely to their destination. As you progress through demanding levels your railroad network expands to the farthest regions of this mysterious and beautiful low poly world. Each region with its own style, music and distinct challenges. All aboard!\n\nHere's some rad things in this game\n- Conduct trains in beautiful low-poly 3D worlds\n- Simple and intuitive gameplay, just click to start/stop trains and control switches\n- Seamlessly shift between single and multiplayer. Play through the campaign as the solo conductor or pass a Joy-Con to a friend\n- Transport passengers, earn coins and unlock new themed regions\n- Unlock trains found in the real world, such as the French TGV and Japanese Shinkansen, to expand your train collection\n- Seriously challenging puzzles in clever levels that will push you to the limit\n- Earn awards for completing regions and marvel at your success in the company HQ\n- Fantastic soundtrack by composer Simon Kölle",
+    "publisher": "Northplay",
+    "developer": null,
+    "base_release_date": 20220505,
+    "first_update_release_date": 20181207,
+    "latest_update_release_date": 20240219,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240219
+    },
+    "versions": {
+        "65536": 20181207,
+        "131072": 20190104,
+        "196608": 20190129,
+        "262144": 20220427,
+        "327680": 20231224,
+        "393216": 20240102,
+        "458752": 20240219
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "A Game of Explosive Railroad Action",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

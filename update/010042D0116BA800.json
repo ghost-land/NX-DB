@@ -1,4 +1,37 @@
 {
     "id": "010042D0116BA800",
-    "version": 458752
+    "base_tid": "010042D0116BA000",
+    "name": "索尼克繽紛色彩 究極版（Sonic Colors: Ultimate）",
+    "description": "2010年發售的3D動作遊戲『索尼克繽紛色彩』在Nintendo Switch™上升級再登場！\n在能夠切換3D、2D且充滿立體感的關卡中，越過各式各樣的機關，在其中用超高速衝刺吧！\n本作不僅進行了整體圖像和音效的升級，還追加了新的動作、道具和自訂造型功能等，在添加形形色色的新要素後絢麗地脫胎換骨。\n以巨大的宇宙遊樂園「蛋頭行星樂園」為舞台，玩家將能夠一邊欣賞更加精美的圖像，一邊聆聽重新編曲的BGM，用各色各樣的玩法享受充滿繽紛世界觀的每個關卡。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210909,
+    "first_update_release_date": 20210905,
+    "latest_update_release_date": 20211223,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20211223
+    },
+    "versions": {
+        "131072": 20210905,
+        "262144": 20210922,
+        "327680": 20211101,
+        "393216": 20211122,
+        "458752": 20211223
+    },
+    "category": [
+        "動作"
+    ],
+    "intro": "超音速動作遊戲將色彩繽紛地脫胎換骨！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

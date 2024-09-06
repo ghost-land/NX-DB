@@ -1,4 +1,33 @@
 {
     "id": "010042E01B8E8800",
-    "version": 65536
+    "base_tid": "010042E01B8E8000",
+    "name": "DELTAZEAL",
+    "description": "The graphics that embrace the elaborate pixel art techniques of the 1990s.\n\nShots and bombs, and the power-up system that inherits the virtue of the classic shmup.\n\nNewly recorded gameplay commentary by the developer, who also looks back and reveals what was in his eyes and on his mind at the time of development!",
+    "publisher": "TriangleService",
+    "developer": null,
+    "base_release_date": 20230803,
+    "first_update_release_date": 20230925,
+    "latest_update_release_date": 20230925,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230925
+    },
+    "versions": {
+        "65536": 20230925
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "DELTAZEAL—the classic style vertical screen shmup that appeared in arcades in 2002.\nThe commentary by the developer is also included!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

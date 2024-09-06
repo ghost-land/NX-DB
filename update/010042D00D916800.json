@@ -1,4 +1,39 @@
 {
     "id": "010042D00D916800",
-    "version": 65536
+    "base_tid": "010042D00D916000",
+    "name": "忍兔：胡蘿蔔大戰",
+    "description": "「忍兔：胡蘿蔔大戰」是忍者兔子「忍兔」和忍者狐狸「赤狐」為了找回被惡黨鼴鼠「萌幕府將軍」奪走的許多胡蘿蔔之旅的橫向卷軸疾走動作遊戲。\n在遊戲裡雖然出現了強力且多樣的敵人們，使用許多陷阱來阻擋忍兔和赤狐，但為了擊退他們，獲得多樣的裝備後逐漸強化角色等，充分展現橫向卷軸動作遊戲的趣味。",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20190425,
+    "first_update_release_date": 20210602,
+    "latest_update_release_date": 20210602,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210602
+    },
+    "versions": {
+        "65536": 20210602
+    },
+    "category": [
+        "動作",
+        "射擊",
+        "街機"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

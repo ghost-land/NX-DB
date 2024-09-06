@@ -1,4 +1,37 @@
 {
     "id": "010043301299C800",
-    "version": 196608
+    "base_tid": "010043301299C000",
+    "name": "Harvest Moon: One World",
+    "description": "Grab your pitchfork and get stuck into agricultural life as you harvest crops and tend to the animals on your fledgling farm. Earn money from selling your wares and grow your humble homestead into a thriving estate!\n\nA world of adventure awaits! Your journey will take you through five seamlessly connected regions with vastly different climates, each boasting their own unique flora and fauna.",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20210305,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20210907,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210907
+    },
+    "versions": {
+        "131072": 20210526,
+        "196608": 20210907
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Begin your new life, with a whole world to explore!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General",
+        "In-game purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100429013B88800",
-    "version": 65536
+    "base_tid": "0100429013B88000",
+    "name": "Osyaberi! Puzzle Chigatan ～Spot the Differences with Everyone～",
+    "description": "Up to 4 players can play!\nCrank the fun up to eleven with this spot the difference extravaganza!\nEnjoy non-stop dialogue every time you play!\nMany characters from the “Osyaberi” games make their appearance!\nThe “Chigatan” game that anyone and everyone will enjoy playing, whether alone or with family!\nTime to test your brain by spotting the differences!",
+    "publisher": "CLOUDs Playcompany",
+    "developer": null,
+    "base_release_date": 20210319,
+    "first_update_release_date": 20210317,
+    "latest_update_release_date": 20210317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210317
+    },
+    "versions": {
+        "65536": 20210317
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "A “Spot the Differences” game filled with creative\nillustrations! There are 500 stages! Plus, the puzzles\nare randomly generated each time for never-ending fun!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

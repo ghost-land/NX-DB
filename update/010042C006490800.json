@@ -1,4 +1,38 @@
 {
     "id": "010042C006490800",
-    "version": 65536
+    "base_tid": "010042C006490000",
+    "name": "Bleed",
+    "description": "Wryn is a girl with a big arsenal and big dreams -- she wants to be the ultimate videogame hero! Help her take down the Greatest Heroes of All Time in an action-packed bid to claim the title for herself and show the world what a true hero looks like!\nBleed is an action-platformer focused on stylish, acrobatic dodging and fluid, challenging gameplay. There's no filler -- just you and your skills against seven levels of enemies, obstacles, breakneck set-pieces and inventive bosses!\nKey Features:\n•\tUnique control scheme enabling crazy fast action\n•\t7 levels packed with multiple set-pieces and bosses\n•\t4 difficulty levels that remix enemy placement and boss patterns\n•\t2-player local co-op for all modes (requires at least two Joy-ConTM controllers)\n•\t3 unlockable characters with their own gameplay twists\n•\tSurvive the entire game on one life in Arcade Mode\n•\tSelect and battle up to three bosses at once in Challenge Mode.\n",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20171214,
+    "first_update_release_date": 20180320,
+    "latest_update_release_date": 20180320,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180320
+    },
+    "versions": {
+        "65536": 20180320
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Shoot and dodge in style to become the Greatest Hero of All Time!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

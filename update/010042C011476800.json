@@ -1,4 +1,51 @@
 {
     "id": "010042C011476800",
-    "version": 655360
+    "base_tid": "010042C011476000",
+    "name": "Unrailed!",
+    "description": "Unrailed! is a co-op multiplayer game where you work together with your friends to build a train track across endless procedurally generated worlds. Master random encounters with its inhabitants, upgrade your train and keep it from derailing!\n\nBUILD A TRACK FURTHER THAN EVER BEFORE\nGather resources and craft tracks to extend your railroad to prevent your train from reaching the end. But watch out - there is only one tool of each type. Co-operation and co-ordination of your team is essential to survive this increasingly challenging journey!\n\nPLOUGH YOUR WAY THROUGH THE WORLD\nEvery world is unique! You and your team will have to master ever new challenges to stay on track!\n\nATTACH NEW WAGONS TO MASTER THE UNKNOWN\nUpgrade your train to be prepared for whatever is about to come. Get an atomic engine, upgrade your crafting wagon, attach a supercharger or choose from a vast range of other options.\n\nPLAY WITH OR AGAINST YOUR FRIENDS\nPlay cooperatively with up to four players in a single team or challenge the co-op skills of your friends in a two versus two game.\n\nOVERVIEW\nAn intense and chaotic railroad construction experience\nOnline and local couch co-op multiplayer\nProcedurally generated worlds with different difficulty levels\nDynamic weather system & day and night cycle\nGame modes: Endless, Quick (up to 4 players) and Versus (2 vs 2 players)\nDistinct biomes (5+)\nA bunch of upgradable wagons (10+) to modify your train in Endless mode\nUnlockable characters\nA replay system\nSimple controls & split controller mode\nBlocky to the core",
+    "publisher": "Daedalic Entertainment",
+    "developer": null,
+    "base_release_date": 20211227,
+    "first_update_release_date": 20201123,
+    "latest_update_release_date": 20240814,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240814
+    },
+    "versions": {
+        "131072": 20201123,
+        "196608": 20210202,
+        "327680": 20210408,
+        "458752": 20230313,
+        "524288": 20230429,
+        "589824": 20231128,
+        "655360": 20240814
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "BUILD A TRACK FURTHER THAN EVER BEFORE",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010042900E464800",
-    "version": 65536
+    "base_tid": "010042900E464000",
+    "name": "Motorcycle Mechanic Simulator",
+    "description": "Don't forget to expand your garage! Gather experience to become the best mechanic in town!\n\nFind out how exciting the work of motorcycle mechanics is:\n* Perform repairs and gain experience\n* Buy licenses to repair new motorbikes\n* Take part in used motorbike auctions\n* Improve your workshop, its equipment and tools\n* Choose orders of interest from many available\n* Replace or repair damaged motorcycle parts\n* Perform special tasks and receive rewards\n* Test motorcycles in street traffic",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20200127,
+    "first_update_release_date": 20200213,
+    "latest_update_release_date": 20200213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200213
+    },
+    "versions": {
+        "65536": 20200213
+    },
+    "category": [
+        "Simulation",
+        "Education"
+    ],
+    "intro": "A game that will make you a motorcycle repair expert! You can: buy, sell, bid, collect, repair and improve.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

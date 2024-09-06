@@ -1,4 +1,51 @@
 {
     "id": "010042D00D900800",
-    "version": 589824
+    "base_tid": "010042D00D900000",
+    "name": "LEGO® Star Wars™: The Skywalker Saga",
+    "description": "The galaxy is yours in LEGO® Star Wars™: The Skywalker Saga. Experience memorable moments and nonstop action from all nine Skywalker saga films reimagined with signature LEGO humor.  \n\nThe digital edition includes an exclusive classic Obi-Wan Kenobi playable character.  \n\n● Explore the Trilogies in Any Order – Players will relive the epic story of all nine films in the Skywalker Saga, and it all starts with picking the trilogy of their choice to begin the journey.\n\n● Play as Iconic Heroes and Villains –More than 300 playable characters from throughout the galaxy. \n\n● Discover Legendary Locales – Players can visit well known locales from their favorite Skywalker saga films .They can unlock and have the freedom to seamlessly travel to 23 planets as they play through the saga or explore and discover exciting quests.  \n\n● Command Powerful Vehicles –  More than 100 vehicles from across the galaxy to command.  Join dogfights and defeat capital ships like the Super Star Destroyer that can be boarded and explored. \n\n● Immersive Player Experiences – String attacks together to form combo chains and fend off oncoming attacks. New blaster controls and mechanics allow players to aim with precision, or utilize the skills of a Jedi by wielding a lightsaber and using the power of The Force. \n\n● Upgradable Character Abilities – Exploration rewards players as they uncover Kyber Bricks which unlock new features and upgraded abilities across a range of character classes, including Jedi, Hero, Dark Side, Villain, Scavenger, Scoundrel, Bounty Hunter, Astromech Droid, and Protocol Droid.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220405,
+    "first_update_release_date": 20220330,
+    "latest_update_release_date": 20230504,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230504
+    },
+    "versions": {
+        "65536": 20220330,
+        "131072": 20220405,
+        "196608": 20220407,
+        "262144": 20220519,
+        "327680": 20220531,
+        "393216": 20220704,
+        "458752": 20220818,
+        "524288": 20221028,
+        "589824": 20230504
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

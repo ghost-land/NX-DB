@@ -1,4 +1,38 @@
 {
     "id": "010043600B6A6800",
-    "version": 65536
+    "base_tid": "010043600B6A6000",
+    "name": "South Park™ : The Stick of Truth™",
+    "description": "For a thousand years, the battle has been waged. The sole reason humans and elves are locked in a neverending war: The Stick of Truth. But the tides of war are soon to change as word of a new kid spreads throughout the land. As the moving vans of prophecy drive away, your adventure begins.\n\nEnjoy an authentic South Park experience, written and voiced by Trey Parker & Matt Stone, and jump into an epic quest to become... cool. Join Stan, Kyle, Cartman & Kenny and become South Park's saviour.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20180925,
+    "first_update_release_date": 20190218,
+    "latest_update_release_date": 20190218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190218
+    },
+    "versions": {
+        "65536": 20190218
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Bad Language",
+        "Sex",
+        "Violence"
+    ],
+    "region": null
 }

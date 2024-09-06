@@ -1,4 +1,32 @@
 {
     "id": "0100435014C9E800",
-    "version": 65536
+    "base_tid": "0100435014C9E000",
+    "name": "Later Alligator",
+    "description": "Hey! You! The hard-boiled reptile I can definitely see holding this game. You’re the perfect person to help Pat the Alligator uncover the secret behind the mysterious “event” his family’s planning for him in the heart of Alligator New York City. ",
+    "publisher": "Pillow Fight",
+    "developer": null,
+    "base_release_date": 20210419,
+    "first_update_release_date": 20210430,
+    "latest_update_release_date": 20210430,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210430
+    },
+    "versions": {
+        "65536": 20210430
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Explore Alligator New York City, play dozens of minigames, solve a big mystery, and save a little alligator named Pat!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

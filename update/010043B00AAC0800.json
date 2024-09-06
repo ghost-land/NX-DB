@@ -1,4 +1,42 @@
 {
     "id": "010043B00AAC0800",
-    "version": 131072
+    "base_tid": "010043B00AAC0000",
+    "name": "Remnants of Naezith",
+    "description": "Feel the acceleration in this fast-paced grappling hook platformer, Remnants of Naezith.\n\nIt focuses on having freedom of movement, solid character control and not having any speed limitations. The fun of swinging with grappling hooks and the amazing feel of acceleration makes a great combination in this game.\n\nYou play as Kayra, a human who shares his body with the soul of Naezith, the ancient thunder dragon. With the powers granted to him by the dragon, Kayra will destroy the Remnants of Naezith, enchanted fragments of the dragon's body, to prevent anyone from exploiting their power for evil.\n\nLEVEL SELECTION\n• Proceed through four chapters with 20 branching levels in each.\n\nSECRET LEVELS\n• Find the hidden remnants to unlock secret levels.\n\nLEADERBOARD\n• Watch top player replays and improve your skills to ascend.\n\nGLOBAL RANKINGS\n• Get a badge depending on your overall performance and compete worldwide.\n\nGHOSTS\n• Race against other people's best times or your own.\n\nSPEEDRUN MODE\n• Try going through the entire game or a specific chapter as fast as possible.\n\nCUSTOM LEVELS\n• Explore the countless levels made by the community and design your own.",
+    "publisher": "Tolga Ay",
+    "developer": null,
+    "base_release_date": 20200612,
+    "first_update_release_date": 20200701,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20200701,
+        "131072": 20230714
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Racing"
+    ],
+    "intro": "With the powers granted to him by the dragon, Kayra will destroy the remnants. Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook platformer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

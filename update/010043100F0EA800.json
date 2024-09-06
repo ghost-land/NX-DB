@@ -1,4 +1,35 @@
 {
     "id": "010043100F0EA800",
-    "version": 131072
+    "base_tid": "010043100F0EA000",
+    "name": "Puzzle Book",
+    "description": "Puzzle book offers 35 different puzzles to solve, divided into themes - from fantasy to dinosaurs. Arts for this game were made by artist specialized in various styles. They are beautiful paintings of creatures and landscapes or simpler drawings for kids. There is something for everyone! \n\nSpeaking of everyone, you can adjust the difficulty by selecting the number of fragments per puzzle - from 6 to as much as 150! It’s a great title for both children and adults. Add peaceful music that plays in the background and you’ve got a great, relaxing afternoon.\n\nHungry for some competition? Or you just want to assemble pieces with friends or family? Try co-op mode! Just share a Joy-Con™ with another person and start doing puzzles together. \n\nFeatures: \n\n- 35 different puzzles to solve, divided into themes.\n- Each stage has 6 difficulties - from 6 pieces to 150.\n- Beautiful arts created by various artists.  \n- Play solo or with a friend in co-op mode.\n- Use the touchscreen or Joy-Con controller ",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20191011,
+    "first_update_release_date": 20200814,
+    "latest_update_release_date": 20210910,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210910
+    },
+    "versions": {
+        "65536": 20200814,
+        "131072": 20210910
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Training",
+        "Utility"
+    ],
+    "intro": "If you’re missing the magic of doing jigsaw puzzles, then you’ve come to the right place!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

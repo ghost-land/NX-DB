@@ -1,4 +1,42 @@
 {
     "id": "010043500A17A800",
-    "version": 131072
+    "base_tid": "010043500A17A000",
+    "name": "Fallout Shelter",
+    "description": "Fallout Shelter puts you in control of a state-of-the-art underground Vault from Vault-Tec. Build the perfect Vault, keep your Dwellers happy, and protect them from the dangers of the Wasteland.\n\nBUILD THE PERFECT VAULT\nCreate a brighter future…underground! Select from a variety of modern-day rooms to turn an excavation beneath 2,000 feet of bedrock into the very picture of Vault Life.\n\nOVERSEE A THRIVING COMMUNITY \nGet to know your Dwellers and lead them to happiness. Find their ideal jobs and watch them flourish. Provide them with outfits, weapons, and training to improve their abilities.\n\nCUSTOMIZE\nTurn worthless junk into useful items with Crafting! Customize the look of any dweller in the Barbershop.\n\nPROSPER\nA well-run Vault requires a variety of Dwellers with a mix of skills. Build a Radio Room to attract new Dwellers. Or, take an active role in their personal lives; play matchmaker and watch the sparks fly! \n\nEXPLORE THE WASTELAND \nSend Dwellers above ground to explore the blasted surface left behind and seek adventure, handy survival loot, or unspeakable death. Find new armor and weapons, gain experience, and earn Caps. But don’t let them die!\n\nPROTECT YOUR VAULT\nFrom time to time, idyllic Vault life may be disrupted by the dangers of post-nuclear life. Prepare your Dwellers to protect against threats from the outside…and within.\n\nVault-Tec has provided the tools, but the rest is up to you. What are you waiting for? Get started building your Vault today for FREE.",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20220315,
+    "first_update_release_date": 20180731,
+    "latest_update_release_date": 20181129,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181129
+    },
+    "versions": {
+        "65536": 20180731,
+        "131072": 20181129
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "A Better Life, Underground",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Violence",
+        "Suggestive Themes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,48 @@
 {
     "id": "0100437004170800",
-    "version": 524288
+    "base_tid": "0100437004170000",
+    "name": "Portal Knights",
+    "description": "Prove yourself a Portal Knight by levelling up your character, crafting epic weapons, and vanquishing foes in real-time in this cooperative, 3D sandbox action RPG.\n\nExplore dozens of randomly-generated islands! Build almost anything! In a world torn apart by the Fracture and terrorized by the Hollow King, you and your friends are its only hope!\n\n- RPG character classes including warrior, ranger and mage.\n\n- Tactical action combat.\n\n- Epic boss battles.\n\n- Travel between randomly generated 3D sandbox worlds.\n\n- Meet the colorful inhabitants of the land, complete their quests, and recruit them to your home.\n\n- Architect your own island! Create AMAZING structures quickly and easily in Creative Mode!\n\n- Mine and gather resources from across the lands to craft your arsenal and supplies.\n\n- Build your home with dozens of materials and furnishings.\n\n- Join your friends in 4-person cooperative multiplayer and 2 player split screen. \n\n- Random Events.",
+    "publisher": "505 Games",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20171219,
+    "latest_update_release_date": 20200312,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20200312
+    },
+    "versions": {
+        "65536": 20171219,
+        "131072": 20180516,
+        "196608": 20181010,
+        "262144": 20181107,
+        "327680": 20190729,
+        "393216": 20190913,
+        "458752": 20200224,
+        "524288": 20200312
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Craft your adventure. Forge your hero. Become the ultimate Portal Knight!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100436013EF6800",
-    "version": 65536
+    "base_tid": "0100436013EF6000",
+    "name": "ConnecTank™",
+    "description": "Making deliveries is never an easy job. But throw in huge and unique destructive tanks you have to battle into the mix? That's life as a new courier for Finneas Fat Cat XV, one of the top tycoons in New Pangea! \n \nLuckily, you'll have a mammoth sized tank of your own when you go out on deliveries. Connect conveyor belts and blast enemy tanks with ammo you craft in the heat of battle. Fund new ammo and gizmos to take down even the most terrifying of tanks! Collect different parts from the tanks you defeat, and you'll be able use those tanks too! \n \nDo you have what it takes to become Finneas Fat Cat's top fixer? And spread his name and wealth even wider? Finneas is counting on you, old bean! ",
+    "publisher": "Natsume Inc.",
+    "developer": null,
+    "base_release_date": 20210928,
+    "first_update_release_date": 20210922,
+    "latest_update_release_date": 20210922,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210922
+    },
+    "versions": {
+        "65536": 20210922
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Puzzle"
+    ],
+    "intro": "WARNING!! A HUGE TANK BATTLE IN NEW PANGEA!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
