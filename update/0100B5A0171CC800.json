@@ -1,4 +1,43 @@
 {
     "id": "0100B5A0171CC800",
-    "version": 65536
+    "base_tid": "0100B5A0171CC000",
+    "name": "Toodee and Topdee",
+    "description": "Toodee and Topdee is a 2D Platformer and a Top-Down Puzzler hybrid.\nSwitch between Toodee and Topdee and their unique perspectives, and watch how the game bends to the rules of the current genre.\nSolve mind-melting puzzles!\nOvercome hard-as-nails challenges in the precision platforming sections of the game.\nIf you're having a hard time, you can modify some of the game rules in the difficulty settings.\nMeet strange friends on your quest to find the missing semicolon and return the balance to the universe.\nBut also... Defeat huge BOSSES!\nAfraid to go alone? You can play with a friend in the local CO-OP mode.\nAnd don't tell anybody... There are secrets…",
+    "publisher": "diet zribi",
+    "developer": null,
+    "base_release_date": 20220414,
+    "first_update_release_date": 20220923,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20220923
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

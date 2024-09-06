@@ -1,4 +1,37 @@
 {
     "id": "0100B5001A6A8800",
-    "version": 65536
+    "base_tid": "0100B5001A6A8000",
+    "name": "Arcade Archives POLE POSITION",
+    "description": "\"POLE POSITION\" is a racing game released by NAMCO (Bandai Namco Entertainment) in 1982.\nThe game is divided into qualifying and grand prix. If you make a lap in the qualifying round with a good time, you will advance to the grand prix.\nUse your driving technique to win the POLE POSITION!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230706,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": "KEEP IT TIGHT! \nHUG THOSE CURVES!!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

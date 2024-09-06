@@ -1,4 +1,34 @@
 {
     "id": "0100B5B0113CE800",
-    "version": 65536
+    "base_tid": "0100B5B0113CE000",
+    "name": "Troubleshooter",
+    "description": "Troubleshooter is a top-down arcade shooter. Fight through endless waves of unsuspecting dinosaurs and prove you are the best!  \nGrab a friend and rampage together.  Use meteors showers and upgrades to your advantage.\n \nKey features:\n- Co-op mode\n- Endless gameplay\n- Weapon upgrades\n- Customization options\n- Awesome music\n- Boss fights\n- Llamas",
+    "publisher": "Kodobur Yazilim",
+    "developer": null,
+    "base_release_date": 20200306,
+    "first_update_release_date": 20200306,
+    "latest_update_release_date": 20200306,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200306
+    },
+    "versions": {
+        "65536": 20200306
+    },
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Why did dinosaurs go extinct? Bad weather? Meteors? Or because of a maniac with rainbow hair? Who knows!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

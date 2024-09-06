@@ -1,4 +1,39 @@
 {
     "id": "0100B4900AD3E800",
-    "version": 262144
+    "base_tid": "0100B4900AD3E000",
+    "name": "NEKOPARA Vol.1",
+    "description": "\"NEKOPARA\", a famous PC adventure game that has sold over 2 million copies of series worldwide, is out for Nintendo Switch™!\n\n\"NEKOPARA\" is available in (Traditional & Simplified) Chinese, English, and Japanese, and will be sent to the Masters all around the world!\n\n□ Story\nMinaduki Kashou leaves a family-run traditional Japanese sweets (Wagashi) shop and opens his own cake shop, \"La Soleil\", as patissier.\n\nHowever, inside the luggage sent from the house was a mixture of human look-alike Nekos, Chocola and Vanilla.\nHe tried to send them back, but their desperate appeal for his sympathy, Kashou went one step back.\nEventually, \"La Soleil\" has opened with a person and two Nekos.\n\nFor our beloved Master\nThe Heartful Neko comedy, with two Nekos doing their best while making some mistakes, is open for business!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20180823,
+    "first_update_release_date": 20180805,
+    "latest_update_release_date": 20200122,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200122
+    },
+    "versions": {
+        "65536": 20180805,
+        "131072": 20181014,
+        "196608": 20190214,
+        "262144": 20200122
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Communication"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Nudity"
+    ],
+    "region": null
 }

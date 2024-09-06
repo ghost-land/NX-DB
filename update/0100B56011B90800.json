@@ -1,4 +1,34 @@
 {
     "id": "0100B56011B90800",
-    "version": 196608
+    "base_tid": "0100B56011B90000",
+    "name": "Regina & Mac",
+    "description": "Join the macaw Regina and the tyrannosaurus Mac on their adventure as they try to escape a lifeless research lab. The only way out? To find the golden Floppy discs on which the memory of the lab’s computer system U64 is stored so that it can help the duo to find an exit. Regina & Mac is a 3D platformer that stands in the tradition of the classics from the late 90s and offers a fair challenge even for genre aficionados.",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20200831,
+    "latest_update_release_date": 20210617,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210617
+    },
+    "versions": {
+        "65536": 20200831,
+        "131072": 20201120,
+        "196608": 20210617
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Platforming like it is 1998!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

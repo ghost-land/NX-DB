@@ -1,4 +1,39 @@
 {
     "id": "0100B5600A88C800",
-    "version": 196608
+    "base_tid": "0100B5600A88C000",
+    "name": "WHIP! WHIP!",
+    "description": "Tira the dessert hunter explores ruins to uncover the recipe required to revive a dessert from ages past.\nAncient machines known as golems are also buried within these ruins.\nOne day, Tira discovers a golem shaped like a mitten and finds out the legendary dessert she's been searching for is real.\nHead out in search of the legendary recipe!\n\n・An 8-bit style action game!\n・Toss the mitten to grab the enemy and attack.Defeat all enemies on the screen.\n・Two player co-op available. A partner can jump in anytime during solo play.\n・Work together to beat all 100 stages.\n・Plenty of delicious desserts to share!\n・Sound by COSIO from ZUNTATA.",
+    "publisher": "Alpha-Unit",
+    "developer": null,
+    "base_release_date": 20180614,
+    "first_update_release_date": 20180628,
+    "latest_update_release_date": 20180711,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180711
+    },
+    "versions": {
+        "65536": 20180628,
+        "131072": 20180702,
+        "196608": 20180711
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

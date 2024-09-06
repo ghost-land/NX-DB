@@ -1,4 +1,35 @@
 {
     "id": "0100B5B00E77C800",
-    "version": 196608
+    "base_tid": "0100B5B00E77C000",
+    "name": "Get Over Here",
+    "description": "GetOverHere is a dynamic and competitive arena game that brings out the nostalgic feel of the 90's. The player takes control of a character with a hook gun, where his goal is to pull his enemies and finish them off.",
+    "publisher": "Flux Games",
+    "developer": null,
+    "base_release_date": 20210113,
+    "first_update_release_date": 20210123,
+    "latest_update_release_date": 20210429,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210429
+    },
+    "versions": {
+        "65536": 20210123,
+        "196608": 20210429
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

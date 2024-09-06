@@ -1,4 +1,41 @@
 {
     "id": "0100B5D018F70800",
-    "version": 131072
+    "base_tid": "0100B5D018F70000",
+    "name": "Fashion Friends",
+    "description": "\nFashion is better together with your friends!\n\nBecome a stylist to the models, actresses and fashion girls! Play a mix of classic arcade games where you have to cut the picture in a new game aimed for children and adults alike.\n\n\n- 80 levels!\n- Hundreds of mix betweens costumes, backgrounds and items!\n- Photo mode!\n- Three stars system, giving the game replayability!\n- Affordable price!\n- Aimed at kids & adults alike!\n- Become friends with Fashion! \n",
+    "publisher": "RuWaMo Games",
+    "developer": null,
+    "base_release_date": 20220929,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240731,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240731
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20240731
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Lifestyle"
+    ],
+    "intro": "Become a friend with fashion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

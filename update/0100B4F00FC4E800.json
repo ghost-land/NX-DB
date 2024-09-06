@@ -1,4 +1,37 @@
 {
     "id": "0100B4F00FC4E800",
-    "version": 196608
+    "base_tid": "0100B4F00FC4E000",
+    "name": "eSports Legend",
+    "description": "Esports Legend is a Esports club simulator. \nYou are here to make a unknown amateur team world-famous within several seasons! \nHundreds of members with unique personalities and skills are waiting for you to recruit! Else than the four major leagues, there are dozens of cups to challenge. \nBe the winner, win the prize and make your team legendary! ",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20200423,
+    "first_update_release_date": 20200608,
+    "latest_update_release_date": 20201203,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201203
+    },
+    "versions": {
+        "131072": 20200608,
+        "196608": 20201203
+    },
+    "category": [
+        "Simulation"
+    ],
+    "intro": "You are here to make an unknown amateur team world-famous within several seasons! Be the winner, win the prize and make your team legendary! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Themes"
+    ],
+    "region": null
 }

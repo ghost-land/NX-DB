@@ -1,4 +1,32 @@
 {
     "id": "0100B49010544800",
-    "version": 131072
+    "base_tid": "0100B49010544000",
+    "name": "ソロモンプログラム 先ドリ体験版",
+    "description": "バトルせよ！ゲットせよ！そしてプログラミングせよ！！\n4×4＝16の『フレーズリング』で『メカニズム』を組んで、お前だけのモンスターを作れ！！\nモンスターをプログラミングしてバトルだ！！",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20200116,
+    "first_update_release_date": 20200115,
+    "latest_update_release_date": 20200205,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200205
+    },
+    "versions": {
+        "65536": 20200115,
+        "131072": 20200205
+    },
+    "category": [
+        "ストラテジー",
+        "シミュレーション",
+        "その他"
+    ],
+    "intro": "プログラミングがゲームと超合体！\nそう、これがミライのゲームだ！！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

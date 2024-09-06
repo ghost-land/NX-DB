@@ -1,4 +1,46 @@
 {
     "id": "0100B5200BB7C800",
-    "version": 524288
+    "base_tid": "0100B5200BB7C000",
+    "name": "ToeJam & Earl: Back in the Groove!",
+    "description": "ToeJam and Earl have crash-landed back on Earth in ToeJam & Earl: Back in the Groove!, a funky fresh roguelike adventure infused with old skool hip-hop and jam-packed with awesome throwbacks to the 1991 classic. Original Funk Lord (and co-creator) Greg Johnson is back at the helm with the sequel that ToeJam and Earl fans have been waiting for! \n\nThe iconic ‘90s duo is back in the groove with all-new presents to help them navigate this wack planet \"Earth\" and retrieve all the lost pieces to the Rapmaster Rocket. Team up for 4-player co-op play to discover secret locations, hidden presents, and new friends as you make your way through a constantly changing and unpredictable world! \n\nToeJam & Earl: Back in the Groove! is a mash-up of the very best features of the classic console games with a ton of fresh improvements. Grab some homies and get ready for a blast of funky nostalgia as you help ToeJam and Earl return once again to Funkotron.",
+    "publisher": "HumaNature Studios",
+    "developer": null,
+    "base_release_date": 20190301,
+    "first_update_release_date": 20190225,
+    "latest_update_release_date": 20210504,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20210504
+    },
+    "versions": {
+        "131072": 20190225,
+        "196608": 20190328,
+        "262144": 20190606,
+        "327680": 20190619,
+        "393216": 20191011,
+        "458752": 20200108,
+        "524288": 20210504
+    },
+    "category": [
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Crude Humour",
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100B4D00C76E800",
-    "version": 65536
+    "base_tid": "0100B4D00C76E000",
+    "name": "JUMANJI: The Video Game",
+    "description": "Unite in adventure and laughter in the action-packed game of Jumanji, as you try to survive the ultimate challenge for those seeking to leave their world behind!\n\nOnly you and three teammates can recover the JEWELS and save Jumanji. Gather friends for split-screen play, or go alone with AI companions.  There’s an army of evil marauders to take on, deadly beasts and traps to dodge, and cool customizations to unlock. And with heroes Dr. Bravestone, Ruby, Mouse, and Prof. Oberon as your avatars, you know you’ve got the unique abilities – and hilarious failings – to save the day!\n\n• RETURN TO THE JUNGLE – Play as movie heroes Dr. Bravestone, Ruby, Mouse, and Prof. Shelly in a hilarious new 3D action adventure\n\n• TEAM UP – In split-screen modes, work together with up to three friends or AI teammates to defeat enemies, survive deadly traps, and save the world \n\n• DANGEROUS LOCATIONS – The world of Jumanji gets bigger with beautiful but deadly new mountain, city and jungle environments\n\n• ENDLESS ADVENTURE – As you hone your skills and strategies, and unlock new outfits and weapon styles, no two rounds of Jumanji are ever the same!",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20191206,
+    "first_update_release_date": 20191108,
+    "latest_update_release_date": 20191108,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191108
+    },
+    "versions": {
+        "65536": 20191108
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Enter the dangerous world of Jumanji for the ultimate team action adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild fantasy violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

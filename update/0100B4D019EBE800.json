@@ -1,4 +1,32 @@
 {
     "id": "0100B4D019EBE800",
-    "version": 65536
+    "base_tid": "0100B4D019EBE000",
+    "name": "流行り神２ 警視庁怪異事件ファイル",
+    "description": "「友達の友達から聞いた話なんだけど…」\n希薄な関係を介して伝え広められた、嘘か真かも定かではない奇妙な話――都市伝説。\n首なしライダー、トイレの花子さん、人面犬なども有名な都市伝説の一つです。\n\n『流行り神２』は、都市伝説にまつわる不可解な現象、謎をモチーフにしています。\n日常の片隅に存在する僅かな違和感、そこから発展する常識では考えられない出来事を、\n科学的見地とオカルト的見地の二つの側面から捉えていく選択肢型アドベンチャーゲームです。\n",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20230727,
+    "first_update_release_date": 20230810,
+    "latest_update_release_date": 20230810,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230810
+    },
+    "versions": {
+        "65536": 20230810
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "嘘か真かもさだかではない奇妙な話―――都市伝説",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "恐怖"
+    ],
+    "region": null
 }

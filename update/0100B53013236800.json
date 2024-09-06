@@ -1,4 +1,42 @@
 {
     "id": "0100B53013236800",
-    "version": 131072
+    "base_tid": "0100B53013236000",
+    "name": "Kaptain Brawe: A Brawe New World",
+    "description": "Step into the world of interstellar travel, where Space Pirates lurk at every corner. Kaptain Brawe, a Space Police officer will embark on a journey filled with quests, conspiracies and general chaos, as he and his friends follow the lead of two kidnapped alien scientists.\n\n- reveal the greatest conspiracy in the Space Age\n- travel and explore 4 planets\n- play with 3 different characters: Brawe, Luna and Danny\n- be a part of an intriguing and hilarious storyline\n- meet the space pirates, Interstellar government, secret agents and more\n- two game-play modes: Hard-Core and Casual\n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20201015,
+    "first_update_release_date": 20201106,
+    "latest_update_release_date": 20210924,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210924
+    },
+    "versions": {
+        "65536": 20201106,
+        "131072": 20210924
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Reveal the greatest conspiracy in the Space Age!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

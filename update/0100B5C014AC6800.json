@@ -1,4 +1,42 @@
 {
     "id": "0100B5C014AC6800",
-    "version": 65536
+    "base_tid": "0100B5C014AC6000",
+    "name": "Infernal Radiation",
+    "description": "On Halloween Island, engineers test the innovative way of generating heat. The roots of the power plant reach deep into the earth, all the way to the heart of Hell, where the reactors obtain energy from burning souls. When an accident happens, the infernal radiation contaminates the earth. Inhabitants living in defiled areas struggle with numerous possessions. An exorcist is needed.\n\nGame features:\n- Very simple gameplay, very difficult opponents.\n- Dynamic clashes.\n -20 demons with unique abilities and battle patterns.\n- A dark history of the island hidden in the reports of the possessed.\n- Help of the rescued residents.\n- Free exploration of the rich world.\n- A lot of dark humour. \n- The choice of the order of exorcisms.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20210505,
+    "first_update_release_date": 20210521,
+    "latest_update_release_date": 20210521,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210521
+    },
+    "versions": {
+        "65536": 20210521
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Smash demons and deflect bullets in a hardcore arcade clicker with the RPG elements. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null
 }

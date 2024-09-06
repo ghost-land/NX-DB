@@ -1,4 +1,35 @@
 {
     "id": "0100B59019E5E800",
-    "version": 65536
+    "base_tid": "0100B59019E5E000",
+    "name": "Headbangers in Holiday Hell",
+    "description": "You didn't buy a hideous woolly jumper. You didn't buy, gift and receive enough presents. Worst of all, you didn't even get a Christmas tree! Now Santa Claus is sending his craziest minions to quell your non-conformist antics. Let's introduce them to the untamed power of Heavy Metal!\n\nHeadbangers in Holiday Hell is a twin stick roguelite full of heavy metal and comedy.\n\nFree your fellow Headbangers from hordes of insane Christmas critters, and then it’s time to take on Santa Claus himself! \n\n\nFeatures\n* Mix of heavy metal and Christmas humor\n* Choose from different zany weapons\n* Procedurally generated levels\n* Awesome metal music",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20221221,
+    "first_update_release_date": 20221229,
+    "latest_update_release_date": 20221229,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221229
+    },
+    "versions": {
+        "65536": 20221229
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "A raging, metal rebellion against cheesy Christmas",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }
