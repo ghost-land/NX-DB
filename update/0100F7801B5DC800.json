@@ -1,4 +1,36 @@
 {
     "id": "0100F7801B5DC800",
-    "version": 131072
+    "base_tid": "0100F7801B5DC000",
+    "name": "Of the Red, the Light, and the Ayakashi Tsuzuri",
+    "description": "Yue is a young boy, born in a mountain shrine in the town of Utsuwa. \nOne day, he attends the winter festival together with his childhood friend, a black fox named Kurogitsune. \nThe lanterns burn bright red, and the people are buzzing. As Yue sees the outside world for the first time in his life, he meets two mysterious boys.\nUpon returning to the mountain, the owner of the shrine, Mikoto, told him.\nPrepare the \"meal\".\n\n\n● Of the Red, the Light, and the Ayakashi\nA PC game released in 2011, the second released by the dojin group HaccaWorks*. \nIt has been adapted into a comic book (10 volumes total), a novel, drama CD, as well as other media. \nIn 2014 it was re-released on the PSP gaming system with a major revision of the main scenario, and with full voices, a prequel, and a new ending. \nThis new version of the game has all the content of the PSP version, but is now even easier to play, available on the Nintendo Switch™!\n\n\n≪Nintendo Switch Edition Added Content≫\n・Digital illustration collection\n・Updated game specifications and UI\n・Multilingual Support (Japanese/English/Traditional Chinese/Simplified Chinese)",
+    "publisher": "HuneX",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240228,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20240228,
+        "131072": 20240419
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A modern Japanese-style fantasy story involving Yue, a young boy born and raised at a shrine, and his friendship with the \"Ayakashi\" spirits.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

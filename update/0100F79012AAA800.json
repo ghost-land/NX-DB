@@ -1,4 +1,39 @@
 {
     "id": "0100F79012AAA800",
-    "version": 196608
+    "base_tid": "0100F79012AAA000",
+    "name": "SUPER METBOY!",
+    "description": "\"SUPER METBOY!\" features the main character \"METBOY\",\nIt is a \"casual arcade action\" title in which you defeat enemies with MET BLADE.\n\nWhen you press the action button, METBOY fires a blade at the same time as they jump, and those blades can cause damage to enemies.\nA wave is clear when you defeat a certain number of enemies. A boss will appear when you clear the specified wave.\n\nWhen you defeat the boss, a \"drink vending machine\" will appear, with special abilities to find such as \"Giant Shot\".\nYou can buy drinks with various special effects.\n\nIn addition, you can use the points you earn as you play to purchase enhanced chips.\nYou can go on an adventure as you equip chips and become stronger.\n\nIn addition, the Nintendo Switch™ version supports \"cooperative play\" and \"competitive battle\" with up to 4 players!\nMETBOY, METGIRL, METBOMBER, METNINJA, METKNIGHT, METVIKING, METSNIPER, and more.\nLet's meet the challenge together with unique characters!\n",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20210305,
+    "first_update_release_date": 20210409,
+    "latest_update_release_date": 20220119,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220119
+    },
+    "versions": {
+        "65536": 20210409,
+        "131072": 20210423,
+        "196608": 20220119
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Cooperative & competitive play with up to 4 players!\nFun pick up and play arcade action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

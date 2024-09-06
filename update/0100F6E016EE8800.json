@@ -1,4 +1,50 @@
 {
     "id": "0100F6E016EE8800",
-    "version": 917504
+    "base_tid": "0100F6E016EE8000",
+    "name": "Shishi : Timeless Prelude",
+    "description": "Shishi : Timeless Prelude is a colorful dungeon role-playing game. As Elia, a young mage, you will explore the depths of a sacred sanctuary to complete your training to become an Oracle.\n\nChosen by the Goddess, the young Elia is about to start a great adventure to protect the kingdom. However, she must first complete her training. As she explores the Timeless Sanctuary, Elia becomes stronger and learns spells that will be essential to succeed the trial.\n\nCOLORFUL EXPLORATION!\nDefend yourself against various creatures while you explore a colorful dungeon!\n\nSEE YOU IN ANOTHER TIMELINE!\nEach run takes place in a new timeline, which means you will discover different rooms, encounter new enemies and more!\n\nNOTHING CAN BEAT AN ORACLE!\nFight enemies in turn-based battles with the spells and items you will find during your exploration and show that you are ready to save the world!",
+    "publisher": "Shishi Studios",
+    "developer": null,
+    "base_release_date": 20220531,
+    "first_update_release_date": 20220526,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20220526,
+        "131072": 20220603,
+        "196608": 20220625,
+        "262144": 20220826,
+        "327680": 20220829,
+        "393216": 20221030,
+        "458752": 20221208,
+        "524288": 20230113,
+        "589824": 20230307,
+        "655360": 20230322,
+        "720896": 20230720,
+        "786432": 20231123,
+        "851968": 20240319,
+        "917504": 20240719
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

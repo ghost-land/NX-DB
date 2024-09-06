@@ -1,4 +1,39 @@
 {
     "id": "0100F7B00B864800",
-    "version": 131072
+    "base_tid": "0100F7B00B864000",
+    "name": "Pipe Push Paradise",
+    "description": "Pipe Push Paradise is a challenging, plumbing-based puzzle game. You've arrived on a lonely island faced with a hero's calling. Rise to the occasion (push pipes around) and restore this paradise to its former glory.\n\nFeatures:\n\n• Pipes\n•Tile -based gameplay\n• 47 elegant puzzles packed with surprising mechanical twists\n• Lush and relaxing art and music by Teodoro Zamudio\n",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20181224,
+    "first_update_release_date": 20181211,
+    "latest_update_release_date": 20190110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190110
+    },
+    "versions": {
+        "65536": 20181211,
+        "131072": 20190110
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Plumb in the sun",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

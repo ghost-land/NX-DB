@@ -1,4 +1,33 @@
 {
     "id": "0100F7301A672800",
-    "version": 65536
+    "base_tid": "0100F7301A672000",
+    "name": "Shootvaders: The Beginning",
+    "description": "Your mission: blast out of this galaxy and find an exotic new planet and new possibilities for all of humanity. We have reports there are hostile forces gathering from all corners of the universe. The alien scum will stop at nothing to destroy you!\n\nStory:\nYour mission briefing, Captain Dorin Fischer, is to save the future of humanity by finding a place for us to live. Your training has prepared you to drop into a combat trance as you mow down endless aliens hostiles, but to succeed you'll need expert combat reflexes and piloting skills.\n\nEnemies will come in waves. Stay alive as long as possible to collect salvage to upgrade your ship. But your enemies are improving too, each wave they will get stronger. The only path to the promised new world is to travel through space-time: a gateway between galaxies. Be warned, touching a crystal inside the gate could have dire consequences.\n\nGood luck, Captain!\n\nArcade style shooter with colorful explosions.\n2 Player co-op ( fire friendly but not crash friendly).\n4 weapons for your spaceship.\n6 Spaceship Upgrades of 4 levels each.\n12 weapons ( 6 human & 6 alien weapons).",
+    "publisher": "7 Raven Studios",
+    "developer": null,
+    "base_release_date": 20230629,
+    "first_update_release_date": 20230804,
+    "latest_update_release_date": 20230804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230804
+    },
+    "versions": {
+        "65536": 20230804
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Arcade style shooter with colorful explosions.\n2 Player co-op ( fire friendly but not crash friendly).\n4 weapons for your spaceship.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

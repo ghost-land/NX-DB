@@ -1,4 +1,45 @@
 {
     "id": "0100F7B002340800",
-    "version": 458752
+    "base_tid": "0100F7B002340000",
+    "name": "FIFA 18",
+    "description": "There is a newer release in this EA Sports franchise. Check out the latest release for all new gameplay features.\n\nEA SPORTS™ FIFA 18 blurs the line between the virtual and real worlds, bringing to life the players, teams, and atmospheres that immerse you in the emotion of The World’s Game. Celebrate with the addition of football’s biggest tournament: the 2018 FIFA World Cup Russia™. Available to FIFA 18 owners through a free* content update on May 29.",
+    "publisher": "Electronic Arts",
+    "developer": null,
+    "base_release_date": 20170929,
+    "first_update_release_date": 20170922,
+    "latest_update_release_date": 20180829,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20180829
+    },
+    "versions": {
+        "65536": 20170922,
+        "131072": 20171030,
+        "196608": 20171206,
+        "327680": 20180529,
+        "393216": 20180612,
+        "458752": 20180829
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "FIFA 18, Now Including 2018 World Cup Update",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

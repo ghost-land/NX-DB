@@ -1,4 +1,40 @@
 {
     "id": "0100F75016A72800",
-    "version": 262144
+    "base_tid": "0100F75016A72000",
+    "name": "Day of the Dead: Solitaire Collection",
+    "description": "Greetings, living one. Are you ready to tackle this new Solitaire adventure with a twist? Take a deep breath and dive into this fantastic journey on \"Dia de los Muertos\", the Day of the Dead - Find collectible cards to customize your own deck and decorate a cemetery to welcome the souls from the Land of the Dead.\n\nFeatures:\n* 20 chilling Day of the Dead decorations to purchase\n* Decorate a cemetery to welcome the souls from the Land of the Dead\n* Over 35 collectible cards to customize your own deck\n* 100 challenging levels with 3 rounds each - 300 exclusive layouts\n* Devious obstacles and challenging tasks to completes\n* 10 special boosters to help you beat the levels",
+    "publisher": "Green Sauce Games",
+    "developer": null,
+    "base_release_date": 20220107,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20231126,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231126
+    },
+    "versions": {
+        "131072": 20221218,
+        "196608": 20231022,
+        "262144": 20231126
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Dive into this chilling Solitaire adventure and decorate a cemetery to welcome the souls from the Land of the Dead.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

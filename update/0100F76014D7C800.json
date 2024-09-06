@@ -1,4 +1,47 @@
 {
     "id": "0100F76014D7C800",
-    "version": 262144
+    "base_tid": "0100F76014D7C000",
+    "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
+    "description": "Blast Brigade vs. The Evil Legion of Dr. Cread is a 2D metroidvania adventure inspired by the popcorn-chomping thrills of '80s action flicks. Explore and backtrack through a colorful comic-style world, using your platforming skills, puzzle-solving wits, and an explosive arsenal of weapons and abilities to save the world!\n\nGET THE TEAM TOGETHER! \nSwitch between four playable characters on the fly, each equipped with unique abilities to help you progress! Blast off with all-American hero Jeff, channel the deadly rage of Shura, decommission enemies as the cyborg Scotsman Galahad, and help the chakram-wielding Vortex reclaim her island.\n\nEXPLORE A METROIDVANIA WORLD! \nDr. Cread's island may look as pretty as a postcard, but this ain't no holiday in the sun! Explore, backtrack, and trailblaze non-linear routes through gorgeous, interconnected levels. Discover the secrets of unique biomes and regions like jungle villages, cliffside prisons, volcanoes, and ancient temples!\n\nCRUSH MONSTROUS BOSSES! \nTest your mettle in epic boss fights against hybrid monstrosities, giant robots, cyborg ninjas, and other evil minions – all baying for your blood. Make full use of different heroes' skills and weapons to stay on top!\n\nUNLEASH WEAPONS & ABILITIES! \nOvercome puzzles and enemies with special abilities — crash the party with Jeff's grenade launcher, reach new areas with Shura's grappling hook, and warp around with Vortex's chakram teleporter. Need more firepower? Seek out new modules to upgrade your weapons arsenal!\n\nSAVE THE WORLD! \nUnravel the evil plans of Dr. Cread in a 20+ hour, action-packed story campaign with fully voice-acted cutscenes. Assemble the Blast Brigade, master their skills, and storm the island to bring this heinous villain and his legion to justice – once and for all!",
+    "publisher": "MY.GAMES",
+    "developer": null,
+    "base_release_date": 20220413,
+    "first_update_release_date": 20220413,
+    "latest_update_release_date": 20240902,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240902
+    },
+    "versions": {
+        "131072": 20220413,
+        "262144": 20220524,
+        "393216": 20240902
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "A 2D metroidvania adventure inspired by '80s action movies",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

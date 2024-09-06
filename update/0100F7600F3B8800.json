@@ -1,4 +1,49 @@
 {
     "id": "0100F7600F3B8800",
-    "version": 393216
+    "base_tid": "0100F7600F3B8000",
+    "name": "Tangle Tower",
+    "description": "Freya Fellow has been murdered. The lead suspect? A shadowy figure found looming over her body, wielding a knife. The problem? That suspect... is just a painting.\n\nInvestigate the entirety of Tangle Tower, from the bizarre and eerie gardens, to the cold and ominous crime scene at the very top.\n\nWill you be able to uncover the secrets of Tangle Tower?\n\n• A fully voiced and animated cast of characters\n• Atmospheric original orchestral soundtrack\n• Beautiful digitally painted environments to explore",
+    "publisher": "SFB Games",
+    "developer": null,
+    "base_release_date": 20240307,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20211011,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20211011
+    },
+    "versions": {
+        "65536": 20191014,
+        "131072": 20191019,
+        "196608": 20191115,
+        "262144": 20200611,
+        "327680": 20211007,
+        "393216": 20211011
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Unravel a thrilling mystery by exploring a strange and twisted mansion, discovering curious clues, interrogating peculiar suspects and solving unique puzzles.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

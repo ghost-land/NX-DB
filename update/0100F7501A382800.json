@@ -1,4 +1,43 @@
 {
     "id": "0100F7501A382800",
-    "version": 65536
+    "base_tid": "0100F7501A382000",
+    "name": "Animal Hospital",
+    "description": "Manage a veterinary hospital and take care of your adorable patients in this video game for animal lovers!\n\n- Decorate and customise your own animal care facility \n- Take in and examine animals from around the world: cats, dogs, pandas, foxes, koalas… and even magical creatures like unicorns!\n- Play mini-games to make the best diagnosis and give your patients the best care\n- Look after their well-being while they recover by giving them treatment, food, water and lots of affection \n- Develop your hospital and unlock new equipment so you can treat a wider range of illnesses \n- Find out how much fun being a veterinarian can be!",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20231019,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20231013
+    },
+    "category": [
+        "Simulation",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood"
+    ],
+    "region": null
 }

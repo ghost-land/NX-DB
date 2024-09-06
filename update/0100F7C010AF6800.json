@@ -1,4 +1,42 @@
 {
     "id": "0100F7C010AF6800",
-    "version": 65536
+    "base_tid": "0100F7C010AF6000",
+    "name": "Tin & Kuna",
+    "description": "Rock and Roll.  \n\nSpin and smash through the colorful, chaotic worlds of Tin & Kuna. Explore levels filled with puzzles and peril. As Kuna collects power crystals, he obtains special abilities; jumping higher, catching fire, and attaching to magnetic objects to rescue Tin. Use all your skills and abilities to bring the world into balance and defeat Chaos!",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20200910,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20200819,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200819
+    },
+    "versions": {
+        "65536": 20200819
+    },
+    "category": [
+        "Action",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100F77017314800",
-    "version": 196608
+    "base_tid": "0100F77017314000",
+    "name": "Kung Fury: Street Rage - ULTIMATE EDITION",
+    "description": "A BRAND NEW HT-3000 CARTRIDGE GAME PACKED WITH:\n\n* ENDLESS ARCADE-STYLE BEAT ‘EM UP NAZI FIGHTS\n* PRO TIPS FROM HACKERMAN IN THE HACKADEMY PRACTICE MODE\n* SINGLE PLAYER STORY CAMPAIGN\n* 2-PLAYER COOP STORY CAMPAIGN\n* HASSELHOFF AS A PLAYABLE CHARACTER\n* 5 HEROES WITH THEIR OWN ULTIMATE POWERS",
+    "publisher": "Hello There Games",
+    "developer": null,
+    "base_release_date": 20230320,
+    "first_update_release_date": 20230322,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230322
+    },
+    "versions": {
+        "196608": 20230322
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "GET BLOWN INTO ANOTHER DIMENSION AS YOU EXPERIENCE THE GUT-BUSTING FUN WITH THE KUNG FURY GAME. BEAT THE NAZIS TO STOP KUNG FÜHRER AND UPHOLD THE LAW!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

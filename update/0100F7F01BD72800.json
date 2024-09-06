@@ -1,4 +1,41 @@
 {
     "id": "0100F7F01BD72800",
-    "version": 65536
+    "base_tid": "0100F7F01BD72000",
+    "name": "On Rusty Trails",
+    "description": "You, a robot named Elvis, are living in a world that’s ever suspicious of appearances - just like its hostile inhabitants.\nEquipped with your Shifty Suit, you’re able to change your looks in seconds and take advantage of the environment’s reaction. If you don’t adapt, platforms refuse to work, save points don’t save, and jump pads become deadly traps.\n\nDiscover rusty suburbs, perishing cities, massive factories and mysterious machines. Experience the escalating conflict between two peoples, while running up walls, jumping across chasms and flying through streams of lava. Expect to be dazzled by an ever-changing environment with fresh mechanics.",
+    "publisher": "Black Pants Studio",
+    "developer": null,
+    "base_release_date": 20231116,
+    "first_update_release_date": 20231214,
+    "latest_update_release_date": 20231214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231214
+    },
+    "versions": {
+        "65536": 20231214
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Conformity is everything in this lightning-fast platformer - get ready to shift your friendships each and every second!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

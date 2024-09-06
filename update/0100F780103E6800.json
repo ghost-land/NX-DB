@@ -1,4 +1,42 @@
 {
     "id": "0100F780103E6800",
-    "version": 65536
+    "base_tid": "0100F780103E6000",
+    "name": "The Forgotten Land",
+    "description": "\"The Forgotten Land\" is a turn-based \"Combat & Puzzle Match 3\" with streamlined RPG and Management elements in a Dark Fantasy setting.\n\n⬤ Set up your camp!\n⬤ Show your combat skills!\n⬤ Develop your own strategy! \n⬤ Level up!\n⬤ Test your mettle!",
+    "publisher": "Rokaplay",
+    "developer": null,
+    "base_release_date": 20200625,
+    "first_update_release_date": 20200810,
+    "latest_update_release_date": 20200810,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200810
+    },
+    "versions": {
+        "65536": 20200810
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Fighting",
+        "Strategy"
+    ],
+    "intro": "Match 3 with RPG and Management elements",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100F7C012D68800",
-    "version": 196608
+    "base_tid": "0100F7C012D68000",
+    "name": "Juiced!",
+    "description": "An evil wizard is searching for the Eternal Crystals to power his malicious machine. Help treasure hunter Tiko in his epic quest to find the crystals and save the galaxy from certain doom!\n\nJuiced! is a 2d adventure platformer with exciting gameplay, unique puzzles and challenging bosses.\n\nFeatures:\n-Exciting 2d platform gaming\n-Single and multiplayer co-op\n-Intriguing storyline\n-Challenging and funny puzzles\n-Fight 80 different enemies\n-Discover 30 unique weapons and powerups\n-15 unique worlds and boss battles\n-Over 10hrs of playtime\n-Tons of secret collectibles and bonus stages\n-Adjustable difficulty\n-Unlockable challenges (Time Trial and YOLO)\n-Unlockable outfits\n-More than 40 tracks of catchy synthesizer music",
+    "publisher": "TimothyvanderHoeven",
+    "developer": null,
+    "base_release_date": 20201008,
+    "first_update_release_date": 20201120,
+    "latest_update_release_date": 20210701,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210701
+    },
+    "versions": {
+        "65536": 20201120,
+        "131072": 20201203,
+        "196608": 20210701
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover the secret of the magic crystals in this epic 2d platformer! Travel through colourful worlds packed with unique enemies, wacky weapons and challenging bosses!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

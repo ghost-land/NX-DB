@@ -1,4 +1,35 @@
 {
     "id": "0100F6F014CB6800",
-    "version": 131072
+    "base_tid": "0100F6F014CB6000",
+    "name": "Beatus Creation Solitaire",
+    "description": "Play with VTuber super crew “Beatus Creation” in the classic card game\n“Spider Solitaire”!\n\nUnlock new themes, illustrations, and stamps designed based on each member of Beatus Creation using the coins you earn each time you clear a stage.\n\nUse the stickers to decorate your sticker book and create your very own album!\n\n- Each member of the Beatus Creation crew voices each character\n- 70 puzzles to solve ranging from easy to hard difficulty levels\n- User-friendly functions such as “Hints” and “Redo (once)” are available in-game\n- Simple controls for quick and easy gameplay to enjoy during your free time",
+    "publisher": "Beatus Creation",
+    "developer": null,
+    "base_release_date": 20220526,
+    "first_update_release_date": 20220601,
+    "latest_update_release_date": 20220726,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220726
+    },
+    "versions": {
+        "65536": 20220601,
+        "131072": 20220726
+    },
+    "category": [
+        "Board Game"
+    ],
+    "intro": "Breaking barriers just to meet you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }
