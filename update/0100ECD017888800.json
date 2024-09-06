@@ -1,4 +1,43 @@
 {
     "id": "0100ECD017888800",
-    "version": 65536
+    "base_tid": "0100ECD017888000",
+    "name": "Life of Delta",
+    "description": "Life of Delta is a point-and-click adventure game set in a post-apocalyptic world.\n\nAfter the Great War, all humans are wiped out. The only survivors are decaying service robots and humanoid lizards that were born from a long nuclear fallout. \n\nOur story follows Delta, who is a small service robot and like any other robot, he is just trying to survive in this harsh environment. One day he is forced to embark on a journey through a vast post-apocalyptic world in order to find his lost friend. Because of his small size, he needs to use all of his wits to overcome all dangerous scenarios and challenges. \n\nKey Features:\n\n-25 hand-painted levels of post-apocalyptic Japan and hundreds of carefully handcrafted character animations\n-You will be solving over 50 engaging mini-games such as building spaceship engines and mixing toxic potions\n-Interact with various characters throughout the game, each with a unique story to tell\n-Fully animated cutscenes to paint a more interesting story\n-Beautiful original soundtrack",
+    "publisher": "Daedalic Entertainment",
+    "developer": null,
+    "base_release_date": 20230313,
+    "first_update_release_date": 20230313,
+    "latest_update_release_date": 20230313,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230313
+    },
+    "versions": {
+        "65536": 20230313
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Embark on a journey through a vast post-apocalyptic world",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

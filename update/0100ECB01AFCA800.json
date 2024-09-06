@@ -1,4 +1,37 @@
 {
     "id": "0100ECB01AFCA800",
-    "version": 327680
+    "base_tid": "0100ECB01AFCA000",
+    "name": "Warriors of the Nile 2",
+    "description": "Warriors of the Nile are back!\n\nBuilding up on the original version's [Turn-based Strategy+Roguelite] framework, in Warriors of the Nile 2 you will once again experience iconic fast-paced, exhilarating combat. This time, you will lead warriors blessed by Egyptian gods and fight against the invading Roman army.\n\nChoose your adventure route. Strategize and make preparations amidst ever-changing stage conditions, then move with precision as you fire away. Create a unique skill build by choosing from an array of skill tablets.\n\nWhat's different from the original version is, in the new Warriors of the Nile squad, each character possesses a trademark skillset. Not only have attack modes changed, but the new feature-packed individual system will bring an all-new dynamic into the game.\n\nChoose a suitable skillset tablet for you, be it making a clean sweep at the battlefield, using multi-phased attacks and chain attacks to break through enemy lines, or using charge attack leaps to take out the back row......\n\nAwaken the gods' blessings at key moments to unleash Miracle and turn the tides in your favor!\n\nChoose your route in adventure mode, visit merchants, and challenge powerful enemies;\nLight up carvings to gain more battle bonuses;\nBuild a capital and restore the glory of pharaohs past;\nLevel up your warriors to unlock new tablets and equipment.",
+    "publisher": "Gamera Games",
+    "developer": null,
+    "base_release_date": 20230921,
+    "first_update_release_date": 20230919,
+    "latest_update_release_date": 20231031,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231031
+    },
+    "versions": {
+        "131072": 20230919,
+        "262144": 20230929,
+        "327680": 20231031
+    },
+    "category": [
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Warriors of the Nile 2 is a fast-paced Roguelite strategy game. This time our Warriors are equipped with a more unique combat style. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

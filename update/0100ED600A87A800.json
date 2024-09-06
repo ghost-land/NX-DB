@@ -1,4 +1,44 @@
 {
     "id": "0100ED600A87A800",
-    "version": 131072
+    "base_tid": "0100ED600A87A000",
+    "name": "Minit",
+    "description": "Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute. Minit is a collaboration between Kitty Calis, Jan Willem Nijman, Jukio Kallio & Dominik Johann.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230613,
+    "first_update_release_date": 20181004,
+    "latest_update_release_date": 20190511,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190511
+    },
+    "versions": {
+        "65536": 20181004,
+        "131072": 20190511
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Minit is a peculiar little adventure played sixty seconds at a time.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

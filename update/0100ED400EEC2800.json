@@ -1,4 +1,41 @@
 {
     "id": "0100ED400EEC2800",
-    "version": 327680
+    "base_tid": "0100ED400EEC2000",
+    "name": "STORY OF SEASONS: Friends of Mineral Town",
+    "description": "Your farming life begins in Mineral Town, a charming village surrounded by nature. You've returned after many years to restore your late grandfather's farm to its former glory. Care for crops, livestock, and more as your very own story of seasons unfolds.\n\n▪Tend to the Farm!\nA rich variety of fruits, veggies, and livestock are waiting for you. Raise them all with love and care, and you'll have plenty of products to harvest, sell, or cook with!\n\n▪Stroll Down Memory Lane!\nMineral Town is full of friendly faces, both old and new! Head into town, give gifts, and learn all about your neighbors as you befriend them.\n\n▪Fall in Love!\nMineral Town is home to several eligible bachelors and bachelorettes. Get to know the boy or girl of your dreams, and you might be able to date them, get married, and even start a family!\n\n▪There's More to Explore!\nGo fishing, cook fresh meals, and when your work's all said and done, take a dip in the local hot spring. Experience the farmer's life like never before!",
+    "publisher": "Marvelous (XSEED)",
+    "developer": null,
+    "base_release_date": 20210416,
+    "first_update_release_date": 20200713,
+    "latest_update_release_date": 20220317,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220317
+    },
+    "versions": {
+        "65536": 20200713,
+        "131072": 20200805,
+        "196608": 20200916,
+        "262144": 20201001,
+        "327680": 20220317
+    },
+    "category": [
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "Experience the joys of life on the farm in this reimagining of a timeless STORY OF SEASONS classic!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violência",
+        "Conteúdo Sexual",
+        "Drogas Lícitas"
+    ],
+    "region": null
 }

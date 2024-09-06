@@ -1,4 +1,45 @@
 {
     "id": "0100EC8004762800",
-    "version": 851968
+    "base_tid": "0100EC8004762000",
+    "name": "KORG Gadget for Nintendo Switch",
+    "description": "Award-winning music creation software KORG Gadget is now available for the Nintendo Switch™. Plentiful instrumental gadgets combined with a simple and intuitive graphical interface enable speedy music creation. With this new music creation studio, one can create and perform music by actively twisting and turning the Joy-Con™. \n\nThere is also a multi-player mode in which up to four people can collaborate in making music. Connect via an HDMI cable to enjoy playing on the TV in your living room, or use it with a projector for big live performances. Everyone can enjoy this new game-like DAW experience.",
+    "publisher": "DETUNE",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20180627,
+    "latest_update_release_date": 20210202,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20210202
+    },
+    "versions": {
+        "65536": 20180627,
+        "131072": 20180919,
+        "196608": 20181213,
+        "262144": 20190327,
+        "327680": 20190416,
+        "393216": 20190703,
+        "458752": 20190808,
+        "524288": 20200129,
+        "589824": 20200326,
+        "655360": 20200528,
+        "720896": 20200611,
+        "786432": 20201106,
+        "851968": 20210202
+    },
+    "category": [
+        "Music",
+        "System Tool",
+        "Utility",
+        "Party"
+    ],
+    "intro": "Play Games. Make Music.\nA Music Creation Studio That Feels Like a Game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

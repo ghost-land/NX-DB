@@ -1,4 +1,37 @@
 {
     "id": "0100EC7009348800",
-    "version": 65536
+    "base_tid": "0100EC7009348000",
+    "name": "Rogue Aces",
+    "description": "It’s time to join the Rogue Aces and liberate the islands from The Baron and his dreaded pilots. Will you be able to face the fiercest of foes with only one life and three planes? \n\nTake down waves of dastardly enemies in this endlessly emergent air combat rogue-like where nothing is the same twice. With a multitude of game modes to discover, no loading screens to stutter the action and a whole lot of landscape to take back, jump in the cockpit and take back what’s yours!\n",
+    "publisher": "Thalamus Digital",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20180522,
+    "latest_update_release_date": 20180522,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180522
+    },
+    "versions": {
+        "65536": 20180522
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Join the Rogue Aces today as Wings Mc.Pilot & Co, in this procedurally generated, adrenaline-fuelled fight to the last plane! Avoid incoming fire from land, sea and air while taking back the captured land from The Baron!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

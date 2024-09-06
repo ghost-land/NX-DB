@@ -1,4 +1,35 @@
 {
     "id": "0100ECD01165C800",
-    "version": 65536
+    "base_tid": "0100ECD01165C000",
+    "name": "Shmubedi Boo",
+    "description": "Trouble has occurred in the lands of Shmubedi Boo! An evil rabbit stole supplies of apples from the inhabitants of the city. Help stop the villain and bring the stolen apples home.\n\n• It's more fun together.\nPlay with your friends on the same screen. Who will defeat all the bosses and save the inhabitants of Shmubedi Boo?\n\n• Real hardcore.\n100+ levels of increasing difficulty, 5 unique bosses, tons of bonuses, traps and monsters await you on your way.\n\n• Majestic heroes.\n7 heroes to choose from. Try to play for each of them.\n\n• Apple shop.\nWould you like to buy yourself a hat or an ice bomb to freeze your friend?\nNo problem! In our apple shop, your hero can even buy a life for himself, if you have enough apples, of course.\n\n• Purgatory of Heroes.\nTry your luck in the purgatory to cheat death itself.",
+    "publisher": "Dmytro Derybas",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20210917,
+    "latest_update_release_date": 20210917,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210917
+    },
+    "versions": {
+        "65536": 20210917
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,29 @@
 {
     "id": "0100ECD0180F0800",
-    "version": 65536
+    "base_tid": "0100ECD0180F0000",
+    "name": "猫様とアウトローズ",
+    "description": "Regista×なんかいいねの脱出ゲーム第22弾！！\n\n■ゲームシステム\n脱出ゲーム(謎解きアドベンチャーゲーム)です。\n※画面をカーソルで選び、様々な仕掛けを解くことでゲームが進行していきます。\n\nこれまでのシリーズにはなかった「思い出」コレクションの参照ができます。\n\n■物語\n猫様たちが住まうある商店街にて、\n3匹の猫の怪盗団が商店から猫缶を盗みだした。\n商店街の中を探索し、盗まれた猫缶を取り戻そう。",
+    "publisher": "レジスタ",
+    "developer": null,
+    "base_release_date": 20220519,
+    "first_update_release_date": 20220617,
+    "latest_update_release_date": 20220617,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220617
+    },
+    "versions": {
+        "65536": 20220617
+    },
+    "category": [
+        "パズル"
+    ],
+    "intro": "盗まれた猫缶を取り戻して\n猫たちの食糧問題を解決しよう！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100ED000D390800",
-    "version": 196608
+    "base_tid": "0100ED000D390000",
+    "name": "Dr Kawashima's Brain Training for Nintendo Switch",
+    "description": "Get ready to challenge your brain in a variety of ways in Dr Kawashima’s Brain Training for Nintendo Switch! Enjoy new exercises, some of them making use of the right Joy-Con’s IR Motion Camera, or tap and train with classic exercises from past Brain Training games that you can play using a stylus (included with the packaged version from retail stores) or your finger. It’s in your hands!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20200103,
+    "first_update_release_date": 20191222,
+    "latest_update_release_date": 20200212,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200212
+    },
+    "versions": {
+        "131072": 20191222,
+        "196608": 20200212
+    },
+    "category": [
+        "Education"
+    ],
+    "intro": "How old is your brain?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Very mild themes"
+    ],
+    "region": null
 }

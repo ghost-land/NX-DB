@@ -1,4 +1,40 @@
 {
     "id": "0100ED100B160800",
-    "version": 327680
+    "base_tid": "0100ED100B160000",
+    "name": "Evoland Legendary Edition",
+    "description": "Evoland is a journey through the history of action/adventure gaming, allowing you to unlock new technologies, gameplay systems and graphic upgrades as you progress through the game. Inspired by many cult series that have left their mark in the RPG video gaming culture, Evoland takes you from monochrome to full 3D graphics and from active time battles to real time boss fights, all with plenty of humor and references to many classic games.\n\nEvoland 2 graphics style is changing as you travel through time and its gameplay evolves as you move along the storyline. It is also a real RPG at heart, with a deep scenario based on time travel: explore different eras and change the history of the world. But are you sure that the consequences will not make things worse?\n\nFull of humor and references to classic games, the Evoland series brings a truly epic and extraordinary adventure, unlike anything you’ve ever played before!",
+    "publisher": "Shiro Games",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190124,
+    "latest_update_release_date": 20200131,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200131
+    },
+    "versions": {
+        "65536": 20190124,
+        "131072": 20190219,
+        "196608": 20191219,
+        "262144": 20191219,
+        "327680": 20200131
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Evoland Legendary Edition brings you two great and unique RPGs, with their graphic style and gameplay changing as you progress through the game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

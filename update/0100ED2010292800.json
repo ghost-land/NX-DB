@@ -1,4 +1,44 @@
 {
     "id": "0100ED2010292800",
-    "version": 196608
+    "base_tid": "0100ED2010292000",
+    "name": "Gleamlight",
+    "description": "Welcome to Gleamlight – a 2D action game that will take you through an adventure traversing a beautiful, transient world.\n\nImmerse yourself amid the beautiful stained glass artistry as you navigate without the reliance of any standard game UI, while tracing the world’s mysterious unspoken story.\nWhat will you, as Gleam, sense and feel through your travels across this beautiful, yet fearsome world of glass?\n\n◆A World Made of Glass\nThe world beautifully unfurls before you with lush trees, boulders of all sizes, and various paraphernalia, all in the form and shape of glass. Prepare to explore this fantastical world where light warms the glass and darkness stains it with bitter cold.\n\n◆A Game Without UI\nThe game has been designed to immerse players into the world and story without being obstructed by any standard game UI, allowing players to organically enjoy the action and tension of defeating enemies and traversing the world.\n\n◆An Unspoken Story\nThe story behind what happened in this world, and what is to come is up to you as the player. Discover and piece together the story through your adventure, and save this beautiful, transient world of glass.",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20200820,
+    "first_update_release_date": 20201028,
+    "latest_update_release_date": 20210616,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210616
+    },
+    "versions": {
+        "131072": 20201028,
+        "196608": 20210616
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "This is a story of light - of Gleam, in a world of glass stained in darkness.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

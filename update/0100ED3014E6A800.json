@@ -1,4 +1,36 @@
 {
     "id": "0100ED3014E6A800",
-    "version": 393216
+    "base_tid": "0100ED3014E6A000",
+    "name": "Spider Solitaire Collection",
+    "description": "Do you love Spider Solitaire (also known as \"Spider\" or \"Spider Patience\"), but want a bigger challenge?\nNow you can play Spider Solitaire and other popular variants with different levels of difficulty.\n\nThe collection contains:\n• Beeswax\n• Black Widow\n• Curds and Whey\n• Mrs. Mop\n• Scorpion\n• Simple Simon\n• Spider\n• Spiderette\n• Tarantula\n• Wasp\n\nPlus 10 more...\n\n\nFeatures:\n• Unlimited undo\n• Auto complete\n• Statistics\n• Rules for each game",
+    "publisher": "eSolutions Nordic",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20211112,
+        "131072": 20211214,
+        "196608": 20211217,
+        "262144": 20220124,
+        "327680": 20220311,
+        "393216": 20220923
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "20 popular Spider games in one",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

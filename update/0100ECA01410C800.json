@@ -1,4 +1,36 @@
 {
     "id": "0100ECA01410C800",
-    "version": 196608
+    "base_tid": "0100ECA01410C000",
+    "name": "Raiden IV x MIKADO remix",
+    "description": "Raiden IV, the popular shoot 'em up arcade and console game, debuts on Nintendo Switch with remixed background music by a superb lineup of artists produced by GAME CENTER MIKADO.\n\nInstill fear in your enemies with devastating attacks and earn the acclaimed title of master Ace!\n\nFeatures:\n- Supports 1 - 2 players (offline)\n- New remixed background music produced by GAME CENTER MIKADO (exclusively on Nintendo Switch)\n- Switch between the “Mikado Remix” BGM set and the “Original” BGM set\n- A full suite of game modes including arcade mode, overkill mode, and more\n- Supports vertical screen play to recreate the full arcade experience\n- Global leaderboard to track the best Aces in the world",
+    "publisher": "UFO Interactive",
+    "developer": null,
+    "base_release_date": 20210506,
+    "first_update_release_date": 20210527,
+    "latest_update_release_date": 20220225,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220225
+    },
+    "versions": {
+        "65536": 20210527,
+        "196608": 20220225
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": "THE ROAR OF THUNDER IS BACK!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }
