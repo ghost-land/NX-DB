@@ -1,4 +1,34 @@
 {
     "id": "0100E3C01E67A800",
-    "version": 65536
+    "base_tid": "0100E3C01E67A000",
+    "name": "Parking Jam",
+    "description": "Navigate through an overfilled parking lot and move cars out of the way to help them all escape! \n\nThe thought of a parking jam can be overwhelming at first, but don't worry—with a bit of strategy and quick thinking, you can clear the traffic jam and free the cars!  \n\nThis parking lot has many vehicles, including small cars, trucks, and SUVs. The jams get increasingly more complicated with each level. Show off how smart you are by clearing them all! \n\nTry your luck in 5 different game modes:  \n•  Parking Jam - Feel the satisfaction of clearing a traffic jam  \n•  Challenges - Move cars to free the special vehicle  \n•  Boss Levels - Show off your skills with limited moves  \n•  Lot Management - Think quickly to take the cars to their lots  \n•  Hexa Parking - Feel brilliant by solving unique puzzles \n\nFeatures: \n- face over 350 levels!  \n- play in five game modes: Parking Jam, Challenges, Boss Levels, Lot Management, and Hexa Parking \n- face off against a friend in local multiplayer mode!   \n- complete levels to unlock new maps \n- use powerups to disable hurdles, freeze people, destroy vehicles, and crush entire lanes! \n- collect keys and open prize chests \n- earn coins and spend them on car skins, powerups and trails \n\nSee what it takes to clear the traffic jam and escape the parking lot!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20240816,
+    "first_update_release_date": 20240827,
+    "latest_update_release_date": 20240827,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240827
+    },
+    "versions": {
+        "65536": 20240827
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "Can you get your car out of a jammed parking lot? Let's find out!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

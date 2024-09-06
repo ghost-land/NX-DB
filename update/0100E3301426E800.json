@@ -1,4 +1,39 @@
 {
     "id": "0100E3301426E800",
-    "version": 262144
+    "base_tid": "0100E3301426E000",
+    "name": "Tux and Fanny",
+    "description": "Tux and Fanny just want to play soccer but their soccer ball is deflated. Go on an epic adventure to help them inflate their ball. Play as both Tux and Fanny as well as a cat and a flea. All four characters will have to work together if you’re going to inflate the ball. \n\nPlay a multitude of diverse mini-games which you'll collect as you progress through your journey, each with their own unique rewards. There are secrets hidden at every turn in the world of Tux and Fanny. Can you find them all?",
+    "publisher": "Means Interactive",
+    "developer": null,
+    "base_release_date": 20210909,
+    "first_update_release_date": 20210917,
+    "latest_update_release_date": 20220714,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220714
+    },
+    "versions": {
+        "65536": 20210917,
+        "131072": 20211029,
+        "196608": 20211210,
+        "262144": 20220714
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Other"
+    ],
+    "intro": "When you take a closer look, everything is an adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

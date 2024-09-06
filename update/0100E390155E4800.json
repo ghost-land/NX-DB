@@ -1,4 +1,54 @@
 {
     "id": "0100E390155E4800",
-    "version": 851968
+    "base_tid": "0100E390155E4000",
+    "name": "Haven Park",
+    "description": "\"I'm getting older, my dear, and I'm not able to take care of the park any longer... Will you help me bring the life back into this place?\"\n\nBe Flint, who is doing his very best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests.\n\nGet to know the campers and and learn more about the old stories surrounding the forest. Did someone mention a lost treasure?\n\nHaven Park is a place to relax, to enjoy and to make your own!\n\nKey Features\n- Explore a tiny and peaceful open world and build cozy campsites at your own pace\n- Plenty of quests and a heartfelt story keep you busy for 2-4 hours with many little secrets to uncover\n- Learn new skills that help you make the campers even happier\n- Meet lots of charming characters and learn their needs to make them fall in love with Haven Park",
+    "publisher": "Mooneye Studios",
+    "developer": null,
+    "base_release_date": 20210805,
+    "first_update_release_date": 20210726,
+    "latest_update_release_date": 20221220,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20221220
+    },
+    "versions": {
+        "65536": 20210726,
+        "131072": 20210802,
+        "196608": 20210812,
+        "262144": 20210817,
+        "327680": 20210823,
+        "393216": 20210906,
+        "458752": 20210908,
+        "524288": 20211028,
+        "589824": 20211108,
+        "655360": 20211222,
+        "720896": 20220204,
+        "851968": 20221220
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "a tiny exploration game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

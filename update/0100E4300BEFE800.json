@@ -1,4 +1,35 @@
 {
     "id": "0100E4300BEFE800",
-    "version": 262144
+    "base_tid": "0100E4300BEFE000",
+    "name": "ラングリッサーⅠ＆Ⅱ",
+    "description": "正統派戦術型シミュレーションRPG「ラングリッサー」シリーズが現代に甦る！\nシリーズの原点となる「Ⅰ」＆「Ⅱ」をフルリメイク！\nビジュアルリファイン、シナリオのフルボイス化、UIやシステム面の最適化など、様々な要素を携えて復活！",
+    "publisher": "KADOKAWA",
+    "developer": null,
+    "base_release_date": 20190418,
+    "first_update_release_date": 20190417,
+    "latest_update_release_date": 20200429,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200429
+    },
+    "versions": {
+        "65536": 20190417,
+        "131072": 20190424,
+        "196608": 20191030,
+        "262144": 20200429
+    },
+    "category": [
+        "シミュレーション",
+        "ロールプレイング"
+    ],
+    "intro": "遙かなる時を超え・・・ 伝説の秘剣が、今解き放たれる。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }

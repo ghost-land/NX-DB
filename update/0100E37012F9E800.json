@@ -1,4 +1,37 @@
 {
     "id": "0100E37012F9E800",
-    "version": 196608
+    "base_tid": "0100E37012F9E000",
+    "name": "罪惡帝國",
+    "description": "遊戲舞台為1920年代的美國芝加哥。在禁酒令的施行之下，那是一個由不法之徒主導一切的動盪時代。遊戲目的是稱霸這座由黑幫老大們彼此角逐地位的城市，玩家必須在艾爾·卡彭等個性獨特的「14位老大」中選擇1人來進行遊戲。\n\n為了站上頂點，不擇手段才是明智之舉。藉由私釀酒廠與賭場支配地下社會的經濟並收買警察。從殺手到密醫，挖角各種人才與其他勢力對抗。將敵對組織全數摧毀，稱霸這個世界吧！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210225,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20210224,
+        "131072": 20210317,
+        "196608": 20210527
+    },
+    "category": [
+        "模擬",
+        "策略",
+        "冒險"
+    ],
+    "intro": "在犯罪猖狂的動盪時代　成為地下社會的霸主",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

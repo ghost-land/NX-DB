@@ -1,4 +1,52 @@
 {
     "id": "0100E4300CB3E800",
-    "version": 458752
+    "base_tid": "0100E4300CB3E000",
+    "name": "Feather",
+    "description": "Fly like a Bird\nFeather is a peaceful game about immersing yourself in a beautiful island. Become a bird, fly around and lose yourself in zen-like flow whilst listening to the soothing ambient soundtrack. With responsive and fluid flight controls to swoop, glide, backflip and roll your way around the island. \n\nRelaxing Ambient Gameplay\nNo enemies, no combat, no threats, just peaceful flight by yourself or with other birds. Passive multiplayer allows you to join a flock and discover the world with others. Explore a vast open world and find new songs which can be found around the surroundings. Each element of the island responds to your presence with a hum, tone and rhythm to connect you to the world.",
+    "publisher": "Samurai Punk",
+    "developer": null,
+    "base_release_date": 20190405,
+    "first_update_release_date": 20190405,
+    "latest_update_release_date": 20211018,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20211018
+    },
+    "versions": {
+        "65536": 20190405,
+        "131072": 20190531,
+        "196608": 20190808,
+        "262144": 20191215,
+        "327680": 20200930,
+        "393216": 20201015,
+        "458752": 20211018
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "A serene game about the joy of flight.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General",
+        "Users Interact"
+    ],
+    "region": null
 }

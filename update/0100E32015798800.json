@@ -1,4 +1,38 @@
 {
     "id": "0100E32015798800",
-    "version": 131072
+    "base_tid": "0100E32015798000",
+    "name": "Arcade Archives SOLDAM",
+    "description": "\"SOLDAM\" is a puzzle game released by JALECO in 1992.\nThe game is an elusive puzzle known only to the fairy folk. The core rule of the game is to line up rows of nuts with the same color horizontally to remove them.\nThe puzzle also has a special trick: surrounding other nuts with a pair of nuts of the same color will turn the nuts in the middle into the other color. Use this to make your way through the game!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20210916,
+    "first_update_release_date": 20221201,
+    "latest_update_release_date": 20221209,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221209
+    },
+    "versions": {
+        "65536": 20221201,
+        "131072": 20221209
+    },
+    "category": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "A captivating fairy puzzle with three modes to enjoy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

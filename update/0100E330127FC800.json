@@ -1,4 +1,36 @@
 {
     "id": "0100E330127FC800",
-    "version": 327680
+    "base_tid": "0100E330127FC000",
+    "name": "タベオウジャ ミニサイズ",
+    "description": "美味しい料理には「タベガミ」が宿る。料理から生まれる神「タベガミ」を召喚できる料理人「タベオウジャ」になって、料理の頂上決戦に挑め！直感的な操作で料理を作って召喚した「タベガミ」でチームを組んでライバルタベオウジャとバトルする戦略ゲーム！",
+    "publisher": "バンダイナムコエンターテインメント",
+    "developer": null,
+    "base_release_date": 20201126,
+    "first_update_release_date": 20201201,
+    "latest_update_release_date": 20210609,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210609
+    },
+    "versions": {
+        "65536": 20201201,
+        "131072": 20201214,
+        "196608": 20210108,
+        "262144": 20210317,
+        "327680": 20210609
+    },
+    "category": [
+        "アクション",
+        "シミュレーション",
+        "ストラテジー",
+        "その他"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

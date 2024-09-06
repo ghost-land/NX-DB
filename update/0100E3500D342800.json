@@ -1,4 +1,44 @@
 {
     "id": "0100E3500D342800",
-    "version": 196608
+    "base_tid": "0100E3500D342000",
+    "name": "Golf Peaks",
+    "description": "No understanding of golf is required – just grab your controllers and conquer the mountain peaks by making your way to the hole, however not in the usual skill-shot based style. Instead, plan your strategy and use action cards to move the ball! Solve over 100 enjoyable yet challenging puzzles accompanied by relaxing music and minimalist, eye-pleasing graphics and conquer the summits!\n\nThe title uniquely combines entertaining logic-game mechanics with an easy-to-learn card-based movement system, providing the player with numerous action cards. The minimalistic visuals accompanied by a relaxing soundtrack makes Golf Peaks a mind-soothing experience!",
+    "publisher": "7Levels",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20190405,
+    "latest_update_release_date": 20230115,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230115
+    },
+    "versions": {
+        "65536": 20190405,
+        "131072": 20190903,
+        "196608": 20230115
+    },
+    "category": [
+        "Puzzle",
+        "Sports",
+        "Board Game"
+    ],
+    "intro": "Ditch your hiking gear, don your golfing cap and climb mountain peaks just by playing golf!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

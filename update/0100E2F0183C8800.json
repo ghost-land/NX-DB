@@ -1,4 +1,42 @@
 {
     "id": "0100E2F0183C8800",
-    "version": 131072
+    "base_tid": "0100E2F0183C8000",
+    "name": "Moorhuhn Pirates - Crazy Chicken Pirates",
+    "description": "An idyllic Caribbean archipelago is infested with Moorhuhn pirates. It is up to you to restore peace to these shores!\n\nBe quick - you have only 90 seconds to enter the supposedly peaceful idyll and finish your raid. If it weren't for the pirates ...\n\nA one-legged captain, a gunner, a knife-wielding grouse and a treasure hunter... the island harbors countless dangers, hidden extras and secrets.\n\nThe lords of the island are by no means willing to surrender themselves and their treasure without a fight ...\n\nThey will defend their hideout with cannons and cutlasses and finally plunge bravely into the waves in their rowing boats for a desperate counterattack ...\n\nBonus Game\nA huge bonus in Moorhuhn Pirates is an additional game in keeping with the story. For 60 seconds, the grouse captain must defend himself against pirate grouse in rowing boats, attempting to commandeer his ship. If points are your preferred booty, this attack is playing right into your hands - you will receive extra points for every boat you reduce to splinters. Though they may outnumber us, the right weapon, the right time and a cool head will give us more than a chance of success!",
+    "publisher": "Higgs Games",
+    "developer": null,
+    "base_release_date": 20221226,
+    "first_update_release_date": 20221225,
+    "latest_update_release_date": 20230217,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230217
+    },
+    "versions": {
+        "65536": 20221225,
+        "131072": 20230217
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "First-Person Shooter"
+    ],
+    "intro": "Raid the pirate island full of crazy chickens and get the gold and diamonds. 90 seconds to fire from all guns ... plus bonus levels.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

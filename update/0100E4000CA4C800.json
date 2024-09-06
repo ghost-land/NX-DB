@@ -1,4 +1,25 @@
 {
     "id": "0100E4000CA4C800",
-    "version": 65536
+    "base_tid": "0100E4000CA4C000",
+    "name": "ビリオンロード 体験版",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20190214,
+    "latest_update_release_date": 20190214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190214
+    },
+    "versions": {
+        "65536": 20190214
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

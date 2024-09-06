@@ -1,4 +1,43 @@
 {
     "id": "0100E3400F242800",
-    "version": 196608
+    "base_tid": "0100E3400F242000",
+    "name": "Lost Ember",
+    "description": "A breathtakingly beautiful world holds the secrets of its past for you and your companion to uncover in this 5-hour journey.\n\nExperience the contrasting stories of the fall of mankind and the lush life in a world reclaimed by nature with a wolf as your main character and a determined companion at your side. \n\nExplore the land, sea, and air, as you possess any creature you come across to experience life from a whole new perspective. Fly through gargantuan canyon valleys as a parrot! Tumble through the grass as a wombat! Swim through shimmering lakes as a fish! Your journey will take you from densely wooded jungles, to lush rainforest canopies, to barren desert plains and archaic temples. \n\nUltimately, you'll discover a tale of loyalty, despair, and betrayal, as echoes of the lost Yanrana culture come to life in a lush wilderness devoid of man.",
+    "publisher": "Mooneye Studios",
+    "developer": null,
+    "base_release_date": 20200924,
+    "first_update_release_date": 20200910,
+    "latest_update_release_date": 20201016,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201016
+    },
+    "versions": {
+        "65536": 20200910,
+        "131072": 20200918,
+        "196608": 20201016
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Explore the remains of a fallen world from fascinating perspectives! Slip into the role of different animals to uncover the fate of an ancient world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100E3C016D4E800",
-    "version": 65536
+    "base_tid": "0100E3C016D4E000",
+    "name": "OneShot: World Machine Edition",
+    "description": "The World Knows You Exist.\n\nExperience an adventure game with puzzles that go beyond its own window and establish a unique bond with the main character.\n\nIn OneShot: World Machine Edition, you discover a strange computer operating system with a self-contained world installed. Explore this world to unravel its mysteries and help guide a child on their mission to restore the long-dead sun. \n\nYou hear that saving the world may no longer be possible... But it's worth a shot, you think. Now with collectible content and features exclusive to the World Machine Edition!",
+    "publisher": "DANGEN Entertainment",
+    "developer": null,
+    "base_release_date": 20220922,
+    "first_update_release_date": 20221013,
+    "latest_update_release_date": 20221013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221013
+    },
+    "versions": {
+        "65536": 20221013
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "You only have one shot.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
