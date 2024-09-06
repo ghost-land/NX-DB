@@ -1,4 +1,42 @@
 {
     "id": "010069401ADB8800",
-    "version": 262144
+    "base_tid": "010069401ADB8000",
+    "name": "Unicorn Overlord",
+    "description": "From the masterminds that brought 13 Sentinels: Aegis Rim and Odin Sphere, ATLUS x Vanillaware presents the rebirth of tactical fantasy RPG. Fight against fate and embark on a royal adventure to regain your reign alongside trustworthy allies.\n\nUnicorn Overlord combines the timeless tactical RPG genre with overworld exploration and innovative battle system for a unique epic fantasy experience in the iconic Vanillaware style.\n\nKey Features:\n· Traverse a vibrant world, assemble units and direct them into exquisitely animated battles\n· Perform heroic deeds and grow renown throughout the five nations\n· Cultivate a grand army with over 60 unique characters, from humans and elves to massive beasts and heavenly angels",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20240308,
+    "first_update_release_date": 20240227,
+    "latest_update_release_date": 20240606,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240606
+    },
+    "versions": {
+        "65536": 20240227,
+        "131072": 20240329,
+        "196608": 20240424,
+        "262144": 20240606
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Liberate Your Kingdom, Reclaim Your Destiny",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

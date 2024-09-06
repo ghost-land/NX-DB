@@ -1,4 +1,49 @@
 {
     "id": "01006980127F0800",
-    "version": 851968
+    "base_tid": "01006980127F0000",
+    "name": "Fight Crab",
+    "description": "Fight Crab is an over-the-top physics-based, 3D action battle game that combines giant crustaceans, insane weaponry, and intense claw-to-claw combat into one absurdly hilarious, must-play game.\n\nYou are a crab. Embark on a world tour of devastation, flipping over as many crabs as possible in a quest to be crowned lord of the crustaceans!\n\nFeatures:\n• Claw through 7 Tutorial stages and a Campaign Mode with 34 stages spread out across 7 chapters\n• 23 types of playable crab, 48 different weapons, and 11 unique battle arenas\n• A variety of matchmaking options including 1 vs. 1, 2 vs. 2, and both offline and online co-op and versus battle modes\n• Unlock special Skills like the fabled Kanihameha, the devastating Crab Copter, and more\n• Level up your crab, recruit new crabs, and purchase deadly new weapons – build the ultimate crab warrior\n• Use the Nintendo Switch Joy-Con™ motion controls to freely manipulate limbs to punch, grab, and flip your way to victory\n• Use Photo Mode to capture, share, and immortalize epic confrontations and intense battles",
+    "publisher": "Mastiff",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20200819,
+    "latest_update_release_date": 20230104,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20230104
+    },
+    "versions": {
+        "131072": 20200819,
+        "196608": 20200903,
+        "262144": 20201009,
+        "327680": 20201123,
+        "393216": 20210220,
+        "458752": 20210815,
+        "524288": 20211121,
+        "589824": 20211202,
+        "655360": 20220420,
+        "720896": 20220530,
+        "786432": 20221003,
+        "851968": 20230104
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Multiplayer",
+        "Simulation"
+    ],
+    "intro": "Unleash Shell!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

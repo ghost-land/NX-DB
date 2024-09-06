@@ -1,4 +1,34 @@
 {
     "id": "010069101E23C800",
-    "version": 65536
+    "base_tid": "010069101E23C000",
+    "name": "Space Mercenary Defense Force",
+    "description": "Defend against an alien invasion and take down the mother ship in joyously hectic roguelike style! Space Mercenary Defense Force is a tactical sci-fi action shooter where your primary objective is survival. Equip your ship’s directional module slots with various weapon technology – explosive, defensive, beam, deployable and more. Over 600 upgrades with branching advancement paths make each run unique depending on your strategic choices.\n\nWithstand the alien onslaught from all directions, moving your ship through space to align targets with the most effective tech modules and maintaining a safe distance from the swarm. Complete optional encounters like mini-bosses and conduit charging to earn rewards, then spend hard-earned credits to unlock new ships, perpetual astral upgrades, perks and celestial modifiers!\n\nFeatures:\n\n• Survive enemy swarms in tactical roguelike action!\n• Choose from more than 600 weapon upgrades.\n• Equip modular tech to your directional weapon slots as you switch up strategy on the fly!\n• Take down big bosses and complete objectives for valuable rewards.\n• Unlock upgrades to stack the deck in your favor for future runs.\n• Enjoy unlimited replay value across Classic and Challenge modes!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240501,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "Survive the cosmic onslaught by upgrading and equipping a vast arsenal of modular weaponry!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

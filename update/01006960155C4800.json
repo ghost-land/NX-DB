@@ -1,4 +1,40 @@
 {
     "id": "01006960155C4800",
-    "version": 131072
+    "base_tid": "01006960155C4000",
+    "name": "Dawn of the Monsters",
+    "description": "The cataclysmic battle between giant monsters has begun in this manga-inspired, side-scrolling, kaiju beat-'em-up! Titanic creatures known as Nephilim have invaded Earth, and the only hope of stopping them is DAWN (Defense Alliance Worldwide Network), which unleashes its own colossal combatants to defend against the enemy hordes! Take control of four hulking behemoths – Megadon, Aegis Prime, Tempest Galahad, and Ganira – each with distinct abilities and play styles, and smash your way through destructible real-world environments spanning more than 35 missions! Power up with DNA augments, crush foes with devastating Rage Attacks and brutal Executions, and team up with a friend for 2-player co-op action! You are the planet's last line of defense...but will that be enough for mankind to survive the Dawn of the Monsters!?\n\nKey Features:\n-Four unique, monstrous playable characters: Megadon, Ganira, Aegis Prime, and Tempest Galahad\n-Earth-shattering monster-against-monster one- or two-player co-op beat-'em-up action\n-Fully destructible cities based on real-world locations\n-Brutal Rage abilities, devastating Cataclysm Attacks, and merciless finishing moves\n-Fierce bosses and dozens of different enemy types\n-Customize your monsters with DNA augments!",
+    "publisher": "WayForward",
+    "developer": null,
+    "base_release_date": 20220315,
+    "first_update_release_date": 20220608,
+    "latest_update_release_date": 20230824,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230824
+    },
+    "versions": {
+        "65536": 20220608,
+        "131072": 20230824
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "It takes monsters to stop monsters!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

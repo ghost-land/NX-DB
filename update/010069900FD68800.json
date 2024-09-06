@@ -1,4 +1,38 @@
 {
     "id": "010069900FD68800",
-    "version": 131072
+    "base_tid": "010069900FD68000",
+    "name": "PONG Quest",
+    "description": "Embark upon an epic adventure in PONG Quest as you take on the challenge for King and country in a journey across numerous themed dungeons populated with all manner of paddles, puzzles and balls.\n\nCustomize your hero and take up the challenge in new PONG battle gameplay featuring over 50 different types of balls each with their unique abilities.  Solve puzzles and gather precious loot as you uncover the secrets of the Orbs on a journey to unlock the mystery of the Spooky Door.\n\nPlay with up to 4 other players in multiplayer mayhem battles, select your balls and perfect your own loadout as you clash with other paddles for supremacy within the PONG universe.  \n\nNo balls, no problem! Play with classic rules and show the world who is the best paddle on the planet.",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200507,
+    "latest_update_release_date": 20200529,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200529
+    },
+    "versions": {
+        "65536": 20200507,
+        "131072": 20200529
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "The Paddle Battle Begins....\nAn Adventure 48 Years in The Making",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

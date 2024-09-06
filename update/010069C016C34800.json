@@ -1,4 +1,44 @@
 {
     "id": "010069C016C34800",
-    "version": 458752
+    "base_tid": "010069C016C34000",
+    "name": "Ultra Mega Xtra Party Challenge",
+    "description": "Ultra Mega Xtra Party Challenge is a frenzied party game up to 4 players (also solo-player compliant). \n\nFeatures: \n-    Over 99 ULTRA, MEGA, XTRA minigames to enjoy with your friends! Yes, we have MUCH more than 99 ones… Okay… We have 100 ULTRA, MEGA, XTRA minigames!! You might even spot some inspirations from pop culture and meme culture. Will you get all hidden easter eggs?\n-    Wash, unbox, shave, peel off, mown, cut, dodge, unroll, fan… All skills required. Even the ones you didn't realize you had!\n-    Multiplayer : Play against or with your friends. Versus or coop, whatever you choose, everyone will play simultaneously, no ULTRA, MEGA, XTRA downtime! \n-    Lacking friends? No worries. We get you covered with our exclusive Ultra Mega Xtra Story Mode ! You’re the weakest player on Earth… A very mysterious character will come to you and train you to become the most powerful “gamer” of the Universe!",
+    "publisher": "JUST FOR GAMES",
+    "developer": null,
+    "base_release_date": 20221007,
+    "first_update_release_date": 20220822,
+    "latest_update_release_date": 20221021,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20221021
+    },
+    "versions": {
+        "196608": 20220822,
+        "262144": 20220923,
+        "327680": 20220926,
+        "393216": 20221006,
+        "458752": 20221021
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Training",
+        "Lifestyle"
+    ],
+    "intro": "A party game like you've never seen before! Compete with friends, or work together to win. Here, everyone plays at the same time in over 90 mini-games!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Drug Reference"
+    ],
+    "region": null
 }

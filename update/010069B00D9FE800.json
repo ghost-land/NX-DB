@@ -1,4 +1,38 @@
 {
     "id": "010069B00D9FE800",
-    "version": 327680
+    "base_tid": "010069B00D9FE000",
+    "name": "WONDER BOY RETURNS REMIX",
+    "description": "\"Wonder Boy\" was an arcade hit back in 1986, with its intuitive controls and polished game balance.\nThis forever famous sidescrolling action game has been remixed and reborn for the Nintendo Switch™!\n\nJoin the adventure of a boy who's doing his best to save his girlfriend Tina -- updated with high-def anime-inspired visuals!\n\nA new feature called the \"Charge Shot\" has been added to this latest incarnation, allowing you to destroy enemies with a gigantic stone axe!\n\nWe hope you'll enjoy \"Wonder Boy Returns Remix,\" which has been not just faithfully reproduced, but in fact rearranged and greatly improved by Ryuichi Nishizawa.",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20190523,
+    "first_update_release_date": 20190503,
+    "latest_update_release_date": 20220316,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220316
+    },
+    "versions": {
+        "131072": 20190503,
+        "196608": 20190607,
+        "262144": 20190808,
+        "327680": 20220316
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "\"Wonder Boy\" has returned!\n\"Wonder Boy\" has been remixed and reborn for the Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

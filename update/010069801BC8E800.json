@@ -1,4 +1,37 @@
 {
     "id": "010069801BC8E800",
-    "version": 65536
+    "base_tid": "010069801BC8E000",
+    "name": "Chrome Wolf",
+    "description": "Kruz is an Imperial soldier that has uncovered a lie behind a mission to suppress the Rebel Army. Continuing the legacy of a fallen comrade, he defects from the Imperial Army and joins the independent mobile unit Chrome Wolf of the Freedom Fighters to seek revenge, atonement, justice, and ideals... What will the brigade of Chrome Wolf find at end of their journey?\n\nBlow your enemies away in tank battles! Jump in a tank to defeat enemies in turn-based battles and enjoy fierce cannon fights, customizing them with parts to reinforce attack capabilities and performance. You can also select the class of your characters which affect the weapons they equip, skills to learn, stats and passive abilities. Change classes to create a party that suits your style.",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20230817,
+    "first_update_release_date": 20240328,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240328
+    },
+    "versions": {
+        "65536": 20240328
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Enjoy tank fights in a tale of fleeting memories and the lives of freedom fighters!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Sexual Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

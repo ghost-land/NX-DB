@@ -1,4 +1,40 @@
 {
     "id": "010069401270E800",
-    "version": 131072
+    "base_tid": "010069401270E000",
+    "name": "PUSS!",
+    "description": "“This game is BANANAS!” — IGN\n“This game makes me want to keep trying over and over and over again.” — Jacksepticeye\n“This might be the weirdest game I've ever played but I'M GLAD I DID!!” — Markiplier\n\nIn this game, you play as a cat that has been trapped in another dimension.\nFind your way out or stay there forever!\n\nFeatures:\n• Boss fights! Real Bullet Hell!\n• Free your future partners and they'll help you fight evil!\n• Compare the results of your run with other players on the leaderboard\n• The levels are tougher than they seem at first glance. They also appear in a random sequence!\n• Various skins for your cat :3",
+    "publisher": "Samustai",
+    "developer": null,
+    "base_release_date": 20210220,
+    "first_update_release_date": 20211026,
+    "latest_update_release_date": 20211026,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211026
+    },
+    "versions": {
+        "131072": 20211026
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "An insane, absurd, and intense avoid-’em-up game about a cat!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

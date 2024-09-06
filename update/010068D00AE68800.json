@@ -1,4 +1,35 @@
 {
     "id": "010068D00AE68800",
-    "version": 131072
+    "base_tid": "010068D00AE68000",
+    "name": "GREEN",
+    "description": "Create a block yourself and use it to clear the stage.\nSide scrolling 2D puzzle action game.\nBecause it uses only the jump and block buttons, it is a simple game that anyone can feel free to play.\nPlease clear all 50 stages and save the lover 's pink.",
+    "publisher": "STUDIO GREEN",
+    "developer": null,
+    "base_release_date": 20180802,
+    "first_update_release_date": 20180919,
+    "latest_update_release_date": 20181205,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181205
+    },
+    "versions": {
+        "65536": 20180919,
+        "131072": 20181205
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Pink of my sweetheart who disappeared suddenly in dream!\nGreen enters into a pink dream to find her.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

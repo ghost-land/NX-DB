@@ -1,4 +1,31 @@
 {
     "id": "010069001B820800",
-    "version": 131072
+    "base_tid": "010069001B820000",
+    "name": "EarthX",
+    "description": "EarthX is a relaxing family-friendly spaceflight company management game, where you launch rockets. A lot of them.\n\nGo from launching small rockets on Earth to eventually building a colony on Mars. Create your own Internet constellation, develop new technologies, supply the International Space Station and terraform Mars! \n\nYou will have to develop better and better rockets, fight for contracts with competitors and grow your business to achieve success. Grow your capital, assemble rockets, capsules and satellites and dominate the Space Industry.\n\nKey Features\n* Launch, land & reuse your rockets! (Provided they don’t explode on re-entry.)\n* Grow your business through a level progression system that unlocks something new each time you advance your company!\n* Assemble custom spacecrafts of various types, shapes and sizes with dozens of individual parts!\n* Bestow ultra-high-speed internet upon the World with a specialized satellite array!\n* Produce dozens of nuclear bombs and throw them at the poles of Mars to heat it up. One day, the planet might start to look like Earth!\n* Brave difficult weather conditions, or face delays, planning around them!",
+    "publisher": "Pineapple Works",
+    "developer": null,
+    "base_release_date": 20230712,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230714
+    },
+    "versions": {
+        "131072": 20230714
+    },
+    "category": [
+        "Strategy",
+        "Simulation",
+        "Education"
+    ],
+    "intro": "Become the CEO of a space company and conquer the market with your rockets!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

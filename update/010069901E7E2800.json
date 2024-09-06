@@ -1,4 +1,34 @@
 {
     "id": "010069901E7E2800",
-    "version": 131072
+    "base_tid": "010069901E7E2000",
+    "name": "Our Field Trip Adventure",
+    "description": "The usual crew goes on a school trip adventure!\nShare Joy-Con™ and play with up to 4 players!\n\nEnjoy \"Pillow Fight,\" \"Rickshaw Race,\"\n\"Souvenir Battle,\"and more for a total of\n10 different missions!\n\nTry gathering the Collection Coins for yourself\nor challenge all missions in order to become a\ntrue \"Field Trip Master!\"\n\n[Pillow Fight]\nThrow your pillow and fight to win!\n\n[Karaoke Battle]\nBecome the karaoke number one!\n\n[Rickshaw Race]\nCarry your passengers to the goal!\n\n[Sightseeing Snapshots]\nGo sightseeing and take the best snapshots!\n\n[Hide from the Teacher]\nPlay and avoid getting caught!\n\n[Pottery Experience]\nMake pottery to match the picture!\n\n[Speed Showdown]\nMake quick decisions and win!\n\n[Gather the Deer!]\nGather deer in your enclosure!\n\n[Souvenir Battle]\nHelp at the store and deliver souvenirs!\n\n[Grand Spy Operation]\nSneak your way to the top floor!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240425,
+    "first_update_release_date": 20240412,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20240412,
+        "131072": 20240605
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Racing",
+        "Communication"
+    ],
+    "intro": "A school trip is all about learning and having fun!\nHave a blast and make memories with your friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

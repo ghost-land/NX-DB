@@ -1,4 +1,42 @@
 {
     "id": "01006990184DC800",
-    "version": 327680
+    "base_tid": "01006990184DC000",
+    "name": "Samba de Amigo: Party Central",
+    "description": "It's time to shake it on center stage in this vibrant rhythm action game. Amigo and his friends are back in Samba de Amigo: Party Central!\nPick up your maracas and groove to 40 hit songs from the world's most popular genres, with even more arriving as post-launch DLC!\n\nGroove with your friends and family with different party modes!\nFeeling confident in your skills? Complete the StreamiGo! challenges to help Amigo rise to fame.\nStrut that style by customizing your character with unique costumes and accessories.\nTake the party to a global level: hit the floor with 12 Amigos and up to 8 of your friends online in World Party Mode.\nShow the world what you've got by competing on the online leaderboards.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20230823,
+    "latest_update_release_date": 20231129,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231129
+    },
+    "versions": {
+        "196608": 20230823,
+        "262144": 20231010,
+        "327680": 20231129
+    },
+    "category": [
+        "Music"
+    ],
+    "intro": "Get up and shake it with Amigo and friends! It's time for an all- new Samba de Amigo: a music rhythm game that allows you to party around the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Lyrics",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "010069A018132800",
-    "version": 65536
+    "base_tid": "010069A018132000",
+    "name": "Doodle World Deluxe",
+    "description": "The evil King Eraser and his office supply minions had stolen the magical crayon used to create Doodle's amazing world! Play as Doodle and travel across the world to defeat King Eraser and his minions.\n\nA child's doodles have been brought to life in this highly stylized 8-Bit game! Embracing the limitations of 8-Bit hardware, we created an entire game with the look of a hand drawn world on notebook paper.\n\nDoodle World Deluxe includes the original version of Doodle World and the all-new game, Doodle World Redrawn!\n\nDoodle World features an innovative \"Kids Mode\". With \"Kids Mode\" younger players can enjoy the game with more lives,  less levels, and easier enemies and bosses!\n\nDoodle World Redrawn is a new, never before released, re-imagining of Doodle World with tougher levels, enemies, and bosses! Use the new double jump ability to navigate through these tougher levels. \"Kids Mode\" is still available in this new version, so even younger players can enjoy this new game!\n\nThe music and sound design for Doodle World Deluxe was created by the extremely talented chiptune artist Takumi Grainger!",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20231129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231129
+    },
+    "versions": {
+        "65536": 20231129
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Welcome to Doodle World! Play as Doodle and travel across the world to defeat King Eraser and his minions.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

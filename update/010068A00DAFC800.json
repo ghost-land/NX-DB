@@ -1,4 +1,42 @@
 {
     "id": "010068A00DAFC800",
-    "version": 524288
+    "base_tid": "010068A00DAFC000",
+    "name": "Brave Dungeon -The Meaning of Justice-",
+    "description": "A sequel that inherits the basic system of the previous Brave Dungeon from the Dark Witch series. You can play in different stories and different systems with the scenarios of the three protagonists.\n\n-Al: Walk through the vast Forest of Miracles and look for the exit of the forest. We will proceed with the countless \"IvyDoors\" that block the way by using the limited number of \"GrassKeys\". You can further your exploration by picking up the pieces of Shega scattered throughout the forest and creating Seama Items.\n\n-Klinsy: The goal is to get the \"Unsealed Books\" hidden in the three library stacks. There is a \"Sealing Trap\" in the library that tests the wisdom of intruders.\n\n-Papelne: Papelne is brought to an empty plain. She begins to build her city from scratch. She is free to build the city as she wishes. Let her build a more attractive city and attract more visitors.",
+    "publisher": "INSIDE SYSTEM",
+    "developer": null,
+    "base_release_date": 20230414,
+    "first_update_release_date": 20230417,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20230417,
+        "131072": 20230424,
+        "196608": 20230426,
+        "262144": 20230504,
+        "327680": 20230523,
+        "393216": 20230526,
+        "458752": 20230608,
+        "524288": 20231013
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
