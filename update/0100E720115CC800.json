@@ -1,4 +1,32 @@
 {
     "id": "0100E720115CC800",
-    "version": 65536
+    "base_tid": "0100E720115CC000",
+    "name": "F-117A Stealth Fighter",
+    "description": "It's the F-117A Stealth Fighter. And once you fly it, you'll see why no other flight simulator compares! Incredible 3-D graphics will keep you glued to your screen as you experience the same intense pressures that gripped America's Gulf War pilots. Penetrate enemy airspace without being seen! Tangle with the enemy in treacherous dogfights! Launch awesome firepower against fierce opponents! Your wait is over. The ultimate weapon has arrived. Now it's your turn to pilot the real Stealth Fighter!",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20200528,
+    "first_update_release_date": 20200623,
+    "latest_update_release_date": 20200623,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200623
+    },
+    "versions": {
+        "65536": 20200623
+    },
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Strap yourself into the cockpit of the world's most elite fighting weapon!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100E7F00FFB8800",
-    "version": 458752
+    "base_tid": "0100E7F00FFB8000",
+    "name": "Resolutiion",
+    "description": "Resolutiion is a fast-paced action-adventure created by two angry German brothers leading a band of vagrants who loaded it with lovely pixels, dirty jokes, deep ideas and badassemotional tunes for 20 hours of punishing combat, rewarding exploration, and layered storytelling. Will you be the player or will you be played? In the Infinite Empire nothing is as it seems.\n\nExplore a fractured future, gathering weird weapons and stories, to piece together the past: a friend betrayed, a family broken, worlds at war. \n\nTo solve the mystery of the Cradles take on a multi-cultural-mashup of cynical gods, emotional machines, zealots, luddites, and furry critters in a world that doesn’t care if it confuses or kills you — oh hey, a kitty!\n\n*20 hour playtime\n*Explore a grim cyberpunk world where nothing is as it seems\n*Experience a dark story where you might be the hero - or the villian\n*Unlock new abilities to defeat your enemies\n*Survive in brutal fights and crush gruesome bosses\n*Listen to a badassemotional cyberpunk Soundtrack",
+    "publisher": "Deck 13",
+    "developer": null,
+    "base_release_date": 20200528,
+    "first_update_release_date": 20200527,
+    "latest_update_release_date": 20210528,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210528
+    },
+    "versions": {
+        "65536": 20200527,
+        "131072": 20200624,
+        "196608": 20200923,
+        "262144": 20200923,
+        "327680": 20201116,
+        "458752": 20210528
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": "An old killer escorts a curious AI through chaotic combat, puzzling secrets, and unsettling calm in a dreamscape of madmen and sane animals. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100E79009A94800",
-    "version": 131072
+    "base_tid": "0100E79009A94000",
+    "name": "Dungeon Stars",
+    "description": "Delve deep into hundreds of dungeon levels to liberate your fellow heroes, rescue pets, gather gold, pilfer potions and discover magical loot. The goblin hordes will try to stop you. Fearsome creatures will try to eat you. Prepare yourself to face the ever-changing challenges of the star portals. With grit and determination, you may create a team of amazing adventurers with enough guts and glory to destroy the Conqueror Worm!",
+    "publisher": "Dungeon Stars",
+    "developer": null,
+    "base_release_date": 20190212,
+    "first_update_release_date": 20190429,
+    "latest_update_release_date": 20190429,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190429
+    },
+    "versions": {
+        "131072": 20190429
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Dungeon Stars is a mix of hack 'n' slash, RPG and endless runner.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

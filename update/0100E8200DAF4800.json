@@ -1,4 +1,72 @@
 {
     "id": "0100E8200DAF4800",
-    "version": 2097152
+    "base_tid": "0100E8200DAF4000",
+    "name": "Vigor",
+    "description": "Survive the post-war Norway and outlive the apocalypse in Vigor, a free-to-play multiplayer looter shooter.\n\nExplore the Nordic scenery in Encounters. Choose your playstyle - sneaky looter or deadly shooter.\n\nBuild the Shelter from resources acquired in Encounters and upgrade it to unlock extra features.\n\nPlay Shootout, a fast-paced solo combat, or Elimination, a 5v5 tactical, round based team fight.",
+    "publisher": "Bohemia Interactive",
+    "developer": null,
+    "base_release_date": 20200708,
+    "first_update_release_date": 20200708,
+    "latest_update_release_date": 20240515,
+    "latest_update": {
+        "version": "2097152",
+        "release_date": 20240515
+    },
+    "versions": {
+        "65536": 20200708,
+        "131072": 20200805,
+        "196608": 20200909,
+        "262144": 20201111,
+        "327680": 20201125,
+        "393216": 20210203,
+        "458752": 20210421,
+        "524288": 20210630,
+        "589824": 20210818,
+        "655360": 20210922,
+        "720896": 20211103,
+        "786432": 20211215,
+        "851968": 20220204,
+        "917504": 20220316,
+        "983040": 20220427,
+        "1048576": 20220601,
+        "1114112": 20220727,
+        "1179648": 20220923,
+        "1245184": 20221013,
+        "1310720": 20221116,
+        "1376256": 20230208,
+        "1441792": 20230301,
+        "1507328": 20230411,
+        "1572864": 20230520,
+        "1638400": 20230621,
+        "1703936": 20230809,
+        "1769472": 20230830,
+        "1835008": 20231025,
+        "1900544": 20231123,
+        "1966080": 20240207,
+        "2031616": 20240228,
+        "2097152": 20240515
+    },
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Outlive the apocalypse! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

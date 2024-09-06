@@ -1,4 +1,43 @@
 {
     "id": "0100E8500AD58800",
-    "version": 851968
+    "base_tid": "0100E8500AD58000",
+    "name": "無雙OROCHI 蛇魔３",
+    "description": "■『無雙OROCHI 蛇魔３』遊戲特色\n·「真·三國無雙」「戰國無雙」的眾英雄實現夢幻競演！\n·可操控角色多達170人！\n　宙斯、雅典娜、阿瑞斯、珀爾修斯、奧丁等5位角色新參戰！\n·透過追加新動作「神術」，實現更加爽快、更具震撼力的「無雙動作」！\n·系列首次搭載線上多人遊玩模式！",
+    "publisher": "KOEI TECMO GAMES",
+    "developer": null,
+    "base_release_date": 20180927,
+    "first_update_release_date": 20180925,
+    "latest_update_release_date": 20200219,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20200219
+    },
+    "versions": {
+        "131072": 20180925,
+        "196608": 20181014,
+        "262144": 20181017,
+        "327680": 20181106,
+        "393216": 20181128,
+        "458752": 20181206,
+        "524288": 20190606,
+        "655360": 20191218,
+        "720896": 20191226,
+        "786432": 20200123,
+        "851968": 20200219
+    },
+    "category": [
+        "動作"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

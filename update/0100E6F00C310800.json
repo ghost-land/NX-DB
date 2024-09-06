@@ -1,4 +1,35 @@
 {
     "id": "0100E6F00C310800",
-    "version": 327680
+    "base_tid": "0100E6F00C310000",
+    "name": "Death Road to Canada",
+    "description": "操縱整車的討厭鬼探索城市、招募怪人、拯救小狗、鬥嘴互嗆並面對海量的慢速喪屍。每次遊玩都能透過隨機生成體驗嶄新劇情和稀有事件！\n\n『Death Road』為重複遊玩而生。遊戲的所有要素皆為隨機，包括：場景、事件、生還者的外表和個性。每次遊玩都能在輕鬆看待一切的遊戲世界中展開全新故事。",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20200305,
+    "first_update_release_date": 20191018,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20191018,
+        "131072": 20211028,
+        "196608": 20220915,
+        "262144": 20230623,
+        "327680": 20230802
+    },
+    "category": [
+        "動作",
+        "街機",
+        "射擊"
+    ],
+    "intro": "在通往加拿大的死亡之路上與殭屍大戰！",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

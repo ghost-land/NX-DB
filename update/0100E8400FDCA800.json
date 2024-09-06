@@ -1,4 +1,39 @@
 {
     "id": "0100E8400FDCA800",
-    "version": 131072
+    "base_tid": "0100E8400FDCA000",
+    "name": "Without Escape",
+    "description": "Without Escape is a tribute to first-person graphic adventures of the early '90s with an interactive story told through pre-rendered background and full-motion video. Explore the confines of your own home as you flip between a mundane existence and a terrifying otherworld. Are you prepared to endure the horrors that await you?\n\nFeatures:\n\n• Reconnect with the past through classic point-and-click exploration.\n• Overcome enigmatic puzzles that will test your wits.\n• Immerse yourself in your home's oppressive atmosphere with an atmospheric soundtrack.\n• Discover multiple endings, secrets, and Easter eggs.\n• Gaze upon beautiful backgrounds – in your old home, which has become a hellish nightmare.",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20200115,
+    "latest_update_release_date": 20200206,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200206
+    },
+    "versions": {
+        "65536": 20200115,
+        "131072": 20200206
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Can you escape the nightmare and find the answers you're looking for?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

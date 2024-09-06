@@ -1,4 +1,32 @@
 {
     "id": "0100E81015B46800",
-    "version": 65536
+    "base_tid": "0100E81015B46000",
+    "name": "Supaplex",
+    "description": "Millions of people around the world have already experienced this joyful adventure! Help Murphy to travel through hundreds of the most diverse game levels!\n\n- 111 INCREDIBLY EXCITING LEVELS! Help Murphy beat them all! Collect Infotrons, dodge Zonks, escape from Snik-Snaks, and smash Electrons!\n\n- THE ORIGINAL SUPAPLEX GAMING ENGINE! Superbly fine-tuned real Supaplex logic! Lots of hidden features! Experiment and find new ones!\n\n- INSTANT LEVEL SAVING! SCROLL AND ZOOM IN & OUT OF THE GAME BOARD! THREE SPEEDS! Hone your tactical skills! Develop strategic thinking!\n\n- CHANGE THE COLORS OF THE CIRCUIT BOARDS ON THE GAME BOARD! It’s awesome!\n\nMake yourself comfortable!\nA great adventure awaits you!",
+    "publisher": "Danila Gorozhanin",
+    "developer": null,
+    "base_release_date": 20220513,
+    "first_update_release_date": 20220916,
+    "latest_update_release_date": 20220916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220916
+    },
+    "versions": {
+        "65536": 20220916
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "The legendary game of superb quality!\nOne of the best action-puzzle games in the world!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

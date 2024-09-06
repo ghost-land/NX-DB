@@ -1,4 +1,45 @@
 {
     "id": "0100E7601535E800",
-    "version": 131072
+    "base_tid": "0100E7601535E000",
+    "name": "Out of Line",
+    "description": "In Out of Line, you follow the adventures of San, in his quest to escape the Factory that was once his home. Dive into a story set in mysterious world, find and help new friends as you journey through this beautiful 2D platformer!",
+    "publisher": "Hatinh Interactive",
+    "developer": null,
+    "base_release_date": 20210707,
+    "first_update_release_date": 20210708,
+    "latest_update_release_date": 20210716,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210716
+    },
+    "versions": {
+        "65536": 20210708,
+        "131072": 20210716
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "A unique adventure game filled with beautiful puzzles all hand-drawn in a unique 2D style! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

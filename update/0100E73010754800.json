@@ -1,4 +1,37 @@
 {
     "id": "0100E73010754800",
-    "version": 65536
+    "base_tid": "0100E73010754000",
+    "name": "Rascal Fight",
+    "description": "Up to 4 players may play together on the same computer. In our game, you can trapeze on walls, use weapons from all over the world, and pick up different guns and rifles. We've also loaded it with such entertaining weapons as baseball bats, fly swatters and more! Each will bring its own unique feel to the game. There are tons of items to pick up, and you can use a range of traps and cannons for hilarious effects! Only your imagination sets the limit for how to deal with your opponents!\n\nFeatures:\n- Local Multiplayer\n- Powered by Physics Engine\n- Tons of Weapons/Items\n- Awesome Maps\n- You Might Lose Your Friends\n",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20200402,
+    "first_update_release_date": 20200402,
+    "latest_update_release_date": 20200402,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200402
+    },
+    "versions": {
+        "65536": 20200402
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Rascal Fight is a casual battle arena brawler with a magical twist. You'll play as a rascal running wild in an environment filled with contraptions where you battle it out against your opponents.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "0100E70014562800",
-    "version": 262144
+    "base_tid": "0100E70014562000",
+    "name": "Epic Chef",
+    "description": "In Epic Chef you take on the role of  Zest, who must embark on a culinary journey to farm, craft and cook his way into legend.\n\nCreate Delicious Dishes!\nDynamic recipe creation means that you can experiment with thousands of different ingredient combinations to create a unique menu of delicious delights.\n\nChef Battles!\nTake on rival chefs in epic culinary clashes to see who is crowned cooking king! Dishes are scored on a variety of things and no two judges have the same taste, meaning every battle is different.\n\nHome on the range\nLive off your land by growing food such as fruit and vegetables as well as tending to an eclectic mix of animals from cows to unicorns! Repair and customise your dilapidated (and slightly haunted) mansion.\n\nCrafty Cook!\nA chef is only as good as their tools. Gather resources to craft specialised machinery that can process your ingredients, and even create new recipe components! \n\nExplore Ambrosia!\nYou are free to explore all that the city has to offer. Visit various locations such as the tavern, the spa or try your hand at fishing. Meet the friendly locals and make them hate you less with the power of food.\n\nTale as old as Thyme \nEnjoy a humourous story, with an elaborate cast of characters, all woven into a world inspired by the writing of Sir Terry Pratchett\n\nGrab your spatula and start on a journey to become Epic….Chef.",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20211111,
+    "first_update_release_date": 20211109,
+    "latest_update_release_date": 20220704,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220704
+    },
+    "versions": {
+        "65536": 20211109,
+        "131072": 20211206,
+        "196608": 20220204,
+        "262144": 20220704
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Get ready for a tasty blend of life sim, crafting and cooking chaos!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Comic Mischief",
+        "Mild Cartoon Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

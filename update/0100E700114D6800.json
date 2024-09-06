@@ -1,4 +1,48 @@
 {
     "id": "0100E700114D6800",
-    "version": 655360
+    "base_tid": "0100E700114D6000",
+    "name": "Bear and Breakfast",
+    "description": "About Bears\n\nBear and Breakfast is a laid-back management adventure game where you play as a well-meaning bear trying to run a B+B in the woods. Hank and his friends find an abandoned shack and, equipped with their teenage ingenuity, turn it into a money-making bed and breakfast scheme for unsuspecting tourists. As your business expands so do the mysteries of the forest, and Hank soon finds himself uncovering a plot deeper than the wilderness itself.\n\nBuild and Manage\n\n- Build and personalize your inn with dozens of guest rooms, bathrooms, parlors, and entertainment. \n- Each room can be individually customized completely from furniture to fixtures.\n- Bring guests into the forest to stay at your inn. Keep 'em happy to maintain your reputation, earn money and attract new customers!\n- Complete quests and story lines to collect new items and perks for your inn.\n- Uncover a world rich in lore, side quests, characters, and secrets.\n\nFriends, Foes, Forage\n\nMoving through the story-rich world of Bear and Breakfast will have you stumbling on dozens of interesting folks and weirdos, much like yourself.\nMost of them have something to say about your endeavors and if you take some time out of your day to listen, they might help your build your shack to new heights!\n\nExplore the Woods\n\nNot everyone is as helpful or as needy though. Are you bear enough to search deep within the forest and your soul to find the mysteries that lie within?",
+    "publisher": "Armor Games Studios",
+    "developer": null,
+    "base_release_date": 20220915,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20240228,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240228
+    },
+    "versions": {
+        "65536": 20220915,
+        "131072": 20221004,
+        "196608": 20230208,
+        "262144": 20230217,
+        "327680": 20230411,
+        "458752": 20231123,
+        "524288": 20231212,
+        "589824": 20240102,
+        "655360": 20240228
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Bear and Breakfast is a laid-back management adventure game where you build and run a bed and breakfast...but you’re a bear.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Language",
+        "Mild Blood",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

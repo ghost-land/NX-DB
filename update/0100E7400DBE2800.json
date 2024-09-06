@@ -1,4 +1,37 @@
 {
     "id": "0100E7400DBE2800",
-    "version": 65536
+    "base_tid": "0100E7400DBE2000",
+    "name": "Gym Hero - Idle Fitness Tycoon",
+    "description": "Being fit is healthy and fashionable! But our heroes do not have the motivation to get out for exercises ... and the room is asking for some small improvements!\n\nTo motivate your fat guy the only thing you have to do is ...to press \n",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190424,
+    "first_update_release_date": 20190418,
+    "latest_update_release_date": 20190418,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190418
+    },
+    "versions": {
+        "65536": 20190418
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Strategy",
+        "Training"
+    ],
+    "intro": "Gym Hero is a clicker game where your main goal is to reach by your avatar the dream weight, and improving the empty and sad room into a professional personal gym",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

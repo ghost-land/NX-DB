@@ -1,4 +1,34 @@
 {
     "id": "0100E82013ED6800",
-    "version": 65536
+    "base_tid": "0100E82013ED6000",
+    "name": "Fatum Betula",
+    "description": "Take the journey with you.\n\nWelcome to a world without a past. Fatum Betula is an atmospheric exploration game with light puzzle elements. A magical birch is the only thing dictating the future, and it is your job to find something appropriate to feed it with. There is a total of 10 unique endings and a plethora of secrets to uncover. Stylized retro 3d visuals are both faithful and unique, mixing new and old, past and present, with glimmer into the future. \n\nPlayable both in TV mode and handheld mode, now within your grasp.\n\nWARNING! This title contains infrequent cursing and themes of nihilism, death, and abuse. This game also contains flashing images and lights that may trigger seizures for those with photosensitive epilepsy.",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20210514,
+    "latest_update_release_date": 20210514,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210514
+    },
+    "versions": {
+        "65536": 20210514
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }
