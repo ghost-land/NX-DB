@@ -1,4 +1,44 @@
 {
     "id": "01001D5019BFA800",
-    "version": 196608
+    "base_tid": "01001D5019BFA000",
+    "name": "XPOSED SWITCHED",
+    "description": "Draw rectangles to expose the background area. Expose enough to complete the level. \nUncover dozens of unique backgrounds and unlock more level packs while mastering your skills.\nSimple controls, demanding levels, but rewarding experience.\n\nThis game is not easy. You've been warned!",
+    "publisher": "Mass Creation",
+    "developer": null,
+    "base_release_date": 20230120,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20230217,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230217
+    },
+    "versions": {
+        "131072": 20230217,
+        "196608": 20230217
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "XPOSED SWITCHED is a tribute to the golden era arcade games.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

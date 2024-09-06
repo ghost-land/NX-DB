@@ -1,4 +1,39 @@
 {
     "id": "01001E40041BE800",
-    "version": 65536
+    "base_tid": "01001E40041BE000",
+    "name": "Scribblenauts Showdown",
+    "description": "It’s Scribblenauts, party-style! Use your imagination and go head-to-head in the ultimate multiplayer showdown! Enjoy a party-style Scribblenauts experience, conjuring from over 35,000 objects from the vast Scribblenauts dictionary to outsmart your opponent in over 25 mini-games!\n\n• Play solo or with up to 4 of your friends in Showdown Mode and imagine your way to victory through card-based strategy and creative skill.\n• Face off against a friend or the CPU in Versus Mode.\n• Go nuts in the Sandbox - Create Anything in 8 different Sandbox levels and watch what happens, solo or with a friend.\n• Create your own Scribblenaut by unlocking hundreds of wacky costume pieces and vehicles.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220907,
+    "first_update_release_date": 20180306,
+    "latest_update_release_date": 20180306,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180306
+    },
+    "versions": {
+        "65536": 20180306
+    },
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Crude Humor"
+    ],
+    "region": null
 }

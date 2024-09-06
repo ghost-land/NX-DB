@@ -1,4 +1,55 @@
 {
     "id": "01001E0013208800",
-    "version": 589824
+    "base_tid": "01001E0013208000",
+    "name": "Capcom Arcade Stadium",
+    "description": "Shooters, fighting, action—all your favorite genres in this exciting collection! Capcom Arcade Stadium brings back all the nostalgia of the arcade, while adding in new and exciting features you'll wish you had back then!\n\nJust Like the Good Old Days\nFrom 3D-rendered arcade cabinets to scanline filters, there's everything you need to recreate that arcade atmosphere. Fully customizable display settings let you craft your own personal experience and truly relive the glory days of arcade gaming.\n\nBrand New Ways to Play\nWith gameplay rewind, speed adjustment, and the ability to save and load your game at any time, your old favorites will feel new all over again!\nEvery game has online leaderboard rankings, so you can see where you stack up against players all over the world!\nCapcom Arcade Stadium, where retro appeal meets cutting-edge features for a fresh take on Capcom's classics!\n\nIncluded Title\n1943 - The Battle of Midway -\nPlayers: 1-2 Co-Op\nGenre: Shooting\nVersions: Japanese & English",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20210214,
+    "latest_update_release_date": 20221109,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20221109
+    },
+    "versions": {
+        "131072": 20210214,
+        "196608": 20210225,
+        "327680": 20210524,
+        "393216": 20210707,
+        "458752": 20211110,
+        "524288": 20220722,
+        "589824": 20221109
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Shooter"
+    ],
+    "intro": "Relive the Capcom classics!\n1943 -The Battle of Midway-\ncomes as a free download!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Mild Language",
+        "Partial Nudity",
+        "Use of Alcohol and Tobacco",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "01001D200BCC4800",
-    "version": 131072
+    "base_tid": "01001D200BCC4000",
+    "name": "Forager",
+    "description": "Forager is a 2D open world game inspired by your favorite exploration, farming and crafting games.\n\n- Gather, collect and manage resources.\n- Craft useful items & structures.\n- Build and grow a base out of nothing. Buy land to expand and explore.\n- Level up and learn new skills, abilities, and blueprints.\n- Solve puzzles, find secrets and raid dungeons!\n- Achieve anything you want! The choice is yours, you set your own goals to work towards!\n\nStart small and improve your base, skills, equipment, network of friends (and enemies!) and build your future as you see fit!",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20200716,
+    "latest_update_release_date": 20200716,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200716
+    },
+    "versions": {
+        "131072": 20200716
+    },
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

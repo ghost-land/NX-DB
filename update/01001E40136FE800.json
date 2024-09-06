@@ -1,4 +1,45 @@
 {
     "id": "01001E40136FE800",
-    "version": 131072
+    "base_tid": "01001E40136FE000",
+    "name": "Spinny's Journey",
+    "description": "Tales of a Space Explorer and how he escaped from Planet Earth\n\nSpinny, an alien explorer, arrives on Planet Earth. It is inhabited by a bipedal civilization whose architectural excellence is among the most beautiful in the galaxy. Amazed, our hero wanders from city to city.\n\nSpinny, although a skilled explorer, has mistakenly forgotten a small detail when coming to this planet. Things on Earth are gigantic compared to him: he is indeed not no bigger than a peanut.\n\nThis error is causing him a lot of trouble. A terrifying sparrow attacks him and tears off several parts of his spaceship. After this incident, Spinny takes his emergency propellers and goes to find the lost parts of his spaceship in order to rebuild it.\n\nHelp Spinny to find his way through mazes, dodge traps and fix his spaceship to get back home.\n\nSpinny's Journey is a challenging 2D action-puzzle game. You'll fly with his emergency propeller and search for the pieces to repair his spaceship.\n\nThe game will challenge your skills and resilience with its simple-to-learn and hard-to-master gameplay.",
+    "publisher": "Thunder Sparrow",
+    "developer": null,
+    "base_release_date": 20210119,
+    "first_update_release_date": 20210125,
+    "latest_update_release_date": 20210201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210201
+    },
+    "versions": {
+        "65536": 20210125,
+        "131072": 20210201
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Spinny's Journey is a challenging 2D action-puzzle game. Help Spinny to find his way through mazes, dodge traps and repair his spaceship to get back home.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "01001CB00EFD6800",
-    "version": 65536
+    "base_tid": "01001CB00EFD6000",
+    "name": "Infliction: Extended Cut",
+    "description": "Wander through an interactive nightmare set within the confines of a once-happy household.Piece together the mystery behind a harrowing series of events while struggling to survive encounters with an entity that relentlessly stands in the way of finding absolution.\n\nExplore a home crystalised by tragedy and uncover the heartbreaking secrets hidden within messages, artwork, household objects, and other vestiges of domestic life. Uncover clues and use items to unlock new paths and make discoveries while doing everything possible to avoid the malevolent presence inhabiting the residence. Hide under tables or beneath beds and harness light sources like camera flashes to stun the spirit and momentarily elude its pursuit.\n\nInfliction couples a story-driven approach to horror with a dynamic atmosphere to produce an unsettling and unpredictable first-person experience that deals in mature subject matter. Imbuing familiar elements of everyday life with the supernatural, Infliction is a terrifying otherworldly adventure that hits frighteningly close to home.",
+    "publisher": "Blowfish Studios",
+    "developer": null,
+    "base_release_date": 20200702,
+    "first_update_release_date": 20200610,
+    "latest_update_release_date": 20200610,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200610
+    },
+    "versions": {
+        "65536": 20200610
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Explore an interactive nightmare set within a once-happy home while struggling to survive encounters with a relentless entity that stands in the way of finding peace.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

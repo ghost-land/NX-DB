@@ -1,4 +1,38 @@
 {
     "id": "01001CC00FA1A800",
-    "version": 393216
+    "base_tid": "01001CC00FA1A000",
+    "name": "Hatsune Miku: Project DIVA Mega Mix",
+    "description": "Take the stage! The hit rhythm game series returns with exciting new features:\n\n- Mix it up and choose from two playable modes: traditional button control-based Arcade Mode or the new motion control-based Mix Mode. Featuring fan-favorite classics and new hits, choose from over 100 songs for endless rhythm fun!\n- Take advantage of new customization features! Choose from over 300 costumes, and design custom T-shirts in the new T-shirt editor.\n- Create playlists for your favorite music videos!\n\nNo matter where or when, her music will be sure to reach your heart!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20200515,
+    "first_update_release_date": 20200515,
+    "latest_update_release_date": 20221103,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20221103
+    },
+    "versions": {
+        "65536": 20200515,
+        "131072": 20200804,
+        "262144": 20200917,
+        "327680": 20220825,
+        "393216": 20221103
+    },
+    "category": [
+        "Arcade",
+        "Music"
+    ],
+    "intro": "Hatsune Miku makes her Nintendo Switch™ debut in Hatsune Miku: Project DIVA Mega Mix!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "01001DA016942800",
-    "version": 131072
+    "base_tid": "01001DA016942000",
+    "name": "SUPER ZANGYURA",
+    "description": "The fearless Maid, morning star in hand, marches ever rightwards through the ancient castle!\nObliterating the weird and/or ghoulish foes blocking her path to the deepest chambers, what she finds waiting for her must be seen to be believed!\n\nOriginally released in 2004, Zangyura’s unique blend of puzzles and action has returned as a modernized remaster, Super Zangyura.\nThe music and visuals have been overhauled, but the simple yet satisfying old-school action has been kept intact!",
+    "publisher": "Mediascape",
+    "developer": null,
+    "base_release_date": 20220302,
+    "first_update_release_date": 20220615,
+    "latest_update_release_date": 20220615,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220615
+    },
+    "versions": {
+        "131072": 20220615
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Racing"
+    ],
+    "intro": "An incredible evil threatens the world once again!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

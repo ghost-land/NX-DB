@@ -1,4 +1,45 @@
 {
     "id": "01001CF0190C2800",
-    "version": 65536
+    "base_tid": "01001CF0190C2000",
+    "name": "Insomnis",
+    "description": "Insomnis is a first-person horror game focused on story, exploration and solving puzzles to advance through a terrifying atmosphere. Players take control of Joe Castevet, who will have to deal with a mysterious inheritance he has just received. Discover all the secrets of the Castevet mansion!",
+    "publisher": "MERIDIEM GAMES",
+    "developer": null,
+    "base_release_date": 20221027,
+    "first_update_release_date": 20221031,
+    "latest_update_release_date": 20221031,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221031
+    },
+    "versions": {
+        "65536": 20221031
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language",
+        "Use of Drugs"
+    ],
+    "region": null
 }

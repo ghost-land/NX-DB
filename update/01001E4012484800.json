@@ -1,4 +1,56 @@
 {
     "id": "01001E4012484800",
-    "version": 720896
+    "base_tid": "01001E4012484000",
+    "name": "Path of Titans",
+    "description": "Step back in time and experience the ultimate 'play as the dinosaur' adventure with Path of Titans! With over 30 different dinosaur species to choose from, 100+ players per server, and 2 official maps, this ancient and aggressive open-world MMO is like no other.\n\nWhat melee combat will you find in “The Pounce Update?”  With dragging, stomping, latching, carrying, clawing and biting, mixed across customizable character builds with counter attacks and evasion abilities now in game, this isn’t just an update, it’s an evolution. Enter the test of your cunning, agility, and adaptability as a dinosaur.\n\nMeet the Eurhinosaurus, the new Ichthyosaur and real-life leviathan from 180 million years ago. Take the controls of a creature from the depths of the sea with fierce teeth and 11 abilities to compete against the Sarcosuchus, Spinosaurus and Kaiwhekea.\n\nEmbark on a journey of discovery and domination in this incredible world where you can explore, make friends, join a herd, or survive solo. Master combat as each species with its unique gameplay, build a home cave, start your own dinosaur pack, and expand your skills and traits. Customize your dinosaur's appearance with in-game cosmetic skins while roaming the Earth of millions of years ago!\n\nFight, survive, and thrive in PvP and PvE, ranking up your skill slots, completing side quests, and outwitting the competition. Join the ranks of the ultimate apex predator with Path of Titans. Are you ready to rule these lands and enter their world?",
+    "publisher": "Alderon Games",
+    "developer": null,
+    "base_release_date": 20220812,
+    "first_update_release_date": 20220808,
+    "latest_update_release_date": 20240815,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240815
+    },
+    "versions": {
+        "65536": 20220808,
+        "131072": 20220915,
+        "196608": 20221106,
+        "262144": 20221205,
+        "327680": 20230217,
+        "393216": 20230509,
+        "458752": 20230714,
+        "524288": 20231101,
+        "589824": 20240523,
+        "655360": 20240702,
+        "720896": 20240815
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Path of Titans is a multiplayer dinosaur survival video game. Survive as a dinosaur in a rich ecosystem filled with intelligent AI creatures and up to 200 other players. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

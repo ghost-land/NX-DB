@@ -1,4 +1,34 @@
 {
     "id": "01001E300B038800",
-    "version": 65536
+    "base_tid": "01001E300B038000",
+    "name": "World Soccer Pinball",
+    "description": "The most entertaining Pinball is back! \n\nEnjoy World Soccer Pinball, a perfect reproduction of a real pinball machine, with all the graphic details and sounds. \n\nDiscover all the secrets, complete all the missions and become number 1 in the world or the best among your Friends, posting your high score on the online leaderboard.\n\n- Arcade design.\n\n- Set at the soccer World Cup.\n\n- Multiball, Extraball, Skillshot, Jackpots...\n\n- Reproduction with all the details, lights and sounds.\n\n- 4 different cameras to choose from.\n\n- Online Leaderboard.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20180531,
+    "first_update_release_date": 20180601,
+    "latest_update_release_date": 20180601,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180601
+    },
+    "versions": {
+        "65536": 20180601
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Board Game",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

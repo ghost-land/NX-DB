@@ -1,4 +1,48 @@
 {
     "id": "01001D0003B96800",
-    "version": 327680
+    "base_tid": "01001D0003B96000",
+    "name": "INVERSUS Deluxe",
+    "description": "INVERSUS Deluxe is a competitive and cooperative arcade shooter with a mind-bending twist. Player movement is constrained to opposite colors of a black and white grid. My walls are your paths and your walls are my paths. Each shot flips tile colors in an attempt to block, trap and close in on the enemy. \n\nWith full support for solo play, local multiplayer and online multiplayer, INVERSUS Deluxe is great for gaming on the go or having a party with friends. You can even set up games with a mix of local and online players to fit your needs. The full single-player and local-multiplayer experience can also be played while waiting for a match online!\n\nIn VERSUS mode, up to four players can compete across thirty-nine different maps in 1v1 or 2v2 battles. Head straight into online ranked multiplayer, train against five tiers of AI bots, or customize the rules in local games and private online lobbies.\n\nTake on the challenge of ARCADE mode alone or with a friend as you fight for survival on eleven stages. Create devastating chain attacks through the enemy swarms as you compete for high scores on the global leaderboards!",
+    "publisher": "Hypersect",
+    "developer": null,
+    "base_release_date": 20170928,
+    "first_update_release_date": 20171016,
+    "latest_update_release_date": 20181011,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20181011
+    },
+    "versions": {
+        "65536": 20171016,
+        "131072": 20171109,
+        "196608": 20171130,
+        "262144": 20180510,
+        "327680": 20181011
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Strategy"
+    ],
+    "intro": "Opposites collide in the negative-space combat of INVERSUS!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
+    "region": null
 }

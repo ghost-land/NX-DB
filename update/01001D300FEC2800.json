@@ -1,4 +1,31 @@
 {
     "id": "01001D300FEC2800",
-    "version": 458752
+    "base_tid": "01001D300FEC2000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20221201,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20221201
+    },
+    "versions": {
+        "65536": 20200130,
+        "131072": 20200320,
+        "196608": 20210122,
+        "262144": 20210514,
+        "327680": 20210722,
+        "393216": 20210810,
+        "458752": 20221201
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }

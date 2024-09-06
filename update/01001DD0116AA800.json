@@ -1,4 +1,33 @@
 {
     "id": "01001DD0116AA800",
-    "version": 131072
+    "base_tid": "01001DD0116AA000",
+    "name": "Push the Box - Puzzle Game",
+    "description": "\"Push the Box\" is a classic puzzle game invented in Japan (also known as \"Sokoban\"). The objective of the game is to push boxes into their correct position. The simplicity and elegance of the rules have made the game one of the most popular logic games.\n\nThe rules are simple. The boxes can only be pushed, never pulled, and only one box can be pushed at a time, never two or more.\n\n* Lots of levels to keep you busy when you need a break now and then.\n* Start easy and work your way up to harder levels.\n* Undo when you make a wrong move, useful for newbies.\n* Puzzling levels that challenges your brain muscles.\n* Climb the Leaderboard and earn bragging rights.\n\nRemember that boxes must be pushed and not pulled. Keep that in mind as you plan your strategy!",
+    "publisher": "eSolutions Nordic",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20200506,
+    "latest_update_release_date": 20200630,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200630
+    },
+    "versions": {
+        "65536": 20200506,
+        "131072": 20200630
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade",
+        "Strategy"
+    ],
+    "intro": "Push boxes into their correct position with a minimal number of pushes and moves.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

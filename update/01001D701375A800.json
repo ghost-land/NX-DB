@@ -1,4 +1,45 @@
 {
     "id": "01001D701375A800",
-    "version": 196608
+    "base_tid": "01001D701375A000",
+    "name": "PUZZLE & DRAGONS Nintendo Switch Edition",
+    "description": "Play on your TV or handheld and with touch controls!\nThe definitive Puzzle RPG!\n\nEmbark on an epic quest, harnessing the power of appealing monsters and clever puzzle play! Featuring three modes jam-packed with Orb-matching fun: Quest, PvP, and Custom!\n\n[Quest Mode]\nBattle fearsome monsters through a succession of dungeons!\n\nYou can also join forces against powerful foes with 2-4 other players!\n\n[PvP Mode]\nIn this mode, up to 8 players compete for the highest score!\n\nWorld Matches pit you against players from around the world, Friend Matches feature lobby-based competition with friends, and Computer Matches let you practice with an AI opponent!\n\nEvent Dungeons are also regularly scheduled!\n\n[Custom Mode]\nCombine monsters, backgrounds, and background music to create your own original dungeons, then upload them for players across the world to enjoy!\n\nYou can likewise download and play other players’ creations!",
+    "publisher": "GUNGHOONLINE",
+    "developer": null,
+    "base_release_date": 20220220,
+    "first_update_release_date": 20220217,
+    "latest_update_release_date": 20220713,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220713
+    },
+    "versions": {
+        "65536": 20220217,
+        "131072": 20220330,
+        "196608": 20220713
+    },
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Party",
+        "Action"
+    ],
+    "intro": "Casual puzzles meet big adventures, whether alone or with friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

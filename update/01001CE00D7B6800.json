@@ -1,4 +1,35 @@
 {
     "id": "01001CE00D7B6800",
-    "version": 131072
+    "base_tid": "01001CE00D7B6000",
+    "name": "Super Neptunia™ RPG",
+    "description": "Super Neptunia RPG lets players explore side-scrolling dungeons and fight in turn-based battles with all-new art and animations! \nSettle the debate once and for all – which games are better: 2D or 3D!",
+    "publisher": "Reef Entertainment",
+    "developer": null,
+    "base_release_date": 20190628,
+    "first_update_release_date": 20190627,
+    "latest_update_release_date": 20190719,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190719
+    },
+    "versions": {
+        "65536": 20190627,
+        "131072": 20190719
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual references",
+        "Sexualised imagery"
+    ],
+    "region": null
 }

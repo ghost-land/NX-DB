@@ -1,4 +1,40 @@
 {
     "id": "01001CC00D522800",
-    "version": 196608
+    "base_tid": "01001CC00D522000",
+    "name": "World Cruise Story",
+    "description": "Get ready to take the helm of history's grandest, most over-the-top luxury cruise liner for an unforgettably addictive excursion at sea!\n\nDeck your own ship with everything from lavish suites and first-class restaurants to casinos and hot tubs! You call the shots as you travel the world, visiting every country on the map--even entertaining royalty with tours truly fit for kings!\n\nPut the right facilities next to each other and you'll score big points with passengers and reviewers. Amass enough fame and even celebrities will come flocking when you're in port!\n\nCan you turn your sea buggy into a 5-star floating paradise? Put on your captain's hat and find out in World Cruise Story!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20210323,
+    "latest_update_release_date": 20221012,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221012
+    },
+    "versions": {
+        "65536": 20210323,
+        "131072": 20210728,
+        "196608": 20221012
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "Captain a luxury cruise liner, sailing the entire world while entertaining VIPs!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
