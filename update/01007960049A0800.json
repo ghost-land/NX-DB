@@ -1,4 +1,41 @@
 {
     "id": "01007960049A0800",
-    "version": 131072
+    "base_tid": "01007960049A0000",
+    "name": "Bayonetta™ 2",
+    "description": "Bayonetta’s back and more powerful than ever. Wield wild weapons and execute deadly moves—like the powerful Umbran Climax—to take out angels and demons in this breathtaking action game. You can even team up with friends in 2-player online or local wireless co-op fights (additional accessories required; sold separately.) Bayonetta is a butt-kicking, havoc-wreaking witch who wields sweet weapons like pistols, whips, hammers, flamethrowers, and poison bows. But it’s not just about brawn—it’s also about style. Bayonetta is deadly but sleek, with moves like Witch Time that slows down time itself, and the all-new Umbran Climax—a special magic attack that summons Infernal Demons to devastate enemies. The Bayonetta™ 2 game also features an online and local wireless 2-player cooperative mode where players bet halos on their performance and work together to amplify their sass, cause destruction, and score some riches.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180216,
+    "first_update_release_date": 20220930,
+    "latest_update_release_date": 20221123,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221123
+    },
+    "versions": {
+        "65536": 20220930,
+        "131072": 20221123
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Bayonetta is back with stylish moves and powerful weapons",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Partial Nudity",
+        "Strong Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

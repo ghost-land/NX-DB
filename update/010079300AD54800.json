@@ -1,4 +1,44 @@
 {
     "id": "010079300AD54800",
-    "version": 327680
+    "base_tid": "010079300AD54000",
+    "name": "Full Metal Furies",
+    "description": "FULL METAL FURIES puts an emphasis on team play with a unique combat system where everyone is important. Work together to defeat special enemies, string organics combos to deal massive damage, and save a war-torn world that is battling itself to extinction. Play on the couch or online with friends, and make it a party for up to four players! Or go solo in single-player, and show off your skills through a Pick 2 quick-switch system that retains all the nuances of multi-play.",
+    "publisher": "Cellar Door Games",
+    "developer": null,
+    "base_release_date": 20181106,
+    "first_update_release_date": 20181106,
+    "latest_update_release_date": 20210524,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210524
+    },
+    "versions": {
+        "65536": 20181106,
+        "131072": 20190215,
+        "196608": 20190801,
+        "262144": 20190905,
+        "327680": 20210524
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Puzzle"
+    ],
+    "intro": "From the creators of Rogue Legacy comes a \"true-cooperative\" action RPG.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

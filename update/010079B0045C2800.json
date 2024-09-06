@@ -1,4 +1,34 @@
 {
     "id": "010079B0045C2800",
-    "version": 131072
+    "base_tid": "010079B0045C2000",
+    "name": "SONIC FORCES",
+    "description": "創下全球累計銷量3.5億套的超人氣系列新作，終於在PlayStation4・Nintendo Switch等最新主機上登場！\n索尼克全明星不分敵我，所有角色傾全力演出熱血、激昂、真摯的故事。\n在最新繪圖引擎「HEDGEHOG ENGINE 2」精美細緻的索尼克世界中，以超爽快的音速高速動作盡情奔馳！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180719,
+    "first_update_release_date": 20171108,
+    "latest_update_release_date": 20171130,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171130
+    },
+    "versions": {
+        "65536": 20171108,
+        "131072": 20171130
+    },
+    "category": [
+        "動作",
+        "冒險"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

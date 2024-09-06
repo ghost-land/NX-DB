@@ -1,4 +1,43 @@
 {
     "id": "01007AB012102800",
-    "version": 131072
+    "base_tid": "01007AB012102000",
+    "name": "Arrog",
+    "description": "Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in a bizarre black-and-white world with color accents.\n\nFeatures\n\n-A tale about the journey of a man accepting his death through his dreams.\n-A unique black-and-white art style and traditional animations used in a bizarre world.\n-An intense 30-minute narrative experience.\n-A hand-crafted soundtrack for each section of the game.",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20210122,
+    "first_update_release_date": 20201230,
+    "latest_update_release_date": 20201230,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201230
+    },
+    "versions": {
+        "65536": 20201230,
+        "131072": 20201230
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Arrog is an enigmatic puzzle adventure game featuring hand-drawn art and set in a bizarre black-and-white world with color accents.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01007A601318C800",
-    "version": 65536
+    "base_tid": "01007A601318C000",
+    "name": "Tanuki Justice",
+    "description": "Features:\n• Dynamic gameplay with visuals that fit the atmosphere.\n• Dozens of different types of enemies.\n• Classical shurikens over the head and a giant shuriken for difficult moments.\n• Playable in single or two-player mode.\n\nDescription:\nTanuki Justice is a continuous intensive action run’n gun in which you incarnate a tanuki brother and sister. You’ll face hundreds of enemies in feudal Japan. Varied environments with landscapes of all kinds, retro and fast rhythmic music, numerous and difficult situations reminiscent of good old arcade games. A gameplay both simple and rich allowing spectacular actions. Possibility to play with 2 people for even more fun. And challenges that will challenge even the most skilled players. Time will be your worst enemy.",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20231019,
+    "first_update_release_date": 20220825,
+    "latest_update_release_date": 20220825,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220825
+    },
+    "versions": {
+        "65536": 20220825
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Inconspicuous combination of a platformer bullet hell with cute, pixel graphics. Tanuki Justice will challenge your precision jumping and shuriken throwing skills!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

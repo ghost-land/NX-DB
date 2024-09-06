@@ -1,4 +1,44 @@
 {
     "id": "01007A9015620800",
-    "version": 458752
+    "base_tid": "01007A9015620000",
+    "name": "Hextech Mayhem: A League of Legends Story™",
+    "description": "In this fast-paced rhythm runner, every action has an explosive reaction and no amount of mayhem is too much. Take on the role of yordle and Hexplosives expert Ziggs as you rampage through the neighborhoods of Piltover. \n\nBomb, bounce, and bop to the beat of the music to avoid obstacles, disarm enemies, and light fuses to achieve maximum chaos. Cause musical mayhem while outrunning no-fun-allowed Heimerdinger in your quest to build the greatest bomb the world has ever seen!\n\nUse the Freestyle Mayhem System to create spontaneous blasts and grab bonus points… all while dodging the fun police and showing them what they’re really missing.\n\nLeave no fuse unlit in Hextech Mayhem: A League of Legends Story.",
+    "publisher": "Riot Forge",
+    "developer": null,
+    "base_release_date": 20211116,
+    "first_update_release_date": 20211109,
+    "latest_update_release_date": 20220614,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220614
+    },
+    "versions": {
+        "131072": 20211109,
+        "458752": 20220614
+    },
+    "category": [
+        "Music",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Bomb to the beat, groove to the mayhem!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

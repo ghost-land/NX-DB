@@ -1,4 +1,42 @@
 {
     "id": "010079600BF22800",
-    "version": 327680
+    "base_tid": "010079600BF22000",
+    "name": "KUUKIYOMI: Consider It!",
+    "description": "See how considerate you can be, without worrying about what others think. The smash-hit game \"Consider It\" is coming to Nintendo Switch™ with some new problems to consider and a two-player mode. Take it with you wherever you go.\n\nSo what is \"Consider It\"? Simply move the red object on the screen to play each problem. Most of the time you will be controlling yourself, but sometimes you might control other things too. Play through 100 problems, and get evaluated on how \"considerate\" you are.\n\nShare a Joy-Con™ with a friend and you can play the \"Consider It Together\" mode. We hope that this will help you build a considerate and harmonious relationship with whoever you play with...\n\nAlone or with a friend, enjoy Consider It to your heart's content.",
+    "publisher": "G-MODE",
+    "developer": null,
+    "base_release_date": 20191220,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20210422,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210422
+    },
+    "versions": {
+        "65536": 20180829,
+        "131072": 20190823,
+        "196608": 20191219,
+        "262144": 20200109,
+        "327680": 20210422
+    },
+    "category": [
+        "Communication",
+        "Party",
+        "Study",
+        "Other"
+    ],
+    "intro": "The world, THIS IS JAPAN.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

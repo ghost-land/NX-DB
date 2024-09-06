@@ -1,4 +1,41 @@
 {
     "id": "010079F01AF2A800",
-    "version": 131072
+    "base_tid": "010079F01AF2A000",
+    "name": "Another Bar Game",
+    "description": "A casual action game where you serve craft beer to thirsty bar guests. Become the most popular bartender in town! Wash glasses, clean tables and keep everybody happy!",
+    "publisher": "Arik Games",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240222,
+    "latest_update_release_date": 20240426,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240426
+    },
+    "versions": {
+        "65536": 20240222,
+        "131072": 20240426
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Become the most popular bartender in town",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

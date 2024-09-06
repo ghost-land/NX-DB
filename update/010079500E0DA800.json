@@ -1,4 +1,45 @@
 {
     "id": "010079500E0DA800",
-    "version": 262144
+    "base_tid": "010079500E0DA000",
+    "name": "Curious Expedition",
+    "description": "Curious Expedition is a roguelike expedition simulation set in the late 19th century. Take the role of famous historical personalities and venture forth on expeditions to unexplored regions on a quest for fame, science and, of course, fortune!\nDon your pith helmet and khakis and make your way through a lush, procedurally generated world full of wonder and mystery.\nCurious Expedition draws inspiration from the enthusiastic curiosity that for centuries have driven the human species to the far corners of the earth. Take part in the glory and wonder, but also the horror and peril that is the constant companion of the explorer. \nRace to the halfway around the world and beyond in an often cut-throat competition for fame or infamy with your colleagues and rivals at the Explorers Club. Raise your reputation and win the ultimate recognition through donations to the museum, or line your pockets with your looted riches. \nNow go explore, adventure awaits!",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20200403,
+    "first_update_release_date": 20200407,
+    "latest_update_release_date": 20200907,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200907
+    },
+    "versions": {
+        "65536": 20200407,
+        "131072": 20200424,
+        "196608": 20200507,
+        "262144": 20200907
+    },
+    "category": [
+        "Adventure",
+        "Board Game",
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Go explore, adventure awaits!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference"
+    ],
+    "region": null
 }

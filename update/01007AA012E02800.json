@@ -1,4 +1,36 @@
 {
     "id": "01007AA012E02800",
-    "version": 131072
+    "base_tid": "01007AA012E02000",
+    "name": "Fantasy Tower Defense",
+    "description": "Hurry up! Go back to your castle before rushing enemies arrive there and defend it in the final battle! Customize your tactic depending on enemies you encounter with different towers, special skills and courageous reinforcements. \n\n- 20 unique levels which require different strategies\n- Wide variety of enemies with unique abilities and weaknesses\n- 5 powerful towers which can be upgraded to be even more destructive\n- Special skills of towers crucial to accomplish your goal\n- Long battles which will provide you hours of gameplay\n- Beautiful, hand made fantasy world\n- Spectacular boss fights",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20200904,
+    "first_update_release_date": 20200924,
+    "latest_update_release_date": 20210630,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210630
+    },
+    "versions": {
+        "65536": 20200924,
+        "131072": 20210630
+    },
+    "category": [
+        "Strategy",
+        "Puzzle",
+        "Arcade",
+        "Board Game"
+    ],
+    "intro": "How long can you survive under the heavy pressure of the incoming attackers? ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "01007A90129E2800",
-    "version": 196608
+    "base_tid": "01007A90129E2000",
+    "name": "AKIBA'S TRIP: Hellbound & Debriefed",
+    "description": "Supernatural creatures are stalking the pop culture mecca of Akihabara—and you know that because they've turned you into one of them. Their only weakness, and yours, is sunlight, which means there's only one way to stop them: call them out on the streets, knock their clothes off, and expose their skin before they can do it to you.\n\nArm yourself with a rolled-up poster, a guitar, a laptop, a magical girl wand, or (if you insist) an actual weapon, then hit Akihabara's colourful streets. Browse recreations of real-life shops circa 2011, mingle with Akiba's residents and tourists, and discover the town's many secrets.\n\nWill you work with the secret paranormal-hunting agency, give the creatures a fair shake (hey, some of them seem all right), or just look out for your otaku friends? Choose your side, choose your missions, and enjoy a freewheeling adventure with AKIBA'S TRIP: Hellbound & Debriefed.",
+    "publisher": "Marvelous Europe",
+    "developer": null,
+    "base_release_date": 20210723,
+    "first_update_release_date": 20210525,
+    "latest_update_release_date": 20210721,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210721
+    },
+    "versions": {
+        "65536": 20210525,
+        "131072": 20210617,
+        "196608": 20210721
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": "Expose the evil lurking in Japan's pop culture mecca in this HD update of the first entry in the AKIBA'S TRIP series.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,53 @@
 {
     "id": "01007A700A87C800",
-    "version": 655360
+    "base_tid": "01007A700A87C000",
+    "name": "The Long Dark",
+    "description": "Bright lights flare across the night sky. The wind rages outside the thin walls of your wooden cabin. A wolf howls in the distance. You look at the meager supplies in your pack, and wish for the days before the power mysteriously went out. How much longer will you survive?\n\nWelcome to THE LONG DARK, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\".",
+    "publisher": "Hinterland Studio",
+    "developer": null,
+    "base_release_date": 20211103,
+    "first_update_release_date": 20200917,
+    "latest_update_release_date": 20240801,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240801
+    },
+    "versions": {
+        "65536": 20200917,
+        "131072": 20200930,
+        "196608": 20201208,
+        "262144": 20210106,
+        "327680": 20210209,
+        "393216": 20211007,
+        "458752": 20211116,
+        "524288": 20211207,
+        "589824": 20220413,
+        "655360": 20240801
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

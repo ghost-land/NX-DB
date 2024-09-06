@@ -1,4 +1,37 @@
 {
     "id": "01007A0011878800",
-    "version": 196608
+    "base_tid": "01007A0011878000",
+    "name": "Prinny®: Can I Really Be the Hero?",
+    "description": "Master Etna demands the ultimate dessert, and it is up to a legion of lowly Prinnies to make it! Jump, slash, and combo your way through different stages of the Netherworld, devastate enemies and bosses with special attacks, and encounter both new and familiar faces in this explosive action adventure from the twisted minds behind the DISGAEA series!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20201023,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20210209,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210209
+    },
+    "versions": {
+        "65536": 20200813,
+        "131072": 20200917,
+        "196608": 20210209
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "1000 chances to be a hero (or die trying)",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence",
+        "Sexual references",
+        "Coarse language"
+    ],
+    "region": null
 }

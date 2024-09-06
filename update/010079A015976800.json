@@ -1,4 +1,50 @@
 {
     "id": "010079A015976800",
-    "version": 262144
+    "base_tid": "010079A015976000",
+    "name": "OddBallers™",
+    "description": "Use brutally unfair tactics to mess with your opponents in this wacky multiplayer party game! \n\n• Play a new type of hard-hitting dodgeball\nDodge, block, and grab whatever you can to throw at the faces of your frenemies. And use the environment to crush opponents with electrical fences, explosive gas tanks, or tennis ball launchers.\n\n• Embrace the absurd\nEvery arena comes with its own rules and features various frantic mini-games where anything can happen! From last-one-standing games to team-based battles to running for your life wearing a rooster costume, or knocking opponents out with fresh fish.\n\n• Challenge your friends\nTest your skills (and friendships) online or locally! Play with up to four players in your living room, or take the matches online and compete against five other contenders. \n\n• Switch up your playing field\nFrom rustic farms to waterfront towns to paradise islands, each environment features more than 20 different arenas and unique mini-games for even more fun. \n\n• Customize your character\nCustomize your character from head to toe with hundreds of hilarious outfits, haircuts, and more to be the best-looking in the arena. You can even pick your favorite dance move to taunt your fallen foes, and tailor each mini-game to your taste!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20230124,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230124,
+        "131072": 20230419,
+        "196608": 20230608,
+        "262144": 20230714
+    },
+    "category": [
+        "Action",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Crude Humor",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
