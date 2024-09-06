@@ -1,4 +1,40 @@
 {
     "id": "0100C9801CF1A800",
-    "version": 65536
+    "base_tid": "0100C9801CF1A000",
+    "name": "Dreams of a Geisha",
+    "description": "Take a journey through the magical and wonderful world of Geisha. Help Ichisumi in this incredible adventure to reopen the temples of Geisha and restore a world of beauty and passion. Dive into this engaging Match 3 game with beautiful scenery and relaxing music. Overcome obstacles, collect puzzle pieces, and be prepared to solve challenging puzzles in Dreams of a Geisha!\n\nFeatures:\n* Fantastic gameplay\n* Exciting action\n* Restore a wonderful world!\n* 120 unique levels",
+    "publisher": "Green Sauce Games",
+    "developer": null,
+    "base_release_date": 20231024,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20231013
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "Journey through the wonderful world of Geisha. Help Ichisumi to reopen the temples and restore a world of beauty and passion.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

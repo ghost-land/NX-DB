@@ -1,4 +1,43 @@
 {
     "id": "0100C8C0163E2800",
-    "version": 65536
+    "base_tid": "0100C8C0163E2000",
+    "name": "Splatter",
+    "description": "In the dark, where emptiness surrounds you, the only way to see something and find a way out is to spray as much paint as possible everywhere, but you should not rely on paint alone. Visual memory, abstract thinking, the ability to make decisions at lightning speed and, of course, strong nerves - these are the qualities that are needed to complete the game.",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20210924,
+    "latest_update_release_date": 20210924,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210924
+    },
+    "versions": {
+        "65536": 20210924
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "The puzzle platformer with its own atmosphere in which 50 exciting levels await you\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

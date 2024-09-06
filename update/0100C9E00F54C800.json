@@ -1,4 +1,42 @@
 {
     "id": "0100C9E00F54C800",
-    "version": 131072
+    "base_tid": "0100C9E00F54C000",
+    "name": "Air Missions: HIND",
+    "description": "Air Missions: HIND is an action combat flight simulator based on the Russian Mi-24 Hind assault helicopter, also known as the 'Flying Tank'. Equip the weapon of your choice! - UPK 23 machineguns, GUV gun pods, FAB bombs, and the variety of missiles. Use those weapons to tear up the sky in single player and multiplayer modes.\n\n - Tabletop, TV mode and handheld mode\n - Three control modes for casual and experienced players\n - Fifteen missions based on fictional conflicts\n - Four different environments: Central Asia, Eastern Europe, Arctic Ocean and Southeast Asia\n - Singleplayer and Multiplayer mode, including Campaign missions, Deathmatch, Instant Action, and Online co-operative missions\n - AAM, MCLOS, SACLOS, S-5, S-8, S-13, S-24 - Use those to destroy the enemy!",
+    "publisher": "Games Farm",
+    "developer": null,
+    "base_release_date": 20200917,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20210625,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210625
+    },
+    "versions": {
+        "65536": 20201021,
+        "131072": 20210625
+    },
+    "category": [
+        "Simulation",
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Air Missions: HIND is an action combat flight simulator based on the Russian Mi-24 Hind assault helicopter. Dominate the skies in the infamous ‘’Flying Tank’’! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

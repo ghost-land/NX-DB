@@ -1,4 +1,43 @@
 {
     "id": "0100C960041DC800",
-    "version": 131072
+    "base_tid": "0100C960041DC000",
+    "name": "Levels+ : Addictive Puzzle Game",
+    "description": "Levels+ is an addictive puzzle game that you'll want to challenge over and over again.\n\nThe rule is simple. Slide and match panels with the same color and number to level up!\n\nThe blue panel is your ally. It will get stronger as you level up. \nThe red panel is your enemy and it will get in your way. Level up your blue panels to defeat your foe. \nThe yellow panel is your treasure. Level it up to increase its wealth. \n\nThere is no time limit, and the auto-save feature allows you to play even with interruptions, so reach for your high score at your own pace. \n\nIt looks simple but you need to use your brain.\nRecommended for both people not so good at games and for those who are looking for a certain challenge, this puzzle game features a new refreshing feeling!",
+    "publisher": "flow",
+    "developer": null,
+    "base_release_date": 20170713,
+    "first_update_release_date": 20170823,
+    "latest_update_release_date": 20171004,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20171004
+    },
+    "versions": {
+        "65536": 20170823,
+        "131072": 20171004
+    },
+    "category": [
+        "Puzzle",
+        "RPG",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "It's easy, but it's difficult. It's simple, but it has depth.\nA puzzle game that you'll get so hooked to, you'll lose sleep.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

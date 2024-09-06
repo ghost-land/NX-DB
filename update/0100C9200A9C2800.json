@@ -1,4 +1,37 @@
 {
     "id": "0100C9200A9C2800",
-    "version": 65536
+    "base_tid": "0100C9200A9C2000",
+    "name": "Carcassonne",
+    "description": "Make your kingdom come alive with meeples, tiles and tactics!\n\nThe best-selling tile-based game is now available on Nintendo Switch™!\n\nDraw and place your tiles to build cities, roads, monasteries, and fields. Create an ever-growing landscape and place your meeples to secure the best scoring spots. They will become knights, robbers, or farmers, and dispute the ownership of the best cities and roads.\nBut be careful, you'll need your wits and tactics to optimize your points! Cut short the plans of your opponents while protecting your owns. \n\nCarcassonne for Nintendo Switch includes the latest updates and improvements as well as 2 expansions adding new meeples, tiles and rules:\n• The River expansion\n• The Abbot expansion\nThey are compatible with other DLCs for an even wilder game!\n\nFeatures:\nThe complete Carcassonne Digital experience including quality of life improvement such as the remaining tiles list.\nSimple gameplay and accessible tactics to play with the whole family.\nChallenge up to 6 players online or in local play.\nEnjoy the board game experience on your Nintendo Switch in TV or Tabletop mode.\nChoose the 3D landscape or try out the aerial view to refine your strategy.\n",
+    "publisher": "Twin Sails",
+    "developer": null,
+    "base_release_date": 20181206,
+    "first_update_release_date": 20211117,
+    "latest_update_release_date": 20211117,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211117
+    },
+    "versions": {
+        "65536": 20211117
+    },
+    "category": [
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Make your kingdom come alive with meeples, tiles and tactics!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

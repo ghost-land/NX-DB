@@ -1,4 +1,43 @@
 {
     "id": "0100C9A00952A800",
-    "version": 131072
+    "base_tid": "0100C9A00952A000",
+    "name": "Manticore - Galaxy on Fire",
+    "description": "MAKE YOUR STAND BEYOND THE STARS\n\nWrite your legacy in gunfire and smoke as you take down the galaxy’s most wanted criminals in action-packed dogfights! Rise to become the hero of the Neox Sector – a deadly fringe world terrorized by ruthless crime lords and their no-good underlings!\n\nFIGHT SPACE PIRATES & SAVE THE GALAXY\n\nEnjoy 8+ hours of play time and 60fps across all game modes as you follow a gripping narrative in three acts. Fly spectacular spaceships, master challenging missions and explore a handcrafted universe in the new sci-fi action shooter on Nintendo Switch™! Experience stellar gameplay thanks to intuitive HUD and UI elements as full support of the Joy-Con™ and Nintendo Switch™ Pro controller with HD Rumble.",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20180419,
+    "first_update_release_date": 20180307,
+    "latest_update_release_date": 20180410,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180410
+    },
+    "versions": {
+        "65536": 20180307,
+        "131072": 20180410
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "FIGHT ALIENS & SPACE PIRATES IN THE #1 SCI-FI ACTION SHOOTER",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }

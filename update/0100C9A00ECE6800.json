@@ -1,4 +1,61 @@
 {
     "id": "0100C9A00ECE6800",
-    "version": 1376256
+    "base_tid": "0100C9A00ECE6000",
+    "name": "Nintendo 64™ – Nintendo Switch Online",
+    "description": "With a Nintendo Switch Online + Expansion Pack membership, access a collection of Nintendo 64™ games that are great to play anytime, anywhere! For the first time ever, you can play these classic games online and use voice chat via the Nintendo Switch Online smartphone app*. With these features, compete in a Mario Kart™ 64 race with friends online, share your screen and bring someone along for your Star Fox™ 64 ride, and suspend your game at any point during The Legend of Zelda™: Ocarina of Time™. You can even play the action-packed Sin & Punishment™ game, which was originally released in Japan only! \n\n• A selection of classic Nintendo 64 games with newly added online play\n• Games can also be played offline, so you can play while on the go—anytime, anywhere\n• Create suspend points for each game to save your progress\n• With online play added to every game, you can compete or cooperate online with friends, share your screen, or pass the controller, depending on the game\n• Use the Nintendo Switch Online smartphone app* to play online with voice chat\n• European versions of some games are also included, allowing for additional language options\n• Supports Joy-Con™ controllers, Nintendo Switch™ Pro Controller**, and the Nintendo 64 Controller***\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20211025,
+    "first_update_release_date": 20211210,
+    "latest_update_release_date": 20240424,
+    "latest_update": {
+        "version": "1376256",
+        "release_date": 20240424
+    },
+    "versions": {
+        "65536": 20211210,
+        "131072": 20220120,
+        "196608": 20220225,
+        "262144": 20220310,
+        "327680": 20220414,
+        "393216": 20220520,
+        "458752": 20220530,
+        "524288": 20220623,
+        "589824": 20220714,
+        "655360": 20220818,
+        "720896": 20221013,
+        "786432": 20221101,
+        "851968": 20230126,
+        "917504": 20230411,
+        "983040": 20230509,
+        "1048576": 20230809,
+        "1114112": 20230829,
+        "1179648": 20231026,
+        "1245184": 20231208,
+        "1310720": 20240221,
+        "1376256": 20240424
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "Party like it’s 1996 with Nintendo 64™ – Nintendo Switch Online",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

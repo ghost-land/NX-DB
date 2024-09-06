@@ -1,4 +1,36 @@
 {
     "id": "0100C9D01EF0A800",
-    "version": 65536
+    "base_tid": "0100C9D01EF0A000",
+    "name": "Super The Glass Staircase",
+    "description": "你們很久沒有見到父母了，是嗎？別擔心，姑娘們。聽著對講機裡的聲音就行了。他們說什麼你就做什麼。他們給了你們一個家。他們給了你們食物。他們會把你們培養成好女孩。\n這棟老房子從來沒虧待過你們，不是嗎？你們所有人當好女孩吧。主人需要你們在這艱難時刻堅強起來。\n\n特點：\n●    固定的攝影機角度讓恐懼升級--你永遠不知道轉角處會有什麼在等著你...\n●    懷舊的畫面，在主題和機械方面向經典恐怖生存遊戲致敬。\n●    在這房子的深處潛藏著邪惡的秘密......將它們拖到陽光下。\n●    收集過去的信件，拼湊出一個令人毛骨悚然的故事，揭開這座宅邸及其黑暗歷史的神秘面紗。\n\n記住： 好女孩吃藥。好女孩做家事。好女孩回家。",
+    "publisher": "Puppet Combo",
+    "developer": null,
+    "base_release_date": 20240523,
+    "first_update_release_date": 20240516,
+    "latest_update_release_date": 20240516,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240516
+    },
+    "versions": {
+        "65536": 20240516
+    },
+    "category": [
+        "冒險",
+        "動作",
+        "其他"
+    ],
+    "intro": "《玻璃樓梯》是一部向 恐怖生存遊戲和義大利殭屍電影致敬的作品。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

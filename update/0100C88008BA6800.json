@@ -1,4 +1,37 @@
 {
     "id": "0100C88008BA6800",
-    "version": 65536
+    "base_tid": "0100C88008BA6000",
+    "name": "ハッピーバースデイズ",
+    "description": "あの『Birthdays the Beginning』が\n新要素を追加してNintendo Switchに登場！\n\nさまざまな生物を自らの手で誕生させて、\n自分だけの惑星を作ろう！\n\n■いのちを生み出そう！\n土地の温度や湿度など、惑星の環境を整えることで\nイキモノがどんどん誕生するぞ！\n\n新しく追加されたアシスト機能を活用して\nイキモノが誕生する条件をチェックだ！\n\n■生物は全部で約300種類！\nさまざまな条件をクリアして、イキモノたちをコンプリートしよう！\n本作からの新生物も追加されているぞ！\n\n■ハッピースターでお祝い♪\nプレイに合わせてたくさんのスターを入手できるぞ！\nスターでイキモノを誕生させるための便利なスキルを使用したり、\nモニュメントを設置して惑星を彩っちゃおう！",
+    "publisher": "アークシステムワークス",
+    "developer": null,
+    "base_release_date": 20180329,
+    "first_update_release_date": 20180314,
+    "latest_update_release_date": 20180314,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180314
+    },
+    "versions": {
+        "65536": 20180314
+    },
+    "category": [
+        "シミュレーション"
+    ],
+    "intro": "新たな世界で生命を生み出す\n新感覚惑星育成シミュレーションゲーム！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

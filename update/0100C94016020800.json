@@ -1,4 +1,44 @@
 {
     "id": "0100C94016020800",
-    "version": 65536
+    "base_tid": "0100C94016020000",
+    "name": "Scrapnaut",
+    "description": "Scrapnaut is a co-op & singleplayer top-down, base building survival game with steampunk elements. Explore an open world with different biomes, take care of oxygen, manage your farms, generate electricity, build your home and much more!",
+    "publisher": "RockGame",
+    "developer": null,
+    "base_release_date": 20220121,
+    "first_update_release_date": 20220219,
+    "latest_update_release_date": 20220219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220219
+    },
+    "versions": {
+        "65536": 20220219
+    },
+    "category": [
+        "Adventure",
+        "Multiplayer",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

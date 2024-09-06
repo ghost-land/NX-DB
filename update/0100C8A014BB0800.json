@@ -1,4 +1,45 @@
 {
     "id": "0100C8A014BB0800",
-    "version": 65536
+    "base_tid": "0100C8A014BB0000",
+    "name": "Colorfall",
+    "description": "Grow your problem-solving skills, fast thinking, pattern recognition and sequence solving. Enjoy thought-provoking fun with addictive puzzle game in accompaniment of relaxing piano sounds which allow you to clear your mind and keep it healthy. \n\n★ Challenging levels with different board sizes\n★ Worldwide highscore for best players\n★ Clean, colorful user interface\n★ Relaxing sound effects\n★ Suitable for all ages\n★ Intuitive controls",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20210423,
+    "first_update_release_date": 20210413,
+    "latest_update_release_date": 20210413,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210413
+    },
+    "versions": {
+        "65536": 20210413
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Music",
+        "Strategy"
+    ],
+    "intro": "Connect paired elements to create a colorful waterfalls!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

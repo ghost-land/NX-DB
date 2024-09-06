@@ -1,4 +1,36 @@
 {
     "id": "0100C850130FE800",
-    "version": 131072
+    "base_tid": "0100C850130FE000",
+    "name": "Outbreak: Epidemic",
+    "description": "Featuring the great Outbreak series gameplay with greater mobility, crushing difficulty and more camera options than ever before. Alone or in 2-player local co-op, fight through the Campaign story mode, the wave-based Onslaught Mode and all new Experiments Mode scenarios. Choose your survivor, class and level up to unlock new buffs for your survivor as you face the nightmare. You'll need to manage your inventory and supplies carefully, so make every bullet count!",
+    "publisher": "Dead Drop Studios",
+    "developer": null,
+    "base_release_date": 20201022,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220813,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220813
+    },
+    "versions": {
+        "65536": 20220720,
+        "131072": 20220813
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "The infection goes nation-wide in Outbreak: Epidemic, an action-focused co-op survival horror adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Violence"
+    ],
+    "region": null
 }
