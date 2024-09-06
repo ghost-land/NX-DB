@@ -1,4 +1,34 @@
 {
     "id": "0100D6A00BE66800",
-    "version": 65536
+    "base_tid": "0100D6A00BE66000",
+    "name": "World Tree Marché",
+    "description": "World Tree Marché is a warm-hearted management simulation in which you run the market of a struggling ‘world tree’ together with six chefs. As the Royal Food Adviser you need to help them through their unique gourmet storylines, find new recipes and stop the evil Gourmand Corporation.\n\nYour tasks include finding and buying ingredients to cook, creating recipes and then arranging them in stores. By discovering new ingredients and recipes you can bring the Marché back to its former glory; aim to earn big sales and enjoy ‘fever time’!\n\n6 chefs join the Marché as the story progresses, and each has their own troubles and secrets. As you strengthen relationships with the chefs their unexpected narratives will be revealed; there’s a lot to discover!\n\nIt’s time to create new cuisine (neo cuisine) that nobody has seen before!",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20190301,
+    "first_update_release_date": 20190306,
+    "latest_update_release_date": 20190306,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190306
+    },
+    "versions": {
+        "65536": 20190306
+    },
+    "category": [
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Save the kingdom with creative cooking and new cuisine in World Tree Marché!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

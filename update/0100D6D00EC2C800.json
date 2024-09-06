@@ -1,4 +1,41 @@
 {
     "id": "0100D6D00EC2C800",
-    "version": 196608
+    "base_tid": "0100D6D00EC2C000",
+    "name": "Sweet Witches",
+    "description": "Play as the adorable witches Praline and Vanille who can only rely on their magic ladders, unique abilities and power-ups to claim the sweets they deserve!\n\nBrave the danger of 50+ levels in 5+ unique worlds all by yourself or in cooperation with another player. \nThe party needs to grow? No problem, challenge the two antagonists Anis and Reglisse in a spectacular Versus mode for up to four players.\n\nIngredients of our enchanting recipe:\n- Four playable witches, each with their unique spell;\n- 50+ levels in 5+ unique worlds in the Story mode (solo or coop);\n- 5 unique arenas and 2 play modes in the Versus mode (up to four players);\n- No jump, summon magic ladders to make your way through;\n- Surprise gift boxes with mighty weapons to crush your foes;\n- Seeding the ground with flowers to charge your powers;\n- As many sweet treats as you shall deserve…\n...how many is that? Find out now!",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20190806,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20190806,
+        "131072": 20191212,
+        "196608": 20220607
+    },
+    "category": [
+        "Platformer",
+        "Party",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Put on your magic hat, the quest for candies has begun! Master powerful spells and tricks to be victorious, on your own or with friends.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

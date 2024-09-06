@@ -1,4 +1,38 @@
 {
     "id": "0100D7300E966800",
-    "version": 196608
+    "base_tid": "0100D7300E966000",
+    "name": "SELF",
+    "description": "My father has vanished, yet I seem to be the only one who has noticed. Even my own mother is completely indifferent to his absence.\nThe journey I must embark upon to bring him back is one that can only be traveled alone.\n\nIn this game, the boundaries of reality, dreams, truth, and memories are blurred. Many puzzles and challenges await, and you must commit to a series of choices leading you to a range of different endings.\n\nIn this introspective adventure, you must collect clues from throughout your journey and piece them together to find out the whole story. But—will you seize the opportunity to find your SELF?\n\n- A story that plays out upon an interactive CRT monitor screen.\n- Varied gameplay including bullet hell minigames.\n- A unique experience with rich pixel art and a gripping story.\n- A fragmented narration with multiple endings.",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20200117,
+    "first_update_release_date": 20200114,
+    "latest_update_release_date": 20200304,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200304
+    },
+    "versions": {
+        "131072": 20200114,
+        "196608": 20200304
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "SELF is a suspenseful Kafkaesque text-based adventure game with simulation and puzzle mechanics.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Scary Scenes"
+    ],
+    "region": null
 }

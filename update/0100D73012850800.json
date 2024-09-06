@@ -1,4 +1,33 @@
 {
     "id": "0100D73012850800",
-    "version": 65536
+    "base_tid": "0100D73012850000",
+    "name": "THE KNIGHT OF QUEEN",
+    "description": "“THE KNIGHT OF QUEEN” is a Role-Playing Game which a player can experience the world of the RPGs played around 1990 which is fully playable in VR. The game has a medieval world and a nostalgic one-on-one turn-based command input battle system. \n\nYou play as a knight of a medieval queen and explore a world ruled by the Devil King who threatens peace by defeating various monsters and collecting various information and items.",
+    "publisher": "VR RPG",
+    "developer": null,
+    "base_release_date": 20201029,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20210224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210224
+    },
+    "versions": {
+        "65536": 20210224
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Dive into the world of an old-school RPG in VR !! Become the Hero of his majesty the Queen, by exploring the world to defeat the vicious Devil King !!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

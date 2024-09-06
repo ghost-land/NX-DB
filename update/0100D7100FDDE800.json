@@ -1,4 +1,45 @@
 {
     "id": "0100D7100FDDE800",
-    "version": 65536
+    "base_tid": "0100D7100FDDE000",
+    "name": "Down in Bermuda",
+    "description": "An unnatural storm leaves an adventurous aviator stranded for decades within the infamous Bermuda. Overcome creatures of the deep and unravel the islands secrets in search for a way back home.\n\nDown in Bermuda is a quirky adventure filled with puzzles to solve and mysteries to uncover. Our adventurous aviator Milton finds himself trapped in a time bubble deep inside the Bermuda and needs your help to escape. \n\nCrack codes, solve puzzles, collect magic orbs and escape each of the six unique islands, each one leading to the next on a quest for a way back home.\n\nFrom the studio who brought you the suave secret agent adventure Agent A: A puzzle in disguise.",
+    "publisher": "YAK",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20211008,
+    "latest_update_release_date": 20211008,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211008
+    },
+    "versions": {
+        "65536": 20211008
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "RPG"
+    ],
+    "intro": "Overcome creatures of the deep and unravel the islands secrets in search for a way back home.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

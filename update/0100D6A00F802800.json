@@ -1,4 +1,36 @@
 {
     "id": "0100D6A00F802800",
-    "version": 65536
+    "base_tid": "0100D6A00F802000",
+    "name": "Super Box Land Demake",
+    "description": "Pick from two characters to help solve moving box puzzles in order to advance to the next stage!\n\nPush boxes across a variety of different puzzling levels by yourself or with a friend in coop mode! Control two different characters at once even in single player!\n\nChoose from 3 difficulty options that make recovering from your mistakes harder!\n\nFeatures:\n * Push boxes in 100 levels\n * Vibrant 8-bit visuals with unique themes\n * Activate a speed run timer in order to test your speed\n * Pick from 3 difficulties to challenge your box moving skills\n * Play cooperatively with friends or control 2 characters at the same time",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20191012,
+    "first_update_release_date": 20211213,
+    "latest_update_release_date": 20211213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211213
+    },
+    "versions": {
+        "65536": 20211213
+    },
+    "category": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Push your way through puzzling challenges!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

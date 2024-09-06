@@ -1,4 +1,42 @@
 {
     "id": "0100D6A015B12800",
-    "version": 131072
+    "base_tid": "0100D6A015B12000",
+    "name": "Endless Puzzle Fun Collection",
+    "description": "Candy 2048 Challenge\n\nTest your intelligence in the iconic 2048 game for intense fun! Play in 1-vs-1 multiplayer to really see who is the best!\n\nFeatures:\n•\tWorld famous 2048 game\n•\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n•\tFun and addictive music\n•\tLocal leaderboard\n\n\nYum Yum Line\n\nMatch 5 tiles of the same color, clear lines and make sure you don't get stuck! Fantastic fun for all ages. Challenge a friend and play on the same screen in the local battle mode.\n\nFeatures:\n•\tClassic Line gameplay\n•\tInfinite replayability\n•\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n•\tLocal leaderboard",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20210916,
+    "first_update_release_date": 20220331,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20220331,
+        "131072": 20220720
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Multiplayer",
+        "Education"
+    ],
+    "intro": "Test your skills in two endless puzzle games. Play solo or battle it out in 1-vs-1 multiplayer for the highest score!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

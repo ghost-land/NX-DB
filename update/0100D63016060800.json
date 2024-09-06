@@ -1,4 +1,32 @@
 {
     "id": "0100D63016060800",
-    "version": 65536
+    "base_tid": "0100D63016060000",
+    "name": "9-Ball Pocket",
+    "description": "9-Ball Pocket brings you eight-ball pool, also known as American billiards. You can compete with up to 4 friends or against the AI in Versus mode, or challenge the best in the world in Arcade mode, where you can make combo shots and rack up points to become Number 1 in the online ranking. All of this comes in a setting with great graphics and Jazz music.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20211207,
+    "first_update_release_date": 20211104,
+    "latest_update_release_date": 20211104,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211104
+    },
+    "versions": {
+        "65536": 20211104
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Enjoy 9-Ball Pocket with friends and family.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "0100D7000C2C6800",
-    "version": 131072
+    "base_tid": "0100D7000C2C6000",
+    "name": "Katamari Damacy REROLL",
+    "description": "Nintendo Switch™ is ready to roll... Are you?\n\nThe stop-at-nothing pushing prince is back and ready to reroll! When the King of All Cosmos accidentally destroys all the stars in the sky, he orders you, his pint-sized princely son, to put the twinkle back in the heavens above. Join the King and Prince of Cosmos on their wacky adventure to restore the stars at home or on the go – now in full HD! \n\nThe beloved roll-em-up game returns with fully updated graphics, completely recreated cutscenes and in full HD! \n\nPlayers can use the Joy-Cons­­™ to control the katamari using the gyro controls to turn and shake the Joy-Cons to perform the Prince Dash when in Tabletop mode. Players can also play on multiplayer mode with a friend by using the two Joy-Cons on the Nintendo Switch™.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20211021,
+    "first_update_release_date": 20181128,
+    "latest_update_release_date": 20210812,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210812
+    },
+    "versions": {
+        "65536": 20181128,
+        "131072": 20210812
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Nintendo Switch™ is ready to roll... Are you?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol and Tobacco Reference",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
