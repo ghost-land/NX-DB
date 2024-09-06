@@ -1,4 +1,38 @@
 {
     "id": "01003510168E0800",
-    "version": 65536
+    "base_tid": "01003510168E0000",
+    "name": "Raven's Hike",
+    "description": "Raven’s Hike is a 2D precision platformer, challenging game that requires the player to discover the best route to finish the levels that have a little bit of puzzles, which all movement is based on the main character grappling hook.\n\nThe difficulty curve gradually increases as you progress in the game, requiring a mastery control and more precise moves. \n\nPrepare your platform skills (and your grappling hook, of course) to enjoy this amazing experience.\n\nDeveloped by Wired Dream Studio and Published by QUByte Interactive.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220516,
+    "latest_update_release_date": 20220516,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220516
+    },
+    "versions": {
+        "65536": 20220516
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Raven needs to reach the top of the tower to restore equilibrium and save the world from oblivion.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

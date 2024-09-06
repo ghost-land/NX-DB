@@ -1,4 +1,45 @@
 {
     "id": "010034A00E7F6800",
-    "version": 65536
+    "base_tid": "010034A00E7F6000",
+    "name": "Deleveled",
+    "description": "What goes up must come down… and what comes down must be bounced! Send momentum from one block to another to shoot them around the map. Cleverly conserve momentum to navigate around the map and flick all the switches but be careful; once you’re down there’s no way back up; this platformer has no jump button.\n\nEach of over 120 levels features four pairs of switches, but which switch goes with which? Figure out which pairs need pressing and how to get there to solve each unique puzzle.\n\nPush the limits of gravity as you explore 10 worlds with their own unique mechanics, bonus levels, challenges, and secrets!\n",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20200910,
+    "first_update_release_date": 20200929,
+    "latest_update_release_date": 20200929,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200929
+    },
+    "versions": {
+        "65536": 20200929
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "Cooperate with Yourself\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

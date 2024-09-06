@@ -1,4 +1,45 @@
 {
     "id": "010034E00EFD0800",
-    "version": 655360
+    "base_tid": "010034E00EFD0000",
+    "name": "MISTOVER",
+    "description": "'MIST-ical' RPG with expeditions for finding the key to survival. Choose your next step wisely and keep in mind that your every move will change the future. Create your own 'Corps' and explore through various regions in the Pillar of Despair: forests, lakes, mountains, cities, cathedrals, castles, and much more.",
+    "publisher": "KRAFTON",
+    "developer": null,
+    "base_release_date": 20191010,
+    "first_update_release_date": 20191010,
+    "latest_update_release_date": 20200528,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20200528
+    },
+    "versions": {
+        "131072": 20191010,
+        "196608": 20191011,
+        "262144": 20191024,
+        "327680": 20191117,
+        "393216": 20191209,
+        "458752": 20200108,
+        "524288": 20200220,
+        "589824": 20200413,
+        "655360": 20200528
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

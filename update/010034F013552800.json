@@ -1,4 +1,36 @@
 {
     "id": "010034F013552800",
-    "version": 65536
+    "base_tid": "010034F013552000",
+    "name": "Little Kite",
+    "description": "The game highlights the problems of a struggling family, in which one person has given up, and another tries to correct mistakes of the past.\nThe main characters are Mary and her son Andrew. After the death of her husband, Mary married for a second time, to Oliver, in an attempt to create a full-fledged family for her son. But everyday, problems consume the new husband and he finds his solace in alcohol. Soon, they find domestic violence becomes commonplace.\n\nMary's patience and inaction, so habitual and convenient for everyone but little Andrew, brings the life of their family to an extreme point - a point where she needs to make a bold decision.\n",
+    "publisher": "Restless Corp",
+    "developer": null,
+    "base_release_date": 20210326,
+    "first_update_release_date": 20210324,
+    "latest_update_release_date": 20210324,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210324
+    },
+    "versions": {
+        "65536": 20210324
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other",
+        "Simulation"
+    ],
+    "intro": "A point-and-click story driven adventure",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

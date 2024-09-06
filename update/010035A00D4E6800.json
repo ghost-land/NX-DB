@@ -1,4 +1,42 @@
 {
     "id": "010035A00D4E6800",
-    "version": 196608
+    "base_tid": "010035A00D4E6000",
+    "name": "War Party",
+    "description": "War Party is an old school RTS where players must gather resources to unlock new buildings, units and upgrades, with the goal of destroying all their opponents’ bases. Players can also control a powerful chieftain that they can shape by selecting talents when they expand their settlement. These talents also offer new units or bonuses that can change the way players play.\nResources are limited however and the player will need to step out of his base to gather precious resources required for more powerful units, or capture and hold shrines that slowly give them power points used to summon powerful abilities that can turn the tide of battle.\nThey will have to be careful however, as wild dinosaurs and other tribes roam the map.",
+    "publisher": "Rogueside",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20190325,
+    "latest_update_release_date": 20190918,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190918
+    },
+    "versions": {
+        "65536": 20190325,
+        "131072": 20190508,
+        "196608": 20190918
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": "War Party is a real-time strategy game set in the stone-age era. You will build your base, recruit and control a group of soldiers, fight and tame fierce dinosaurs and direct the flow of combat.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

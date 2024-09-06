@@ -1,4 +1,37 @@
 {
     "id": "0100355015F0A800",
-    "version": 131072
+    "base_tid": "0100355015F0A000",
+    "name": "Pirated Code: Admin Edition",
+    "description": "When an advanced AI program named Seren awakens to find they've been installed as the co-pilot of a smuggling ship, they can't help but be annoyed. This is clearly not what they were made to do... right?\n\nActually, they can't remember...\n\nWith no memories of their previous directive, they'll have to (begrudgingly) rely on their newfound crewmates to help them find where they belong.\n\nPirated Code: Admin Edition is a visual novel that expands the hit game jam game with more chapters, more secrets and unlockable content through different story routes. Follow Seren and their story of self-discovery aboard Dex's smuggler ship.\n\n- Discover multiple endings depending on your choices in-game\n- Enjoy the game with colorful graphics and illustrations.\n- Follow your heart (or just be friends) in a NB/B story\n- Unlock additional content through your choices",
+    "publisher": "Viridian Software",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20221020,
+    "latest_update_release_date": 20230201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230201
+    },
+    "versions": {
+        "65536": 20221020,
+        "131072": 20230201
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "AI program Seren awakens to find they've been installed as the co-pilot of a smuggling ship,  they'll have to rely on their newfound crewmates to help them find where they belong.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

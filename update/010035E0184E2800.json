@@ -1,4 +1,43 @@
 {
     "id": "010035E0184E2800",
-    "version": 458752
+    "base_tid": "010035E0184E2000",
+    "name": "Gloomhaven",
+    "description": "Gloomhaven is a grim challenging Tactical RPG with 17 unique mercenaries and over 1000 abilities.",
+    "publisher": "Twin Sails",
+    "developer": null,
+    "base_release_date": 20230918,
+    "first_update_release_date": 20230918,
+    "latest_update_release_date": 20240115,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240115
+    },
+    "versions": {
+        "196608": 20230918,
+        "262144": 20231010,
+        "327680": 20231123,
+        "393216": 20231201,
+        "458752": 20240115
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

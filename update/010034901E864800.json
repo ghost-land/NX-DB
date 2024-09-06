@@ -1,4 +1,36 @@
 {
     "id": "010034901E864800",
-    "version": 65536
+    "base_tid": "010034901E864000",
+    "name": "Tip Top Table Tennis",
+    "description": "Tip Top Table Tennis is a realistic table tennis experience with 4 exciting game modes for the whole family!\n\n• Single and local multiplayer game modes with 4 unique environments\n• A realistic table tennis experience with customisable table tennis bats",
+    "publisher": "Excalibur Games",
+    "developer": null,
+    "base_release_date": 20240524,
+    "first_update_release_date": 20240704,
+    "latest_update_release_date": 20240704,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240704
+    },
+    "versions": {
+        "65536": 20240704
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Arcade",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }
