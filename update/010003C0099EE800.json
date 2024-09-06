@@ -1,4 +1,43 @@
 {
     "id": "010003C0099EE800",
-    "version": 65536
+    "base_tid": "010003C0099EE000",
+    "name": "PLANET ALPHA",
+    "description": "Pursued by relentless enemies, you must harness the power of night and day as you struggle to survive.\n\nKey Features:\n\nMarooned upon an alien world...\n\nYou have awoken on a strange alien world. Injured, alone and stranded you venture across this foreign land, navigating beautiful and varied terrain as you try to stay alive.\n\nPower over Day and Night\n\nThe world of PLANET ALPHA is affected by the solar cycle, and as you progress you’ll discover a unique gift – you can manipulate the time of day and use it to your advantage.\n\nUnlock the Mysteries of  PLANET ALPHA\n\nExplore a unique world and piece together your story. What will you discover on PLANET ALPHA?",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20180925,
+    "latest_update_release_date": 20180925,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180925
+    },
+    "versions": {
+        "65536": 20180925
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "PLANET ALPHA, a beautiful alien world filled with mystery and danger.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

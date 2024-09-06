@@ -1,4 +1,45 @@
 {
     "id": "010002D00632E800",
-    "version": 131072
+    "base_tid": "010002D00632E000",
+    "name": "Yoku's Island Express",
+    "description": "Yoku has arrived on Mokumana and he’s ready for the easy life, soaking up the sun and delivering parcels on a tropical paradise!\n\nHowever, an ancient Island deity is trapped in a restless sleep - and it’s all down to Yoku to traverse the island using a unique blend of pinball mechanics, platforming and open world exploration, in an amazing adventure to help those in need!\n\nFlip and bump our pint-sized protagonist around the stunning hand-painted island on your quest to rebuild the post-office, and wake an old god from its deep slumber.\n\nKey Features:\n\nOPEN-WORLD PINBALL ADVENTURE: Coupled with its unique pinball platforming play style, Yoku’s Island Express offers non-linear gameplay that gives you the freedom to choose your own path across multiple questlines. \n\nWELCOME TO MOKUMANA ISLAND: Seamlessly Explore multiple regions of the island, including tropical beaches, lush jungles, snowy mountains, mysterious caves, and steamy hotsprings!\n\nUNLOCK THE AMAZING NEW ABILITIES: Help the friendly locals and earn a range of fantastic new power-ups! Vacuum explosive slugs and wake up sleepy villagers with the Noisemaker!\n\nCAPTIVATING STORY: Meet a cast of unforgettable characters across multiple storylines - whilst uncovering the islands deepest secrets. And maybe rebuild the post office too!\n\nEPIC BOSS BATTLES: Get ready to take on giant bosses using Yoku's trusty ball to 'deliver' the final blow.\n\nBEAUTIFUL ARTWORK: Feast your eyes on the breathtaking hand-painted artwork created by games industry veteran artists.",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20180528,
+    "latest_update_release_date": 20180724,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180724
+    },
+    "versions": {
+        "65536": 20180528,
+        "131072": 20180724
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Meet Yoku, the pint-sized postman protagonist of Yoku's Island Express! \n\nUse a unique blend of pinball mechanics, platforming and open world exploration to unlock the secrets of  Mokumana Island, help the locals, awaken ancient deities and much more in this amazing new tropical adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

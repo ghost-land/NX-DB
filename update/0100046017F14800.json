@@ -1,4 +1,45 @@
 {
     "id": "0100046017F14800",
-    "version": 327680
+    "base_tid": "0100046017F14000",
+    "name": "Forklift Extreme",
+    "description": "Forklift Extreme is an exeptional physical experience - forklift, operator and in-game obstacles are physics based so watch out not to destroy anything if not needed.\n\nCustomize your lifter and your driver aswell. Choose from many available skins, colors and types. Unlock new forklifts by completing challenges and achievements and search for hidden treasures on the levels to unlock new skins. Make your forklift unique!\n\nMany camera views: isometric, first person and top down view shows the best the nature of forklift extreme driving, allows proper handling of your vehicle and precise maneuvering of your forks. Use the camera wisely, change angles to position you forklift perfectly and gain advantage completing various challenges or just delivering the pallets.\n\nForklift Extreme features:\n- Amazing forklift and environment physics\n- Ragdoll driver to get the best feeling possible\n- Vast customization options\n- Many different levels, each one with easy and pro challenges\n- Smooth controls and great camera views for best precision and fast delivery\n- Great 3D warehouse environments",
+    "publisher": "LMG",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20220628,
+    "latest_update_release_date": 20231010,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231010
+    },
+    "versions": {
+        "65536": 20220628,
+        "131072": 20220915,
+        "196608": 20230307,
+        "262144": 20230823,
+        "327680": 20231010
+    },
+    "category": [
+        "Simulation",
+        "Racing",
+        "Arcade",
+        "Education"
+    ],
+    "intro": "Ride numerous warehouses, pick up pallets and deliver them to the specific locations on different shelves and heights. Many challenges awaits!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "0100035013A26800",
-    "version": 131072
+    "base_tid": "0100035013A26000",
+    "name": "Finding Paradise",
+    "description": "Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning... but only in their patients' heads.\n\nDue to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t.\n\nFinding Paradise is the 2nd full episode of To the Moon's series. It follows the life of the doctors' new patient, Colin, as they attempt to unravel a life that is split down the middle, and fulfill a wish that appears to be self-contradictory by nature.\n\n--------------------------------------------------\n*Like To the Moon, this is a standalone full game that does not require having played any previous games in the series.",
+    "publisher": "X.D. Network",
+    "developer": null,
+    "base_release_date": 20221118,
+    "first_update_release_date": 20221201,
+    "latest_update_release_date": 20230110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230110
+    },
+    "versions": {
+        "65536": 20221201,
+        "131072": 20230110
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A story-driven adventure spanning a lifetime, following two doctors traversing through a dying man's memories to fulfill his last wish.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

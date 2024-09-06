@@ -1,4 +1,44 @@
 {
     "id": "0100038019968800",
-    "version": 131072
+    "base_tid": "0100038019968000",
+    "name": "SUBWAY MIDNIGHT",
+    "description": "A haunted-house style spookycute walking simulator set on a ghost-infested train from developer Bubby Darkstar! You play as Lizzbeth, a weird girl on an even weirder train. There's a creep stalking you, the train isn't stopping anytime soon, and your only option is to keep moving forward (and not die)...\n\nIn this whimsical, colorful, and downright creepy indie horror game, the player slowly unravels the story in these uniquely hand-crafted train cars. Hang out with ghosts, run away from a weirdo, and try not to become a ghost yourself.\n",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230227,
+    "latest_update_release_date": 20230412,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230412
+    },
+    "versions": {
+        "65536": 20230227,
+        "131072": 20230412
+    },
+    "category": [
+        "Other",
+        "Adventure"
+    ],
+    "intro": "Uncover the whereabouts of missing kids in this haunted-house style adventure! Hang out with some ghosts! Run away from a weirdo! Try not to become a ghost yourself! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010004C015EFC800",
-    "version": 65536
+    "base_tid": "010004C015EFC000",
+    "name": "Retro Highway",
+    "description": "Hit the Retro Highway and return to the days of 16-bit blast processing and pure arcade fun! Retro Highway is a throwback game aiming to combine the accessibility of modern titles with the high-skill challenge and charming aesthetics of old.\n\n• Experience high octane old school action on your console in 60 fps\n\n• Complete daring challenges and compete with your friends or the whole world for the highest scores\n\n• Explore six unique environments ranging from a hot desert freeway to a futuristic moon base\n\n• Customize your playstyle by choosing from a diverse garage of 10+ bikes and by upgrading various powerups\n\n• Embrace the nostalgia rush caused by stylish pixel art visuals and chiptune soundtrack",
+    "publisher": "Gearhead Games",
+    "developer": null,
+    "base_release_date": 20211111,
+    "first_update_release_date": 20211124,
+    "latest_update_release_date": 20211124,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211124
+    },
+    "versions": {
+        "65536": 20211124
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Pure arcade fun!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

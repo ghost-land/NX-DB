@@ -1,4 +1,52 @@
 {
     "id": "010002B00C534800",
-    "version": 589824
+    "base_tid": "010002B00C534000",
+    "name": "American Fugitive",
+    "description": "American Fugitive is a modern take on classic sandbox action offering a new 3D top-down open-world single-player experience. \n\nWelcome to Redrock County, a sleepy American town with a booming criminal underbelly.\n\nYou take the role of Will Riley. No angel for sure - but not a killer. Yet the cold-blooded murder of your dad is the crime they locked you up for. Fuelled by grief and a burning desire for vengeance, you’ll bust out of jail intent on finding the real culprit.\n\nOnce outside, you’ll need to blend with the townsfolk to avoid recapture. Establish contact with the criminal underworld and stay one step ahead of the police dragnet.\n\nSet in the deep south of the 1980s, American Fugitive is a love-letter to the classic movies and games of old.\nIt’s a race against time, and JUSTICE AIN'T ALWAYS LEGAL.\n\nKEY FEATURES:\n\n⯈ A MODERN TAKE ON CLASSIC SANDBOX ACTION – Rediscover the joy of top-down carnage with stunning 3D graphics and destructible environments, dramatic storytelling and epic car-chase mayhem.\n\n⯈ A MATURE GAME BASED ON AN ORIGINAL STORY – Unravel a plot of mystery, deception and corruption, full of twists and turns, inhabited by a motley cast of law-breakers and law-enforcers.\n\n⯈ A MASSIVE OPEN-WORLD ENVIRONMENT – Explore Redrock County on foot on by car - a beautiful and vibrant slice of 80s rural USA. \n\n⯈ CHOOSE THE LIFE OF A FELON – Rob houses, steal cars, arm yourself to the teeth. Just don’t get caught!\n\n⯈ PUT THE PEDAL TO THE METAL – test yourself against time trial challenges and stunt jumps dotted throughout the world, using any of the numerous vehicles.\n\n⯈ A WEALTH OF ACTIVITIES – Whether you’re undertaking jobs for the criminal underworld, uncovering hidden stashes, looting houses, sticking up stores, or fencing fine art, remain vigilant. The crooked cops will stop at nothing to see you back behind bars!",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20190523,
+    "first_update_release_date": 20190509,
+    "latest_update_release_date": 20201214,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20201214
+    },
+    "versions": {
+        "65536": 20190509,
+        "131072": 20190516,
+        "196608": 20190522,
+        "262144": 20190528,
+        "327680": 20190704,
+        "393216": 20190905,
+        "458752": 20190913,
+        "524288": 20191125,
+        "589824": 20201214
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Racing"
+    ],
+    "intro": "JUSTICE AIN'T ALWAYS LEGAL",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Violence",
+        "Coarse language"
+    ],
+    "region": null
 }

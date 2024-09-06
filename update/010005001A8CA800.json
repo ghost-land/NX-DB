@@ -1,4 +1,42 @@
 {
     "id": "010005001A8CA800",
-    "version": 327680
+    "base_tid": "010005001A8CA000",
+    "name": "TRANSFORMERS: EARTHSPARK - Expedition",
+    "description": "Bumblebee is facing his greatest mission – reclaim the ancient Cybertronian technology scattered across the globe before Mandroid and his henchbots can use them to destroy Earth’s cities. With Optimus Prime’s guidance and you at the controls, Bumblebee will grow strong enough to take on an army of robotic enemies in bare-metal combat, find the lost technology, and unlock powerful new attack combos and abilities along the way!\n\nThere’s a wide world of Transformers action to discover. Gear up for boss battles with some of the series’ greatest villains, hunt down secrets, and build your relics collection as you explore three expansive locations. With gameplay modes designed for new and experienced players, there’s a challenge for every Transformers generation.\n\nJoin the Autobots – Save Earth in an open world adventure.\n\nBattle evil Mandroid – Unlock new attacks and abilities. \n\nSupercharge Bumblebee - Switch between Bumblebee’s bot and vehicle forms.",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20231013,
+    "first_update_release_date": 20231013,
+    "latest_update_release_date": 20231026,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231026
+    },
+    "versions": {
+        "262144": 20231013,
+        "327680": 20231026
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Battle and explore as Bumblebee in an adventure to stop his nemesis, Mandroid, from becoming the ultimate evil cyborg!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild science fiction violence"
+    ],
+    "region": null
 }

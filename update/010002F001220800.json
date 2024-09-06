@@ -1,4 +1,42 @@
 {
     "id": "010002F001220800",
-    "version": 131072
+    "base_tid": "010002F001220000",
+    "name": "NAMCO MUSEUM",
+    "description": "Enjoy Namco classics such as PAC-MAN™, GALAGA™, SPLATTERHOUSE™, and TOWER OF DRUAGA™, or play games such as ROLLING THUNDER™, SKYKID™, or TANK FORCE™ with friends and family on the Nintendo Switch™! ",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20170926,
+    "latest_update_release_date": 20180927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180927
+    },
+    "versions": {
+        "65536": 20170926,
+        "131072": 20180927
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Play some of the most popular Namco games, anytime, anywhere!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

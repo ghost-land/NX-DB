@@ -1,4 +1,34 @@
 {
     "id": "010005100AF90800",
-    "version": 65536
+    "base_tid": "010005100AF90000",
+    "name": "FutureGrind",
+    "description": "Grab your bike and hit the rails in FutureGrind, a stylish stunt-racer all about tricks, skill, and speed. Use your futuristic bike to chain together huge combos on tracks made of floating rails, but watch out: touch the wrong color and you'll explode instantly!\n\nKeep your sponsors happy and you'll find yourself earning new bikes and racing mind-bending tracks built for the pros. But not everything is as it seems. Someone is watching your every move. Who is it, and what do they really want with you?\n\nThink you have what it takes? Test your limits while grinding to the bass pounding beats of an original soundtrack.\n\nFeatures:\n- Dozens of hand-crafted tracks to test even the most skilled players\n- Different bikes, each with their own unique style of play\n- Chain tricks together in a deep combo system that rewards creativity\n- Instant restarts (you'll need them!)\n- Earn the top awards in score attack mode",
+    "publisher": "Milkbag Games",
+    "developer": null,
+    "base_release_date": 20190122,
+    "first_update_release_date": 20190110,
+    "latest_update_release_date": 20190110,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190110
+    },
+    "versions": {
+        "65536": 20190110
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Nail the perfect line in the future's most challenging stunt sport!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

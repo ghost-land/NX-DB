@@ -1,4 +1,45 @@
 {
     "id": "010004D00A9C0800",
-    "version": 131072
+    "base_tid": "010004D00A9C0000",
+    "name": "Aggelos",
+    "description": "Step through time and discover a mesmerizing new action-RPG that looks like it was plucked straight out of the 16-bit era, but plays like a modern-day marvel! \n\nInspired by non-linear Japanese retro adventures, Aggelos hurls players into the middle of a colossal struggle for survival as beings from another dimension threaten to invade the peaceful Kingdom of Lumen. Bursting with secrets and side-quests, and boasting slick melee combat that any 2D action game would envy, Aggelos is the perfect combination of retro style and modern-day game design.\n\nA VAST KINGDOM TO EXPLORE\nVenture through forests, seas, cave systems and ancient temples as you seek to uncover the magical elements needed to save the world from total annihilation.\n\nA CLASSICAL NON-LINEAR ADVENTURE\nExplore a sprawling world that gradually reveals itself, Metroidvania-style, as you gain new abilities and equipment. \n\nDEADLY ENCOUNTERS\nThwart towering bosses and their tricky minions as you take on perilous mainline quests and optional odd-jobs for the people of Lumen.\n\nTACTICAL DEPTH\nUnlock magical abilities and high-level attacks, expertly chaining these immense powers together to clear screens of enemies in seconds.\n\nSTUNNING SPRITE ART\nForget out-of-place modern art: Aggelos boasts superlative character designs and animations while remaining proudly, and faithfully, 16-bit through and through.\n\nMEMORABLE CHIPTUNES\nLose yourself to a retro-inspired soundtrack that floods the Kingdom of Lumen with life.",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20190502,
+    "latest_update_release_date": 20190516,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190516
+    },
+    "versions": {
+        "65536": 20190502,
+        "131072": 20190516
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Aggelos is the perfect combination of retro style and modern-day game design!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

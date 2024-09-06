@@ -1,4 +1,35 @@
 {
     "id": "010003001536E800",
-    "version": 65536
+    "base_tid": "010003001536E000",
+    "name": "Christmas Tina",
+    "description": "- Who did you spend time with at that time?\n- It is not just an encounter of love.\n\nIn 1988, Japan was under a bubble economy. New buildings have sprung up like mushrooms after a rain, and the social atmosphere is very lively in the era. The ancient objects gradually disappear, and new creatures are constantly born. Christmas Tina tells a story about boys and girls living hard under the shadow of the modern city. Their bond can break through the language barrier. Without words spoken, they already understand each other.\n",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20210729,
+    "first_update_release_date": 20220906,
+    "latest_update_release_date": 20220906,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220906
+    },
+    "versions": {
+        "65536": 20220906
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Lifestyle"
+    ],
+    "intro": "This is a miracle jointly created by Chinese and Japanese creators. This is a realistic visual novel. This is their story and yours.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

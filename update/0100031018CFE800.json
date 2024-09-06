@@ -1,4 +1,39 @@
 {
     "id": "0100031018CFE800",
-    "version": 262144
+    "base_tid": "0100031018CFE000",
+    "name": "Touhou Gouyoku Ibun　～ Sunken Fossil World.",
+    "description": "Team Shanghai Alice, the creator of the Touhou Project series, has teamed up with Twilight Frontier to make an intense bullet-hell action game that's now coming to the Nintendo Switch™!\n\nBlack water has started springing forth from the ground.\nIt gives off a strange smell, and it clings to anything it touches.\nIt certainly doesn't serve any of the useful purposes regular water does.\n\nSome see this black water as a blight. Some see it as a blessing.\nSome see it as something divine, while others see it as downright devilish.\nSome see it as a disaster. Still others see it as an economic breakthrough.\nConjectures abound, and some places even celebrate it.\n\nBut soon enough, the festive atmosphere turns into something more frightening.\nThe black water starts rising indiscriminately in beautiful streams, relaxing hot springs...\n...and the springs where people get their drinking water.\n\n\nThis is the story of an incident where black water springs up from the ground without any warning.\nThe protagonists gather underground to get to the bottom of this once and for all in this bullet-hell action game.\n\n\n■Young Ladies Soaring Underground\nIn this game, you control a character venturing into the subterranean depths of Gensokyo to identify the source of the mysterious black water, shooting down every rival who stands in your way.\nDifferent characters have different controls and unique playstyles!\n\n■Graze-Based Bullet Dodging Action\nEnemies send massive waves of bullets at you. Grazing enables you to break down these bullets by attacking or running into them on purpose.\nThese bullet waves leave no opening, so make your own! Create your own safe spots for maneuvering and clear a path with style!\n\n■Draw Power from Water\nBullets you graze turn into water. When you collect enough water, you can activate powerful spellcards.\nUse grazing to overcome waves of bullets and power up the spellcards you'll need to defeat your rivals!\n\n■A Greedy Challenge\nThis release features a new mode, Greedy Challenge! In this mode, you defeat enemies one after another and test your own might.\nThis mode includes lots of items you won't find anywhere else. Use them and keep pushing your limits even after you're finished with story mode!",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20221014,
+    "latest_update_release_date": 20230228,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230228
+    },
+    "versions": {
+        "65536": 20221014,
+        "131072": 20221024,
+        "196608": 20221106,
+        "262144": 20230228
+    },
+    "category": [
+        "Action",
+        "Other"
+    ],
+    "intro": "Solve the oil crisis that's befallen Gensokyo!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

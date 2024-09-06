@@ -1,4 +1,34 @@
 {
     "id": "010004C01A37C800",
-    "version": 65536
+    "base_tid": "010004C01A37C000",
+    "name": "Over Horizon X Steel Empire",
+    "description": "Get ready for a real space adventure! \n\nIn Over Horizon, you and your trusty spaceship will traverse a number of bizarre worlds. With three different weapons which you can upgrade and combine any way you want, you will face the massive bosses and various enemies that will come your way.\n\nAlso, relive gaming history and fire up your engines on some of the most important classic shmups – fully playable on modern platforms. Set in a Steam Punk-centered world, Steel Empire lets you choose between the Striker Airplane or the Zeppelin equipped with an areal mine launcher to fight back against the Motorhead Empire's invasion.\n\nOver Horizon X Steel Empire contains:\n\n• Over Horizon NES\n• Steel Empire MD\n• Steel Empire GBA\n\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20240718,
+    "first_update_release_date": 20240731,
+    "latest_update_release_date": 20240731,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240731
+    },
+    "versions": {
+        "65536": 20240731
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Nostalgic thrills await in this trio of shoot ’em-up masterpieces!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

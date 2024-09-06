@@ -1,4 +1,32 @@
 {
     "id": "010004701504A800",
-    "version": 196608
+    "base_tid": "010004701504A000",
+    "name": "Calculator",
+    "description": "A scientific calculator with a clear easy-to-read multi-line display, which should help with those not-so-easy-to-do maths problems. \n\nCalculator has an appealing modern and practical design, sure to be popular with all students and engineers.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20210512,
+    "first_update_release_date": 20210607,
+    "latest_update_release_date": 20210731,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210731
+    },
+    "versions": {
+        "65536": 20210607,
+        "131072": 20210717,
+        "196608": 20210731
+    },
+    "category": [
+        "Education",
+        "Utility"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

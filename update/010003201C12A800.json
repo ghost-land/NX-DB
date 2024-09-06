@@ -1,4 +1,36 @@
 {
     "id": "010003201C12A800",
-    "version": 262144
+    "base_tid": "010003201C12A000",
+    "name": "HexaWars",
+    "description": "HexaWars is a twin stick shooter where you attempt to defeat all the shape enemies on each wave stage. The overall goal is to see how long you can last in the game, attempting to beat your previous high score. It has a very retro arcade feel that is meant to bring countless experiences of play. The gameplay is simple to grasp and will continue to get gradually harder throughout. It is a fun challenge to try and see how many boss's you are able to defeat every 10 wave's of enemies.",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20230915,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240318,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240318
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20231128,
+        "196608": 20240205,
+        "262144": 20240318
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Retro Arcade Style twin stick shooter that will continue to get harder. Defeat increasing levels of difficulty and different boss rounds!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

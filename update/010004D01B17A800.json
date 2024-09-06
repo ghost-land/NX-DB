@@ -1,4 +1,34 @@
 {
     "id": "010004D01B17A800",
-    "version": 65536
+    "base_tid": "010004D01B17A000",
+    "name": "Lost Dream Darkness",
+    "description": "Lost Dream Darkness tells a silent story about a world eaten up by a sudden Darkness. Get up and go on a journey towards the light. The world will get brighter step by step.\n\nThe World:\nWelcome to the massive world of Lost Dream! You will see everything from mountain tops to the deepest forests and lakes on your journey. You will experience the journey from Darkness to the light.\n\nSoundscape:\nLost Dream Darkness has high quality soundtracks along with a bunch of high quality ambience sounds to make the experience even better.\n\n",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20230414,
+    "first_update_release_date": 20230421,
+    "latest_update_release_date": 20230421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230421
+    },
+    "versions": {
+        "65536": 20230421
+    },
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Once the Darkness rises above all, It's your time to take the reins and hit the ground running on a mission to discover the light once again.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

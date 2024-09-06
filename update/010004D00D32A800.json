@@ -1,4 +1,41 @@
 {
     "id": "010004D00D32A800",
-    "version": 65536
+    "base_tid": "010004D00D32A000",
+    "name": "Zombieland: Double Tap - Road Trip",
+    "description": "With it’s own unique story, set between the events of the first movie, Zombieland: Double Tap: Road Trip is a ridiculously fun top-down twin-stick shooter featuring local co-op multiplayer for up to four players. Play as your favorite heroes from the original — Tallahassee, Columbus, Wichita and Little Rock — as well as new unlockable characters from the upcoming sequel.  The game embraces the game-like elements seen in the film by  incorporating everything from the “Rules” to “Zombie Kill of the Week”.  Use your special abilities, an arsenal of weapons and the essential Zombieland rules for survival to stay alive against huge numbers of uniquely grotesque and dangerous undead monstrosities in Zombieland: Double Tap: Road Trip’s story-based campaign mode, wave-based horde mode, and boss battles.\n-Over 18 levels & locations\n-1-4 player co-op combat\n-Unlockable characters from new Zombieland Movie\n-15+ zombie types\n-Fun & funny campaign modes with Epic Horde & Boss Battles",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20221118,
+    "first_update_release_date": 20191122,
+    "latest_update_release_date": 20191122,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191122
+    },
+    "versions": {
+        "65536": 20191122
+    },
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

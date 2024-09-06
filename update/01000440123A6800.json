@@ -1,4 +1,37 @@
 {
     "id": "01000440123A6800",
-    "version": 262144
+    "base_tid": "01000440123A6000",
+    "name": "Roah",
+    "description": "A great unknown danger is approaching Roah's home planet. Follow Roah as she explores the world and encounters all of its different factions, uncovering the mystery of what is draining the planets lifeforce.\n\nRoah has a big open world with new abilities, skills and moves to obtain and master. It features unique fighting-game inspired combat with tons of different moves to perform.\n\nFeatures include:\n- Expressive and flexible combat system.\n- Non-linear adventure path.\n- Unique and challenging boss battles.\n- Diverse environments.\n- Obtain new forms to solve puzzles and overcome the environment.\n- Casual mode for a an easier playthrough.",
+    "publisher": "Jesper Erlandsen",
+    "developer": null,
+    "base_release_date": 20201104,
+    "first_update_release_date": 20201214,
+    "latest_update_release_date": 20240222,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240222
+    },
+    "versions": {
+        "65536": 20201214,
+        "131072": 20210706,
+        "196608": 20220123,
+        "262144": 20240222
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "intro": "Unique fighting-game inspired combat, tons of abilities and trinkets that will power you up as you smash through tough boss fights.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

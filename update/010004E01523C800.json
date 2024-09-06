@@ -1,4 +1,50 @@
 {
     "id": "010004E01523C800",
-    "version": 262144
+    "base_tid": "010004E01523C000",
+    "name": "Loop Hero",
+    "description": "Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero. Recover and equip powerful loot for each class of hero for their battles and expand the survivors' camp to reinforce each adventure through the loop. Unlock new classes, new cards, perks and devious guardians on your quest to shatter the endless cycle of despair. \n\nInfinite Adventure: Select from unlockable character classes and deck cards before setting out on each expedition along a randomly generated loop path. No expedition is ever the same as the ones before it.\n\nPlan Your Struggle: Strategically place building, terrain, and enemy cards along each loop to create your own dangerous path. Find balance between the cards to increase your chances of survival while recovering valuable loot and resources for your camp.\n\nLoot and Upgrade: Strike down menacing creatures, recover stronger loot to equip on the fly and unlock new perks along the way.\n\nExpand Your Camp: Turn hard-earned resources into campsite upgrades and gain valueable reinforcements with each completed loop along the expedition path.  \n\nSave the Lost World: Overcome a series of unholy guardian bosses over a grand saga to save the world and break the time loop of the Lich!\n\n",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20211209,
+    "first_update_release_date": 20211118,
+    "latest_update_release_date": 20230103,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230103
+    },
+    "versions": {
+        "65536": 20211118,
+        "131072": 20220120,
+        "196608": 20220717,
+        "262144": 20230103
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Board Game",
+        "Adventure"
+    ],
+    "intro": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010003E00FB90800",
-    "version": 196608
+    "base_tid": "010003E00FB90000",
+    "name": "SuperEpic: The Entertainment War",
+    "description": "In a not-too-distant future dystopia​, a single videogame development company, ​Regnantcorp, controls an Orwellian society by enslaving the population with their addictive free game​s.\n\nAs a rebellious racoon, along with your llama steed, you'll explore a surreal castle-like office full of enemies, challenges, secrets and corporate pigs.\n\nBreak into their headquarters, uncover the conspiracy and save videogames!",
+    "publisher": "Undercoders",
+    "developer": null,
+    "base_release_date": 20191213,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20200529,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200529
+    },
+    "versions": {
+        "65536": 20191211,
+        "131072": 20200123,
+        "196608": 20200529
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Video games are dead",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild violence and coarse language"
+    ],
+    "region": null
 }

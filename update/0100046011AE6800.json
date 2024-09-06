@@ -1,4 +1,37 @@
 {
     "id": "0100046011AE6800",
-    "version": 65536
+    "base_tid": "0100046011AE6000",
+    "name": "Ghost Files: Memory of a Crime",
+    "description": "They say a good story begins with an earthquake and works its way up to a climax.\n\nThe story of Arthur Christie begins with a painful wake up in a dark basement with an unknown murder victim and memory gaps larger than bullet holes. A moment later the building is surrounded by howling police sirens. And all this before the sun even reached noon.\n\nThe day began lousy and chances for improvement are slim - so now he has to start his own investigation and prove his innocence. For this detective Christie will need to recreate his lost memories and immerse himself in the dark reality of a serial killer called The Executioner.",
+    "publisher": "Artifex Mundi",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200623,
+    "latest_update_release_date": 20200623,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200623
+    },
+    "versions": {
+        "65536": 20200623
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Stop a series of terrible crimes!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

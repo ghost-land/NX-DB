@@ -1,4 +1,33 @@
 {
     "id": "010005000B244800",
-    "version": 131072
+    "base_tid": "010005000B244000",
+    "name": "籠庭のクックロビン",
+    "description": "怪物の巣と噂される古城へ奉公に出された少女・ロビン。\n彼女はそこで徘徊する“異形の何か”を目撃してしまう。\n\n城の人々はそれを“こまどり”と呼んでいるが、誰も詳細を語ろうとはしない。\n\nロビンは一人、隠された真実を調べ始めるが……。\n\n「正しくてもいい。間違っていてもいい」\n「ただ一つ後悔しない道を選べたなら、それが“私”にとっての\n―――」\n",
+    "publisher": "SEEC",
+    "developer": null,
+    "base_release_date": 20180906,
+    "first_update_release_date": 20180912,
+    "latest_update_release_date": 20181002,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181002
+    },
+    "versions": {
+        "65536": 20180912,
+        "131072": 20181002
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "選んだ答えで結末が変わるマルチエンディングシステム。\n８つの終わりを見届けた後に待っているものは――…？",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "犯罪",
+        "言葉・その他"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010003100F1F4800",
-    "version": 131072
+    "base_tid": "010003100F1F4000",
+    "name": "CrunchTime",
+    "description": "Knowing that the condition for getting off work is to find 4 bugs in the code world, the adventure begins...\n\nClassic platformer style\nThe world of ASCII, full of old-school flavor\nWell-designed levels and boss battles\nCollect emails from your boss and experience the mood of crunch time programmers",
+    "publisher": "Navila Software Japan",
+    "developer": null,
+    "base_release_date": 20191011,
+    "first_update_release_date": 20191009,
+    "latest_update_release_date": 20191009,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191009
+    },
+    "versions": {
+        "65536": 20191009
+    },
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "A long-term crunch time programmer entered the world of code, and became a green cursor.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

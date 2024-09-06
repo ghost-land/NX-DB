@@ -1,4 +1,45 @@
 {
     "id": "010003F00CC98800",
-    "version": 65536
+    "base_tid": "010003F00CC98000",
+    "name": "Sky Gamblers - Afterburner",
+    "description": "This is the latest and greatest jet dogfight game, coming from the creators of Sky Gamblers, Battle Supremacy and Radiation series! Get into the cockpit and prepare to take-off.\n\nUnlock, upgrade and customize the weapons and defenses of more than 100 planes. Paint your favorite jet fighter, customize patterns and badges for the ultimate looks. Become the master of the skies!\n\nUntangle the story of great bravery and despicable treason through the single player campaign. This is not an easy task. You'll experience huge open world areas with carefully recreated cities like San Francisco and Rio de Janeiro, Danger is everywhere. Skies are filled with menacing enemy jet fighters, the sea is crawling with heavily armed battleships and SAM sites are lurking within buildings or forests.\n\nPolish your evasive maneuvers, aerial combat and targeting skills against AI in custom set games and go prepared for online PVP or PVE. Experience non-stop action against or together with top world players in up to 7 vs 7 airplanes.",
+    "publisher": "Atypical Games",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190508,
+    "latest_update_release_date": 20190508,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190508
+    },
+    "versions": {
+        "65536": 20190508
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Arcade"
+    ],
+    "intro": "Elite jet fighter air combat",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

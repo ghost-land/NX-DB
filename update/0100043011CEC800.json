@@ -1,4 +1,37 @@
 {
     "id": "0100043011CEC800",
-    "version": 65536
+    "base_tid": "0100043011CEC000",
+    "name": "Arcade Archives LIGHTNING FIGHTERS",
+    "description": "\"LIGHTNING FIGHTERS\" is a shooting game released by KONAMI in 1990.\n\"SUPER FIGHTERS\" mounted with plasma wave weapons and \"TRIGON\", an unmanned auxiliary combat pod, are sent out into battle as mankind's final trump card to repel the invasion of an alien civilization.\nThis KONAMI masterpiece makes a return specially for the scrolling shooter gamer in you.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200820,
+    "first_update_release_date": 20201109,
+    "latest_update_release_date": 20201109,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201109
+    },
+    "versions": {
+        "65536": 20201109
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Mankind's final fight is at hand.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

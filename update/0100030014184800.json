@@ -1,4 +1,42 @@
 {
     "id": "0100030014184800",
-    "version": 65536
+    "base_tid": "0100030014184000",
+    "name": "Manifold Garden",
+    "description": "重新發現重力，探索美麗艾雪風格世界的「不可能」建築。幾何體在各方向無窮重複，而墜落會讓您回歸您的開始之處。操縱重力，更改視點，以全新方式觀看世界。掌控宇宙規則，讓荒蕪世界重歸青蔥與生機。",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210511,
+    "latest_update_release_date": 20210511,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210511
+    },
+    "versions": {
+        "65536": 20210511
+    },
+    "category": [
+        "冒險",
+        "益智",
+        "其他"
+    ],
+    "intro": "《Manifold Garden》是一個將您有關物理和空間的印象重新塑造的遊戲。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "010003D018708800",
-    "version": 131072
+    "base_tid": "010003D018708000",
+    "name": "Sherlock Holmes and The Hound of The Baskervilles",
+    "description": "Help Sherlock Holmes, the famed genius detective, investigate the legend of a supernatural hound on the fog-shrouded moorland in England of the 19th century. Immerse yourself into the dangerous world of the diabolical curse and discover the truth about the monstrous creature.\nFind yourself at Baker Street 221B in a well-known cozy headquarters with a crackling fireplace and start your investigation from there!\nNow with the Nintendo Switch™, you can crack the thrilling mystery of the monstrous hellhound wherever you are — at home or on the go.\n\nKey features:\n- A video game reimagination of Sir Arthur Conan Doyle’s most read book\n- Incredible gameplay combining hidden object and puzzle game\n- Over 35 locations to explore\n- Choose your level of difficulty: additional or limited help and hints, quick or slow hint recharge, easy or hard puzzles and hidden objects.",
+    "publisher": "Frogwares",
+    "developer": null,
+    "base_release_date": 20221006,
+    "first_update_release_date": 20221019,
+    "latest_update_release_date": 20230505,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230505
+    },
+    "versions": {
+        "65536": 20221019,
+        "131072": 20230505
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "We're excited to present our vintage adventure puzzle that combines classic Hidden Object mechanics and an atmosphere of quintessential detective mystery.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

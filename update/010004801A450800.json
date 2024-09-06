@@ -1,4 +1,35 @@
 {
     "id": "010004801A450800",
-    "version": 65536
+    "base_tid": "010004801A450000",
+    "name": "NCL: USA Bowl",
+    "description": "Blow the competition away and give in to your sporting spirit.\n\nTake part in the exciting races of NCL: USA Bowl. Run straight into a series of stylized challenges and races. Enjoy it by yourself or with a couple of friends. Only one of you can win. Make sure all the glory is yours!",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230203,
+    "first_update_release_date": 20230201,
+    "latest_update_release_date": 20230201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230201
+    },
+    "versions": {
+        "65536": 20230201
+    },
+    "category": [
+        "Sports",
+        "Racing",
+        "Multiplayer",
+        "Training"
+    ],
+    "intro": "Become a CHAMPION of your own tournament in NCL: USA Bowl. Race your friends and experience the thrill of American football.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

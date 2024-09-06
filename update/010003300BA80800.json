@@ -1,4 +1,31 @@
 {
     "id": "010003300BA80800",
-    "version": 65536
+    "base_tid": "010003300BA80000",
+    "name": "GOD WARS THE COMPLETE LEGEND",
+    "description": "前作《GOD WARS ～超越時空～》改編古事記、童話而自成一個獨有的世界觀，具有高度戰略性而獲得高度評價。本作以前作為基礎，加上新劇情、新角色並加以改善，堪稱「策略 RPG 決定版」！",
+    "publisher": "Dragami Games",
+    "developer": null,
+    "base_release_date": 20180927,
+    "first_update_release_date": 20181009,
+    "latest_update_release_date": 20181009,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181009
+    },
+    "versions": {
+        "65536": 20181009
+    },
+    "category": [
+        "模擬",
+        "角色扮演"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

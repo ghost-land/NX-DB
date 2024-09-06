@@ -1,4 +1,45 @@
 {
     "id": "010004D017F72800",
-    "version": 131072
+    "base_tid": "010004D017F72000",
+    "name": "Tamarak Trail",
+    "description": "In this deck-building roguelike, you'll use a customizable dice set as you battle through randomly generated trails - full of loot, mysteries, and danger to protect inhabitants from the evil that has corrupted the trail.\n\nAs a member of the Sturgeon Lodge: a secret society tasked with defeating a malevolent presence that has corrupted Tamarak Trail, it is your job to bring peace to all inhabitants. \n\nFEATURES:\n\nCustomizable Dice: Choose from a myriad of dice sides to create powerful synergies and manipulate the battlefield. Chain re-rolling and turning abilities to achieve unimaginable power! \n\nThree Character classes: You'll play as one of three character classes: The Detective, the Magician, and the Tracker to dig up clues & find game-changing artifacts about the source of evil.\n\nGet lost on the Trail: Enjoy the endless replayability of a randomly generated Trail, with different bosses, objectives, and encounters. Select your path carefully and manage your resources to see your adventure to the end. \n\nEldritch Artifacts: Some items have been permanently imbued with the reality-warping power inhabiting the Trail. Collect them to gain more dice or drastically change your character's battle style.",
+    "publisher": "Versus Evil",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240229,
+    "latest_update_release_date": 20240329,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240329
+    },
+    "versions": {
+        "65536": 20240229,
+        "131072": 20240329
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "A malevolent presence has corrupted the Trail, and it's up to you to stop it.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

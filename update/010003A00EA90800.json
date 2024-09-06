@@ -1,4 +1,31 @@
 {
     "id": "010003A00EA90800",
-    "version": 65536
+    "base_tid": "010003A00EA90000",
+    "name": "IN-VERT",
+    "description": "Game narrates the story of lone robot in search of his disappeared master. In his quest to find the long-lost friend, our hero has to conquer two universes at once, relentlessly switching between two dimensions. Be prepared for some tough puzzles, jumping sequences and retro graphics like you've never seen before.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20231119,
+    "first_update_release_date": 20240325,
+    "latest_update_release_date": 20240325,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240325
+    },
+    "versions": {
+        "65536": 20240325
+    },
+    "category": [
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Distinct features of IN-VERT are it's hardcore approach to platforming genre with puzzle elements and unique art-direction. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
