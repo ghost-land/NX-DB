@@ -1,4 +1,38 @@
 {
     "id": "01007BC00DE68800",
-    "version": 65536
+    "base_tid": "01007BC00DE68000",
+    "name": "GoFishing 3D",
+    "description": "GoFishing3D The Real Fishing is a realistic simulator game.\n\nWe offer many big fishing areas, around which you can move freely, as well as sail across the water on your boat.\nWe have a wide variety of hooks, baits and other fishing equipment.\nYou can personalise your character: male & female characters available.\n\nA wide variety of fish types. You can also fish using the classic float method, as well as spinning method.\n\n- Enjoyable 3D graphics with lake scenerios\n- Intuitive and easy navigation & control\n- Realistic fish types\n- Two fishing boats\n- Various types of baits",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190528,
+    "first_update_release_date": 20190802,
+    "latest_update_release_date": 20190802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190802
+    },
+    "versions": {
+        "65536": 20190802
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Other",
+        "Lifestyle"
+    ],
+    "intro": "GoFishing3D The Real Fishing is a realistic simulator game.\nPack your baits, fishing rod and get on the boat!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "01007B301CFBE800",
-    "version": 65536
+    "base_tid": "01007B301CFBE000",
+    "name": "Warhammer 40,000: Dakka Squadron",
+    "description": "Warhammer 40,000: Dakka Squadron is a dynamic, aerial shooter full of action and explosions where you take on the role of an aircraft pilot. \n\n\nCAMPAIGN MODE\nFly through 5 unique planets and complete tasks as a commander. The missions provide diverse objectives such as defense or sabotage. Enjoy the explosions and the scenery while defeating enemy bases.\n\n\nACTION-PACKED COMBAT\nPerform barrel rolls, use boost or air brake to destroy the targets more precisely. Join one of the five available Ork Clans, gaining various bonuses. Stay tactical, attack swiftly and unpredictably, so the opponent cannot recover from defeat.\n\n\nUPGRADE YOUR WAR MACHINE\nCustomize your plane with a variety of weapons and upgrades that can be used on the battlefield to gain an advantage over the opponent. Unlock new ships and choose your favorite loadout for sowing devastation.",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20240308,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240510
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Take control of powerful Ork aircraft and engage in the most intense air-fights across various war-torn landscapes.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

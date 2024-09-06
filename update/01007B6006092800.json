@@ -1,4 +1,51 @@
 {
     "id": "01007B6006092800",
-    "version": 917504
+    "base_tid": "01007B6006092000",
+    "name": "MUSYNX",
+    "description": "Experience MUSYNX, the new music game sensation! Featuring classic hardcore rhythm game play mechanics!",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20180810,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20180810,
+        "131072": 20181028,
+        "196608": 20190328,
+        "262144": 20190820,
+        "327680": 20200319,
+        "393216": 20200716,
+        "458752": 20211025,
+        "524288": 20211202,
+        "589824": 20220225,
+        "655360": 20220617,
+        "720896": 20220923,
+        "786432": 20230225,
+        "851968": 20230905,
+        "917504": 20240419
+    },
+    "category": [
+        "Music",
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Sex Scenes",
+        "Violence"
+    ],
+    "region": null
 }

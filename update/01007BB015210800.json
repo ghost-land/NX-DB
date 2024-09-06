@@ -1,4 +1,37 @@
 {
     "id": "01007BB015210800",
-    "version": 65536
+    "base_tid": "01007BB015210000",
+    "name": "SGC - Short Games Collection #1",
+    "description": "Time is running short but you still want to play meaningful games that leave you with a sense of accomplishment. Well, look no further! The SGC - Short Games Collection has gathered five amazing gaming experiences that you can play through from start to finish and still have time to enjoy other fine things in life. \n\nEncased in a beautiful 3D menu environment created originally for the SGC you will find: The Good Time Garden; Swallow the Sea; A Game Literally About Doing Your Taxes; Ghostein; and Uranus.\nThese acclaimed gems are available on Nintendo Switch™ for the very first time.\nExperience the most psychedelic and thought provoking games anytime and anywhere.",
+    "publisher": "Nerd Monkeys",
+    "developer": null,
+    "base_release_date": 20230912,
+    "first_update_release_date": 20210926,
+    "latest_update_release_date": 20210926,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210926
+    },
+    "versions": {
+        "65536": 20210926
+    },
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "A curated selection of unique short videogame experiences, wrapped in an immersive dynamic menu. These gems are sure to fulfill every gamer's appetite for new, bite-sized experiences.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Nudity",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null
 }

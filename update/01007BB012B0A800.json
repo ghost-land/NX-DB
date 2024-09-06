@@ -1,4 +1,42 @@
 {
     "id": "01007BB012B0A800",
-    "version": 131072
+    "base_tid": "01007BB012B0A000",
+    "name": "Anodyne 2: Return to Dust",
+    "description": "Anodyne 2: Return to Dust combines the thrilling scale and cinematic storytelling of 3D games with the tight design and easy-to-pick-up satisfaction of 2D action adventures. Explore gorgeous and haunting locales, speak with strangers, and make both friends and memories along the way.\n\nNano Dust infects the islanders of New Theland, distorting their emotions and desires. You play as Nova, a Nano Cleaner tasked with seeking out the sick and shrinking inside their bodies to suction up the Dust.\n\nTraverse cities, valleys, and wastelands then shrink into the varied mindscapes of characters, from snowy, aurora-lit valleys to perilous volcanic construction sites with art that re-imagines the 16-bit and 32-bit console eras.\n\nFeatures\n* Explore wondrous 3D and 2D landscapes, and transform into a car to cross the distance\n* Experience the emotional tale of Nova the Nano Cleaner\n* Delve into pixelated and lo-fi landscapes painted by Marina Kittaka \n* Immerse yourself in 50+ songs from countless genres by Melos Han-Tani\n* Created by Analgesic Productions (Melos & Marina), the duo behind Anodyne 1, All Our Asias, and Even the Ocean!",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20210219,
+    "first_update_release_date": 20210217,
+    "latest_update_release_date": 20210504,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210504
+    },
+    "versions": {
+        "65536": 20210217,
+        "131072": 20210504
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG"
+    ],
+    "intro": "2D and 3D exploration meet in this surreal, story-driven adventure.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

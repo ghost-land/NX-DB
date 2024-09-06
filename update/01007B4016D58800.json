@@ -1,4 +1,34 @@
 {
     "id": "01007B4016D58800",
-    "version": 65536
+    "base_tid": "01007B4016D58000",
+    "name": "Astro Rangers",
+    "description": "Astro Rangers is an intense, action-packed shooter where you need to do everything you can in order to win. You have an immersive, and satisfying gameplay experience where you must complete a variety of missions. Usually, you have to eliminate all your enemies as fast as you can in order to win. Since there are multiple weapons to choose from, every session is very different, and you can easily strategize and pick how to play. \n\nIf you always wanted an intense, fun, and engaging shooter with lots of missions, try out Astro Rangers today!\n\nFeatures:\n\t•\tAction-packed shooter game\n\t•\tMultiple missions to choose from\n\t•\tA variety of powerful weapons\n\t•\tStrategize and eliminate enemies",
+    "publisher": "Gametry",
+    "developer": null,
+    "base_release_date": 20211126,
+    "first_update_release_date": 20211213,
+    "latest_update_release_date": 20211213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211213
+    },
+    "versions": {
+        "65536": 20211213
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "All the rangers to their positions, the galaxy is waiting to be rescued!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

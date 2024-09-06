@@ -1,4 +1,46 @@
 {
     "id": "01007BB017812800",
-    "version": 196608
+    "base_tid": "01007BB017812000",
+    "name": "Portal",
+    "description": "In Portal, you’ll use a highly experimental portal device to solve physical puzzles and challenges. Maneuver objects--and yourself--through space to puzzle your way through the mysterious Aperture Science Laboratories.",
+    "publisher": "Valve Corporation",
+    "developer": null,
+    "base_release_date": 20220628,
+    "first_update_release_date": 20220628,
+    "latest_update_release_date": 20220714,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220714
+    },
+    "versions": {
+        "131072": 20220628,
+        "196608": 20220714
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Violence"
+    ],
+    "region": null
 }

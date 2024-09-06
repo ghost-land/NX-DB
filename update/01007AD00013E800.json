@@ -1,4 +1,49 @@
 {
     "id": "01007AD00013E800",
-    "version": 720896
+    "base_tid": "01007AD00013E000",
+    "name": "Super Bomberman R",
+    "description": "Evil Emperor Buggler is plotting to take over the universe, only the 8 Bomberman heroes can save the day. \nStory Mode is an exciting single player or co-op adventure with 50 levels to clear and awesome bosses to defeat. Featuring traditional Bomberman gameplay along with all-new 3D levels and features.\nBattle Mode is the classic Bomberman multiplayer experience for up to 8 players. Compete locally, or go online and battle with friends and rivals from around the world. The rules are simple - The last Bomberman standing wins.",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20180918,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20180918
+    },
+    "versions": {
+        "393216": 20170814,
+        "524288": 20171114,
+        "589824": 20171205,
+        "655360": 20180626,
+        "720896": 20180918
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Strategy"
+    ],
+    "intro": "Bomberman is Back!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very mild violence",
+        "Online interactivity"
+    ],
+    "region": null
 }
