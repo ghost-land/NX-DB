@@ -1,4 +1,41 @@
 {
     "id": "010025901A268800",
-    "version": 262144
+    "base_tid": "010025901A268000",
+    "name": "DreamWorks Trolls Remix Rescue",
+    "description": "Play as Poppy, Branch and more of your favorite DreamWorks Trolls as you explore, smash, dance and battle your way towards rescuing the Troll Kingdom from a melodic mastermind who’s trying to alter the Trolls’ musical harmony.\n\nKey Game Features:\n\nPLAY AS THE TROLLS: Choose from your favorite Trolls including Poppy, Branch, Guy Diamond and more as you explore and journey through Troll Kingdom in a quest to save it!\n\nCREATE AND PLAY As your own stylized Troll character featuring different hairstyles, facial features, outfits, and more with thousands of combination possibilities! \n\nHAIR IS NOT JUST FOR LOOKS: Perform ‘Hair-Jitsu’ to whip your hair at enemies, twirl your hair to float like a helicopter, and use your hair to grab, carry, push, pull, throw, and smash objects along your quest.\n\nMUSICAL MINI-GAMES & CHALLENGES: Compete in rhythm-based mini-games and solve fun and challenging environmental puzzles to unlock special items or new abilities.\n\nMOVE TO THE BEAT OF THE TROLLS: The game soundtrack features music from DreamWorks Animation's Trolls film franchise, such as:\n\n• Get Back Up Again\n• Hair Up\n• And more!\n\nFULLY IMMERSE YOURSELF IN TROLL KINGDOM: Explore the wonders of your favorite Trolls kingdoms from Poppy & Branch’s Pop Village, Barb’s Volcano Rock City, Cooper’s Mothership City, and more!\n\nFUN WITH FRIENDS: Up to 4 players co-op local multiplayer",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20231027,
+    "first_update_release_date": 20231010,
+    "latest_update_release_date": 20240129,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240129
+    },
+    "versions": {
+        "65536": 20231010,
+        "131072": 20231123,
+        "196608": 20231222,
+        "262144": 20240129
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Jam with the Trolls in this exciting new adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

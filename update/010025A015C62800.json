@@ -1,4 +1,45 @@
 {
     "id": "010025A015C62800",
-    "version": 131072
+    "base_tid": "010025A015C62000",
+    "name": "Little Orpheus",
+    "description": "Little Orpheus is a technicolor side-scrolling adventure game inspired by classic movies like Flash Gordon, Sinbad and The Land that Time Forgot. Join our bold yet hapless hero Comrade Ivan Ivanovich as he explores lost civilizations, undersea kingdoms, prehistoric jungles and lands beyond imagination. Gasp as he battles the subhuman tribe of the Menkv and escapes the clutches of dreadful monsters! Cheer as he triumphs over impossible odds and untold dangers in the subterranean worlds!\n\nWith stunning visuals, brilliant acting and a world-class score, Little Orpheus is a subterranean epic you’ll never forget. Comrades, to the center!\n\nFeatures\n\n•\tA stunning, colorful world remastered with hi-res textures, new moves and animations, enhanced graphics and lighting effects, and more\n\n•\tA gripping story full of humor and adventure by the award-winning masters at The Chinese Room, creators of Dear Esther and Everybody’s Gone to the Rapture\n\n•\tAward-winning vocal performances and a world-class music score by BAFTA-winning composer Jessica Curry and Jim Fowler\n\n•\tIncludes the bonus 9th episode A Rush of Onion to the Head and the Lost Recordings Mode",
+    "publisher": "Secret Mode",
+    "developer": null,
+    "base_release_date": 20220913,
+    "first_update_release_date": 20230116,
+    "latest_update_release_date": 20230210,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230210
+    },
+    "versions": {
+        "65536": 20230116,
+        "131072": 20230210
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

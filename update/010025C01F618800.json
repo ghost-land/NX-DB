@@ -1,4 +1,34 @@
 {
     "id": "010025C01F618800",
-    "version": 65536
+    "base_tid": "010025C01F618000",
+    "name": "EGGCONSOLE TRITORN PC-8801",
+    "description": "Released in Japan by SEIN SOFT in 1985, this side-scrolling action RPG follows the adventures of the brave warrior Tritorn. Players take control of Tritorn as he battles numerous monsters to restore peace to the island of Luwanda, which is under the control of the tyrant Pay-Valusa.\n\nTritorn primarily fights using jumps and sword strikes. By anticipating the enemy's movements, he will swing his sword, and executing a sword strike from a jump inflicts double damage, showcasing an advanced technique. Furthermore, as Tritorn grows, he learns magic, allowing him to halt enemy movements or instantly eliminate them. \n\nWhile the game is an action RPG, it's not just about defeating enemies. There are puzzle-solving elements incorporated, where defeating specific enemies in consecutively rewards players with items. Some puzzles may be challenging, but they add depth to the gameplay.\n\nWith its fast-paced action, skill-based combat, engaging puzzles, and the ability to learn three different magic spells as Tritorn grows, this game offers a rich experience for action RPG enthusiasts. Even those new to the genre are encouraged to give this a try.\n\n*This application does not have a scene select mode.\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"How to play\" screens are in English.",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240620,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240719
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Tritorn, a brave warrior, stands up to restore peace to the island of Luwanda. This is an excellent action RPG that became famous in the early days of PC games! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

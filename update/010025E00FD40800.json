@@ -1,4 +1,34 @@
 {
     "id": "010025E00FD40800",
-    "version": 65536
+    "base_tid": "010025E00FD40000",
+    "name": "League of the Shield",
+    "description": "League of the Shield is an arcade game for up to 4 players.\n\nDefend your fortress against moving balls using your trustworthy shield. Try to beat every other player to be crowned king.",
+    "publisher": "NoobO Games",
+    "developer": null,
+    "base_release_date": 20191129,
+    "first_update_release_date": 20200522,
+    "latest_update_release_date": 20200522,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200522
+    },
+    "versions": {
+        "65536": 20200522
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

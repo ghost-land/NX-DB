@@ -1,4 +1,38 @@
 {
     "id": "010026000F662800",
-    "version": 131072
+    "base_tid": "010026000F662000",
+    "name": "LA-MULANA",
+    "description": "Experience a classic tale of exploration, puzzle-solving, and deadly action with LA-MULANA!\n\nYour destiny awaits in La-Mulana! Take control of archaeologist Lemeza Kosugi and navigate through puzzles, traps, and deadly Guardians in order to claim the Secret Treasure of Life. You'll need sharp wits, quick reflexes, and most importantly, all the courage you can muster. Will you succeed in unraveling the secrets of La-Mulana, or will you fall victim to the dangers that surround you?",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200327,
+    "first_update_release_date": 20200418,
+    "latest_update_release_date": 20201020,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201020
+    },
+    "versions": {
+        "65536": 20200418,
+        "131072": 20201020
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Sexual References",
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

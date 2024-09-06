@@ -1,4 +1,43 @@
 {
     "id": "010026100A2CA800",
-    "version": 262144
+    "base_tid": "010026100A2CA000",
+    "name": "The Big Con - GRIFT OF THE YEAR EDITION",
+    "description": "Hustle your way across the ‘90s as a runaway teen con artist. Choose how to make your scratch as you don disguises, pick pockets, and rip people off in this comedic crime-filled adventure.",
+    "publisher": "Mighty Yell",
+    "developer": null,
+    "base_release_date": 20220601,
+    "first_update_release_date": 20220607,
+    "latest_update_release_date": 20230717,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230717
+    },
+    "versions": {
+        "65536": 20220607,
+        "131072": 20220801,
+        "262144": 20230717
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Grift through the totally rad '90s in all its plaid and payphone glory!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

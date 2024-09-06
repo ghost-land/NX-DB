@@ -1,4 +1,42 @@
 {
     "id": "010025C00D410800",
-    "version": 262144
+    "base_tid": "010025C00D410000",
+    "name": "Mega Man Zero/ZX Legacy Collection",
+    "description": "Mega Man Zero/ZX Legacy Collection brings together six classic titles in one game: Mega Man Zero 1, 2, 3, and 4, as well as Mega Man ZX and ZX Advent.\n\nIn addition to the original games, Casual Scenario Mode and a Save-Assist feature are available for those who would like to enjoy the story at their own pace. Players can also try their hand at the new leaderboard-based Z Chaser Mode, an exclusive new mode created just for this set of games.",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20200209,
+    "latest_update_release_date": 20200409,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200409
+    },
+    "versions": {
+        "131072": 20200209,
+        "196608": 20200223,
+        "262144": 20200409
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "The Mega Man Zero/ZX games are now on the Nintendo Switch!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

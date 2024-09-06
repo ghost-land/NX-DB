@@ -1,4 +1,37 @@
 {
     "id": "010025B0100D0800",
-    "version": 327680
+    "base_tid": "010025B0100D0000",
+    "name": "Sports Story",
+    "description": "Sports story is a sports RPG like no other. Featuring a mix of sports and sporting activities wrapped up in one big story. With a multitude of characters to meet, you will make plenty of friends and enemies along the way. Sports Story isn’t just about sports, it’s an all-out sporting adventure.\n\nFeatures:\n\n- Play and master multiple unique golf courses. Rise through the ranks as a tennis student. Your sporting destiny is in your own hands.\n\n- Travel by train, helicopter and houseboat as you explore dungeons, abandoned ruins and the mysterious Wildlands.\n\n- Raise your Sporting Rank to unlock new and varied activities like BMX, mini-golf, cricket, volleyball, fishing and more.\n\n- Kick back at the mall with its daily attractions, specialty sports stores and mini games.\n",
+    "publisher": "Sidebar Games",
+    "developer": null,
+    "base_release_date": 20221223,
+    "first_update_release_date": 20221223,
+    "latest_update_release_date": 20230223,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230223
+    },
+    "versions": {
+        "131072": 20221223,
+        "196608": 20230106,
+        "262144": 20230201,
+        "327680": 20230223
+    },
+    "category": [
+        "Sports",
+        "RPG",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "Embark on an all-out sporting adventure.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

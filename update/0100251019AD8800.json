@@ -1,4 +1,35 @@
 {
     "id": "0100251019AD8800",
-    "version": 131072
+    "base_tid": "0100251019AD8000",
+    "name": "Million Shells",
+    "description": "In 2222, technology obtained through the analysis of UFOs led to a remarkable evolution of aircraft. At the same time, however, the legal system is unable to keep up with the speed of development, and the airspace system collapses. Finally, war breaks out.\nDrone turrets, which are created inexhaustibly because they do not carry people, fly over every country, shooting at each other, breaking down, and crashing. Day and night, explosions continue to be heard from the skies above, and debris rains down on the ground.\nSomeone in despair over this world of black smoke likened it to this:\n\n\"The sky is dominated by shells.\"\n\nIn the midst of all this, on a small island at the end of the world, there were people who continued to defy the times.\nThey put their hope in the \"Slugger-X-Delta,\" a monster machine built with modern technology, a super battleship that is a substitute for the big-boat, big-artillery generation, older than the drone weapon generation and the small, lightweight generation.\nThe player becomes the pilot of the Slugger-X-Delta and takes off to end the war that has engulfed the world and to restore the free blue sky.",
+    "publisher": "FlyteCatEmotion",
+    "developer": null,
+    "base_release_date": 20230601,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20231013,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231013
+    },
+    "versions": {
+        "65536": 20230621,
+        "131072": 20231013
+    },
+    "category": [
+        "Shooter",
+        "Strategy"
+    ],
+    "intro": "Manage 15 cannons attached to a huge battleship\nand shoot down the enemies that appear.\nThis is an exhilarating tower defense shooting game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

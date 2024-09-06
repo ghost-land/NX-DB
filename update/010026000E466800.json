@@ -1,4 +1,49 @@
 {
     "id": "010026000E466800",
-    "version": 589824
+    "base_tid": "010026000E466000",
+    "name": "NBA 2K20",
+    "description": "NOTE: All multiplayer servers for NBA 2K20 will be shutdown as of 12/31/2021. After that time, all game functions requiring online servers will no longer function.\n\nNBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture.",
+    "publisher": "2K",
+    "developer": null,
+    "base_release_date": 20201113,
+    "first_update_release_date": 20190902,
+    "latest_update_release_date": 20200616,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20200616
+    },
+    "versions": {
+        "65536": 20190902,
+        "131072": 20190913,
+        "196608": 20191003,
+        "262144": 20191024,
+        "327680": 20191120,
+        "393216": 20200109,
+        "458752": 20200129,
+        "524288": 20200507,
+        "589824": 20200616
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "Welcome to the Next",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Language",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
