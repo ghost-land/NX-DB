@@ -1,4 +1,47 @@
 {
     "id": "010063A016A14800",
-    "version": 131072
+    "base_tid": "010063A016A14000",
+    "name": "Family Chess",
+    "description": "Pick your favorite\n\nChoose one of the heros and challenge other players in this family-friendly version of Chess. Thanks to the cartoony graphics, this variation can be enyojed by people of all ages.\n\nHone your skills\n\nIf you want to improve on your own, try out one of five difficulty options and play with an NPC. Find your favorite opening and improve with every game. If you are looking for a real challenge try out the expert mode.\n\nKey features\n\n- local multiplayer\n- family friendly\n- balanced gameplay\n- charming aesthetic\n- invigorating music track",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220617,
+    "first_update_release_date": 20220715,
+    "latest_update_release_date": 20220825,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220825
+    },
+    "versions": {
+        "65536": 20220715,
+        "131072": 20220825
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "Prepare for loads of fun with this cartoon version of the most popular board game in the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

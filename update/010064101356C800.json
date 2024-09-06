@@ -1,4 +1,32 @@
 {
     "id": "010064101356C800",
-    "version": 131072
+    "base_tid": "010064101356C000",
+    "name": "英雄伝説 閃の軌跡Ⅳ",
+    "description": "「閃の軌跡」シリーズ最終章が、Nintendo Switchに登場！ \nアップデートで追加された高速スキップモードなども搭載されているほか、過去にDLCとして配信されていた衣装なども使用でき、『英雄伝説 閃の軌跡IV』を満喫できるタイトルとなっています。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20210318,
+    "first_update_release_date": 20210317,
+    "latest_update_release_date": 20210426,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210426
+    },
+    "versions": {
+        "65536": 20210317,
+        "131072": 20210426
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }

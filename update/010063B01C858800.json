@@ -1,4 +1,34 @@
 {
     "id": "010063B01C858800",
-    "version": 65536
+    "base_tid": "010063B01C858000",
+    "name": "Paper Dash - Ghost Hunt",
+    "description": "Embark on an exhilarating adventure as you take on the role of a courageous paper plane hunting down evil ghosts that haunt vibrant worlds across dimensions. Soar through captivating landscapes, from mystical forests to scary mansions, in search of these malevolent spirits. Utilize your flying skills and quick reflexes to shoot all the ghosts, restore peace, and bring harmony to the realms in this thrilling and visually stunning game.",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20231025,
+    "latest_update_release_date": 20231025,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231025
+    },
+    "versions": {
+        "65536": 20231025
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Shoot all the ghosts and restore peace as a paper plane!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

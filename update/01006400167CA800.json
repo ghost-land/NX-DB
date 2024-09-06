@@ -1,4 +1,42 @@
 {
     "id": "01006400167CA800",
-    "version": 65536
+    "base_tid": "01006400167CA000",
+    "name": "OMNO",
+    "description": "Full of puzzles, secrets and obstacles to overcome, where the power of a lost civilisation will carry you through forests, deserts and tundras - even to the clouds.",
+    "publisher": "Studio Inkyfox",
+    "developer": null,
+    "base_release_date": 20211216,
+    "first_update_release_date": 20211202,
+    "latest_update_release_date": 20211202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211202
+    },
+    "versions": {
+        "65536": 20211202
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "A single-player journey of discovery through an ancient world of wonders.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

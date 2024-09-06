@@ -1,4 +1,42 @@
 {
     "id": "010063D01EFAE800",
-    "version": 131072
+    "base_tid": "010063D01EFAE000",
+    "name": "SlidePuzzle",
+    "description": "The puzzle consists of grabbing blocks, sliding them sideways, and dropping them into a line.\n\nThree difficulty levels are available: EASY mode, which allows you to think carefully, NOMAL mode, in which blocks keep increasing in time, and HARD mode, in which there are no items to help you.\n\nRanking board is available.\nRanking for each difficulty level is available.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20240523,
+    "first_update_release_date": 20240605,
+    "latest_update_release_date": 20240715,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240715
+    },
+    "versions": {
+        "65536": 20240605,
+        "131072": 20240715
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Training"
+    ],
+    "intro": "A new type of falling object puzzle in which you slide and erase blocks by aligning them.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

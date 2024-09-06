@@ -1,4 +1,31 @@
 {
     "id": "010063900BC1C800",
-    "version": 65536
+    "base_tid": "010063900BC1C000",
+    "name": "biohazard 4",
+    "description": " \n固定視点から世界で絶賛された\"ビハインドビュー\"への変更に伴いゲームシステムを大きくアクションに寄せ、アンブレラ社崩壊後を描いた「新生バイオハザード」の第一弾である。 \n\n未曾有の生物災害“ラクーン事件”。その経緯は白日にさらされ、元凶となったアンブレラ社は崩壊した。  事件から生還したレオン・S・ケネディは大統領直轄のエージェントへと成長していた。彼は誘拐された大統領令嬢の目撃情報を元にヨーロッパの寒村へと向かうが、不穏な村で新たな事件の幕が上がる…。   ",
+    "publisher": "カプコン",
+    "developer": null,
+    "base_release_date": 20190523,
+    "first_update_release_date": 20190709,
+    "latest_update_release_date": 20190709,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190709
+    },
+    "versions": {
+        "65536": 20190709
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "サバイバルホラー、そしてアクションゲームの\"マスターピース（傑作）”",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

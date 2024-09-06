@@ -1,4 +1,42 @@
 {
     "id": "010063200C588800",
-    "version": 131072
+    "base_tid": "010063200C588000",
+    "name": "Ghost Blade HD",
+    "description": "Ghost Blade HD is an intense Bullet-Hell top down shoot 'em up, composed by frenetic and addictive score-based gameplay. With its inspiration going back to the shooting games of the 1990s era, Ghost Blade HD ties old memories to current tones and techniques. Designed with a modern graphic style and special effects, Ghost Blade HD also features an awesome 2-player mode! Ghost Blade HD is easy to learn, hard to master.\n\nFeatures:\n\n• Beautiful and detailed HD graphics\n• 5 stages with HUGE boss enemies and 3 difficulty levels\n• 3 player battle ships with different weapon types\n• Arcade-style gameplay and addictive scoring system\n• 2-player local co-op mode and online leaderboards\n• In-game achievement system",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20230302,
+    "first_update_release_date": 20191021,
+    "latest_update_release_date": 20200918,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200918
+    },
+    "versions": {
+        "65536": 20191021,
+        "131072": 20200918
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Intense Bullet Hell Action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

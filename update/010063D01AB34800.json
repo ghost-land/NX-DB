@@ -1,4 +1,36 @@
 {
     "id": "010063D01AB34800",
-    "version": 65536
+    "base_tid": "010063D01AB34000",
+    "name": "Cattails: Wildwood Story",
+    "description": "Lead your colony into the mysterious Wildwood. Hunt prey, harvest herbs, collect magical treasures, & defend your new home from intruders. Build a thriving town to recruit new cats. Get to know the residents, fall in love, & raise a litter of kittens!\n\n•Hunt prey throughout the open world to keep your colony well-fed\n•Befriend or romance one of over 20 unique cats. Bring them with you on your adventures!\n•Start a family and raise a litter of kittens!\n•Build & customize your town any way you like. Expand your colony to attract new residents\n•Capture territory and resources from the clutches of the evil Voidling Cats\n•Spend the days growing a garden, decorating your den, or customizing your kitty\n\nMeow!",
+    "publisher": "FalconDevelopment",
+    "developer": null,
+    "base_release_date": 20231130,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20231129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231129
+    },
+    "versions": {
+        "65536": 20231129
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Become a cat in this cozy life sim RPG!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
