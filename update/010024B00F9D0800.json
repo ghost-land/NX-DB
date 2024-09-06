@@ -1,4 +1,42 @@
 {
     "id": "010024B00F9D0800",
-    "version": 720896
+    "base_tid": "010024B00F9D0000",
+    "name": "泰拉瑞亞",
+    "description": "泰拉瑞亞的世界是由木頭、土、礦石等各種方塊所構成，利用十字鎬或斧頭破壞即可收集素材。\n利用收集到的方塊和敵人掉落的素材，即可製作道具或自由建造各種造型的建築物。\n在廣大的地圖中尋找新素材並遇見未知的敵人，盡情暢遊吧。",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20200213,
+    "first_update_release_date": 20191212,
+    "latest_update_release_date": 20231002,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20231002
+    },
+    "versions": {
+        "65536": 20191212,
+        "131072": 20191216,
+        "196608": 20191222,
+        "262144": 20200528,
+        "327680": 20220216,
+        "393216": 20220427,
+        "458752": 20220609,
+        "524288": 20221019,
+        "589824": 20221207,
+        "655360": 20230508,
+        "720896": 20231002
+    },
+    "category": [
+        "動作",
+        "冒險"
+    ],
+    "intro": "在日本發售超過90萬片的《泰拉瑞亞》終於要在Nintendo Switch登場囉！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

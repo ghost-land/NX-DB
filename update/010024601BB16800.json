@@ -1,4 +1,45 @@
 {
     "id": "010024601BB16800",
-    "version": 262144
+    "base_tid": "010024601BB16000",
+    "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "description": "Play the Original Three Tomb Raider Adventures: For the first time ever, play the complete experience with all expansions and secret levels on modern platforms in this definitive collection.\n\nIncluded Game Titles\nTomb Raider I + Unfinished Business\nTomb Raider II + Golden Mask\nTomb Raider III + The Lost Artifact\n\nSolve Ancient Mysteries: Uncover treasures of the ancient world by solving puzzles and unraveling mysteries lost to the ravages of time.\n\nGlobe-trotting Adventure: Follow Lara Croft around the world and face off against deadly foes and dangerous myths.\n\nLovingly Restored: Experience the classics boasting upgraded graphics, with the option to switch to the original polygon look at any time.",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20240214,
+    "first_update_release_date": 20240131,
+    "latest_update_release_date": 20240606,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240606
+    },
+    "versions": {
+        "65536": 20240131,
+        "131072": 20240312,
+        "196608": 20240412,
+        "262144": 20240606
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover Lara Croft’s Original Adventures, Lovingly Restored ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

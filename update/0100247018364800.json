@@ -1,4 +1,39 @@
 {
     "id": "0100247018364800",
-    "version": 131072
+    "base_tid": "0100247018364000",
+    "name": "Puzzle Collection",
+    "description": "The game have 3 difficulty levels starting from 15 to 160 puzzle pieces. Game designed for everyone, from the smallest to the older players!\n\n- 40 Cozy Puzzles\n- 3 Types Of Difficulty (15 / 40 / 160 pieces)\n- 3 Categories (Animals, Fairy Tales, Adventures)\n- Touchscreen Support\n- Relaxing Music\n\nLet's start enjoying the amazing puzzle collection!",
+    "publisher": "Soroka Games",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20220817,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20220817,
+        "131072": 20221115
+    },
+    "category": [
+        "Puzzle",
+        "Study",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Puzzle Collection - is a relaxing puzzle game where you can spend a lot of time.  Assemble puzzles piece by piece.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

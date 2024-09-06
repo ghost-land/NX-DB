@@ -1,4 +1,32 @@
 {
     "id": "010023E008702800",
-    "version": 65536
+    "base_tid": "010023E008702000",
+    "name": "Spiral Splatter",
+    "description": "Put your problem-solving skills to the test as you navigate over 100 levels and 11 different stages full of perplexing puzzles. Watch out for moving obstacles as you maneuver through each level. Think fast, if you’re too slow, the ghost may catch up to you. Hustle to reach the finish before your time is up!\n\nEach stage of gameplay adds a new challenge with an ever-increasing difficulty. Don’t be fooled by appearances, Spiral Splatter will stump even the most adept puzzle game aficionado.\n\nStay calm, relax and see if you can take on Spiral Splatter!\n\nFeatures:\n- Over 100 Levels of gameplay\n- 11 unique stages with a new challenge on each one\n- Colorful and clean graphics\n- Challenging gameplay",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180314,
+    "first_update_release_date": 20180227,
+    "latest_update_release_date": 20180227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180227
+    },
+    "versions": {
+        "65536": 20180227
+    },
+    "category": [
+        "Puzzle",
+        "Party"
+    ],
+    "intro": "Spiral Splatter is a brain-bending arcade puzzle game that will push your hand-eye coordination to the limit with nonstop, mind-boggling puzzles!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

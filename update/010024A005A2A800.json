@@ -1,4 +1,39 @@
 {
     "id": "010024A005A2A800",
-    "version": 65536
+    "base_tid": "010024A005A2A000",
+    "name": "Super Treasure Arena",
+    "description": "Super Treasure Arena is a unique mix of retro-inspired arcade action and objective-based arena shooters for up to 4 players. The result is a frantic game where collecting and stealing coins from your opponents is the key to victory.\n\n• 6 thrilling, fantasy-themed maps!\n• 5 playable characters: Warrior, Rogue, Mage, Mystic, and Ninja - each with their own special ability!\n• 2 action-packed game modes!\n• Supports TV mode, Tabletop mode, and Handheld mode!\n \n\nENTER THE ARENA\nChoose a character and battle it out on tight top-down maps, filled with angry monsters and shiny loot. Various weapons scattered across each map can be picked up and will help you blasting away your opponents, including bows, magic staffs, bombs, rockets and more!\n \n• Classic - Collect coins from monsters and treasure chests, and beat them right back out of your opponents!\n• Treasure Run - Stay alive while carrying loot-filled treasure chests back to your home base!",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20181225,
+    "first_update_release_date": 20181224,
+    "latest_update_release_date": 20181224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181224
+    },
+    "versions": {
+        "65536": 20181224
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "FOUR PLAYER COIN FRENZY",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

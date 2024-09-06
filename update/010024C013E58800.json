@@ -1,4 +1,38 @@
 {
     "id": "010024C013E58800",
-    "version": 65536
+    "base_tid": "010024C013E58000",
+    "name": "One Escape",
+    "description": "One day, three buddies decided to rob a bank.\nBut something went wrong and the cops showed up...\n\nNow, these feisty felons need to smarten up and make the most incredible jailbreak.\nFind the way to freedom while hiding from the guards, searching for key cards to open the locked doors, and avoiding dangerous pitfalls!\n\nComplete 60 levels, and get out of prison at any cost!\n\nFeatures:\n* 60 levels to escape\n* Three characters with unique abilities\n* Challenging levels with puzzles and traps",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20210327,
+    "first_update_release_date": 20210511,
+    "latest_update_release_date": 20210511,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210511
+    },
+    "versions": {
+        "65536": 20210511
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Three friends. One Escape.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

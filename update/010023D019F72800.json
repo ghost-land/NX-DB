@@ -1,4 +1,33 @@
 {
     "id": "010023D019F72800",
-    "version": 65536
+    "base_tid": "010023D019F72000",
+    "name": "Words in Word",
+    "description": "Words in Word is a word collecting game familiar to many since childhood. Have intellectual fun and make words from over 1000 word puzzles.\nIn addition, in a special mode you will compete with computer opponents. Upgrade your rank and become a champion.\nPlay with your friends on the same console in the special \"Duel\" mode. Check who is the smartest and fastest in words search!\n\nSo, go ahead, find words and become an outstanding words finder!\n\nFeatures:\n• A huge number of words\n• Relaxing meditative gameplay\n• Play with friends in local mode\n• A brief description of each word\n• Play as you like, touch screen support",
+    "publisher": "17Studio",
+    "developer": null,
+    "base_release_date": 20240307,
+    "first_update_release_date": 20230120,
+    "latest_update_release_date": 20230120,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230120
+    },
+    "versions": {
+        "65536": 20230120
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Party",
+        "Education"
+    ],
+    "intro": "Words in Word is a game to collect words from over 1000 word puzzles.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

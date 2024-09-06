@@ -1,4 +1,40 @@
 {
     "id": "010024001B4D6800",
-    "version": 65536
+    "base_tid": "010024001B4D6000",
+    "name": "Moorhuhn Invasion - Crazy Chicken Invasion",
+    "description": "Help! The invasion of alien Moorhuhn chickens has begun!\n\nChicken aliens have been watching us from the depths of space. Now they have come to establish their base and take everything that is not nailed down: trees, cows, mountains, grouse...\n\nBut we are prepared! Many hidden extras for our defense will give the aliens a hard time and even their superior technology won't be able to save them when we strike back with our shotgun...\n\nLet them come!\n\n90 seconds to hunt as many chickens as possible and score points. Beat your own record and compete against players around the world.\n\nScore at least 800 points to unlock the bonus level. This will give you another 45 seconds to push your score really high.\n\n- Hidden extras by the dozen\n- great graphics and a cool soundtrack\n- bonus level\n- a strictly confidential hidden EASTER EGG",
+    "publisher": "Higgs Games",
+    "developer": null,
+    "base_release_date": 20231222,
+    "first_update_release_date": 20231222,
+    "latest_update_release_date": 20231222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231222
+    },
+    "versions": {
+        "65536": 20231222
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "CHICKEN INVADERS ATTACK!\nWe've always known it, and now the day has come:\nTHE DAY OF THE INVASION!!!",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

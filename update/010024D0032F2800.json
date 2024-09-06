@@ -1,4 +1,43 @@
 {
     "id": "010024D0032F2800",
-    "version": 196608
+    "base_tid": "010024D0032F2000",
+    "name": "Photon Cube",
+    "description": "\"Photon Cube\" is a unique puzzle game using light function.",
+    "publisher": "SMILEAXE",
+    "developer": null,
+    "base_release_date": 20180628,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20180627,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180627
+    },
+    "versions": {
+        "131072": 20170814,
+        "196608": 20180627
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Study"
+    ],
+    "intro": "\"Reflect\", \"Split\", \"Combine\", Let's lead seven colors of light!\n3D prism action puzzle that light draws\n\"Photon Cube\" appeared!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

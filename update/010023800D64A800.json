@@ -1,4 +1,40 @@
 {
     "id": "010023800D64A800",
-    "version": 589824
+    "base_tid": "010023800D64A000",
+    "name": "DELTARUNE Chapter 1&2",
+    "description": "The award-winning indie RPG, UNDERTALE, expands the series with a brand new game...in a different world! Create your own avatar, meet strange friends, and jump into the darkness. The first two chapters are free, so what are you waiting for? And more (paid) chapters will come out as soon as we finish them, so keep an eye out! For years!",
+    "publisher": "8-4",
+    "developer": null,
+    "base_release_date": 20190228,
+    "first_update_release_date": 20190228,
+    "latest_update_release_date": 20220228,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20220228
+    },
+    "versions": {
+        "65536": 20190228,
+        "131072": 20190312,
+        "196608": 20190419,
+        "262144": 20190506,
+        "327680": 20210923,
+        "393216": 20210924,
+        "458752": 20211011,
+        "524288": 20220222,
+        "589824": 20220228
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "The next adventure in the UNDERTALE series has appeared!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

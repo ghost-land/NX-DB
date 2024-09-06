@@ -1,4 +1,44 @@
 {
     "id": "010023E01A6BC800",
-    "version": 262144
+    "base_tid": "010023E01A6BC000",
+    "name": "Ash of Gods: The Way",
+    "description": "A turn-based story-driven tactical card game with hand crafted battles — each with different rules and objectives. Build and adjust your deck with characters, spells, and items from four factions. Adapt your strategy and make wise choices to decide what ending you get... ",
+    "publisher": "AurumDust",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20230420,
+    "latest_update_release_date": 20230914,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230914
+    },
+    "versions": {
+        "65536": 20230420,
+        "196608": 20230907,
+        "262144": 20230914
+    },
+    "category": [
+        "Strategy",
+        "Puzzle",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "Every battle is a new challenge!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

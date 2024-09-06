@@ -1,4 +1,47 @@
 {
     "id": "01002430155DA800",
-    "version": 327680
+    "base_tid": "01002430155DA000",
+    "name": "Derpy Conga",
+    "description": "Gather all your friends and take them on a journey to save their endangered planet!\nTake their hand as you find them and form a conga line to be sure not to leave anyone behind but be careful: the longer the line, the harder to control!\nOn the other hand (haha!), certain obstacles are easier to overcome when you have friends on your side.\n\nUnique group platforming:\nControl not one, not two, but a whole bunch of wacky friends… all at the same time!\n\nDifferent friends, different abilities:\nOn your journey you encounter different kinds of friends: each of them has unique abilities to help you throughout your quest.\n\nDerpy puzzles:\nUse your friends' different abilities to overcome challenges and swing past obstacles.\n\nCouch co-op:\nInvite some (real-life) friends to join you anytime!\n\nDynamic music:\nA carefully crafted, multi-layered soundtrack that evolves as your conga line gets longer.\n\nCuteness overload:\nLovely animated characters to cheer you up while saving the world.\n\nBeautiful alien landscapes:\nExplore colorful and lively worlds as you travel through space to look out for your friends.\n\nFriendship included!",
+    "publisher": "Giant Door",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220201,
+        "131072": 20220215,
+        "196608": 20220222,
+        "262144": 20220315,
+        "327680": 20220512
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": "A physics-based puzzle-platformer about the importance of friendship!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

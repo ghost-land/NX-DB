@@ -1,4 +1,47 @@
 {
     "id": "0100236015946800",
-    "version": 589824
+    "base_tid": "0100236015946000",
+    "name": "CRSED: F.O.A.D.",
+    "description": "生き残りをかけて戦うバトルロイヤルTPSゲーム『CRSED』はキャラクターによって異なる特殊能力や罠を駆使し、最後の一人を目指して戦うマルチプレイヤーラストマンシューティングです。\n2021年10月にNintendo Switch版がリリースされた本作は、基本プレイ無料でお楽しみいただけます。",
+    "publisher": "GaijinDistribution",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20211014,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20211014,
+        "131072": 20211115,
+        "196608": 20211207,
+        "262144": 20211215,
+        "327680": 20220118,
+        "393216": 20220322,
+        "458752": 20221101,
+        "524288": 20231024,
+        "589824": 20240419
+    },
+    "category": [
+        "アクション",
+        "シューティング",
+        "その他"
+    ],
+    "intro": "ロビーなしで即マッチング！基本プレイ無料で楽しめる個性的で本格派なバトルロイヤルゲーム。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

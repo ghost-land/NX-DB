@@ -1,4 +1,38 @@
 {
     "id": "0100246015E2E800",
-    "version": 393216
+    "base_tid": "0100246015E2E000",
+    "name": "Blaloon Blalympia",
+    "description": "Who will win the coveted Golden Blaloon? At the Blalympic Games on Blanet Blaloonia you compete against each other in four exciting mini-games. All of your playing skills are in demand: reaction speed, tactical skills and brains…\nWhether for big kids or little kids – younger and young at heart: Blaloon Blalympia transforms your Nintendo Switch™ into a blatastic game-sport-fun machine for the whole family!",
+    "publisher": "Swinging Lama",
+    "developer": null,
+    "base_release_date": 20221007,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20220517,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220517
+    },
+    "versions": {
+        "65536": 20210929,
+        "131072": 20211210,
+        "196608": 20211214,
+        "262144": 20211220,
+        "327680": 20211227,
+        "393216": 20220517
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "The new party game fun for families & friends: Become Blathletes and win the blatastic Blalympics on Blanet Blaloonia!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

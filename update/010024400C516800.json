@@ -1,4 +1,42 @@
 {
     "id": "010024400C516800",
-    "version": 262144
+    "base_tid": "010024400C516000",
+    "name": "RAD",
+    "description": "RAD is a 3D action rogue-like set in a post-post-apocalyptic world, where humanity has faced armageddon not once, but twice.\n\nPlaying as a teenage protagonist, you must venture into the Fallow — an ever-changing, radioactive wasteland filled with unknown and unspeakable creatures.\n\nBut humanity’s future comes at great personal cost, as the deeper you journey into unknown lands, the more you will expose yourself to gnarly toxins which will wreak havoc on your fragile human form.\n\nThe fate of the world depends on you, your trusty bat, and whatever strange new abilities you gain as the world around you ravages your body — twisting and mutating you into something far less than human, but far more powerful.\n\nBut forget all that — go grab that sweet bat and help save the world…or what’s remaining of it anyway!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20190829,
+    "latest_update_release_date": 20200820,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200820
+    },
+    "versions": {
+        "65536": 20190829,
+        "131072": 20190913,
+        "196608": 20191016,
+        "262144": 20200820
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Double Apocalypse, bitchin’ mutations, and a sweet bat.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood"
+    ],
+    "region": null
 }

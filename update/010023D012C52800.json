@@ -1,4 +1,37 @@
 {
     "id": "010023D012C52800",
-    "version": 65536
+    "base_tid": "010023D012C52000",
+    "name": "fault - milestone two side: above",
+    "description": "\"fault\" is a cinematic adventure series developed by ALICE IN DISSONANCE.\nIt is a human drama with a cinematic tempo and direction, in which the main characters meet people.\nThe realistic portrayal of characters in a sci-fi fantasy world, the cinematic camera work, and the easy-to-understand yet profound worldview have been highly acclaimed, and the series has sold over 500,000 copies worldwide.\nFollowing the success of \"fault - milestone one\", the second game in the series is finally coming to Nintendo Switch™.\nThe BGM and visuals have been completely redesigned, and the game's performance is even more powerful than the PC version.\n\nーーーーーーーーーーーーーーーーー\nWith their new friend Rune, Selphine and Ritona renew their journey to their homeland, but suddenly they encounter Merano, the leader of a mysterious group that attacked Rughzenhaide.\nThey manage to escape and arrive in the new land of Biscanta, but they get into unexpected trouble-----\nWill Selphine and Ritona be able to return to their hometown of Rughzenhaide?\nThis is the second installment in the series that follows the girls' journey.",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20201203,
+    "first_update_release_date": 20201130,
+    "latest_update_release_date": 20201130,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201130
+    },
+    "versions": {
+        "65536": 20201130
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "After being forced to leave their hometown, the girls' journey home brings them to a new place.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

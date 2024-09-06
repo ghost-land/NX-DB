@@ -1,4 +1,36 @@
 {
     "id": "010023E013244800",
-    "version": 131072
+    "base_tid": "010023E013244000",
+    "name": "Escape from Life Inc",
+    "description": "“Escape from Life Inc” is a quirky story-driven puzzle platformer, where you switch between three animals: a walking fish, an arrogant eagle and a stuttering reindeer. Throughout your adventure you'll be doing puzzles, platforming, exploring and much more. Together with plenty of wacky characters, help these three unlikely friends escape the alien lab!\n\nFeatures:\n- Play as three animals with unique personalities and abilities\n- Discover a crazy and comedic narrative, with some dark twists...\n- Meet a charming cast of talking animals\n- Experience five different chapters that each switch up the gameplay drastically\n- Enjoy tons of fun puzzle and platforming mechanics\n- Bounce on a fat pig's stomach (Don't worry, they're fine with it)\n\nI'm a 15 year old solo developer from Sweden, and this is my passion project I've been working on for about 1.5 years. It's a very personal game, with almost every tiny detail having its own little story to tell. I hope you'll enjoy it as much as I've enjoyed creating it :)",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20210401,
+    "first_update_release_date": 20210317,
+    "latest_update_release_date": 20210317,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210317
+    },
+    "versions": {
+        "131072": 20210317
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "You didn't have any legs... so we gave you some!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }
