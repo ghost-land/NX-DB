@@ -1,4 +1,36 @@
 {
     "id": "01009AE00B788800",
-    "version": 65536
+    "base_tid": "01009AE00B788000",
+    "name": "Pumped BMX Pro",
+    "description": "Pumped BMX Pro puts you back on the seat for another high adrenaline, fast-paced trickathon where chaining massive combos could put you at the number one spot on the global leaderboards. \n\nPump your way through 60 levels of ever increasing difficulty, making sure you’re racking up those platinum medals by completing Trick Challenges along the way. \n\nChoose from 15 riders with predesigned bikes, or get creative and design your own in the easy to use bike designer. \n\nPumped BMX Pro features;\n- 15 characters, each with their own spectacular bike!\n- 40+ radical tricks, from outrageous spins to insane grinds!\n- Over 200 challenges, each harder than the last!\n- 60 beautifully designed levels, from high top mountains to swampy depths!\n- Ragdoll physics, just in case you miss the ramp! \n",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20190208,
+    "first_update_release_date": 20190314,
+    "latest_update_release_date": 20190314,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190314
+    },
+    "versions": {
+        "65536": 20190314
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Ready to go Pro?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

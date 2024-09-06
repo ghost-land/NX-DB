@@ -1,4 +1,39 @@
 {
     "id": "01009B4013C00800",
-    "version": 327680
+    "base_tid": "01009B4013C00000",
+    "name": "Pocket Warriors",
+    "description": "Pocket Warriors is a top-down melee combat game with simple controls and easy to learn mechanics coupled with a fun story mode. Throughout the story, you will fight a variety of enemies, go through weirdest places, and find the best gear to prepare for the final battle.\n\nChoose your own style\nUse your abilities and precise timing to defeat your enemies for the glory of Zooricia! With diverse attack combinations, find what works best for you to take down the evil enemy forces.\n\nStory\nGarry the Wizard is gaining more influence over the kingdom and chaos is taking over the realm. You are the only one who can put this to an end. Grab your gear and set out on an adventure to save the world!\n\nAs the saviour of The Zooricia Kingdom you will fight against wizards, great warriors and guardians of the realm. Your path to glory will be full of adventure.\n\nPlay Together\nPlay with up to 4 friends in couch co-op mode to fight side-by-side or go into the PvP and challenge each other's skills in a fight to the death.\n\nFeatures\n- Satisfying battles\n- Variety of enemies to fight\n- Endless survival mode to sharpen your skills\n- Couch multiplayer to play with your friends and family!",
+    "publisher": "Flying Spaghetti",
+    "developer": null,
+    "base_release_date": 20220811,
+    "first_update_release_date": 20210608,
+    "latest_update_release_date": 20220810,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220810
+    },
+    "versions": {
+        "65536": 20210608,
+        "131072": 20210610,
+        "262144": 20210916,
+        "327680": 20220810
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Party"
+    ],
+    "intro": "Fight against the evil, beat up bad guys and save the realm!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

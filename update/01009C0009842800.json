@@ -1,4 +1,40 @@
 {
     "id": "01009C0009842800",
-    "version": 327680
+    "base_tid": "01009C0009842000",
+    "name": "Detective Gallo",
+    "description": "Detective Gallo is a point&click comic-noir adventure that is entirely hand-illustrated and hand-animated, and whose protagonist is a feathered and grumpy private eye struggling with a very tricky case, bizarre characters, and puzzles that will put his insight and patience to the test.\n\n- A non-violent adventure, inspired to the best point&click adventure games of the past!\n- Play as Gallo, a... rooster noir detective, and investigate on a multiple plant murder!\n- Meet lots of incredible characters, all hand-animated, frame-by-frame.\n- Dozens and dozens of logical puzzles and quests!\n- Listen to over 50 minutes of original pure jazz-noir soundtrack! \n- Fully dubbed in English and Italian, with multilanguage support!",
+    "publisher": "Footprints Games",
+    "developer": null,
+    "base_release_date": 20180818,
+    "first_update_release_date": 20180814,
+    "latest_update_release_date": 20190212,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190212
+    },
+    "versions": {
+        "65536": 20180814,
+        "131072": 20180925,
+        "262144": 20190122,
+        "327680": 20190212
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

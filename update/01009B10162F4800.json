@@ -1,4 +1,38 @@
 {
     "id": "01009B10162F4800",
-    "version": 65536
+    "base_tid": "01009B10162F4000",
+    "name": "Zumba Aqua",
+    "description": "Get better in one of the most popular puzzle games. Shoot gems and try to complete all the levels with three stars in each level. \n\nThis gem game is easy to play and addicting at the same time.\n\nFeatures:\n- unique graphics\n- 4 power-ups for use\n- 60 different levels\n- for kids and adults\n",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20221122,
+    "latest_update_release_date": 20221122,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221122
+    },
+    "versions": {
+        "65536": 20221122
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Simple and easy to play point and shoot game. Aim carefully and clear all the gems from the seabed. Explore all levels and have fun.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

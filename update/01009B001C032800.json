@@ -1,4 +1,42 @@
 {
     "id": "01009B001C032800",
-    "version": 65536
+    "base_tid": "01009B001C032000",
+    "name": "Calm Waters",
+    "description": "Peter Taylor's wife is dead.\n\nOne day he decides to take a vacation abroad. He arrives at a small, quiet coastal town where tourists are sparse and everybody knows each other. It's only when he notices people are going missing and all the signs point to a dark, mysterious island out to sea that he decides to team up with local journalist Michelle and terrified-yet-adventure-seeking waiter Glenn to go and investigate.\n\nWhat secrets does the island hold? What are the locals hiding? And what's causing those blood-curdling screams that seem to be coming from that mysterious island in the dead of night?\n\nCalm Waters features:\n\n- Professional voice actors\n- Full 1080p HD 2D pre-rendered backgrounds\n- Intriguing characters\n- An immersive story full of twists and turns\n- An atmospheric soundtrack",
+    "publisher": "Tayanna Studios",
+    "developer": null,
+    "base_release_date": 20230721,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Tourists disappearing and blood-curdling screams from a mysterious island out to sea...What secrets does this holiday paradise hold? Perhaps it's time to find out...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01009B400B73A800",
-    "version": 393216
+    "base_tid": "01009B400B73A000",
+    "name": "Blade Strangers",
+    "description": "動作遊戲的角色們齊聚一堂！\n\n《海腹川背》、《洞窟物語+》多款遊戲角色參戰！跨越作品\n藩籬──展開戰鬥！\n\n組合4個動作按鈕，就能讓連段、必殺技炸裂！連新手也能充\n分享受格鬥遊戲所帶來的樂趣與精粹！\n\n各式各樣的遊戲模式，讓玩法千變萬化！透過線上模式與全世\n界的強敵一戰！",
+    "publisher": "Pikii",
+    "developer": null,
+    "base_release_date": 20180830,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20180829,
+        "131072": 20180907,
+        "196608": 20181104,
+        "262144": 20190826,
+        "327680": 20210208,
+        "393216": 20210428
+    },
+    "category": [
+        "格鬥"
+    ],
+    "intro": "格鬥遊戲的未來即將展開！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

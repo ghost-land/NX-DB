@@ -1,4 +1,44 @@
 {
     "id": "01009B7010B42800",
-    "version": 65536
+    "base_tid": "01009B7010B42000",
+    "name": "Explosive Jake",
+    "description": "Explosive Jake - classic arcade game. Not only humans afraid of dark and deep dungeons. Our hero - a little skeleton with unhealthy crave of explosions, which trying to escape from dangerous castle dungeons. Help him to avoid enemies and explode the way out.\n\nWhat do we have here? 40 levels of...\n- Dynamite\n- Explosions \n- Vile knights\n- Cute skeletons\n- Charming rats\n- Deadly traps\n- And even more dynamite and explosions!",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200319,
+    "first_update_release_date": 20200304,
+    "latest_update_release_date": 20200304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200304
+    },
+    "versions": {
+        "65536": 20200304
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Help the little skeleton to explode the way out from dark dungeon and not explode himself.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

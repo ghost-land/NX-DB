@@ -1,4 +1,41 @@
 {
     "id": "01009B4013B5E800",
-    "version": 327680
+    "base_tid": "01009B4013B5E000",
+    "name": "Dungeon and Puzzles",
+    "description": "Dungeon and Puzzles is a 2D spatial logic and ability switch puzzle game. The adventurer's ability depends on what equipment he currently uses. You have to think through every step. After clearing the level, you can try other routes of strategy to optimize your solution.",
+    "publisher": "Digital Crafter",
+    "developer": null,
+    "base_release_date": 20210402,
+    "first_update_release_date": 20210401,
+    "latest_update_release_date": 20210727,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210727
+    },
+    "versions": {
+        "65536": 20210401,
+        "131072": 20210413,
+        "196608": 20210423,
+        "262144": 20210603,
+        "327680": 20210727
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "RPG"
+    ],
+    "intro": "\"Dungeon adventure by using your brain!\"\nDungeon + Puzzle + Sokoban",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

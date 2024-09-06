@@ -1,4 +1,39 @@
 {
     "id": "01009BD0144EE800",
-    "version": 65536
+    "base_tid": "01009BD0144EE000",
+    "name": "Sniper Time: The Shooting Range",
+    "description": "Test yourself at the firing range shooting different types of rifles competing with a stopwatch. Different levels and targets are waiting for you. Ready? Some tips for you. Use proper gun for each situation. When you're getting ready to fire, hold your breath. Squeeze the trigger softly.Use a solid rest to improve accuracy. Don't forget to reload. It's your time. Good luck!",
+    "publisher": "Pipetka Games",
+    "developer": null,
+    "base_release_date": 20220113,
+    "first_update_release_date": 20220318,
+    "latest_update_release_date": 20220318,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220318
+    },
+    "versions": {
+        "65536": 20220318
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "First-Person Shooter",
+        "Arcade"
+    ],
+    "intro": "Sniper Time: The Shooting Range is a worldwide popular shooter with millions fans all over the world. Now on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

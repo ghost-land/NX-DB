@@ -1,4 +1,34 @@
 {
     "id": "01009B700D0B8800",
-    "version": 327680
+    "base_tid": "01009B700D0B8000",
+    "name": "Undead Horde",
+    "description": "You're a necromancer - a re-animator of the dead. Undead Horde is a necromantic action game with elements from action RPG, strategy and hack'n'slash. Re-animate almost any enemy and build an army of dozens of undead minions. Take command and send your undead war machine against the living and their leader King Paladin Benevictor. Equip your necromancer with endless amounts of loot and lead your army to ultimate victory!",
+    "publisher": "10tons",
+    "developer": null,
+    "base_release_date": 20190515,
+    "first_update_release_date": 20211122,
+    "latest_update_release_date": 20220113,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220113
+    },
+    "versions": {
+        "262144": 20211122,
+        "327680": 20220113
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Re-animate your slain enemies and make them part of your undead army. Loot an endless number of new weapons, trinkets and magical items.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }
