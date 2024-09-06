@@ -1,4 +1,49 @@
 {
     "id": "0100800015926800",
-    "version": 1114112
+    "base_tid": "0100800015926000",
+    "name": "Suika Game",
+    "description": "This is a game where you combine two small fruits to make them larger and create big watermelons.",
+    "publisher": "Aladdin X",
+    "developer": null,
+    "base_release_date": 20231020,
+    "first_update_release_date": 20231018,
+    "latest_update_release_date": 20240802,
+    "latest_update": {
+        "version": "1114112",
+        "release_date": 20240802
+    },
+    "versions": {
+        "65536": 20231018,
+        "131072": 20231023,
+        "196608": 20231027,
+        "262144": 20231123,
+        "327680": 20231127,
+        "393216": 20231213,
+        "458752": 20231220,
+        "524288": 20231229,
+        "589824": 20240125,
+        "720896": 20240221,
+        "786432": 20240229,
+        "851968": 20240306,
+        "917504": 20240523,
+        "983040": 20240702,
+        "1048576": 20240730,
+        "1114112": 20240802
+    },
+    "category": [
+        "Puzzle",
+        "Party"
+    ],
+    "intro": "To prevent the fruits from overflowing from the box,  collide the same kind of fruit. As you collide fruits, their types change. Let's create big watermelons!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

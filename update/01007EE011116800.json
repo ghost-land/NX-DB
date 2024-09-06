@@ -1,4 +1,32 @@
 {
     "id": "01007EE011116800",
-    "version": 65536
+    "base_tid": "01007EE011116000",
+    "name": "SNK GALS' FIGHTERS",
+    "description": "SNK's wonderous heroines duke it out for a shot to be crowned the QUEEN OF FIGHTERS! This lighthearted story with comical interactions will keep you\ncoming back for more!\n\n●The roster boasts a total of 11 fighters, including three hidden characters!\nOne of them looks awfully familiar…\n\n●Includes Training Mode, which is essential if you wish to reach the top!\n\n●Take on a buddy in Tabletop or Handheld Mode! Find out who has what it takes to become the QUEEN OF FIGHTERS!",
+    "publisher": "SNK PLAYMORE",
+    "developer": null,
+    "base_release_date": 20200430,
+    "first_update_release_date": 20200529,
+    "latest_update_release_date": 20200529,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200529
+    },
+    "versions": {
+        "65536": 20200529
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "For the first time since its release in 2000,\nthe smash hit NEOGEO pocket fighter SNK GALS' FIGHTERS is now playable on the Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

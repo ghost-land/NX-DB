@@ -1,4 +1,36 @@
 {
     "id": "01007F200B0C0800",
-    "version": 327680
+    "base_tid": "01007F200B0C0000",
+    "name": "Ys VIII: Lacrimosa of DANA",
+    "description": "Ys returns with a brand new adventure for the first time in 8 years! Adol awakens shipwrecked and stranded on a cursed island. There, he and the other shipwrecked passengers he rescues form a village to challenge fearsome beasts and mysterious ruins on the isolated island. Amidst this, Adol begins to dream of a mysterious blue-haired maiden living in a unknown world. Join Adol as he unravels the riddle of the cursed isle and the blue-haired maiden Dana in Ys VIII: Lacrimosa of Dana!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180706,
+    "first_update_release_date": 20180626,
+    "latest_update_release_date": 20210616,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210616
+    },
+    "versions": {
+        "131072": 20180626,
+        "196608": 20180702,
+        "262144": 20180712,
+        "327680": 20210616
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual references",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

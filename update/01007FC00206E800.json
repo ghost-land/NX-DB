@@ -1,4 +1,34 @@
 {
     "id": "01007FC00206E800",
-    "version": 131072
+    "base_tid": "01007FC00206E000",
+    "name": "LEGO® NINJAGO® Movie Video Game",
+    "description": "Find your inner ninja with the all-new LEGO NINJAGO Movie Video Game! Play as your favorite ninjas, Lloyd, Jay, Kai, Cole, Zane, Nya and Master Wu to defend their home island of Ninjago from the evil Lord Garmadon and his Shark Army. Master the art of Ninjagility by wall-running, high-jumping and battling the foes of Ninjago to rank up and upgrade the ninja's combat skills. Only in the LEGO NINJAGO Movie Video Game will you experience the film across 8 action packed locations each with its own unique Challenge Dojo. And with the Battle Maps, play against friends and family in competitions for up to four players!   ",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220907,
+    "first_update_release_date": 20170922,
+    "latest_update_release_date": 20190103,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190103
+    },
+    "versions": {
+        "65536": 20170922,
+        "131072": 20190103
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "01007FC00B674800",
-    "version": 196608
+    "base_tid": "01007FC00B674000",
+    "name": "Sigi - A Fart for Melusina",
+    "description": "Super tight gameplay and wonderful pixel graphics\nmake Sigi a light-hearted and loving 8-bit\nadventure to enjoy.\n\n- 8-bit pixel graphics and chiptune soundtrack\n(Saskrotch) !\n- Detailed animation, parallax backgrounds, and\nsolid game design.\n- Hordes of goofy enemies and unforgettable boss\nfights.\n- Secret caverns full of loot to collect and long\nlost artefacts to find.\n\nCollect all letters and hidden treasures to\ncomplete 100% of the game!\nPlatformer junkies and speedrunners could finish\nSigi in around 30 minutes!\nFor everyone else, completing the story mode will\ntake roughly 1 hour. \nBut beware! Aiming for a score of 100% will put\nyou to the test!\nAre you a standard player or a gamepad master?",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180907,
+    "first_update_release_date": 20180810,
+    "latest_update_release_date": 20181016,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181016
+    },
+    "versions": {
+        "65536": 20180810,
+        "131072": 20180925,
+        "196608": 20181016
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Join Knight Sigi as he runs, jumps, and\nbattles in a flatulent quest to save\nMelusina, the love of his life ! Take down\nhordes of goofy enemies and crazy bosses.\nEarn riches, find long lost holy artefacts\nand make your way up to the top of Mount Stinkup!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Nudity",
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01007FF01388E800",
-    "version": 65536
+    "base_tid": "01007FF01388E000",
+    "name": "Save Farty - the Trivia Game",
+    "description": "Save Farty is a fun and surprisingly sophisticated quiz app that challenges your general knowledge.\n\n5000 questions, recently created by some of the finest creative writers in the entertainment and education industry, ensures that Save Farty delivers you weeks of challenging fun. \n\nYour mission is to keep Farty alive by choosing the right answer for multiple choice trivia questions available in both English and German. Answer wrong and our beloved Farty will die in one of many gruesome ways.\n\nCan you save Farty?\n\nFeatures:\n- 5000 challenging and entertaining questions in both English & German\n- Three Jokers: Solve, 50:50, Extra Time\n- Over 50 ways for Farty to die\n- Increase the difficulty level and unlock reward animations by progressing\n- Relax to our carefully selected music while you play\n- Track your highest scores in the Hall of Fame",
+    "publisher": "the binary family",
+    "developer": null,
+    "base_release_date": 20210128,
+    "first_update_release_date": 20210126,
+    "latest_update_release_date": 20210126,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210126
+    },
+    "versions": {
+        "65536": 20210126
+    },
+    "category": [
+        "Party",
+        "Education",
+        "Lifestyle"
+    ],
+    "intro": "A fun quiz about a cute chick.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

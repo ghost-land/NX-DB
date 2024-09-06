@@ -1,4 +1,48 @@
 {
     "id": "01007EF00011E800",
-    "version": 786432
+    "base_tid": "01007EF00011E000",
+    "name": "The Legend of Zelda™: Breath of the Wild",
+    "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20190425,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20190425
+    },
+    "versions": {
+        "393216": 20170814,
+        "524288": 20171108,
+        "589824": 20171121,
+        "655360": 20171208,
+        "720896": 20180131,
+        "786432": 20190425
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Other"
+    ],
+    "intro": "STEP INTO A WORLD OF ADVENTURE",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

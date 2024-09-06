@@ -1,4 +1,42 @@
 {
     "id": "01007F2019132800",
-    "version": 131072
+    "base_tid": "01007F2019132000",
+    "name": "Dorfromantik",
+    "description": "With Dorfromantik, you can immerse yourself in a quiet, peaceful world at any time and take a break from everyday life. At the same time, Dorfromantik offers a challenge for those who are looking for one: To beat the highscore, you need to carefully plan and strategically place your tiles.\n\nGameplay:\nYou start with a stack of procedurally generated tiles. One after the other, you draw the top tile of the stack, place it on one available slot and rotate for the best fit. Thereby groups and combinations of landscapes are formed, such as forests, villages or water bodies, and you are rewarded with points depending on how well the tile fits. As you expand the landscape, you can advance into new, colorful biomes and discover pre-placed game objects that give you long-term tasks. Through these tasks you can unlock new tiles, new biomes and new quests.\n\n\nWhat Dorfromantik offers:\n• Building vast and beautiful landscapes\n• Unique mix of strategy and puzzle mechanics\n• Relaxing and calming gameplay\n• Idyllic village scenery\n• Strategic placement to beat the highscore\n• High replay value - every session is different\n• Many unlockable tiles and biomes\n• Original Artstyle with handpainted boardgame feel\n• Different game modes for different player types\n\nWhat Dorfromantik does not offer:\n• 4X Strategy\n• Trading\n• Resource Management\n• Combat & Violence\n• Multiplayer",
+    "publisher": "Toukana",
+    "developer": null,
+    "base_release_date": 20220929,
+    "first_update_release_date": 20221007,
+    "latest_update_release_date": 20221110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221110
+    },
+    "versions": {
+        "65536": 20221007,
+        "131072": 20221110
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "A relaxing building strategy and puzzle game in which you place tiles to create ever-growing, idyllic village landscapes",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "01007FC0152AC800",
-    "version": 262144
+    "base_tid": "01007FC0152AC000",
+    "name": "Source of Madness",
+    "description": "Source of Madness is a side-scrolling dark action roguelite set in the Loam Lands, a twisted Lovecraftian inspired world powered by procedural generation and AI machine learning. Take on the role of a new Acolyte as they embark on a nightmarish odyssey. Uncover the cosmic secrets of the Loam Lands and The Tower of Madness, the moon’s mysterious Citadel.\n\nHordes of nightmarish beasts\nThe horrific monsters you face are never the same, concocted with procedural generation and animated using a neural network AI\n\nDeep Gameplay Systems\nExplosive close-combat magic, labyrinthine environmental exploration, powerful loot management and a skill tree filled with abilities, classes, and spells\n\nEver-Changing Landscapes\nRendered in a beautiful AI assisted art style, the fascinating world of the Loam Lands reveals a deep arcane lore as players uncover its many secrets",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20220511,
+    "first_update_release_date": 20220512,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20220512,
+        "131072": 20220916,
+        "262144": 20230322
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

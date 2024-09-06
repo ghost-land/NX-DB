@@ -1,4 +1,38 @@
 {
     "id": "01007EF01D4F2800",
-    "version": 262144
+    "base_tid": "01007EF01D4F2000",
+    "name": "VIVIDLOPE",
+    "description": "VIVIDLOPE, the manic 3D arcade game with a puzzle spin, is coming to Nintendo Switch™!\n\nJoin Cerise on her journey through the strange realm of VIVIDSCAPE. Here, the gravity is totally off the wall. Turn the world upside down as you run on ceilings, collect powerful items, fend off waves of enemies, and paint tiles. Plan ahead, but stay alert and react, as the foes keep coming from all directions - north, south, east, west, even top and bottom\n- watching your back might not be enough!\n\n- IT'S A COLOR FRENZY - paint the target % of tiles and clear the stage!\n- STORY MODE - featuring animated cutscenes and the Atrium hub with a chatty weirdo galore.\n- ENDLESS MODE - don't stop 'til you drop!\n- 3 PLAYABLE CHARACTERS - with unique playstyles - defense, speed, or offense?\n- RANK SYSTEM - go for the best one!\n- ATTIRES - get the most stylish hat!\n- A slew of extras to discover!",
+    "publisher": "Jaklub",
+    "developer": null,
+    "base_release_date": 20240808,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240814,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240814
+    },
+    "versions": {
+        "131072": 20240719,
+        "196608": 20240808,
+        "262144": 20240814
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "Rapid Gravity Arcade Action! Dash! Spin! Slam! Paint!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

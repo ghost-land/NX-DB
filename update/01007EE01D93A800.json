@@ -1,4 +1,35 @@
 {
     "id": "01007EE01D93A800",
-    "version": 65536
+    "base_tid": "01007EE01D93A000",
+    "name": "Vivitter for Nintendo Switch",
+    "description": "Greetings, Earth-dwelling cowards! Prepare to be terrified!\nExperience face-to-face battles with up to 8 players!\nThe rules are simple: just stop at the edge!\nIntroducing the ultimate bravery checker game to test your courage!!",
+    "publisher": "Sorairo",
+    "developer": null,
+    "base_release_date": 20240624,
+    "first_update_release_date": 20240624,
+    "latest_update_release_date": 20240624,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240624
+    },
+    "versions": {
+        "65536": 20240624
+    },
+    "category": [
+        "Party",
+        "Action"
+    ],
+    "intro": "I will not test your courage! ?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

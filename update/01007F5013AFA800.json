@@ -1,4 +1,41 @@
 {
     "id": "01007F5013AFA800",
-    "version": 65536
+    "base_tid": "01007F5013AFA000",
+    "name": "TRIOS - lofi beats / numbers to chill to",
+    "description": "TRIOS is a game about numbers and the fun you can have with them. Deceptively simple, surprisingly challenging.\n\nSelect two numbers and one operator, then watch them combine to create a new number. Use all your numbers to reach the target.\n\nFeatures:\n- Journey mode: A series of puzzles with escalating difficulty\n- Infinite mode: Randomly generated puzzles that adapt difficulty to your pace\n- A selection of chill tunes and beautiful backgrounds to guide you into flow",
+    "publisher": "Samurai Punk",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20231206,
+    "latest_update_release_date": 20231206,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231206
+    },
+    "versions": {
+        "65536": 20231206
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Training"
+    ],
+    "intro": "A relaxing, minimalist maths puzzle game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

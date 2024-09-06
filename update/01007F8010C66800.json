@@ -1,4 +1,37 @@
 {
     "id": "01007F8010C66800",
-    "version": 65536
+    "base_tid": "01007F8010C66000",
+    "name": "Arcade Archives PLUS ALPHA",
+    "description": "\"PLUS ALPHA\" is a shooting game released by JALECO in 1989.\nTo rescue the 7 kingdoms from tyranny, the warrior girls SELIA and RUMY set out in their fighter ships.\nEach of the 3 types of fighter ships has their own unique attacks, so you can switch between them as you battle in style!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20201112,
+    "latest_update_release_date": 20201112,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201112
+    },
+    "versions": {
+        "65536": 20201112
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Get items to transform your fighter ship into different 3 types of ship!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

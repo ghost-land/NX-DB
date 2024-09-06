@@ -1,4 +1,34 @@
 {
     "id": "01007F100DE52800",
-    "version": 65536
+    "base_tid": "01007F100DE52000",
+    "name": "Akane",
+    "description": "Akane is a brutal arena arcade slasher based on one-hit-one-kill gameplay mechanics where you will:\n\nFace five types of opponents:\n\n● Yakuza Guy - a common mafia pawn;\n● Tank - this is the only villain that will require more than just one katana slash to die;\n● Shooter - a sharpshooter with cybernetic enhancements. Pro tip: they never miss;\n● Cyber Ninja - a warrior who abdicated his body to become a killing machine. His dash attacks are deadly and his defense seems impenetrable. Remember however that everybody has their weak point;\n● The Boss - Katsuro, your Nemesis who evolves, gets stronger and more dangerous according to the number of times he gets killed.\n\nComplete missions to unlock new guns and equipment:\n\n● Different pistols;\n● Katanas, each with their own unique unique abilities;\n● Cigarettes that change the aesthetics of your special skills;\n● Gadgets that grant small but significant improvements in combat;\n● Boots that change the dash and the way you move on the screen.\n\nMake a good use of your special Samurai Skills:\n\n● Dragon Slash - dash forward killing every enemy on your way;\n● Dragon Slayer - kill all enemies on the screen.",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20190517,
+    "first_update_release_date": 20190524,
+    "latest_update_release_date": 20190524,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190524
+    },
+    "versions": {
+        "65536": 20190524
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Shooter"
+    ],
+    "intro": "Imagine the rain-soaked neon streets of Mega-Tokyo. You, your loyal katana and hordes of mad Yakuzas. There’s no happy ending this time. Take down as many thugs as you can with you!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

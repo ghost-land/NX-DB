@@ -1,4 +1,49 @@
 {
     "id": "01007F600B134800",
-    "version": 196608
+    "base_tid": "01007F600B134000",
+    "name": "Assassin's Creed® III: Remastered",
+    "description": "Relive the American Revolution or experience it for the first time in Assassin's Creed® III Remastered, with enhanced graphics and improved gameplay mechanics.  Plus, Assassin's Creed® III Liberation Remastered and all solo DLC content are included.\n\nIncludes: Assassin's Creed® III Liberation and all original solo DLC, including The Tyranny of King Washington.\n\nNew character models, polished environment rendering, and more.\n\nGameplay mechanics have been revamped as well, improving your experience and your immersion.\n\nFight for freedom! As the American Colonies are about to revolt, secure liberty for your people and your nation.\n\nNintendo Switch™ enhanced features include: Touch Screen, HD rumble, and optimized HUD.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20190509,
+    "latest_update_release_date": 20230313,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230313
+    },
+    "versions": {
+        "65536": 20190509,
+        "131072": 20190815,
+        "196608": 20230313
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

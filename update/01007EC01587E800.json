@@ -1,4 +1,33 @@
 {
     "id": "01007EC01587E800",
-    "version": 65536
+    "base_tid": "01007EC01587E000",
+    "name": "愛莉澄",
+    "description": "PCゲームとして無料配信されていた\n「愛莉澄【Demo】」を製品版としてアップデートし、\nNintendo Switchに登場！！\n\n■追加要素\n・「愛莉澄【Demo】」よりボリュームを増大。\n・セーブ機能の追加、UI回りの調整でより遊びやすく。\n\n■あらすじ\n—2015年、東京。\nそこでは、ある女について都市伝説が流行っていた。\n\n「アリス」と呼ばれる風俗嬢の幽霊の噂。\n\n皆その話題で持ち切りであったが、自分は気にも止めていなかった。\n\nその日は、大学のサークルの飲み会で遅くなり、\n終電に間に合わないため、仕方なく徒歩で帰宅することにした。\n\n帰宅途中、真っ暗な工事現場付近に来た時、近道をしてやろうと思い、\nちょうど持っていたカメラを片手に通り抜けることにした。\n\nしかし、そこでこの世のものとは思えないものと出会うことになるのだった——。\n",
+    "publisher": "レジスタ",
+    "developer": null,
+    "base_release_date": 20211021,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220805
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "夜間の工事現場で出会う黒い女の恐怖！！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恐怖",
+        "言葉・その他"
+    ],
+    "region": null
 }
