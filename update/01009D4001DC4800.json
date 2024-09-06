@@ -1,4 +1,40 @@
 {
     "id": "01009D4001DC4800",
-    "version": 65536
+    "base_tid": "01009D4001DC4000",
+    "name": "ACA NEOGEO WORLD HEROES PERFECT",
+    "description": "\"WORLD HEROES PERFECT\" is a fighting game released by SNK in 1995.\n\n16 characters based on historical figures battle it out to decide who is the strongest. New elements such as hero gauge, extra attack, and guard attacks have been added to this version, leading to more exciting matches!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Who is the winner who will survive outrunner\nin the fighting beyond the generations!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

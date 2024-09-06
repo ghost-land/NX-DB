@@ -1,4 +1,34 @@
 {
     "id": "01009D400C4A8800",
-    "version": 65536
+    "base_tid": "01009D400C4A8000",
+    "name": "彩京精選 Vol.2",
+    "description": "「STRIKERS 1945 Ⅱ」\nSTRIKERS系列之中最受歡迎的名作！\n\n「GUNBIRD 2」\n知名射擊遊戲GUNBIRD升級到2陪了！\n\n「戰國 BLADE」\n繼承戰國ACE的特色武士射擊遊戲\n\n「DRAGON BLAZE」\n美麗的畫面與利用龍的獨特系統",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20181122,
+    "first_update_release_date": 20190528,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20190528
+    },
+    "category": [
+        "射擊",
+        "街機"
+    ],
+    "intro": "射擊遊戲的名家的最佳遊戲4種合集!!\n全劇本對應中文！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

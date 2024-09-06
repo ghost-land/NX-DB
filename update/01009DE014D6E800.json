@@ -1,4 +1,41 @@
 {
     "id": "01009DE014D6E800",
-    "version": 393216
+    "base_tid": "01009DE014D6E000",
+    "name": "METALLIC CHILD",
+    "description": "A large-scale rebellion erupts within the spacecraft “Life Stream.”\nWith the help of you, Rona, an android known as “Metallic Child,” stands up against a fleet of massive robots to stop the plot devised by her own creator, Doctor Irene.\n\nMETALLIC CHILD is a rogue-lite core-action game, featuring Rona, an android known as “Metallic Child,” taking place in a space laboratory in the not-to-distant future.\n\nA large-scale rebellion has taken place in the space laboratory Life Stream.\nAll robots aboard, with the exception of Rona and Pan, are conspiring to crash Life Stream into planet earth.\nRona has stood up to stop this plot, and you, of course, will be the one to guide Rona by accessing her control device through this game.",
+    "publisher": "HIKE",
+    "developer": null,
+    "base_release_date": 20210916,
+    "first_update_release_date": 20210915,
+    "latest_update_release_date": 20220330,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220330
+    },
+    "versions": {
+        "65536": 20210915,
+        "131072": 20210917,
+        "196608": 20211004,
+        "262144": 20211101,
+        "327680": 20211222,
+        "393216": 20220330
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "“Grab, hurl, and eliminate”",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

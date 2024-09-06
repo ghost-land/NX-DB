@@ -1,4 +1,35 @@
 {
     "id": "01009D901321A800",
-    "version": 131072
+    "base_tid": "01009D901321A000",
+    "name": "Party Games: 15 in 1",
+    "description": "Party games features 15 fun-packed party games for up to 4 players! It's the ultimate MUST-HAVE game for family and friends of all ages. \n\n• Everything from action, to puzzle, to sports...it’s all here in Party Games!\n• It wouldn’t be a party without friends! Up to 4 players can join in the fun for some friendly competitive play.\n• Party anytime, anywhere! Enjoy single-player or local multiplayer gaming from just about anywhere on the planet with just one system and one game.",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20201028,
+    "first_update_release_date": 20210113,
+    "latest_update_release_date": 20210517,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210517
+    },
+    "versions": {
+        "65536": 20210113,
+        "131072": 20210517
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Everything from action, to puzzle, to sports...it’s all here in Party Games!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

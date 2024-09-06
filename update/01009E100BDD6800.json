@@ -1,4 +1,49 @@
 {
     "id": "01009E100BDD6800",
-    "version": 131072
+    "base_tid": "01009E100BDD6000",
+    "name": "LASTFIGHT",
+    "description": "LASTFIGHT is bringing 2v2 3D fighting back to your living room!\n\nPick up any available object in one of the 8 stages and teach your opponents a lesson!\n\nLASTFIGHT is the perfect game to play with friends on your couch. Each level has specific bonuses and objects to hurl at your opponent. Will you manage to resist the temptation of the ANITRANS to win?",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20191231,
+    "first_update_release_date": 20240820,
+    "latest_update_release_date": 20240820,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240820
+    },
+    "versions": {
+        "131072": 20240820
+    },
+    "category": [
+        "Fighting",
+        "Sports",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Play in local multiplayer mode, for up to 4 players, or one-player story mode, with a cast of 10 characters inspired by the comic book LASTMAN.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Mature Themes",
+        "Nudity",
+        "Violence"
+    ],
+    "region": null
 }

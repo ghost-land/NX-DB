@@ -1,4 +1,39 @@
 {
     "id": "01009E3018DC4800",
-    "version": 196608
+    "base_tid": "01009E3018DC4000",
+    "name": "PunchMan Online",
+    "description": "Punch, kick, bombard, and lead your team to victory or be the last one standing! Meet opponents worldwide, compete, and prove that you're the champion!\n\nPunchMan Online is a multiplayer battle arena that supports cross-platform-play and cross-progression via your PunchMan Online Account.\n\n■ Featuring\n- Multiple game modes\n- Random, custom, and private match\n- Tons of customizable items\n- Multiple tournaments and challenges\n- In-game communication (chat, message)\n- In-game friend features etc.\n\nKeep battling, respect each other, and remember to keep fun!\nEnjoy!\n\n*)Items shown may require separate purchases from the in-game store and are subject to availability. Contains in-game purchases.",
+    "publisher": "NoteBuddy",
+    "developer": null,
+    "base_release_date": 20220815,
+    "first_update_release_date": 20220826,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20220826,
+        "131072": 20230310,
+        "196608": 20230621
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

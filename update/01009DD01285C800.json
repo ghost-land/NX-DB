@@ -1,4 +1,30 @@
 {
     "id": "01009DD01285C800",
-    "version": 65536
+    "base_tid": "01009DD01285C000",
+    "name": "ボトルマン デジタル対戦セット",
+    "description": "『ボトルマン デジタル対戦セット』は玩具『キャップ革命ボトルマン』と一緒に遊べる革命的ゲーム！\nボトルマンにセットしたキャップをNintendo SwitchやJoy-Conに向けて発射して様々な内容のゲームを楽しめる！\n1人用のドリンクエストや２人で対戦できるミニゲームが計６種収録！\n\n※『ボトルマン デジタル対戦セット』に付属している”正しい遊び方説明書”に従って専用スタンドや保護シートをしっかり設置してから遊んでください。",
+    "publisher": "タカラトミー",
+    "developer": null,
+    "base_release_date": 20201024,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20201021,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201021
+    },
+    "versions": {
+        "65536": 20201021
+    },
+    "category": [
+        "シューティング",
+        "アクション"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

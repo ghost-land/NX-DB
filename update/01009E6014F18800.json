@@ -1,4 +1,44 @@
 {
     "id": "01009E6014F18800",
-    "version": 196608
+    "base_tid": "01009E6014F18000",
+    "name": "Haunted Dawn: The Zombie Apocalypse",
+    "description": "It's a single-play FPS game with a movie-like story that the main characters escape from the zombie world. \nEscape from the zombies and survive with a variety of modes and of a number of weapons that are leveled up and released! The long-awaited ending is waiting for you.\n\n·Each stage, you have a mission based on the story. You can enjoy a suspenseful play.\n·There are various zombies big and small, it's fun to target them with special attacks. \n·Collect all the various weapons used in the FPS game and all the special weapons that match the zombie's worldview.\n·Clear the movie-like stories, the various wave modes, and the zombie modes such as Infinite Mode to earn bonuses.\n·Zombies are waiting on a wide variety of stages, including battles on the subway, schools, hospitals, companies, etc.\n·When you completely clear certain missions during the story, you can play the hidden stages that are not visible on the map.\n·Enjoy the satisfactory playtime, clear the last stage and survive, and the ending is waiting for you! What kind of ending is that?!\n\nPrologue\nTerry and his girlfriend Shelly currently work at an IT company. One day, they are invited to a friend's home whom they have been very close to while in college.\nOn that day, mysterious accidents occurred : terrorist attacks and an aircraft crash by armed forces.\n\nAfter partying all night and watching sports on TV, Terry and Shelly left to go to bed first...\nZombies, the mysterious creatures dead living, have appeared in our world. They infected the living citizens...\nThe friends who have been stayed up late at that night, were attacked by these zombies like human or not.\n\nTerry and Shelly woke up at their friends' scream. So surprised, they ran away with only simple weapons.\nThey got inside their IT company to get information, it begins their journey to escape...\n\nIn their journey, they collect informations and secret samples from military organizations, trying to escape from the zombie attacks...",
+    "publisher": "TROOOZE",
+    "developer": null,
+    "base_release_date": 20210610,
+    "first_update_release_date": 20210630,
+    "latest_update_release_date": 20210905,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210905
+    },
+    "versions": {
+        "65536": 20210630,
+        "131072": 20210807,
+        "196608": 20210905
+    },
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "A single-play FPS game with a story about escaping zombies to survive! The suspenseful stages in various places such as subway, hospital, school and so on!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }
