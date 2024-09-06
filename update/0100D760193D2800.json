@@ -1,4 +1,42 @@
 {
     "id": "0100D760193D2800",
-    "version": 65536
+    "base_tid": "0100D760193D2000",
+    "name": "フロムスペース",
+    "description": "本ソフトは、シングルプレイ＆オンラインプレイ対応のアクションシューターゲームです。\n\nピンクのエイリアンの侵略から世界を救うスペシャリストとなり、最大4人の仲間と一緒に戦っていきます。\n\n防御、攻撃、サポートタイプのスペシャリストから1人を選択し、レーザービームやロケットランチャーなど多様な武器を使って、無限に襲いかかってくるエイリアンの侵略を阻止しよう！",
+    "publisher": "Digital Bards",
+    "developer": null,
+    "base_release_date": 20221215,
+    "first_update_release_date": 20240605,
+    "latest_update_release_date": 20240605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240605
+    },
+    "versions": {
+        "65536": 20240605
+    },
+    "category": [
+        "シューティング",
+        "アクション"
+    ],
+    "intro": "最大級に楽しい世紀末を戦う\n爽快アクションシューティングゲーム！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "軽い暴力"
+    ],
+    "region": null
 }

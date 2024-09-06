@@ -1,4 +1,40 @@
 {
     "id": "0100D8400DAF0800",
-    "version": 131072
+    "base_tid": "0100D8400DAF0000",
+    "name": "SYNAPTIC DRIVE",
+    "description": "Set hundreds of years in the future, diverse fighters from space have assembled on one planet to battle in competitions. Some want to show off their abilities, some live to fight, while others are after prize money... Whatever the reason may be, they're all aiming to come out on top. To attain superhuman reflexes, these fighters have mechanized their bodies to activate synapses in the brain. Such are the origins of Synaptic Drive™.",
+    "publisher": "YUNUO GAMES",
+    "developer": null,
+    "base_release_date": 20200528,
+    "first_update_release_date": 20200527,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200527,
+        "131072": 20200804
+    },
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "intro": "Bring blood to cyberspace.\nStrategic,high-paced arena battles start here.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

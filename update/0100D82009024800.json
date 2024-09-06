@@ -1,4 +1,34 @@
 {
     "id": "0100D82009024800",
-    "version": 131072
+    "base_tid": "0100D82009024000",
+    "name": "Goetia",
+    "description": "The ruins of any village are the silent testament to its final moments. The ruins of Oakmarsh are no different. Their telling silence, the dust blanketing what was once a quiet village near Coventry.\n\nThe name of a manor and the family that lived within. ",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20180518,
+    "latest_update_release_date": 20181015,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181015
+    },
+    "versions": {
+        "65536": 20180518,
+        "131072": 20181015
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Goetia is a point & click adventure where you play the ghost of a young lady. You are Abigail. Abigail Blackwood. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

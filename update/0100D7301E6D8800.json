@@ -1,4 +1,44 @@
 {
     "id": "0100D7301E6D8800",
-    "version": 262144
+    "base_tid": "0100D7301E6D8000",
+    "name": "Terra Memoria",
+    "description": "A shortage of magic crystals and the sudden awakening of ancient robots leads six new friends on an incredible investigation across Terra – a cozy and fantastic world that combines 3D and pixel art. \n",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240321,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20240321,
+        "131072": 20240328,
+        "196608": 20240423,
+        "262144": 20240702
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Discover the fantastic world of Terra in this cozy adventure game\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

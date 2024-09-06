@@ -1,4 +1,49 @@
 {
     "id": "0100D750132D8800",
-    "version": 196608
+    "base_tid": "0100D750132D8000",
+    "name": "Mutazione",
+    "description": "MUTAZIONE is an adventure game where the juicy personal drama is just as important as the high-stakes adventure part of the story. \n\nExplore the community as 15-year-old Kai as she travels to the strange and secretive community of Mutazione to care for her ailing grandfather, Nonno. \n\nMake new friends; plant musical gardens; attend BBQs, band nights and boat trips; and embark on a final spiritual journey to save everyone from the strange darkness at the heart of it all.\n\nThey can survive an apocalyptic meteor strike, but can they survive their small-town drama?\n\nFeature List\n• A lush, hand-illustrated world to explore\n• Ensemble cast of loveable mutant characters\n• A story with unpredictable dramatic twists and turns\n• Gardens to customize for unique relaxing musical soundscapes\n• Seed sharing - send and receive rare and unusual seeds with your friends",
+    "publisher": "Akupara Games",
+    "developer": null,
+    "base_release_date": 20220826,
+    "first_update_release_date": 20210526,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20210526,
+        "131072": 20211022,
+        "196608": 20220923
+    },
+    "category": [
+        "Adventure",
+        "Music",
+        "Other"
+    ],
+    "intro": "A mutant soap opera where small-town gossip meets the supernatural. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Language",
+        "Partial Nudity",
+        "Use of Drugs"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100D7D00DEF2800",
-    "version": 65536
+    "base_tid": "0100D7D00DEF2000",
+    "name": "Tokyo Dark – Remembrance –",
+    "description": "伊藤刑事の相棒が行方不明となった。単純かと思われた事件は次第に奇妙な様相を帯びていく。彼女は過去と向き合い、その正気を保てるのか。\n\n東京ダークはご自分で作り上げる物語を楽しむゲームです。行方不明となった相棒を求め、東京中を探索し、深く暗い闇を解き明かしましょう。探索中のあなたの選択や行動が伊藤刑事の精神状態に変化をもたらし、異なるエンディングを迎えることになります。",
+    "publisher": "UNTIES",
+    "developer": null,
+    "base_release_date": 20191107,
+    "first_update_release_date": 20191106,
+    "latest_update_release_date": 20191106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191106
+    },
+    "versions": {
+        "65536": 20191106
+    },
+    "category": [
+        "アドベンチャー",
+        "アクション"
+    ],
+    "intro": "過去にとらわれ動けなくなるのか、自分の選択を信じるのか、、、",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

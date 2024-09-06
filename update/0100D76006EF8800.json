@@ -1,4 +1,41 @@
 {
     "id": "0100D76006EF8800",
-    "version": 196608
+    "base_tid": "0100D76006EF8000",
+    "name": "DOOM",
+    "description": "荒れ狂うデーモンの群れを蹴散らせ！\n射撃と近接攻撃を組み合わせ、撃ち、切り刻み、踏みつけ、押しつぶし、バラバラにして吹き飛ばす……どのような手法で敵をなぎ倒すかは\nプレイヤー次第。\n歴史的FPSシリーズのリブート作品が、家でも外でも体験できます。",
+    "publisher": "ベセスダ・ソフトワークス",
+    "developer": null,
+    "base_release_date": 20180301,
+    "first_update_release_date": 20180221,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20180221,
+        "131072": 20181210,
+        "196608": 20240702
+    },
+    "category": [
+        "シューティング"
+    ],
+    "intro": "ハイスピード＆バイオレンス\n“FPSの金字塔”を手の中で。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

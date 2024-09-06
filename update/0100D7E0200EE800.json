@@ -1,4 +1,34 @@
 {
     "id": "0100D7E0200EE800",
-    "version": 65536
+    "base_tid": "0100D7E0200EE000",
+    "name": "ESCAPE - BACKROOMS HORROR",
+    "description": "Enter a labyrinthine nightmare where reality bends and sanity crumbles. In ESCAPE - BACKROOMS HORROR, navigate an endless maze of damp carpets and flickering lights. No two corners are the same, and the deeper you venture, the more twisted the Backrooms become.\n\nKey Features:\n\t•\tEndless Terror: Explore an ever-shifting labyrinth with terrifying environments, facing unknown horrors at every turn.\n\t•\tHaunting Encounters: As a single-player horror survival game, it places you in a maze of rooms and hallways filled with terrifying creatures. Hide from or confront these threats as you navigate the maze.\n\t•\tSuffocating Dread: Experience relentless horror amplified by chilling sounds and eerie lighting.\n\t•\tFirst-Person Perspective: Immerse yourself in a terrifying survival horror environment from a first-person view.\n\t•\tDiverse Locations: Discover and survive through a dozen unique rooms, each presenting new challenges and fears.\n\t•\tCamcorder Feature: Use your camcorder to capture and review the horrors you encounter, adding a strategic layer to your survival.\n\nCan you escape this endless nightmare?\n",
+    "publisher": "16BIT",
+    "developer": null,
+    "base_release_date": 20240808,
+    "first_update_release_date": 20240801,
+    "latest_update_release_date": 20240801,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240801
+    },
+    "versions": {
+        "65536": 20240801
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Find your way through a disorienting maze as reality distorts and fear grips your mind.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

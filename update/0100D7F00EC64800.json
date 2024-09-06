@@ -1,4 +1,37 @@
 {
     "id": "0100D7F00EC64800",
-    "version": 262144
+    "base_tid": "0100D7F00EC64000",
+    "name": "Overlanders",
+    "description": "Battle it out in 5 PLAYER MULTIPLAYER or rage through the CAMPAIGN. Overlanders delivers the futuristic, competitive racing experience of your dreams. INVITE YOUR FRIENDS and tear up the tracks together.\n\n•Try our arsenal of weapons, while mastering the mesmerizing, \nstunning tracks of other planets.\n•The high-speed hover physics lets you clear the track with insane speed and feel.\n•Upgrade and master the unique racers to suit your style.\n•Shields, turbos, missiles and traps you got them all, with multiple online and offline game modes.\n•Rush to victory in MONSTER HUNT a unique game mode, never seen in combat racing games before.",
+    "publisher": "Run-Down Games",
+    "developer": null,
+    "base_release_date": 20211014,
+    "first_update_release_date": 20191106,
+    "latest_update_release_date": 20220314,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220314
+    },
+    "versions": {
+        "65536": 20191106,
+        "131072": 20191205,
+        "196608": 20211007,
+        "262144": 20220314
+    },
+    "category": [
+        "Racing",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100D8101E578800",
-    "version": 131072
+    "base_tid": "0100D8101E578000",
+    "name": "The Glass Staircase",
+    "description": "It's been a long time since you've seen your parents, hasn't it? Not to worry, girls. Just listen to the voice on the intercom. Do what they say. They've provided you a home. They've provided you food. They will make you into good girls.\nThis old house has never treated you wrong, now has it? Now be good girls, all of you. The Master will need you to be strong during these troubling times.\n\n●\tFixed camera angles to escalate the dread- you never know what you’ll find waiting just around the corner…\n●\tNostalgic graphics, with thematic and mechanical nods to classic survival horror games.\n●\tEldritch secrets lurk in the bowels of this house…drag them into the light.\n●\tPut together the pieces of a haunting story by collecting letters from the past, unraveling the mystery of the mansion and its dark history.\n\nRemember: Good girls take their medicine. Good girls do their chores. Good girls go home.",
+    "publisher": "Puppet Combo",
+    "developer": null,
+    "base_release_date": 20240524,
+    "first_update_release_date": 20240516,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240530
+    },
+    "versions": {
+        "65536": 20240516,
+        "131072": 20240530
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "intro": "The Glass Staircase is an homage to survival horror and Italian zombie movies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

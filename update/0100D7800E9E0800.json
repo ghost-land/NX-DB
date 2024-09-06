@@ -1,4 +1,39 @@
 {
     "id": "0100D7800E9E0800",
-    "version": 196608
+    "base_tid": "0100D7800E9E0000",
+    "name": "Trials of Mana",
+    "description": "Trials of Mana is the 3D remake of the hit classic RPG released in 1995 as Seiken Densetsu 3. \n \nThis daring tale of overcoming the tests of fate has been given new life! Experience the beloved adventure fully modernized with graphic improvements, character voiceover support, a remastered soundtrack and a new episode which you can experience after the ending, in addition to an ability system and a new class that reconstructs the character levelling system plus more active battles! \n \nThis overlapping story of interwoven destinies changes depending on who you choose as your main character and companions! Will these young adventurers be able to use the power of mana to save the world from the brink of destruction?\n\nReceive the Rabite Adornment DLC to gain more EXP after battles up-to level 10! Available until 21st May 2020.\n",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20240513,
+    "first_update_release_date": 20200423,
+    "latest_update_release_date": 20201109,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201109
+    },
+    "versions": {
+        "65536": 20200423,
+        "131072": 20201013,
+        "196608": 20201109
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "Trials of Mana is the 3D remake of the hit classic RPG released in 1995 as Seiken Densetsu 3.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

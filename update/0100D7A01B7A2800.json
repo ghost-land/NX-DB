@@ -1,4 +1,39 @@
 {
     "id": "0100D7A01B7A2800",
-    "version": 65536
+    "base_tid": "0100D7A01B7A2000",
+    "name": "STAR WARS™: Bounty Hunter™",
+    "description": "Bring In Your Bounty, Dead or Alive\n\nLet the Hunt Begin\nIn this classic third-person action-adventure, you'll become Jango Fett, Prime Clone of the Grand Army of the Republic, hired to capture a deranged Dark Jedi.\n\nRelive the Timeless Tale \nExperience the legendary Bounty Hunter fantasy set before the events of Star Wars: Episode II - Attack of the Clones. Face off against foes and maneuver through acrobatic battles in this adaption optimized for today's consoles and hardware.\n\nArmed to the Teeth\nFight your way through the galaxy’s underbelly, equipped with Dual Blasters, your Flamethrower, Whipcord, and pure Mandalorian Rage.",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20240801,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240719
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter"
+    ],
+    "intro": "Bring In Your Bounty, Dead or Alive",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

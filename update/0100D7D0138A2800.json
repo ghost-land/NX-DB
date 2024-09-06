@@ -1,4 +1,42 @@
 {
     "id": "0100D7D0138A2800",
-    "version": 65536
+    "base_tid": "0100D7D0138A2000",
+    "name": "Ruin Raiders",
+    "description": "Ruin Raiders is a turn-based tactical roguelike where you guide squads on a mission to explore an ancient, ever-shifting civilization. Explore ruins, demon-infested depths, and more while upgrading your raiders with unlockable gear before facing bosses that hide in the abyss.\n\nKey Features\n\n- Procedurally Generated and Highly Replayable: You never play the same game twice.\n\n -Tactical Combat: Manage military squads in turn-based ground battles on a no-return journey.\n\n- 100+ Items: Unique weapons, grenades & accessories that you can loot, craft and equip.\n\n- Enemies & Bosses: Tons of enemies on each floor plus unique bosses along the way.\n\n- Strategic Base: Improve & expand your raider's base to achieve powerful upgrades for your characters.\n\n- Unlockable Raider Classes & Abilities: Unlock more races & upgrade your race abilities to deepen yourself further into the ruins.\n\n- Upgradeable Weapons and Units: Craft your own equipment and level-up your raiders.\n",
+    "publisher": "Freedom Games",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20210913,
+    "latest_update_release_date": 20210913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210913
+    },
+    "versions": {
+        "65536": 20210913
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Ruin Raiders is a turn-based tactical roguelike where you command customizable squads on a one-way journey into the ruins of an ancient civilization. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

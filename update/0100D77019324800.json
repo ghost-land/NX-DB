@@ -1,4 +1,45 @@
 {
     "id": "0100D77019324800",
-    "version": 196608
+    "base_tid": "0100D77019324000",
+    "name": "Trek to Yomi",
+    "description": "As a vow to his dying Master, the young swordsman Hiroki is sworn to protect his town and the people he loves against all threats. Faced with tragedy and bound to duty, the lone samurai must voyage beyond life and death to confront himself and decide his path forward.\n\nCinematic Presentation\nBreathtaking camera angles and striking visuals in the spirit of classic samurai film create a true cinematic experience in Trek to Yomi.\n\nStylish Combat\nEngage vicious swordsmen and supernatural beings with a streamlined combat system based around the traditional weapons of the samurai.\n\nMythic Storytelling\nExperience an enthralling story of Hiroki during his fall against the forces of evil and heroic return to make good on his failed promise to save the people he swore to protect.\n\nThrilling Soundtrack\nThe thrilling action and somber moments are set against a memorable score designed to feel authentic to the time and place of feudal Japan.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230130,
+    "first_update_release_date": 20230124,
+    "latest_update_release_date": 20230310,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230310
+    },
+    "versions": {
+        "65536": 20230124,
+        "131072": 20230301,
+        "196608": 20230310
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Voyage Beyond Life And Death",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

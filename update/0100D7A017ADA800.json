@@ -1,4 +1,46 @@
 {
     "id": "0100D7A017ADA800",
-    "version": 131072
+    "base_tid": "0100D7A017ADA000",
+    "name": "ABC Match with Me",
+    "description": "A great introduction to puzzle games for your child that develops logical thinking, problem solving and many other skills from early childhood! Smart interface designed in a child-friendly style will allow your child to enjoy the game as soon as they start it!\n\nFeatures:\n★ Learn the alphabet by matching letter shapes from A to Z!\n★ Discover interesting facts about the animal world.\n★ Nearly 100 levels divided into three difficulties.\n★ Develop fine motor skills by dragging objects.\n★ Listen and repeat to improve pronunciation.\n★ Take your first steps in learning languages.\n★ Fun animations to keep kids interested.\n★ Connect the shapes with colorful crayons.\n★ Enjoy a smart interface designed for children.\n★ Interactive graphics and sounds to make playing fun.",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20220304,
+    "first_update_release_date": 20220301,
+    "latest_update_release_date": 20220324,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220324
+    },
+    "versions": {
+        "65536": 20220301,
+        "131072": 20220324
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Music"
+    ],
+    "intro": "A fun, intuitive and educational matching game for your child!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }
