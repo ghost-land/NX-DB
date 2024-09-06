@@ -1,4 +1,36 @@
 {
     "id": "010089401E4CA800",
-    "version": 65536
+    "base_tid": "010089401E4CA000",
+    "name": "Hidden Cats in New York",
+    "description": "Come and visit the famous Big Apple for a brand new cat-spotting adventure!\n\nRelax and look around the city, and with enough patience, find over 700 feline friends!\n\nThe city only gets more vibrant the more cats you find! :)\n\nFeatures:\n- 700+ furballs to pet;\n- A huge cityscape to colour in;\n- A few extra places... full of the tiniest of cats :)",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20240425,
+    "first_update_release_date": 20240423,
+    "latest_update_release_date": 20240423,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240423
+    },
+    "versions": {
+        "65536": 20240423
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "Meow meow! New York sure is a home of many cats and kittens!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

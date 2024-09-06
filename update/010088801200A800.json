@@ -1,4 +1,32 @@
 {
     "id": "010088801200A800",
-    "version": 131072
+    "base_tid": "010088801200A000",
+    "name": "Chess",
+    "description": "Chess is the most famous strategic board game of all time. \n\nEasy to learn but difficult to master, play against the smart Ai (artificial intelligent) player and with four levels of difficulty to choose from anyone from a novice to a master can play.\n\nChess is also playable against another player, either way winning won't come easy.\n\nWith stunning 3D graphics and realistic game play you will feel you are playing on a real chess board and you can change change your viewpoint of the board in order to help you see that killer strategic move to win the game.\n\nThe built in chess engine automatically helps you make legal moves by highlighting the squares of any piece can move to.\n\nChess has a selection of different boards and pieces to choose from so no game will look the same.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200521,
+    "first_update_release_date": 20210728,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210728
+    },
+    "versions": {
+        "131072": 20210728
+    },
+    "category": [
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

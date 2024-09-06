@@ -1,4 +1,47 @@
 {
     "id": "010088A0167A0800",
-    "version": 196608
+    "base_tid": "010088A0167A0000",
+    "name": "LOVE 3",
+    "description": "Enter the mechanical wasteland of LOVE 3, a precision platformer that puts you in control of the last surviving hero, fiveEight. Traverse through 25 minimalistic, but challenging levels. Face rigorous obstacles as you search for hope in a world devoid of it. Unearth hidden secrets and dodge certain doom to the vibrant and catchy soundtrack by James Bennett--tailored to each level. Compete with other players on the Speedrun Leaderboards and push your skills to the limit. Will you be the fastest survivor to brave the dangers that await?\n\nSET YOUR OWN CHECKPOINTS\nRespawn instantly after every loss of life by placing custom checkpoints with the press of a button. Adapt and diversify the challenges: Limit your checkpoints, number of lives, toggle slow motion, or try out different game modes.\n\nHIDDEN COLLECTABLES AND AREAS\nExplore every nook and cranny of the apocalyptic, mechanical wasteland. You'll find secret buttons, entrances, and... survivors?? Remember to keep your eyes peeled, as what you'll find will influence the end of the game!\n\n3 OTHER GAMES INCLUDED FOR FREE\nIncludes every level from LOVE, LOVE 2: kuso, and LOVE Remastered, in addition to the original 42 track soundtrack.",
+    "publisher": "Screenwave Media",
+    "developer": null,
+    "base_release_date": 20211207,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20221012,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221012
+    },
+    "versions": {
+        "65536": 20211112,
+        "131072": 20220211,
+        "196608": 20221012
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Set your own checkpoints in this precision platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

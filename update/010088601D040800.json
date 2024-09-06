@@ -1,4 +1,36 @@
 {
     "id": "010088601D040800",
-    "version": 65536
+    "base_tid": "010088601D040000",
+    "name": "Criss Cross",
+    "description": "Character sprites and CGs are made using the E-mote animation system.\nWhen they breathe, wink, or speak, it all looks very realistic.\nEach character’s lines are fully dubbed in Japanese.\n\nDoes liking someone really make you happy? I disagree. \nWe might just enjoy the feeling of liking someone.\n\nI live in a serene and peaceful little village.\nThere are no wars, and everything here is very pleasant, just like heaven or a utopia. In this perfect world, we meet and get to know each other. People's emotions constantly intersect.\n\nWhy exactly do we live? And why were we born here? \nIf we do whatever it takes to get everything we need, is this really our way of winning?\nI'm confused amidst a whirlpool of shifting emotions… \n\nThis is how these crisscrossed stories have developed.",
+    "publisher": "moesoft",
+    "developer": null,
+    "base_release_date": 20231125,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20231123
+    },
+    "category": [
+        "Adventure",
+        "Other",
+        "Simulation"
+    ],
+    "intro": "Animation System Visual Novel \"Criss Cross.\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }

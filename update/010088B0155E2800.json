@@ -1,4 +1,48 @@
 {
     "id": "010088B0155E2800",
-    "version": 196608
+    "base_tid": "010088B0155E2000",
+    "name": "Warhammer 40,000: Shootas, Blood & Teef",
+    "description": "The Orks, a savage race commonly known as the ‘Green Tide’, sweep across the stars with unrivalled violence in frenzied crusades known as a Waaagh! They are savage, brutal and crude, outnumbering all other races that lay in their path of destruction.\n\nBecome the spearhead of an Ork invasion as you bash, smash and shoot your way through the hive city of Luteus Prime on a mission to retrieve your hair squig and claim vengeance on your warlord! And just maybe become the warboss of a WAAAGH! along the way? Survival of the strongest has never been so violently fun!\n\nNever enough Dakka! Destroy your foes using a great arsenal of weapons and rain destruction down upon them. No one can stand in your way! Massive explosions and flying body parts ain’t never been this fun!\n\nWAAAGH! Feel the emotion and violence build up until it bursts out as a storm of bullets! Violence begets violence as the massive destruction you cause builds up into a full blown unstoppable WAAAGH! Because Orks are made for two things: fighting… and winning! \n\nOrks together strong! Grab your friends and take on the forces of the Astra Militarum, the Genestealer Cults and the Space Marines together. Or you know, bash their head in instead and determine who is the fiercest Ork in the clan! ",
+    "publisher": "Rogueside",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20221018,
+    "latest_update_release_date": 20221208,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221208
+    },
+    "versions": {
+        "65536": 20221018,
+        "131072": 20221109,
+        "196608": 20221208
+    },
+    "category": [
+        "Platformer",
+        "Shooter",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Spearhead an Ork invasion, destroy the hive city and kill your warboss in Warhammer 40,000: Shootas, Blood & Teef! ‘Ere we go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

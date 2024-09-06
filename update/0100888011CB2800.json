@@ -1,4 +1,48 @@
 {
     "id": "0100888011CB2800",
-    "version": 131072
+    "base_tid": "0100888011CB2000",
+    "name": "Street Power Soccer",
+    "description": "Sick style and high-energy action come together in this arcade football experience. Face off against street football legends or friends in a variety of over-the-top game modes and playgrounds, unleashing tricks and crushing superpowers to become Street King.\n  \nKey Features \n•\tBecome Street King: Learn how to rule the streets with your own character under the coaching of Street legend Sean Garnier.\n•\tSix Unique Game Modes: Dance-like Freestyle, 3v3 Street Football, Trick Shot, Panna Cage battles and more!\n•\tPlay with Style: Customize your team with stylish street fashions, custom emotes and tattoos!\n•\tAuthentic Street Style Culture: Play alongside legends like Sean Garnier, Liv Cook, Melody Donchet and more with hyped-up tracks by Black Eyed Peas, DJ Snake, and Snap.",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20200821,
+    "latest_update_release_date": 20210420,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210420
+    },
+    "versions": {
+        "65536": 20200821,
+        "131072": 20210420
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Use of Tobacco",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

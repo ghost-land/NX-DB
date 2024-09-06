@@ -1,4 +1,36 @@
 {
     "id": "010088B010DD2800",
-    "version": 65536
+    "base_tid": "010088B010DD2000",
+    "name": "Dongo Adventure",
+    "description": "Dongo Adventure is a 3D platform style game, where the main character (Dongo) a mouse, ventures through various scenarios (sewer, house, lake, factory, etc.) and faces several enemies along the way (cockroaches, mosquitoes, frogs, spiders, toxic gases, electrical wires, etc.). He carries a backpack equipped with cheese that he uses to throw and defend himself from enemies, besides being able to push objects that help him to pass obstacles and solve puzzles. The final goal will be a surprise!\n\n",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Embark on a great adventure and help Dongo escape from dangerous enemies and challenging environments!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010088700C5F8800",
-    "version": 262144
+    "base_tid": "010088700C5F8000",
+    "name": "Guns of Mercy - Rangers Edition",
+    "description": "The aliens have invaded the Earth's subsoil!\nAll Rangers are called to battle to help restore peace. Choose your hero, your weapon and your favorite mecha to clean up the mess.\n\nGuns of Mercy is a pixel art shoot and arcade game in which you have to go through hundreds of levels.\n\nGet rid of the 8 bosses in the game. Unlock and upgrade new heroes, weapons, or mechas to increase your destructive power.\n\nPlay solo or invite up to 3 friends to take part in the fight! Who will be the best?",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20190104,
+    "first_update_release_date": 20190124,
+    "latest_update_release_date": 20210615,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210615
+    },
+    "versions": {
+        "65536": 20190124,
+        "131072": 20190530,
+        "196608": 20190619,
+        "262144": 20210615
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence"
+    ],
+    "region": null
 }

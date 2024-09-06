@@ -1,4 +1,31 @@
 {
     "id": "010088600C66E800",
-    "version": 65536
+    "base_tid": "010088600C66E000",
+    "name": "Atelier Rorona ~The Alchemist of Arland~ DX",
+    "description": "First release in the Arland series. The main character Rorona must save her Atelier from being closed by the Kingdom. Using Synthesis, Exploration, and Battle, gain recognition for the Atelier and save it from being closed. See a variety of endings by obtaining a certain level of recognition in a set time period and by fulfilling certain conditions.\n\n・Save the Atelier by fulfilling requests made by the Kingdom. \nRorona's goal is to \"gain recognition from the Kingdom to save her Atelier.\" By clearing the quarterly requests sent to her by the Kingdom for 3 years, Rorona can gain recognition. Earn great recognition by using Synthesis, Exploration, and Battle!\n\nEarn a certain level of recognition in a set period of time from the Kingdom and fulfill certain conditions to see a number of different endings. In addition to Kingdom recognition, popularity in town from fulfilling the requests of the townsfolk also plays an important role in determining the ending that you eventually end up with.",
+    "publisher": "KOEI TECMO EUROPE",
+    "developer": null,
+    "base_release_date": 20181204,
+    "first_update_release_date": 20190127,
+    "latest_update_release_date": 20190127,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190127
+    },
+    "versions": {
+        "65536": 20190127
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to sexual violence"
+    ],
+    "region": null
 }

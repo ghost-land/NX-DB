@@ -1,4 +1,41 @@
 {
     "id": "010088401495E800",
-    "version": 131072
+    "base_tid": "010088401495E000",
+    "name": "THE HOUSE OF THE DEAD: Remake",
+    "description": "THE HOUSE OF THE DEAD: Remake is a remade version of the game introduced in 1997 in arcade platform. A classic arcade rail-shooter receives a whole new entourage and gameplay changes to suit modern gaming standards.\n\nFeatures:\n\n• Well known arcade classic with modern graphics and controls, including gyro aiming\n• True to the original gameplay\n• Local 2-player multiplayer\n• Multiple endings\n• Photomode\n• Achievements\n• Armory with unlockable weapons\n• Hordes of the undead monstrosities in a new game mode\n• Gallery with encountered enemies and bosses",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20220407,
+    "first_update_release_date": 20220713,
+    "latest_update_release_date": 20220713,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220713
+    },
+    "versions": {
+        "131072": 20220713
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "intro": "Nobody leaves here alive!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and gore",
+        "Strong horror violence"
+    ],
+    "region": null
 }
