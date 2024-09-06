@@ -1,4 +1,46 @@
 {
     "id": "0100930016422800",
-    "version": 131072
+    "base_tid": "0100930016422000",
+    "name": "Dumpy & Bumpy",
+    "description": "Dumpy & Bumpy is a whimsical and nostalgic puzzle adventure game that takes players on an exciting journey filled with bite-sized challenges. Players control the cute dragons Dumpy and Bumpy, as they embark on a quest to defeat the evil Ghostlord and save their world from its clutches.\n\n80 HANDCRAFTED PUZZLES ACROSS 10 WORLDS\nWithin each world, players will encounter 10 carefully handcrafted levels that offer a diverse range of puzzles to solve. Throw and bite blocks, dodge past danger, blow up bombs, breathe fire, teleport, or even golf!\n\n2 PLAYER MODE\nIn Dumpy & Bumpy, players can choose to work as a team in 2P mode or mess with each other to master gimmicks and clear stages. Teamwork and coordination are essential as players combine the abilities of both characters to overcome challenges together. Alternatively, players can engage in playful competition by sabotaging each other's progress, adding an extra layer of excitement to the gameplay.\n\nWATCH OUT FOR BADDIES\nTime is of the essence, as the Ghosts Minions of the Ghostlord are always on the hunt for Dumpy and Bumpy. Players must race against the clock, making quick decisions and executing precise moves to avoid being caught by the relentless foes.",
+    "publisher": "Screenwave Media",
+    "developer": null,
+    "base_release_date": 20211118,
+    "first_update_release_date": 20211117,
+    "latest_update_release_date": 20211129,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211129
+    },
+    "versions": {
+        "65536": 20211117,
+        "131072": 20211129
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "A puzzle adventure bursting with 80 charming but challenging levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "010092701966A800",
-    "version": 196608
+    "base_tid": "010092701966A000",
+    "name": "Little Witch Nobeta",
+    "description": "Guided by a small black cat, an amnesic little witch named Nobeta delves deep into a mysterious castle. Inside, dangers lurk around every corner. Encounter frightful enemies, powerful bosses, and magical puzzles in this unique soulslike, 3D action shooter!\n\nCan you reach the throne and uncover the secrets of your past?",
+    "publisher": "Idea Factory",
+    "developer": null,
+    "base_release_date": 20230307,
+    "first_update_release_date": 20230307,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231123
+    },
+    "versions": {
+        "131072": 20230307,
+        "196608": 20231123
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Search for the truth of a strange castle in this soulslike, spellbinding shooter",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

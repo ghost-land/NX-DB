@@ -1,4 +1,49 @@
 {
     "id": "010092A0172E4800",
-    "version": 131072
+    "base_tid": "010092A0172E4000",
+    "name": "It Takes Two",
+    "description": "Embark on the craziest journey of your life in It Takes Two, a genre-bending platform adventure created purely for co-op. Invite a friend to join for free with Friend’s Pass* and work together across a huge variety of gleefully disruptive gameplay challenges.\n\nMaster unique and connected character abilities in every new level. Help each other through unexpected obstacles and laugh-out-loud moments. Embrace the heartfelt story of a fractured relationship.\n\nIt Takes Two is developed by Hazelight, the industry-leader of cooperative play.\n\nKEY FEATURES:\nPURE CO-OP PERFECTION – Invite a friend to join for free with Friend’s Pass\n\nGLEEFULLY DISRUPTIVE GAMEPLAY – From rampaging vacuum cleaners to suave love gurus – with It Takes Two, you never know what you’re up against next.\n\nA UNIVERSAL TALE OF RELATIONSHIPS – Discover a touching and heartfelt story you’ll treasure – together!",
+    "publisher": "Electronic Arts",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20221003,
+    "latest_update_release_date": 20221027,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221027
+    },
+    "versions": {
+        "65536": 20221003,
+        "131072": 20221027
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "We're Better Together",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language",
+        "Users Interact"
+    ],
+    "region": null
 }

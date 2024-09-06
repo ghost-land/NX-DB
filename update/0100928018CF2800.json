@@ -1,4 +1,37 @@
 {
     "id": "0100928018CF2800",
-    "version": 393216
+    "base_tid": "0100928018CF2000",
+    "name": "アパシー　鳴神学園七不思議",
+    "description": "新聞部の新人、坂上修一となり、\n学校新聞の特集のために集まった6人の語り部より\n怖い話を聞いていきます。\n\n語り部は話の途中で坂上に質問や感想を求めてきます。\nそれが選択肢となっており、答えることによって物語が変化していきます。",
+    "publisher": "メビウス",
+    "developer": null,
+    "base_release_date": 20220804,
+    "first_update_release_date": 20220722,
+    "latest_update_release_date": 20231025,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20231025
+    },
+    "versions": {
+        "65536": 20220722,
+        "131072": 20220805,
+        "196608": 20220831,
+        "262144": 20221115,
+        "327680": 20221222,
+        "393216": 20231025
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "怖い話を聞いているだけなのに\n何かおかしい……。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

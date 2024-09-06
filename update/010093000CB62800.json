@@ -1,4 +1,39 @@
 {
     "id": "010093000CB62800",
-    "version": 131072
+    "base_tid": "010093000CB62000",
+    "name": "Sudoku Universe",
+    "description": "Sudoku - is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called \"boxes\", \"blocks\", or \"regions\") contains all of the digits from 1 to 9.",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20190808,
+    "first_update_release_date": 20190808,
+    "latest_update_release_date": 20190827,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190827
+    },
+    "versions": {
+        "65536": 20190808,
+        "131072": 20190827
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Training"
+    ],
+    "intro": "Play your ultimate sudoku game any time any where!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

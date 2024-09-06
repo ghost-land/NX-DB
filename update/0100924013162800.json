@@ -1,4 +1,35 @@
 {
     "id": "0100924013162800",
-    "version": 65536
+    "base_tid": "0100924013162000",
+    "name": "Isolation Story",
+    "description": "Isolation Story is a LIFE-SIM style game where you buy supplies, avoid people, and manage your SICKNESS using the new GOV PHONE.\n\nDrink water, wash your hands, and use Medical Supplies to keep the SICKNESS at bay.\n\nCan you endure 7 days of Isolation inside of LOCKDOWN CITY? The game where speaking to NPC's can make you sick!\nAmong other things...\n\nManage your FOOD, SICKNESS, and HAPPINESS to survive \n\nMeet and interact with the other residents of LOCKDOWN CITY\n\nExplore quirky subplots\n\nGet into trouble with the authorities\n\nCollect and battle USB-MON\n\n+ More!",
+    "publisher": "Elushis",
+    "developer": null,
+    "base_release_date": 20201222,
+    "first_update_release_date": 20201215,
+    "latest_update_release_date": 20201215,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201215
+    },
+    "versions": {
+        "65536": 20201215
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Adventure",
+        "Lifestyle"
+    ],
+    "intro": "VIRUS-19 has ravaged the world!\nTake control of a mindless citizen and live through a 7-day quarantine inside of Lockdown City.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Sexual References"
+    ],
+    "region": null
 }

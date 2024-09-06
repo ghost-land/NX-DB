@@ -1,4 +1,45 @@
 {
     "id": "010092B00C4F0800",
-    "version": 65536
+    "base_tid": "010092B00C4F0000",
+    "name": "Hello Neighbor Hide and Seek",
+    "description": "Hello Neighbor: Hide and Seek follows the tragic story of the Neighbor’s family in this dramatic prequel to Hello Neighbor. Experience playing a game of hide-and-seek with your brother as you both deal with a loss of a family member. The game explains events that lead up to the original Stealth Horror hit Hello Neighbor.",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20240207,
+    "first_update_release_date": 20181210,
+    "latest_update_release_date": 20181210,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181210
+    },
+    "versions": {
+        "65536": 20181210
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

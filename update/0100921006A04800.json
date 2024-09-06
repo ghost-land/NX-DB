@@ -1,4 +1,38 @@
 {
     "id": "0100921006A04800",
-    "version": 131072
+    "base_tid": "0100921006A04000",
+    "name": "Night in the Woods",
+    "description": "College dropout Mae Borowski returns home to the crumbling former mining town of Possum Springs seeking to resume her aimless former life and reconnect with the friends she left behind. But things aren't the same. Home seems different now and her friends have grown and changed. Leaves are falling and the wind is growing colder. Strange things are happening as the light fades.\n\nAnd there's something in the woods.\n\nJoin Mae on a trip through her hometown and into the dark on the other side.\n\nNIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world. Break stuff, play bass, hang out, walk on powerlines, jump between roofs, and discover strange and amazing and terrible things you never asked for. Come home and waste your life away in Possum Springs.",
+    "publisher": "Finji",
+    "developer": null,
+    "base_release_date": 20230119,
+    "first_update_release_date": 20180130,
+    "latest_update_release_date": 20240104,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240104
+    },
+    "versions": {
+        "65536": 20180130,
+        "131072": 20240104
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "At the End of Everything, Hold onto Anything",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Fantasy Violence",
+        "Language",
+        "Sexual Themes",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }
