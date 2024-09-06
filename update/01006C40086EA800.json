@@ -1,4 +1,34 @@
 {
     "id": "01006C40086EA800",
-    "version": 65536
+    "base_tid": "01006C40086EA000",
+    "name": "AeternoBlade",
+    "description": "In the region of Awelsia, vengeful Freyja travels with an unknown weapon called 'AeternoBlade'. Freyja looks to take revenge on Beladim, the Lord of the Mist who destroyed her village, Ridgerode, and killed her tribe. Her vengeance is helped by Vernia, who has as much merit as Beladim. Vernia taught Freya about the abilities of AeternoBlade.  Freya has to venture into many different world dimensions to discover how to annihilate Beladim.\n \nWhat is AeternoBlade? How can Freya take revenge on Beladim? Solve tons of mysteries in her adventure together!",
+    "publisher": "CORECELL",
+    "developer": null,
+    "base_release_date": 20180202,
+    "first_update_release_date": 20191112,
+    "latest_update_release_date": 20191112,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191112
+    },
+    "versions": {
+        "65536": 20191112
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Use time ability to solve puzzles and survive in battle.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "01006B601DD06800",
-    "version": 131072
+    "base_tid": "01006B601DD06000",
+    "name": "Outer Terror",
+    "description": "Outer Terror is a horde shooter where you hold out against massive quantities of otherworldly cosmic creatures. Assemble a ridiculous arsenal of weapons and blast apart seemingly endless waves of horrific creatures in this stylish roguelike that pays homage to the B-movies and Golden Age horror comics of the 80s and 90s.\n\nExplore and survive in the varied settings of 5 uniquely themed chapters featuring 10 playable characters each with their own signature weapons forming an anthology of classic horror stories. Each map is massive and through exploration players will discover other survivor hold outs and treasures.\n\nCan you survive the massive boss encounters, elite creatures from beyond, ghouls, robots, and otherworldly abominations?\n\n\nFeatures\n* Play alone or with a friend with local co-op mode\n* Choose from 10 characters\n* 5 thematic story chapters\n* Intense roguelike gameplay\n* Classic horror nostalgia\n* Comic book art",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20240413,
+    "latest_update_release_date": 20240422,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240422
+    },
+    "versions": {
+        "65536": 20240413,
+        "131072": 20240422
+    },
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Roguelike shooter inspired by the golden age of horror",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "01006C101226C800",
-    "version": 131072
+    "base_tid": "01006C101226C000",
+    "name": "Real Farm - Premium Edition",
+    "description": "Pull on your boots, fire up your tractor, and start your ‘Real Farm’. Go from farmhand to agricultural A-list in career mode, or cultivate the role of an established farmer in free mode. With two maps, you get to explore the American -and West European country side. Acquire land, manage staff, crops and animals, and drive powerful farm vehicles while you grow your reputation as you go.\n\nThe Premium Edition includes:\n- Both the Potato pack & Grünes Tal map DLCs \n- Optimized for the next generation of consoles with improved graphics and frame rates\n- Various quality of life improvements, including a completely new AI and a UI/UX overhaul \n- Re-polished game mechanics and a smooth farming experience \n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20231012,
+    "first_update_release_date": 20211108,
+    "latest_update_release_date": 20220502,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220502
+    },
+    "versions": {
+        "65536": 20211108,
+        "131072": 20220502
+    },
+    "category": [
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Grow your way to success in Real Farm - Premium Edition. Work your way up from nothing in career mode or start with an established farm in free mode.  ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

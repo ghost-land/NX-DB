@@ -1,4 +1,34 @@
 {
     "id": "01006B700AB3E800",
-    "version": 262144
+    "base_tid": "01006B700AB3E000",
+    "name": "Buddy Collection if －宿命の赤い糸－",
+    "description": "あなたは、とある高校の『探偵科』の生徒。\nしかし、捜査中に『記憶』と『相棒』を失ってしまう。\nその後、学校に戻ったあなたに割り当てられたのは、『Ｅクラス』という最もランクの低いクラスだった。\nそこで参加した『合宿』で、新たな事件に巻き込まれていく――……\n\nやや恋愛要素のある、女性向け推理ノベルゲームです。\n（恋愛要素は薄く、サスペンス要素が強いのでご注意ください）\n数ある選択肢の中から『死（BADEND）』を回避し、相棒となる生徒を『真実（HAPPYEND）』へと導いてください。\n\nまた、このゲームは『Buddy Collectionシリーズ』の番外編です。\n従来の『EP.1 宿命の赤い糸』にシナリオを追加したバージョンで、『戌亥信吾』の他に『九条悠』『瀧翔太』ルート、特定の条件を達成で、『坂城美貴』『七見隼人』ルートを選択できます。",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20180511,
+    "latest_update_release_date": 20210125,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210125
+    },
+    "versions": {
+        "65536": 20180511,
+        "131072": 20180906,
+        "196608": 20200714,
+        "262144": 20210125
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "探偵×学園×相棒\nバディを信じて謎を解け！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

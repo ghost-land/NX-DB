@@ -1,4 +1,34 @@
 {
     "id": "01006B101A47A800",
-    "version": 65536
+    "base_tid": "01006B101A47A000",
+    "name": "The Legend of Steel Empire",
+    "description": "In a dystopian world where the Motorhead Empire has conquered and enslaved virtually the entire planet, mammoth battleships, armored locomotives, and invincible fortresses dominate the skies. However, there is hope for the republic of Silverhead, and you are the only one who can save it. Take control of the Striker airplane or Zeppelin with an aerial mine launcher and engage in intense euro-shmup action, battling enemies both in the air and on the ground, and using devastating screen-clearing attacks in tight spots. With improved graphics and controls, Steel Empire, originally released in the early 90s for a 16-bit console, has been ported to various handheld consoles. Join the fight and defeat the Motorhead Empire.\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20240124,
+    "first_update_release_date": 20240131,
+    "latest_update_release_date": 20240131,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240131
+    },
+    "versions": {
+        "65536": 20240131
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Restore peace in a steam punk world with the striker airplane or  zeppelin!\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

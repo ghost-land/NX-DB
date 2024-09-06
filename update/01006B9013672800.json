@@ -1,4 +1,35 @@
 {
     "id": "01006B9013672800",
-    "version": 65536
+    "base_tid": "01006B9013672000",
+    "name": "Cybxus Hearts",
+    "description": "You can swap between characters depending on situation. But protect your central core with the all cost!\n\nFeatures:\n- Classic danmaku-like bullet hell\n- 4 stages packed with enemies and bullets\n- Control 3 characters with different powers and weaknesses\n- Epic boss battles with different bullet patterns\n- Multiple modes of difficulty that caters to players of all skill ranges",
+    "publisher": "DarkDes Labs",
+    "developer": null,
+    "base_release_date": 20201204,
+    "first_update_release_date": 20210113,
+    "latest_update_release_date": 20210113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210113
+    },
+    "versions": {
+        "65536": 20210113
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Other"
+    ],
+    "intro": "Cybxus Hearts inspired by classic Japanese shooting games. This is a game where you control three different characters at the same time.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

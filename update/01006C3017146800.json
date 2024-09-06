@@ -1,4 +1,44 @@
 {
     "id": "01006C3017146800",
-    "version": 196608
+    "base_tid": "01006C3017146000",
+    "name": "Lila's Sky Ark",
+    "description": "Lila’s psychedelic world is in grave danger. Help her and her eccentric friends stop the Conductor’s minions from destroying all things musical and magical in this meditative action-adventure game. Explore this dark yet groovy world as you unravel the poetic mystery that is Lila’s story. Discover secrets, solve puzzles, and battle bizarre beasts and punishing bosses as you attempt to unite the Spirits and save the mysterious Sky Island from ruin. Along the way, hunt down alchemy recipes to unlock new weapons. Battle enemies with rocks, Titan Eyes, cluster bombs, and anything else you can throw at them as you wander this music-inspired pixel dreamscape during Lila’s strange yet beautiful journey.",
+    "publisher": "Graffiti Games",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220420,
+    "latest_update_release_date": 20220807,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220807
+    },
+    "versions": {
+        "65536": 20220420,
+        "131072": 20220516,
+        "196608": 20220807
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Protect a psychedelic world from bizarre beasts and punishing bosses in this poetic mystery filled with secrets, puzzles, and music.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01006B601117E800",
-    "version": 196608
+    "base_tid": "01006B601117E000",
+    "name": "Ultimate Ski Jumping 2020",
+    "description": "Ultimate Ski Jumping 2020 is an oldschool action game in which you play the role of a ski jumper. Train and compete in tournaments and the Campaign mode. Begin the rivalry in the qualification round and take part in competitions. You can play in campaign mode or tackle others in multiplayer. Have a face off with AI-controlled jumpers on 5 difficulty levels! Create your own competitor and acquire new helmets, gloves, suits, boots, and skis! Challenge their skills on winter, summer or special ski jumping hills! \nGame modes:\n·Campaign – a set of ready to play competitions with a brief plot\n·Tournament – events taking place on selected ski jumping hills\n·Quick lay – you choose the hill, number of opponents, difficulty level, and start playing\n·Multiplayer Online – play with your friends and fight for a position in direct online games\n·Training – a place to polish up your skills\nFeatures:\n·Old school graphics\n·Various types of ski jumping hills from summer and winter to jumping on the Moon\n·Simplified and advanced jump models\n·Personalised competitors\n·Available game modes: tournament, campaign, quick play, training\n·Multiplayer mode to play with players from all around the world!",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200320,
+    "first_update_release_date": 20200422,
+    "latest_update_release_date": 20210526,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210526
+    },
+    "versions": {
+        "65536": 20200422,
+        "131072": 20201016,
+        "196608": 20210526
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Winter competitions, summer competitions and even jumping on the Moon! Trainings, qualification rounds and tournaments are all waiting for you!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

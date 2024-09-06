@@ -1,4 +1,32 @@
 {
     "id": "01006BA013990800",
-    "version": 65536
+    "base_tid": "01006BA013990000",
+    "name": "Girabox",
+    "description": "This minimalist puzzler offers a unique premise for an innovative and deep gameplay: here you don’t control your character, but rather the world around it. Gravity is the only force applying motion, so you need to rotate the levels until your character reaches down to the ultimate goal. Every rotation is counted, meaning that the smaller score, the better! Be smart and compete with others for the online leaderboards podium.\n\nThe minimalist visuals, the smooth controls and the puzzles architecture are specifically designed to provide a tight and frictionless experience through all the many levels available.\n\nFeatures:\n- Ideal for short sessions and to “play on the go”\n- A lot of puzzles\n- Innovative mechanism\n- Minimalist, tight and smooth\n- Speedrun modes and online leaderboards\n- Chill ambient music by pATCHES",
+    "publisher": "Drageus Games",
+    "developer": null,
+    "base_release_date": 20220923,
+    "first_update_release_date": 20201126,
+    "latest_update_release_date": 20201126,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201126
+    },
+    "versions": {
+        "65536": 20201126
+    },
+    "category": [
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Move the world around, not the character! Rotate the levels and let gravity do the rest to solve the puzzles and dominate the leaderboards.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "01006B4014564800",
-    "version": 524288
+    "base_tid": "01006B4014564000",
+    "name": "Aztech Forgotten Gods",
+    "description": "Aztech Forgotten Gods is the cyber-stone action-adventure following Achtli, a young woman who battles the colossal Forgotten Gods. To uncover the truth behind her far-future Mesoamerican metropolis, she'll have to turn the Gods' power against them, as she soars through the city with power and grace.",
+    "publisher": "Lienzo",
+    "developer": null,
+    "base_release_date": 20220310,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20220717,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220717
+    },
+    "versions": {
+        "131072": 20220201,
+        "196608": 20220204,
+        "262144": 20220211,
+        "327680": 20220224,
+        "393216": 20220302,
+        "458752": 20220323,
+        "524288": 20220717
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Some things are best left forgotten.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Violence"
+    ],
+    "region": null
 }

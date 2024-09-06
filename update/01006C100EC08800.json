@@ -1,4 +1,71 @@
 {
     "id": "01006C100EC08800",
-    "version": 1769472
+    "base_tid": "01006C100EC08000",
+    "name": "Minecraft Dungeons",
+    "description": "Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels – all in an epic quest to save the villagers and take down the evil Arch-Illager!\n\nDiscover a trove of powerful new weapons and items that will help you defeat ruthless swarms of new-and-nasty mobs. Fight or flee through canyons, swamps and – of course – mines! Any adventurer brave or foolish enough to explore this blocky and beautiful world will need to come prepared. So quickly, gear up!\n\nDungeon Creeper! Battle new-and-nasty mobs in this all-new action-adventure, inspired by classic dungeon crawlers.\nMultiplayer! Up to four players can team up and fight together in co-op mode.\nPower Up! Unlock dozens of unique items and weapon enchantments for devastating special attacks.\nOptions! Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour!\nEpicness! Explore treasure-stuffed levels in a quest to take down the evil Arch-Illager!\n\n",
+    "publisher": "Mojang",
+    "developer": null,
+    "base_release_date": 20200526,
+    "first_update_release_date": 20200518,
+    "latest_update_release_date": 20221201,
+    "latest_update": {
+        "version": "1769472",
+        "release_date": 20221201
+    },
+    "versions": {
+        "65536": 20200518,
+        "131072": 20200609,
+        "196608": 20200617,
+        "262144": 20200701,
+        "327680": 20200908,
+        "393216": 20201026,
+        "458752": 20201117,
+        "524288": 20201214,
+        "589824": 20201217,
+        "655360": 20210224,
+        "720896": 20210324,
+        "786432": 20210505,
+        "851968": 20210526,
+        "917504": 20210617,
+        "983040": 20210728,
+        "1048576": 20210811,
+        "1114112": 20210901,
+        "1179648": 20211014,
+        "1245184": 20211214,
+        "1310720": 20220117,
+        "1376256": 20220211,
+        "1441792": 20220420,
+        "1507328": 20220525,
+        "1572864": 20220608,
+        "1638400": 20221019,
+        "1703936": 20221025,
+        "1769472": 20221201
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

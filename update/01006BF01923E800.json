@@ -1,4 +1,42 @@
 {
     "id": "01006BF01923E800",
-    "version": 262144
+    "base_tid": "01006BF01923E000",
+    "name": "A Space for the Unbound",
+    "description": "A Space For The Unbound is a slice-of-life adventure game with beautiful pixel art set in the late 90s rural Indonesia that tells a story about overcoming anxiety, depression, and the relationship between a boy and a girl with supernatural powers.\n\nFollow two high school sweethearts, Atma and Raya, on a journey of self-discovery at the end of their high school years. When a mysteriously supernatural power is suddenly unleashed threatening their existence, they must explore and investigate their town to uncover hidden secrets, face the end of the world, and perhaps learn more about each other.\n\nSet in a small town inspired by 90s era rural Indonesia, A Space for The Unbound presents an endearing story-driven experience with a vibrant environment waiting to be explored.\n\n*Throwback to the 90s! Let us take you to Indonesia in the late 90s.\n*Explore rural Indonesia and enjoy its relaxing atmosphere with a hint of supernatural events.\n*Chat and interact with other townfolks and listen to their personal stories.\n*Dive into people's minds Inception-style.\n*Listen to beautiful music composed by Masdito \"Ittou\" Bachtiar.",
+    "publisher": "Chorus Worldwide Games",
+    "developer": null,
+    "base_release_date": 20230119,
+    "first_update_release_date": 20230117,
+    "latest_update_release_date": 20230825,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230825
+    },
+    "versions": {
+        "131072": 20230117,
+        "196608": 20230316,
+        "262144": 20230825
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "High school is ending and the world is ending with it.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

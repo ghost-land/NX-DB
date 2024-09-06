@@ -1,4 +1,39 @@
 {
     "id": "01006C00110F2800",
-    "version": 65536
+    "base_tid": "01006C00110F2000",
+    "name": "A Glider's Journey",
+    "description": "A Glider's journey is a game about exploring a relaxing, colorful low poly world; while still challenging your piloting skills till the very end of each level.\n\nThe very simple controls (one joystick, no throttle no rudder) makes it very easy to pickup, but hard to master, thanks to the physics-based flight model. (Realistic mode)\n\nKey Features:\n\n- 15 levels featuring a variety of unique low poly biomes. (playtime ranging from 40 minutes to 2+ hours depending on your skill set)\n\n- Unique custom made soundtrack for every level style and feel.\n\n- An immersive experience thanks to the removal of all HUDs, completely replaced by subtle visual and audio indicators, such as the wind noise and wing particles for speed, the color of the wings for the progression of the level etc...",
+    "publisher": "Emma Franklin",
+    "developer": null,
+    "base_release_date": 20210302,
+    "first_update_release_date": 20210228,
+    "latest_update_release_date": 20210228,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210228
+    },
+    "versions": {
+        "65536": 20210228
+    },
+    "category": [
+        "Adventure",
+        "Arcade",
+        "Racing",
+        "Simulation"
+    ],
+    "intro": "A Glider's journey is a short, minimalist, yet challenging flight game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
