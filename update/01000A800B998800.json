@@ -1,4 +1,34 @@
 {
     "id": "01000A800B998800",
-    "version": 131072
+    "base_tid": "01000A800B998000",
+    "name": "ALPHA",
+    "description": "Playing latest games is like work.\nGetting together with friends, fighting bosses—that’s all cool, but having some time for yourself is pretty awesome too.\nThere are times we like to spend some time alone having fun, and taking on challenges in a game is an awesome way to do just that.\n\nALPHA, the latest work by KANAME, is a simple game. There are no additional in-game purchases: once it's yours, you can begin tackling it until you reach the end. Maybe it’s time to take a break from playing games for other people.\n\n◆ Key features of ALPHA\n\n◎　A single-player action shooting game. Quite a challenging one, in fact.\n◎　Average play time of 2 hours (or, if you like to spend more time, as long as you want)\n◎　Knock off enemy bullets with your sword to shoot and slash your way through stages.\n◎　No save points during stages. Enemies are tough, and so are the bosses. Study their moves and work around them.\n◎　When it’s game over, you start over from the beginning of the stage. You won’t be getting it easy!\n◎　Some health items, shields, bombs, etc. are just a few useful items.\n◎　All this for a small price.",
+    "publisher": "KANAME",
+    "developer": null,
+    "base_release_date": 20190419,
+    "first_update_release_date": 20190510,
+    "latest_update_release_date": 20190827,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190827
+    },
+    "versions": {
+        "65536": 20190510,
+        "131072": 20190827
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Simple, but hard.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

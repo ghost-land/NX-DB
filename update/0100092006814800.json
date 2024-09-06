@@ -1,4 +1,48 @@
 {
     "id": "0100092006814800",
-    "version": 524288
+    "base_tid": "0100092006814000",
+    "name": "Tennis World Tour",
+    "description": "THE BIGGEST STARS IN TENNIS\n• Play as one of the 30 best tennis players in the world: Roger Federer, Angelique Kerber, Stan Wawrinka and many of the sport's legends.\nPERFECTLY REPRODUCED MOVEMENT\n• Realistic animations, carefully reproduced in the game using motion capture technology, help you learn all of the shots used in modern tennis: the slice, lob, top spin, etc.\nEVERY PLAYING SURFACE\n• 18 types of courts: hard, clay, grass, carpet and even hardwood. Each surface affects the playing conditions.\nA COMPLETE CAREER MODE\n• Create your player and experience a career worthy of a professional: training, tournaments, staff management, equipment purchases, etc.\nAN UNEQUALLED TACTICAL DIMENSION\n• Decide what strategy to adopt for each match and use your skill cards to defeat your opponents.",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20181029,
+    "latest_update_release_date": 20200504,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20200504
+    },
+    "versions": {
+        "65536": 20181029,
+        "131072": 20181206,
+        "196608": 20190207,
+        "262144": 20190228,
+        "327680": 20190429,
+        "393216": 20190516,
+        "458752": 20190524,
+        "524288": 20200504
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "The new standard developed by veterans of tennis simulations: play as one of 30 professional tennis players, learn all the shots, master each type of surface and experience a realistic career mode. Define your style of play and tactics to become n°1 in the world!",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "01000A4019FA2800",
-    "version": 393216
+    "base_tid": "01000A4019FA2000",
+    "name": "Little Kitty, Big City",
+    "description": "Will you make your way home or will you explore what the big city has to offer first? I mean, getting home is obviously your main priority. Obviously. Well, it's one of your priorities. Maybe more of a guideline... It's definitely on your To-Do list somewhere! But first? Exploration!\n\nFeatures:\n- Explore the city at your own pace in an open-world playground filled with surprises!\n- Make friends with a colorful cast of chatty animals.\n- Complete quests, help your animal friends, or cause a total ruckus. It’s up to you.\n- Customize your Kitty with a plethora of very adorable hats!\n- Take a nap in the sunshine.\n- Find a way home...?",
+    "publisher": "Double Dagger Studio",
+    "developer": null,
+    "base_release_date": 20240509,
+    "first_update_release_date": 20240424,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20240424,
+        "131072": 20240515,
+        "196608": 20240527,
+        "262144": 20240613,
+        "327680": 20240702,
+        "393216": 20240822
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "A peaceful catnap turns into a whimsical adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

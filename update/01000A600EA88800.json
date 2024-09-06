@@ -1,4 +1,39 @@
 {
     "id": "01000A600EA88800",
-    "version": 131072
+    "base_tid": "01000A600EA88000",
+    "name": "Grave Keeper",
+    "description": "Become a hero and fight against the biggest enemies.\nFight and improve the main character to hunt down monsters, dark skeletons, mages and other villains in deepest dungeons.\n\n- Fight with enemies, beat bosses, get gold\n- Find new items to use in battle\n- Upgrade your skills and be fearless\n- Versus Mode - compare strength with other knights\n\nGrave Keeper is a Hack and Slash game in the fantasy world focused on the fight against The Skeleton King.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20190808,
+    "first_update_release_date": 20191011,
+    "latest_update_release_date": 20201015,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201015
+    },
+    "versions": {
+        "65536": 20191011,
+        "131072": 20201015
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "You are The Bounty Hunter and walked into The Forbidden Stronghold. It is taken by The Skeleton King. To collect all treasures you must kill him first.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

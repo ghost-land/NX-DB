@@ -1,4 +1,40 @@
 {
     "id": "01000A9018470800",
-    "version": 327680
+    "base_tid": "01000A9018470000",
+    "name": "Q REMASTERED",
+    "description": "The masterpiece of physics puzzles, \"Q\" is coming to Nintendo Switch™!\nThis is a game of solving in the form you drew.\nIt contains more than 1,200 very simple but not straightforward Qs.\nAll the ways to solve it are open-ended!\n\nCan you get the ball out of the glass?\nCan you hit the ball to the wall?\nDon't know what I'm talking about?\nIf you're confident, by all means give it a shot!\n\n【New Stage】\nThe new 20-question \"HELL\" stage included only in this title is the most difficult ever!\nThe author has not yet been able to clear all the questions, making it the most difficult stage ever!\nYou will be one of the first in the world!\n\n【Easy to draw】\nThe most playable Q to date with improved touch controls.\nGyro and button controls are also supported, allowing the game to be enjoyed in TV mode or table mode.",
+    "publisher": "liica",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20220816,
+    "latest_update_release_date": 20240515,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240515
+    },
+    "versions": {
+        "65536": 20220816,
+        "131072": 20221109,
+        "196608": 20240306,
+        "262144": 20240424,
+        "327680": 20240515
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Infinite number of ways to solve it.\nBoth adults and children can get into it.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100099016862800",
-    "version": 131072
+    "base_tid": "0100099016862000",
+    "name": "World Quiz",
+    "description": "Features\n• *** Includes global online leaderboards ***\n• Over 5,000 questions split into 24 categories to really test people’s knowledge of the world.\n• Three levels of difficulty to make it playable for the whole family.\n• Over 190 different countries featured. \n\nQuestion Types;\nCities\nLondon, Paris, Rome, Berlin, Florence, New York, Prague, Kiev, Bratislava, Lisbon, Vienna, Budapest, Brussel, Warsaw, Tokyo, Ankara, Moscow…\n\nHistorical Monuments\nBig Ben Tower, Pisa Tower, Berlin Cathedral, Hagia Sofia, Red Square, Statue of Liberty, Colosseum, Pyramids of Giza…\n\nUnique Constructions\nTower Bridge, Tokyo Tower, Golden Gate, Eiffel Tower…\n\nFood/Drink\nTiramisu, Bryndzové Halušky, Potato dumplings, Christmas Pudding, Mojito, Apple Strudel, Stroopwafel, Feta cheese, Sake…\n\nNatural Beauties\nLoch Ness, Mont Blanc, Mount Olympus, Grand Canyon, Glass Beach.\n\nAnd amny, many more!",
+    "publisher": "Funbox Media",
+    "developer": null,
+    "base_release_date": 20211202,
+    "first_update_release_date": 20211118,
+    "latest_update_release_date": 20230823,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230823
+    },
+    "versions": {
+        "65536": 20211118,
+        "131072": 20230823
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Training",
+        "Board Game"
+    ],
+    "intro": "A quiz game that will help you learn about geography, foods of the world, flags, literature, history, sports and many more categorise, in an easy and enjoyable way.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

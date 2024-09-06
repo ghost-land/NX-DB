@@ -1,4 +1,54 @@
 {
     "id": "01000A6013F86800",
-    "version": 1310720
+    "base_tid": "01000A6013F86000",
+    "name": "Strange Field Football",
+    "description": "This is a game that allows light gamers to have the fun of football. There is no fouls, no out of bounds, the only rule is to score more goals within the specified time. Pro gamers can also find their fun. Players' Hit point, use of special skills, and differences in tactics, every small operation may affect the final result.\n\nKey Features\n• 3D Cartoon pixel style\n• Every player has his own special skills\n• Take advantage of scene elements\n• Up to 4 people to play locally\n• Game stable at 60fps",
+    "publisher": "Wildbus Studio",
+    "developer": null,
+    "base_release_date": 20210128,
+    "first_update_release_date": 20210205,
+    "latest_update_release_date": 20240711,
+    "latest_update": {
+        "version": "1310720",
+        "release_date": 20240711
+    },
+    "versions": {
+        "131072": 20210205,
+        "196608": 20210224,
+        "262144": 20210302,
+        "327680": 20210412,
+        "393216": 20210430,
+        "458752": 20210511,
+        "524288": 20210519,
+        "589824": 20210528,
+        "655360": 20210906,
+        "720896": 20210915,
+        "786432": 20210930,
+        "851968": 20211007,
+        "917504": 20211018,
+        "983040": 20211111,
+        "1048576": 20220418,
+        "1114112": 20220512,
+        "1179648": 20220609,
+        "1245184": 20240619,
+        "1310720": 20240711
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Strange Field Football is a 3D cartoon pixel style 5v5 football game with up to 4 local players.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence"
+    ],
+    "region": null
 }

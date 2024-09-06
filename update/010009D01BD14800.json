@@ -1,4 +1,42 @@
 {
     "id": "010009D01BD14800",
-    "version": 65536
+    "base_tid": "010009D01BD14000",
+    "name": "《LISA：The Joyful（最終版）》",
+    "description": "《LISA：The Joyful（最終版）》是原版古怪橫向卷軸RPG遊戲LISA系列的最新更新版最終章。你將扮演巴蒂，探索歐拉德，為了懲罰傷害你的世界而展開冒險。在你的旅途中，你將了解歐拉德、你的家人、怪物和掌權者。既然這個世界要傷害你……那就把它奪回來。\n\n最終版為遊戲帶來了新的沖擊，包括全新的戰鬥系統、6個全新的軍閥技能、新的邊框藝術效果、音樂播放器、無痛（簡單）模式和可供探索的新秘密。\n\n\n主要特點：\n- 收集新的面具來擺脫男人。\n- 利用巴蒂的敏捷度來衝刺和跳躍很遠的距離！利用地形伏擊敵人。\n- 擊敗歐拉德的軍閥，並利用他們的技能增強優勢。\n- 探索全新的區域，與全新的獨特敵人戰鬥。\n- 探索多種故事結局。\n- 使用巴蒂改進的定時攻擊造成更強的打擊。\n- 在音樂播放器中收聽20多首新歌。\n- 揭開快樂丸的秘密。\n",
+    "publisher": "Beep",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240320,
+    "latest_update_release_date": 20240320,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240320
+    },
+    "versions": {
+        "65536": 20240320
+    },
+    "category": [
+        "動作",
+        "冒險",
+        "角色扮演",
+        "益智"
+    ],
+    "intro": "LISA系列的最終章。扮演巴蒂，穿越這個世界。展現你的能力，創造屬於你的輝煌。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

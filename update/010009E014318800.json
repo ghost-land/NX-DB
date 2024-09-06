@@ -1,4 +1,43 @@
 {
     "id": "010009E014318800",
-    "version": 262144
+    "base_tid": "010009E014318000",
+    "name": "Monster Prom 2: Monster Camp XXL",
+    "description": "\"Monster Prom 2: Monster Camp\" brings you more of the world's best (and maybe only?) multiplayer dating sim, but in a way you've never expected!\n\nThe original Monster Prom is a multiplayer dating sim that shines for its beautiful art and unapologetic humor.\n\nThe sequel brings you into a new setting (summer camp) with new characters to romance, including old faces and new ones: Damien, Calculester, Milo, Dahlia, Joy, and Aaravi. But that's not all: Monster Camp comes with other new twists here and there, from the campfire mechanics to a new stage full of magic mixed drinks.\n\nBut that’s not all! The XXL version includes ALL of the non-Kickstarter exclusive outfit packs! \n\nWe're taking the best parts of the popular \"Monster Prom\" formula, but adding some new spice to it. You will see ;)",
+    "publisher": "Beautiful Glitch",
+    "developer": null,
+    "base_release_date": 20220214,
+    "first_update_release_date": 20220727,
+    "latest_update_release_date": 20240728,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240728
+    },
+    "versions": {
+        "65536": 20220727,
+        "131072": 20231123,
+        "196608": 20231222,
+        "262144": 20240728
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "BE YOUR WORST SELF… ONCE MORE WITH FEELING",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

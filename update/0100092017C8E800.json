@@ -1,4 +1,41 @@
 {
     "id": "0100092017C8E800",
-    "version": 262144
+    "base_tid": "0100092017C8E000",
+    "name": "Crazy Chicken Xtreme",
+    "description": "Hunt mischievous moorhuhns across a mystical campsite in the forest, shoot them down in the old walls of a knight's castle, or put your marksmanship to the test in a medieval marketplace. \nIf a wild chicken gets in the line of fire, blast it with a shotgun, rocket launcher, or chicken-hammer. Quickly load up on ammunition to enjoy maximum shooting action, and the chickens will either have to drop their feathers or end up roasting on the spit!\n\n• 3 exciting locations\n• 3 deadly weapons\n• Atmospheric settings\n• Offline multiplayer mode (1 vs 1, up to 4 players take turns in the hot seat)\n• Online high score",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20220616,
+    "first_update_release_date": 20220620,
+    "latest_update_release_date": 20221205,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221205
+    },
+    "versions": {
+        "196608": 20220620,
+        "262144": 20221205
+    },
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Bang! Poom Poom! Blam! Boom!  ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

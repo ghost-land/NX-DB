@@ -1,4 +1,38 @@
 {
     "id": "01000930140DA800",
-    "version": 196608
+    "base_tid": "01000930140DA000",
+    "name": "Qube Qross",
+    "description": "The puzzles can be solved by the hints of numbers in the left and right sides of walls, players need to get where and how many cubes are located, by the intersection of numbers from left and right walls in the same height axis. And use your controller to place all the cubes in the right position to solve a puzzle.\n\nIn the classic mode, we have 10 stages with different themes, there are 10 levels in each stage, all the puzzles you solve are aww-ing cute voxel models.\n\nFeatures:\n- 100 independent handcrafted levels.\n- Each puzzle is a voxel puzzle that has meaning.\n- Chill game music\n- Neon graphic style\n- Trivial and easy input way for solving puzzles.\n- Time Attack mode for players to challenge friends and people in the world. ",
+    "publisher": "Poly Poly Games",
+    "developer": null,
+    "base_release_date": 20210218,
+    "first_update_release_date": 20210309,
+    "latest_update_release_date": 20210420,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210420
+    },
+    "versions": {
+        "65536": 20210309,
+        "131072": 20210409,
+        "196608": 20210420
+    },
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Qube Qross is a challenging logical puzzle game, like Nonogram in 3D, solving the cute voxel puzzles with chill music and neon graphic style. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

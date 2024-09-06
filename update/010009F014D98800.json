@@ -1,4 +1,40 @@
 {
     "id": "010009F014D98800",
-    "version": 196608
+    "base_tid": "010009F014D98000",
+    "name": "Pokémon TV",
+    "description": "Pokémon TV is a fun way to watch all sorts of great Pokémon programming! Enjoy the adventures of Ash, Pikachu, and their friends—along with animated specials and highlights of Pokémon Championship tournaments.\n\nHours Upon Hours of Pokémon Fun!\nFind loads of great Pokémon content to watch in one convenient place—hundreds of episodes (including full seasons), animated specials, and thrilling Pokémon Trading Card Game and video game competitions. Content changes periodically!\n\nFun Videos for Little Pokémon Fans!\nThe Junior category includes videos to entertain younger Trainers. Kids can join in with sing-along songs, hear popular nursery rhymes, and more!\n\nThe Pokémon TV app is a great way for fans to enjoy their favorite episodes and relive incredible battles from Championship competitions!\n",
+    "publisher": "The Pokémon Company International",
+    "developer": null,
+    "base_release_date": 20210826,
+    "first_update_release_date": 20210826,
+    "latest_update_release_date": 20220722,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220722
+    },
+    "versions": {
+        "65536": 20210826,
+        "131072": 20211005,
+        "196608": 20220722
+    },
+    "category": [
+        "Video",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Watch Pokémon! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

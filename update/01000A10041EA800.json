@@ -1,4 +1,44 @@
 {
     "id": "01000A10041EA800",
-    "version": 327680
+    "base_tid": "01000A10041EA000",
+    "name": "The Elder Scrolls V: Skyrim",
+    "description": "Winner of more than 200 Game of the Year awards, The Elder Scrolls V: Skyrim, the open-world masterpiece where you can be anyone and do anything, now allows you to go anywhere – at home or on the go. Skyrim® brings to life a complete virtual world for you to explore any way you choose,  including all-new features like motion controls, plus outfits and gear from compatible The Legend of Zelda™ amiibo. Take down enemies with the Master Sword, protect yourself with the Hylian Shield or look heroic in the Champion’s Tunic. The legendary freedom of choice and adventure of Skyrim is realized like never before. Dragons, long lost to the passages of the Elder Scrolls, have returned and the future of Skyrim hangs in the balance. As Dragonborn, the prophesized hero born with the power of The Voice, you are the only one who can stand amongst them.",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20171115,
+    "latest_update_release_date": 20240229,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240229
+    },
+    "versions": {
+        "65536": 20171115,
+        "196608": 20220930,
+        "262144": 20221020,
+        "327680": 20240229
+    },
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": "Epic Fantasy Reborn",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Sexual Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

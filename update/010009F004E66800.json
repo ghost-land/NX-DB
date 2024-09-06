@@ -1,4 +1,39 @@
 {
     "id": "010009F004E66800",
-    "version": 65536
+    "base_tid": "010009F004E66000",
+    "name": "Transcripted",
+    "description": "Transcripted is a mixture of two incredibly addictive and vastly popular casual gaming styles: the dual-stick shooter and the match three puzzle game.\n\nIn Transcripted players take control of the Nano Probe, a microscopic apparatus used to combat disease. Many weapon and ship upgrades allow players almost limitless customization options for their Nano Probe. \n\nSuccessfully navigate through hordes of deadly pathogens to destroy the disease’s pseudo-DNA and defeat gigantic boss.\n\nFeatures: \n25 core campaign missions, and 5 Challenge levels for scoring competition\nDifficulty levels of both puzzle and shooting segments can be adjusted independently to suit every play style, making Transcripted an amazingly replayable experience.\nBeautifully rendered microscopic environments with animated backgrounds\nMemorable, ambient score",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20171124,
+    "first_update_release_date": 20171205,
+    "latest_update_release_date": 20171205,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171205
+    },
+    "versions": {
+        "65536": 20171205
+    },
+    "category": [
+        "Shooter",
+        "Puzzle",
+        "Arcade",
+        "Strategy"
+    ],
+    "intro": "A unique mix of twin stick shooter and match-3",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010009900947A800",
-    "version": 327680
+    "base_tid": "010009900947A000",
+    "name": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~",
+    "description": "Lydie and Suelle are twin sisters, who are also alchemists, living in Merveille, the capital of Kingdom of Adalet, and they aim to make their atelier the best atelier in the kingdom.\nOne day, they find a Mysterious Painting with a strange and wonderful world inside of it, full of rare materials for their alchemy. This discovery is sure to become the very key to realizing their dream.\n\nA new Mysterious story to mark the 20th anniversary of the Atelier series! \nDelve into the fantastic worlds of Mysterious Paintings together with Lydie and Suelle!",
+    "publisher": "KOEI TECMO EUROPE",
+    "developer": null,
+    "base_release_date": 20180330,
+    "first_update_release_date": 20180416,
+    "latest_update_release_date": 20210421,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210421
+    },
+    "versions": {
+        "65536": 20180416,
+        "131072": 20180508,
+        "196608": 20180529,
+        "262144": 20181010,
+        "327680": 20210421
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes and violence"
+    ],
+    "region": null
 }

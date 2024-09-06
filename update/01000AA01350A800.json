@@ -1,4 +1,34 @@
 {
     "id": "01000AA01350A800",
-    "version": 196608
+    "base_tid": "01000AA01350A000",
+    "name": "太空戰鬥機G HD（DARIUS G HD）",
+    "description": "『太空戰鬥機』系列的第一款作品於1986年在街機平台上推出，此系列是遊戲公司TAITO知名的橫向捲軸射擊遊戲。\n在那之後，『太空戰鬥機』也陸續推出了多款街機版遊戲，其中也有部分移植為家用版遊戲。\n『太空戰鬥機G』是1997年推出的街機版系列第4代遊戲，而「太空戰鬥機G HD」則是對應Full HD高畫質的家用移植版作品。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20210318,
+    "first_update_release_date": 20210317,
+    "latest_update_release_date": 20220531,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220531
+    },
+    "versions": {
+        "65536": 20210317,
+        "131072": 20210414,
+        "196608": 20220531
+    },
+    "category": [
+        "射擊",
+        "街機",
+        "動作"
+    ],
+    "intro": "你將見證生命的誕生……將首度採用3D圖像設計的街機版第4代「太空戰鬥機G」完全移植，並提升為高解析度畫質(HD)！",
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

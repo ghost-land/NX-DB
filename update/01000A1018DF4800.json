@@ -1,4 +1,39 @@
 {
     "id": "01000A1018DF4800",
-    "version": 65536
+    "base_tid": "01000A1018DF4000",
+    "name": "Catmaze",
+    "description": "Age-old tales will come to life in the unforgettable adventure of Alesta, a sorceress whose courage guides her through world of the dead.\n\nEmbark on a heroic quest that will take Alesta through gloomy marshes, quaint villages, and deep forests and challenging battles with dangerous mythical beasts.\n\nThe world is filled with characters whose destinies are in your hands, and the completion of many side quests will determine how this adventure will end!\n\nFeatures\n* Run, jump, and explore a 2D metroidvania\n* Battle enemies and powerful bosses\n* Customize your heroic abilities and familiars\n* Enjoy cute, epic fantasy art style\n* Dive into the world inspired by Slavic Mythology\n* The game is developed by one person - Slava Gris, inspired by music from Expecte Amour.",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20220909,
+    "first_update_release_date": 20221017,
+    "latest_update_release_date": 20221017,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221017
+    },
+    "versions": {
+        "65536": 20221017
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Nostalgic metroidvania with innovative role-playing game elements",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

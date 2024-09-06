@@ -1,4 +1,45 @@
 {
     "id": "01000AA018F24800",
-    "version": 458752
+    "base_tid": "01000AA018F24000",
+    "name": "SANABI",
+    "description": "SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.",
+    "publisher": "NEOWIZ",
+    "developer": null,
+    "base_release_date": 20231108,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240818,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240818
+    },
+    "versions": {
+        "196608": 20231123,
+        "262144": 20231211,
+        "327680": 20240116,
+        "393216": 20240318,
+        "458752": 20240818
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood"
+    ],
+    "region": null
 }
