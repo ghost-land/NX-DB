@@ -1,4 +1,49 @@
 {
     "id": "010033500E0DC800",
-    "version": 720896
+    "base_tid": "010033500E0DC000",
+    "name": "Curious Expedition 2",
+    "description": "Curious Expedition 2 comes to Nintendo Switch™! Discover a turn-based narrative roguelike set in a reimagined version of the late 19th century. Weaving procedural gameplay that masterfully combines compelling story elements to create epic adventures every time you play.\n\nFeatures:\n\n- Explore mysterious worlds in a variety of biomes, each featuring a new combination of dangers and opportunities.\n\n- Manage your resources to keep your trek alive and sanity high. Balance greed against your survival needs to find glory without perishing.\n\n- Procedural storytelling makes every adventure unique. Your characters form relationships, change loyalty, develop illnesses, and more in response to the environment and your decisions.\n\n- Embark on an epic campaign that combines roaming risk/reward gameplay with handcrafted stories to create a narrative experience that can be played again and again.\n\n- The Director Mode adds modifiers and features to every expedition that will make your adventures boundless in scope and even more challenging!\n\n- Dice-based combat mechanics require a combination of luck, strategy and guile to emerge victorious against fierce wild animals and legendary creatures.\n\n- Participate in weekly Club Competitions by joining one of the Explorer Clubs online and take on specific challenges in a race against time for even more rewards!",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20231116,
+    "first_update_release_date": 20210811,
+    "latest_update_release_date": 20221103,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20221103
+    },
+    "versions": {
+        "131072": 20210811,
+        "196608": 20211012,
+        "262144": 20220119,
+        "327680": 20220201,
+        "393216": 20220317,
+        "524288": 20220623,
+        "655360": 20220808,
+        "720896": 20221103
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Embark on a myriad of fantastical journeys full of intrigue and wonder at every turn in Curious Expedition 2",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

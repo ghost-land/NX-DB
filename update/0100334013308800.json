@@ -1,4 +1,32 @@
 {
     "id": "0100334013308800",
-    "version": 131072
+    "base_tid": "0100334013308000",
+    "name": "Cosmic Express",
+    "description": "All aboard the Cosmic Express, a delightfully brain-melting game where the puzzles are out of this world! Your job is to lay down the train tracks across a series of tiny space stations. Each alien has a home of their own, and there’s only room for one extraterrestrial at a time in the passenger car. It's cute, harder than it looks, and guaranteed to give you hours of challenging fun across hundreds of levels.\n\n• Fiendishly difficult puzzle design from master puzzle creator Alan Hazelden (A Monster’s Expedition, Sokobond)\n• Ultra-adorable graphics created by Tyu Orphinae (Klondike Collective)\n• Relaxing ambient soundtrack by Nick Dymond (Maia, The Colonists)\n• Play using controllers or using the touch screen",
+    "publisher": "Draknek",
+    "developer": null,
+    "base_release_date": 20210902,
+    "first_update_release_date": 20210830,
+    "latest_update_release_date": 20210914,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210914
+    },
+    "versions": {
+        "65536": 20210830,
+        "131072": 20210914
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Plan train routes for the universe’s most awkward space colony!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

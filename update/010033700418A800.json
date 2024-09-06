@@ -1,4 +1,37 @@
 {
     "id": "010033700418A800",
-    "version": 196608
+    "base_tid": "010033700418A000",
+    "name": "Wulverblade",
+    "description": "Help Britannia defeat the Romans in Wulverblade – a hardcore side-scrolling beat 'em up inspired by classics such as Golden Axe, Sengoku, and Knights of the Round! Experience a historically accurate storyline across eight campaign levels – or test your skills in the game’s deadly arenas. Go it alone or team up with a friend in local two-player co-op. It’s time to show the Ninth Legion what you’re made of!\n\n• Experience a historically accurate storyline spanning eight varied levels.\n• Master retro-inspired combat, including modern enhancements.\n• Team up with a friend – arcade-style– in two-player local co-op.\n• Take in the rich, fully illustrated 2D scenery.\n• Test your skills in a variety of challenging combat arenas.",
+    "publisher": "Darkwind Media",
+    "developer": null,
+    "base_release_date": 20171013,
+    "first_update_release_date": 20180524,
+    "latest_update_release_date": 20181220,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181220
+    },
+    "versions": {
+        "65536": 20180524,
+        "131072": 20180905,
+        "196608": 20181220
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Defend the North",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

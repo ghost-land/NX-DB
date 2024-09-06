@@ -1,4 +1,41 @@
 {
     "id": "010033301A9C0800",
-    "version": 458752
+    "base_tid": "010033301A9C0000",
+    "name": "METAL GEAR SOLID",
+    "description": "Released in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. \nThe storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years.",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20231024,
+    "first_update_release_date": 20231022,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240328
+    },
+    "versions": {
+        "262144": 20231022,
+        "327680": 20231123,
+        "393216": 20240109,
+        "458752": 20240328
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Tactical Espionage Action",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

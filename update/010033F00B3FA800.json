@@ -1,4 +1,37 @@
 {
     "id": "010033F00B3FA800",
-    "version": 65536
+    "base_tid": "010033F00B3FA000",
+    "name": "Anima: Gate of Memories - Arcane Edition",
+    "description": "Anima Gate of Memories Arcane Edition is the complete edition of Gate of Memories, \nAnima: Gate of Memories is a third person action RPG that tells the story of both sides of a unique conflict, a war in the shadows between a girl who has lost her past and an immortal cursed to walk the world until the end of time.\nBut... Which one of them will be our saviour... and which our doom?\n• Play two different full campaigns, each one with its unique story, characters, scenarios and bosses.\n• Gate of Memories features a unique Dual System that allows you to control two different characters and interchange them.\n• Customize your character playstyle each time you level up with a vast set of unique skills.\n• A great story full of memorable characters.\n• A huge world. You can move with freedom, allowing you to retrace your steps and unlock previously inaccessible places.\nNote: Anima Gate of Memories Arcane Edition includes both Anima Gate of Memories and Anima The Nameless chronicles.",
+    "publisher": "Anima Game Studio",
+    "developer": null,
+    "base_release_date": 20180629,
+    "first_update_release_date": 20180628,
+    "latest_update_release_date": 20180628,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180628
+    },
+    "versions": {
+        "65536": 20180628
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null
 }

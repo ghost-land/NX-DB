@@ -1,4 +1,33 @@
 {
     "id": "010034501756C800",
-    "version": 196608
+    "base_tid": "010034501756C000",
+    "name": "モルサッカーオンライン Lite",
+    "description": "※本Lite版は、「PUI PUI モルカー Let's！モルカーパーティー！」（製品版）に収録されているミニゲーム「モルサッカー」のオンラインプレイのみが楽しめるトライアルバージョンとなっております。ご注意ください。\n※インターネット環境およびNintendo Switch Online（有料）への加入が必須です。\n※詳細は製品公式サイトをご確認ください。\n\n【内容】\n「PUI PUI モルカー Let's！モルカーパーティー！」（製品版）に収録されているミニゲーム「モルサッカー」のオンラインプレイを楽しめる基本プレイ無料版です。\n製品版プレイヤーとマッチングする事ができ、製品版へのセーブデータ移行も可能です。",
+    "publisher": "バンダイナムコエンターテインメント",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20220424,
+    "latest_update_release_date": 20221214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221214
+    },
+    "versions": {
+        "65536": 20220424,
+        "131072": 20220818,
+        "196608": 20221214
+    },
+    "category": [
+        "パーティー",
+        "スポーツ"
+    ],
+    "intro": "「PUI PUI モルカー」で白熱オンラインサッカー！\n全国の猛者たちとキックオフ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

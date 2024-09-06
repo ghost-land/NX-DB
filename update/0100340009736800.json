@@ -1,4 +1,40 @@
 {
     "id": "0100340009736800",
-    "version": 65536
+    "base_tid": "0100340009736000",
+    "name": "Jotun: Valhalla Edition",
+    "description": "Jotun is a hand-drawn, action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla.\n\nExplore vast regions of Norse Purgatory to find runes to unleash the jotun, giant Norse elementals. Fight them using only your massive two-handed axe, the blessings of the Gods and your skills! \n\nFeatures: \nExperience beautiful hand-drawn animation, remastered for the Nintendo Switch™!\nFight five epic jotuns, giant Norse elementals \nExplore nine vast and mysterious levels filled with Viking mythology \nSummon powers bestowed upon you by the Viking Gods \nTest your skills in the boss rush Valhalla Mode, featuring fiercer versions of the mighty Jotun",
+    "publisher": "Thunder Lotus Games",
+    "developer": null,
+    "base_release_date": 20180427,
+    "first_update_release_date": 20180503,
+    "latest_update_release_date": 20180503,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180503
+    },
+    "versions": {
+        "65536": 20180503
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Impress the Gods!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

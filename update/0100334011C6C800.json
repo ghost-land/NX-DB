@@ -1,4 +1,40 @@
 {
     "id": "0100334011C6C800",
-    "version": 65536
+    "base_tid": "0100334011C6C000",
+    "name": "どうぶつ大乱島",
+    "description": "どうぶつ大乱島。\nそれはどうぶつ達によるプライドをかけた戦い。\n装着したエアバスターでライバル達を島から叩き落とそう！\n\n個性的で魅力にあふれたキャラクター達。\nそれぞれ戦略をねらなければ生き残れないサマザマなバトルフィールド。\nそれらを組み合わせることによって遊び方はムゲンダイ！\n\nエアバスターを使った簡単操作で誰でも楽しめる、\nマルチプレイで家族や友達と一緒に遊ぼう！\n\n勝利の栄光に輝くのはきみだ！",
+    "publisher": "ナツメアタリ",
+    "developer": null,
+    "base_release_date": 20201022,
+    "first_update_release_date": 20201222,
+    "latest_update_release_date": 20201222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201222
+    },
+    "versions": {
+        "65536": 20201222
+    },
+    "category": [
+        "アクション",
+        "アーケード",
+        "レース"
+    ],
+    "intro": "カッコイイ＆カワイイどうぶつ達！\nエアバスターを使った爽快バトル！\nライバルをたおし、トーナメントの頂点をめざせ！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [],
+    "region": null
 }

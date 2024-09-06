@@ -1,4 +1,46 @@
 {
     "id": "010034400CB5E800",
-    "version": 131072
+    "base_tid": "010034400CB5E000",
+    "name": "Candleman",
+    "description": "Candleman is an action adventure story entwined with low-light gameplay. Acting as a little candle who can burn for only 10 seconds, players will venture through unsettling darkness. Struggle to overcome obstacles based on the mechanics of light and shadow. Explore a wide range of enchanted environments while seeking distant light. Unveil the hidden treasure that concerns us all.",
+    "publisher": "Candleman Games",
+    "developer": null,
+    "base_release_date": 20191003,
+    "first_update_release_date": 20190915,
+    "latest_update_release_date": 20240803,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240803
+    },
+    "versions": {
+        "65536": 20190915,
+        "131072": 20240803
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "Despite only being able to burn for 10 seconds, a little candle journeys into the darkness, with the purpose of seeking the light.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010033601A398800",
-    "version": 65536
+    "base_tid": "010033601A398000",
+    "name": "人の心が読める心理学 ーイラストで学べる深層心理人の心動物ペット心理イラストクイズ－",
+    "description": "イラストを見ながらクイズに答えていくだけで\nかんたんな心理学を学べるゲームです！\n\nこの行動ってどういう意味？\nあの子は自分のことどう思ってる？\nそんなことがわかるようになっちゃうかもしれないゲームです！\nかわいいペットの気持ちがわかるパートもあります♪\n\n明日から人を見る目がちょっと変わるかもしれない知識をぜひ手に入れてください",
+    "publisher": "MASK",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20230125,
+    "latest_update_release_date": 20230125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230125
+    },
+    "versions": {
+        "65536": 20230125
+    },
+    "category": [
+        "学習",
+        "実用",
+        "コミュニケーション",
+        "パーティー"
+    ],
+    "intro": "あの子の気持ちもわかっちゃう！？\nゲームで学べる心理学",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "激しい言葉づかい"
+    ],
+    "region": null
 }

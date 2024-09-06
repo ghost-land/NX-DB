@@ -1,4 +1,34 @@
 {
     "id": "010033E014E3E800",
-    "version": 131072
+    "base_tid": "010033E014E3E000",
+    "name": "Undead Battle Royale",
+    "description": "An extensive arsenal of weapons and a thirst for zombie blood are all that stand between you and a grisly demise in the pick-up-and-play action of Undead Battle Royale!\nThe undead have risen. Civilisation has fallen. Now only one person can bring humanity back from the brink: you! Survive the onslaught, slaughter your foes, and seize victory!\n\n[Single]\nSend your enemies back to the grave with all kinds of weapons and vehicles!\nThink you're safe indoors? Think again!\nWatch out for helicopters attacking from the air!\nComplete missions and top the scoreboard!\n\n[Multi]\nPlayable with 2-4 players!\nWork together to exterminate your undead foes!\nKill giant zombies to earn giant bonuses!\nCompete with your friends for the highest score!\nBattle other players to find out who's really the best!\nLocal Multiplayer\nPlayable with 2-4 players!\nConnect to a shared network and battle it out online!\nAll scores are hidden from other players, ensuring competition is fierce right up to the last second!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20221116,
+    "latest_update_release_date": 20221116,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221116
+    },
+    "versions": {
+        "131072": 20221116
+    },
+    "category": [
+        "Party",
+        "Shooter",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Mow down zombies and top the scoreboard in co-op/competitive multiplayer survival gameplay!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violência"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "010033A0144E6800",
-    "version": 196608
+    "base_tid": "010033A0144E6000",
+    "name": "As Far As The Eye",
+    "description": "You play as the wind guiding the Pupils, a tribe that must reach the center of the world. You’ll have to manage their resources, their buildings, and their lives. Help them grow wiser through agriculture, crafting, scientific and mystical research before the world is submerged. Be careful though, you have to manage your tribe perfectly and make sure they’re not starving or taken by surprise by the waters.\n\n- Plan the best path for your tribe to take in order to go as far as the Eye.\n- Explore, analyze and search places of interest for long lost treasures on a procedurally generated journey.\n- Harvest, build, stock and leave your halt before the wave engulfs your tribe.\n- Improve your pupils through the job system, your buildings through the improvement system and your whole tribe through Tribe's Knowledge.\n- Survive dire conditions and protect the Pupils against random events.\n- Meet allies, negotiate for resources, recruit new Pupils and more!\n- Make offerings in Sacred Sites or plunder them, but never forget you'll have to bear the consequences of your actions.\n- Live a peaceful adventure as there are no enemies in As Far As The Eye\n- Relive a new adventure each time thanks to our Roguelike tribe system.",
+    "publisher": "Goblinz Studio",
+    "developer": null,
+    "base_release_date": 20220429,
+    "first_update_release_date": 20220428,
+    "latest_update_release_date": 20220802,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220802
+    },
+    "versions": {
+        "65536": 20220428,
+        "131072": 20220520,
+        "196608": 20220802
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": "Build a mobile village and travel with your tribe toward the center of the world, called The Eye.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

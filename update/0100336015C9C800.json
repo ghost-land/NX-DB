@@ -1,4 +1,37 @@
 {
     "id": "0100336015C9C800",
-    "version": 262144
+    "base_tid": "0100336015C9C000",
+    "name": "Red Square Escape 2",
+    "description": "Red square escape 2 is the sequel to the beloved difficult top down 2D movement game where you are the red square and have to escape through different levels. Each level is spiked with traps and obstacles you need to overcome. Simple controls, simple art style and simple fun are guaranteed here. Have you got the skills to escape?\n\nFeatures :\n- Simple controls\n- 40 levels",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210906,
+    "first_update_release_date": 20210904,
+    "latest_update_release_date": 20220603,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220603
+    },
+    "versions": {
+        "65536": 20210904,
+        "131072": 20210916,
+        "196608": 20211005,
+        "262144": 20220603
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Strategy",
+        "Lifestyle"
+    ],
+    "intro": "A sequel to the beloved difficult 2D top down movement game with interesting level design and simple art style.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
