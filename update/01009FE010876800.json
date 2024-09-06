@@ -1,4 +1,35 @@
 {
     "id": "01009FE010876800",
-    "version": 65536
+    "base_tid": "01009FE010876000",
+    "name": "페르소나 5 스크램블 더 팬텀 스트라이커즈",
+    "description": "「페르소나 5」의 엔딩으로부터 약 6개월  후,\n여름 방학에 다시 모인 마음의 괴도단은\n새로운 사건에 휘말리게 된다...\n전국 각지에서 의문의 괴사건 발생.\n왜곡된 어른의 인지 세계, 팰리스가 부활? \n또다시 괴도복을 몸에 걸치고 \n일동은 새로운 사건 해결을 위해 나선다...\n\n본 타이틀에서는 주인공 (조커)은 물론\n괴도단 멤버를 직접 조작할 수 있다!\n캐릭터에게 친숙한 무기, 총, 스킬을\n교묘하게 활용하여 섀도들이 가득한 거리를\n화려하게 헤쳐나가라!",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20200618,
+    "first_update_release_date": 20200617,
+    "latest_update_release_date": 20200617,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200617
+    },
+    "versions": {
+        "65536": 20200617
+    },
+    "category": [
+        "액션",
+        "RPG",
+        "어드벤처",
+        "격투"
+    ],
+    "intro": "페르소나 시리즈 최초의\n액션 RPG로 등장!",
+    "isDemo": false,
+    "languages": [
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "선정성",
+        "폭력성"
+    ],
+    "region": null
 }

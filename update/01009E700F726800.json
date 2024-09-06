@@ -1,4 +1,35 @@
 {
     "id": "01009E700F726800",
-    "version": 262144
+    "base_tid": "01009E700F726000",
+    "name": "Edgar - Bokbok in Boulzac",
+    "description": "You are eccentric outcast Edgar, living in the woods with your chicken and beloved squash crops. Unfortunately, a sudden disaster forces you out of your shack and towards the bright lights of the big city, Boulzac, where an 800 year old fire rages beneath the surface, and weird things are afoot.\nExplore a strange and comic universe, meeting its unhinged (and unforgettable) inhabitants and discovering ancient secrets. Unveil the surreal conspiracy holding Boulzac together. Trek above and below the light city. Enjoy whip-smart dialogue, surreal adventures and satire. Equal parts whimsical and dark: you’ve not met a cosmic horror like this before.\nIt is developed by La Poule Noire, a cooperative that aims, through its productions, to make fun of social trends. In Edgar, conspiracy theory is at the heart of the plot.",
+    "publisher": "La Poule Noire",
+    "developer": null,
+    "base_release_date": 20200227,
+    "first_update_release_date": 20200302,
+    "latest_update_release_date": 20200331,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200331
+    },
+    "versions": {
+        "65536": 20200302,
+        "196608": 20200305,
+        "262144": 20200331
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Crackpot outcast Edgar sets out to Boulzac to save his squash, and instead uncovers an unearthly secret at the heart of the city. A colourful, surreal and utterly bonkers narrative adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

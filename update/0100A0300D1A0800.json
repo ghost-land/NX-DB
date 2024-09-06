@@ -1,4 +1,38 @@
 {
     "id": "0100A0300D1A0800",
-    "version": 131072
+    "base_tid": "0100A0300D1A0000",
+    "name": "Hellmut: The Badass from Hell",
+    "description": "Take control of various Transformations and unlock new Transformations each time you complete the game.\n\nChallenge randomly generated bosses across the randomly generated world, defeat demonic hordes, loot valuable treasures and soulstones, equip powerful weapons and use all your skills to save humanity! Or at the very least, save yourself, which feels at least as good as saving humanity.\n\nEach Transformation gives you new ways of slaughtering yet more hordes of demons! Command rats as the Rat King, become the Orc Fairy with her mighty spells (well, as mighty as an Orc Fairy can cast...), dip enemies in the questionable goo of the Slimeball, or become many other ludicrous monstrosities.",
+    "publisher": "2tainment",
+    "developer": null,
+    "base_release_date": 20190503,
+    "first_update_release_date": 20190425,
+    "latest_update_release_date": 20190425,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190425
+    },
+    "versions": {
+        "65536": 20190425
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Hellmut: The Badass from Hell is a fast-paced bullet-storm dungeon crawler that cranks the nonsense up to 11 and puts you right in the thick of it.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

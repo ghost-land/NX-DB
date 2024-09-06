@@ -1,4 +1,38 @@
 {
     "id": "0100A00012652800",
-    "version": 196608
+    "base_tid": "0100A00012652000",
+    "name": "Restless Hero",
+    "description": "You are about to be a part of an adventure of the Dark Age. Follow Rick in his damned path of vengeance and help him to redeem his soul.\n\nThe life of your beloved is in danger. Hurry up and make a wise choice. Along the way complete challenging platforming levels and upgrade your powers.\n\nUnfold the story by reading dialogs and finding crucial items on the levels. Items are key to the puzzle of the story. There are a variety of obstacles for you that can be destroyed\nwith the help of power. Castle has 3 floors with its set of enemies and obstacles. Find a key to defeat each enemy. Explore the castle and find all of the hidden chests!\n",
+    "publisher": "Restless Corp",
+    "developer": null,
+    "base_release_date": 20201023,
+    "first_update_release_date": 20201013,
+    "latest_update_release_date": 20201109,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201109
+    },
+    "versions": {
+        "65536": 20201013,
+        "131072": 20201102,
+        "196608": 20201109
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "You are about to be a part of an adventure of the Dark Age. Follow Rick in his damned path of vengeance and help him to redeem his soul.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "01009E700DB2E800",
-    "version": 131072
+    "base_tid": "01009E700DB2E000",
+    "name": "Bee Simulator",
+    "description": "See the world through the eyes of a bee! Explore a world inspired by Central Park where you can take part in bee races, collect pollen from rare flowers and defy dangerous wasps.\nPlay with friends or family in three game modes, including co-op and PvP on split screen.\n\nThe hive awakens as the sun's first rays warm the horizon. It's time to test your wings, receive orders from the Queen and begin your first mission. And that's just the start of your adventures. Humans want to cut down the tree that holds your hive, so your fate – and that of the whole swarm – rests on your tiny shoulders!\n\n",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230622,
+    "first_update_release_date": 20191031,
+    "latest_update_release_date": 20191219,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191219
+    },
+    "versions": {
+        "65536": 20191031,
+        "131072": 20191219
+    },
+    "category": [
+        "Education",
+        "Simulation",
+        "Adventure",
+        "Study"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

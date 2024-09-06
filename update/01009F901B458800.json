@@ -1,4 +1,40 @@
 {
     "id": "01009F901B458800",
-    "version": 262144
+    "base_tid": "01009F901B458000",
+    "name": "Lunar Lander Beyond",
+    "description": "As a newly appointed captain of the Pegasus corporation, you must guide a roster of colorful pilots, eclectic advisors and state-of-the-art landers through a taxing series of missions. Deliver cargo, retrieve resources, and rescue stranded pilots as you navigate a mysterious universe of moons and planets.\n\nIt’s a thankless job, replete with tension and danger, and it takes a psychological toll on your crew. But someone has to keep this unseen lifeblood of the interplanetary economy moving.\n\nWhen a mysterious portal appears, leading to a strange, unexplored planet, you will find you are on a collision course with some sinister truths that lie unseen behind the universe. Poor flying and fatigue will stress your pilots, and can lead to sensory illusions … the bane of long-haul solo pilots. They may start to see things that may not be real – is that a mine or a fish? And what’s with those celestial pink elephants?!\n\nWith multiple pilots, four ships and a dozen upgrades to collect, you can get the job done if you can manage it all … if not, the stakes are high, and not just for your career.\n\nFeatures\n\nBeautiful Art: a luxurious sci-fi landscape in Dreams Uncorporated’s unique, hand-drawn style\n\nDeep Campaign: Tackle 30 missions across five moons and planets: Nueva Luna, Mars, Venus, Ganymede, and the mysterious Etimus\n\nDifficulty Settings: Four difficulty levels, with the highest one, insane, raising the stakes with permadeath\n\nCustomization: Countless pilot options, with procedurally generated characters and attributes, four unique ships, and a dozen upgrades to equip\n\nDon’t Go Mad: Keep your wits about you – rising stress will lead to hallucinations and space madness!",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20240423,
+    "first_update_release_date": 20240402,
+    "latest_update_release_date": 20240523,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240523
+    },
+    "versions": {
+        "65536": 20240402,
+        "131072": 20240415,
+        "196608": 20240523,
+        "262144": 20240523
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Guide a roster of colorful pilots, eclectic advisors and state-of-the-art landers through a taxing series of missions. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes and violence"
+    ],
+    "region": null
 }

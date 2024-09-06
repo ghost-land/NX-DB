@@ -1,4 +1,52 @@
 {
     "id": "01009FA010848800",
-    "version": 524288
+    "base_tid": "01009FA010848000",
+    "name": "Rogue Heroes: Ruins of Tasos",
+    "description": "Rogue Heroes is a 4-player classic adventure game with modern rogue-lite elements.\n\nA dark evil stirs beneath the once peaceful land of Tasos… Deep within the four Great Dungeons, the ancient seals that hold the Titans at bay are gravely weakened and their minions have unleashed terror upon the world.\n\nThe Goddesses who forged the seals long ago have made a desperate plea for a band of heroes to come forth and save the people from a terrible fate…",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20221104,
+    "first_update_release_date": 20210126,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20210126,
+        "131072": 20210222,
+        "196608": 20210331,
+        "262144": 20210518,
+        "393216": 20220331,
+        "458752": 20220407,
+        "524288": 20220607
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "Team up with friends to combat procedural dungeons, explore an expansive overworld full of secrets and take down the Titans to save the once peaceful land of Tasos!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Users Interact"
+    ],
+    "region": null
 }

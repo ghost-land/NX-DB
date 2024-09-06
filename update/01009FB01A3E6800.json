@@ -1,4 +1,35 @@
 {
     "id": "01009FB01A3E6800",
-    "version": 196608
+    "base_tid": "01009FB01A3E6000",
+    "name": "HEXAPODA",
+    "description": "After the last human war, gases were spread through the atmosphere, making it unbreathable. \nThe richest fled to orbital colonies and the others took refuge underground.\n\nYou are a young hothead, hired by a team of scientists left on earth who are looking for a solution to bring humans back to the surface.\n\nPlayable from 1 to 4 players (local co-op), \nHexapoda is inspired by Arcade classics.\n\n - 3 Game Modes : Normal , Hard and Manic.\n - Unlock 3 Different endings, new features and new items.\n - 12 stages\n - 4 futuristic combat aircrafts with their own style of shooting\n - A bestiary composed of giant insects\n - Unlock all the 30 \"in-game\" achievements\n - Local leaderboards for each game mode.\n\nPowered by an original epic soundtrack composed by the French band of electronic music: Double Dragon.",
+    "publisher": "TOMAGameStudio",
+    "developer": null,
+    "base_release_date": 20230519,
+    "first_update_release_date": 20230511,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20230511,
+        "131072": 20230526,
+        "196608": 20240317
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Get ready to fight giant Insects for the future of humanity!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Language"
+    ],
+    "region": null
 }

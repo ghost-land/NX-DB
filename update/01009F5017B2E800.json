@@ -1,4 +1,44 @@
 {
     "id": "01009F5017B2E800",
-    "version": 196608
+    "base_tid": "01009F5017B2E000",
+    "name": "Hourglass",
+    "description": "In Hourglass you can create a time-clone of yourself to solve challenging puzzles. You will play as Aywa, a young adventurer who is traveling to Egypt to find her missing father - an archeologist, who never returned from his latest expedition.",
+    "publisher": "Secret Item Games",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20220629,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20220629,
+        "131072": 20220704,
+        "196608": 20220923
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,68 @@
 {
     "id": "01009EF00DDB4800",
-    "version": 1507328
+    "base_tid": "01009EF00DDB4000",
+    "name": "Knockout City™",
+    "description": "\"Season 9 is the final season of Knockout City™, and it’s loaded with surprises! Grab a dodgeball and brawl in a full season’s worth of content until public servers close on June 6th, 2023. Visit knockoutcity.com for all the details.\n\nDuke it out in Knockout City™, where team-based multiplayer Crews settle the score in free-to-play dodgebrawl action. Brace yourself for outrageous fun and intense competition in an all-new take on teambased multiplayer games.\n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate’s hands and become the ultimate projectile.\n\nA variety of outlandish ball types, locations and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events and challenges. Throw, catch, pass, dodge and tackle your way to dodgeball dominance in Knockout City!\"\n",
+    "publisher": "Velan Studios",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20210513,
+    "latest_update_release_date": 20230228,
+    "latest_update": {
+        "version": "1507328",
+        "release_date": 20230228
+    },
+    "versions": {
+        "65536": 20210513,
+        "131072": 20210526,
+        "196608": 20210614,
+        "262144": 20210621,
+        "327680": 20210708,
+        "393216": 20210727,
+        "458752": 20210805,
+        "524288": 20210909,
+        "589824": 20211005,
+        "655360": 20211028,
+        "720896": 20211207,
+        "786432": 20211217,
+        "851968": 20220301,
+        "917504": 20220316,
+        "983040": 20220601,
+        "1048576": 20220705,
+        "1114112": 20220830,
+        "1179648": 20220927,
+        "1245184": 20221018,
+        "1310720": 20221201,
+        "1376256": 20230110,
+        "1441792": 20230126,
+        "1507328": 20230228
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "Throw, catch, pass, dodge, and tackle your way to glory!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
