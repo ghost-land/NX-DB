@@ -1,4 +1,38 @@
 {
     "id": "0100DAD0137B0800",
-    "version": 65536
+    "base_tid": "0100DAD0137B0000",
+    "name": "Chess Royal",
+    "description": "In this game you can play chess against powerful chess engine or face-to-face against your friends. If you want to play against the engine, choose the strength of it so you can be challenged appropriatelly. \n\nIn the Puzzle Tower, your objective is to find solution to the presented chess problems. \n\nFeatures:\n- Strong AI\n- Play face-to-face\n- Chess puzzles\n- Achievements",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211112,
+    "first_update_release_date": 20221206,
+    "latest_update_release_date": 20221206,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221206
+    },
+    "versions": {
+        "65536": 20221206
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "Begin your chess journey!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

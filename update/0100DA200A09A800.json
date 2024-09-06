@@ -1,4 +1,41 @@
 {
     "id": "0100DA200A09A800",
-    "version": 65536
+    "base_tid": "0100DA200A09A000",
+    "name": "Kero Blaster",
+    "description": "You play a bipedal frog employed by the mysterious start-up company 'Cat & Frog Inc.'.\nFend off enemies seeking to stop you and overcome the challenging landscape as you head towards your destination.\n\nWhen you start the game, you'll likely be surprised by your paltry amount of life and your dodgy weapon.\nAnd when the frog runs out of life, he 'enters hospital' and has to restart from the beginning of the stage.\nBut you can keep collecting and saving up money to go 'shopping' to increase your life and carefully select powered-up weapons to take down enemies you couldn't defeat before.\nThe further you get, the stronger you can feel yourself becoming - and it feels good.\n\nThe characters appearing in between stages are the game's other charm point.\nYou'll meet your co-worker, who is a cat (for some reason), your president (also a cat), and an office lady of indeterminate species.\nThey work like us, slog through overtime like us, whinge, get berated, and even comfort each other, just like us.\n\nExperience the unique and intricately detailed world of Kero Blaster!",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20180823,
+    "first_update_release_date": 20181023,
+    "latest_update_release_date": 20181023,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181023
+    },
+    "versions": {
+        "65536": 20181023
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "A frog has the adventure of a lifetime\nin this lovely stage-based action game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100D9B00E22C800",
-    "version": 131072
+    "base_tid": "0100D9B00E22C000",
+    "name": "Rebel Cops",
+    "description": "Rebel Cops is a spin-off game from This Is the Police, which exclusively features the series' turned-based tactical operations. Lead a rag-tag squad of cops in rebellion against their town's new criminal power, and see how long you can hold out when you're constantly short on supplies, and a single shot can cost a cop his life.\n\n - You’re not exactly the police, but you're the only ones on the side or justice\n\n- Gunfights are thrilling, but stealth is key\n\n- Explore, scavenge, and watch your back  \n\n- Take the high road, or the low road\n",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20190917,
+    "first_update_release_date": 20191002,
+    "latest_update_release_date": 20191023,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191023
+    },
+    "versions": {
+        "65536": 20191002,
+        "131072": 20191023
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
+    "region": null
 }

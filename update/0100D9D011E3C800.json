@@ -1,4 +1,46 @@
 {
     "id": "0100D9D011E3C800",
-    "version": 196608
+    "base_tid": "0100D9D011E3C000",
+    "name": "Wildfire",
+    "description": "Use your elemental powers to start fires, freeze water, and move earth as you outsmart superstitious enemies in this mischievous 2D stealth game. Take back your home and rescue captive villagers along the way; manipulating the environment to help you and harm your foes.\n\nIn a world where magic has all but died out, you’ve been branded a witch by villainous forces who fear your elemental power. Outsmart the superstitious armies of the Arch Duchess as they hunt you through lush forests, deep caverns, and over frozen mountaintops. Find and free your fellow villagers from captivity, then lead them to safety to reclaim your home.\n\nFeatures\n- Manipulate Your Environment. Use fireballs to set the world ablaze, freeze water to cross impassable lakes or trap your enemies in ice, and move earth itself to grow grass to hide in or vines to climb.\n- Master the Elements. You'll learn new abilities as your connection to the elements grow, but beware; fire will spread and consume everything in its path - including you!\n- Outsmart Your Enemies. Use the environment to your advantage as you evade and engage the Arch Duchess' forces, intelligent enemies that work together to hunt you down.\n- Burn the World...With a Friend. Play solo or have a friend join you, wielding your elemental powers in tandem, creating new ways through Wildfire’s dense, systemic environment.",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20230623,
+    "first_update_release_date": 20201119,
+    "latest_update_release_date": 20210729,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210729
+    },
+    "versions": {
+        "65536": 20201119,
+        "131072": 20210325,
+        "196608": 20210729
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "Master the elements in this stealth game where everything burns.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

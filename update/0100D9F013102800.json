@@ -1,4 +1,37 @@
 {
     "id": "0100D9F013102800",
-    "version": 131072
+    "base_tid": "0100D9F013102000",
+    "name": "Outbreak Lost Hope",
+    "description": "Experience a mother's desperate search for her daughter in the midst of a nation-wide epidemic. Taking place in the Outbreak universe by Dead Drop Studios, this story follows Gwen just after her harrowing escape from an urban center during the outbreak. A terrible accident causes her to get separated from her daughter Hope and she has to fight the undead to survive... and save her daughter.",
+    "publisher": "Dead Drop Studios",
+    "developer": null,
+    "base_release_date": 20201218,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220813,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220813
+    },
+    "versions": {
+        "65536": 20220720,
+        "131072": 20220813
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "Experience a mother's desperate search for her daughter in the midst of a nation-wide undead epidemic.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

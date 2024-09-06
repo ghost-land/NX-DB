@@ -1,4 +1,41 @@
 {
     "id": "0100DA400F624800",
-    "version": 131072
+    "base_tid": "0100DA400F624000",
+    "name": "PHOGS!",
+    "description": "In PHOGS! you play as a duo of dogs on a captivating, puzzle-filled adventure. Linked by a stretchy belly, you’ll need to bark, bite and bounce your way through obstacles set across the themed worlds of Food, Sleep and Play, in co-op or single-player.\n\nForage through Food World, teeming with tasty treats. From hot buttered toast to chopped celery... even a river of chocolate!\n\nStroll through Sleep World, complete with teddy bears, cushions and quilts, all nestled in the glow of the soothing night-light. \n\nPounce through the crazy toybox of Play World, exploring a beach amusement park, a retro arcade, and everything in between. Woof!\n\nSupporting single-player and shared-controller gameplay, plus local and online co-op, Red and Blue are always ready to play!",
+    "publisher": "Coatsink Software",
+    "developer": null,
+    "base_release_date": 20201203,
+    "first_update_release_date": 20201124,
+    "latest_update_release_date": 20201124,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201124
+    },
+    "versions": {
+        "131072": 20201124
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

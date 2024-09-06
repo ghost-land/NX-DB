@@ -1,4 +1,45 @@
 {
     "id": "0100D9B00DB5E800",
-    "version": 262144
+    "base_tid": "0100D9B00DB5E000",
+    "name": "Super Cane Magic ZERO",
+    "description": "Cake the Wizard is dead, and his Magic Dog is out of control! Can you save the world? Can you save the Dog?\nVenture the dangerous hills of Minestronya as Dude, a Baker with the power of bacon! Confront angry firepeople\nas Dudette, the unstoppable Plumber! Defrost the laser volcano as Dudward, the Candy-Healer-Wizard,\nor just be awesome as Dudorah the Influencer!\nSuper Cane Magic ZERO is a local co-op Action RPG for 1 to 4 players.\n\n- More than 20 hours of crazy story and characters from cartoonist Simone \"Sio\" Albrigi\n- Challenge your friends in 8 furious local-multiplayer arenas\n- Unlock more than 15 playable characters with crazy abilities\n- Explore the world of WOTF and loot hundreds of randomized and unique items!\n- Follow your tastes and find a balanced diet. Eat at least four types of rock!\n- Choose what to believe in and make it real! Improve your abilities by unlocking 7 belief trees\nBig Couch not supplied.",
+    "publisher": "STUDIO EVIL",
+    "developer": null,
+    "base_release_date": 20190509,
+    "first_update_release_date": 20190530,
+    "latest_update_release_date": 20210901,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210901
+    },
+    "versions": {
+        "65536": 20190530,
+        "131072": 20190906,
+        "196608": 20200310,
+        "262144": 20210901
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Gear up, eat rocks, throw banana-boomerangs and fight a Giant Potato! Save a Magic Dog in this local co-op action RPG for 1 to 4 players!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

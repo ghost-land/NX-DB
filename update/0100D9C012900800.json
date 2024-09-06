@@ -1,4 +1,40 @@
 {
     "id": "0100D9C012900800",
-    "version": 131072
+    "base_tid": "0100D9C012900000",
+    "name": "Citizens Unite!: Earth x Space",
+    "description": "Citizens Unite!: Earth x Space includes “Citizens of Earth”, where the rookie Vice President and fellow Citizens investigate the strange mysteries cropping up all over Earth, and “Citizens of Space” where the Earth’s new Ambassador embarks on a journey to find the missing Earth with the help of Citizens across the galaxy.\n\nThis time the two adventures have united with brand-new elements. Recruit 88 Citizens with unique abilities to save the Earth in both time-periods! Time travel back-and-forth between “Citizens of Earth” and “Citizens of Space”, unlocking new content and revealing the true ending!\n\nUnite the Citizens to save the timeline from secretive foes operating behind the scenes!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20210129,
+    "first_update_release_date": 20210405,
+    "latest_update_release_date": 20211020,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211020
+    },
+    "versions": {
+        "65536": 20210405,
+        "131072": 20211020
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Unite the Citizens to save the timeline in a hilarious action-packed adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }
