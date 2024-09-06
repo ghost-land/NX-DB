@@ -1,4 +1,42 @@
 {
     "id": "0100CDC00C40A800",
-    "version": 65536
+    "base_tid": "0100CDC00C40A000",
+    "name": "Omensight: Definitive Edition",
+    "description": "From the award-winning creators of Stories: The Path of Destinies, Omensight is an Action Murder-Mystery game.\nYou are the Harbinger, a powerful mystical warrior. You have witnessed the destruction of the world. In order to prevent annihilation you are destined to repeat that fateful day and solve the murder of the Godless-Priestess, whose death precipitated the apocalypse.",
+    "publisher": "Spearhead Games",
+    "developer": null,
+    "base_release_date": 20181214,
+    "first_update_release_date": 20190422,
+    "latest_update_release_date": 20190422,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190422
+    },
+    "versions": {
+        "65536": 20190422
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

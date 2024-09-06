@@ -1,4 +1,37 @@
 {
     "id": "0100CE300E48C800",
-    "version": 65536
+    "base_tid": "0100CE300E48C000",
+    "name": "River City Ransom",
+    "description": "■Introduction\nPlay as Alex and Ryan and cross River City to fight street gangs \nand save your girlfriend from the hands of a bad guy named \"Slick.\"\nImprove your fighting experience by powering-up your characters in River City's shops, \npicking-up items for bonuses and using the trash bins and pipes you will find in its streets.\n\nCome and enjoy the original River City Ransom gameplay, that is still being praised nowadays!\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering\nBug Fixes",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200416,
+    "latest_update_release_date": 20200416,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200416
+    },
+    "versions": {
+        "65536": 20200416
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The original River City Ransom for NES \nand its featured quality-up version are now available!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Suggestive Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

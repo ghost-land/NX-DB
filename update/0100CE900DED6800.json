@@ -1,4 +1,38 @@
 {
     "id": "0100CE900DED6800",
-    "version": 65536
+    "base_tid": "0100CE900DED6000",
+    "name": "Fort Boyard",
+    "description": "Cross the threshold of Fort Boyard and complete the challenges!\n\nEnter Fort Boyard and take up the challenge with more than 10 activities that combine Action and Party Games! Endurance, dexterity, and perseverance will be your best assets for collecting boyard coins.\n\nFort Boyard as if you were there: \n\nInside this stone vessel posed on the sea, relive the thrills of the teams that have trodden the ground of Fort Boyard! In solo or multiplayer mode, take up the challenge by completing each of the activities to be found in the Fort and collect all the keys that will lead you to the treasure. \nYour turn! Collect as many boyard coins as possible.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20190627,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190626
+    },
+    "versions": {
+        "65536": 20190626
+    },
+    "category": [
+        "Action",
+        "Sports",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Fort Boyard the game: as if you’re really there!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

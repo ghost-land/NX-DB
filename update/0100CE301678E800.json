@@ -1,4 +1,35 @@
 {
     "id": "0100CE301678E800",
-    "version": 65536
+    "base_tid": "0100CE301678E000",
+    "name": "Letters - a written adventure",
+    "description": "Letters is a cozy, often funny, sometimes sad game about friendship, courage and the power of words.\nYou journey back to the 90s and 2000s to follow the story of Sarah, moving through her beautifully hand-drawn letters and nostalgic pixel worlds.\nHelp her navigate all the ups and downs of growing up and decide what kind of person she'll become.\nUse words to solve riddles and explore Sarah's colorful world full of wacky characters, relatable stories and bad puns.\n\nFeatures\n- comfy, playful & casual game that focuses on narration and having fun with words\n- relatable coming of age story, inspired by real-life\n- clever riddles that you can solve with the power of words\n- beautifully hand-drawn visuals & pixel art evolving with Sarah’s age\n- branching storyline where you can discover new possibilities with every playthrough\n- good for practicing English skills in a fun way",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20220209,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20220201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220201
+    },
+    "versions": {
+        "65536": 20220201
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "A heartwarming coming of age story about finding the right words.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

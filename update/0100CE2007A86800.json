@@ -1,4 +1,42 @@
 {
     "id": "0100CE2007A86800",
-    "version": 65536
+    "base_tid": "0100CE2007A86000",
+    "name": "Old Man's Journey",
+    "description": "Old Man’s Journey, a soul-searching puzzle adventure, tells a story of life, loss, reconciliation, and hope. Entrenched in a beautifully sunkissed and handcrafted world, embark on a heartfelt journey interwoven with lighthearted and pressure-free puzzle solving. \n\nA visual narrative about life’s precious moments, broken dreams, and changed plans, uncover stories of the old man’s life told through beautiful vignettes of his memories. Interacting with the serene and whimsical environment, solve playful puzzles by shaping the landscape, growing the hills to create the old man’s path forward.\n\nDuring this compact gameplay experience, you’ll be transported to a vibrant and wishful world, exploring life’s complexities through the old man’s eyes. Meditatively delightful and reflective, Old Man’s Journey invites you to immerse yourself in quiet and inquisitive puzzles, and experience the old man’s heartache, regret, and hope.",
+    "publisher": "Broken Rules",
+    "developer": null,
+    "base_release_date": 20180220,
+    "first_update_release_date": 20190104,
+    "latest_update_release_date": 20190104,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190104
+    },
+    "versions": {
+        "65536": 20190104
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "A heartfelt game about life, loss and hope.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

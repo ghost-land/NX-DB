@@ -1,4 +1,42 @@
 {
     "id": "0100CE201946A800",
-    "version": 65536
+    "base_tid": "0100CE201946A000",
+    "name": "Rumble Sus",
+    "description": "*Nintendo Switch™ Lite users will require extra vibrating-supporting controllers to play local multiplayer mode, as the vibration feature is needed.\n\nRumble Sus is a fast-paced social deduction party game.  Players learn their identity at the beginning by whether or not their controller is rumbling without others knowing.  Once the game starts, the Traitors need to find teammates and try to defeat all the Innocents without being exposed.  Meanwhile, the Innocents need to utilize items on the map and their wit to find dubious players and defeat all the Traitors.  Pick up your controller and have a chaotic game full of laughter and suspicion with your friends!  \n\n-> Support a maximum of 8 local players for one machine\n-> Players learn their identity by controller rumble before the game starts \n-> Get a radar and feel the rumble to detect the Traitor\n-> No need to vote, punch or bomb your enemy directly\n-> Teamwork can be the key to winning but can also destroy friendships",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20230223,
+    "first_update_release_date": 20230228,
+    "latest_update_release_date": 20230228,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230228
+    },
+    "versions": {
+        "65536": 20230228
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Innocents Vs. Traitors!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

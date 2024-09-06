@@ -1,4 +1,38 @@
 {
     "id": "0100CDD013178800",
-    "version": 131072
+    "base_tid": "0100CDD013178000",
+    "name": "Arcade Archives ARABIAN",
+    "description": "\"ARABIAN\" is an action game released by SUNSOFT in 1983.\nSet in ancient Persia, a young Arabian boy embarks on a journey to rescue a captured princess.\nOn ships, in caves, and in palaces... Make full use of various actions to collect the magic vases!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20201009,
+    "first_update_release_date": 20210120,
+    "latest_update_release_date": 20210614,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210614
+    },
+    "versions": {
+        "65536": 20210120,
+        "131072": 20210614
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Rescue the princess, collect the vases!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

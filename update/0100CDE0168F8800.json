@@ -1,4 +1,38 @@
 {
     "id": "0100CDE0168F8800",
-    "version": 196608
+    "base_tid": "0100CDE0168F8000",
+    "name": "Rainbow Yggdrasil",
+    "description": "Rainbow Yggdrasil is a roguelike game\nThe color of heroine, monsters and even dungeons change into various colors.\nWe use \"RGB\" as an abbreviation to express color. In this world of Rainbow Yggdrasil, RGB itself becomes the parameter. Please experience this brand new game design.\n\n# Deep world view and scenario\nScenario mode is consist of with total 30 dungeons.\nA girl explores an iridescent world tree \"Rainbow Yggdrasil\" in a white world. Can she find the truth of the world?.\n\n# Roguelike game’s endless journey awaits you\nAuto-generated dungeons, the greatest feature of roguelike game, will invite you to an infinite labyrinth of Yggdrasil.\nYou can enhance/synthesize items and compete your clear turns with other players all over the world.\n\n=== Prologue ===\n\n-On that day, I woke up in a white world.\n\nI had no memory before I fell asleep. The only thing I remember is...\nthat I am \"human\" being.\n\nIn my sight, there is a vast world of nothingness...\nand a huge world tree shining in rainbow.\n\nWhy has the world become like this?\nWhat does that world tree exist for?\n\nWhy I can recognize \"that\" is \na world tree by just one look?\n\nI must understand...\n\nabout this world, \nand about myself.\n\nI had nowhere to go anyway, \nso I started walking to the tree.",
+    "publisher": "Otorakobo",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220420,
+    "latest_update_release_date": 20220516,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220516
+    },
+    "versions": {
+        "65536": 20220420,
+        "131072": 20220512,
+        "196608": 20220516
+    },
+    "category": [
+        "RPG",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "In a white world, the rainbow world tree stands...\nVery original world view in a new game genre\nColor Change x Roguelike",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

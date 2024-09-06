@@ -1,4 +1,37 @@
 {
     "id": "0100CDB01E606800",
-    "version": 65536
+    "base_tid": "0100CDB01E606000",
+    "name": "Mika and the Witch's Mountain",
+    "description": "This coming-of-age journey will take us to the top of the mountain through a story of effort, friendship, and community; and will let our hearts fly free.\n\nTake your magic broom and discover all the secrets hidden in the mountain while getting to know its charming inhabitants. Work hard and get a magic broom good enough to achieve your goal: to go to the top of the mountain.\n\nThe heart of the game is a pleasant and fulfilling fly sensation. Mika will soar the skies while exploring the beautiful landscapes of Mont Gaun in her journey to the top of the mountain.\n\nMika will deliver packages to the villagers all over the island and they will rate her service. That way she will earn money to get new brooms with unique flying capabilities.",
+    "publisher": "CHIBIG",
+    "developer": null,
+    "base_release_date": 20240821,
+    "first_update_release_date": 20240821,
+    "latest_update_release_date": 20240821,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240821
+    },
+    "versions": {
+        "65536": 20240821
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Mika and the Witch’s Mountain is a fantasy adventure about an aspiring witch who delivers packages to the townspeople of a small island.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

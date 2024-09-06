@@ -1,4 +1,35 @@
 {
     "id": "0100CEE0140CE800",
-    "version": 65536
+    "base_tid": "0100CEE0140CE000",
+    "name": "SD건담 지 제네레이션 제네시스 for Nintendo Switch",
+    "description": "되살아나는 명장면! 수록 시나리오에 따라 우주세기 100년의 역사를 되돌아보자!\n기체와 캐릭터를 개발하고 성장시켜 완성한 부대로 건담의 역사에 개입하라!\n\n다른 기종 버전에서 판매된 다운로드 콘텐츠도 모두 수록된 디럭스판!\n\n큰 화면으로도, 밖에 나가서도,\n언제 어디서든 건담 시뮬레이션을 마음껏 즐겨보자!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20210325,
+    "first_update_release_date": 20210324,
+    "latest_update_release_date": 20210324,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210324
+    },
+    "versions": {
+        "65536": 20210324
+    },
+    "category": [
+        "시뮬레이션",
+        "RPG",
+        "전략",
+        "어드벤처"
+    ],
+    "intro": "계승된 영혼은 새로운 전장으로 향한다――",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "폭력성"
+    ],
+    "region": null
 }

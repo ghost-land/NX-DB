@@ -1,4 +1,33 @@
 {
     "id": "0100CEC013C56800",
-    "version": 131072
+    "base_tid": "0100CEC013C56000",
+    "name": "Caves and Castles: Underworld",
+    "description": "   Find adventure beyond your imagination and riches untold as you descend into the caves beneath an ancient castle! Match gems to remove obstacles, collect keys to unlock new passages and build your strength as fast as you can to break through barriers in Caves and Castles: Underworld, a sometimes relaxing, sometimes heart-racing match-three game!\n\n   Above ground, you'll become wrapped up in a quest to rebuild a castle and its grounds – only something strange is preventing you from achieving your goal! Unlock one mystery after another as you restore the stunning structure to its former glory!\nEnjoy colorful hand-drawn art and animation, a charming story and hours of match-three fun as you play Caves and Castes: Underworld!",
+    "publisher": "ESDigital Games",
+    "developer": null,
+    "base_release_date": 20210129,
+    "first_update_release_date": 20210122,
+    "latest_update_release_date": 20210122,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210122
+    },
+    "versions": {
+        "65536": 20210122,
+        "131072": 20210122
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

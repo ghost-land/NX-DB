@@ -1,4 +1,35 @@
 {
     "id": "0100CF20178D0800",
-    "version": 65536
+    "base_tid": "0100CF20178D0000",
+    "name": "Arcade Archives PAC-LAND",
+    "description": "\"PAC-LAND\" is a side-scrolling action game released by NAMCO (BANDAI NAMCO Entertainment Inc.) in 1984.\nThe title follows PAC-MAN on a quest to bring lost fairies home to Fairyland.\nWhat strange events will PAC-MAN encounter as he leaves town, then passes through the mountains and forests? PAC-MAN's charming adventures begin here!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220407,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220427,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220427
+    },
+    "versions": {
+        "65536": 20220427
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Expect unusual surprises!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

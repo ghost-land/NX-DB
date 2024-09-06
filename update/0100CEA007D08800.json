@@ -1,4 +1,51 @@
 {
     "id": "0100CEA007D08800",
-    "version": 589824
+    "base_tid": "0100CEA007D08000",
+    "name": "Crypt of the NecroDancer: Nintendo Switch Edition",
+    "description": "Crypt of the NecroDancer is an award winning hardcore rhythm-based dungeon crawling game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity?\n\nPlayers must move on the beat to navigate randomly generated dungeons while battling dancing skeletons, zombies, dragons, and more, while grooving to the game's award winning Danny Baranowsky soundtrack!  You can even team up with a friend in local co-op mode!",
+    "publisher": "Brace Yourself Games",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20180329,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20180329,
+        "131072": 20180823,
+        "196608": 20190326,
+        "262144": 20190502,
+        "327680": 20210525,
+        "458752": 20240313,
+        "589824": 20240404
+    },
+    "category": [
+        "RPG",
+        "Music",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

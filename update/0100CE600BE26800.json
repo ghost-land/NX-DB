@@ -1,4 +1,42 @@
 {
     "id": "0100CE600BE26800",
-    "version": 393216
+    "base_tid": "0100CE600BE26000",
+    "name": "GRIP : COMBAT RACING (그립 : 컴뱃 레이싱)",
+    "description": "그립은 맹렬한 스피드와 다양한 무기의 거친 화력을 함께 즐길 수 있는 순도 높은 하드코어 컴뱃 레이싱입니다.\n\n중력을 거스르는 물리 효과와 화려한 미래지향적 무기들을 기반으로, 가장 빠르고 가장 치열한 레이싱 재미를 선사합니다.\n\n벽이나 천장의 구분 없이 타이어가 닿는 어디든 타고 달리며, 아슬아슬한 트랙과 트릭을 마스터하고 기상천외한 스턴트를 구사하며 여러 행성 위 경기장에서 레이스를 펼치세요.",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20181106,
+    "first_update_release_date": 20181203,
+    "latest_update_release_date": 20200123,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20200123
+    },
+    "versions": {
+        "65536": 20181203,
+        "131072": 20190417,
+        "196608": 20190522,
+        "262144": 20190626,
+        "327680": 20191114,
+        "393216": 20200123
+    },
+    "category": [
+        "레이싱"
+    ],
+    "intro": "위 아래가 뒤집어진 컴뱃 레이싱!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "폭력성"
+    ],
+    "region": null
 }
