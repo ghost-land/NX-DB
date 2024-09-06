@@ -1,4 +1,45 @@
 {
     "id": "010032B01C6F2800",
-    "version": 393216
+    "base_tid": "010032B01C6F2000",
+    "name": "DreadOut 2",
+    "description": "DreadOut 2 is a third-person horror adventure that draws inspiration from Indonesian folklore and urban legend. Play as Linda Meillinda, a high school student with supernatural power – the ability to sense and see ghosts.\n\nWith the aid of her trusty smartphone, Linda must hunt the nightmarish spirits and dark forces that threaten not only her hometown, but all of mankind. This spine-chilling sequel expands on the cult hit original with all-new melee combat and a greater emphasis on exploration, making DreadOut 2 another compelling and terrifying addition to the horror genre.\n\nFeatures:\nBanish them all! Hunt and defeat intangible ghosts with Linda’s smartphone camera, or use melee weapons and projectiles against physical ghosts\n\nA world of dread: Explore Linda’s hometown and beyond, talk to residents (alive and dead!), complete side-quests, and delve deeper into DreadOut lore\n\nDiscover ghosts and urban legends: Search out spirits and uncover local myths to complete the Ghostpedia app on Linda’s smartphone\n\nTerrifying boss spirits: Keep your nerve as you battle the supernatural realm’s most hostile ghosts, including the chilling Kuntilanak, and horrifying Gore Surgeon",
+    "publisher": "SOFT SOURCE",
+    "developer": null,
+    "base_release_date": 20240118,
+    "first_update_release_date": 20231025,
+    "latest_update_release_date": 20240810,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240810
+    },
+    "versions": {
+        "65536": 20231025,
+        "131072": 20231123,
+        "262144": 20240120,
+        "327680": 20240728,
+        "393216": 20240810
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "A third-person horror adventure that draws inspiration from Indonesian urban legend. Play as Linda, a high school student with the ability to sense and see ghosts. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010033300AC1A800",
-    "version": 131072
+    "base_tid": "010033300AC1A000",
+    "name": "The Mooseman",
+    "description": "Long-long time ago the world was created out of an egg-shell by a god named Yen. In the murky depths of the endless ocean the Lower World was born. The Middle World was made for the men to dwell, and the Upper World was were the ancient gods would reside. Multitudes of spirits dwell among the layers of creation, guarding their secrets in the dark. Embark on a journey through all the worlds of ancient myth, find artefacts of Chud' tribes and solve all the mysteries of finno-ugric tales.\n\n• Explore the worlds inspired by Perm animal style\n• Dive into the deep atmosphere of folk Komi music\n• Meet long forgotten gods and spirits\n• Learn the ancient myths of finno-ugric tribes\n• Don't expect an easy journey, there are riddles in the dark\n• Unlock new abilities and use them to get to the Upper World\n• Find all the artefacts that are hidden from the mortal eye",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180718,
+    "first_update_release_date": 20180704,
+    "latest_update_release_date": 20180704,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180704
+    },
+    "versions": {
+        "131072": 20180704
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "You are the Mooseman and you have the ability to see all that is hidden to the mortal eye. You are about to visit three layers of this universe - the first one is the Lower World where the spirits of the dead reside.\n\nWelcome to the mysterious world of ancient myth, based on finno-ugric culture of bygone pagan times.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

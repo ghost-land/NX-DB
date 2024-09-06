@@ -1,4 +1,31 @@
 {
     "id": "010032C01C4C0800",
-    "version": 65536
+    "base_tid": "010032C01C4C0000",
+    "name": "夏日彼方 beyond",
+    "description": "「夏日彼方 beyond」是一部文字冒險類型遊戲，\n講述的是少女們在迎來末日的世界展開的一段旅程。\n\n你偶然間發現了一台舊型號的電腦，\n並在其指引下聯繫上了一位素不相識的少女。\n\n她的名字叫夏乃，身在因流行性病毒而崩潰的世界，\n正處於獨自漂泊的旅途當中。\n\n但是，你所知曉的社會並未被病毒摧毀。\n她身處的世界究竟在何處，又為什麼能夠與你建立聯繫？\n你需要在與夏乃交談的同時陪伴她旅行，\n並究明這個世界為何會逐步迎來終焉。",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20240822,
+    "first_update_release_date": 20240829,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240829
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": "——世界的終末之夏，少女的漂泊之旅。在這部視覺小說當中，你將以對話的方式與生活在末日世界的少女一起生存。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

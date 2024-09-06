@@ -1,4 +1,48 @@
 {
     "id": "010032600C8CE800",
-    "version": 196608
+    "base_tid": "010032600C8CE000",
+    "name": "Goat Simulator: The GOATY",
+    "description": "Goat Simulator is the latest in goat simulation technology, bringing next-gen goat simulation to YOU. You no longer have to fantasize about being a goat your dreams have finally come true!\nGoat Simulator is all about causing as much destruction as you possibly can as a goat. It has been compared to an old-school skating game, except instead of being a skater, you're a goat, and instead of doing tricks, you wreck stuff. Destroy things with style and you'll earn even more points! \n\nGame Contains: Goat Simulator, Goat MMO Simulator, Goat Simulator: GoatZ, Goat Simulator: Payday and Goat Simulator: Waste of Space.\n",
+    "publisher": "Coffee Stain",
+    "developer": null,
+    "base_release_date": 20190124,
+    "first_update_release_date": 20190130,
+    "latest_update_release_date": 20190522,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190522
+    },
+    "versions": {
+        "65536": 20190130,
+        "196608": 20190522
+    },
+    "category": [
+        "Simulation",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "Themes",
+        "Online interactivity"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010032E0163EC800",
-    "version": 262144
+    "base_tid": "010032E0163EC000",
+    "name": "THE Table Game",
+    "description": "Includes rule explanations so even beginners can dive right in!\nRules and how-tos are included for each game. It's perfect for anyone, whether you’re a brand new player or a veteran that needs a brush up.\n\n　　　　　　　　　　　　　　　----Included games----\nTwo-player Mahjong・Four-player Mahjong・Othello・Go・Shogi・Tsume Shogi・Hanafuda Koikoi・Texas Hold 'em・Blackjack・Five Card Draw Poker・Chase・ Backgammon",
+    "publisher": "D3PUBLISHER",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20220216,
+    "latest_update_release_date": 20221019,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221019
+    },
+    "versions": {
+        "65536": 20220216,
+        "131072": 20220309,
+        "196608": 20220411,
+        "262144": 20221019
+    },
+    "category": [
+        "Board Game",
+        "Training",
+        "Strategy",
+        "Communication"
+    ],
+    "intro": "Play classics like Othello, Mahjong, Shogi, Go, and Texas Hold 'em,Chase, Backgammon,all in one game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Simulated Gambling",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

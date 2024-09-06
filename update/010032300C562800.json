@@ -1,4 +1,32 @@
 {
     "id": "010032300C562800",
-    "version": 65536
+    "base_tid": "010032300C562000",
+    "name": "LoverPretend",
+    "description": "主人公のちゆきには、２つの夢がある。\n１つ目の夢は脚本家になること。\nそれは、死んだ母の夢でもあった。\nそしてもう１つの夢は、会ったこともない父親を見つけ出すこと。\n\n残された手掛かりから、自分が生まれる直前に\n母が１本のドラマ脚本を書いていたことが分かった。\n\nそんな時、そのドラマ関係者の息子たちが集まる\n映画制作に脚本家の助手として参加することになる。\n\n新しい仕事に奔走しながら情報を探るちゆきだったが、\n様々な事情を持つ彼らと接するうちに恋人役を頼まれてしまい……!?",
+    "publisher": "アイディアファクトリー",
+    "developer": null,
+    "base_release_date": 20210325,
+    "first_update_release_date": 20210623,
+    "latest_update_release_date": 20210623,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210623
+    },
+    "versions": {
+        "65536": 20210623
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "はじまりは、ニセモノの恋",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恋愛",
+        "セクシャル"
+    ],
+    "region": null
 }

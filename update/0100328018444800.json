@@ -1,4 +1,44 @@
 {
     "id": "0100328018444800",
-    "version": 65536
+    "base_tid": "0100328018444000",
+    "name": "Super Hero Flying School",
+    "description": "Is it a bird? Or is it a plane? Or maybe… A brick falling straight down? Actually it’s up to you my friend! Super heroes usually fly right? But at some point they need to learn how to do it. And your goal is to teach them how, in the Super Hero Flying School. So jump right in, upgrade your abilities and fly as far as you can! And remember: With great power comes better results!",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220623,
+    "first_update_release_date": 20220622,
+    "latest_update_release_date": 20220622,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220622
+    },
+    "versions": {
+        "65536": 20220622
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "Fly as far as you can, and train your heroes in the “Super Hero Flying School”",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

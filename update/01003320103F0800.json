@@ -1,4 +1,48 @@
 {
     "id": "01003320103F0800",
-    "version": 524288
+    "base_tid": "01003320103F0000",
+    "name": "Breakfast Bar Tycoon",
+    "description": "Have you ever wondered what it’s like to run your own breakfast kitchen? \n\nIn Breakfast Bar Tycoon, you'll learn that it's no easy task! \n\nYou will take on the role of a breakfast bar manager and try your best to serve the hordes of hungry customers as quickly as possible.\n\nTake orders, prepare dishes and fight for tips! \n\nInvest your earnings into upgrading your restaurant and become a breakfast magnate!\n\nBon appetite!",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211101,
+    "first_update_release_date": 20200415,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20200415,
+        "131072": 20200516,
+        "262144": 20220310,
+        "327680": 20220324,
+        "393216": 20220928,
+        "458752": 20230329,
+        "524288": 20240412
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "It's almost time for breakfast!\nGo and prove that your breakfast bar deserves its fame!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

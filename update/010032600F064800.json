@@ -1,4 +1,45 @@
 {
     "id": "010032600F064800",
-    "version": 196608
+    "base_tid": "010032600F064000",
+    "name": "Lord Winklebottom Investigates",
+    "description": "It’s the 1920s and the world’s foremost detective is about to embark on his most challenging case yet. A mysterious invitation to an isolated island results in a grisly murder and a race against time to track down the killer. Thankfully, in this world that’s not quite like our own, there’s nobody better to crack the case than the great detective and gentleman giraffe, Lord Winklebottom.\n\nJoin Lord Winklebottom and his steadfast companion Dr Frumple as they investigate the murder of their old friend. Uncover clues, interview suspects and solve puzzles to crack the case, capture the killer and uncover the horrifying dark secret at the heart of the Isle of Barghest!\n\n\nFEATURES\n\nFull English voice acting.\n\nAn original 1920s inspired soundtrack featuring live instruments.\n\nPlay as a gentleman giraffe!\n\nUnique 2D hand painted artwork.\n\nAnimals of all shapes and sizes!\n\nStreamlined point and click interface.\n\nCollection of bizarre characters to interrogate!\n\nDozens of puzzles to solve!",
+    "publisher": "Cave Monsters",
+    "developer": null,
+    "base_release_date": 20220728,
+    "first_update_release_date": 20220818,
+    "latest_update_release_date": 20231031,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231031
+    },
+    "versions": {
+        "65536": 20220818,
+        "131072": 20220901,
+        "196608": 20231031
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Lord Winklebottom Investigates is a 1920s murder mystery, point and click adventure featuring a dashing giraffe detective!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

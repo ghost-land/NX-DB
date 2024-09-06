@@ -1,4 +1,45 @@
 {
     "id": "010032A01C488800",
-    "version": 131072
+    "base_tid": "010032A01C488000",
+    "name": "Capitals Quizzer",
+    "description": "Learn the capital cities of the world in this fun quick-fire quiz game! Answer correctly before time runs out, or it's game over! Gradually improve your knowledge of the planet, and prove to your friends that you're the capitals expert!\n\n• How well do you know our planet and its countries? Become a professional!\n• Every capital of every country, with national flags\n• Match the flags with their respective nations.\n• Learn the location of famous landmarks around the world!\n• Teach yourself the currencies of the world, and where they are spent.\n• Learn local regions and their capital cities.",
+    "publisher": "Supergonk",
+    "developer": null,
+    "base_release_date": 20231221,
+    "first_update_release_date": 20240224,
+    "latest_update_release_date": 20240314,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240314
+    },
+    "versions": {
+        "65536": 20240224,
+        "131072": 20240314
+    },
+    "category": [
+        "Education",
+        "Study",
+        "Training",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

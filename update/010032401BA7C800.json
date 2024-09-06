@@ -1,4 +1,34 @@
 {
     "id": "010032401BA7C800",
-    "version": 65536
+    "base_tid": "010032401BA7C000",
+    "name": "Boaty Tanks",
+    "description": "Get ready for an exciting aquatic adventure in this action-packed game! Take control of a small boat as you navigate through various arenas, armed with your trusty weapons. But be warned - the enemy pool floats are out to get you! Engage in intense battles as you shoot and destroy these inflatable foes, testing your reflexes and aiming skills. Immerse yourself in the thrilling world of boat combat. Survive challenging fights and show off your boat-shooting skills today!",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20230913,
+    "latest_update_release_date": 20230913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230913
+    },
+    "versions": {
+        "65536": 20230913
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": "Thrilling pool combat!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
