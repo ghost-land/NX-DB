@@ -1,4 +1,43 @@
 {
     "id": "010021201296A800",
-    "version": 131072
+    "base_tid": "010021201296A000",
+    "name": "Escape First 2",
+    "description": "The Rooms\n\nPsycho Circus Cont.\nYou managed to escape the clown’s quarters, but you are not free yet. Did you think it would be this easy to escape? The show must go on and you are the exhibit! Think and act fast in order to escape the circus, we all know that clowns don’t like other people touching their stuff! \n\nThe Torture Chamber\nA medieval dungeon, filled with torture devices, prison cages and not many prisoners left. Hearing screams from the room next door, you know you don’t have much time left until the guards come for you. The doors are locked, is there another way out?\n\nBehind the Scenes\nWhile visiting an Escape Room Factory, you black out and wake up in the bathroom. However, there is one thing about this room that does not seem right, it has no doors or windows! How did you get here and more importantly, how will you ever get out?",
+    "publisher": "OnSkull Development",
+    "developer": null,
+    "base_release_date": 20210212,
+    "first_update_release_date": 20210413,
+    "latest_update_release_date": 20210823,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210823
+    },
+    "versions": {
+        "65536": 20210413,
+        "131072": 20210823
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "intro": "\"Escape First 2\" is an escape room puzzle game! It includes 3 different escape rooms you can play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

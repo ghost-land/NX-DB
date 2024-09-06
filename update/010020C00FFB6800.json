@@ -1,4 +1,44 @@
 {
     "id": "010020C00FFB6800",
-    "version": 393216
+    "base_tid": "010020C00FFB6000",
+    "name": "Vampire: The Masquerade - Coteries of New York",
+    "description": "Vampire: The Masquerade - Coteries of New York presents the conflict between two vampiric factions: the traditionalist Camarilla and the fiercely independent Anarchs. It's a unique, atmospheric, single-player narrative experience, set in the rich universe of Vampire: The Masquerade 5th Edition.\n\n- Choose one of three pre-defined characters and play as a Ventrue, Toreador or Brujah\n- Each playable character offers a selection of powers (Disciplines), different ethical approaches to certain issues, and unique dialogue lines\n - Character-oriented quests allow you to meet four unique NPCs: a Tremere sorcerer, a Nosferatu detective, a Gangrel of conflicted loyalties and a Malkavian multifoliate online personality with their own agendas. Win their hearts and minds and up to two of them will assist you in the finale\n- Depending on your choice of the Clan you will be able to see the events from a distinct perspective. One playthrough is not enough to see all the game has to offer!",
+    "publisher": "Draw Distance",
+    "developer": null,
+    "base_release_date": 20230213,
+    "first_update_release_date": 20200915,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20200915,
+        "131072": 20210426,
+        "196608": 20211209,
+        "262144": 20220915
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Other",
+        "Board Game"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Violence",
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

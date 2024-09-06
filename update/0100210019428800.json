@@ -1,4 +1,52 @@
 {
     "id": "0100210019428800",
-    "version": 655360
+    "base_tid": "0100210019428000",
+    "name": "Prince of Persia The Lost Crown",
+    "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.\n\nUNLEASH YOUR INNER WARRIOR\nUse your Time Powers, combat, and platforming skills to perform deadly combos and defeat time-corrupted enemies and mythological creatures. \n\nLOSE YOURSELF IN THE PRODIGIOUS MOUNT QAF\nDiscover a cursed Persian-inspired world filled with larger-than-life landmarks and explore a variety of highly detailed biomes, each with their own identity, wonder, and danger.\n\nLIVE AN EPIC ADVENTURE\nImmerse yourself in a Persian mythological fantasy through an intriguing and original story as you use your wits to solve puzzles, find hidden treasures, and complete quests to learn more about this corrupted place.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20240118,
+    "first_update_release_date": 20231219,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240702
+    },
+    "versions": {
+        "131072": 20231219,
+        "196608": 20240125,
+        "262144": 20240131,
+        "327680": 20240212,
+        "393216": 20240320,
+        "458752": 20240328,
+        "524288": 20240520,
+        "589824": 20240612,
+        "655360": 20240702
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null
 }

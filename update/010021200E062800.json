@@ -1,4 +1,33 @@
 {
     "id": "010021200E062800",
-    "version": 65536
+    "base_tid": "010021200E062000",
+    "name": "Car Mayhem",
+    "description": "Car Mayhem is a collection of three fun packed car games.\n\nPursuit: \nRace around the city collecting coins to unlock new cars while being chased by the cops, but be careful if the cops catch up they will smash into you and explode. \n\nApocalypse: \nDrive around and try to kill as many Zombies as possible while collecting coins as you can before the time runs out.\n\nDestruction: \nRace around the demolition derby arena with nine opponents, smash up the opponents cars before they smash into you and earn coins to buy and unlock new cars\n\nThere is over a hundred different cars to unlock and remember the more expensive cars have more \"shield\" which lets you become more resilient to hits.\n",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20190605,
+    "first_update_release_date": 20190627,
+    "latest_update_release_date": 20190627,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190627
+    },
+    "versions": {
+        "65536": 20190627
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Sexual References",
+        "Mild Violence"
+    ],
+    "region": null
 }

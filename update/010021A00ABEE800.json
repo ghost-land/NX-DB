@@ -1,4 +1,32 @@
 {
     "id": "010021A00ABEE800",
-    "version": 65536
+    "base_tid": "010021A00ABEE000",
+    "name": "SKYPEACE",
+    "description": "\"HI - SPEED EASY ACTION!\" \"SKYPEACE\" is now available on the Nintendo Switch™! \n\nSKYPEACE is a high-speed action game where you clear stages by carefully avoiding the enemies that appear.\n\nFeel refreshed using simple maneuvers to get tons of coins!\n\nCollect consecutive coins to trigger a combo, and string together combos to get a hi-score.\n\nAlso enjoy a different challenge by earning achievements through a variety of conditions!\n\nEnjoy exhilarating high-speed action unfolding in the air!",
+    "publisher": "Sonic Powered",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20180705,
+    "latest_update_release_date": 20180705,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180705
+    },
+    "versions": {
+        "65536": 20180705
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Exhilarating yet simple action!\nSoar away into the sky at full speed!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010021901966C800",
-    "version": 196608
+    "base_tid": "010021901966C000",
+    "name": "Fight of Steel: Infinity Warrior",
+    "description": "Fight of Steel: Infinity Warrior is a new fighting game with ultimate freedom. Players will have the opportunity to customize their own fighter from the appearance to fighting moves. Build your own STEEL Fighter Now! *Rollback net code will be provided*",
+    "publisher": "Digital Crafter",
+    "developer": null,
+    "base_release_date": 20230112,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230205,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230205
+    },
+    "versions": {
+        "65536": 20230113,
+        "131072": 20230121,
+        "196608": 20230205
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Create Your Own Fighting Bot!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

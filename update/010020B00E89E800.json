@@ -1,4 +1,42 @@
 {
     "id": "010020B00E89E800",
-    "version": 327680
+    "base_tid": "010020B00E89E000",
+    "name": "The Ramen Sensei",
+    "description": "Build your ramen rep by fashioning the ultimate bowl from a vast assortment of noodles, soup, and toppings. From roast pork to miso, mackerel, and more--the only limit is your imagination, meaning you'll need to use your noodle to nail the right recipes and bring hungry customers in by the crowd!\n\nEnter contests and see how you size up against rivals, thus cementing your standing as superlative sensei of the savory! Succeed--and one day you might even have your own ramen theme park!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20201008,
+    "first_update_release_date": 20201109,
+    "latest_update_release_date": 20221101,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20221101
+    },
+    "versions": {
+        "65536": 20201109,
+        "131072": 20201202,
+        "196608": 20210716,
+        "262144": 20220923,
+        "327680": 20221101
+    },
+    "category": [
+        "Simulation",
+        "Other",
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Build the ultimate bowl to leap past your\nramen rivals and achieve greatness!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

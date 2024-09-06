@@ -1,4 +1,36 @@
 {
     "id": "010021A017EBA800",
-    "version": 65536
+    "base_tid": "010021A017EBA000",
+    "name": "The Last Run: Dead Zombie Shooter",
+    "description": "Evil is everywhere.\nStand up to fight massive hordes of zombies. Thrilling battles await you in ruined cities with no return. You need to prepare a weapon and an appropriate supply of ammunition, survive the fight with the living dead and reach the base where you can replenish your supplies and feel safe…but not for long.\n\nYour goal is to destroy the demon responsible for the unleashed hell. The fate of humankind is in your hands, there is no time to waste! \n\nFeatures:\n- Captivating and impressive story\n- Countless hordes of zombies\n- 50 stages with extra bonuses\n- Survival Mode\n- Many types of weapons and ammunition\n- Various character skins with unique boosts\n",
+    "publisher": "T-Bull",
+    "developer": null,
+    "base_release_date": 20220906,
+    "first_update_release_date": 20220822,
+    "latest_update_release_date": 20220822,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220822
+    },
+    "versions": {
+        "65536": 20220822
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "First-Person Shooter",
+        "Other"
+    ],
+    "intro": "Stand up to fight massive hordes of zombies. Prepare your weapons, and fight against pure evil!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Violence"
+    ],
+    "region": null
 }
