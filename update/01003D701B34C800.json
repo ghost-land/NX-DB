@@ -1,4 +1,45 @@
 {
     "id": "01003D701B34C800",
-    "version": 65536
+    "base_tid": "01003D701B34C000",
+    "name": "911: Cannibal",
+    "description": "In this horror game you are a kidnapped teenager. Maniac - cannibal keeps you in his creepy house. Hide and search items that can help you find a way out of the scary place and survive the nightmare. Solve puzzles to get to inaccessible places. And do not forget about attentiveness - you need to carefully cover up your tracks so that the maniac does not suspect anything.\n\nCan you hide and outsmart the cannibal and survive without missing a single detail? Or will he catch you in the very first minutes and in the evening you will find yourself in his plate? In this horror, survival depends only on your ingenuity, attentiveness and memory.\n\nGame features:\n\n- Fascinating story and investigation\n- Interesting puzzles\n- Horror elements, hide and seek, and survival\n- Quality sound and detailed environment",
+    "publisher": "17Studio",
+    "developer": null,
+    "base_release_date": 20230518,
+    "first_update_release_date": 20230507,
+    "latest_update_release_date": 20230507,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230507
+    },
+    "versions": {
+        "65536": 20230507
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Other"
+    ],
+    "intro": "Scary hide & seek horror game with puzzle elements.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

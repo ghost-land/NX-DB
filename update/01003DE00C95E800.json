@@ -1,4 +1,34 @@
 {
     "id": "01003DE00C95E800",
-    "version": 262144
+    "base_tid": "01003DE00C95E000",
+    "name": "Mary Skelter 2",
+    "description": "The Nightmare continues in Mary Skelter 2! In this first-person dungeon crawler, play as fairy tale-inspired characters called Blood Maidens, each with deeply customizable character-specific classes. Balance between power and madness in turn-based battles with a blood-fueled transformation system, and escape a living prison while indestructible Nightmares give chase in real time.\n\nThis game also includes the first installment of the series, Mary Skelter: Nightmares.",
+    "publisher": "Idea Factory",
+    "developer": null,
+    "base_release_date": 20200106,
+    "first_update_release_date": 20190923,
+    "latest_update_release_date": 20191230,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20191230
+    },
+    "versions": {
+        "65536": 20190923,
+        "131072": 20190923,
+        "196608": 20191108,
+        "262144": 20191230
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "What must you sacrifice to escape fate?\nFind out in this nightmarish dungeon-crawling RPG!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "High Impact Sex Scenes"
+    ],
+    "region": null
 }

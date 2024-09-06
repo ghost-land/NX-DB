@@ -1,4 +1,58 @@
 {
     "id": "01003E800A102800",
-    "version": 851968
+    "base_tid": "01003E800A102000",
+    "name": "Trials Rising Standard Edition",
+    "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry in the Trials franchise. With over 125 new tracks, Trials® Rising is easy to pick up and play, challenging to master, and offers the best multiplayer racing experience ever.\n\nExperience the most challenging tracks around the world – from the Great Wall of China to the Eiffel Tower.\n\nTest your friendships with the new Tandem mode that allows two players to control one bike. Hilarity is guaranteed!\n\nCreate and share unique levels in Track Central with over 8,000 items available. The fun and possibilities are endless!\n\nFrom your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221019,
+    "first_update_release_date": 20190218,
+    "latest_update_release_date": 20200625,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20200625
+    },
+    "versions": {
+        "65536": 20190218,
+        "131072": 20190219,
+        "196608": 20190320,
+        "262144": 20190411,
+        "327680": 20190603,
+        "393216": 20190703,
+        "458752": 20190909,
+        "524288": 20191104,
+        "589824": 20191212,
+        "655360": 20200225,
+        "720896": 20200408,
+        "786432": 20200528,
+        "851968": 20200625
+    },
+    "category": [
+        "Racing",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Suggestive Themes",
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

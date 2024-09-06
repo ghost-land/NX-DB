@@ -1,4 +1,39 @@
 {
     "id": "01003DF01B0C8800",
-    "version": 65536
+    "base_tid": "01003DF01B0C8000",
+    "name": "ChronoBreach Ultra",
+    "description": "ChronoBreach Ultra is an action platformer about a cute robot with laser weaponry exploring a deadly factory!\n\nWith unique time-bending abilities and an arsenal with a huge variety weapons, you’ll be pitted against trap-filled levels, dangerous enemies, and huge bosses. Collect circuits to unlock more powerful gear and super stylish skins. Upgrade your cute but deadly drone companion, and even battle for glory in Arena mode.\n\nWill you be able to prevent time from stopping forever?\n\nFeatures\n* Bend time to outsmart your enemies\n* Unique weapons and skins\n* Deadly levels and boss battles\n* Arena mode\n* Speedrun mode",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20230630,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20230802
+    },
+    "category": [
+        "Shooter",
+        "Action"
+    ],
+    "intro": "A time-bending action platformer shooter you play your way.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

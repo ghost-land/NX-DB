@@ -1,4 +1,40 @@
 {
     "id": "01003DC01D7C4800",
-    "version": 65536
+    "base_tid": "01003DC01D7C4000",
+    "name": "Post-apocalyptic Old man",
+    "description": "2xxx A.D. The world was devastated by repeated wars.\nThe survivors lived huddled together in fortified facilities called jails.\nHowever, is it a tactical weapon running amok, or is it God's judgment on foolish humanity?\nSuddenly, the number of old men increases.\nThe old men attacked the jails, and in just one month, they captured about half of the jails in the world.\nJust when the world was about to be filled with old men, a girl stood up. ",
+    "publisher": "AlignmentSharp",
+    "developer": null,
+    "base_release_date": 20240125,
+    "first_update_release_date": 20240207,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20240207
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Shoot away the approaching old men!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

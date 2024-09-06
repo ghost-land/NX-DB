@@ -1,4 +1,33 @@
 {
     "id": "01003E0012F5A800",
-    "version": 65536
+    "base_tid": "01003E0012F5A000",
+    "name": "Alfonzo's Arctic Adventure",
+    "description": "Let's go poke the walrus with a stick!\n\nBased on the beloved noughties Flash cartoon, you take the role of Alfonzo on a quest to find your missing best friend, Bob. Because Bob’s favorite food is fish, you decide to collect as many fish as you can while searching for him! With your trusty stick at your side, travel through over 90 levels filled with crafty puzzles, terrifying traps, and dangerous enemies. Luckily, you aren’t alone on your adventure! Your friends are here to help, including the power-punching Magnus, the near-invulnerable Fenwood, and the sword-wielding Girl. Collect fish, find Bob, and maybe even save the world along the way!\n\nAlfonzo’s Arctic Adventure is packed with tons of features and content!\n\n* Four different playable characters\n* Over 90 levels split into 6 episodes\n* More than 30 types of enemies to encounter\n* Seven unique boss battles\n* World map for level selection\n* Secret exits and branching paths\n* Two-player melee mode\n* And so much more...",
+    "publisher": "Limited Run Games",
+    "developer": null,
+    "base_release_date": 20210730,
+    "first_update_release_date": 20210820,
+    "latest_update_release_date": 20210820,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210820
+    },
+    "versions": {
+        "65536": 20210820
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

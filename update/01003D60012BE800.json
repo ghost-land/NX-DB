@@ -1,4 +1,30 @@
 {
     "id": "01003D60012BE800",
-    "version": 65536
+    "base_tid": "01003D60012BE000",
+    "name": "信長の野望・創造 with パワーアップキット",
+    "description": "戦国大名となり、天下統一を目指す歴史シミュレーションゲームの決定版「信長の野望」。\nその30周年記念作品『信長の野望･創造』がシリーズ史上最大・最強のパワーアップを遂げる！\nシステム、シナリオ、キャラクター、すべての面で新要素を多数追加。自らの手で戦国乱世のクライマックスを創造せよ！",
+    "publisher": "コーエーテクモゲームス",
+    "developer": null,
+    "base_release_date": 20170303,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "シミュレーション",
+        "ストラテジー"
+    ],
+    "intro": "戦国乱世、クライマックス。圧巻の合戦絵巻。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

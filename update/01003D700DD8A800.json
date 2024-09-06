@@ -1,4 +1,59 @@
 {
     "id": "01003D700DD8A800",
-    "version": 1310720
+    "base_tid": "01003D700DD8A000",
+    "name": "The Elder Scrolls®: Blades",
+    "description": "From Bethesda Game Studios, the award-winning creators of Skyrim, comes The Elder Scrolls: Blades – a classic dungeon crawler reimagined. Download now and play for free!\n\n• Experience stunning dungeon adventures.\n• Create and customize your city, restoring it to greatness. \n• Conquer your rivals in epic one-on-one Arena battles. \n• Create any character you want and discover unique weapons, armor, and abilities.\n• Master the never-ending Abyss with a cutting-edge combat system.\n\nThe Elder Scrolls: Blades enables cross-play so you can battle your friends on other platforms. You can also use cross-save to maintain your progression across multiple devices. \nStart a new character, or continue your previous journey, today!",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20220308,
+    "first_update_release_date": 20200611,
+    "latest_update_release_date": 20221109,
+    "latest_update": {
+        "version": "1310720",
+        "release_date": 20221109
+    },
+    "versions": {
+        "65536": 20200611,
+        "131072": 20200804,
+        "196608": 20200811,
+        "262144": 20200901,
+        "327680": 20201013,
+        "393216": 20201203,
+        "458752": 20210128,
+        "524288": 20210311,
+        "589824": 20210421,
+        "655360": 20210602,
+        "720896": 20210713,
+        "786432": 20210831,
+        "851968": 20211005,
+        "917504": 20211109,
+        "983040": 20211207,
+        "1048576": 20220118,
+        "1114112": 20220614,
+        "1179648": 20220802,
+        "1245184": 20221004,
+        "1310720": 20221109
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Quest. Create. Conquer.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }

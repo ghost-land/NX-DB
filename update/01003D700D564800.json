@@ -1,4 +1,37 @@
 {
     "id": "01003D700D564800",
-    "version": 65536
+    "base_tid": "01003D700D564000",
+    "name": "Super Weekend Mode",
+    "description": "No matter how you look at it, there is nothing nice about stealing and unfortunately for a princess, she’s going to have to learn this the hard way, when “that guy” claims her possessions for himself and sets off with them.\n\nDesiring to reclaim what is lost, Super Weekend Mode is a cutesy looking game where hearts must be caught, bunnies must be crushed and the bad need to be shot. We will see a princess chasing a thief through the labyrinths of despair, in a bid to get her belongings back.\n\nDo you dare to embrace the challenge?\n\n\nFeatures: \n * Gameplay centred around 3 buttons\n * 9 levels\n * Multi-tasking mayhem\n * In-game leaderboards",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190412,
+    "first_update_release_date": 20190410,
+    "latest_update_release_date": 20190410,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190410
+    },
+    "versions": {
+        "65536": 20190410
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Catch hearts, Crush bunnies and Shoot the bad guys",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

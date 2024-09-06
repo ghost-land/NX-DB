@@ -1,4 +1,45 @@
 {
     "id": "01003DC0144B6800",
-    "version": 327680
+    "base_tid": "01003DC0144B6000",
+    "name": "Outer Wilds",
+    "description": "Winner of Best Game at the 2020 BAFTA Games Awards and named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop.\n\nWelcome to the Space Program!\nYou're the newest recruit of Outer Wilds Ventures, a fledgling space program searching for answers in a strange, constantly evolving solar system.\n \nMysteries of the Solar System...\nWhat lurks in the heart of the ominous Dark Bramble? Who built the alien ruins on the Moon? Can the endless time loop be stopped? Answers await you in the most dangerous reaches of space.\n \nA World That Changes Over Time\nThe planets of Outer Wilds are packed with hidden locations that change with the passage of time. Visit an underground city before it's swallowed by sand, or explore the surface of a planet as it crumbles beneath your feet. Every secret is guarded by hazardous environments and natural catastrophes.\n\nGrab Your Intergalactic Hiking Gear!\nStrap on your hiking boots, check your oxygen levels, and get ready to venture into space. Use a variety of unique gadgets to probe your surroundings, track down mysterious signals, decipher ancient alien writing, and roast the perfect marshmallow.",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20231207,
+    "first_update_release_date": 20231207,
+    "latest_update_release_date": 20240612,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240612
+    },
+    "versions": {
+        "65536": 20231207,
+        "131072": 20240111,
+        "196608": 20240422,
+        "262144": 20240510,
+        "327680": 20240612
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "An open world mystery about a solar system trapped in an endless time loop.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

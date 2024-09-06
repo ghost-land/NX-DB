@@ -1,4 +1,36 @@
 {
     "id": "01003DD00F94A800",
-    "version": 262144
+    "base_tid": "01003DD00F94A000",
+    "name": "COTTOn Reboot!",
+    "description": "以女巫女孩為特色的射擊遊戲“棉花”在30年來首次回歸。",
+    "publisher": "BEEP",
+    "developer": null,
+    "base_release_date": 20210318,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20210524,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210524
+    },
+    "versions": {
+        "65536": 20210224,
+        "131072": 20210402,
+        "196608": 20210511,
+        "262144": 20210524
+    },
+    "category": [
+        "射擊",
+        "街機"
+    ],
+    "intro": "請欣賞以現代風格重製的傑作射擊遊戲。我們正在添加新的攻擊魔法。這非常浮華。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

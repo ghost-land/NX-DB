@@ -1,4 +1,50 @@
 {
     "id": "01003D90058FC800",
-    "version": 983040
+    "base_tid": "01003D90058FC000",
+    "name": "CrossCode",
+    "description": "This retro-inspired 2D Action RPG might outright surprise you. CrossCode combines 16-bit style graphics with butter-smooth physics, a fast-paced combat system, and engaging puzzle mechanics, served with a gripping sci-fi story.\n\nCrossCode is all about how it plays! Take the best out of two popular genres, find a good balance between them and make a great game. That’s what CrossCode does. You get the puzzles of oldschool Action Adventure dungeons and are rewarded with the great variety of equipment you know and love from RPGs. During the fast-paced battles you will use the tools you find on your journey to reveal and exploit the enemies' weaknesses and at the same time will be able to choose equipment and skills for a more in-depth approach in fighting your enemies.\n\n*Dive into a massive adventure with a playtime of around 30-80 hours\n*Explore a large world with 7 unique areas and hidden secrets all over the place\n*Fight over 120 enemy types including 30+ boss fights\n*Enter 7 expansive dungeons, all with with unique themes and puzzle mechanics\n*Master over 90 combat arts and even more passive skills\n*Solve over 100 quests with a great variety of tasks and unique challenges\n*60+ music tracks made by a rice ball (yes)",
+    "publisher": "Deck 13",
+    "developer": null,
+    "base_release_date": 20200709,
+    "first_update_release_date": 20200625,
+    "latest_update_release_date": 20230926,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20230926
+    },
+    "versions": {
+        "131072": 20200625,
+        "262144": 20200804,
+        "327680": 20200813,
+        "393216": 20201001,
+        "458752": 20201207,
+        "524288": 20210119,
+        "655360": 20210802,
+        "720896": 20210802,
+        "786432": 20210825,
+        "851968": 20211210,
+        "917504": 20220211,
+        "983040": 20230926
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A retro-inspired 2D Action RPG. CrossCode combines 16-bit style graphics with smooth physics, fast combat , and engaging puzzle mechanics, served with a gripping sci-fi story.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }
