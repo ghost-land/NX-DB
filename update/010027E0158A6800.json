@@ -1,4 +1,36 @@
 {
     "id": "010027E0158A6800",
-    "version": 65536
+    "base_tid": "010027E0158A6000",
+    "name": "Dininho Space Adventure",
+    "description": "In one of his daily observations, Dininho sees an imminent threat on a planet within his system.\nTaken by a mixture of euphoria and concern, Dininho jumps into his ship and without thinking twice,\nTakes off towards what may be the most dangerous and heroic adventure of your life.\n\nFeatures\n* Challenging adventure full of shots and obstacles.\n* Collect coins and upgrade your ship.\n* 3 different worlds with 1 Boss each.\n* +40 different enemies and obstacles!",
+    "publisher": "GAME NACIONAL",
+    "developer": null,
+    "base_release_date": 20210723,
+    "first_update_release_date": 20210802,
+    "latest_update_release_date": 20210802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210802
+    },
+    "versions": {
+        "65536": 20210802
+    },
+    "category": [
+        "Adventure",
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

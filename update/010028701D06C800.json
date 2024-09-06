@@ -1,4 +1,38 @@
 {
     "id": "010028701D06C800",
-    "version": 65536
+    "base_tid": "010028701D06C000",
+    "name": "One Night: Burlesque",
+    "description": "One Night: Burlesque offers one of a kind visual novel story with puzzle elements. Become a detective and solve the case of an upcoming murder mystery. Your hidden talent gives you an advantage over the killer so use it wise.\n\n\nSPECIAL GIFT\nGet into the high heels of Holly, a talented dancer graced with a unique gift of telepathy.\nDelve into the minds of those around her and try to solve this captivating noir mystery. Uncover their hidden motives and unveil the truth. Be cautious; every mind holds secrets, and not all are willing to share them right away.\n\n\nWHO IS THE KILLER?\nThe wannabe murderer might not be a butler, but he's certainly in the audience. Navigate a labyrinth of tangled relationships and peel back the layers of deceit. The clock is ticking ominously, and every choice you make might decide the fate of your friends.\n\n\nKEY FEATURES:\n- A noir aesthetic\n- A detective-style murder mystery\n- A unique setting (a Burlesque Club)\n- Multiple endings depending on your choices\n- An Incredible music track\n- A charming telepathic dancer",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20231103,
+    "first_update_release_date": 20240829,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240829
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Step into the smoky, seductive world of the Angels Den, a luxurious burlesque club. Help her on a desperate mission to save a friend from certain doom. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

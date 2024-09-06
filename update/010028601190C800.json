@@ -1,4 +1,46 @@
 {
     "id": "010028601190C800",
-    "version": 786432
+    "base_tid": "010028601190C000",
+    "name": "Dungeon and Gravestone",
+    "description": "Arise! The time for sleep has passed. The world needs you now, more than ever, as the threat of destruction looms closer with each passing moment.\n\nThe path of salvation lies ahead with only one way to attain it. You must conquer the dungeon and its keeper that awaits you.\nBeware not to outstay your welcome as your life energy is slowly drained the longer you stay in the dungeon.\n\nThose brave enough to venture the dungeon are rewarded with items to help power up their equipment, allowing them to reach further into its depths.\n\nComplete quests, fight bosses, collect items and fish like your life depends on it!\n\nMastering this chaotic world will prove difficult as it transforms with each passing life.\nWill you answer the call to save the world?\n",
+    "publisher": "Wonderland Kazakiri",
+    "developer": null,
+    "base_release_date": 20230126,
+    "first_update_release_date": 20210408,
+    "latest_update_release_date": 20221220,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20221220
+    },
+    "versions": {
+        "262144": 20210408,
+        "393216": 20210514,
+        "458752": 20210526,
+        "524288": 20210602,
+        "589824": 20220222,
+        "655360": 20220325,
+        "720896": 20220805,
+        "786432": 20221220
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Steel yourself in the face of insurmountable opposition as you traverse this ever-changing world in a bid to save it from imminent desolation.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

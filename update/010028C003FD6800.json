@@ -1,4 +1,36 @@
 {
     "id": "010028C003FD6800",
-    "version": 131072
+    "base_tid": "010028C003FD6000",
+    "name": "Syberia 2",
+    "description": "After crossing Europe from west to east, Kate Walker finally found Hans Voralberg and got him to sign the papers approving the sale of the automaton factory.\n\nAn improbable pair, Kate Walker and the eccentric old Hans Voralberg set forth in search of a forgotten world, home to the last legendary mammoths of Siberia. Hans and Kate continue the impossible undertaking that Hans had begun several years before, and their courage and perseverance take them through a range of hostile environments.\n\nYet what lies ahead goes far beyond the limits of the imagination...",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20171201,
+    "first_update_release_date": 20171124,
+    "latest_update_release_date": 20180724,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180724
+    },
+    "versions": {
+        "65536": 20171124,
+        "131072": 20180724
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The sequel of the standard-setting adventure game is finally available on the Nintendo Switch!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010027A017744800",
-    "version": 131072
+    "base_tid": "010027A017744000",
+    "name": "Andro Dunos 2",
+    "description": "Andro Dunos (アンドロデュノス, in japanese) is a side scrolling arcade game from shoot’em up category (Shmup).  It was originally released in 1992 by SNK.\nIn Andro Dunos 2, players take control of the Yellow Cherry once more, sent to end the long war with the aliens once and for all.\nThe ship has four distinct weapons that can be improved by collecting bonuses as you progress through the different levels.\n\nFeatures:\n\n– The direct sequel to one of the most famous shmup from 1990s : Andro Dunos!\n– An epic side-scrolling space journey awaits you in Andro Dunos 2!\n– Fight and explode hundred of spaceships thanks to various weapons such as laser, hawk... or even homing missiles!\n– Recover power ups by killing enemies.\n– Music composed by Allister Brimble",
+    "publisher": "JUST FOR GAMES",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20220720,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20220720,
+        "131072": 20220720
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The sequel of the famous shoot'em up. Pilot your ship, using your different weapons to destroy the aliens in front of you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

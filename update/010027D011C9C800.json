@@ -1,4 +1,43 @@
 {
     "id": "010027D011C9C800",
-    "version": 196608
+    "base_tid": "010027D011C9C000",
+    "name": "Where Angels Cry",
+    "description": "Strange events are taking place in an isolated medieval monastery, set high in the Alps.  Monks are vanishing without a trace, mysterious persons are being sighted running through the dark passages of the monastery in the still of the night, Templars have now been assigned to stand watch and there are even reports that a statue in the center of the village is crying the tears of blood!\n\nA Vatican Cardinal has chosen you to travel to the monastery, undercover, to investigate these bizarre occurrences. Your duty is to reveal the secrets of the monastery, and monks who inhabit it, freeing this once sacred place from the evil forces currently in power. Take this amazing adventure and prove that your keen investigative instincts are up to this formidable task in Where Angels Cry - a challenging and exciting mystery, adventure game!\n\n- Use your skills and your secret identity to reveal the terrifying truth\n- Explore the monastery and its surroundings while interrogating its inhabitants\n- Solve perplexing puzzle and dozens of mini games\n- Enjoy the unique atmosphere and detailed environment\n- Earn many different achievements\n\n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20200423,
+    "first_update_release_date": 20200609,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20200609,
+        "131072": 20210927,
+        "196608": 20210927
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

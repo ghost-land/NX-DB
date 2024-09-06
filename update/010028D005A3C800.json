@@ -1,4 +1,42 @@
 {
     "id": "010028D005A3C800",
-    "version": 327680
+    "base_tid": "010028D005A3C000",
+    "name": "The Elder Scrolls V: Skyrim®",
+    "description": "馬で草原を駆け抜けたり、遺跡でお宝を探したり、大学で魔法を極めたり、暗殺者となって悪の道に進んだり。\n何をするか、どこへ向かうか、すべてが自由。\nあなただけの物語をその手で紡ぐ、オープンワールドRPGです。",
+    "publisher": "ベセスダ・ソフトワークス",
+    "developer": null,
+    "base_release_date": 20180201,
+    "first_update_release_date": 20180117,
+    "latest_update_release_date": 20240229,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240229
+    },
+    "versions": {
+        "65536": 20180117,
+        "196608": 20220930,
+        "262144": 20221025,
+        "327680": 20240229
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "誰にでもなれる、何でもできる。あなただけの物語を、どこででも。\n世界で200以上のアワードを獲得した傑作RPG。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

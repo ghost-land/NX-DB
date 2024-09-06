@@ -1,4 +1,30 @@
 {
     "id": "010028201240A800",
-    "version": 131072
+    "base_tid": "010028201240A000",
+    "name": "おうちでリラックマ　リラックマがおうちにやってきた",
+    "description": "あなたのおうちに、リラックマとコリラックマ、キイロイトリがいつの間にか暮らしています。\n彼らは、ゴロゴロしたり、おもちゃで遊んだり、勝手気ままに暮らしています。\nこのゲームでは、そんな彼らのお世話をしたり、おやつをあげたり、ゲームで遊んだり、一緒にフィットネスで汗をかいたりすることができます。\nリラックマたちと、おうちでのんびり、心の休息しませんか？",
+    "publisher": "日本コロムビア",
+    "developer": null,
+    "base_release_date": 20201105,
+    "first_update_release_date": 20201104,
+    "latest_update_release_date": 20201109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201109
+    },
+    "versions": {
+        "65536": 20201104,
+        "131072": 20201109
+    },
+    "category": [
+        "コミュニケーション"
+    ],
+    "intro": "リラックマと暮らす、がんばらない毎日",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

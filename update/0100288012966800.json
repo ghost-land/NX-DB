@@ -1,4 +1,37 @@
 {
     "id": "0100288012966800",
-    "version": 196608
+    "base_tid": "0100288012966000",
+    "name": "Woodsalt",
+    "description": "\"Woodsalt\" is an adventure game set on the planet of Nu-Terra, 1000 years after Earth was evacuated during chaotic natural disasters and an attack by giant creatures.\n\nYou control Emcy, an Earth born man who is awaken from stasis into a new city in a bubble as they wait for a signal to return back home, but not everybody is as eager to return as thought.\n\nA civil unrest grows in the city with a conspiracy to keep humanity from leaving, all the while Emcy is plagued by visions and messages from an unknown voice that nobody else can see or hear.\n\nMultiple endings, numerous side-plots with their own branching storylines that can affect the main plot and hidden secret endings to discover.\n\nGuide Emcy though conversation trees and free roam, explore the city and speak with the inhabitants to discover the secrets behind what happened on Earth, what lead to their arrival on this new planet and the mystery of the strange watcher who has an unknown but keen interest in Emcy and his journey.",
+    "publisher": "Team Woodsalt",
+    "developer": null,
+    "base_release_date": 20201013,
+    "first_update_release_date": 20201026,
+    "latest_update_release_date": 20210108,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210108
+    },
+    "versions": {
+        "65536": 20201026,
+        "131072": 20201128,
+        "196608": 20210108
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "\"Woodsalt\" is an adventure game set on the planet of Nu-Terra, 1000 years after Earth was evacuated during chaotic natural disasters and an attack by giant creatures.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

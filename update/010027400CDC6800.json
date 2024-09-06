@@ -1,4 +1,54 @@
 {
     "id": "010027400CDC6800",
-    "version": 655360
+    "base_tid": "010027400CDC6000",
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "description": "The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God, in multi-award winning RPG Divinity: Original Sin 2.\n\n- Choose from over 5 races and 6 unique origin characters or create your own.\n- Unlimited freedom to explore and experiment, with friends or with AI companions.\n- Hundreds of additional tweaks and changes come with the Definitive Edition",
+    "publisher": "Larian Studios",
+    "developer": null,
+    "base_release_date": 20190905,
+    "first_update_release_date": 20190905,
+    "latest_update_release_date": 20210902,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20210902
+    },
+    "versions": {
+        "65536": 20190905,
+        "131072": 20191002,
+        "196608": 20191023,
+        "262144": 20191108,
+        "327680": 20191122,
+        "393216": 20200123,
+        "458752": 20200302,
+        "524288": 20200614,
+        "589824": 20200813,
+        "655360": 20210902
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "There can only be one God.\nThe Divine is dead. The Void approaches. \nAnd the powers lying dormant within you are soon to awaken.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Sexual Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

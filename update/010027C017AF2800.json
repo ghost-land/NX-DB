@@ -1,4 +1,36 @@
 {
     "id": "010027C017AF2800",
-    "version": 131072
+    "base_tid": "010027C017AF2000",
+    "name": "ValiDate: Struggling Singles in your Area",
+    "description": "ValiDate is a visual novel about 13 struggling singles navigating through soul-sucking 9-to-5s, quarter-life crises, and the harsh truths millennials learn as soon as they hit their 20’s.\n\nSet in the Jercy City area, our cast of lovers trudge through the dregs of capitalism - a journey, a transition - a rite-of-passage that leads into uncertain mid-adulthood. On one side but not yet out on the other, our first volume's four playable characters, Malik, Inaya, Isabelle, and Emhari, find romance amongst cosplay, trash mixtapes, and even poetry straight from the soul.\n\nWith 28+ routes to choose from and hours of content, the lives of these singles are in your good (or bad!) decision-making hands.\"",
+    "publisher": "Veritable Joy Studios",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20221017,
+    "latest_update_release_date": 20230110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230110
+    },
+    "versions": {
+        "65536": 20221017,
+        "131072": 20230110
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "ValiDate is a romantic visual novel about 13 adults in Jercy City navigating new relationships and the harsh realities that come alongside them.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

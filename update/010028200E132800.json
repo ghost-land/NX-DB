@@ -1,4 +1,39 @@
 {
     "id": "010028200E132800",
-    "version": 65536
+    "base_tid": "010028200E132000",
+    "name": "Grass Cutter - Mutated Lawns",
+    "description": "The goal is to cut the grass. Very simple, but only at first glance… Grass Cutter calls for focus and commitment. Just one blink of an eye – and you lost. It is very challenging! The game is made in a cubic retro-style, has high complexity at advanced levels and is ready to truly test your reaction!\n\nMain Features:\n• Feel yourself in the shoes of a lawnmower who saves the world of people\n• More than 10 types of lawn mutations that give you a real challenge\n• A lot of obstacles. Bypass the security system and laser fences, escape the fire of security guns\n• You don't want ordinary lawn mowers? You can play with animals. There are many animals in the game: from cows and sheep to beautiful fairy unicorns",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20190710,
+    "first_update_release_date": 20190801,
+    "latest_update_release_date": 20190801,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190801
+    },
+    "versions": {
+        "65536": 20190801
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Platformer",
+        "Music"
+    ],
+    "intro": "Grass Cutter is a game about cutting mutating lawns, that requires lightning-speed response and great logical thinking. Here every level is a challenging puzzle.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null
 }

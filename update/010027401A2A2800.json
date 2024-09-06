@@ -1,4 +1,34 @@
 {
     "id": "010027401A2A2800",
-    "version": 65536
+    "base_tid": "010027401A2A2000",
+    "name": "泡沫のユークロニア",
+    "description": "空に浮かぶ箱庭、それは偽りの理想郷――\n\n舞台は空に浮かぶ箱庭。理想郷と名高き、栄えた都。\n――空中都市 凍玻璃（いてはり）。\n\n名家に生まれ、不自由なく育った\n外の世界に憧れを抱く主人公 雛菊（ひなぎく）。\n\n18歳になった主人公はある日、\n記憶を失った青年 矢代（やしろ）との出会いをきっかけに\n理想郷の貌（かお）に隠された\n真実を巡る事件に巻き込まれていく――",
+    "publisher": "ブロッコリー",
+    "developer": null,
+    "base_release_date": 20240411,
+    "first_update_release_date": 20240710,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20240710
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "実績のあるスタッフ陣がタッグを組んで贈る完全新作乙女ゲーム。からくり仕掛けの空中都市「凍玻璃」を舞台に描かれる儚くも美しい世界で生まれた「恋」の物語。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "犯罪",
+        "麻薬"
+    ],
+    "region": null
 }

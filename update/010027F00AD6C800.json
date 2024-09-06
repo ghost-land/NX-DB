@@ -1,4 +1,42 @@
 {
     "id": "010027F00AD6C800",
-    "version": 327680
+    "base_tid": "010027F00AD6C000",
+    "name": "SNK HEROINES Tag Team Frenzy",
+    "description": "Grab a friend and enter the SNK dream match in this frenetic fighting party game featuring everyone's favorite female fighters!\n\nPlay online or with friends as SNK's iconic heroines in the brand-new 2 vs 2 fighting game, SNK HEROINES Tag Team Frenzy! Activate Special Moves with a single button, and make use of special items to change the tide of battle! However, the fight isn't over the moment you've chipped enough health away. Once your opponent is on the ropes, utilize your Dream Finish technique to win the match! Spectate on other battles online, use your winnings to buy voice clips and accessories in an all-new costume system, and customize your favorite heroine to your heart's content!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180907,
+    "first_update_release_date": 20180821,
+    "latest_update_release_date": 20181212,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20181212
+    },
+    "versions": {
+        "65536": 20180821,
+        "131072": 20180919,
+        "196608": 20181010,
+        "262144": 20181114,
+        "327680": 20181212
+    },
+    "category": [
+        "Fighting",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }
