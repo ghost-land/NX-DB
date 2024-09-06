@@ -1,4 +1,34 @@
 {
     "id": "0100150012E9C800",
-    "version": 65536
+    "base_tid": "0100150012E9C000",
+    "name": "STRIKERS 1945 for Nintendo Switch",
+    "description": "以正宗射擊遊戲出名的彩京作品《STRIKERS 1945》透過任天堂SWITCH復活！\n避開無數的敵彈，擊退謎樣組織「CANY」吧！",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20201118,
+    "first_update_release_date": 20210720,
+    "latest_update_release_date": 20210720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210720
+    },
+    "versions": {
+        "65536": 20210720
+    },
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": "遊樂中心射擊的代名詞！1945系列里程碑的第一部作品《STRIKERS 1945》",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

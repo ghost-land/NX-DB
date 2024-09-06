@@ -1,4 +1,40 @@
 {
     "id": "0100160014F22800",
-    "version": 196608
+    "base_tid": "0100160014F22000",
+    "name": "NOSTALGIC TRAIN",
+    "description": "NOSTALGIC TRAIN is a mystical and melancholic first-person adventure/walking simulator set in the Japanese countryside, where you solve not only the mystery of the missing people of Natsugiri, but also that of \"yourself\". \nIt contains both a story mode, \"Two fluctuations at journey's end\", and a free mode, where you can explore the world of Natsugiri at your own pace. \nRelax and immerse yourself in a fantastical world full of tragic stories and beautiful nostalgic scenery, created by the Japanese indie game developer, Tatamibeya.\n\n*Recommended by the 22nd Japan Media Arts Screening Committee*\n\n【Story】 \nI was so dazzled that I could barely open my eyes. The singing of the cicadas and the humid air surrounded me. The air is filled with the faint smell of the sea breeze. \nI'm sitting on a wooden bench in an old station building. \nWhere is this place? And... what am I doing here? \n\nA nostalgic countryside. \nA station marked \"Natsugiri\". \nA single-track railroad. \nAs if stepping out of the purest of white light, I woke up here, my memories gone.\nI could not find anyone in this strange place...",
+    "publisher": "AMATA",
+    "developer": null,
+    "base_release_date": 20240215,
+    "first_update_release_date": 20210910,
+    "latest_update_release_date": 20220303,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220303
+    },
+    "versions": {
+        "65536": 20210910,
+        "131072": 20211110,
+        "196608": 20220303
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "- Two fluctuations at journey's end -\nBeautiful countryside novel and walking simulator",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

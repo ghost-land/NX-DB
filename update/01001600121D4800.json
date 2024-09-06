@@ -1,4 +1,31 @@
 {
     "id": "01001600121D4800",
-    "version": 131072
+    "base_tid": "01001600121D4000",
+    "name": "Here Comes Niko!",
+    "description": "Tadpole Inc. is looking for employees. Are you ready to be their next professional friend?\n\nIn Here Comes Niko!, the cozy 3D platformer for tired people, you’ll play as Niko traveling across scenic islands. Make new friends, catch fish, solve puzzles, snag bugs, and more! With Here Comes Niko! you're in for the most laid-back adventure of your life!",
+    "publisher": "Gears for Breakfast",
+    "developer": null,
+    "base_release_date": 20220901,
+    "first_update_release_date": 20230811,
+    "latest_update_release_date": 20230907,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230907
+    },
+    "versions": {
+        "65536": 20230811,
+        "131072": 20230907
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": "Here Comes Niko! is the cozy 3D platformer for tired people!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "010015901DCFC800",
-    "version": 65536
+    "base_tid": "010015901DCFC000",
+    "name": "Arcade Archives WAR OF AERO",
+    "description": "\" WAR OF AERO \" is a shooter released by ALLUMER in 1992.\nThe aircraft can be fitted with pods on either side, which can be turned around to shoot up and down.\nIn addition, when the 1P and 2P aircraft are stacked on top of each other, they merge to create a powerful attack.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20240229,
+    "first_update_release_date": 20240228,
+    "latest_update_release_date": 20240228,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240228
+    },
+    "versions": {
+        "65536": 20240228
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Can you stop this MEIOU project!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

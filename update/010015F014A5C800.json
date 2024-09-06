@@ -1,4 +1,38 @@
 {
     "id": "010015F014A5C800",
-    "version": 65536
+    "base_tid": "010015F014A5C000",
+    "name": "Rise Eterna",
+    "description": "Feed your nostalgia with a tactical RPG inspired by the greatest classical titles. Take on an adventurous journey, meet a whole range of unique characters, and immerse yourself in an engaging storyline.\n\nRecruit up to 14 characters, each with their unique abilities, and defeat your worst nightmare in epic fights. Unveil a dark and mature story focused on the relationship between two lost souls trying to discover the meaning of there life, fighting side by side.\n\nFEATURES\nBuild your army: 14 characters and countless personalization possibilities. Learn skills, recruit unique heroes, and prepare them for battle. Turn them into war machines, the Empire deserves your wrath.\n\nCraft: develop your characters using gems, crafted with numerous ingredients looted during battles.\n\nRich story: experience and share critical moments of Lua and Natheal’s life.\n\nHidden content: will you be able to find all the hidden characters and challenges? The game is deeper than you might think at first glance, search everywhere and become the unquestionable champion of Ars Rare kingdom.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20210513,
+    "first_update_release_date": 20210527,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20210527
+    },
+    "category": [
+        "Strategy",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Follow the story of Lua and unveil the mysteries surrounding her origins in the tactical RPG, reminiscence of the 16-bit era Japanese strategy games. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

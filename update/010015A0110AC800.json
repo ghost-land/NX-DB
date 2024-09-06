@@ -1,4 +1,39 @@
 {
     "id": "010015A0110AC800",
-    "version": 196608
+    "base_tid": "010015A0110AC000",
+    "name": "Fairy Knights",
+    "description": "Here begins the journey of a boy and a girl.\nSlay the Devil and bring back the rain\nto the barren Kingdom of Vadelle!\n\n◆ Dynamic Puzzle + RPG!\nThe combination of puzzle and RPG!\nEnjoy the speedy combat!\nUse stone panels to defeat the enemy!\n\n◆ Test your strategy with stone panels!\nActivate various attacks and spells by moving and destroying stone panels!\nSolve the puzzle with your own strategy and win the battle!\n\n◆ Go for combos!\nMore stone panels you destroy, more combos you make!\nUse combos and give the highest damage possible!\n\n◆ Journey with adorable characters!\nExplore the pastel-colored world like a fairy tale!\nHit the road with SD characters full of cuteness!\n\nThe tale of friendship, will, and courage!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20200430,
+    "first_update_release_date": 20200422,
+    "latest_update_release_date": 20200624,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200624
+    },
+    "versions": {
+        "65536": 20200422,
+        "131072": 20200601,
+        "196608": 20200624
+    },
+    "category": [
+        "RPG",
+        "Puzzle",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "The new dynamic puzzle RPG!\nHit the road with cute heroes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100153006300800",
-    "version": 131072
+    "base_tid": "0100153006300000",
+    "name": "無双OROCHI２ Ultimate",
+    "description": "突如現れた魔王・遠呂智によって作り出された異次元の世界を舞台に「真・三國無双」と「戦国無双」の英傑たちが活躍するシリーズ第２弾の拡張版。\n無双シリーズ最多145名のキャラクターが登場し、異世界の謎が明らかになる物語や、パーティーバトルが楽しめる「アンリミテッドモード」など数々の要素を追加したボリューム満載の作品です。",
+    "publisher": "コーエーテクモゲームス",
+    "developer": null,
+    "base_release_date": 20171109,
+    "first_update_release_date": 20171108,
+    "latest_update_release_date": 20180206,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180206
+    },
+    "versions": {
+        "65536": 20171108,
+        "131072": 20180206
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "すべてが明かされる――",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル",
+        "暴力"
+    ],
+    "region": null
 }

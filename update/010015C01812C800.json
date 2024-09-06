@@ -1,4 +1,40 @@
 {
     "id": "010015C01812C800",
-    "version": 65536
+    "base_tid": "010015C01812C000",
+    "name": "Thunder Ray",
+    "description": "Step into the ring and experience the adrenaline-pumping action of our retro arcade boxing game, but with a modern twist! Get ready to throw jabs, hooks, and uppercuts as you face off against a roster of colorful and eccentric opponents. The game features meticulously crafted HD animations, bringing each character to life with stunning detail and fluid movements.\n\nFEATURES:\n- Enjoy wonderful 2D Handmade Animations\n- Master Thunder special attacks\n- Rule the Arcade dynamic boxing\n- Travel across Galactic Stages\n- Become a Champion of the Universe\n- Learn to defeat the most brutal techniques\n- Be bloody and wild!",
+    "publisher": "Purple Play",
+    "developer": null,
+    "base_release_date": 20230914,
+    "first_update_release_date": 20240222,
+    "latest_update_release_date": 20240222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240222
+    },
+    "versions": {
+        "65536": 20240222
+    },
+    "category": [
+        "Fighting",
+        "Sports",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Get ready for the ultimate Arcade Boxing, Retro-like experience in a game brimming with blood and violence.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

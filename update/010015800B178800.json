@@ -1,4 +1,32 @@
 {
     "id": "010015800B178800",
-    "version": 65536
+    "base_tid": "010015800B178000",
+    "name": "V-Rally 4",
+    "description": "世界中の大陸を股に掛けた壮大な旅の中で ラリー、V-ラリークロス、ドリフト、バギー、ヒルクライムにチャレンジ。\nオフロード車のハンドルを握り、過酷なシチュエーションでトップを目指せ！！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20190411,
+    "first_update_release_date": 20190529,
+    "latest_update_release_date": 20190529,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190529
+    },
+    "versions": {
+        "65536": 20190529
+    },
+    "category": [
+        "レース",
+        "スポーツ",
+        "アーケード",
+        "アドベンチャー"
+    ],
+    "intro": "V-Rallyシリーズが16年の沈黙を破り登場！！！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

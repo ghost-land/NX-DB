@@ -1,4 +1,45 @@
 {
     "id": "010015B012E0C800",
-    "version": 196608
+    "base_tid": "010015B012E0C000",
+    "name": "Disc Room",
+    "description": "The year is 2089 and a giant disc has appeared in orbit of Jupiter. Step into the oversized space suit of a brave scientist and explore this sprawling intergalactic slaughterhouse.\n\nAnd remember: what kills you only makes you stronger.\n\nDisc Room is a collaboration between Kitty Calis, Jan Willem Nijman, Terri Vellmann and Doseone.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230613,
+    "first_update_release_date": 20201104,
+    "latest_update_release_date": 20210702,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210702
+    },
+    "versions": {
+        "65536": 20201104,
+        "131072": 20210104,
+        "196608": 20210702
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Are you ready to get sliced in half?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

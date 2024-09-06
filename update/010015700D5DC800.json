@@ -1,4 +1,36 @@
 {
     "id": "010015700D5DC800",
-    "version": 196608
+    "base_tid": "010015700D5DC000",
+    "name": "Super Jumpy Ball",
+    "description": "Super Jumpy Ball is a simple & fun 2D platform game for 1-8 players, inspired by retro platformers. Faced with clever level design and challenging obstacles, players must find their way through each level while bouncing, wall jumping, avoiding spikes and spike balls.  \n\nLOCAL MULTIPLAYER\nSupports 1-8 players in various party modes. Challenge your friends to a Spike Battle or why not play a friendly basketball match? \n\nGLOBAL LEADERBOARD\nCompete with other players from around the world and reach the #1 spot. Prove once and for all that you are the best player in the world.\n\nSPEED RUN SUPPORT\nBeat all levels as fast as possible and see if you can become the fastest player in the world.\n",
+    "publisher": "Pretty Fly Games",
+    "developer": null,
+    "base_release_date": 20190906,
+    "first_update_release_date": 20190924,
+    "latest_update_release_date": 20230127,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230127
+    },
+    "versions": {
+        "65536": 20190924,
+        "131072": 20211207,
+        "196608": 20230127
+    },
+    "category": [
+        "Platformer",
+        "Party",
+        "Action",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

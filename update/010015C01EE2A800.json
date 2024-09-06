@@ -1,4 +1,37 @@
 {
     "id": "010015C01EE2A800",
-    "version": 65536
+    "base_tid": "010015C01EE2A000",
+    "name": "Mezmeratu",
+    "description": "Forget about Pizza Tower and Action Blast! The platform game of the year 2024 is... MEZMERATU! A completely infernal 2D platform game with a rogue style! Each time you play the world changes! So forget about memorizing the levels! Each time it's a completely different one! Mezmeratu is the platformer spin-off of the Baobabs Mausoleum saga created solo by Jacob Jazz. Full of surrealistic horror villages, stinky talking characters, impossible rogue platforms, and... and a giant fish kidnapped inside an owl's beak. WELCOME TO PROSCIUTTO MISA!",
+    "publisher": "Phantom Publishing",
+    "developer": null,
+    "base_release_date": 20240531,
+    "first_update_release_date": 20240524,
+    "latest_update_release_date": 20240524,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240524
+    },
+    "versions": {
+        "65536": 20240524
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "(◣__◢ )THE ROGUE-LITE PLATFORMER GAME OF THE YEAR!(◣__◢ )",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Crude Humor",
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

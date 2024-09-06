@@ -1,4 +1,44 @@
 {
     "id": "0100152012BB0800",
-    "version": 196608
+    "base_tid": "0100152012BB0000",
+    "name": "Kill It With Fire",
+    "description": "The spider - mankind’s most ancient and deadly nemesis. As a licensed Kill It With Fire exterminator, it’s time to fight back! Assemble your arsenal of increasingly excessive weapons, track spiders across suburbia, and burn everything in your path!\n\nTo defeat spiders you must exploit their one weakness: FIRE. Or bullets. Or explosions, throwing stars, gettin’ smushed by stuff...pretty much anything, really. But that doesn’t mean it’ll be easy - first you’ve gotta find the spiders. Use state-of-the-art arachnid tracking technology to pinpoint your quarry’s location among hundreds of potential hiding spots - then, torch everything and smash the spider with a frying pan after it runs out. It’s the only way to be sure.\n• Dozens of weapons.\n• Creepy crawlies\n• “Realistic” fire simulation system\n• Gratuitous chaos and destruction\n• Learn the truth about spiders",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20211220,
+    "first_update_release_date": 20210218,
+    "latest_update_release_date": 20220901,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220901
+    },
+    "versions": {
+        "65536": 20210218,
+        "196608": 20220901
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

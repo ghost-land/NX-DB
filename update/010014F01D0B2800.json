@@ -1,4 +1,37 @@
 {
     "id": "010014F01D0B2800",
-    "version": 65536
+    "base_tid": "010014F01D0B2000",
+    "name": "Stunt Paradise",
+    "description": "Push your driving skills to the limit as you perform insane stunts, including jumping off ramps, flipping through the air, and smashing through explosive obstacles!\n\nExplore extreme tracks in various locations, from industrial cities and dusty deserts to beautiful tropical beaches. With many cool cars to choose from, each level offers a unique challenge that enhances your driving experience.\n\nKey features\n\n• Extreme driving stunts\n• 20 unique cars\n• 50 crazy levels\n• Stylish graphics\n\nHit the gas and start your adventure in the world of extreme driving and stunts! ",
+    "publisher": "Brinemedia",
+    "developer": null,
+    "base_release_date": 20240321,
+    "first_update_release_date": 20240501,
+    "latest_update_release_date": 20240501,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240501
+    },
+    "versions": {
+        "65536": 20240501
+    },
+    "category": [
+        "Racing",
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Get ready for an adrenaline-fueled ride in Stunt Paradise! Take on epic challenges, perform insane stunts, and experience extreme driving. Buckle up and play now!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

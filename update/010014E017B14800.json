@@ -1,4 +1,38 @@
 {
     "id": "010014E017B14800",
-    "version": 196608
+    "base_tid": "010014E017B14000",
+    "name": "OMORI",
+    "description": "Explore a strange world full of colorful friends and foes. Navigate through the vibrant and the mundane in order to uncover a forgotten past. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.\n\n",
+    "publisher": "OMOCAT",
+    "developer": null,
+    "base_release_date": 20220617,
+    "first_update_release_date": 20220617,
+    "latest_update_release_date": 20220819,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220819
+    },
+    "versions": {
+        "65536": 20220617,
+        "131072": 20220617,
+        "196608": 20220819
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Welcome to White Space.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100153014544800",
-    "version": 262144
+    "base_tid": "0100153014544000",
+    "name": "STAR WARS™: The Force Unleashed™",
+    "description": "You are Starkiller, Darth Vader’s secret apprentice, who has been trained to hunt down and destroy the Jedi.  Take advantage of devastating Force powers and lightsaber combos to do Darth Vader’s bidding.  Similar to the 2008 release on the Nintendo Wii™, use the Nintendo Joy-Con motion controls to truly feel the destructive power of the Force or challenge a friend to a 1v1 in the local multiplayer Duel mode!\n\n**Play as Darth Vader’s \"Secret Apprentice\"** \nDestroy all who stand in your way in your ultimate quest to serve Lord Vader. Discover the untold story of the Secret Apprentice set between STAR WARS: Revenge of the Sith and STAR WARS: A New Hope.\n\n**Unleash Epic Force Powers!** \nJust like it’s original release on the Nintendo Wii, players can unleash devastating Force powers and lightsaber combos using the Nintendo Joy-Con’s optional motion controls.\n\n**Local Multiplayer Duel Mode.** \nChoose from 27 characters to battle a friend in a local multiplayer mode to determine the galaxy’s most powerful Jedi!\n\n**Travel the Star Wars galaxy.**\nDefeat Jedi Masters on familiar worlds, including Cloud City and the Wookiee homeworld Kashyyyk, or at other unique locations like the floral planet Felucia and the junk planet Raxus Prime.",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20220420,
+    "first_update_release_date": 20220315,
+    "latest_update_release_date": 20240523,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240523
+    },
+    "versions": {
+        "65536": 20220315,
+        "131072": 20220512,
+        "262144": 20240523
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Unleash the power of the Force!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "01001510166E2800",
-    "version": 65536
+    "base_tid": "01001510166E2000",
+    "name": "Amazing Chicken Adventures",
+    "description": "Featuring classical music, broken eggs, chicken-inappropriate tools, and mandatory funny hats.\n\nFeaturing:\n- Egg-rolling adventures - Explore the whimsical world, unlock new adventures, and don't forget to put all of your eggs into one basket.\n\n- Quirky-loot - From silly hats to mighty weapons, discover treasures and sustainable, battery-powered chicken-tech.\n\n- Unique art style - Inspired by Eastern European folklore and a dream to explore the entire world, I spent hours polishing the pixels! \n\n- Classical music - Featuring Public Domain recordings of European Classical music. Get frustrated by the falling eggs and then relax to the music of Chopin, Mozart, Beethoven, Vivaldi and more.\n\n- 2-player couch co-op - Because every hero needs a side-quack.",
+    "publisher": "Piotr Rochala",
+    "developer": null,
+    "base_release_date": 20221031,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20221218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221218
+    },
+    "versions": {
+        "65536": 20221218
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Start an adventure where gravity is your worst enemy & save the world one egg at a time in this 3D egg-rolling puzzle platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

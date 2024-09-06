@@ -1,4 +1,45 @@
 {
     "id": "010015F005C8E800",
-    "version": 131072
+    "base_tid": "010015F005C8E000",
+    "name": "Tricky Towers",
+    "description": "With your brilliant robe and magic powers, \nit’s time to build some Tricky Towers! \n\nStack your bricks in this land of fable,\nwhose marvelous tower will be the most stable?\n\nCast magic to support your construction,\nand fend off dark spells to avoid destruction.\n\nBattle your friends and rise to fame,\nin this frantic physics party game.",
+    "publisher": "WeirdBeard",
+    "developer": null,
+    "base_release_date": 20181011,
+    "first_update_release_date": 20181011,
+    "latest_update_release_date": 20190110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190110
+    },
+    "versions": {
+        "65536": 20181011,
+        "131072": 20190110
+    },
+    "category": [
+        "Puzzle",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Digital Purchases"
+    ],
+    "region": null
 }

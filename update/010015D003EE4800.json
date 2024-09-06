@@ -1,4 +1,35 @@
 {
     "id": "010015D003EE4800",
-    "version": 65536
+    "base_tid": "010015D003EE4000",
+    "name": "The Jackbox Party Pack 2",
+    "description": "The sequel to the party game phenomenon The Jackbox Party Pack, featuring FIVE fresh, rib-tickling party games! Games include: \n\n1) The runaway hit bluffing game Fibbage 2 (2-8 players) with over 500 brand-new questions, more than 2x the original. \n2) The hear-larious sound-effects game Earwax (3-8 players). \n3) The absurd art auction game Bidiots (3-6 players), where you draw right there on your phone or tablet. \n4) The say-anything, gut-busting Quiplash XL (3-8 players), which includes everything in Quiplash, Quip Pack 1, AND over 100 brand-new prompts. \n5) The bomb-defusing nailbiter of a party game, Bomb Corp. (1-4 players). \nPlayers play using their phones, tablets, or even computers as controllers – making it the perfect easy-to-join party starter. No extra controllers needed! And, spectators can join and affect some games by playing as Audience members! \n\nNOTE: This game is local play only. It’s a game-night riot in a box… without the box!\n\nNOTE: The games included in this pack are in English only.",
+    "publisher": "Jackbox Games",
+    "developer": null,
+    "base_release_date": 20170817,
+    "first_update_release_date": 20230227,
+    "latest_update_release_date": 20230227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230227
+    },
+    "versions": {
+        "65536": 20230227
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Communication",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Crude sexual humour"
+    ],
+    "region": null
 }

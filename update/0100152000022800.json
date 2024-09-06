@@ -1,4 +1,60 @@
 {
     "id": "0100152000022800",
-    "version": 1179648
+    "base_tid": "0100152000022000",
+    "name": "Mario Kart™ 8 Deluxe",
+    "description": "Burn rubber across Mushroom Kingdom raceways—underwater, in the sky, upside-down in zero-g, and past the finish—for the win! Get revved up for local multiplayer*, online** in-game tournaments, a revamped battle mode, and more!\n\nStay fresh in the Mario Kart™ 8 Deluxe game by playing as guest characters Inkling Girl and Inkling Boy! You can use their Splatoon inspired karts on their battle mode stage, Urchin Underpass. There are also returning items, like Boo, the item-stealing ghost, and the Feather, used exclusively in battle mode. Veterans rejoice—you can hold two items at once! Prove you’re the world’s best racer and battler in online tournaments, or simply race and battle friends online. With many control options and handheld mode, there’s always a way to play on the Nintendo Switch™ system!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20170428,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20231129,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20231129
+    },
+    "versions": {
+        "196608": 20170814,
+        "262144": 20171018,
+        "327680": 20171212,
+        "393216": 20180625,
+        "458752": 20180719,
+        "524288": 20180919,
+        "589824": 20190122,
+        "655360": 20210525,
+        "720896": 20220317,
+        "786432": 20220805,
+        "851968": 20221207,
+        "917504": 20221221,
+        "983040": 20230308,
+        "1048576": 20230714,
+        "1114112": 20231123,
+        "1179648": 20231129
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "Race with Mario and friends anytime, anywhere!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Comic Mischief",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null
 }

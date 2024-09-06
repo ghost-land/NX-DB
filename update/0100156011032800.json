@@ -1,4 +1,43 @@
 {
     "id": "0100156011032800",
-    "version": 131072
+    "base_tid": "0100156011032000",
+    "name": "Ageless",
+    "description": "Lost, confused and alone. What will Kiara do when she suddenly finds herself with the power to control the age of flora and fauna? An ability that was bestowed onto her by a magical obelisk.\n \nTraverse a puzzle-platforming world unlike any other, full of myths and magic. Embark on an emotional journey where you will be faced with tough choices and forced to face your inner demons.\n\nFollow Kiara as she is thrown into a world of wonder and heart ache. Manipulate the age of animals and plant-life as you find your way through intricate environmental puzzles and defeat the merciless bosses that stand in your way. ",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20200728,
+    "first_update_release_date": 20200717,
+    "latest_update_release_date": 20201214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201214
+    },
+    "versions": {
+        "65536": 20200717,
+        "131072": 20201214
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Ageless is a story driven puzzle platformer where you must alter the age of animals and plant life around you to progress.",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }
