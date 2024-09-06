@@ -1,4 +1,43 @@
 {
     "id": "0100F200178F4800",
-    "version": 327680
+    "base_tid": "0100F200178F4000",
+    "name": "FRONT MISSION 1st: Remake",
+    "description": "In the year 2090, the world's conflicts are fought using giant war machines called Wanzers. Huffman Island, the only place where the Oceania Cooperative Union (O.C.U.) and the Unified Continental States (U.C.S.) share a land border is a hotbed of conflict.\n\nAn O.C.U. reconnaissance platoon led by Captain Royd Clive is assigned to investigate a U.C.S. munitions plant. They are ambushed by U.C.S. Wanzers, triggering a series of events that plunges the whole island into war. Royd's fiancée, Lieutenant Karen Meure, goes missing in action.\n\nDischarged from the military, Royd sets out to investigate what happened to Karen. His quest leads him closer and closer to the conspiracy behind the incident and the powers that orchestrated it.\n\nWith dozens of characters to meet, its mature story, and non-Manichean protagonists, Front Mission is the classic of a tactical Japanese RPG genre, finally available worldwide.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20221201,
+    "first_update_release_date": 20221123,
+    "latest_update_release_date": 20230915,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230915
+    },
+    "versions": {
+        "65536": 20221123,
+        "131072": 20221201,
+        "196608": 20221218,
+        "262144": 20230201,
+        "327680": 20230915
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "・Front Mission comes back in its first HD remake\n・The game features a modern mode with improved controls",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes, violence and coarse language"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100F200049C8800",
-    "version": 131072
+    "base_tid": "0100F200049C8000",
+    "name": "InnerSpace",
+    "description": "InnerSpace is an exploration flying game set in the Inverse, a world of inside-out planets with no horizons. Soar through ancient skies and abandoned oceans to discover the lost history of this fading realm, where gods still wander. Your greatest journey is within. ",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20180302,
+    "latest_update_release_date": 20180608,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180608
+    },
+    "versions": {
+        "65536": 20180302,
+        "131072": 20180608
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Your greatest journey is within. Free June content update!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

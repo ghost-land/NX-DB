@@ -1,4 +1,34 @@
 {
     "id": "0100F29018F9C800",
-    "version": 65536
+    "base_tid": "0100F29018F9C000",
+    "name": "Hatchwell",
+    "description": "A top-down action RPG set in a day in a town called Hatchwell. While the townspeople are busy preparing for the festival, a series of events will disrupt the preparations. Run around town and help the Mayor investigate different parts near and within Hatchwell and find out what's causing these events, that seem to worsen as the day goes by.\n\nFeatures:\n• Customize your character.\n• Choose from 12 different pet companions.\n• Experience Hatchwell as it changes through the (in game) day.\n• Explore and solve puzzles from 7 parts of town\n• Find items that can help you with your adventure.\n• Collect optional accessories with unique abilities.\n• Discover more optional items that are not found in the main storyline.",
+    "publisher": "Adrian Corpuz",
+    "developer": null,
+    "base_release_date": 20221020,
+    "first_update_release_date": 20221020,
+    "latest_update_release_date": 20221020,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221020
+    },
+    "versions": {
+        "65536": 20221020
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

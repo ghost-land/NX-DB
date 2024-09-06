@@ -1,4 +1,43 @@
 {
     "id": "0100F2A005C98800",
-    "version": 262144
+    "base_tid": "0100F2A005C98000",
+    "name": "Gorogoa",
+    "description": "Gorogoa is an elegant evolution of the puzzle genre, told through a beautifully hand-drawn story designed and illustrated by Jason Roberts.\n \nUNIQUELY IMAGINATIVE PUZZLES\nThe gameplay of Gorogoa is wholly original, comprised of lavishly illustrated panels that players arrange and combine in imaginative ways to solve puzzles. Impeccably simple, yet satisfyingly complex.\n\nGORGEOUSLY HAND-DRAWN GAMEPLAY\nJason Roberts created thousands of meticulously detailed hand-drawn illustrations, encompassing the impressive scope of Gorogoa's personal narrative.\n\nA NEW KIND OF STORYTELLING\nGorogoa isn't just a game - it's a work of art, expressing itself through soulful, charming illustrations and distinguished puzzle mechanics.",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20180104,
+    "latest_update_release_date": 20180522,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20180522
+    },
+    "versions": {
+        "65536": 20180104,
+        "131072": 20180119,
+        "196608": 20180417,
+        "262144": 20180522
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100F2B012658800",
-    "version": 65536
+    "base_tid": "0100F2B012658000",
+    "name": "Pachi Pachi On A Roll",
+    "description": "Dress up for the occasion, complete all missions, fight giant UFOs, defeat dragons, and rob a train, to get the highest score possible in this fun mix of pachinko and pinball.\n\nFeatures:\n• Arcade design.\n• More than 32 missions to complete.\n• 4 different machines (Casino, Western, Sci-fi, medieval).\n• 3 minigames\n• 8 different dresses",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20200625,
+    "first_update_release_date": 20200711,
+    "latest_update_release_date": 20200711,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200711
+    },
+    "versions": {
+        "65536": 20200711
+    },
+    "category": [
+        "Board Game",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Join Fujiko and Robin, two thieves, risking all (including their clothes) to ruin the bank of the biggest 4 casinos in Money City.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

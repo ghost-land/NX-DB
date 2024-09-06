@@ -1,4 +1,53 @@
 {
     "id": "0100F2900B3E2800",
-    "version": 851968
+    "base_tid": "0100F2900B3E2000",
+    "name": "Killer Queen Black",
+    "description": "An epic, platform strategy game for up to eight players online or locally. Play Killer Queen Black casually in quickplay matches, up the intensity in ranked matches, or invite friends to a private room. Easy to play, hard to master, fun for all!\n\nKiller Queen Black, inspired by the hit arcade game, Killer Queen, let’s you fight for your hive with three ways to win. Will you claim your victory by hopping on the snail, hoarding berries, or wiping out the enemy's queen? \n\nAttack, fly, and stay alive. If you are playing queen, you’ll want to protect your hive and your workers. The responsibilities don’t stop there, having a strategy in place will be beneficial, but you’ll also need to be fluid and keen on your opposing team’s strategy.\n\nWant responsibilities but rather hustle than dodge death? Workers excel in adaptability which makes them essential for carrying out game-winning objectives. Initially defenseless, workers collect berries and head to the hive, however, they can also boost their speed and become soldiers. These transformed workers wield maces, swords, shields, and laser rifles, to quickly become deadly aggressors.\n\nFeatures\n-Intense four on four team combat\n-Eight-player local and online play supported\n-Cross-platform multiplayer includes in-game voice chat \n-Tutorials to help you develop your strategy\n-Challenging AI opponents to test your skills\n-Choice of role between the queen, worker, or soldier\n-Five character skins to choose from\n-Four unique weapons to use: sword, morning star, laser, and stinger\n-Seven battlefields that test your strategic skills\n-KQBTV allows you to watch matches and learn from the pros\n",
+    "publisher": "Liquid Bit",
+    "developer": null,
+    "base_release_date": 20191011,
+    "first_update_release_date": 20190921,
+    "latest_update_release_date": 20211019,
+    "latest_update": {
+        "version": "851968",
+        "release_date": 20211019
+    },
+    "versions": {
+        "65536": 20190921,
+        "131072": 20191008,
+        "196608": 20191025,
+        "262144": 20191122,
+        "327680": 20200121,
+        "393216": 20200220,
+        "458752": 20200714,
+        "524288": 20201002,
+        "589824": 20201027,
+        "655360": 20210201,
+        "720896": 20210305,
+        "786432": 20210827,
+        "851968": 20211019
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Strategy"
+    ],
+    "intro": "A strategic team platformer that offers endless party fun and killer competition.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

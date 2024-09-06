@@ -1,4 +1,34 @@
 {
     "id": "0100F1F00D5B2800",
-    "version": 65536
+    "base_tid": "0100F1F00D5B2000",
+    "name": "Darkest Hunters",
+    "description": "Choose your hero, grab your weapon, learn new spells and ... HUNT! Eliminate every nasty beast you encounter, collect loot and find the rarest, as well as the best equipment!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190502,
+    "first_update_release_date": 20190501,
+    "latest_update_release_date": 20190501,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190501
+    },
+    "versions": {
+        "65536": 20190501
+    },
+    "category": [
+        "RPG",
+        "Board Game",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": "Darkest Hunters offers dozens of hours of challenge for advanced players and anyone who wants to start an epic journey",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

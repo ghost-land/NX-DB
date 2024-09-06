@@ -1,4 +1,68 @@
 {
     "id": "0100F2200C984800",
-    "version": 1703936
+    "base_tid": "0100F2200C984000",
+    "name": "Mortal Kombat 11",
+    "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. Featuring a roster of new and returning Klassic Fighters, Mortal Kombat's best-in-class cinematic story mode continues the epic saga over 25 years in the making. Players take on the role of a variety of past and present characters in a time-bending new narrative that pits Raiden against Kronika, the Keeper of Time. Packed to the brim with multiple modes, including the Towers of Time, allowing players to test their skills through various challenges, providing more ways than ever to continue the Mortal Kombat 11 experience.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20190422,
+    "first_update_release_date": 20190409,
+    "latest_update_release_date": 20210128,
+    "latest_update": {
+        "version": "1703936",
+        "release_date": 20210128
+    },
+    "versions": {
+        "65536": 20190409,
+        "131072": 20190419,
+        "196608": 20190427,
+        "262144": 20190509,
+        "327680": 20190531,
+        "393216": 20190618,
+        "458752": 20190722,
+        "524288": 20190813,
+        "589824": 20190909,
+        "655360": 20191008,
+        "720896": 20191126,
+        "786432": 20191217,
+        "851968": 20200128,
+        "917504": 20200219,
+        "983040": 20200317,
+        "1048576": 20200423,
+        "1114112": 20200526,
+        "1179648": 20200617,
+        "1245184": 20200708,
+        "1310720": 20200806,
+        "1376256": 20200828,
+        "1441792": 20200929,
+        "1507328": 20201117,
+        "1572864": 20201124,
+        "1638400": 20201217,
+        "1703936": 20210128
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "0100F1E011982800",
-    "version": 131072
+    "base_tid": "0100F1E011982000",
+    "name": "Gerritory",
+    "description": "Gerritory is a 4-player action party game with unique game rules and minimalistic visuals.\n\nYou and your friends control cube characters to move in various levels and color tiles to score points. The one who is behind the scoreboard can kill another player with a higher point by stepping on them. If you reach the goal point or have the highest point when the time is up, you win!\n\nFeatures:\n*Unique but simple game rules\n*Move and color the tiles to score points!\n*Kill the superior players by stepping on them!\n*Unlock more than 30 levels with different tiles and features.\n*Additional environment modes that challenge your skills: *Blackout, Game of Tag and Air Raid.\n*Utilize various power-ups to win the game!\n*Different match mode\n*Compete in a series of games to be the final winner.\n*Customize game objectives and environments in the custom match.\n\nAwards:\n*2019 Taipei Game Show - Indie Game Award - Best Design\n*2018 Indieplay China - Indie Game Award - Best Student Game - 2nd Place\n*2018 THE MIX Indie Showcase at TGDF - Official Selection\n*2018 Vision Get Wild - PC Category - Sliver\nPlay as different cube characters.\n\nBattle against your friends locally or AI bots!\n",
+    "publisher": "Digital Crafter",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200506,
+    "latest_update_release_date": 20200618,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200618
+    },
+    "versions": {
+        "65536": 20200506,
+        "131072": 20200618
+    },
+    "category": [
+        "Party",
+        "Arcade",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "Get your territory! Move and color the tiles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
+    "region": null
 }

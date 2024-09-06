@@ -1,4 +1,34 @@
 {
     "id": "0100F2801BC4E800",
-    "version": 65536
+    "base_tid": "0100F2801BC4E000",
+    "name": "Summer Party Time",
+    "description": "We've got a huge collection of games with controls so simple anyone can enjoy!\nPass around the Joy-Con™ controllers and play with up to six players!\n\nThere are plenty of intuitive and easy-to-play minigames for everyone!\nEnjoy finding your new favorite!\n\nFree Mode\nChoose the game you want to play and have a blast!\n\nFestival Mode\nPlay your chosen games in order to become the champ!\n\nOnline Mode\nBattle online against your friends and players the world over!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20230713,
+    "first_update_release_date": 20230810,
+    "latest_update_release_date": 20230810,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230810
+    },
+    "versions": {
+        "65536": 20230810
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Racing",
+        "Communication"
+    ],
+    "intro": "Get ready for the best summer ever!\nParty with your friends anytime, anywhere!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

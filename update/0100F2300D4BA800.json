@@ -1,4 +1,44 @@
 {
     "id": "0100F2300D4BA800",
-    "version": 196608
+    "base_tid": "0100F2300D4BA000",
+    "name": "Darksiders Genesis",
+    "description": "DARKSIDERS GENESIS is an action/adventure that tears its way through Hell and back with guns blazing and swords swinging.  Genesis gives players their first look at the world of DARKSIDERS before the events of the original game. Furthermore, it introduces the fourth and last horseman STRIFE, as well as Co-op gameplay for the first time in the history of the franchise.",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20200215,
+    "first_update_release_date": 20200209,
+    "latest_update_release_date": 20200429,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200429
+    },
+    "versions": {
+        "65536": 20200209,
+        "131072": 20200217,
+        "196608": 20200429
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Explore the epic world of Darksiders and wreak havoc with a friend in two-player cooperative mode",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

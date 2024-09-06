@@ -1,4 +1,35 @@
 {
     "id": "0100F2301CC52800",
-    "version": 131072
+    "base_tid": "0100F2301CC52000",
+    "name": "Cat Simulator",
+    "description": "Have you ever thought about spending hours having fun with a simple cat simulator?\n\nIf so, this is your opportunity to choose a cat and go around making a mess and doing tasks.",
+    "publisher": "Nerd Games",
+    "developer": null,
+    "base_release_date": 20231225,
+    "first_update_release_date": 20240126,
+    "latest_update_release_date": 20240223,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240223
+    },
+    "versions": {
+        "65536": 20240126,
+        "131072": 20240223
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "A cat has never been so mischievous on a farm.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

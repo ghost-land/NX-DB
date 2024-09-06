@@ -1,4 +1,38 @@
 {
     "id": "0100F3000EC70800",
-    "version": 65536
+    "base_tid": "0100F3000EC70000",
+    "name": "わいわい！ナイスショットテニス",
+    "description": "操作方法は3タイプ。「モーション操作」では、実際のテニスさながらに、Joy-Conを振ることでゲームが楽しめます。通常の「ボタン操作」はもちろん、「ミックス操作」は、この２つの組み合わせです。\nEXPを貯めて、レベルアップをすることで、総勢19人のプレイヤーキャラや、グラス、クレーなど9種類のコートが自由にセレクトできます。1Ｐモード、VSモードに加え、最大８人までのトーナメント大会も楽しめます。",
+    "publisher": "レイニーフロッグ",
+    "developer": null,
+    "base_release_date": 20190704,
+    "first_update_release_date": 20191121,
+    "latest_update_release_date": 20191121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191121
+    },
+    "versions": {
+        "65536": 20191121
+    },
+    "category": [
+        "スポーツ",
+        "アクション",
+        "シミュレーション",
+        "アーケード"
+    ],
+    "intro": "サーブ＆ボレーで、ポイントを決めよう！\n一人で！友達と！レッツエンジョイテニス！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [],
+    "region": null
 }
