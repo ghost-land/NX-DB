@@ -1,4 +1,32 @@
 {
     "id": "0100BE7010610800",
-    "version": 65536
+    "base_tid": "0100BE7010610000",
+    "name": "Circuit Dude",
+    "description": "Help Circuit Dude build his ultimate secret invention by plugging in chips, pushing blocks, stepping on switches, rotating walls and so much more in this game featuring over 15 hours of gameplay over 120 levels. If that's not enough, you can design your own master contraptions using the in-game level editor and even upload it to the internet for others to try out!\n\nWhat is Circuit Dude building?\nFinish the first 100 levels to find out!",
+    "publisher": "Sickhead Games",
+    "developer": null,
+    "base_release_date": 20200907,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20200930,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200930
+    },
+    "versions": {
+        "65536": 20200930
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Circuit Dude is a top-down puzzler with 120 levels. Help Circuit Dude build his ultimate secret invention by plugging in chips, pushing blocks, rotating walls, and much more!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100BE3013A38800",
-    "version": 65536
+    "base_tid": "0100BE3013A38000",
+    "name": "Landflix Odyssey",
+    "description": "Landflix Odyssey is an action platform in which players play as Larry, a lazy binge-watcher who finds himself trapped inside the streaming service after using special batteries. This incredible world is called Landflix!\nIn order to return home he has to recover all five batteries ended up inside the TV shows on the Landflix platform.\n\nLandflix Odyssey is a clear reference to video-on-demand platforms and TV shows universe.\nIn each TV show our hero can count on some special powers that will help him overcome obstacles and dangers in any game world.\nOur hero can move through parallel dimensions, use magic swords, do superhero stuff with superhero tools, take drugs to increase productivity and defend himself with a crossbow against hordes of zombies.",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20201222,
+    "first_update_release_date": 20201202,
+    "latest_update_release_date": 20201202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201202
+    },
+    "versions": {
+        "65536": 20201202
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "Explore the worlds of your favorite TV shows, fight their famous villains and retrieve nuclear batteries to escape the Landflix Odyssey!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Drugs"
+    ],
+    "region": null
 }

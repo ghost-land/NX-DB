@@ -1,4 +1,51 @@
 {
     "id": "0100BDD014232800",
-    "version": 524288
+    "base_tid": "0100BDD014232000",
+    "name": "Rain on Your Parade",
+    "description": "Rain on Your Parade is a slapstick comedy game where you play as a mischievous cloud. Play across a wide range of levels while unlocking new abilities and mechanics that get progressively more ridiculous. Make new friends and help them too - it's an adorable schadenfreude game!\n\nTravel the world\n\nTravel across the world, inventing new ways of causing chaos and mayhem. Turn the perfectly dry and sunny wedding day into a wet one, unleash thunder and lightning upon the cities, bring pandemonium to supermarket shoppers, destroy farmer’s crops, sneak around military bases and rain down meteors on dinosaurs! Yes, not even the dinosaurs are safe!\n\nUnlock new abilities\n\nAs you progress in the game you will unlock new and more comical methods of causing bedlam. Use thunder and lightning to scare people out of hiding and set things alight, tornados to suck up everything that gets in its path, rain explosive material that you can blow up and even entire meteors and much more.\n\nFeatures\n\n* Ruin peoples day with rain, thunder, lightning, tornados and many more abilities.\n* Travel the world in over 50 levels causing disorder and havoc to weddings, cities, farms, military bases, parking lots and much more.\n* Give the mischievous cloud your personal touches. Draw a unique face and choose the hat it wears.\n* An upbeat and silly soundtrack that encapsulates the nature of the game.",
+    "publisher": "Unbound Creations",
+    "developer": null,
+    "base_release_date": 20210415,
+    "first_update_release_date": 20210407,
+    "latest_update_release_date": 20220117,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20220117
+    },
+    "versions": {
+        "65536": 20210407,
+        "131072": 20210408,
+        "196608": 20210416,
+        "262144": 20210423,
+        "327680": 20210512,
+        "393216": 20210909,
+        "458752": 20211117,
+        "524288": 20220117
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Travel the world as a cute cardboard cloud and ruin everybody's day! Unlock new methods of mischief in over 50 levels, each with unique setting and objectives. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,55 @@
 {
     "id": "0100BE300F6AA800",
-    "version": 1048576
+    "base_tid": "0100BE300F6AA000",
+    "name": "Talisman: Digital Edition",
+    "description": "Welcome to the world of Talisman. A land filled with perilous Quests, Enemies and challenges. But with it brings an adventure you’ll never forget. The officially licensed digital adaptation of the classic fantasy adventure board game.\n\nAdventure around the Talisman board, encountering deadly monsters, mysterious strangers and magical items. Battle up to 5 friends locally or online, with a hot-seat mode if you want to pass and play. Level up and increase your skills as you make your way to the center of the board.\n\nChoose from a roster of characters who each have unique strengths, weaknesses and special abilities. Select your adventurer carefully as their skills could be the key to you getting your hands on the Crown of Command, a magical artifact that holds the power to destroy all rivals and make the bearer the true ruler of the kingdom.\n\nAlso included in the Nintendo Switch™ edition of Talisman are three expansions, the City, The Sacred Pool and The Frostmarch. Explore a new region in The City, choose your fate in The Sacred Pool and battle the Ice Queen in The Frostmarch! Each of these expansions can be enabled or disabled individually, depending on how you want to play.\n\nYour adventure to the Crown of Command won’t be an easy one. You’ll need courage, patience and some good dice rolls to survive the dangers you will face.",
+    "publisher": "Nomad Games",
+    "developer": null,
+    "base_release_date": 20200310,
+    "first_update_release_date": 20200519,
+    "latest_update_release_date": 20231213,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20231213
+    },
+    "versions": {
+        "65536": 20200519,
+        "131072": 20200602,
+        "196608": 20200804,
+        "262144": 20200911,
+        "327680": 20201019,
+        "393216": 20201208,
+        "458752": 20210316,
+        "524288": 20210601,
+        "589824": 20210712,
+        "720896": 20220311,
+        "786432": 20220915,
+        "851968": 20230608,
+        "917504": 20230621,
+        "983040": 20230909,
+        "1048576": 20231213
+    },
+    "category": [
+        "Board Game",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "The officially licensed multiplayer version of the classic fantasy adventure board game, Talisman. Includes three expansions!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

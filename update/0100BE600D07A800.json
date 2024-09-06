@@ -1,4 +1,40 @@
 {
     "id": "0100BE600D07A800",
-    "version": 196608
+    "base_tid": "0100BE600D07A000",
+    "name": "Grand Prix Story",
+    "description": "Become the boss of your own team, training drivers and acquiring sponsors before conquering the Grand Prix!\n\nDevelop new vehicles and parts, and customize them any way you like! Do you have what it takes to make it to the winner's circle?\n\nNo knowledge of motorsports is required to play!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20190321,
+    "first_update_release_date": 20210216,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20210216,
+        "131072": 20210715,
+        "196608": 20220923
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Try your hand at managing an auto racing team!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

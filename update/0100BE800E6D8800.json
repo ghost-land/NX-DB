@@ -1,4 +1,49 @@
 {
     "id": "0100BE800E6D8800",
-    "version": 393216
+    "base_tid": "0100BE800E6D8000",
+    "name": "DEMON'S TILT",
+    "description": "Turbo-Charged Pinball is back!\n\nUpdated with bigger sprites, more baddies, more secrets and of course MORE BULLETS!\n\nDemon's Tilt pushes the limits of the Video Pinball genre with SHMUP & Hack N' Slash elements.\nFEATURES:\nA SPRAWLING 3 STORY TABLE\nCRYPTIC SECRETS\nHELLISH BOSSES\nINTENSE SPECIAL MODES\nMULTIBALL\nINSANE JACKPOTS\nBULLET HELL\nA MEGA-DRIVEN SOUNDTRACK\n\nA three-tiered cathedral to Explore:\nUnlock its gothic secrets and depth over time, Packed with mini-bosses, baddies, ramps and mechanical traps. \n\nA Unique Magic System: \nConvert waves of enemy bullets into homing magic that fights for you, \nor transmute them into GOLD for a banked Ultra Jackpot!\n\nCombos:\nUse your Chain Meter to combo hits and keep your scoring momentum up. Link ramps to extend the Chain Meter's life. Speed and aggressive play rewards!\n\nMultipliers:\nBase Multipliers can soar up to 99x Earn Global multipliers to rocket your score into the billions!\n\nBonus Rituals:\nComplete Dark Rituals and spell letters for huge bonuses & jackpots Complete them all and unlock a special WIZARD MODE!\n\nMultiball Modes:\nTrue full table multiball and add-a-ball modes!\nDEMONS\nThe High Priestess:\nControlled by an unknown demonic force. Turn her Wheel of Fate and take control of your destiny. \n\nThe Manticore: \nPart lion, serpent, and scorpion. An enslaved beast oversees the cathedral and protects its deepest secrets.\n\nThe Hermit:\nThe humble gatekeeper of the cathedral.\n\nThe Phalanx:\nA well-defended skeleton horde. Their shields will stop most shots, try and outflank them!\n\nShub Calamari:\n120 million years old is just a baby when it comes to Cosmic Gods!\n\nSacrificed Goat:\nAn aggressive demon, its eyestalks are its weak point. \n\nInsane Homunculi:\nA blasphemous experiment gone awry. Watch out for the bile!\nGRAPHICS:\n\"Hi-Bit\", massive colorful sprites inspired by the Neo-Geo, Saturn and PlayStation era. Scaling, rotation, camera zooms... No \"blast processor\" required!\nMUSIC\nA Mega-Driven Soundtrack:\nAn all-new OST true to the guttural sound of the 16-bit era, composed by E.C.2151",
+    "publisher": "FLARB",
+    "developer": null,
+    "base_release_date": 20191224,
+    "first_update_release_date": 20200218,
+    "latest_update_release_date": 20220520,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220520
+    },
+    "versions": {
+        "65536": 20200218,
+        "131072": 20200218,
+        "196608": 20200219,
+        "262144": 20200303,
+        "327680": 20200905,
+        "393216": 20220520
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Simulation",
+        "Shooter"
+    ],
+    "intro": "TURBO CHARGED PINBALL RETURNS! Now with bigger sprites, more baddies, more secrets & MORE BULLETS! Demon's Tilt pushes the limits of the Video Pinball genre!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

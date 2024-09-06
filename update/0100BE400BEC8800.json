@@ -1,4 +1,40 @@
 {
     "id": "0100BE400BEC8800",
-    "version": 196608
+    "base_tid": "0100BE400BEC8000",
+    "name": "Revenant Dogma",
+    "description": "Caine enters a ruins site in search of a feral relic said to be left behind by the gods and meets a mysterious girl in a mask. This strange encounter becomes the catalyst of a grand scheme that will change the worlds of humans and therians. Will this new-found power lead to prosperity or destruction?\n\nHave a 3D battle experience full of ambience featuring transformations that enable various skills and Bursts that can deal massive damage. Weapons can be customized to increase their power or be imbued with various effects. Explore dynamic, constantly changing dungeons, take on many subquests and open up your path in a grand adventure!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20181004,
+    "first_update_release_date": 20181015,
+    "latest_update_release_date": 20221027,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221027
+    },
+    "versions": {
+        "65536": 20181015,
+        "196608": 20221027
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "What is the fate of those who have acquired divine power? Discover it in a fantasy RPG featuring stunning 3D battles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

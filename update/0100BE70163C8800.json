@@ -1,4 +1,42 @@
 {
     "id": "0100BE70163C8800",
-    "version": 65536
+    "base_tid": "0100BE70163C8000",
+    "name": "Amazing Breaker",
+    "description": "Amazing Breaker is a beautiful addictive ice-smashing game. \nThe aim of the game is to blast the ice sculptures with different bombs:\n◆ Spike Bomb – simply aim and shoot\n◆ Ghost Bomb – goes through ice, press and hold to control it\n◆ Helicopter Bomb – press to deploy violet crystals\n◆ Split Bomb – press to split into 3 green explosive crystals\n◆ AND OTHER BOMBS TO DEVELOP YOUR WINNING STRATEGY!\n\n• Explosive Excitement - create cascades of exploding crystals\n• Procedural destructions\n• 320 awesome levels\n• Addictive “Aim and Shoot” gameplay\n• Easy to learn but hard to master",
+    "publisher": "Big Way",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20211112,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211112
+    },
+    "versions": {
+        "65536": 20211112
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Amazing Breaker is a beautiful addictive ice-smashing game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

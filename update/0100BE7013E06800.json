@@ -1,4 +1,38 @@
 {
     "id": "0100BE7013E06800",
-    "version": 65536
+    "base_tid": "0100BE7013E06000",
+    "name": "Ni no Kuni™ II: Revenant Kingdom PRINCE'S EDITION",
+    "description": "Lose yourself in the ultimate Ni no Kuni experience with this Prince's Edition including:\n- Ni no Kuni II: Revenant Kingdom (full game)\n- Expansions that add hours of additional gameplay\n- Prince's Equipment Pack\n\nJoin the young king, Evan, as he sets out on an epic quest to found a new kingdom, unite his world, and save its people from a terrible evil.\n\nEmbark on this unforgettable adventure, which blurs the line between animated feature film and video game. Developed by LEVEL-5, Ni no Kuni II features enchanting character design from the legendary artist Yoshiyuki Momose and a stirring soundtrack composed by the world-famous Joe Hisaishi.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20210917,
+    "first_update_release_date": 20210910,
+    "latest_update_release_date": 20210910,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210910
+    },
+    "versions": {
+        "65536": 20210910
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Join the young king, Evan, as he sets out on an epic quest to found a new kingdom and save his world. The Prince's Edition includes the full game and all DLCs.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

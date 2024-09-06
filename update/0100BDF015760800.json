@@ -1,4 +1,39 @@
 {
     "id": "0100BDF015760800",
-    "version": 65536
+    "base_tid": "0100BDF015760000",
+    "name": "Avatar The Last Airbender: Quest for Balance",
+    "description": "Relive the epic adventure of the original Avatar: The Last Airbender series, as you play as Aang and his friends and master the elements, explore the most unique locations from the series, solve challenging environmental puzzles and experience the most heart touching moments of Aang’s story. Play the story solo or with a friend through the game’s unique two-player co-op mode. Embrace Your Destiny and experience Aang’s original adventure. Replay any of the 18 thrilling chapters whenever you choose to experience your favorite moments from the series.\n\nExplore the World of Avatar and travel across the four nations through a 1-2 player co-op 18 chapter adventure. \n\nPlay as 9 iconic characters including Aang, Toph, Sokka, and Katara. \n\nUnlock the Mysteries and navigate challenging puzzles using bending and the unique abilities of water, earth, fire and air; upgrade your abilities throughout the story to unleash the full potential of Avatar!",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20230922,
+    "first_update_release_date": 20230816,
+    "latest_update_release_date": 20230816,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230816
+    },
+    "versions": {
+        "65536": 20230816
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Fighting"
+    ],
+    "intro": "Team Avatar is back in this action-adventure game! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100BE80097FA800",
-    "version": 65536
+    "base_tid": "0100BE80097FA000",
+    "name": "Arcade Archives 10-Yard Fight",
+    "description": "\"10-Yard Fight\" is a sports game released in 1983 by IREM. Players can enjoy American football with its simple but intense play mechanics. Score touchdowns as you play against increasingly powerful opponents.\n\n* This version also contains the 1984 version of VS 10-Yard Fight with the additional two-player mode.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220317,
+    "first_update_release_date": 20180509,
+    "latest_update_release_date": 20180509,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180509
+    },
+    "versions": {
+        "65536": 20180509
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "Run with the ball or make a pass - you decide how to gain those 10 yards! \nGo, go, go for the touchdown!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

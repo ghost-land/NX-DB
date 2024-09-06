@@ -1,4 +1,53 @@
 {
     "id": "0100BDE00862A800",
-    "version": 786432
+    "base_tid": "0100BDE00862A000",
+    "name": "Mario Tennis™ Aces",
+    "description": "Unleash an arsenal of shots and strategies in all-out tennis battles with friends, family, and fan-favorite Mushroom Kingdom characters. Whether you play locally,* online,** or using simple motion controls, intense rallies await! In Adventure mode, experience a new favor of tennis gameplay, with a variety of missions, boss battles and more. \n\nComplete missions and boss battles in Adventure mode while mastering the controls. Test your hard-earned skills in singles or doubles with up to 4 players in local* or online** multiplayer, not to mention Tournament Mode, which lets you challenge the CPU. Store up energy and use it to pull off amazing feats: move so fast the world slows down around you or aim in first-person to send the ball crashing down! Your rivals may attempt to block you, but if they fail, their racket will take damage—and break after three hits. Fully charge your energy to launch the ball with enough force to KO your opponent!\n\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180622,
+    "first_update_release_date": 20180620,
+    "latest_update_release_date": 20190531,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20190531
+    },
+    "versions": {
+        "65536": 20180620,
+        "131072": 20180628,
+        "196608": 20180719,
+        "262144": 20180731,
+        "327680": 20180919,
+        "393216": 20181010,
+        "458752": 20181130,
+        "524288": 20181213,
+        "589824": 20190131,
+        "655360": 20190228,
+        "720896": 20190414,
+        "786432": 20190531
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "Up your game with Zone Speed and Zone Shot",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

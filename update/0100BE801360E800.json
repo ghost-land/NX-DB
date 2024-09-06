@@ -1,4 +1,39 @@
 {
     "id": "0100BE801360E800",
-    "version": 65536
+    "base_tid": "0100BE801360E000",
+    "name": "Dungeons & Bombs",
+    "description": "This is dynamic fusion of classic puzzles with boxes and bombs. When enemies drag people into their dark lair and do their vile deeds there, the hero and his faithful sword always come to the rescue. But what if the hero does not have a sword, but only a lot of enthusiasm and an endless supply of explosives? Well, bad for them. Go through dark labyrinths of dungeons and try not to blast yourself up!\n\nFeatures:\n- 50 entangled puzzle-levels\n- Limited number of moves to complete each puzzle\n- Unbreakable laws of logic\n- Bombs and explosions!",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20210227,
+    "first_update_release_date": 20210312,
+    "latest_update_release_date": 20210312,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210312
+    },
+    "versions": {
+        "65536": 20210312
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "Dungeons & Bombs - challenging puzzle game where you need to save your princess... with the beard.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

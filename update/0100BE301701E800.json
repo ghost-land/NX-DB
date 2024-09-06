@@ -1,4 +1,35 @@
 {
     "id": "0100BE301701E800",
-    "version": 131072
+    "base_tid": "0100BE301701E000",
+    "name": "Flatout Pixel Racing",
+    "description": "Flatout Pixel Racing is a 2D top down racing game in a pixel art style where you don't need brakes and go always flatout! Compete in four race classes, each with three tracks and two game modes, namely Time attack, where you have to beat a given time, and race mode where you race against three other computer controlled opponents.\nGet a trophy to unlock the next track and collect three trophies to unlock the next class. Unlock new skins by collecting gold trophies and successfully done time attacks.\nGo flatout now and race in thrilling top down pixel art races!\n\nFeatures:\n- Four Classes (Car races, Buggy, Sportscar and Racecar)\n- Three Tracks for each class (12 tracks)\n- 8 Unlockable Skins\n",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20220505,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220427,
+        "131072": 20220512
+    },
+    "category": [
+        "Arcade",
+        "Racing",
+        "Sports",
+        "Multiplayer"
+    ],
+    "intro": "Go flatout! No brakes needed! A retro arcade top down racing game in a pixel art style.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

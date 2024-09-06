@@ -1,4 +1,35 @@
 {
     "id": "0100BDC00A664800",
-    "version": 196608
+    "base_tid": "0100BDC00A664000",
+    "name": "KAMEN RIDER 巔峰亂鬥",
+    "description": "Nintendo Switch™首款幪面超人遊戲正式登場！\n\n本作中歷代的平成幪面超人，以及幪面超人系列最新作品中登場的：「ZI-O」、「GEIZ」都將一同參戰，\n是一款能夠享受大魄力的幪面超人戰鬥的英雄對戰動作遊戲。\n\n可以和家人朋友共享Joy-Con™一起來共鬥或對戰的「分享遊玩」模式，\n或是揮動Joy-Con™就能夠進行爽快連擊的「揮動操作」，\n不管是一個人玩還是多人同樂，不管是小孩還是大人，都能盡情享受白熱的幪面超人戰鬥！\n\n和家人朋友一起來一場大亂鬥吧！\n\n本作還另外附有原創故事模式！\n\n記憶遭到替換的平成幪面超人們及怪人不斷攻擊ZI-O和GEIZ，\n為了奪回平成幪面超人們的記憶並打倒邪惡的幕後黑手，ZI-O和GEIZ必須挺身而奮戰到底！",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20181129,
+    "first_update_release_date": 20181127,
+    "latest_update_release_date": 20190114,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190114
+    },
+    "versions": {
+        "65536": 20181127,
+        "131072": 20181224,
+        "196608": 20190114
+    },
+    "category": [
+        "動作",
+        "格鬥"
+    ],
+    "intro": "與親朋好友，不管何時何地\n一起來場幪面超人戰鬥吧！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }
