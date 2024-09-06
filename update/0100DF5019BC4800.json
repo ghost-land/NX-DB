@@ -1,4 +1,41 @@
 {
     "id": "0100DF5019BC4800",
-    "version": 131072
+    "base_tid": "0100DF5019BC4000",
+    "name": "Inner Ashes",
+    "description": "Inner Ashes is a first-person narrative adventure in which the player experiences how Alzheimer’s affects people and their memories through an emotive story of a father and daughter set in dreamlike sequences.\n\nThe main character, Henry, must go on an introspective journey through two different realities on his quest to remember why he and his only daughter, Enid, have been estranged for so long.\n\nExploring his mind: Explore Henry's mind manifested as several dreamlike islands that represent different symptoms of Alzheimer’s, and unlock his memories by solving puzzles.\n\nUnraveling his story: Find out the truth about Henry and Enid by collecting the fragments of their past.\n\nUnderstanding his illness: Experience the daily life of an Alzheimer's patient and confront their day-to-day struggles.\n\nGame mechanics:\n- The mechanics of this game are based on the techniques used to help Alzheimer’s patients alleviate the symptoms of the disease. \n- Post-it notes help Henry to recognize items and remember how to use them.\n- Post-it notes help Henry to recognize items and remember how to use them.",
+    "publisher": "Selecta Play",
+    "developer": null,
+    "base_release_date": 20230630,
+    "first_update_release_date": 20240109,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240109
+    },
+    "versions": {
+        "131072": 20240109
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Language"
+    ],
+    "region": null
 }

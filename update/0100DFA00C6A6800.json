@@ -1,4 +1,41 @@
 {
     "id": "0100DFA00C6A6800",
-    "version": 65536
+    "base_tid": "0100DFA00C6A6000",
+    "name": "TRYBIT LOGIC",
+    "description": "TRYBIT LOGIC is a fun puzzle game that lets you learn about logical operations used in computer programming.\n\nStrategically combine the logical operations panels to defeat the bugs.\nIf a bug's switch reaches 0000 or 1111, you can destroy it!\n\n<PUZZLE MODE>\n- Manipulate the logical operations panels onscreen to solve the bugs.\n- Think about how to combine panels and move them around to find the solution!\n\n<DEFENSE MODE>\n- Use the panels to defend against the bugs advancing onscreen from the right.\n- If a bug reaches one of the BITROBO, it's game over.",
+    "publisher": "HIMACS",
+    "developer": null,
+    "base_release_date": 20181220,
+    "first_update_release_date": 20190213,
+    "latest_update_release_date": 20190213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190213
+    },
+    "versions": {
+        "65536": 20190213
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Training",
+        "Study"
+    ],
+    "intro": "\"Help us squash some bugs!\" The BITROBO need help!\nSolve puzzles to defeat the bugs and save the BITROBO!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

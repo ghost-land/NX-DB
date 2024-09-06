@@ -1,4 +1,45 @@
 {
     "id": "0100DF601C672800",
-    "version": 65536
+    "base_tid": "0100DF601C672000",
+    "name": "Z Escape",
+    "description": "Your quest is simple... rescue as many survivors as you can by killing all the walking dead!\n\nZombies run and climb on buildings very fast, so make sure to shoot quickly and precisely. If there are too many of them, use your surroundings - shoot at exploding barrels, destroy bridges, and glass roofs or just drop heavy building materials to stop the zombie horde! \n\nRescue the survivors before they become infected! But beware, after each successful escape, the zombies will become even more challenging. You must apply your strategy in real-time and spot the right target to shoot in order to win!\n\nFeatures:\n- hordes of zombies\n- interactive surroundings\n- many weapons and sights\n- skins for zombies, survivors and helicopters\n- levels with rewards and bigger zombies\n- fun and addictive gameplay\n- lots of shooting!\n\nIf you believe that shooting zombies is not just a matter of luck, show your abilities and become the best helicopter sniper ever. Best of luck!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20231013,
+    "first_update_release_date": 20231002,
+    "latest_update_release_date": 20231002,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231002
+    },
+    "versions": {
+        "65536": 20231002
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "First-Person Shooter",
+        "Simulation"
+    ],
+    "intro": "Get to the chopper! Pick up the machine gun and destroy all of the zombies to save your crew!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

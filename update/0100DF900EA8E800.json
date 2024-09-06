@@ -1,4 +1,46 @@
 {
     "id": "0100DF900EA8E800",
-    "version": 327680
+    "base_tid": "0100DF900EA8E000",
+    "name": "Burger Chef Tycoon",
+    "description": "Like going out to town for a snack? Everybody does! \n\nBut perhaps you'd like to see that from the other side? \nNot everyone can, so don't waste the opportunity!\n\nManage the preparation of burgers, fries, crispy chicken and a multitude of other treats! \n\nTry to deliver the orders on time, but be careful not to mix them up! \n\nUpgrade your bar and beautify it and find ingredients of the best quality, so that you'll be able to create the best burger bar in town!\n\nTo work!\n\nIn BURGER CHEF TYCOON you will find:\n\n* 60 achievements to complete\n* 40 statistics to track and beat\n* 60 awesome levels to complete\n* Countless dishes to master and serve\n* Amazing graphics, music and sound effects\n* Countless upgrades, decorations to make your bar the best!",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20201014,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20201014,
+        "131072": 20201215,
+        "196608": 20210715,
+        "262144": 20230301,
+        "327680": 20240404
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Tasty burgers? Only in here!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

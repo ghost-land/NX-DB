@@ -1,4 +1,40 @@
 {
     "id": "0100DF200B24C800",
-    "version": 131072
+    "base_tid": "0100DF200B24C000",
+    "name": "Assault Android Cactus+",
+    "description": "Experience an arcade style twin stick shooter set in a vivid sci fi universe. Junior Constable Cactus is outside her pay grade when she responds to a distress call and ends up stranded on a crippled space freighter under attack by its own robot workers.\n\nWith a draining battery mechanic instead of lives, Assault Android Cactus+ challenges you to think fast and shoot faster. Charge head first into an army of refitted robots, transforming stages and massive boss showdowns.\n\nFeatures:\n• 9 playable androids, each with a distinct play style and personality.\n• 25 stage campaign, Boss Rush, Infinity Drive and Daily Drive give you many ways to play.\n• Online leaderboards to compare yourself against your friends and the world.\n• Unlock game modifying EX options, explore the codex and listen to Developer Commentary.\n• An all new Campaign+ mode with remixed stages for a fresh challenge.\n• Supports local co-op in all game modes up to four players.\n• Play with any configuration including Nintendo Switch™ Pro Controller and single Joy-Con™ controllers using aim assist.",
+    "publisher": "Witch Beam",
+    "developer": null,
+    "base_release_date": 20190308,
+    "first_update_release_date": 20190318,
+    "latest_update_release_date": 20210625,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210625
+    },
+    "versions": {
+        "65536": 20190318,
+        "131072": 20210625
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "When you're running on battery, make every second count!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

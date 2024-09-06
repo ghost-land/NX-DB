@@ -1,4 +1,45 @@
 {
     "id": "0100E03009DB8800",
-    "version": 65536
+    "base_tid": "0100E03009DB8000",
+    "name": "Invisiballs",
+    "description": "Invisiballs is a competitive local multiplayer game for 2 to 4 players. Played on a single, top-down, shared screen, everyone controls an invisible ball inside a maze and must capture a golden artifact to win the game. Designed entirely around a new type of gameplay set in a minimalist universe, Invisiballs is simple with a deep learning curve. Nervous and precise, Invisiballs is for players who love to play competitive games with their friends.",
+    "publisher": "Digital Kingdom",
+    "developer": null,
+    "base_release_date": 20180517,
+    "first_update_release_date": 20190724,
+    "latest_update_release_date": 20190724,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190724
+    },
+    "versions": {
+        "65536": 20190724
+    },
+    "category": [
+        "Arcade",
+        "Party",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Next-gen hide 'n' seek",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

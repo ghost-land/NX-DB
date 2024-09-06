@@ -1,4 +1,42 @@
 {
     "id": "0100DF8013304800",
-    "version": 65536
+    "base_tid": "0100DF8013304000",
+    "name": "A Monster's Expedition + Earlier Adventures",
+    "description": "This is a cartridge only release.",
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20210818,
+    "latest_update_release_date": 20210818,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210818
+    },
+    "versions": {
+        "65536": 20210818
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

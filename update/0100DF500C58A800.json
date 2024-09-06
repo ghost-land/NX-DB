@@ -1,4 +1,53 @@
 {
     "id": "0100DF500C58A800",
-    "version": 917504
+    "base_tid": "0100DF500C58A000",
+    "name": "RPGツクールMVプレイヤー",
+    "description": "「RPGツクールMV Trinity」で作られたゲームを無料でプレイできるソフトとなります。\n本タイトルでは、インターネットに接続することによって、全世界のRPGツクールMV Trinityで作られたゲームをプレイすることができます。",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20190110,
+    "first_update_release_date": 20190325,
+    "latest_update_release_date": 20210209,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20210209
+    },
+    "versions": {
+        "65536": 20190325,
+        "131072": 20190403,
+        "196608": 20190411,
+        "327680": 20190529,
+        "393216": 20190815,
+        "458752": 20191010,
+        "524288": 20191120,
+        "589824": 20191218,
+        "655360": 20200130,
+        "786432": 20200817,
+        "851968": 20210113,
+        "917504": 20210209
+    },
+    "category": [
+        "ロールプレイング",
+        "その他",
+        "実用",
+        "シミュレーション"
+    ],
+    "intro": "RPGツクールMV Trinityで作られたゲームを無料で\nプレイできる！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

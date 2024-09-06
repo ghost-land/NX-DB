@@ -1,4 +1,41 @@
 {
     "id": "0100DFE00F002800",
-    "version": 131072
+    "base_tid": "0100DFE00F002000",
+    "name": "GREEN The Life Algorithm",
+    "description": "Survive in a world overrun by genetically altered vegetation. \n\nHumanity is an endangered species and only you can save it. \nWelcome to G.R.E.E.N. THE LIFE ALG0R1THM, an adventure through spectacular natural scenarios in which you will face the threats and challenges of lethal plants that dominate the earth. But beware, you can't kill your enemies here, just petrify them and use them to your advantage, so choose wisely to survive. \n \nUse your skills to progress.\n• Face intelligent plants with unpredictable behaviors. \n• Paralyze your enemies to use them in your favor and solve the puzzles. \n• Live a story that will show you the most cruel side of mother nature. \n \nA unique experience. \nG.R.E.E.N. THE LIFE ALG0R1THM is an avant-garde experience, thanks to the design and programming of its enemies. The result is an exciting journey with formidable challenges, but free from death and violence, where players travel spectacular worlds and face dangerous vegetation amidst an extraordinary design of art, music and animation. ",
+    "publisher": "ESTACION PI",
+    "developer": null,
+    "base_release_date": 20191126,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20200130,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200130
+    },
+    "versions": {
+        "131072": 20200130
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "G.R.E.E.N. THE LIFE ALG0R1THM is a 2D action-adventure video game based in a world invaded by genetically altered vegetation.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100DF9013AD4800",
-    "version": 65536
+    "base_tid": "0100DF9013AD4000",
+    "name": "Clocker",
+    "description": "Clocker is a time themed puzzle game. The game narrates the story by using dual protagonists.\nPlayers can advance the story in the perspectives of both the Father and the Daughter and the mystery will be unfolded step by step. \n\nUnique time-based puzzle solving mechanics, fancy hand drawn art style and innumerable interesting puzzles with a gripping story. All these elements are waiting for you in Clocker.",
+    "publisher": "Gamera Games",
+    "developer": null,
+    "base_release_date": 20210225,
+    "first_update_release_date": 20210224,
+    "latest_update_release_date": 20210224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210224
+    },
+    "versions": {
+        "65536": 20210224
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "A World in a Void of Gray, A Time Controlling Pocket Watch, A Journey between a Father and a Daughter.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

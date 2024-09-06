@@ -1,4 +1,39 @@
 {
     "id": "0100DFB011B12800",
-    "version": 196608
+    "base_tid": "0100DFB011B12000",
+    "name": "WARSAW",
+    "description": "In a city besieged by enemy forces, the only hope for freedom is to stand up and fight with everything you have. Muster every able body to join the Uprising, loot and salvage what you can to arm your resistance and take on the overwhelming enemy forces that dared invade your home. \n\n\n\nPEOPLE OF THE UPRISING\nIn these trying times, everyone must fight with all their strength and courage. The young, the old, men, women and children, enlisted and civilians. Learn their immersive backstories, make use of their diverse and unique skill sets and put them to good use against the occupants.\n\nGIVE THEM ALL YOU’VE GOT\nIn a fight so uneven and one sided, to survive you will have to use your skill wisely. Use versatile tactics to get ahead by flanking, ambushing and distracting enemy patrols to place them exactly where you want them. Learn and use the abilities of your team carefully to ensure your survival.\n\nTHE BATTLEFIELD \nTake your team to the dangerous streets of 1944 Warsaw, carefully and faithfully reconstructed to deliver an immersive experience. Participate in historical events intertwining with random encounters to create your own story in the besieged city.\n",
+    "publisher": "Crunching Koalas",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20200910,
+    "latest_update_release_date": 20201015,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201015
+    },
+    "versions": {
+        "65536": 20200910,
+        "131072": 20200925,
+        "196608": 20201015
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "WARSAW is a challenging turn-based RPG set in the ruins of a besieged city.\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

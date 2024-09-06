@@ -1,4 +1,36 @@
 {
     "id": "0100E010184C2800",
-    "version": 65536
+    "base_tid": "0100E010184C2000",
+    "name": "90'' Soccer",
+    "description": "Choose your team and face your opponents on quick and wild matches to claim victory.\n\n- Play against other players on local, or online play.\n- Arcade tournament for a quick play.\n- League mode for longer play sessions.\n- Use voice chat with friends, or text messages with everybody.\n- Change formation before start a match.\n- Choose your challenge with five difficulty levels.",
+    "publisher": "Software Scribes",
+    "developer": null,
+    "base_release_date": 20220805,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220805
+    },
+    "category": [
+        "Sports",
+        "Action",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Listen!, You have only 90 seconds to win!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

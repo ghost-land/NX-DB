@@ -1,4 +1,35 @@
 {
     "id": "0100E0300BFCA800",
-    "version": 131072
+    "base_tid": "0100E0300BFCA000",
+    "name": "Frag doch mal...die Maus!",
+    "description": "Everyone in the German speaking territory grew up with the Maus. The show \"Die Sendung mit der Maus\" by German public TV station WDR is on TV for over 40 years. Quarterly a Saturday prime time live Quiz show is produced by WDR, which is the basis for this Quiz game. Originally released on PC in in 2008 it earned many game awards including \"Best German Kids Game 2008\". This completely redesigned product returns with many new features and  is available for mobile devices for the first time. Hours of fun are waiting for kids and parents answering about 1000 questions and with approximately two hours of original video content with the famous \"Sachgeschichten by Christoph and Armin\".",
+    "publisher": "ASHGAMES",
+    "developer": null,
+    "base_release_date": 20181121,
+    "first_update_release_date": 20190724,
+    "latest_update_release_date": 20190905,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190905
+    },
+    "versions": {
+        "65536": 20190724,
+        "131072": 20190905
+    },
+    "category": [
+        "Education",
+        "Multiplayer",
+        "Party",
+        "Board Game"
+    ],
+    "intro": "A Quiz game with The Maus for the whole Family!\nGerman only!",
+    "isDemo": false,
+    "languages": [
+        "de"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

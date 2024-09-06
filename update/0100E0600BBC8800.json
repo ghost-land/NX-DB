@@ -1,4 +1,41 @@
 {
     "id": "0100E0600BBC8800",
-    "version": 327680
+    "base_tid": "0100E0600BBC8000",
+    "name": "GRANDIA HD Collection",
+    "description": "Two quintessential RPGs have finally gone portable on one of gaming's most popular console/handheld hybrid platforms. The highly anticipated GRANDIA HD Collection for the Nintendo Switch™ is here.",
+    "publisher": "GungHo America",
+    "developer": null,
+    "base_release_date": 20190817,
+    "first_update_release_date": 20190814,
+    "latest_update_release_date": 20200903,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200903
+    },
+    "versions": {
+        "65536": 20190814,
+        "131072": 20191112,
+        "196608": 20200324,
+        "262144": 20200325,
+        "327680": 20200903
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

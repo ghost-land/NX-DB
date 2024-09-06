@@ -1,4 +1,40 @@
 {
     "id": "0100DF3014170800",
-    "version": 196608
+    "base_tid": "0100DF3014170000",
+    "name": "Danganronpa S: Ultimate Summer Camp",
+    "description": "With an all-star dream lineup of characters from each Danganronpa game, gather Hope Fragments at a tropical resort. Explore Jabberwock Island and develop your Dangan characters. Gather money through battle and upgrade your equipment, then defeat bosses and move on to the next island!",
+    "publisher": "Spike Chunsoft US",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20211203,
+    "latest_update_release_date": 20220214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220214
+    },
+    "versions": {
+        "131072": 20211203,
+        "196608": 20220214
+    },
+    "category": [
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "Your favorite Danganronpa characters return for a hope-filled Summer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Simulated Gambling",
+        "Strong Language",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
