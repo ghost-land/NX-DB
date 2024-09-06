@@ -1,4 +1,32 @@
 {
     "id": "0100748012ABE800",
-    "version": 65536
+    "base_tid": "0100748012ABE000",
+    "name": "Real Driving Simulator",
+    "description": "Do you love cars? Real Driving Simulator is the best driving simulator that features more than 80 vehicles and a huge open-world map to explore. A big selection of vehicles is waiting for you: sedans, supercars, off roaders, SUVs and more, with realistic engine sounds and accurate interiors! Drive across Europe, complete many challenges like racing, consumption challenge, high speed driving, no damage challenge and many more! \n\nFeatures:\n• Huge Vehicle Selection\n• Open World Map with over 20 cities\n• Highways, Deserts, Snow, Mountain and Cities\n• New Engine Sounds with crackles and super downshift sounds!\n• Lots of challenges to complete\n• Visual and mechanical damage on vehicles\n• Next Gen Dynamic Weather System (snow, rain, sun...)\n• Off-Road mode available!\n• Exterior and Engine tuning available!",
+    "publisher": "SC Ovilex Soft",
+    "developer": null,
+    "base_release_date": 20230715,
+    "first_update_release_date": 20210520,
+    "latest_update_release_date": 20210520,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210520
+    },
+    "versions": {
+        "65536": 20210520
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Open World Driving Simulator with vehicles, motorbikes and next-gen graphics!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

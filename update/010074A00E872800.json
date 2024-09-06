@@ -1,4 +1,43 @@
 {
     "id": "010074A00E872800",
-    "version": 196608
+    "base_tid": "010074A00E872000",
+    "name": "Crying Suns",
+    "description": "In this story rich experience, each successful run will uncover the truth about the empire...and yourself as well.\n\nMain Features:\n- Space exploration in a procedurally-generated universe\n- Tactical fights between battleships and their squadron fleets\n- More than 300 possible story events\n- A deep and dramatic storyline structured in 6 chapters\n- A dark and disturbing atmosphere inspired by our favorite science fiction universes",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20230818,
+    "first_update_release_date": 20210610,
+    "latest_update_release_date": 20230520,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230520
+    },
+    "versions": {
+        "65536": 20210610,
+        "131072": 20210701,
+        "196608": 20230520
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Crying Suns is a tactical rogue-lite that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Sexual Themes",
+        "Violence"
+    ],
+    "region": null
 }

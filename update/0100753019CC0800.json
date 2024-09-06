@@ -1,4 +1,35 @@
 {
     "id": "0100753019CC0800",
-    "version": 131072
+    "base_tid": "0100753019CC0000",
+    "name": "Desktop Football 2",
+    "description": "Turn your desk into a soccer field!\nDivvy up the Joy-Con™ and play with up to 4 players!\nYou won't be able to put down this easy-to-play game!\n\nNot only can you customize your team formation and player positions, you can even give your players unique appearances in Style Settings!\nChange up their signature move by equipping them with different items!\nCreate your own unique dream team!\n\nThe World Cup awaits! Shoot for the top!\n\n[Practice Match]\nPractice on your own or watch demo matches between CPU players.\n\n[Friendly Match]\nPlay with up to four players.\nTake your pick between playing in 3-on-1 matches or 2-on-2 matches.\nYou can choose whoever you want on your team!\nEnjoy all sorts of fun matches.\n\n[Team Selection]\nCustomize everything from your players' names, formation, and numbers in the system settings.\nYou can even change up their hairstyle, eye color, and spikes! The sky's the limit!\n\n[Tournament]\nTake part in fierce competitions.\nTrain your team up, perfect your techniques, and aim for first place in the World Cup!\n\n[Capsule FK]\nUse the points you earn in matches to get new power-up items and formations.\n\n[Mini Game]\nSeize your chance to net loads of points by hitting the target!\nLine up your shot and reap the rewards.",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20221118,
+    "first_update_release_date": 20221207,
+    "latest_update_release_date": 20230907,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230907
+    },
+    "versions": {
+        "65536": 20221207,
+        "131072": 20230907
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "A fun-filled soccer game for everyone!\nGet set for the ultimate kickoff!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

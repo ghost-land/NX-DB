@@ -1,4 +1,34 @@
 {
     "id": "0100744012D3E800",
-    "version": 65536
+    "base_tid": "0100744012D3E000",
+    "name": "BIT.TRIP FATE",
+    "description": "CommanderVideo’s journey is nearly complete, but the hardest part has yet to come. Guide our brave hero through a world of twin-stick shooter gameplay, strange and powerful enemies, and environments unlike any you’ve ever seen before.\n- Twin-stick shooter gameplay!\n- Collect power-ups to call on CommanderVideo’s friends for powerful shot upgrades!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- Chiptune artist Minusbaby helps set the tone with a special guest appearance!\n",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20201225,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210121
+    },
+    "versions": {
+        "65536": 20210121
+    },
+    "category": [
+        "Arcade",
+        "Music",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "BIT.TRIP FATE is the penultimate chapter in the six-part BIT.TRIP series.\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

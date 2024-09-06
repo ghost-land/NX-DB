@@ -1,4 +1,38 @@
 {
     "id": "010074500BBC4800",
-    "version": 131072
+    "base_tid": "010074500BBC4000",
+    "name": "Bendy and the Ink Machine",
+    "description": "\"Bendy and the Ink Machine®\" is a first person puzzle action horror game that begins in the far days past of animation and ends in a very dark future.\n\nPlay as Henry as he revisits the demons of his past by exploring the abandoned animator's workshop of Joey Drew Studios. With twists and turns around every corner, \"Bendy and the Ink Machine\" is sure to thrill you... and decimate your childhood.\n\nYou'll never look at cartoons the same way again.\n\nThis first chapter sets the tone for the adventure ahead.\nSolve the riddle. Escape the workshop.\n\nAbove all, fear the machine and survive.",
+    "publisher": "Rooster Teeth Games",
+    "developer": null,
+    "base_release_date": 20181120,
+    "first_update_release_date": 20181120,
+    "latest_update_release_date": 20190109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190109
+    },
+    "versions": {
+        "65536": 20181120,
+        "131072": 20190109
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

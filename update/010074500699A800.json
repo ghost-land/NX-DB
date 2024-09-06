@@ -1,4 +1,41 @@
 {
     "id": "010074500699A800",
-    "version": 65536
+    "base_tid": "010074500699A000",
+    "name": "Timber Tennis: Versus",
+    "description": "Meet Timber Tennis: Versus, an entirely new addition to the Timberman family - a series of games enjoyed by more than 30 000 000 people around the world!\n\nTake part in the annual Timber Tennis world championships - use your special skills, watch out for super shots, and collect prizes to beat all the rivals and reach the grand final! Unlock all the characters (including Princess, Hipster, Boxer and many more), win trophies, and compete in local or online multiplayer mode with your friends!\n\nFeatures:\n- easy to learn, hard to master\n- online and local versus modes\n- ranked and private online matches\n- single player campaign\n- recognizable characters (including Timberman and his good friends)\n- tons of content to unlock (characters, tennis balls)\n- tasty pixel art graphics",
+    "publisher": "Crunching Koalas",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20190116,
+    "latest_update_release_date": 20190116,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190116
+    },
+    "versions": {
+        "65536": 20190116
+    },
+    "category": [
+        "Arcade",
+        "Sports",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "intro": "Take part in the annual Timber Tennis world championships - win trophies, and compete in local or online multiplayer mode!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "010074B00ED32800",
-    "version": 196608
+    "base_tid": "010074B00ED32000",
+    "name": "Polyroll",
+    "description": "Kaiser Kiwi has kidnapped your roly poly friends and taken them to his Frigid Castle and only you can save them! Explore a colorful bug-themed world infused with retro charm and chock full of inventive hazards and enemies. \n\nReviews\n“Polyroll is a fantastic platformer”\n83/100 – SwitchUp\n\n“You’ll be charmed by the clever level design, creative bosses, and the gorgeous retro aesthetic”\n4/5 – Hey Poor Player\n\nFeatures\n- 4 to 10 hours of playtime \n- Make your way through 36 expansive levels filled with unique enemies, hidden gems, and challenging bosses in a retro, 2D adventure\n- Use your super shell to spin, bounce, roll, and ricochet across the land on a mission to save your friends from the clutches of the evil Kaiser Kiwi\n- Defeat eleven insane bosses, including a crazed stoplight, haywire appliances, and a giant spider stuck in a computer case.",
+    "publisher": "HOF Studios",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191116,
+    "latest_update_release_date": 20210610,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210610
+    },
+    "versions": {
+        "65536": 20191116,
+        "131072": 20201114,
+        "196608": 20210610
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The roly poly with attitude has to rescue his friends from the evil Kaiser Kiwi in this retro platformer inspired by the classics!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

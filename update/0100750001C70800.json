@@ -1,4 +1,38 @@
 {
     "id": "0100750001C70800",
-    "version": 262144
+    "base_tid": "0100750001C70000",
+    "name": "Duck Game",
+    "description": "The year is 1984. Ducks run wild in a frantic battle for FAME and GLORY. Win over spectators by destroying your feathered friends with an IRRESPONSIBLE NUMBER OF WEAPONS. One shot and you’re ROASTED. This is DUCK GAME. Finally on Nintendo Switch™ with more LEVELS, more GUNS and more QUACKING.\n - Battles with up to 4 DUCKS in Online Play, Local Couch Combat or Local Wireless\n - Learn to DESTROY in Single Player Challenge Mode\n - Countless weapons and levels - including new levels FIRST on Nintendo Switch!\n - Create and share YOUR levels with the Map editor\n - The ONLY competitive game on Nintendo Switch with QUACKING",
+    "publisher": "Adult Swim Games",
+    "developer": null,
+    "base_release_date": 20190502,
+    "first_update_release_date": 20190502,
+    "latest_update_release_date": 20191003,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20191003
+    },
+    "versions": {
+        "131072": 20190502,
+        "196608": 20190809,
+        "262144": 20191003
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

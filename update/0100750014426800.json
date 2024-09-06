@@ -1,4 +1,32 @@
 {
     "id": "0100750014426800",
-    "version": 65536
+    "base_tid": "0100750014426000",
+    "name": "1912: Titanic Mystery",
+    "description": "A bomb is aboard the Titanic II, a replica of the famous cruise ship! You are the sole person who can find where the bomb is concealed. Save the ship, and all aboard, during its maiden journey across the Atlantic Ocean. Search for Hidden Objects among original locations around the majestic ship to discover hidden diary entries and other clues to uncover the bomb`s location. Solve a century old mystery in 1912- Titanic Mystery!\n\n-Haunting soundtrack\n-Puzzling minigames\n-Save the Titantic II",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210225,
+    "first_update_release_date": 20210927,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20210927
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Can you prevent a disaster on Titanic II?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

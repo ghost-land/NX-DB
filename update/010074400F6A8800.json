@@ -1,4 +1,48 @@
 {
     "id": "010074400F6A8800",
-    "version": 262144
+    "base_tid": "010074400F6A8000",
+    "name": "Stories Untold",
+    "description": "“Stories Untold” is a narrative-driven experimental adventure game, that bends the genre into something completely unique. Combining a mix of classic text-adventure, point-and-click and more, 4 short stories are packaged together into a single mysterious anthology that has been described as “a fantastic, fascinating example of interactive visual storytelling”  (Telegraph 5/5) and earning widespread critical acclaim since release.\n \nThe game pulls together 80s retro nostalgia, innovative and experimental genre-defying gameplay, and tense, phycological horror to create “one of the most fascinating and unique tales you can play this year” (GameSpew 9/10). \n\n“Stories Untold” was developed by No Code, a Glasgow based ex-AAA development team headed up by Jon McKellan (Alien: Isolation) and Omar Khan.\n\nFeatures:\n\n - Four unique stories, with their own settings, gameplay and mechanics.\n\n - Play mind-bending text adventures, process radio transmissions and conduct experiments on bizarre artifacts.\n\n - Gorgeous retro-aesthetic brings back vivid memories, or a glimpse into what was.\n\n - Sublime synth-wave horror soundtrack, inspired by 80s horror soundtracks.\n\n - Genre-hopping: from psychological horror, to tense mystery and terrifying sci-fi; Stories Untold is truly “4 stories, 1 nightmare”.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230801,
+    "first_update_release_date": 20200115,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211014
+    },
+    "versions": {
+        "131072": 20200115,
+        "196608": 20210112,
+        "262144": 20211014
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Stories Untold is a compilation tape of four experimental adventures, including a remaster of the original hit episode “The House Abandon”.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

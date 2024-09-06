@@ -1,4 +1,51 @@
 {
     "id": "010074F013262800",
-    "version": 655360
+    "base_tid": "010074F013262000",
+    "name": "Xenoblade Chronicles™ 3",
+    "description": "Join Noah and Mio, members of the two opposing nations of Keves and Agnus, on a heartfelt journey through a rich open world to end the cycle of violence. A group of six characters from these nations join together to awaken the colonies of Aionios and expose the true threat both nations face. Traverse massive, fantastical landscapes as you learn how this game connects to the larger Xenoblade Chronicles™ story.\n\nCommand six characters and seamlessly enter real-time, RPG combat\n\nAll six of your core party members jump into action against enemies, auto-attacking with their distinct arts and weapons. Position your team to take advantage of Arts and maximize damage and debuffs. Pairs of characters can Interlink to form a mighty Ouroboros capable of taking down the most threatening enemies with powerful Arts.\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20220729,
+    "first_update_release_date": 20220726,
+    "latest_update_release_date": 20240120,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240120
+    },
+    "versions": {
+        "65536": 20220726,
+        "131072": 20220906,
+        "196608": 20221013,
+        "262144": 20221020,
+        "393216": 20230217,
+        "458752": 20230425,
+        "524288": 20230719,
+        "589824": 20230912,
+        "655360": 20240120
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Live to fight and fight to live in the next entry in the Xenoblade Chronicles™ series",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

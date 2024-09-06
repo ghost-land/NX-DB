@@ -1,4 +1,41 @@
 {
     "id": "0100745011D28800",
-    "version": 65536
+    "base_tid": "0100745011D28000",
+    "name": "Missile Command: Recharged",
+    "description": "Missile Command: Recharged is a re-imagining of the beloved classic with fast-paced, arcade action where players must defend their bases by blasting an endless barrage of missiles hailing from the sky. Launch counter-missiles to protect your base and target powerups to gain an edge at critical moments. Missile Command: Recharged will appeal to those that fondly remember playing the original or its many iterations, and a whole new generation of gamers that are looking for fast-paced, pick-up-and play, arcade goodness.\n\nPowered Up: \nDon’t just target missiles – take aim at all-new powerups to survive longer with defensive measures, silo repair, or a screen-clearing special blast. \n\nUpgraded: \nNew powerup system takes points earned and allows them to be used to upgrade all aspects of gameplay to get an edge and achieve the highest scores.\n\nShoot for the Clouds: \nCompete in global online leaderboards and aim to claim bragging rights as the top missile commander.",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20200527,
+    "first_update_release_date": 20200901,
+    "latest_update_release_date": 20200901,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200901
+    },
+    "versions": {
+        "65536": 20200901
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Fire missiles to protect your bases! A classic arcade game's back and recharged!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

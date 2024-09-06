@@ -1,4 +1,40 @@
 {
     "id": "0100751007ADA800",
-    "version": 589824
+    "base_tid": "0100751007ADA000",
+    "name": "Don’t Starve: Nintendo Switch Edition",
+    "description": "In Don’t Starve: Nintendo Switch Edition, You play as Wilson, an intrepid Gentleman Scientist who has been trapped by a demon and transported to a mysterious wilderness world. Enter a bizarre and unexplored world full of strange creatures, dangers, and surprises. Learn to exploit the environment and its inhabitants to escape and find your way back home. \n\nIf you’re ready for a new challenge, Reign of Giants expands the entire world of Don’t Starve with new characters, seasons, creatures, biomes, and other challenges to Don’t Starve.\n\nIf you’re looking for adventures at sea, Shipwrecked will set you off to explore a mysterious new tropical archipelago that you can explore on both land and sea! Don’t let the tropical breeze lull you into a false sense of security - the world might be different, but it is still equal parts unforgiving and uncompromising.\n\nDo whatever it takes to survive, but most importantly, Don't Starve!\n",
+    "publisher": "Klei Entertainment",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20180424,
+    "latest_update_release_date": 20240425,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240425
+    },
+    "versions": {
+        "65536": 20180424,
+        "131072": 20180515,
+        "196608": 20180606,
+        "262144": 20181116,
+        "327680": 20201001,
+        "393216": 20201102,
+        "458752": 20210304,
+        "524288": 20240412,
+        "589824": 20240425
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Crude Humour"
+    ],
+    "region": null
 }

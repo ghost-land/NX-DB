@@ -1,4 +1,75 @@
 {
     "id": "010074600CC7A800",
-    "version": 2883584
+    "base_tid": "010074600CC7A000",
+    "name": "OBAKEIDORO!",
+    "description": "A thrilling, heart-pounding struggle! Humans have 3 minutes to work together to get away from the Monster! Playing as the Monster, you'll have to utilize your skills to catch the Humans! Play Bogeyrun! online or offline with up to 4 players.\n\nWinner of the BitSummit 7 Spirits Popular Selection Award!\n\nBogeyrun! is an asymmetric action game in which three Humans face off against one Monster. Gameplay can be as deep or casual as you want to make it.\nAs a Human, don't just simply run away! Use your Lantern Attack to fend off the Monster. If you time it just right, you might be able to turn the tides in your favor. As the Monster, utilizating your powerful skills is key to your victory. Use skills like Glide and Track to capture the Humans.\n\nCan you escape the Monster? Can you hunt down the Humans? Bogeyrun! is a game of cat and mouse that the whole family will enjoy!",
+    "publisher": "FREE STYLE",
+    "developer": null,
+    "base_release_date": 20221026,
+    "first_update_release_date": 20190801,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "2883584",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20190801,
+        "131072": 20190808,
+        "196608": 20190828,
+        "262144": 20191008,
+        "327680": 20191015,
+        "458752": 20191120,
+        "524288": 20191212,
+        "589824": 20191227,
+        "655360": 20200124,
+        "720896": 20200228,
+        "786432": 20200319,
+        "917504": 20200804,
+        "983040": 20200901,
+        "1048576": 20210427,
+        "1114112": 20210602,
+        "1179648": 20210804,
+        "1245184": 20210811,
+        "1310720": 20211021,
+        "1376256": 20211222,
+        "1441792": 20211222,
+        "1507328": 20220222,
+        "1572864": 20220428,
+        "1703936": 20220805,
+        "1769472": 20220915,
+        "1900544": 20221025,
+        "1966080": 20221220,
+        "2031616": 20230217,
+        "2097152": 20230324,
+        "2162688": 20230427,
+        "2359296": 20230809,
+        "2424832": 20230823,
+        "2490368": 20231026,
+        "2555904": 20231222,
+        "2621440": 20240117,
+        "2686976": 20240208,
+        "2752512": 20240731,
+        "2818048": 20240808,
+        "2883584": 20240822
+    },
+    "category": [
+        "Party",
+        "Communication",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "Who wants to play cops'n robbers?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

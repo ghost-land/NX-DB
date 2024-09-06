@@ -1,4 +1,32 @@
 {
     "id": "010074401B812800",
-    "version": 65536
+    "base_tid": "010074401B812000",
+    "name": "Summer Party Time（サマーパーティタイム）",
+    "description": "手軽な操作で、だれでも簡単に遊べるゲームが大集合！\nJoy-Con™をおすそわけして、最大6人まで一緒にプレイ！\n\n直感的でわかりやすいミニゲームが盛りだくさん。\n得意なゲームを見つけて遊ぼう！\n\n【フリー】\n好きなあそびを選んで楽しもう！\n\n【フェスティバル】\n選んだあそびを順番にプレイして\nチャンピオンを目指そう！\n\n【オンライン】\nオンラインで友達や\n全国のプレイヤーとバトル！",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20230713,
+    "first_update_release_date": 20230809,
+    "latest_update_release_date": 20230809,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230809
+    },
+    "versions": {
+        "65536": 20230809
+    },
+    "category": [
+        "パーティー",
+        "アクション",
+        "レース",
+        "コミュニケーション"
+    ],
+    "intro": "夏を最大限にあそび尽くそう！\n気軽にどこでも、みんなでサマーパーティ！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [],
+    "region": null
 }

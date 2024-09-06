@@ -1,4 +1,42 @@
 {
     "id": "010074D0111C4800",
-    "version": 131072
+    "base_tid": "010074D0111C4000",
+    "name": "Klang 2",
+    "description": "Imprisoned in a facility at an unknown location, Klang must hone his rhythm-combat skills inside audiovisual simulations.\n\nFast-attack the enemy with flashy fireballs. Dodge and counter enemy attacks, and deal enough lightning damage to shame even the greatest gods of mythology. Achieve a euphoric state of trance through skillful play in this rhythm-action game with hypnotic beats and high-speed combat. \n\n\nFeatures:\n* 30 levels of intense EDM-Action playable at normal and fast speeds\n* Semi-procedural combat system ensures tracks never play exactly the same\n* Bosses gradually introduce new gameplay rules\n* Techno-greek aesthetic inspired by synthwave, musical symbolism and sculpture\n* Music by legendary composer bLiNd and other talented artists such as James Landino, Arcien, and Nhato",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20211117,
+    "first_update_release_date": 20211117,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20211117,
+        "131072": 20220805
+    },
+    "category": [
+        "Action",
+        "Music"
+    ],
+    "intro": "Conduct electronic symphonies of lightning-fast rhythm-action!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

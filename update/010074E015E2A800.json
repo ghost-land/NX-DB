@@ -1,4 +1,38 @@
 {
     "id": "010074E015E2A800",
-    "version": 196608
+    "base_tid": "010074E015E2A000",
+    "name": "Cards of the Dead",
+    "description": "The infection is advancing by the minute and getting the vaccine is humanity's only hope. \nDo everything in your power to fight off the hordes of zombies piling up in the streets to make your way to the biological complex and retrieve the sample.\n\nLive the story of Rick, Selena and Dan, three interconnected stories on which it depends to get the vaccine to stop the infection.\n\nFeatures\n- Multiple weapons: Get all the weapons at your disposal to take out the undead\n- Survival strategy: Control your vaccine to avoid giving in to the infection while you stock up on food to recover your health and weapons to defend yourself\n- A nightmare story: Unravel the role of the survivors and how their lives are intertwined in the same destiny\n- Zombie Hordes: The zombie apocalypse will show you no mercy.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20211022,
+    "first_update_release_date": 20211014,
+    "latest_update_release_date": 20211102,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211102
+    },
+    "versions": {
+        "65536": 20211014,
+        "131072": 20211014,
+        "196608": 20211102
+    },
+    "category": [
+        "Adventure",
+        "Board Game",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "Cards of the Dead is a survival card game. Play your cards right and you might escape the zombie apocalypse!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

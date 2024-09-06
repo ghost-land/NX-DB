@@ -1,4 +1,38 @@
 {
     "id": "0100744001588800",
-    "version": 131072
+    "base_tid": "0100744001588000",
+    "name": "Cars 3: Driven to Win",
+    "description": "Start your engines and gear up for the ultimate racing experience in Cars 3: Driven to Win inspired by Disney•Pixar's film, Cars 3. Play with over 20 customisable characters including Lightning McQueen, Jackson Storm, Cruz Ramirez and the next generation of racers on over 20 tracks set in iconic locations from the film such as Radiator Springs. Train and advance your abilities in 6 game modes and challenge your family and friends in the Battle Race to become the Ultimate Champion. On the road to becoming a Hall of Fame Driver, training and skill will give you an edge in a race that anyone can win.",
+    "publisher": "WARNER BROS. PICTURES",
+    "developer": null,
+    "base_release_date": 20170614,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170928,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20170928
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170928
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild violence"
+    ],
+    "region": null
 }
