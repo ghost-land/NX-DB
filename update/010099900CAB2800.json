@@ -1,4 +1,42 @@
 {
     "id": "010099900CAB2800",
-    "version": 65536
+    "base_tid": "010099900CAB2000",
+    "name": "TT Isle of Man",
+    "description": "For bikers, there are two types of speed races: the Isle of Man TT and the rest. No other race is as gruelling for the motorbikes and demanding for the riders. Take up the challenge of the Snaefell Mountain course: all 37.73 miles faithfully reproduced with the champions and their bikes. Memorise each section of the course, round each bend to perfection, keep your concentration throughout the 6 laps, get the best time and write your name alongside the greatest champions.\n- THE SNAEFELL MOUNTAIN COURSE FAITHFULLY REPRODUCED: 37.73 miles of roads and 264 bends for a race that is longer and more difficult than all GP circuits together.\n- 25 OFFICIAL RIDERS AND 38 ULTRA-POWERFUL MOTORBIKES hurtling along mountain roads at over 180 mph.\n- REALISTIC RIDING APPROVED BY ACTUAL TT RIDERS\n",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20190509,
+    "latest_update_release_date": 20190509,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190509
+    },
+    "versions": {
+        "65536": 20190509
+    },
+    "category": [
+        "Simulation",
+        "Racing",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

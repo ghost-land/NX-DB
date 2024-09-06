@@ -1,4 +1,41 @@
 {
     "id": "010098E010FDA800",
-    "version": 65536
+    "base_tid": "010098E010FDA000",
+    "name": "Starlit Adventures Golden Stars",
+    "description": "Join Bo & Kikki for single-player or multiplayer fun anytime! Take on this family-friendly, vertical scrolling adventure with up to three friends as you try to save the Starlits and recover all the stars taken by Nuru. \nComes with all suits including Unicorn, Dino and Dragon Golden Suit as playable characters!\n\nThree games in one, for triple the fun! Simple, straightforward controls, optimized for younger and less-experienced players, make this a perfect choice for anyone looking to introduce their family to the wonderful world of Starlit. For multiplayer, all a player needs is a Joy-Con™, so two people can team up right out of the box! Tackle 144 platforming courses in the two main game modes: Story and Challenges! Enjoy extra replayability with the game mode Infinite Tower!",
+    "publisher": "Rockhead Studios",
+    "developer": null,
+    "base_release_date": 20200717,
+    "first_update_release_date": 20200916,
+    "latest_update_release_date": 20200916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200916
+    },
+    "versions": {
+        "65536": 20200916
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Go on epic adventures that will have you explore fantastic worlds, fight nightmarish enemies, collect dazzling treasures, and solve brain-teasing puzzles using an array of Special Suits!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Crude Humour",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "010099A011A46800",
-    "version": 65536
+    "base_tid": "010099A011A46000",
+    "name": "Instant Sports Summer Games",
+    "description": "Relay race, high jump, javelin throw, triple jump, archery, tennis, hurdle race, soc¬cer, baseball, rafting and bowling. \nNew gameplay, new controls, new customisations...\nSingle and multiplayer modes, up to 8.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20220203,
+    "first_update_release_date": 20200909,
+    "latest_update_release_date": 20200909,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200909
+    },
+    "versions": {
+        "65536": 20200909
+    },
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Party",
+        "Sports"
+    ],
+    "intro": "11 SPORTS TO BECOME THE NEW CHAMPION!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [],
+    "region": null
 }

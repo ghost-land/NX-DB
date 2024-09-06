@@ -1,4 +1,42 @@
 {
     "id": "01009860125C0800",
-    "version": 131072
+    "base_tid": "01009860125C0000",
+    "name": "Tales from the Dragon Mountain: The Strix",
+    "description": "Mina Lockheart's dreams became unbearable nightmares. She dreamt about her grandmother Kate and their old family house being eaten by flames. One day, Mina decided to travel back to their family estate to make peace with her own memories and feelings of loss and loneliness. \nBut after she arrived, not even in her wildest dreams she could imagine what will happen and where the events will take her. What started as a simple trip of search for inner peace, turned out to be the greatest, unimaginable adventure of her life!\n\n- Discover the truth about your grandmother's past\n- Explore many unique fantasy locations\n- Meet mythical creatures like homely, pixies and more\n- Dozens of interesting puzzles to solve\n- Beautiful graphics and fantasy atmosphere",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20200723,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20210929,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210929
+    },
+    "versions": {
+        "131072": 20210929
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Explore the mystical woods and mountains of Pozoj Creek and defeat the evil spirit called Strix!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

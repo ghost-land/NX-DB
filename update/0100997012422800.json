@@ -1,4 +1,36 @@
 {
     "id": "0100997012422800",
-    "version": 262144
+    "base_tid": "0100997012422000",
+    "name": "現嚐好滋味！超級猴子球 1&2 重製版",
+    "description": "滾動裝著小猴子的球邁向終點！可遊玩的關卡多達300多個，可盡情地在叢林、火山、宇宙等各式各樣的場地滾動小猴子。此外還收錄了網球、賽車、撞球等琳瑯滿目的派對遊戲。本次更推出了系列首次實裝的自訂功能，快來打造自己喜愛的小猴子吧！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20211007,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20230424,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230424
+    },
+    "versions": {
+        "196608": 20211007,
+        "262144": 20230424
+    },
+    "category": [
+        "動作",
+        "街機",
+        "派對"
+    ],
+    "intro": "滾動猴子球的超簡單遊戲",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

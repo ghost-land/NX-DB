@@ -1,4 +1,42 @@
 {
     "id": "010098C010CD6800",
-    "version": 65536
+    "base_tid": "010098C010CD6000",
+    "name": "FRACTER",
+    "description": "FRACTER is an emotive, isometric puzzle adventure game set in a mysterious labyrinth of glowing black architecture. The game follows a veiled young hero who has set out on a perilous quest to dispel the darkness within. Players must explore this world of shadows, discover secrets hidden in the dark, and outsmart ominous creatures while solving each meticulously designed puzzle using their only force against darkness: light. Dramatic landscapes in shades of gray, an eerie ambient soundtrack and a poetic, self-reflective narrative await you on this emotional journey restoring light to a darkened world.\n\nFeatures:\n\nMETICULOUSLY CRAFTED PUZZLES\nA series of intricate puzzles that must be solved using light.\n\nSTRIKING BLACK & WHITE VISUALS\nDramatic landscapes in shades of gray designed by an accomplished team of artists\n\nPOETIC SELF-REFLECTIVE JOURNEY\nA game experience that is both heart-pounding and at times deeply personal\n\nHAUNTINGLY BEAUTIFUL SOUNDTRACK\nAn eerie ambient soundscape that combines flavours of east and west with sounds both ancient and future",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20201022,
+    "first_update_release_date": 20201022,
+    "latest_update_release_date": 20201022,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201022
+    },
+    "versions": {
+        "65536": 20201022
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Action",
+        "Strategy"
+    ],
+    "intro": "FRACTER follows a veiled young hero who has set out on a perilous quest for light through a cryptic labyrinth of shadows.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

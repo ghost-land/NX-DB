@@ -1,4 +1,49 @@
 {
     "id": "010098A016888800",
-    "version": 393216
+    "base_tid": "010098A016888000",
+    "name": "Figment 2: Creed Valley",
+    "description": "Figment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and enemies have overrun once-peaceful lands. Join Dusty, the Mind’s courage, as you make your way through puzzles, musical boss fights and unique environments. Face your fears head-on.\n\nNightmares have shattered the Moral Compass, making The Mind unable to function properly. Dusty and his ever-optimistic sidekick, Piper, must travel to Creed Valley, where The Mind’s ideals are formed to restore peace. A journey filled with musical showdowns and mind-bending puzzles awaits.\n\n• Musical Showdowns\nNightmares have their own theme songs, shining light on why they have appeared. Dodge and weave as they taunt you.\n\n• A Living, Rhythmic World\nChat with The Mind's ever-changing opinions and tune in to the world's rhythm.\n\n• One Mind, Two Perspectives\nExplore The Mind’s two fundamental states: Open-minded and Closed-minded. Switch between states and adapt to the shifting environment to move forward.\n\n• Rack Your Brain, Hone Your Sword\nProve your mental and physical strength through mind-bending puzzles and fights timed to the soundtrack.\n\n• Companion Mode\nWe should never have to face our fears alone. Piper is now a controllable character for local co-op.",
+    "publisher": "Bedtime Digital",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20230309,
+    "latest_update_release_date": 20230810,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230810
+    },
+    "versions": {
+        "65536": 20230309,
+        "131072": 20230417,
+        "196608": 20230510,
+        "262144": 20230530,
+        "393216": 20230810
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Music"
+    ],
+    "intro": "Piano bridges, dancing plants and musical showdowns. Will you muster enough courage to dive into the human psyche?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

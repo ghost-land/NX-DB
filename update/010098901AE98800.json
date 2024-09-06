@@ -1,4 +1,41 @@
 {
     "id": "010098901AE98800",
-    "version": 196608
+    "base_tid": "010098901AE98000",
+    "name": "Avia corporation",
+    "description": "Avia Corporation invites everyone to feel like the owner of an airline company. This game is an economic strategy where you need to reason and carefully consider every step on the path to building your dream airline company. Rational thinking and foresight are crucial in this game.\n\nFeatures:\n\n    Use your initial capital to purchase or lease airplanes. Your income grows as your airline company develops.\n    Over 100 airplane models with random generation.\n    Choose from routes to over 140 cities worldwide.\n    A passenger traffic accounting system based on population and city popularity.\n    Build complex airline routes with layovers.",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20230609,
+    "first_update_release_date": 20230608,
+    "latest_update_release_date": 20230628,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230628
+    },
+    "versions": {
+        "65536": 20230608,
+        "196608": 20230628
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Over 100 airplane models with random generation\nChoose from routes to over 140 cities worldwide\nA passenger traffic accounting system based on population",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

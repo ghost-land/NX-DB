@@ -1,4 +1,41 @@
 {
     "id": "010098401CEC4800",
-    "version": 458752
+    "base_tid": "010098401CEC4000",
+    "name": "TEVI",
+    "description": "在結合類銀河戰士惡魔城、像素風格、彈幕等要素的 2D 平台探險動作遊戲中，化身為身手敏捷的兔耳少女，與旅途中邂逅的夥伴們——天使與惡魔，於廣大的奇幻世界展開令人難忘的冒險旅程，並逐步解開故事背後的真相。",
+    "publisher": "Neverland Entertainment",
+    "developer": null,
+    "base_release_date": 20231130,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20231129,
+        "131072": 20231201,
+        "196608": 20231220,
+        "262144": 20240109,
+        "327680": 20240208,
+        "393216": 20240524,
+        "458752": 20240710
+    },
+    "category": [
+        "動作",
+        "冒險",
+        "角色扮演",
+        "射擊"
+    ],
+    "intro": "追尋改變世界命運的「齒輪」",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

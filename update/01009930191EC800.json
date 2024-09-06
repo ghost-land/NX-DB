@@ -1,4 +1,42 @@
 {
     "id": "01009930191EC800",
-    "version": 131072
+    "base_tid": "01009930191EC000",
+    "name": "Super Double Dragon",
+    "description": "Super Double Dragon comes to modern consoles for the first time!\nThis stage-based side scrolling action classic first came out for the \"Super Nintendo Entertainment System™\" in 1992.\nThe border of the screen can now be customized with a choice of 5 wallpapers. Play with your background of choice!\n\nYou can now ramp up the action, with customizable play speed going up to double speed!\nDiscover a whole new way to enjoy the game with extra tumultuous battles!\n\nKey Features:\n・Fend off enemy attacks with the Guard command\n・Build up the newly added Dragon Power gauge to unleash new moves\n・Take out enemies with the help of items such as sandbags and punching bags throughout the stage\n・Choosing Mode B turns on friendly fire\n\nTake control of the twin Dragons to make waves in the modern era!\n",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20231109,
+    "first_update_release_date": 20231129,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20231129,
+        "131072": 20240613
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Super Double Dragon rises again after 30 years! Now with new features such as customizable wallpapers and speed options!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }
