@@ -1,4 +1,41 @@
 {
     "id": "0100618013560800",
-    "version": 196608
+    "base_tid": "0100618013560000",
+    "name": "Santa's Xmas Adventure",
+    "description": "Santa had an accident! He lost his way, and all the gifts. Help him get to his goal by sliding tiles to form a path.\n\nA classic puzzle game which is harder than it looks! 720 levels across three modes to master.\n\nTest your skills and join Santa’s adventure! When you’re stuck, use a hint.  The game is accessible to players of all ages and abilities through the Hints system.\n\nAre you up for the challenge?",
+    "publisher": "Funbox Media",
+    "developer": null,
+    "base_release_date": 20201113,
+    "first_update_release_date": 20210104,
+    "latest_update_release_date": 20210311,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210311
+    },
+    "versions": {
+        "65536": 20210104,
+        "131072": 20210201,
+        "196608": 20210311
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education",
+        "Training"
+    ],
+    "intro": "Christmas based fun for the whole family!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

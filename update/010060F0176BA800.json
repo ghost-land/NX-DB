@@ -1,4 +1,34 @@
 {
     "id": "010060F0176BA800",
-    "version": 196608
+    "base_tid": "010060F0176BA000",
+    "name": "線上天竺鼠足球 Lite版",
+    "description": "※請注意，本Lite版是收錄在「PUI PUI 天竺鼠車車 一起來！天竺鼠車車派對！」（商品版）中的「天竺鼠足球」試玩版本，只能線上遊玩。\n※需要能連接網路的環境並加入Nintendo Switch Online（付費）。\n※請至商品官方網站確認詳請。\n\n【內容】\n可以線上遊玩收錄在「PUI PUI 天竺鼠車車 一起來！天竺鼠車車派對！」（商品版）的小遊戲「天竺鼠足球」的基本遊玩免費版。\n能夠與商品版的玩家配對遊玩，也能夠將儲存資料轉移到商品版。",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20220424,
+    "latest_update_release_date": 20221214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221214
+    },
+    "versions": {
+        "65536": 20220424,
+        "131072": 20220818,
+        "196608": 20221214
+    },
+    "category": [
+        "派對",
+        "運動"
+    ],
+    "intro": "在「PUI PUI天竺鼠車車」踢刺激的線上天竺鼠足球！\n跟全國的足球健將開球比賽吧！",
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

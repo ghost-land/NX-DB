@@ -1,4 +1,36 @@
 {
     "id": "0100612015862800",
-    "version": 196608
+    "base_tid": "0100612015862000",
+    "name": "Thea 2: The Shattering",
+    "description": "Thea 2: The Shattering is a follow-up to the successful Thea: The Awakening, which brings the idea of innovative genre hybrid, with elements of turn-based, 4X strategy, survival, RPG and a card game, to entirely new and thoroughly polished level.\n\nThe player takes on the role of a deity from the Slavic mythology-inspired pantheon and as such, controls the fate of a small flock of believers struggling for survival. This goal can be achieved in many ways, from diplomacy to war, from exploring to conquering, but any playstyle will surely lead to completely unique adventures thanks to the procedurally generated environments. Rich options, from crafting to town-building system, as well as the co-op multiplayer gameplay, make Thea 2 an ideal choice for tactically minded players, who are up for a challenge.",
+    "publisher": "RockGame",
+    "developer": null,
+    "base_release_date": 20210819,
+    "first_update_release_date": 20210914,
+    "latest_update_release_date": 20211105,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211105
+    },
+    "versions": {
+        "65536": 20210914,
+        "196608": 20211105
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Can you lead your flock to prosperity in this innovative blend of 4X strategy, RPG and card game?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

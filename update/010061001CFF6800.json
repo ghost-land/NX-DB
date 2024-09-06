@@ -1,4 +1,39 @@
 {
     "id": "010061001CFF6800",
-    "version": 65536
+    "base_tid": "010061001CFF6000",
+    "name": "Spear Master",
+    "description": "For centuries, brave warriors called 'Spear Masters' have protected the world. You are the son of a legendary hero, it is now your turn to follow in the footsteps of your ancestors and save the world from an ancient evil.\n\nSpear Master is a fast-paced action game where you throw spears at bouncing balls in order to split them. Destroy enemies, solve puzzles, talk to characters, fight against ferocious bosses and defend the world from the ancient evil known as the Tarr.",
+    "publisher": "Osarion",
+    "developer": null,
+    "base_release_date": 20240227,
+    "first_update_release_date": 20240207,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20240207
+    },
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "You are the son of a mighty hero. Now it's your turn to protect the world from an ancient evil.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

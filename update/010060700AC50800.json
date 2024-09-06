@@ -1,4 +1,51 @@
 {
     "id": "010060700AC50800",
-    "version": 524288
+    "base_tid": "010060700AC50000",
+    "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+    "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years—with a new action RPG—exclusively on the Nintendo Switch™ system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nIn this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations. Get closer to the action by shifting the view to an over-the-shoulder “Heroic Camera” perspective—a series first that offers a more immersive way to play single-player or multiplayer on up to four systems. Play online*, offline via local wireless, or simply pass a Joy-Con™ controller to a friend, so they can join your team. With another pair of Joy-Con controllers (sold separately), four players can team up on one system**! The drop-in/drop-out co-op possibilities let players create their own “Ultimate Alliance” at will.\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20190719,
+    "first_update_release_date": 20190716,
+    "latest_update_release_date": 20200423,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20200423
+    },
+    "versions": {
+        "65536": 20190716,
+        "131072": 20190802,
+        "196608": 20190830,
+        "262144": 20190930,
+        "327680": 20191223,
+        "393216": 20200128,
+        "458752": 20200326,
+        "524288": 20200423
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Assemble your ultimate team of Marvel Super Heroes ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Suggestive Themes",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

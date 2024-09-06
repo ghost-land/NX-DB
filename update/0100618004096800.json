@@ -1,4 +1,34 @@
 {
     "id": "0100618004096800",
-    "version": 65536
+    "base_tid": "0100618004096000",
+    "name": "Robonauts",
+    "description": "\"It is very accessible, vibrant, and great for gamers of all skill sets.\" - nintendoenthusiast.com review 9/10\n\nThe action combines familiar arcade shooting gameplay with a unique possibility to switch gravity. Colourful graphics appeal to both younger and adult players, while first-class music by Simon Viklund makes the adventure feel even more epic.\n\nKey Features:\n- great for the whole family\n- solo and multiplayer\n- 12 unique planetary systems\n- large variety of weapons and enemies\n- explosive art style and graphics\n- epic music composed by Simon Viklund\n- easy-to-learn yet challenging gameplay\n- 2 difficulty settings: normal and hard",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20170915,
+    "first_update_release_date": 20180412,
+    "latest_update_release_date": 20180412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180412
+    },
+    "versions": {
+        "65536": 20180412
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "Jump between planets, fight weird creatures and save the galaxy alone or with a friend!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

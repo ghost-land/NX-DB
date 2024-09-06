@@ -1,4 +1,48 @@
 {
     "id": "010060D00F658800",
-    "version": 327680
+    "base_tid": "010060D00F658000",
+    "name": "Star Renegades",
+    "description": "A service robot named J5T-1N has arrived in your dimension to warn of impending doom from an overwhelming force known as the Imperium.\n\nFight for survival across a procedurally generated and emergent mission-based campaign through reactive, tactical turn-based battle system that emphasizes interrupts and counters. Standing in your way is an intelligent Adversary system with enemy officers that evolve and move up in the ranks.\n\nAs your band of heroes fall in the fight against invading Imperium and hope is all but lost, J5T-1N must be sent to the next dimension with everything you’ve learned to give the next group of heroes a chance to prevail. Each dimension, and each playthrough is unique, challenging, and never the same.\n\nFEATURES\n\n• Outwit your foes with interrupts, counters, and combos in our fast-paced Reactive Time Battle System\n• Survive the relentless onslaught of an Intelligent Adversary system that generates unique enemies and bosses that evolve as you play\n• Unlock dozens of alternate characters as your surviving squad members form bonds and create progeny\n• Battle your way into the heart of the Imperium as our Rebellion Engine creates a unique experience with each playthrough via emergent gameplay and events, procedurally generated missions, shifting priorities, evolving enemies, and tons of equipment/upgrades for your squad",
+    "publisher": "Raw Fury",
+    "developer": null,
+    "base_release_date": 20230529,
+    "first_update_release_date": 20201116,
+    "latest_update_release_date": 20210907,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210907
+    },
+    "versions": {
+        "65536": 20201116,
+        "131072": 20201201,
+        "196608": 20210406,
+        "262144": 20210624,
+        "327680": 20210907
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": "RESIST. RECLAIM. SURVIVE. REPEAT",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

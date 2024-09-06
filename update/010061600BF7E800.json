@@ -1,4 +1,38 @@
 {
     "id": "010061600BF7E800",
-    "version": 131072
+    "base_tid": "010061600BF7E000",
+    "name": "ACA NEOGEO STRIKERS 1945 PLUS",
+    "description": "“STRIKERS 1945 PLUS” is a shoot 'em up game released by Psikyo in 1999. Make use of Shots, Super Shots, and Support Attacks to make your way through a chaotic dogfight!\nHistorical piston fighters, such as the P-38 Lightning, are ready to rumble!!\nA state of the art arcade shoot 'em up from the masters of the genre, Psikyo.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20181023,
+    "first_update_release_date": 20181017,
+    "latest_update_release_date": 20181113,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181113
+    },
+    "versions": {
+        "65536": 20181017,
+        "131072": 20181113
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Relive the ultra difficult \"Psikyo\" Shoot 'em up experience! Make use of your fighter's weapons and make your way through a chaotic dogfight!!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "010061700FA8C800",
-    "version": 262144
+    "base_tid": "010061700FA8C000",
+    "name": "Murder by Numbers",
+    "description": "Los Angeles, 1996. Honor Mizrahi was just an actress on a hit TV detective show. But when\nher boss ends up dead just minutes after he fires her,she finds herself starring in her own\nmurder mystery. Teaming up with SCOUT, a reconnaissance robot thrown away after a\nmysterious incident, she sets out to clear her name - and a new detective duo is born!\n\nInvestigate a range of murders across TV studios, glitzy award shows, drag clubs, and more\n- all set to an energetic soundtrack from famed composer Masakazu Sugimori (Phoenix\nWright: Ace Attorney, Ghost Trick and Viewtiful Joe).\n\nUncover a dark conspiracy by interrogating a wild range of weird and wonderful characters,\ndesigned by the incomparable Hato Moa, creator of Hatoful Boyfriend.\n90s fashions! Upbeat jams! Sass dialled up to 100! Questionable jokes! Drag queens! All\nthat and more awaits... in Murder by Numbers!",
+    "publisher": "The Irregular Corporation",
+    "developer": null,
+    "base_release_date": 20200305,
+    "first_update_release_date": 20200217,
+    "latest_update_release_date": 20200311,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200311
+    },
+    "versions": {
+        "196608": 20200217,
+        "262144": 20200311
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Solve Pixel Puzzles to find clues. Use the clues to interrogate witnesses. Work your way to the truth... and uncover the mystery of Murder by Numbers!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

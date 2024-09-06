@@ -1,4 +1,51 @@
 {
     "id": "010060801843A800",
-    "version": 589824
+    "base_tid": "010060801843A000",
+    "name": "Rubber Bandits",
+    "description": "Rubber Bandits throws 1-4 players into a wild party brawler to steal, smash, and scavenge as much cash as you can! Prepare for hilarious physics-based combat with wacky weapons and a huge lineup of criminal characters. Dodge deadly traps, bash rival bandits, and race from the cops to commit the perfect heist - but don’t forget to bag the loot!\n\nCompetitive Criminals: Play with friends or against other Bandits to emerge victorious! Join your partners in crime with local co-op or online to create the perfect criminal dream team. Battle across platforms with crossplay!\n\nLawbreaking Levels: Defy the laws of physics and bust out your bandits from highly destructible levels in classic heist themes like The Bank, The Museum and The Dock and more!\n\nChaotic Capers: Assert your status as Top Bandit across various zany game modes, including Pork Pursuit, Snack Attack, Brawl, Heist , Carnage, Dodge Bomb and Arcade! Can you master them all, and become the ultimate Bandit?\n\nFelonious Fashion: Customize your criminal looks in one of many classic bandit disguises: from cowboy outlaw and cat burglar to rubber onesie and banana suit. \n\nWicked Weaponry: Use everything at your disposal to win against your opponents and get the goods! Choose from 20 different weapons, from baguettes leaf blowers to rocket launchers! Use every weapon at your disposal to smash, zap or turn your enemies into giant ice cubes",
+    "publisher": "Flashbulb",
+    "developer": null,
+    "base_release_date": 20230119,
+    "first_update_release_date": 20230119,
+    "latest_update_release_date": 20240425,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240425
+    },
+    "versions": {
+        "196608": 20230119,
+        "262144": 20230210,
+        "327680": 20230307,
+        "393216": 20230317,
+        "458752": 20230621,
+        "524288": 20231123,
+        "589824": 20240425
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Rubber Bandits is a criminally fun multiplayer party game for up to 4 players. With 3 action-packed game modes, players steal, brawl, and dash to the finish line with the most loot to win!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

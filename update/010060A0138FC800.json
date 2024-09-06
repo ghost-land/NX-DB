@@ -1,4 +1,34 @@
 {
     "id": "010060A0138FC800",
-    "version": 65536
+    "base_tid": "010060A0138FC000",
+    "name": "S.U.M. - Slay Uncool Monsters",
+    "description": "You play as various Heroes in a world filled with Uncool Monsters. Your task is to fight these Monster by using Math. There are plenty of Dungeons that needs to be cleared and they get harder and harder! Level up and progress in the Campaign(s), or test your endurance in Endless Mode.\n\nEach Dungeon will challenge you with a series of math problems. A monster will provide you with a sum, your task is to fill the equation with the correct numbers at your disposal.\n\nYou'll also perform Special Attacks, depending on your character class, that deals additional damage when setup right. This gives each battle an extra layer of tactics. Plan ahead and you'll beat the toughest of enemies!\n\nDo you think you are up for the challenge? Think twice before heading into the harder Dungeons, they do get tricky!\nAre you a beginner with Math? No worries! There's Practice Mode to learn the basics!",
+    "publisher": "Doomster Entertainment",
+    "developer": null,
+    "base_release_date": 20210112,
+    "first_update_release_date": 20210127,
+    "latest_update_release_date": 20210127,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210127
+    },
+    "versions": {
+        "65536": 20210127
+    },
+    "category": [
+        "Education",
+        "Puzzle",
+        "Arcade",
+        "Study"
+    ],
+    "intro": "In S.U.M. you'll put your Quick-Math skills to test! Fight very Uncool Monsters using Addition, Subtraction, Multiplication & Division.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

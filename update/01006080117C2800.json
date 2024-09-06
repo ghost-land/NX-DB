@@ -1,4 +1,35 @@
 {
     "id": "01006080117C2800",
-    "version": 196608
+    "base_tid": "01006080117C2000",
+    "name": "Made in Abyss: Binary Star Falling into Darkness",
+    "description": "Become a Cave Raider and explore the world of the Abyss!\n\nTwo game modes to satisfy your delving desires:\n\nHELLO ABYSS Mode\nFollow the anime's story!\n\nDEEP IN ABYSS Mode\nEnjoy an original story!",
+    "publisher": "Spike Chunsoft US",
+    "developer": null,
+    "base_release_date": 20220902,
+    "first_update_release_date": 20220829,
+    "latest_update_release_date": 20230201,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230201
+    },
+    "versions": {
+        "65536": 20220829,
+        "196608": 20230201
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }
