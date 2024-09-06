@@ -1,4 +1,36 @@
 {
     "id": "01002C601E290800",
-    "version": 131072
+    "base_tid": "01002C601E290000",
+    "name": "Teared",
+    "description": "Immerse yourself in the exciting world of Teared, a thrilling 3D arcade action platformer. Get ready to face hordes of adversaries, including 9 colossal bosses and a variety of fantastic creatures such as dragons, skeletons, bats, spiders and fearsome cyclops.\n\nTeared is not just a game; it is an immersive journey where dynamic 3D landscapes are combined with intense gameplay in the purest retro style. \nExperience the excitement of a classic side-shift adventure integrated into a three-dimensional world with current mechanics.\n\nFeatures:\n\n- 9 challenging levels and 2 extra stages to conquer.\n- Face 9 epic bosses with unique attack skills and patterns.\n- Fight a wide range of enemies, including dragons, skeletons, bats, spiders, cyclops and more.\n- 3 different weapons available.\n- A side-displacement game with 3D environments.\n\nWhether you’re an experienced player or a newcomer to the arcade genre, Teared promises hours of excitement and entertainment.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20240425,
+    "first_update_release_date": 20240522,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240530
+    },
+    "versions": {
+        "65536": 20240522,
+        "131072": 20240530
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Fighting"
+    ],
+    "intro": "Embark on a thrilling 3D arcade action-platformer adventure. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

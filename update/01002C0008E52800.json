@@ -1,4 +1,46 @@
 {
     "id": "01002C0008E52800",
-    "version": 131072
+    "base_tid": "01002C0008E52000",
+    "name": "Tales of Vesperia™: Definitive Edition",
+    "description": "Celebrate the 10th anniversary of Tales of Vesperia and the return of this fan-favorite with the Definitive Edition!\nA power struggle begins in a civilization dependent on an ancient technology, the blastia, and the Empire that controls it. The fates of two friends traveling separate paths intertwine in an epic adventure that threatens the existence of all.\n\nDive into the Definitive version of this game with updated full HD graphics, brand-new music tracks, exciting mini-games, bosses, and a collection of unreleased costume DLC!\n\nTwo more playable characters join the fray!\n• Patty Fleur, a cheerful and tough young pirate girl in search of treasure, adventure… and her forgotten memories.\n• Flynn Scifo, Yuri’s best friend and an Imperial Knight, now joins the rest on their journey!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20181225,
+    "latest_update_release_date": 20190306,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190306
+    },
+    "versions": {
+        "65536": 20181225,
+        "131072": 20190306
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Simulated Gambling",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

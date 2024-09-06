@@ -1,4 +1,35 @@
 {
     "id": "01002C100E414800",
-    "version": 458752
+    "base_tid": "01002C100E414000",
+    "name": "哆啦A夢 牧場物語",
+    "description": "人氣角色「哆啦A夢」，這次將進入20多年來廣受喜愛的遊戲系列作──「牧場物語」，於Nintendo Switch登場！\n\n「哆啦A夢」中登場的熟悉角色們，將在以神祕巨木為特徵的遊戲原創世界──「萬物鎮」有活躍表現。\n請透過以「羈絆」為主題描繪的遊戲原創故事，享受令人感動的體驗，以及角色間的暖心交流♪\n\n除了「牧場物語」系列特有的栽培作物、照顧馬、牛等動物以外，還有在廣大地圖上探索、冒險與捕蟲等，許多豐富的遊戲內容。\n當然，哆啦A夢的粉絲所期待的「祕密道具」也將活躍登場。\n\n在獨特、懷舊又溫暖的筆觸所描繪的世界中，開心體驗大雄的溫馨牧場生活吧♪",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20190724,
+    "latest_update_release_date": 20200820,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200820
+    },
+    "versions": {
+        "131072": 20190724,
+        "196608": 20190818,
+        "327680": 20191011,
+        "393216": 20200804,
+        "458752": 20200820
+    },
+    "category": [
+        "模擬"
+    ],
+    "intro": "「哆啦A夢」進到「牧場物語」的世界了！？",
+    "isDemo": false,
+    "languages": [
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

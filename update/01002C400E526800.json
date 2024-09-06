@@ -1,4 +1,43 @@
 {
     "id": "01002C400E526800",
-    "version": 131072
+    "base_tid": "01002C400E526000",
+    "name": "Gigantosaurus The Game",
+    "description": "Explore and race across the prehistoric world of Gigantosaurus. This Disney dino tale is part saving the world, part super race, and all giant fun! \n\nRocky, Tiny, Mazu and Bill have scary problems – like the meteor that’s blocked up Giganto’s volcano! Only you and your dino friends can dare to solve puzzles and save the day – but you might need Giganto’s powers too! And the end of each story is the start of a super rally to the next zone. Will you be the most roarsome adventurer or the fastest racer?",
+    "publisher": "Outright Games",
+    "developer": null,
+    "base_release_date": 20200327,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20230904,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230904
+    },
+    "versions": {
+        "65536": 20230802,
+        "131072": 20230904
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Adventure, fun and racing on a gigantic scale ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

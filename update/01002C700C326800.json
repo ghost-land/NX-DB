@@ -1,4 +1,35 @@
 {
     "id": "01002C700C326800",
-    "version": 65536
+    "base_tid": "01002C700C326000",
+    "name": "Riddled Corpses EX",
+    "description": "Riddled Corpses EX is a twin-stick shooter made in the style of 8/16 bit arcade games.\n\nTravel through diverse locations packed with danger and huge bosses. Choose your character wisely and make good use of their abilities and the special items (clock, dynamite and turrets) to progress and destroy the root of evil!\n\n- 60 FPS fast-paced action\n- 2 player local coop\n- 6 characters with varying stats and abilities\n- Arcade, story and survival modes\n- Combo system\n- Quality chiptune music\n- Register your best scores on the online leaderboard!",
+    "publisher": "COWCAT",
+    "developer": null,
+    "base_release_date": 20240116,
+    "first_update_release_date": 20190225,
+    "latest_update_release_date": 20190225,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190225
+    },
+    "versions": {
+        "65536": 20190225
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action",
+        "RPG"
+    ],
+    "intro": "Frenetic arcade style twin-stick shooter.\nFight your way through hordes of enemies alone or with a friend!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

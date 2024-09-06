@@ -1,4 +1,47 @@
 {
     "id": "01002BA00D662800",
-    "version": 458752
+    "base_tid": "01002BA00D662000",
+    "name": "Pine",
+    "description": "A STORY OF HUMANS\nPine is an open world action adventure simulation game. Set in the beautiful world of Albamare, you take on the role of Hue, a smart young adult who will have to explore, trade, and fight his way through a vibrant world filled with creatures much smarter than humans.\n\nTHEIR STORY BECOMES YOURS\nAs you're looking for a new home for your tribe to settle in, you'll have to engage with the large-scale ecology of Albamare. Prepare by exploring, bartering, talking, crafting and fighting in six different biomes, with and against a diverse cast of species that will not simply help you.\n\nA STRUGGLE FOR SURVIVAL\nIn Pine, things will happen across the open game world even without your involvement. All organisms are alive and will try what they can to survive. You can choose to befriend a species, fight alongside them, or you may also to attack them, steal their food or force them to abandon their current habitat. All of this will make the species move across the ecological spectrum.",
+    "publisher": "Kongregate",
+    "developer": null,
+    "base_release_date": 20191126,
+    "first_update_release_date": 20191111,
+    "latest_update_release_date": 20201009,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20201009
+    },
+    "versions": {
+        "65536": 20191111,
+        "131072": 20191126,
+        "196608": 20191209,
+        "262144": 20200109,
+        "327680": 20200214,
+        "393216": 20200924,
+        "458752": 20201009
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "An open-world action adventure game set in a simulated world in which humans never reached the top of the food chain.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

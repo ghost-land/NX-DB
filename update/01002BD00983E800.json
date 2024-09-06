@@ -1,4 +1,45 @@
 {
     "id": "01002BD00983E800",
-    "version": 131072
+    "base_tid": "01002BD00983E000",
+    "name": "Burly Men at Sea",
+    "description": "One of TIME’s top ten games of the year, Burly Men at Sea is a folktale about a trio of large, bearded fishermen who step away from the ordinary to seek adventure.\n\nSet in the waters of early 20th-century Scandinavia, the game's story branches through a series of encounters with creatures from folklore. You play as storyteller and wayfinder, shaping the narrative around three ungainly heroes. Play through once for a single tale, then set sail again to uncover paths to new adventures.\n\n\"\"5/5\"\" —TIME\n\n“It’s whimsical and charming; a real breath of fresh air.” —Paste Magazine\n\n…\n\nBRANCHING STORY: Play through multiple choice-driven adventures, each designed to be completed in a single sitting.\n\nINNOVATIVE CONTROLS: Shape the narrative through a unique, draggable viewport and your interactions within it.\n \nPLAYFUL AESTHETIC: Colorful art style with handcrafted animation, set to a whimsical original soundtrack inspired by the game’s Scandinavian setting.\n\n…\n\nBurly Men at Sea is the second game from husband-and-wife team Brain&Brain, developed during their own adventures as nomads and erstwhile farmhands.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20180420,
+    "latest_update_release_date": 20180705,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180705
+    },
+    "versions": {
+        "65536": 20180420,
+        "131072": 20180705
+    },
+    "category": [
+        "Other",
+        "Adventure",
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "A trio of large, bearded fishermen who step away from the ordinary to seek adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

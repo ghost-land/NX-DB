@@ -1,4 +1,35 @@
 {
     "id": "01002BA00C7CE800",
-    "version": 65536
+    "base_tid": "01002BA00C7CE000",
+    "name": "The Savior's Gang",
+    "description": "The player will have to guide his faithful through several dangers that could damage them in the most possible grotesque and cruel ways. These can be dismembered, crushed, burned, drowned, infected and skewered among many other calamities. The skill of each player will come into play to determine how many adepts finish each level alive. \n\nIn The Savior's Gang, the player controls The Savior, a powerful entity that is crucified and trapped between the world of mortals and heaven. This unfair death triggers the wrath of his father, an almighty pidgeon, which unleashes a series of traps, disasters and dangers all over the world. The Savior must negotiate with his Father to stop these catastrophes and save only his worshippers from all these evils and, try to get out of limbo and recover his power. To achieve his goals, he will have his good friend Stan (he hates to be called Satan) and the intermediation of his Mother and Stepfather.",
+    "publisher": "Catness Game",
+    "developer": null,
+    "base_release_date": 20190604,
+    "first_update_release_date": 20190708,
+    "latest_update_release_date": 20190708,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190708
+    },
+    "versions": {
+        "65536": 20190708
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "A self-proclaimed Savior must travel through numerous ancestral locations guiding his worshipers to reach the promised land, and the salvation.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "01002C6016144800",
-    "version": 65536
+    "base_tid": "01002C6016144000",
+    "name": "Kharon's Crypt - Even Death May Die",
+    "description": "Kharon's Crypt is an eerie non-linear dungeon crawler game full of puzzles, riddles and deadly challenges, and graphics designed to follow the aesthetics of the good old classics games. In Kharon's Crypt, you'll be playing as Kharon (a being thought to be death itself) in his mission to escape from the crypt where he had been sealed by a deranged king that wanted to elude death.\n\nAs Kharon, your abilities are flying, going through physical objects, and stun your enemies. To defeat your opponents and escape from the crypt, you'll need to steal the bodies of your enemies by possessing them. You'll be able to fly in a bat's body, fight from inside a skeleton, or even use a mimic's abilities to help yourself hide.\n\nDo you have what it takes to escape from the crypt and compel the Deranged King to meet his fate?",
+    "publisher": "Hebi Lee",
+    "developer": null,
+    "base_release_date": 20220201,
+    "first_update_release_date": 20220204,
+    "latest_update_release_date": 20220204,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220204
+    },
+    "versions": {
+        "65536": 20220204
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Nonlinear Dungeon Crawler Metroidvania full of puzzles & challenges. Inspired by good old classics games with Retro Pixel Art Aesthetics.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

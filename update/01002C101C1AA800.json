@@ -1,4 +1,36 @@
 {
     "id": "01002C101C1AA800",
-    "version": 393216
+    "base_tid": "01002C101C1AA000",
+    "name": "Expeditions: A MudRunner Game",
+    "description": "Embark on ever-rewarding scientific expeditions as you adapt to nature's challenges and unravel the mysteries of uncharted lands. Venture into the vast wilderness of arid deserts and rugged forests to the steepest mountains, brimming with hidden treasures and forgotten ruins.\n\nLead research missions as you drive a variety of all-terrain vehicles through treacherous paths, using advanced technologies and high-tech tools to overcome obstacles. Build and manage your base and equip your vehicles with essential gadgets like drones or scanners to ensure your success in the wild. Hire a team of top-notch experts to improve your skills in the field, unlocking new possibilities for exploration.\n\n●\tExperience a new take on the most advanced physics-based, off-road adventure from the creators of MudRunner and SnowRunner.\n●\tPlan your itinerary wisely by flying over the landscapes with your reconnaissance drone, use your metal detector and camera drone to locate caches of valuable equipment.\n●\tChart through extreme landscapes with your vehicle's arsenal of cutting-edge gadgets, like planting anchors to ascend difficult slopes or activating echo sounders to probe water depth.\n●\tManage your camp by building research structures and hiring experts to unlock new skills and possibilities during your expeditions.",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20240305,
+    "first_update_release_date": 20240221,
+    "latest_update_release_date": 20240905,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240905
+    },
+    "versions": {
+        "131072": 20240221,
+        "196608": 20240317,
+        "262144": 20240416,
+        "327680": 20240523,
+        "393216": 20240612,
+        "524288": 20240905
+    },
+    "category": [
+        "Simulation"
+    ],
+    "intro": "Embark on scientific expeditions with this new off-road adventure game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

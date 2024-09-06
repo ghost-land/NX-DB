@@ -1,4 +1,45 @@
 {
     "id": "01002C60178C4800",
-    "version": 131072
+    "base_tid": "01002C60178C4000",
+    "name": "Swordship",
+    "description": "Swordship is a futuristic lightning-fast dodge’em up which flips the script on the traditional arcade shooter. Turn both the tide of battle and enemies on themselves by dodging, weaving and diving your way through an onslaught of enemies hell-bent on tearing your Swordship apart.  \n\nThis addictive action-roguelike pushes you to make split-second decisions that will either bring you glorious victory against tyranny, injustice, and become a symbol of hope to The Banished, or see your unsung heroics sink to the bottom of the sea. With an adrenaline fuelled soon-to-be a modern classic soundtrack this game will transport you to a grim watery future.  \n \nFeatures: \n\nGuns are cool but dodging is your best weapon: The Swordship’s manoeuvrability allows you to outwit the enemy by tactically positioning and dodging enemy fire \n \n\nShip Abilities: Collect power-boosting components and experiment with different play styles in your runs \n \n\nRisk/Reward Upgrades: Choose between risking it all by banking stolen containers for massive score boosts or, play it safe for passive upgrades and extra ships that will fit your play style \n \n\nWeather: Learn to master the different weather conditions to get through the randomly generated levels \n\n \nStory: \n\nThe world after global warming. Humanity has taken refuge in three gigantic underwater cities at the bottom of the ocean. \n \nThose who are expelled from the cities, for lack of space, barely survive on the burned lands. Meanwhile the megacities exchange millions of containers loaded with goods every day. \n \nAt the commands of ultra-fast boats, a few inhabitants of the underwater cities started stealing these precious containers, in order to deliver them to the banished. \n \nSome are more successful than others. ",
+    "publisher": "Thunderful",
+    "developer": null,
+    "base_release_date": 20221205,
+    "first_update_release_date": 20221121,
+    "latest_update_release_date": 20230608,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230608
+    },
+    "versions": {
+        "65536": 20221121,
+        "131072": 20230608
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Racing",
+        "Other"
+    ],
+    "intro": "IMMERSE YOURSELF IN THIS GENRE-EVOLVING NAUTICAL DODGE 'EM UP",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

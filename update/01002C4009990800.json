@@ -1,4 +1,40 @@
 {
     "id": "01002C4009990800",
-    "version": 196608
+    "base_tid": "01002C4009990000",
+    "name": "OPUS: Rocket of Whispers",
+    "description": "“Once we fire the rocket, will these ghosts finally leave me?”, asked the man.\n\n“Of course. Our goal, after all, is to return them to the cosmos”, the witch replied.\n\nThroughout OPUS: Rocket of Whispers you will play as two survivors of an apocalyptic plague. Help them achieve the unimaginable goal of building a rocket, so they can return the deceased to their cosmic homeland through the ancient tradition of space burials.\n\n=================           \nFEATURES\n=================\n\nSTORY\nAn emotionally-driven and heartwarming adventure written by the IMGA nominated writer of OPUS: The Day We Found Earth. Explore an atmospheric world full of mysteries and rich narration.\n\nEXPLORE\nTravel through a post-apocalyptic winter filled with ruins and remnants of a once prosperous land. Explore the unknown for antiques and artifacts, and find out about their past.\n\nBUILD\nPrepare for countdown by gathering the materials needed to build a rocket, and craft tools that will help you reach greater distances.\n\nART\nOver 100 items to find and inspect, each beautifully drawn with a story to match, including rocket material and details backed by careful research.\n\nMUSIC\nOver 30 beautiful atmospheric soundscapes designed to immerse you in the snowy wilderness. Composed and recorded by indiePlay nominated composer Triodust.",
+    "publisher": "SIGONO",
+    "developer": null,
+    "base_release_date": 20180323,
+    "first_update_release_date": 20180606,
+    "latest_update_release_date": 20190409,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190409
+    },
+    "versions": {
+        "65536": 20180606,
+        "131072": 20180914,
+        "196608": 20190409
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Travel across a world of ice and snow, through burned down ruins and treacherous peaks, to launch a rocket that will reach the stars!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

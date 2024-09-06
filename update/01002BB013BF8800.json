@@ -1,4 +1,38 @@
 {
     "id": "01002BB013BF8800",
-    "version": 196608
+    "base_tid": "01002BB013BF8000",
+    "name": "Stealth",
+    "description": "Stealth is the game in which you need to think here and now. Each delay can cost you a level of failure. Only meaningful actions, quick and sharp movements will help you to get to the end of the level. Hide or eliminate enemies using sound bombs, rescue hostages, this and much more interesting await you in the minimalist Stealth world.",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20210214,
+    "first_update_release_date": 20210212,
+    "latest_update_release_date": 20210915,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210915
+    },
+    "versions": {
+        "65536": 20210212,
+        "131072": 20210316,
+        "196608": 20210915
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Puzzle with elements of stealth\n100 unique levels\nMinimalism World",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

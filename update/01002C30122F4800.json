@@ -1,4 +1,35 @@
 {
     "id": "01002C30122F4800",
-    "version": 131072
+    "base_tid": "01002C30122F4000",
+    "name": "Space Avenger: Empire of Nexx",
+    "description": "Space Avenger is a super fast paced, top down arena, rogue shooter with multiple ships and over 90 upgrades that will aid you in your war against the Nexx Empire. Travel through intense battles across nearly fifteen worlds as you attempt to fend off the Nexx. Fight against gigantic bosses and use an ever-expanding devastating arsenal to overcome all the challenges that await you. Light PRG elements allow you to earn experience every battle and even in defeat use it to upgrade your ship. The all-powerful Nexx Empire has declared war on humanity!\n\n- Superfast science fiction arcade arena shooter!\n- Extraterrestrial firepower, weapons and upgrades!\n- An awesome SciFi story full of suspense and action!\n- Multiple ship types\n- Deep ship upgrade system for custom combat styles",
+    "publisher": "Clickteam",
+    "developer": null,
+    "base_release_date": 20201010,
+    "first_update_release_date": 20210211,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20210211,
+        "131072": 20210527
+    },
+    "category": [
+        "Shooter",
+        "RPG"
+    ],
+    "intro": "The Empire of Nexx grows unchecked, conquering world after world. All seems hopeless.. What can one Rookie pilot do? Can one person change the fate of the galaxy?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

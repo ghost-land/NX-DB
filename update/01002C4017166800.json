@@ -1,4 +1,50 @@
 {
     "id": "01002C4017166800",
-    "version": 262144
+    "base_tid": "01002C4017166000",
+    "name": "Despot's Game",
+    "description": "Let's play a game: I'll give you some puny humans, and you try to help them make it through my labyrinth. No, you won't be controlling them in battles - they'll fight automatically! My game is about strategy and praying to RNGesus, not mashing buttons. You can buy items for the humans: swords, crossbows, coffins, stale pretzels. Plus, I'll let you give them cool mutations! A few Topochlorians in the blood and some Crocodile Skin never hurt anyone. There's one catch, though: if you die, you have to start over entirely, and the whole world will be generated again from scratch. Yes, my game is a roguelike game. Well, roguelite, if you're a nerd who loves compartmentalizing us creators into strict genres.\nI almost forgot: my game has a multiplayer mode, too! But I'm not going to tell you anything about it, because King of the Hill is a special secret multiplayer mode that only unlocks once you beat the game.\n\n* sincerely, with disrespect for puny humans, your local evil AI:\n d'Spot",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20230512,
+    "first_update_release_date": 20230512,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20230512,
+        "131072": 20230901,
+        "196608": 20231123,
+        "262144": 20240510
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Roguelike, auto-battler, deep progression, gratuitous violence, pretzels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

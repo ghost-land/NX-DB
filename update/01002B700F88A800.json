@@ -1,4 +1,41 @@
 {
     "id": "01002B700F88A800",
-    "version": 131072
+    "base_tid": "01002B700F88A000",
+    "name": "Traffix",
+    "description": "Control the traffic lights and help guide the drivers through various city highways like Paris, Tokyo, Istanbul or Las Vegas.\nStart fighting chaos all over the world!\nIncludes colorblind mode.",
+    "publisher": "Nerd Monkeys",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20201215,
+    "latest_update_release_date": 20210511,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210511
+    },
+    "versions": {
+        "65536": 20201215,
+        "131072": 20210511
+    },
+    "category": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "intro": "Traffix is the original traffic puzzle game.\nWith simple rules and minimalist design, you'll help drivers drive through chaotic rush hours all over the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

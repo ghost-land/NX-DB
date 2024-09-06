@@ -1,4 +1,33 @@
 {
     "id": "01002B60178B4800",
-    "version": 65536
+    "base_tid": "01002B60178B4000",
+    "name": "TASOMACHI: Behind the Twilight",
+    "description": "Yukumo is a young girl traversing the world in her beloved airship. Upon arriving at a particular Far Eastern town to run some errands, her airship suddenly breaks down. She decides to explore the town to search for parts for repair; however, the town has fallen silent with no trace of the people who live there, the only inhabitants being a strange cat-like species...\n\nTasomachi is an independently developed adventure game that lets you freely explore the beautiful world created by designer nocras. Assuming the role of young female protagonist Yukumo, fix your beloved airship by exploring the mysterious town covered by the Twilight Mist to collect hidden Sources of Earth and help restore the town’s lost brilliance. Enjoy this unique world with an Eastern fantasy twist, complemented perfectly by composer Ujico*’s mystical soundtrack.",
+    "publisher": "PLAYISM",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220427,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220427
+    },
+    "versions": {
+        "65536": 20220427
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Set off on an adventure...\nTo wherever your heart may lead you.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

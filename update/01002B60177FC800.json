@@ -1,4 +1,41 @@
 {
     "id": "01002B60177FC800",
-    "version": 65536
+    "base_tid": "01002B60177FC000",
+    "name": "Memorrha",
+    "description": "Solve the mystery of sleeping machines and learn more about their creators. A diverse and open world full of thrilling puzzles and secrets awaits you.\n- Can you decipher the mechanisms of ancient technologies?\n- Will you learn the truth about those who came before you?\n- Will you find your destiny in this secretive world?\n\nGameplay Features:\n- Discover a stylized and lovingly designed environment\n- Solve 100s of tricky logic and combination puzzles\n- Interact with machines and portable objects\n- Catalog symbols and pictograms using your scanner\n- Relax and listen to the epic soundtrack",
+    "publisher": "StickyStoneStudio",
+    "developer": null,
+    "base_release_date": 20230113,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230113
+    },
+    "versions": {
+        "65536": 20230113
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Go on a voyage of discovery following the traces of a mysterious culture. Discover diverse landscapes, investigate abandoned artifacts, and wake strange machines from their slumber. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
