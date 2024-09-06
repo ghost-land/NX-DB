@@ -1,4 +1,42 @@
 {
     "id": "0100C6F013FFA800",
-    "version": 65536
+    "base_tid": "0100C6F013FFA000",
+    "name": "Farmers Co-op: Out of This World",
+    "description": "Farmers Co-op: Out of This World is a couch co-op for up to 4 players. Your people are starving back home, its up to you and three other farmers to grow as much produce as possible and send them back to your home planet.",
+    "publisher": "Rising Win Tech.",
+    "developer": null,
+    "base_release_date": 20210902,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

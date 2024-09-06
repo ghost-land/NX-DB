@@ -1,4 +1,42 @@
 {
     "id": "0100C6E016BDA800",
-    "version": 131072
+    "base_tid": "0100C6E016BDA000",
+    "name": "8Doors: Arum's Afterlife Adventure",
+    "description": "8Doors is a story-driven Metroidvania-style action platformer heavily influenced by Korean folktales. Play as ‘Arum’, a brave girl that has entered the realm of the afterlife in search of her father’s soul and guide her through the '8 Doors of Purgatory' to solve the mysteries that lie deep within.",
+    "publisher": "NEOWIZ",
+    "developer": null,
+    "base_release_date": 20220420,
+    "first_update_release_date": 20220619,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20220619,
+        "131072": 20220818
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

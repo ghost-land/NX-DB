@@ -1,4 +1,36 @@
 {
     "id": "0100C6D01570A800",
-    "version": 131072
+    "base_tid": "0100C6D01570A000",
+    "name": "Yeah Yeah Beebiss II",
+    "description": "The Legend of Yeah Yeah Beebiss I\n\nLong ago there was legend of a new video game that had no screenshots, no reviews, no advertisements -- nothing. Just a quick blurb in the back of some magazines saying it was for sale. It was never released. This is a sequel to that mythical game.\n\nAs Kyonshi Hui and Jiangshi Bo, it is your quest to banish all evil in all 100 levels - 10 original stages, including the boss -- a mutated mass of pure evil. Hui prefers zapping foes while Bo prefers absorbing their life force.\n\nGood luck!\n\n- 100 Levels\n- 10 Unique Stages\n- 2 Players\n- Original Chiptune Retro Soundtrack\n- Manual and Box Art Viewer\n- Two Playable Characters\n",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20220202,
+    "first_update_release_date": 20220519,
+    "latest_update_release_date": 20220728,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220728
+    },
+    "versions": {
+        "65536": 20220519,
+        "131072": 20220728
+    },
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Yeah Yeah Beebiss II is the sequel to a game considered as lost media. Fight evil as Kyonshi Hui and Jiangshi Bo and save the world!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

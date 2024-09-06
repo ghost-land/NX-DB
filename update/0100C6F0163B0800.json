@@ -1,4 +1,35 @@
 {
     "id": "0100C6F0163B0800",
-    "version": 65536
+    "base_tid": "0100C6F0163B0000",
+    "name": "Stickman: Far East Battle",
+    "description": "Stickman: Far East Battle is an exciting arcade game where you have to help the stickman eliminate all the enemies on the screen. Every new level comes with its fair share of challenges, and you must do everything you can in order to win.\n\nNew challenges appear all the time, and with the right strategy you can make it work. This is exciting and rewarding, fun and appealing. You can also fully customize your stickman with its own shield, hat, weapon and armor. That allows you to really show off your true power, and you even have multiple difficulty levels to try out. Protect the stickman in his far east adventure today!\n\nFeatures:\nAction packed gameplay\nCustomize your stickman the way you want\nIntense, fun campaign\nAesthetic graphics\n",
+    "publisher": "Gametry",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20211103,
+    "latest_update_release_date": 20211103,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211103
+    },
+    "versions": {
+        "65536": 20211103
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

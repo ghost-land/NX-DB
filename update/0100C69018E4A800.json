@@ -1,4 +1,49 @@
 {
     "id": "0100C69018E4A800",
-    "version": 327680
+    "base_tid": "0100C69018E4A000",
+    "name": "The Last Faith",
+    "description": "The wicked and the blessed will be judged the same - let nothing stand in your way.\n\nOften brutal, always empowering, The Last Faith is an unholy alliance of metroidvania and soulslike.\n\nThe Last Faith thrives on merciless and precise combat, with a huge range of custom executions to perform.\n\nDiscover a formidable arsenal of melee weapons, arcane spells, and long-range firearms, allowing you to carve a path your own way.\n\nNonlinear exploration is at the core of The Last Faith. Gorgeous pixel art depicts an imposing gothic landscape. Journey along snow-dusted mountains and castles bathed in moonlight. Discover and upgrade a formidable range of tools for destruction.\n\nStep into The Last Faith’s ravaged world as Eryk, who awakens with no recollection of his immediate past. Soon he will discover he is in a race against time as his mind and conscience begins to deteriorate. His desire for salvation from this affliction sets him on a cursed mission that crosses paths with ancient religions and divinities.",
+    "publisher": "Playstack",
+    "developer": null,
+    "base_release_date": 20231115,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240619,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240619
+    },
+    "versions": {
+        "131072": 20231123,
+        "196608": 20240515,
+        "262144": 20240612,
+        "327680": 20240619
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "An unholy alliance of metroidvania and soulslike.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Violence"
+    ],
+    "region": null
 }

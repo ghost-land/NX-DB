@@ -1,4 +1,32 @@
 {
     "id": "0100C7400CFB4800",
-    "version": 131072
+    "base_tid": "0100C7400CFB4000",
+    "name": "AI: THE SOMNIUM FILES",
+    "description": "東京。\n11月某個週五的夜晚。\n \n在雨中發現了一名女性的遺體。\n地點就在化為廢墟的遊樂園中…\n \n女性的遺體沒有左眼。\n似乎是被犯人挖出來後拿走了。\n \n聽到此訊而造訪現場的刑警──伊達。\n他認識那名遭到不幸的女性。\n為何她會──\n \n──這是某個為了找回失去的記憶、\n追查有因緣關係的殺人犯，\n穿梭在夢境與現實中進行搜查的刑警與同伴的故事。\n\n由打越鋼太郎×小崎祐輔攜手打造出的本格派冒險遊戲隆重登場！\n玩家將化身為主角「伊達」追查一連串的神秘殺人事件。\n在「搜查篇」的現實世界中進行情報調查與偵訊，\n並在「夢界篇」的夢境世界中找尋暗藏於意識深處中的真相。\n穿梭現實與夢境之間，一步步揭露犯人的真實面貌。",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20200827,
+    "first_update_release_date": 20190918,
+    "latest_update_release_date": 20200314,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200314
+    },
+    "versions": {
+        "65536": 20190918,
+        "131072": 20200314
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": "殺了她…　是因為想要AI [ai]…\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

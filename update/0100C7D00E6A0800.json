@@ -1,4 +1,35 @@
 {
     "id": "0100C7D00E6A0800",
-    "version": 65536
+    "base_tid": "0100C7D00E6A0000",
+    "name": "Arc of Alchemist",
+    "description": "Newly Polished - In the Western release, players can now choose from 7 playable characters each specializing in unique weapons, attacks, and abilities! \n\nFour Orbs to Rule Them All - Wielding the Lunagear allows players to combine two of the four elemental orbs (fire, water, wind, earth) to solve puzzles, manipulate environments, and blast any foe.\n\nBased Blessings - Construct your base and conquer! Customize Troop Formations, purchase gear, and build facilities to strengthen attacks and learn new abilities.\n\nAmass Items & Exchange - There are treasures to be found everywhere. Seek out items to equip and strengthen your party. Exchange materials for even more powerful weapons!\n",
+    "publisher": "Idea Factory",
+    "developer": null,
+    "base_release_date": 20200130,
+    "first_update_release_date": 20200131,
+    "latest_update_release_date": 20200131,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200131
+    },
+    "versions": {
+        "65536": 20200131
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Quinn Bravesford and her squad are sent on a quest to find the Great Power – the key to save humanity. Is there hope within the desert or is it merely a mirage? ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

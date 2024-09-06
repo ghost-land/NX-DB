@@ -1,4 +1,34 @@
 {
     "id": "0100C6A01AD56800",
-    "version": 65536
+    "base_tid": "0100C6A01AD56000",
+    "name": "Bloo Kid",
+    "description": "Jump and run your way through 96 action-packed levels spread across EIGHT unique worlds.\n\nClear a level without getting hit to receive the \"flawless\" star.\nGrab the star at the end of a level to receive the \"special\" star.\nCollect as many stars as possible to unlock all achievements.",
+    "publisher": "winterworks",
+    "developer": null,
+    "base_release_date": 20230609,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20230621,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230621
+    },
+    "versions": {
+        "65536": 20230621
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Rescue your beloved one from the hands of the evil wizard in this retro-style 2D platformer with cute pixelart, chiptune soundtrack and challenging one-screen levels! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

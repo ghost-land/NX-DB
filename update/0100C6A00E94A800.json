@@ -1,4 +1,42 @@
 {
     "id": "0100C6A00E94A800",
-    "version": 327680
+    "base_tid": "0100C6A00E94A000",
+    "name": "Panzer Dragoon: Remake",
+    "description": "On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past, and the guidance of your armored blue dragon, you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying.\n\nKey Features\n    • Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins.\n    • Fight the Prototype Dragon who appears together with evil giant dragonflies, frightening man-sized wasps, giant sandworms, and lethal flying battleships.\n    • Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200326,
+    "first_update_release_date": 20200402,
+    "latest_update_release_date": 20211007,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20211007
+    },
+    "versions": {
+        "131072": 20200402,
+        "196608": 20200513,
+        "327680": 20211007
+    },
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "A new, remade version of the Panzer Dragoon game – true to the original, with improved graphics and controls, that suit modern gaming standards! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

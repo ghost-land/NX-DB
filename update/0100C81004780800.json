@@ -1,4 +1,39 @@
 {
     "id": "0100C81004780800",
-    "version": 65536
+    "base_tid": "0100C81004780000",
+    "name": "Disco Dodgeball - REMIX",
+    "description": "Disco Dodgeball – REMIX is a ridiculous physics-based futuresport combining robots, one-hit-kill projectile combat and crazy dodgeball action. Dodge, deflect and catch enemy fire as you perform ridiculous aerial stunt shots with your mustachio'd unicycle robot and enjoy the voice of a booming monster truck driver announcer when you score! Play a wide variety of classic and expert game modes in singleplayer, local multiplayer, or online multilpayer matches. ",
+    "publisher": "Zen Studios",
+    "developer": null,
+    "base_release_date": 20180522,
+    "first_update_release_date": 20180503,
+    "latest_update_release_date": 20180503,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180503
+    },
+    "versions": {
+        "65536": 20180503
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Digital Purchases"
+    ],
+    "region": null
 }

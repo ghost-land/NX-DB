@@ -1,4 +1,47 @@
 {
     "id": "0100C7D00E730800",
-    "version": 589824
+    "base_tid": "0100C7D00E730000",
+    "name": "Fight'N Rage",
+    "description": "Set in a far future where humans are enslaved by mutants, Fight’N Rage is a side-scroller beat’em up inspired by the classics from the 90's arcade gems.\n\nIn a world where “the law of the jungle” prevails... two humans and a mutant rebel are willing to fight in order to stop this madness.\nGet ready to face ruthless mutants... Get ready to Fight'N Rage!\n\nFeatures:\n* Several endings: Your in-game actions will decide the story!\n* Explosive combo system: Blow up your enemies with special combos!\n* Lots of unlockables: Costumes, Game Modes, Options and even Playable Enemies!\n* Different weapons and Parry System.\n* Easy to play, hard to master.\n* Local co-op mode: Up to 3 players with optional friendly fire.\n* VS Mode: 1vs1 battles against another player or the CPU. Or simply watch CPU vs CPU battles.\n* Additional near impossible extra challenges for pro-gamers!",
+    "publisher": "BlitWorks",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20190924,
+    "latest_update_release_date": 20230301,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230301
+    },
+    "versions": {
+        "65536": 20190924,
+        "131072": 20200804,
+        "196608": 20200824,
+        "327680": 20210115,
+        "393216": 20220419,
+        "458752": 20220819,
+        "524288": 20220923,
+        "589824": 20230301
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "zh"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

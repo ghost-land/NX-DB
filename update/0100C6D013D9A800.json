@@ -1,4 +1,33 @@
 {
     "id": "0100C6D013D9A800",
-    "version": 196608
+    "base_tid": "0100C6D013D9A000",
+    "name": "Space Invasion",
+    "description": "Invaders come back from Space in this modernized top-of-the-art version.\n\nGet back into 80's with this old time classic alien shooter game. Enjoy the enhanced version with today device capabilities and revive the gameplay simple yet addictive of first generation video-games.\n\nCollectable weapons, many different types of invaders will guarantee hours of intense fun.\n\nShow off your shooting skills and destroy aliens waves after waves.\n\nIt's time for you to protect the planet from deadly invaders. Best of luck, Captain!\n\n\nEasy to master Gamepad controls",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20211016,
+    "first_update_release_date": 20210125,
+    "latest_update_release_date": 20210923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210923
+    },
+    "versions": {
+        "65536": 20210125,
+        "196608": 20210923
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100C7E0134BE800",
-    "version": 458752
+    "base_tid": "0100C7E0134BE000",
+    "name": "Five Dates",
+    "description": "Five Dates is an interactive rom-com about the unpredictable world of digital dating. With five potential female matches, Vinny explores whether compatibility, chemistry and connection is still possible in a world where physical touch is no longer an option.\n\nVinny, a millennial from London, joins a dating app for the first time while living in lockdown during the coronavirus pandemic. With five potential female matches, Vinny must pluck up courage to video date with wildly different personalities, starring Mandip Gill and Georgia Hirst.\n\nThe viewer’s choices will define Vinny’s interactions with each date and their interest in seeing him again. Amidst a branching, multi-directional chain of conversation topics and deep-dive questions, Vinny is faced with digital game dates, awkward scenarios and unexpected truths.\n\nThroughout the game, your choices and your interactions will either strengthen or weaken your relationship with your date. The relationship scores are calculated from the start right through to the very end and will affect certain scenarios as well as having consequences in the concluding scenes.\n",
+    "publisher": "Wales Interactive",
+    "developer": null,
+    "base_release_date": 20201118,
+    "first_update_release_date": 20201109,
+    "latest_update_release_date": 20240305,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240305
+    },
+    "versions": {
+        "65536": 20201109,
+        "131072": 20201112,
+        "262144": 20210330,
+        "327680": 20210607,
+        "393216": 20220802,
+        "458752": 20240305
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "An interactive romantic comedy",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Mature Themes",
+        "Sexual References"
+    ],
+    "region": null
 }
