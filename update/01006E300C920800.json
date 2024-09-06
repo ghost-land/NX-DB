@@ -1,4 +1,39 @@
 {
     "id": "01006E300C920800",
-    "version": 131072
+    "base_tid": "01006E300C920000",
+    "name": "Floating Cloud God: Anniversary Edition",
+    "description": "In this new version of 'Floating Cloud God', all-new gameplay features meet with updated enemies and tougher boss battles to provide a fresh celebration of The Power of Love! \n\nPlaying as Floating Cloud God, protect your followers to earn their love, then use that love to fly faster, shoot stronger, split your shots, or boost the power of your demon-seeking Cloud Burst! You can even turn love into Cloud Cover, to shield your worshippers when they are in danger!\n\nGet as many followers as you can through seven treacherous (but beautiful) stages, take down the deadly bosses guarding each goal, and help the Pilgrims reach their stolen statue!",
+    "publisher": "Dakko Dakko",
+    "developer": null,
+    "base_release_date": 20221124,
+    "first_update_release_date": 20221116,
+    "latest_update_release_date": 20230922,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230922
+    },
+    "versions": {
+        "65536": 20221116,
+        "131072": 20230922
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "How many Pilgrims can YOU save?\nA vibrant, colourful and inventive 2D shoot-em-up where you can't be defeated, as long as you are loved!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

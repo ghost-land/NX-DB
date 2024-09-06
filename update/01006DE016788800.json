@@ -1,4 +1,35 @@
 {
     "id": "01006DE016788800",
-    "version": 131072
+    "base_tid": "01006DE016788000",
+    "name": "Sweets Swap Classic",
+    "description": "Sweets Swap classic is a three match game where you need to match three of the same kind and complete the goal to advance to the next level. Simple enough and flavoured with sweet variations to keep you on your toes! Enjoy and have a sweet time in Sweets Swap Classic.\n\nFeatures:\n- Simple three match game\n- different objectives to reach\n- Colourful and sweet classic art style\n- 99 Levels to complete",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20211007,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240109
+    },
+    "versions": {
+        "65536": 20211012,
+        "131072": 20240109
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade",
+        "Lifestyle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

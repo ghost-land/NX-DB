@@ -1,4 +1,47 @@
 {
     "id": "01006DF014682800",
-    "version": 262144
+    "base_tid": "01006DF014682000",
+    "name": "In Sound Mind",
+    "description": "As you awake in the corridors of an inexplicable building, you find the environment takes on a life of its own and leads you to discover a series of victims, all exposed to the same experimental chemical. In your search for answers, bizarre visions emerge and introduce a host of imposing horrors…and a cat named Tonia.\n\nFrom the creators of the cult classic Nightmare House 2 comes In Sound Mind, a witty first-person psychological horror with frenetic puzzles and unique boss fights. Traverse a series of unsettling memories as you journey within the inner workings of the one place you can’t seem to escape—your own mind.\n\nKey Features\n•\tA fresh horror experience from the creators of Nightmare House 2.\n•\tJourney through a series of haunting memories, each with unique puzzles, mechanics, weapons, and boss fights.\n•\tAn eerie soundtrack from the internet icon The Living Tombstone.\n•\tExplore an imaginative and disorienting narrative featuring a host of unlikely companions. \n•\tYou can pet the cat.",
+    "publisher": "Maximum Games",
+    "developer": null,
+    "base_release_date": 20221011,
+    "first_update_release_date": 20221010,
+    "latest_update_release_date": 20240716,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240716
+    },
+    "versions": {
+        "65536": 20221010,
+        "131072": 20221010,
+        "196608": 20230503,
+        "262144": 20240716
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "First-Person Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Violence"
+    ],
+    "region": null
 }

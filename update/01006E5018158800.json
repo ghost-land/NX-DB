@@ -1,4 +1,34 @@
 {
     "id": "01006E5018158800",
-    "version": 65536
+    "base_tid": "01006E5018158000",
+    "name": "QUByte Classics: Thunderbolt Collection by PIKO",
+    "description": "Your goal is simple: destroy all the enemies that will come until you reach the final boss of the stage, make it easier and faster as you collect items and power-ups to enhance your health bar, increase your speed and upgrade or acquire new weapons. You’ll lead humanity to survival.\n\nThunderbolt Collection is a compilation of two vertically-scrolling shoot ‘em ups from the series Thunderbolt released in 1995 exclusive on east.The QUByte port brings the 8-bit and 16-bit versions of the game, both with official English localization and new features to improve your experience like: control remapping, which allow players to customize controller buttons as they like it better, different screen types and save states.\n\nGame Features\n-\tWell balanced difficult in comparison to other games of the genre;\n-\tWeapons and power-ups variety;\n-\tWell thought and effective weapon system;\n-\t4 screen filters;\n-\t3 screen types;\n\n\n\nPartnership between PIKO Interactive and QUByte Interactive",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20220804,
+    "first_update_release_date": 20220802,
+    "latest_update_release_date": 20220802,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220802
+    },
+    "versions": {
+        "65536": 20220802
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "You are humanity’s last hope of survival in Thunderbolt Collection!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

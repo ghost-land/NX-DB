@@ -1,4 +1,47 @@
 {
     "id": "01006EB012FEC800",
-    "version": 393216
+    "base_tid": "01006EB012FEC000",
+    "name": "Phoenotopia : Awakening",
+    "description": "Join Gail, a simple villager, who must heed the call for adventure when a great star ship appears in the night sky and abducts all the adults. As the new oldest member of her fragmented community, she must set out to solve this great mystery. Little does she know of the grand adventure before her, the evil lurking in the shadows, and the role she will play in the fight for Earth’s very existence!\n\nFeatures:\n- A narrative-driven single player adventure filled with charming characters, vibrant towns, and dangerous dungeons.\n- Over 10 different weapons & tools with which to combat enemies and solve puzzles. Fly with rocket boots! Blast with bombs! Play the flute!\n- Fight against over 50 different enemy types and 12 boss encounters.\n- A world brimming with secrets! Find 33 Energy Gems, 55 Heart Pieces and 111 Moonstones. \n- An achievement system, with 33 badges to earn, for players seeking extra challenge and replayability.\n- Over 60 original songs ranging from mellow piano and orchestra to raging synth/metal rockers and bagpipes!\n- A main campaign length estimated at 25 hours of playtime. 50 hours for completionists.\n\nSolve the great mystery of the Phoenix!\n",
+    "publisher": "Cape Cosmic",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20200901,
+    "latest_update_release_date": 20210821,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20210821
+    },
+    "versions": {
+        "65536": 20200901,
+        "131072": 20200930,
+        "196608": 20201105,
+        "262144": 20210219,
+        "327680": 20210521,
+        "393216": 20210821
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Embark on an Adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

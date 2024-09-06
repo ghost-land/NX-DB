@@ -1,4 +1,35 @@
 {
     "id": "01006E801B044800",
-    "version": 131072
+    "base_tid": "01006E801B044000",
+    "name": "World of Outlaws: Dirt Racing '23 Edition",
+    "description": "Race in the premier World of Outlaws Sprint Car and Late Model Series, as well as 9 additional series including the all new Xtreme Outlaw Midget Series Presented by Toyota, UMP Modifieds, and Big Block Modifieds.\n\nUpgrade your cars, build your team, and expand your facilities to stay competitive with the best of the best on your way to becoming a World of Outlaws Champion in Career Mode! Then, prove you're Outlaw Tough when you take on up to 16 other racers in Online Multiplayer!\n\nWith over 40 total tracks to race, including 19 licensed venues, there's something for every dirt racing fan!",
+    "publisher": "iRacing",
+    "developer": null,
+    "base_release_date": 20231003,
+    "first_update_release_date": 20231002,
+    "latest_update_release_date": 20231003,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231003
+    },
+    "versions": {
+        "65536": 20231002,
+        "131072": 20231003
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "The Official Game of The World of Outlaws, built in collaboration with iRacing!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Lyrics",
+        "Users Interact"
+    ],
+    "region": null
 }

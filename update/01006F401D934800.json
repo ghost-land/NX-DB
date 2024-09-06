@@ -1,4 +1,41 @@
 {
     "id": "01006F401D934800",
-    "version": 458752
+    "base_tid": "01006F401D934000",
+    "name": "Twilight Survivors",
+    "description": "A time-limited survival game infused with rogue-lite elements and an adorable art style! The world has plunged into darkness, and you are its sole beacon of hope. Will you endure until dawn, or succumb to repeated deaths in your quest? Fear not, for you can collect coins and more during your journey to arm yourself!",
+    "publisher": "DORIDORI STUDIO",
+    "developer": null,
+    "base_release_date": 20240215,
+    "first_update_release_date": 20240215,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240510
+    },
+    "versions": {
+        "131072": 20240215,
+        "196608": 20240301,
+        "262144": 20240408,
+        "327680": 20240425,
+        "458752": 20240510
+    },
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Wield 5+ powerful Super Weapons all together! Face 300 enemies at the same time! Will you survive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

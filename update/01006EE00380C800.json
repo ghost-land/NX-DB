@@ -1,4 +1,35 @@
 {
     "id": "01006EE00380C800",
-    "version": 131072
+    "base_tid": "01006EE00380C000",
+    "name": "Sausage Sports Club",
+    "description": "Sausage Sports Club is a physics-sports game about adorable, floppy animals competing on a reality TV show!\nDuke it out with up to 8 friends in Free Play, where you’ll compete in tons of game modes like Soccer, Sumo and Capture the Flag. Not feeling competitive? Explore the toy-filled Overworld and get to know the show’s other melodramatic competitors in a 1-4 player replayable Adventure mode. No matter how you play, you’ll unlock new characters, skins, hats and arenas along the way.",
+    "publisher": "Luckshot Games",
+    "developer": null,
+    "base_release_date": 20180719,
+    "first_update_release_date": 20180711,
+    "latest_update_release_date": 20180814,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180814
+    },
+    "versions": {
+        "65536": 20180711,
+        "131072": 20180814
+    },
+    "category": [
+        "Platformer",
+        "Party",
+        "Sports",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

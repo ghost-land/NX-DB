@@ -1,4 +1,35 @@
 {
     "id": "01006F1018C9E800",
-    "version": 65536
+    "base_tid": "01006F1018C9E000",
+    "name": "The Tale of Clouds and Wind (QUByte Classics)",
+    "description": "The Tale of Cloud and Wind (QUByte Classics) is a beat’em up game with lots of action and hours of gameplay. Choose between 3 outlaw heroes and help them battle through oppressing armies of evil men.\n\nThe Tale of Cloud and Wind features several different alternate endings depending the character and the difficulty you play the game through. It features different power ups and colorful 16 bit graphics. You can play two players simultaneously or pass through the game solo.\n\nGame features:\n- Choose betewenn 3 heroes;\n- Original released in Hong Kong during the mid 90s and now available for everybody!\n- Co-op mode;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20221222,
+    "first_update_release_date": 20230106,
+    "latest_update_release_date": 20230106,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230106
+    },
+    "versions": {
+        "65536": 20230106
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Choose between 3 outlaw heroes and help them battle through oppressing armies of a evil men!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

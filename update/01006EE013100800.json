@@ -1,4 +1,36 @@
 {
     "id": "01006EE013100800",
-    "version": 131072
+    "base_tid": "01006EE013100000",
+    "name": "Outbreak The Nightmare Chronicles",
+    "description": "As the city burns and the countryside is engulfed by the epidemic, you're now alone and forced to live with this new reality. Monstrous beasts and disfigured remnants roam freely with their numbers increasing rapidly. Scattered and separated from your fellow survivors, you've fled into a large manor estate to escape the relentless horde. Your only goal now is survival. Explore the manor, locate supplies and find a way to wake from this nightmare. But somehow... you know your fate is already sealed.",
+    "publisher": "Dead Drop Studios",
+    "developer": null,
+    "base_release_date": 20201105,
+    "first_update_release_date": 20220722,
+    "latest_update_release_date": 20220813,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220813
+    },
+    "versions": {
+        "65536": 20220722,
+        "131072": 20220813
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "Lydia finds herself alone and trapped in a deserted manor during an undead apocalypse. Will she survive this retro survival horror nightmare?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

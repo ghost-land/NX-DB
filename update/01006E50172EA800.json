@@ -1,4 +1,37 @@
 {
     "id": "01006E50172EA800",
-    "version": 131072
+    "base_tid": "01006E50172EA000",
+    "name": "Botany Manor",
+    "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as its inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with botanical research, to figure out the ideal habitat for a collection of forgotten flora. Grow each plant to discover the mysterious qualities they hold…",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20240409,
+    "first_update_release_date": 20240415,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20240415,
+        "131072": 20240510
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Botany Manor is a first-person puzzle game set in a Victorian English manor.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

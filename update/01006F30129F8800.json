@@ -1,4 +1,40 @@
 {
     "id": "01006F30129F8800",
-    "version": 65536
+    "base_tid": "01006F30129F8000",
+    "name": "Get 10 quest",
+    "description": "80 levels, 6 different gameplay and the original endless mode.",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20200717,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Arcade",
+        "Training"
+    ],
+    "intro": "A beautiful, fun and addictive number merged puzzle game for everyone.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "01006F6002840800",
-    "version": 131072
+    "base_tid": "01006F6002840000",
+    "name": "Thumper",
+    "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future.\n\nScream down the endless track and crash through punishing obstacles with simple, airtight controls. Hurtle forward, master new moves, reach overwhelming velocities, and survive epic boss battles. Every crushing impact is interwoven with a pounding original soundtrack. To reach synesthetic bliss, you must conquer rhythm hell.",
+    "publisher": "Drool LLC",
+    "developer": null,
+    "base_release_date": 20170518,
+    "first_update_release_date": 20180607,
+    "latest_update_release_date": 20220627,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220627
+    },
+    "versions": {
+        "65536": 20180607,
+        "131072": 20220627
+    },
+    "category": [
+        "Action",
+        "Music",
+        "Arcade"
+    ],
+    "intro": "Rhythm Violence",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }

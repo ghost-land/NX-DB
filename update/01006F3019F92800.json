@@ -1,4 +1,32 @@
 {
     "id": "01006F3019F92800",
-    "version": 131072
+    "base_tid": "01006F3019F92000",
+    "name": "Fairy Fencer F Refrain Chord",
+    "description": "使用寄宿著妖聖之特殊武器『妖聖武器』\n而成為了『劍士』的青年——梵格\n與夥伴們一同踏上了\n為了復活女神、尋找妖聖武器的旅途\n\n某天，他們與一位用歌聲拯救人們的少女\n和一位用歌聲對人們洗腦的少女相遇\n\n她們自稱『歌姬』\n伴隨著她們的神奇力量\n梵格的命運開始發生改變——",
+    "publisher": "JUSTDAN",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230418,
+    "latest_update_release_date": 20230508,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230508
+    },
+    "versions": {
+        "65536": 20230418,
+        "131072": 20230508
+    },
+    "category": [
+        "角色扮演",
+        "策略"
+    ],
+    "intro": "繼承了源自【Ｆ】之系譜，以歌聲將全新戰場的大門開啟。",
+    "isDemo": false,
+    "languages": [
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

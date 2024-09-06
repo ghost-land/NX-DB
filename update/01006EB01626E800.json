@@ -1,4 +1,40 @@
 {
     "id": "01006EB01626E800",
-    "version": 131072
+    "base_tid": "01006EB01626E000",
+    "name": "Vivid Knight",
+    "description": "Explore an ever-changing dungeon and harness the jewels you collect to defeat the Black Witch!\n\n◆Aim for the heart of the dungeon!\nExplore a dungeon that changes with every playthrough, defeat the Black Witch who awaits you in its depths, and free your friends from their jewel prisons!\n\n◆Gather Jewels!\nCollect the jewels (i.e., units) located throughout the dungeon and add them to your party. Acquire duplicates of the same jewel to upgrade their stats!\n\n◆Build your own unique order of knights!\nAdding jewels to your party activates powerful symbol abilities. Mix and match the colors and symbols of the jewels you encounter to activate a variety of effects and build your own unique team!\n\n◆Use gems to support your party!\nPlayers can utilize magical powers and tools hidden in jewels to support their party in battle.\nMake strategic use of your gems to defeat the enemies you encounter throughout the dungeon!\n\n◆Accessories galore\nA range of accessories can be found in the dungeon.\nAccessories bestow a variety of effects when equipped, giving your team an extra boost.\nChoose the right accessories for your party, and you just might stand a chance against the Black Witch!",
+    "publisher": "Asobism",
+    "developer": null,
+    "base_release_date": 20220119,
+    "first_update_release_date": 20211215,
+    "latest_update_release_date": 20211228,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211228
+    },
+    "versions": {
+        "65536": 20211215,
+        "131072": 20211228
+    },
+    "category": [
+        "Strategy",
+        "Simulation",
+        "RPG",
+        "Other"
+    ],
+    "intro": "Vivid Knight is a roguelike adventure game in which you save your friends from being turned into jewels and combine their abilities to form the ultimate party!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

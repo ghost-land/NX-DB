@@ -1,4 +1,34 @@
 {
     "id": "01006E4003832800",
-    "version": 65536
+    "base_tid": "01006E4003832000",
+    "name": "Johnny Turbo's Arcade: Bad Dudes",
+    "description": "\"Rampant ninja related crimes these days... Whitehouse is not the exception...\". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, the \"Bad Dudes\" named Blade and Striker: \"President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?\" After hearing that, the Bad Dudes pursue the Ninja's through the New York City streets, a moving big rig truck, a large storm sewer, a forest, a freight train on an old Southern Pacific line, a cave and into an underground factory in order to save President Ronnie.",
+    "publisher": "Golem Entertainment",
+    "developer": null,
+    "base_release_date": 20180412,
+    "first_update_release_date": 20180404,
+    "latest_update_release_date": 20180404,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180404
+    },
+    "versions": {
+        "65536": 20180404
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "Bad Dudes, are you bad enough?!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,30 @@
 {
     "id": "01006F3019E04800",
-    "version": 65536
+    "base_tid": "01006F3019E04000",
+    "name": "タイムギャル Re:birth タイトー LDゲームコレクション",
+    "description": "「タイムギャル」を原作とするNintendo Switch用の新作アドベンチャーゲーム。\n新たな主人公「ルナ」が様々な時代を飛び回って大冒険。大悪党ルーダによるタイムマシンの強奪と、ルーダを追跡する原作主人公「レイカ」との裏のエピソードが明らかに。\n本作では、ボイスキャストに佐藤舞さん、竹達彩奈さん、三宅健太さん、盛恵里花さん、井澤詩織さん、小松未可子さん、岡咲美保さん、上田麗奈さん、Lynnさんなどに参加に加え、本作の主題歌をの彩音さんが担当。新たなストーリーが楽しめます。",
+    "publisher": "タイトー",
+    "developer": null,
+    "base_release_date": 20231214,
+    "first_update_release_date": 20231213,
+    "latest_update_release_date": 20231213,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231213
+    },
+    "versions": {
+        "65536": 20231213
+    },
+    "category": [
+        "アドベンチャー",
+        "アクション"
+    ],
+    "intro": "「タイムギャル」のその後を描く、時空少女「ルナ」のタイム・ワープアドベンチャー",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

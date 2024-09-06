@@ -1,4 +1,34 @@
 {
     "id": "01006E400AE2A800",
-    "version": 131072
+    "base_tid": "01006E400AE2A000",
+    "name": "Jeopardy!®",
+    "description": "Enjoy JEOPARDY! to show off your knowledge and test your reflexes as you play the iconic game of “answers and questions”.\n\nDiscover a variety of game modes: \n- Classic mode to enjoy the full JEOPARDY! experience\n- Quick mode to play a shorter session with fewer categories and clues\n- Family mode to get the whole family on board and play with specially adapted family-friendly categories and clues.\n\nCompete against online contestants and challenge yourself with more than 2,000 clues, including visual or audio clues.\nLevel up answering enough clues correctly to unlock new categories and customize your game by choosing the type of categories you see on the board.\n\nHave fun and rack your brain anywhere, anytime!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20200324,
+    "first_update_release_date": 20181026,
+    "latest_update_release_date": 20200319,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200319
+    },
+    "versions": {
+        "65536": 20181026,
+        "131072": 20200319
+    },
+    "category": [
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Very mild gambling references",
+        "Online interactivity"
+    ],
+    "region": null
 }

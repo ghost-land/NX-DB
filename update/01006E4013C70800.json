@@ -1,4 +1,39 @@
 {
     "id": "01006E4013C70800",
-    "version": 65536
+    "base_tid": "01006E4013C70000",
+    "name": "Opus Castle",
+    "description": "Opus Castle it's a 3D Horror Game with the narrative based on the real tragic history of the little castle on Apa Street, located in the city of São Paulo, Brazil. \n\nLet the mysterious unfold in this new adventure that brings some basics mechanics for the exploration, which focus more on the narrative, that will be separate in chapter, with more than 5 different paths that the player can choose.\n\nThe player must explore Castelinho's secret rooms and environments, encountering the famous supernatural apparitions, noises from nowhere and the laments of spirits from the past. In the meantime, you wake up in one of the rooms beside a body riddled with bullets.\n\nFeatures:\n- More than 5 different endings;\n- Based on a real story;\n- Intriguing narrative with a lot of exploration;\n- A lot of Jump Scares;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20221027,
+    "first_update_release_date": 20221018,
+    "latest_update_release_date": 20221018,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221018
+    },
+    "versions": {
+        "65536": 20221018
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": " You must solve this mystery or escape for your life in the new Opus Castle",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Language",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

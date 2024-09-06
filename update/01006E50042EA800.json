@@ -1,4 +1,42 @@
 {
     "id": "01006E50042EA800",
-    "version": 196608
+    "base_tid": "01006E50042EA000",
+    "name": "EARTHLOCK",
+    "description": "Enter a beautiful world haunted by its fateful past and join a party of unlikely heroes on their journey to rescue Amon's uncle from an ancient cult and uncover the secret of EARTHLOCK.\n\n• Explore the magical world of Umbra.\n• Fast-paced and highly strategic turn-based battles.\n• Harvest magical materials to craft helpful items and perks on your home island.\n• Utilize Your Talent Table: combining a classic 'skilltree' and equipment to customize your character's progression.\n• Alternate between 6 playable characters.\n• Grow your friendships between different character pairs for a strategic advantage in combat.\n• Help the people of Umbra along they way to unlock more useful items.\n• 25-40 hours of gameplay.",
+    "publisher": "Snowcastle Games",
+    "developer": null,
+    "base_release_date": 20180309,
+    "first_update_release_date": 20180802,
+    "latest_update_release_date": 20200819,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200819
+    },
+    "versions": {
+        "65536": 20180802,
+        "196608": 20200819
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "EARTHLOCK is an adventure RPG inspired by the classic 3D RPGs of the late 90's, with a fresh take on turn based combat and character progression.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }
