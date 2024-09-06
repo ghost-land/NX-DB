@@ -1,4 +1,34 @@
 {
     "id": "0100068011DB0800",
-    "version": 65536
+    "base_tid": "0100068011DB0000",
+    "name": "Pop the Bubbles",
+    "description": "Blast and pop through levels of fun in this bubble shooter puzzle game! Match three or more bubbles and blast your way through each puzzle to rescue baby mermaids! Collect powerups to help shoot the bubbles to BLAST your way through each challenging puzzle in this AMAZING bubble shooting quest adventure! Simple and easy controls, aim assist and power ups to help you align your bubbles for the perfect shot and shoot bubbles with ease.",
+    "publisher": "Digital Game Group",
+    "developer": null,
+    "base_release_date": 20200605,
+    "first_update_release_date": 20210113,
+    "latest_update_release_date": 20210113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210113
+    },
+    "versions": {
+        "65536": 20210113
+    },
+    "category": [
+        "Action",
+        "Puzzle",
+        "Board Game",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

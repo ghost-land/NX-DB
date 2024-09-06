@@ -1,4 +1,41 @@
 {
     "id": "010005500ADDC800",
-    "version": 196608
+    "base_tid": "010005500ADDC000",
+    "name": "Swap This!",
+    "description": "You may have matched colors before, but never like in Swap This! To master this puzzle game you need real skills, quick wits and tactical thinking. In no-time you’ll orchestrate screen-clearing chain reactions and use super-charged power-ups.\n \nThere’s a lot to do! You can choose from 4 varied modes: Minute Match, Wave Mode, Fish Fight and Puzzle. Combined with surprisingly smart gameplay systems, Swap This! really offers oceans of depth.\n \n• Unique arcade-style take on matching puzzle games\n• Hone your skills, start chain reactions and master power-ups\n• 4 varied game modes: Minute Match, Wave Mode, Fish Fight and Puzzle\n• Play on the touch screen for maximum velocity\n• Exclusively available on Nintendo Switch™\n• Super affordable - why are you still reading this?!",
+    "publisher": "Two Tribes Publishing",
+    "developer": null,
+    "base_release_date": 20181102,
+    "first_update_release_date": 20181128,
+    "latest_update_release_date": 20190828,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190828
+    },
+    "versions": {
+        "65536": 20181128,
+        "196608": 20190828
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "The fresh arcade-style puzzle experience!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

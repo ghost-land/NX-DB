@@ -1,4 +1,46 @@
 {
     "id": "01000540139F6800",
-    "version": 262144
+    "base_tid": "01000540139F6000",
+    "name": "Speed Limit",
+    "description": "Speed Limit is a non-stop genre-warping arcade experience that never slows down. No cuts, no lapses in the chaos, Speed Limit is an old-school action extravaganza boiled down to its core elements: Hard. Fast. Addictive.\n\nAs soon as you think you've learned how the game works, it changes to a completely different genre, taking you through the history of the golden arcade era.\n\nFight through a nail-biting side-scrolling shooter, race to the finish in an explosive top-down car chase, take flight in a thrilling fake-3D dogfight, and expect the unexpected. Speed Limit seamlessly changes styles, transforms the gameplay, and offers new challenges the moment you feel comfortable.\n\nA Genre-changing Rollercoaster\nRunning. Driving. Flying. Dying (many, many times!) - From the moment you click play to the moment you die, you are in control.\n\nAnd you will die. A lot.",
+    "publisher": "Gamechuck",
+    "developer": null,
+    "base_release_date": 20210218,
+    "first_update_release_date": 20210208,
+    "latest_update_release_date": 20210527,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210527
+    },
+    "versions": {
+        "65536": 20210208,
+        "131072": 20210218,
+        "262144": 20210527
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Racing"
+    ],
+    "intro": "Fight - Die - Repeat\nA thrilling genre-switching rollercoaster that will test the limits of your reflexes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

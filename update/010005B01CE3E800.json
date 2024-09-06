@@ -1,4 +1,35 @@
 {
     "id": "010005B01CE3E800",
-    "version": 65536
+    "base_tid": "010005B01CE3E000",
+    "name": "Ikkarus and the Prince of Sin",
+    "description": "Ikkarus and the Prince of Sin is a yaoi-themed fantasy adventure visual novel where you can manage your daily routine, travel the land, accept side quests, pursue 3 possible romance options, discover 6 unique endings and unlock special CG scenes as you progress. The experience can be further customized by choosing from difficulty settings focused on story or gameplay challenge!\n\nFeatures:\n\n• Enjoy a blend of fantasy adventure and daily life management!\n• Watch the story unfold in visual novel style with colorful dialogue and memorable characters.\n• Turn a rundown tavern into a bustling village hotspot!\n• Choose from 4 difficulty settings to focus on story or challenge.\n• Discover multiple romance options and alternate endings based on your choices.\n• Accept quests and hunt monsters in turn-based RPG combat!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20240110,
+    "first_update_release_date": 20231101,
+    "latest_update_release_date": 20231101,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231101
+    },
+    "versions": {
+        "65536": 20231101
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Prove your worth as a village hero by rebuilding a tavern, taking on quests and discovering romance along the way!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

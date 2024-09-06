@@ -1,4 +1,34 @@
 {
     "id": "010005800F1BA800",
-    "version": 65536
+    "base_tid": "010005800F1BA000",
+    "name": "Planetary Defense Force",
+    "description": "Suit up, engage all of your defenses, pick a weapon and wait for aliens to come. As part of a Planetary Defense Force (PDF), you are tasked with protecting planets in this unique mix of twin-stick shooter, tower defense and city builder game.\n\nMove between the planet and defense sphere during the assault to manage both towers on top and economics back on the planet.\nDefend against many types of monsters and huge bosses.\n\nPlanetary Defense Force is a beautiful visual experience with a lot of bullets, colors, explosions, lasers and mayhem.\n\nBecome an ultimate Defender.",
+    "publisher": "Blue Sunset Games",
+    "developer": null,
+    "base_release_date": 20200107,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Strategy",
+        "Shooter"
+    ],
+    "intro": "Jump into the shoes of an interplanetary defender! Grab weapons, build towers, expand ground economics and protect planets from space invasions.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

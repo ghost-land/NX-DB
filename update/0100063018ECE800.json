@@ -1,4 +1,35 @@
 {
     "id": "0100063018ECE800",
-    "version": 65536
+    "base_tid": "0100063018ECE000",
+    "name": "Prof. Miyamoto's Soroban & Flash Anzan",
+    "description": "Soroban & Flash Anzan is a popular lesson to improve \"non-cognitive ability\"!\nLet's continue practicing \"Flash Anzan\" every day, which is the most efficient way to improve your abacus-style \"anzan\" skills!\n\nYou have 2 modes!\nThe first is the \"Practice\" mode, which specializes in Flash Anzan and allows you to freely set the digits, numbers, and time.\nThe second is a practice test mode that conforms to the exam standards of the Nihon Flash Anzan Examination Association.\n\n\"Practice\" mode\n　digit(s): up to 4 digits\n　numbers: up to 30\n　Time: Minimum 1.35 seconds per question (minimum 0.045 seconds per number)\n*Time can be set in units of 0.01 seconds\n\n\"Flash Anzan Exam\" mode\n　Grade 20 to Level 20\n\n* If you do not have a period ticket (use ticket), you can only use the following functions.\n\"Flash Anzan Exam\" mode\n　Grade 20 to 18, 6\n　Level 1,2",
+    "publisher": "ORENDA WORLD",
+    "developer": null,
+    "base_release_date": 20230316,
+    "first_update_release_date": 20230401,
+    "latest_update_release_date": 20230401,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230401
+    },
+    "versions": {
+        "65536": 20230401
+    },
+    "category": [
+        "Training",
+        "Education",
+        "Puzzle"
+    ],
+    "intro": "The definitive edition supervised by Prof. Miyamoto, the inventor of Soroban & Flash Anzan!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

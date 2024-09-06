@@ -1,4 +1,33 @@
 {
     "id": "01000600202B2800",
-    "version": 65536
+    "base_tid": "01000600202B2000",
+    "name": "Flick Erasers Battle Royale",
+    "description": "Flick Erasers has become a battle royale!\nCross from desk to desk in a bid to survive!\nVictory is within your grasp!!\n\n[Battle]\nChoose your favorite map and play alone or with friends!\n\n[Online]\nConnect with faraway friends from around the world in a battle royale!\nQueue up for a Quick Match to increase your rating and victory count!\n\n[Eraser Shop]\nAccumulate points and collect over 100 eraser types!\n\n[Mission]\nComplete difficult challenges and earn special erasers!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240905,
+    "first_update_release_date": 20240829,
+    "latest_update_release_date": 20240829,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240829
+    },
+    "versions": {
+        "65536": 20240829
+    },
+    "category": [
+        "Action",
+        "Party",
+        "Communication",
+        "Board Game"
+    ],
+    "intro": "It's a classwide eraser battle!\nBe the last one surviving!\nGet ready for a battle royale right on your desk!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

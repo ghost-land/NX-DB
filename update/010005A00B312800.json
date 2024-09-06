@@ -1,4 +1,44 @@
 {
     "id": "010005A00B312800",
-    "version": 65536
+    "base_tid": "010005A00B312000",
+    "name": "Megaton Rainfall",
+    "description": "Megaton Rainfall is a first-person superhero game. A global alien invasion is taking place and you must face it – alone. Chase massive destruction devices at supersonic speeds around an Earth that's as large as the real thing and populated with semi-procedurally generated cities.\n\nThen finish off the alien devices with your lethal energy blasts. Just be careful to avoid human casualties! You are so powerful, you'll leave a trail of collapsed buildings if you miss your targets!\n\nFeel unprecedented freedom of movement as you fly through buildings, break the sound barrier, and accelerate to extraordinary speeds. Then rise above the atmosphere, circumnavigate the Earth in seconds, and get ready for your next battle. 'Megaton Rainfall' is the ultimate superhero experience!\"",
+    "publisher": "Pentadimensional",
+    "developer": null,
+    "base_release_date": 20180809,
+    "first_update_release_date": 20180912,
+    "latest_update_release_date": 20180912,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180912
+    },
+    "versions": {
+        "65536": 20180912
+    },
+    "category": [
+        "Action",
+        "First-Person Shooter",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

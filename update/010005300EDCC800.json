@@ -1,4 +1,34 @@
 {
     "id": "010005300EDCC800",
-    "version": 65536
+    "base_tid": "010005300EDCC000",
+    "name": "Quench",
+    "description": "Each generation, the Elephant Tribe makes a grand pilgrimage. But this time, something is different... \n\nHelp Shaman, the young Elephant leader, convince the other animal tribes to join her. Protect your herds as they are beset by flood, fire, drought, and the dark smokebeasts that have spread across the land. Control the environment to guide herds of animals and restore their home in this colourful narrative puzzle game!\n\nFeatures\n\n- Change the environment around the animals with the powers of the Elder Tree: grow grass and trees, start forest fires, shift sand dunes, or create new rivers and lakes.\n\n- Overcome treacherous encounters with creatures and obstacles while carefully guiding your animals to safety.\n\n- Fall in love with a papercraft-inspired landscape set to a joyful original score by Adam Sakiyama.\n\n- Through gorgeous illustrated cinematics and in-game dialogue, explore how kindness, compassion, and forgiveness are powers unto themselves in this fable about overcoming differences to restore the world.",
+    "publisher": "Axon Interactive",
+    "developer": null,
+    "base_release_date": 20190807,
+    "first_update_release_date": 20190916,
+    "latest_update_release_date": 20190916,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190916
+    },
+    "versions": {
+        "65536": 20190916
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Become Shepherd, an avatar of nature, and guide herds of animals on a perilous journey.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Scary Scenes"
+    ],
+    "region": null
 }

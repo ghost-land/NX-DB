@@ -1,4 +1,41 @@
 {
     "id": "0100063005C86800",
-    "version": 131072
+    "base_tid": "0100063005C86000",
+    "name": "Phantom Breaker: Battle Grounds Overdrive",
+    "description": "A spinoff to the fighting game \"Phantom Breaker\", \"Phantom Breaker: Battle Grounds\" is a cooperative action game for up to four players. Cute versions of the series' characters dash around the screen in this action packed title. Defeat enemies to raise your characters' levels and freely assign skills to your liking. Also enjoy head to head fights in the Battleground mode.",
+    "publisher": "MAGES.",
+    "developer": null,
+    "base_release_date": 20171208,
+    "first_update_release_date": 20180110,
+    "latest_update_release_date": 20231213,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231213
+    },
+    "versions": {
+        "65536": 20180110,
+        "131072": 20231213
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

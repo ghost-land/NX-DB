@@ -1,4 +1,35 @@
 {
     "id": "01000640174DA800",
-    "version": 65536
+    "base_tid": "01000640174DA000",
+    "name": "An Airport for Aliens Currently Run by Dogs",
+    "description": "An Airport for Aliens Currently Run by Dogs is a first-person open-world comedy adventure game with a very long name. You and your fiancée are the last two human beings left in the universe. Dogs run airports, along with the rest of society. Deal with alien logic, travel issues, and strange stock photo dogs as you attempt to stay in touch with the person you love, when you both live your lives on the go!",
+    "publisher": "Strange Scaffold",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20220917,
+    "latest_update_release_date": 20220917,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220917
+    },
+    "versions": {
+        "65536": 20220917
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Education"
+    ],
+    "intro": "Travel through six open-world transit hubs!\nTranslate an alien language to read moth jokes!\nPet any dog at any time, with an infinite number of hands!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Language"
+    ],
+    "region": null
 }

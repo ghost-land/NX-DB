@@ -1,4 +1,50 @@
 {
     "id": "01000610199C0800",
-    "version": 393216
+    "base_tid": "01000610199C0000",
+    "name": "Super Puzzle Pack 2",
+    "description": "Experience six unique puzzle types in one pack stacked with more than 800 different puzzles. Challenge yourself with a wide variety of puzzles and various difficulty levels. If you are playing solo or with friends and family, Super Puzzle Pack 2 offers hours and hours of fun.\n\nFrom challenging match 3 games to colorful and challenging puzzles, Super Puzzle Pack 2 has it all!\n\n• Unleash your inner artist, paint by numbers and create paintings in pixel art style.\n\n• Two challenging and colorful Match 3 games. Open your own flower shop, or go on a magical adventure and visit the forest village! \n\n• Challenge yourself to solve the most popular logical number puzzles: Sudoku – Binary – Suguru.\n\n• Recreate in jigsaw form the most iconic historical works of art from masters like Rembrandt, Monet, Hokusai and many more. A master lives in you!",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20221226,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20221218,
+        "131072": 20230109,
+        "196608": 20230120,
+        "262144": 20230209,
+        "327680": 20230411,
+        "393216": 20240125
+    },
+    "category": [
+        "Puzzle",
+        "Training",
+        "Multiplayer",
+        "Board Game"
+    ],
+    "intro": "Super Puzzle Pack 2 brings together 800+ unique puzzles played across six different puzzle types. Play solo or with family and friends up to 4 players.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Use of Tobacco"
+    ],
+    "region": null
 }

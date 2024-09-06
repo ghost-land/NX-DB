@@ -1,4 +1,37 @@
 {
     "id": "0100068010226800",
-    "version": 65536
+    "base_tid": "0100068010226000",
+    "name": "Dreamwalker: Never Fall Asleep",
+    "description": "In a small tourist town a young girl, the daughter of the town’s mayor, falls in coma due to an accident. The impotence of the local physicians forces Mrs. Mayor to seek the aid of a psychiatrist, who is rumoured to possess a unique ability to traverse people’s dreams – a Dreamwalker.",
+    "publisher": "Artifex Mundi",
+    "developer": null,
+    "base_release_date": 20200116,
+    "first_update_release_date": 20201008,
+    "latest_update_release_date": 20201008,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201008
+    },
+    "versions": {
+        "65536": 20201008
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Beware of dreams!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

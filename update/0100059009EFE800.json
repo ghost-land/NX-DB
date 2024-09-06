@@ -1,4 +1,38 @@
 {
     "id": "0100059009EFE800",
-    "version": 131072
+    "base_tid": "0100059009EFE000",
+    "name": "Little Dragons Café",
+    "description": "From Yasuhiro Wada, the creator of Harvest Moon, comes a new experience packed with delicious dishes, places to explore, magical characters and… a dragon's egg?! It's an exciting mix of ingredients that makes Little Dragons Café the tastiest game in town!\n\nWhen two young twins discover they're in charge of the family café, it's a real recipe for adventure. Not only are there customers to serve, but there's the mystery of their mother's sudden illness to unravel and a baby dragon to raise too! Explore the island around the café, farm and catch your own ingredients, help your dragon grow and make new friends along the way. And who knows, you might even make the Little Dragons Café into the hottest attraction for miles around!\n\n• Get ready for fun, excitement and the chance to raise your very own dragon in a wonderous new adventure from Yasuhiro Wada, the creator of Harvest Moon!\n\n• Explore the world around the café to find new ingredients and even grow your own, then take them back to the kitchen and whip up something delicious.\n\n• Discover new recipes on your travels and then take orders from customers - enjoy rhythm action fun to make each dish and leave them with a smile on their face!\n\n• Raise your dragon from egg to fully-grown adult, travelling the land on its back to try and solve the mystery of your mother's illness to find your own happy ending!",
+    "publisher": "Thunderful Games",
+    "developer": null,
+    "base_release_date": 20180920,
+    "first_update_release_date": 20180911,
+    "latest_update_release_date": 20181016,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181016
+    },
+    "versions": {
+        "65536": 20180911,
+        "131072": 20181016
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "An adventure that's off the (dragon) scale!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

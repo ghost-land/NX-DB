@@ -1,4 +1,43 @@
 {
     "id": "0100060013786800",
-    "version": 196608
+    "base_tid": "0100060013786000",
+    "name": "MazM: The Phantom of the Opera",
+    "description": "The French gothic horror novel \"The Phantom of the Opera\" (1910) revisits modern audience as \"MazM: The Phantom of the Opera\", the adventure game for Nintendo Switch™!\n\nDecades after the \"Phantom of the Opera\" case that shook the Parisian opera house, a detective visits the place to uncover the truth about the Phantom.\n\nFind out what secret is hidden in the opera house by collecting footnotes and investigating characters!\n\"He\" is everywhere. \"He\" can see everything. And \"he\" is watching you….\nWitness the shocking event about burning love and hate.\n\nDive deep into the unique aesthetics depicting Belle Époque Paris of the late 19th Century and its people!\nListen to the classical-style music that adds immersion to the lore!\nEnter the opera house, and see the mysterious and uncanny love story of the original novel turned more colorful and mesmerizing by MazM: The Phantom of the Opera!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20210325,
+    "first_update_release_date": 20210310,
+    "latest_update_release_date": 20210414,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210414
+    },
+    "versions": {
+        "65536": 20210310,
+        "131072": 20210315,
+        "196608": 20210414
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "A thrilling love story unfolds in a majestic Parisian opera house.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes"
+    ],
+    "region": null
 }

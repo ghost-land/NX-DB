@@ -1,4 +1,42 @@
 {
     "id": "0100052004384800",
-    "version": 262144
+    "base_tid": "0100052004384000",
+    "name": "Axiom Verge",
+    "description": "This is the action-adventure you've been waiting decades for. After a lab accident, a scientist awakens in a mysterious, alien world. Is this a distant planet? The far future? Or a complex virtual-reality computer simulation?\n\nPlumb the recesses of a large, labyrinthine world in order to learn its secrets and uncover your role within it.\n\nDiscover tons of weapons, items, and abilities, each with their own unique behaviors and usage. You'll need your wits to find them all.\n\nCombat bizarre biomechanoid constructs, the deadly fallout of an ancient war, and the demons of your own psyche.\n\nAnd finally, break the game itself by using glitches to corrupt foes and solve puzzles in the environment.\n\nLife. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line.\n\nIt's Axiom Verge.",
+    "publisher": "Thomas Happ Games",
+    "developer": null,
+    "base_release_date": 20171005,
+    "first_update_release_date": 20171205,
+    "latest_update_release_date": 20211019,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211019
+    },
+    "versions": {
+        "131072": 20171205,
+        "196608": 20211005,
+        "262144": 20211019
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Life. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
+    "region": null
 }
