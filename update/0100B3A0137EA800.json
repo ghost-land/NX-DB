@@ -1,4 +1,34 @@
 {
     "id": "0100B3A0137EA800",
-    "version": 65536
+    "base_tid": "0100B3A0137EA000",
+    "name": "Life of Fly",
+    "description": "Life of Fly features 12 short stories each revolving around the life and thoughts of another fly. \nIt is an interesting yet relaxing narrative flight game like no other. \n\nYou jump into the role of a little fly which is collecting it thought while exploring its own living environment. \nThe most interesting content of the game is on a meta-level where each fly talks about its life, about some things that happened to them, and about some almost philosophical thoughts they had. \n\nBe prepared to experience some very unusual content, some interesting thoughts that go way beyond the normal life of a fly, and some entertaining short stories with a twist.",
+    "publisher": "EpiXR Games",
+    "developer": null,
+    "base_release_date": 20210115,
+    "first_update_release_date": 20210204,
+    "latest_update_release_date": 20210204,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210204
+    },
+    "versions": {
+        "65536": 20210204
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

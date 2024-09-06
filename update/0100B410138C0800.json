@@ -1,4 +1,40 @@
 {
     "id": "0100B410138C0800",
-    "version": 65536
+    "base_tid": "0100B410138C0000",
+    "name": "Unspottable",
+    "description": "Unspottable is a competitive couch party game where you need to punch your friends before they punch you.\nBlend in the crowd of AI characters, hunt down the other players and use the many different environment specific rules to win the game.",
+    "publisher": "GrosChevaux",
+    "developer": null,
+    "base_release_date": 20210121,
+    "first_update_release_date": 20220728,
+    "latest_update_release_date": 20220728,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220728
+    },
+    "versions": {
+        "65536": 20220728
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Fighting"
+    ],
+    "intro": "\"Walk like a robot and punch like a human!\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

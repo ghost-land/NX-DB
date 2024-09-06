@@ -1,4 +1,35 @@
 {
     "id": "0100B44015420800",
-    "version": 131072
+    "base_tid": "0100B44015420000",
+    "name": "Red Ball Escape",
+    "description": "Red ball escape is a simple puzzle platformer game with 100 Levels to complete and simple controls which ends up in simply fun!\n\nFeatures:\n- Simple design\n- Simple controls\n- Simply fun\n- 100 Levels",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210608,
+    "first_update_release_date": 20210705,
+    "latest_update_release_date": 20211004,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211004
+    },
+    "versions": {
+        "65536": 20210705,
+        "131072": 20211004
+    },
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Can you escape and solve tricky platformer puzzles?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

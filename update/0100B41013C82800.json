@@ -1,4 +1,43 @@
 {
     "id": "0100B41013C82800",
-    "version": 131072
+    "base_tid": "0100B41013C82000",
+    "name": "Cruis'n Blast",
+    "description": "The arcade hit Cruis’n Blast is speeding onto Nintendo Switch™! \nBlast your way through nearly 30 over-the-top tracks. \nGrab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns!\nUp to four players can race together, so pick your favourite vehicle and hit the road! ",
+    "publisher": "Raw Thrills",
+    "developer": null,
+    "base_release_date": 20210914,
+    "first_update_release_date": 20210914,
+    "latest_update_release_date": 20210914,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210914
+    },
+    "versions": {
+        "131072": 20210914
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Cruis'n is Back!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

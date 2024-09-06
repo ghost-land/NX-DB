@@ -1,4 +1,34 @@
 {
     "id": "0100B3501283E800",
-    "version": 65536
+    "base_tid": "0100B3501283E000",
+    "name": "Deuces Wild - Video Poker",
+    "description": "Enjoy the Casino Experience!\n\n* Simple and clean design.\n* Fast and easy game play.\n* Gamble your winnings.\n* View statistics.\n* Climb the Leaderboard and earn bragging rights.",
+    "publisher": "eSolutions Nordic",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20210327,
+    "latest_update_release_date": 20210327,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210327
+    },
+    "versions": {
+        "65536": 20210327
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Strategy",
+        "Training"
+    ],
+    "intro": "Play \"Deuces Wild\" and test your skills on your favorite Video Poker game.\nIt's like having a small slice of Las Vegas on your console.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

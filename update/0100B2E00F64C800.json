@@ -1,4 +1,37 @@
 {
     "id": "0100B2E00F64C800",
-    "version": 65536
+    "base_tid": "0100B2E00F64C000",
+    "name": "An NPC’s Odyssey",
+    "description": "This is another story of the hero gathering his friends to defeat the Devil and save the world, but our protagonist is not the hero himself, but an ordinary unlucky NPC. The reason for his journey is simple——because the hero took the money from his house! To find the hero and get money back, our journey has begun.\n\n-Counterintuitive story setting.\n-Unexpected plot direction.\n-This is a short RPG, but the elements are all there.\n-There're 2 endings. How the story ends is up to you!",
+    "publisher": "indienova",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20220406,
+    "latest_update_release_date": 20220406,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220406
+    },
+    "versions": {
+        "65536": 20220406
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "The story of the hero saving the world is about to begin! But I'm just an NPC...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100B3A017864800",
-    "version": 131072
+    "base_tid": "0100B3A017864000",
+    "name": "ザ・ハウス・オブ・ザ・デッド：リメイク",
+    "description": "1997年にアーケードに登場した「ザ・ハウス・オブ・ザ・デッド」のリメイクです！完全にグラフィックをHDに作り直し、ゲーム性を改良した、最高のガンシューティングゲームです。\n機能\n\n・グラフィックとゲーム性が改良し、ジャイロ操作対応が加わった懐かしい名作ゲーム\n・原作に忠実なゲーム性\n・２人用ローカル協力プレイ\n・マルチエンディング\n・フォトモード\n・実績\n・アンロック可能な武器を備えた武器庫 \n・多くのゾンビモンスターが待ち構えている新しいゲームモード\n・敵キャラ・ボス図鑑\n\n",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20220407,
+    "first_update_release_date": 20220406,
+    "latest_update_release_date": 20220711,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220711
+    },
+    "versions": {
+        "65536": 20220406,
+        "131072": 20220711
+    },
+    "category": [
+        "アーケード",
+        "アクション"
+    ],
+    "intro": "誰もここから生きては出られない！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }

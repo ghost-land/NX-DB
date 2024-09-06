@@ -1,4 +1,49 @@
 {
     "id": "0100B3C014BDA800",
-    "version": 655360
+    "base_tid": "0100B3C014BDA000",
+    "name": "SEGA Genesis™ – Nintendo Switch Online",
+    "description": "With a Nintendo Switch Online + Expansion Pack membership, access a collection of SEGA Genesis™ games that are great to play anytime, anywhere! You can play these classic games with added features, such as rewind to recover rings in Sonic the Hedgehog 2, create a save state before the final boss of Golden Axe, or play Streets of Rage 2 with a friend using online play!\n\n• A selection of classic SEGA Genesis games including Sonic the Hedgehog 2, Streets of Rage 2, Ecco the Dolphin, and more!\n• Compete or cooperate with a friend using online multiplayer\n• Play while on the go—anytime, anywhere\n• Create suspend points for each game to save your progress\n• Easily rewind gameplay by pressing and holding ZL + ZR if you make a mistake or just want to retry a section of the game\n• Supports Joy-Con™ controllers, Nintendo Switch™ Pro Controller*, and SEGA Genesis Control Pad**",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20211025,
+    "first_update_release_date": 20211026,
+    "latest_update_release_date": 20230627,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20230627
+    },
+    "versions": {
+        "65536": 20211026,
+        "131072": 20211216,
+        "262144": 20220316,
+        "327680": 20220421,
+        "393216": 20220704,
+        "458752": 20220915,
+        "524288": 20221218,
+        "589824": 20230418,
+        "655360": 20230627
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "Discover a trove of SEGA classics with SEGA Genesis™ – Nintendo Switch Online",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

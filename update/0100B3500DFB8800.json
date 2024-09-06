@@ -1,4 +1,39 @@
 {
     "id": "0100B3500DFB8800",
-    "version": 131072
+    "base_tid": "0100B3500DFB8000",
+    "name": "Archlion Saga",
+    "description": "Too many games in the dusty shelf waiting to be played? No problem, this pocket-sized RPG provides you an adequate experience! Here you go an adventure packed with emotion and accomplishment!\n\nA hero will appear in a time where the foretold end of the world is approaching. It's Archlion King, yourself! Set out for a journey toward the far east for the final battle!\n\nNo more walkthroughs! Only a comfortable adventure! By following the guide that shows the way, you won't get stuck or be lost anymore! Level up and get new weapons and skills easily. Short, but adequate, all for the sake to taste the delight to finish the game at the peak of your excitement! The game itself will support your adventure warmly and enjoyably.",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20190710,
+    "latest_update_release_date": 20200117,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200117
+    },
+    "versions": {
+        "65536": 20190710,
+        "131072": 20200117
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Challenge the foretold doom!\nAn easily completable Pocket-sized RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Scary Scenes"
+    ],
+    "region": null
 }

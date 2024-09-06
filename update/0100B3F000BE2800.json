@@ -1,4 +1,44 @@
 {
     "id": "0100B3F000BE2800",
-    "version": 458752
+    "base_tid": "0100B3F000BE2000",
+    "name": "Pokkén Tournament™ DX",
+    "description": "Introducing the first Pokémon title for the Nintendo Switch console. Take direct control of one of 21 prized Pokémon fighters to defeat other Pokémon in arena fights. Call upon Support Pokémon to assist in the fight, then unleash your Pokémon's unique Burst Attack to climb atop the ranks. \n\nWith all new modes and new ways to battle with friends, this is your chance to become champion of the Ferrum Region!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20170922,
+    "first_update_release_date": 20170921,
+    "latest_update_release_date": 20180925,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20180925
+    },
+    "versions": {
+        "65536": 20170921,
+        "131072": 20171114,
+        "196608": 20180130,
+        "262144": 20180322,
+        "327680": 20180515,
+        "393216": 20180710,
+        "458752": 20180925
+    },
+    "category": [
+        "Fighting",
+        "Action"
+    ],
+    "intro": "Pokémon comes to Nintendo Switch",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Online Interactions Not Rated by the ESRB"
+    ],
+    "region": null
 }

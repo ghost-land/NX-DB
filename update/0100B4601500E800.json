@@ -1,4 +1,42 @@
 {
     "id": "0100B4601500E800",
-    "version": 196608
+    "base_tid": "0100B4601500E000",
+    "name": "Titan Chaser",
+    "description": "Every night you leave the motel and drive through empty fields, looking for something.\n\nYour job is to scout wandering giants and drive them away from the sleeping town using light.\n\nIt's a meditative experience where you don't need to manage fuel, car maintenance, health, or damage. Just find where to drive and how to use your tools effectively. Or just forget about your work and drive through foggy landscapes to calm down after a hard day.\n\nIn Titan Chaser you can:\nWalk and interact with the environment and your car\nDrive your car in a fairly large open world\nListen to the music of krapka;KOMA in your car\nRelax and observe mystical landscapes\nScout Titans\nDo your job and make titans go away using lights and environment\nDiscover the story and personality of the protagonist through her commentaries about surroundings",
+    "publisher": "Samustai",
+    "developer": null,
+    "base_release_date": 20210915,
+    "first_update_release_date": 20210902,
+    "latest_update_release_date": 20211125,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211125
+    },
+    "versions": {
+        "65536": 20210902,
+        "131072": 20210927,
+        "196608": 20211125
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "intro": "Titan Chaser is a surreal driving and walking experience, where your job is to scout giant creatures and use the light to drive them off without fighting or killing.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes"
+    ],
+    "region": null
 }

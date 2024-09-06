@@ -1,4 +1,33 @@
 {
     "id": "0100B3901324A800",
-    "version": 196608
+    "base_tid": "0100B3901324A000",
+    "name": "Danger Gazers",
+    "description": "Unlock new heroes and relics as you try to conquer the wasteland, master the skills, decisions and patience. Luck is not on your side. It's all about replayability and maximum randomization. Procedurally generated levels? Check. Random map generation? Check. Random events? Check. Tons of guns and items? Double check!\n\nFeatures: \n- Pave your own path: you will have to choose your next stop wisely if you don't want your journey to turn into hell\n- Maximum randomization: area maps, levels, events, loot, they are all randomly generated to make every playthrough different\n- Local co-op: double the fun with a friend\n- Relics & rewards: permanent unlockables to further customize your play style\n- 7 heroes: all with their own unique abilities, powers and weaknesses\n- and MUCH MORE!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20210119,
+    "first_update_release_date": 20201019,
+    "latest_update_release_date": 20201224,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201224
+    },
+    "versions": {
+        "65536": 20201019,
+        "196608": 20201224
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Danger Gazers is a post-apocalyptic roguelite top-down shooter where you pave your own path. The choices you make will decide your fate!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

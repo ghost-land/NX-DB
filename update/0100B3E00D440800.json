@@ -1,4 +1,35 @@
 {
     "id": "0100B3E00D440800",
-    "version": 262144
+    "base_tid": "0100B3E00D440000",
+    "name": "Saints Row IV®: Re-Elected™",
+    "description": "あなたはアメリカ合衆国大統領。地球上全ての人々を救う望みが託された。\n\nセインツのボスがアメリカ合衆国大統領に当選した。だが、セインツは黎明期。\n\n邪悪なるOverlord Zinyak率いるエイリアンの侵略によって地球は壊滅状態。セインツたちは、bizarro–Steelportシミュレーションに派遣された。新参・古参の同胞たちと共に、超能力と奇妙な兵器を駆使し、エイリアンの黒幕Zinyakの精神支配から人類を解放するのだ。 \n\nセインツたちは、密売所からタワマン最上階、そしてホワイトハウスへと駆け上がった。だがしかし、この史上最もワイルドなオープンワールドゲームでZinyakのエイリアン帝国から世界を解放するかどうかは、あなた次第だ。Nintendo Switch™初公開。",
+    "publisher": "PLAION",
+    "developer": null,
+    "base_release_date": 20201126,
+    "first_update_release_date": 20201201,
+    "latest_update_release_date": 20210728,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210728
+    },
+    "versions": {
+        "196608": 20201201,
+        "262144": 20210728
+    },
+    "category": [
+        "アクション",
+        "シューティング"
+    ],
+    "intro": "あなたが大統領",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

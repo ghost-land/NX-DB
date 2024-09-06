@@ -1,4 +1,34 @@
 {
     "id": "0100B2F008BD8800",
-    "version": 65536
+    "base_tid": "0100B2F008BD8000",
+    "name": "Skee-Ball",
+    "description": "Skee-Ball is officially licensed Skee-Ball arcade game. Skee-Ball is fun and action packed alley bowling game which you can now take with you wherever you go. The game captures all the fun of the original arcade game, features a host of new game variants.\nFeatures include:\n• Classic layout with multiple game modes including Call your Shot, Speedball, Horse, Hangman, and Head to Head multiplayer modes like Countdown\n• Use motion controls in TV mode to throw the balls\n• New layouts with different scoring circles and combinations including Pachinko style play\n• Dynamic layouts where the targets are moving, to challenge even the best players\n• Holiday season layouts\n• Ticket redemption for power ups, score multiplier balls, magic balls, new game boards and other goodies that affect gameplay, instead of just being window dressing on your shelf\n• Hundreds of challenges\n• Global and Category Leaderboards\n\n\n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20180419,
+    "first_update_release_date": 20180719,
+    "latest_update_release_date": 20180719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180719
+    },
+    "versions": {
+        "65536": 20180719
+    },
+    "category": [
+        "Arcade",
+        "Sports",
+        "Simulation",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

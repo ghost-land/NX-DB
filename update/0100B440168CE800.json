@@ -1,4 +1,45 @@
 {
     "id": "0100B440168CE800",
-    "version": 393216
+    "base_tid": "0100B440168CE000",
+    "name": "Slipstream",
+    "description": "Slipstream is a racing game inspired by the visuals, music, games and cars from the late 80s and early 90s. It's built on a custom game engine, with an authentic retro feel and unique graphics that allows the player to -literally- go back in time. The soundtrack, drawing from synth pop and jazz fusion influences, sets the tone for a race across a variety of exotic locations from all around the world, including cities, deserts, forests, mountains and beaches. Drifting, rewind and slipstreaming mechanics add depth to the driving gameplay, and the result is a challenging and exciting experience.",
+    "publisher": "BlitWorks",
+    "developer": null,
+    "base_release_date": 20220407,
+    "first_update_release_date": 20220321,
+    "latest_update_release_date": 20230628,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230628
+    },
+    "versions": {
+        "65536": 20220321,
+        "131072": 20220330,
+        "196608": 20220411,
+        "262144": 20220420,
+        "327680": 20220810,
+        "393216": 20230628
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

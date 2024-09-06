@@ -1,4 +1,34 @@
 {
     "id": "0100B2D00C63A800",
-    "version": 131072
+    "base_tid": "0100B2D00C63A000",
+    "name": "Super Crate Box",
+    "description": "Grab your baseball cap and loosen your pants, it's time to fight endless hordes of enemies and collect every weapon crate you can. Prepare for an arcade delight with tight controls, refreshing game mechanics, cracking retro art and a terribly hip chiptune soundtrack.",
+    "publisher": "Vlambeer",
+    "developer": null,
+    "base_release_date": 20191001,
+    "first_update_release_date": 20191208,
+    "latest_update_release_date": 20191208,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191208
+    },
+    "versions": {
+        "131072": 20191208
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": "Vlambeer's SUPER CRATE BOX is coming to bring back the glory of the golden arcade age, when all that really mattered was getting on that high score list. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }
