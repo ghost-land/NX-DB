@@ -1,4 +1,37 @@
 {
     "id": "0100DD200B59E800",
-    "version": 131072
+    "base_tid": "0100DD200B59E000",
+    "name": "Inops",
+    "description": "Explore the shadowy Mine, twisty Jungle and extra-terrestrial Elect-City but be careful of lurking dangers. Escape traps, solve puzzles and dodge enemies using the Inops ability to split into many little creatures or join into one big Inop whenever you wish. Use the environment to your advantage by using unique intractable components whilst guiding the Inops simultaneously. Get to the end of each level and save as many Inops as you can to avoid being lonesome.",
+    "publisher": "ZRZStudio",
+    "developer": null,
+    "base_release_date": 20190127,
+    "first_update_release_date": 20190122,
+    "latest_update_release_date": 20190218,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190218
+    },
+    "versions": {
+        "65536": 20190122,
+        "131072": 20190218
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Arcade"
+    ],
+    "intro": "Dive into the wondrous world of Inops! The 2D puzzle based side scrolling adventure of dark and light. Battle the fire breathing demons and rescue the scattered Inops. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

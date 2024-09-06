@@ -1,4 +1,47 @@
 {
     "id": "0100DC0019C48800",
-    "version": 327680
+    "base_tid": "0100DC0019C48000",
+    "name": "Running Fable",
+    "description": "Running Fable presents a new take on the racing genre, adding a fresh item placement mechanic that enhances the experience from just going from point A to B, while keeping rounds fast-paced.\nEach round consists of two phases:\n- Real-time item placement: Strategically set items and traps all over the map. The other players won’t be able to see your placements until the race starts!\n- Race to the trophy: Run, jump, Dodge, fly, and hare your way up to the trophy!\nEach item placement can drastically change the racetrack, choose between land, water, or air traps.\nYou can even trick your rivals by hiding your traps beneath a bush… the possibilities are endless!",
+    "publisher": "Seashell Studio",
+    "developer": null,
+    "base_release_date": 20230809,
+    "first_update_release_date": 20230908,
+    "latest_update_release_date": 20240510,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240510
+    },
+    "versions": {
+        "65536": 20230908,
+        "131072": 20231010,
+        "196608": 20231101,
+        "262144": 20240105,
+        "327680": 20240510
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Running Fable is a cross-platform multiplayer racing-strategy game for up to 10 players, in which each player must place items and traps strategically before racing on fantastical levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

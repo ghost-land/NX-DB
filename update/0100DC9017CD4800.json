@@ -1,4 +1,41 @@
 {
     "id": "0100DC9017CD4800",
-    "version": 65536
+    "base_tid": "0100DC9017CD4000",
+    "name": "Cannon Dancer – Osman",
+    "description": "Set in the near future of the 21st century, the world is controlled by a single corrupt government and under the threat of a evil sorceress, Abdullah the Slaver. Luckily, a lone assassin and top class agent named Kirin offers his skills as weapons for hire. \n \nKirin must infiltrate the city to defeat several enemies, panic and terror. But once inside the cult’s main temple, he gets attacked by the police force and left to die... Only thanks to his inner strength can he  break free from his chained imprisonment and start moving with a single goal in mind: getting revenge against Jack Layzon, the Judicial Affairs Director that hired him initially. But this is far from enough: Three other members of the Teki wants him dead for personal reasons… ",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20230413,
+    "first_update_release_date": 20230412,
+    "latest_update_release_date": 20230412,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230412
+    },
+    "versions": {
+        "65536": 20230412
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Lead Kirin, a highly skilled martial arts fighter, through a neo-cyberpunk adventure to defeat enemy forces and a corrupt government.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

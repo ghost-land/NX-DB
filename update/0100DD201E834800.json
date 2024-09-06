@@ -1,4 +1,35 @@
 {
     "id": "0100DD201E834800",
-    "version": 65536
+    "base_tid": "0100DD201E834000",
+    "name": "Around The World: Travel To Brazil Collector's Edition",
+    "description": "This is a new exciting game with many ways to find hidden objects, as well as a wide selection of interesting mini-games. \nIn this fascinating journey you will see 30 amazing sights of Brazil. You will visit the majestic Sugar Loaf Mountain, plunge into the Amazon jungle, go down to picturesque caves, \nfeel the atmosphere of Rio de Janeiro and enjoy the snow-white sand of Brazilian beaches. Visit unforgettable national parks, explore numerous museums, ancient castles and much more.\n\nIn this hidden objects game, you will be able to apply your skills and knowledge to completing mini-games and finding all the hidden objects.\n\nThe collector's edition includes: \n- 10 additional locations \n- 10 additional mini-games + 12 more for puzzle lovers \n- Music player \n- Shop with Brazilian souvenirs",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20240314,
+    "first_update_release_date": 20240409,
+    "latest_update_release_date": 20240409,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240409
+    },
+    "versions": {
+        "65536": 20240409
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "An unforgettable vacation in Brazil.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol and Tobacco Reference"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100DCA00DA7E800",
-    "version": 131072
+    "base_tid": "0100DCA00DA7E000",
+    "name": "Contra Anniversary Collection",
+    "description": "The Contra Anniversary Collection brings this classic Run and Gun franchise back to modern platforms and a new generation of players. \n\nGrab power ups and blast your way through waves of menacing enemies and bosses that will put your reaction skills to the test. Also included is a digital Bonus Book with tons of concept documents and sketches, the official chronology of the franchise, an exclusive interview with the veteran producer of the series, and more! \n\n\nAlone or with a friend, Contra provides hours of nail biting action. In a pinch; make sure you know the code!\n\nContra (Arcade)\nSuper Contra\nContra (NA)\nContra (JP)\nSuper C\nContra III: The Alien Wars\nOperation C\nContra Hard Corps\nSuper Probotector Alien Rebels\nProbotector",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20240530,
+    "first_update_release_date": 20190617,
+    "latest_update_release_date": 20240404,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240404
+    },
+    "versions": {
+        "65536": 20190617,
+        "131072": 20240404
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

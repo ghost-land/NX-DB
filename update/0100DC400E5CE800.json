@@ -1,4 +1,45 @@
 {
     "id": "0100DC400E5CE800",
-    "version": 196608
+    "base_tid": "0100DC400E5CE000",
+    "name": "True Fear: Forsaken Souls - Part 2",
+    "description": "True Fear: Forsaken Souls combines the best of the psychological thriller with intuitive gameplay mechanics for a mind-bending mystery escape game.\n\nIf you're looking for a horror game that doesn’t sacrifice the story, this is the game for you!\n\nSkeptical that a point and click adventure can be compelling or scary? Try the free demo!\n\nMain Features:\n\n- An intense adventure brimming with psychological suspense in a plot filled with twists and turns.\n- Choose your adventure! Play with or without the hidden object scenes.\n- Includes the bonuses : wallpapers, making of and deleted content.\n- True Fear: Forsaken Souls Part 2 is the second game of the trilogy.",
+    "publisher": "DIGITAL LOUNGE",
+    "developer": null,
+    "base_release_date": 20191120,
+    "first_update_release_date": 20200110,
+    "latest_update_release_date": 20201014,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201014
+    },
+    "versions": {
+        "65536": 20200110,
+        "131072": 20200302,
+        "196608": 20201014
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

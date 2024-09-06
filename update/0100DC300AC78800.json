@@ -1,4 +1,51 @@
 {
     "id": "0100DC300AC78800",
-    "version": 524288
+    "base_tid": "0100DC300AC78000",
+    "name": "The Messenger",
+    "description": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.\n\n - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure.\n\n - Character upgrades, new abilities, hidden levels, and branching paths to discover.\n\n - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics.\n\n - A memorable cast of offbeat villains, bosses, and associates.\n\n - Original soundtrack by renowned chiptune composer Rainbowdragoneyes, handmade using Famitracker.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20191118,
+    "first_update_release_date": 20180829,
+    "latest_update_release_date": 20190806,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20190806
+    },
+    "versions": {
+        "65536": 20180829,
+        "131072": 20181027,
+        "196608": 20181121,
+        "262144": 20181205,
+        "327680": 20190524,
+        "458752": 20190710,
+        "524288": 20190806
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

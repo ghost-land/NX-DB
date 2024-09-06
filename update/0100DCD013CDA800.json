@@ -1,4 +1,34 @@
 {
     "id": "0100DCD013CDA800",
-    "version": 65536
+    "base_tid": "0100DCD013CDA000",
+    "name": "Wacky Run",
+    "description": "Wacky Run is a cool and fun arcade game where you need to race against other people and acquire floorboards to use them for shortcuts. It’s a nifty and fun game you can play, one that’s incredibly fun and full of exciting gameplay ideas. \nEvery level is randomly generated, so you really need to use your wits and your tactics in order to win. The game is designed from the ground up to be very intense, full of exciting ideas and extremely rewarding. \nDo you have what it takes to beat your enemies and find the best shortcuts? Try out Wacky Run today and immerse yourself into the ultimate racing battle as you try to win!\nFeatures:\nIntense racing game\nGet planks and use them for shortcuts\nRandomly generated worlds\nBeautiful 3D worlds",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210104,
+    "first_update_release_date": 20210426,
+    "latest_update_release_date": 20210426,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210426
+    },
+    "versions": {
+        "65536": 20210426
+    },
+    "category": [
+        "Action",
+        "Racing",
+        "Sports",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

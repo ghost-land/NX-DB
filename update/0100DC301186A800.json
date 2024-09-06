@@ -1,4 +1,43 @@
 {
     "id": "0100DC301186A800",
-    "version": 65536
+    "base_tid": "0100DC301186A000",
+    "name": "Life is Strange Remastered",
+    "description": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.\nPlay as Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price from a violent altercation.\nThe pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. ",
+    "publisher": "Square Enix Europe LTD",
+    "developer": null,
+    "base_release_date": 20220927,
+    "first_update_release_date": 20220927,
+    "latest_update_release_date": 20220927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220927
+    },
+    "versions": {
+        "65536": 20220927
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Intense Violence",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Drugs and Alcohol"
+    ],
+    "region": null
 }

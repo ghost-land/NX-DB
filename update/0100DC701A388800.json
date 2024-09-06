@@ -1,4 +1,44 @@
 {
     "id": "0100DC701A388800",
-    "version": 196608
+    "base_tid": "0100DC701A388000",
+    "name": "THE KING OF FIGHTERS XIII GLOBAL MATCH",
+    "description": "Complete with rollback netcode and overhauled online functionality!\n\nKOF XIII, the final chapter in the Ash Saga—and one of the series’ most acclaimed entries—is back! This enhanced version comes with rollback netcode for exhilarating online play, as well as brand-new online lobbies that allow you to join/spectate matches with multiple players at once. Also features a packed roster of 36 playable characters, including NESTS Style Kyo, Classic Iori, and Mr. Karate! KOF’s greatest-ever 2D graphics come to life as you face off against players online and around the world!",
+    "publisher": "SNK",
+    "developer": null,
+    "base_release_date": 20231218,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240328
+    },
+    "versions": {
+        "65536": 20231123,
+        "131072": 20240125,
+        "196608": 20240328
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Relive the pinnacle of 2D sprite-based fighting! Enhanced for online play!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Language",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

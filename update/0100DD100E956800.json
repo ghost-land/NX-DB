@@ -1,4 +1,39 @@
 {
     "id": "0100DD100E956800",
-    "version": 65536
+    "base_tid": "0100DD100E956000",
+    "name": "それゆけ！おもちゃ戦車",
+    "description": "おもちゃ戦車たちが日々を楽しくする方法を考えた！\nそれは・・・　一対一でライバルの戦車を爆発させる。\nさあ、おもちゃ箱の王者を決めるのがきみだ！\n\n・おもちゃ戦車のガチンコ勝負！\n・難度が上がっていく60のおもちゃ箱\n・友達と家族で熱い対戦するのがおススメ\n",
+    "publisher": "Shinyuden",
+    "developer": null,
+    "base_release_date": 20190919,
+    "first_update_release_date": 20190918,
+    "latest_update_release_date": 20190918,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190918
+    },
+    "versions": {
+        "65536": 20190918
+    },
+    "category": [
+        "パーティー",
+        "アクション",
+        "アーケード",
+        "シューティング"
+    ],
+    "intro": "おもちゃ箱が戦場になった。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

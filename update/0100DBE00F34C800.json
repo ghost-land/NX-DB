@@ -1,4 +1,29 @@
 {
     "id": "0100DBE00F34C800",
-    "version": 65536
+    "base_tid": "0100DBE00F34C000",
+    "name": "シスターズランナー",
+    "description": "【ジャンプ】や【キャラで異なるスキル】を駆使して、敵や障害物を避けながら走り抜けよう！\n\n獲得スコアは【ポイント】に変換され、【キャラ】や【編成枠】を解放することができます。\n編成人数や順番を変えたり、自分好みの編成で【ランキング】の上位を目指しましょう！",
+    "publisher": "アルファ・システム",
+    "developer": null,
+    "base_release_date": 20191024,
+    "first_update_release_date": 20191224,
+    "latest_update_release_date": 20191224,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191224
+    },
+    "versions": {
+        "65536": 20191224
+    },
+    "category": [
+        "アクション"
+    ],
+    "intro": "「シスターズロワイヤル」の姉妹たちが、ランゲームで登場！\nジャンプとスキルの簡単操作と自由な編成でエンドレスラン！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

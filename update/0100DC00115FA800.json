@@ -1,4 +1,37 @@
 {
     "id": "0100DC00115FA800",
-    "version": 131072
+    "base_tid": "0100DC00115FA000",
+    "name": "Ant-Gravity: Tiny's Adventure",
+    "description": "Ant-gravity is a 2D Platform game with puzzle elements in which you control Tiny, an ant with the power to control gravity. \n \nUse your powers to explore the ever changing levels, avoid threats, overcome obstacles and find secrets in this classic 2D game.\n \nMain Features:\nGravity Manipulation\nChallenging gameplay.\nExplore non-linear paths using the power of gravity.\nLanguage Support for Brazilian Portuguese and English.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20211008,
+    "first_update_release_date": 20210902,
+    "latest_update_release_date": 20220726,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220726
+    },
+    "versions": {
+        "65536": 20210902,
+        "131072": 20220726
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Use your powers to explore the ever changing levels, avoid threats, overcome obstacles and find secrets in this classic 2D game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "0100DC800A602800",
-    "version": 655360
+    "base_tid": "0100DC800A602000",
+    "name": "GRID™ Autosport",
+    "description": "Step into a career as a pro-racer, mastering the world’s fastest cars to win motorsport’s most exciting races, from the hallowed asphalt of the Indianapolis Motor Speedway to the narrow city streets of Barcelona.\n\nRACE ANYTIME, ANYWHERE\nEnjoy best-in-class AAA racing at home or on the move!\n\nONLINE AND LOCAL MULTIPLAYER\nOutdrive your rivals in 8-player online or local wireless races, or go head-to-head in 2-player split-screen.\n\nSCALEABLE CHALLENGE\nCustomize your controls and difficulty level. From nice ’n easy to super hard, it’s up to you to set the bar.\n\nTAKE THE WHEEL\nSteer your way to success using the Nintendo LABO Toy-Con Car & Pedal or the HORI Pro Deluxe and Pro Mini wheels.\n\nMASTER FIVE DIFFERENT RACING DISCIPLINES\n• Touring: Take on aggressive pack races\n• Endurance: Test your strength in all-night events\n• Tuner: Keep control in Drift and Time Attack events\n• Open-Wheel: Perfect your racing line at top speed\n• Street: Ramp up the fear factor on tight city circuits \n\nCARS AND CIRCUITS\nFrom the McLAREN 12C GT3 to the MAZDA RX-7 (FD3S) DRIFT TUNED, unleash Muscle Cars, Super Modified motors, Hypercars, Hot Hatches and a huge range of other high-performance rides across a ton of tracks, roads, laps and loops.",
+    "publisher": "Codemasters",
+    "developer": null,
+    "base_release_date": 20220418,
+    "first_update_release_date": 20190918,
+    "latest_update_release_date": 20240304,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240304
+    },
+    "versions": {
+        "65536": 20190918,
+        "131072": 20191216,
+        "327680": 20200804,
+        "393216": 20210323,
+        "524288": 20220825,
+        "589824": 20240125,
+        "655360": 20240304
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "GRID Autosport is the first full-on racing simulator for Nintendo Switch™, engineered to deliver an irresistible mix of high-speed thrills and believable handling.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

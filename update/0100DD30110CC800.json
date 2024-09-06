@@ -1,4 +1,50 @@
 {
     "id": "0100DD30110CC800",
-    "version": 327680
+    "base_tid": "0100DD30110CC000",
+    "name": "Exit the Gungeon",
+    "description": "Exit the Gungeon is a small, arcade-style, spin-off 'dungeon climber' that immediately follows the adventures of the misfit Gungeoneers attempting to survive a series of increasingly dangerous elevators and countless waves of enemies.\n\nThe Gungeon has become a paradox and is collapsing! Blessed by the magic of the Sorceress, your gun will change rapidly as you ascend the Gungeon. The better you play, and the higher your combo, the more powerful the form your gun will take.\n\nBattle against the last and most bitter of the Gundead at a frantic pace, slowing down just long enough to chat with some familiar faces… and a few new ones. Shifting rooms, enemies, bosses, bizarre weapons and items all combine to ensure that no two attempts to Exit the Gungeon are the same.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20200317,
+    "first_update_release_date": 20200313,
+    "latest_update_release_date": 20221115,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20221115
+    },
+    "versions": {
+        "65536": 20200313,
+        "131072": 20200414,
+        "196608": 20201113,
+        "262144": 20201218,
+        "327680": 20221115
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Exit the Gungeon is a small, spin-off 'dungeon climber' immediately following the adventures of the misfit Gungeoneers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }
