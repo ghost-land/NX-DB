@@ -1,4 +1,40 @@
 {
     "id": "0100726014BF4800",
-    "version": 131072
+    "base_tid": "0100726014BF4000",
+    "name": "MELTY BLOOD ARCHIVES",
+    "description": "MELTY BLOOD ARCHIVES\n　Enjoy both the MELTY BLOOD Guide Book packed with amazing artwork and details about the setting and history of the game, and the MELTY BLOOD SOUND COLLECTION with background music from the franchise all together in digital format.",
+    "publisher": "Lasengle",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20210929,
+    "latest_update_release_date": 20211112,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211112
+    },
+    "versions": {
+        "65536": 20210929,
+        "131072": 20211112
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Melty Blood is reborn.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

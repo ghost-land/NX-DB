@@ -1,4 +1,40 @@
 {
     "id": "0100725017244800",
-    "version": 196608
+    "base_tid": "0100725017244000",
+    "name": "Salaryman Shi",
+    "description": "Traverse colorful environments, battle strange animals and master the power of your suitcases to... get to work on time? Salaryman Shi is a 2D platformer where you play as salaryman Takeshi Shi as you hurry to catch the bus to the office! Twenty challenging levels stand between you and a paycheck, but fear not, as you have your trusty suitcases on your side.\n\n- A dozen levels with unique visuals, songs, gimmicks and enemies\n- Complete mission objectives which let you tackle levels in cool new ways\n- Beat the best times in Time Attack and complete your medal collection\n- Try a much harder reworked adventure in Hard Mode\n- Competitive multiplayer where you race your friend to win the game first\n- Level the playing field with Assist Mode for less skilled players",
+    "publisher": "Cliax Games",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20221209,
+    "latest_update_release_date": 20230104,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230104
+    },
+    "versions": {
+        "131072": 20221209,
+        "196608": 20230104
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "The exciting adventure of Takeshi Shi getting to work!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

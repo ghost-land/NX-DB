@@ -1,4 +1,42 @@
 {
     "id": "010072B00BDDE800",
-    "version": 196608
+    "base_tid": "010072B00BDDE000",
+    "name": "Narcos: Rise of the Cartels",
+    "description": "Welcome to Colombia, 1980’s - the fires of El Patrón's empire have been lit, its influence spanning borders, and expansion unabated. Influence and corruption is rife; cops, guards, politicians and those in between are falling into the pocket of the Medellín Cartel, and after years of production, America is finally taking notice.\nNarcos: Rise of the Cartels tells the story of the hit Netflix TV series, of the rise and fall of El Patrón. Choose your side and ally with the DEA or conversely side with the Narcos. Explore recognisable locations from the show and take a role in pivotal world-altering events and battles that will define and shift the war on drugs.\nForm your team from a variety of class-specific roles, join leading characters, upgrade your skills and take part in brutal turn-based combat, where your actions will have consequence. \nPlata o Plomo?",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20191121,
+    "first_update_release_date": 20191113,
+    "latest_update_release_date": 20191126,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20191126
+    },
+    "versions": {
+        "65536": 20191113,
+        "131072": 20191120,
+        "196608": 20191126
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Narcos: Rise of the Cartels is a brutal turn-based action strategy game based on the hit Netflix TV series. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong violence"
+    ],
+    "region": null
 }

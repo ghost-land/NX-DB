@@ -1,4 +1,29 @@
 {
     "id": "010072B01D40E800",
-    "version": 65536
+    "base_tid": "010072B01D40E000",
+    "name": "荒れ果てた病院からの脱出",
+    "description": "Regista×なんかいいねの脱出ゲーム第35弾！！\n\n■ゲームシステム\n脱出ゲーム(謎解きアドベンチャーゲーム)です。\n※画面をカーソルで選び、様々な仕掛けを解くことでゲームが進行していきます。\n\n■物語\n運転中に事故に遭遇し意識が\n朦朧としたまま病院に運び込まれた\n\nそのまま意識を失ってしまい\n目を覚ますも辺りの様子がおかしい\n\n院内は何年も経過したかのように\n崩れ落ちあちこちに埃が積もっている\n\n何かイヤな予感がする…\n早くここから脱出しなければ…",
+    "publisher": "レジスタ",
+    "developer": null,
+    "base_release_date": 20231207,
+    "first_update_release_date": 20231206,
+    "latest_update_release_date": 20231206,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231206
+    },
+    "versions": {
+        "65536": 20231206
+    },
+    "category": [
+        "パズル"
+    ],
+    "intro": "意識を失い運び込まれた病院の様子がおかしい\n何かイヤな予感がする…\n早くここから脱出しなければ…",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

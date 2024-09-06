@@ -1,4 +1,45 @@
 {
     "id": "010072401447A800",
-    "version": 196608
+    "base_tid": "010072401447A000",
+    "name": "Sweet Bakery Tycoon",
+    "description": "Start your baking career and prepare some delicious cakes for your clients, using a whole set of creams, fruits, and decorations.\n\nTest your skills on 60 diverse and increasingly difficult levels.\n\nPersonalize your interior with countless upgrades.\n\nAll of us have a magic place, where everyday troubles seem to disappear. Sweet Bakery Tycoon fulfills your fantasy of creating and managing a bakery of your dreams\n\n\nFeatures: \n- 60+ cakes to serve\n- Fruit cocktails\n- 4 unique locations\n- 60 levels to explore\n- Unlockable items to upgrade your equipment, interior and ingredients\n- 25+ achievements to gain\n",
+    "publisher": "Baltoro Games",
+    "developer": null,
+    "base_release_date": 20211105,
+    "first_update_release_date": 20210630,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20210630,
+        "131072": 20230323,
+        "196608": 20240125
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Sweeten up your life!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

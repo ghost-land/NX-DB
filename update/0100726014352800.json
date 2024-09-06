@@ -1,4 +1,71 @@
 {
     "id": "0100726014352800",
-    "version": 1703936
+    "base_tid": "0100726014352000",
+    "name": "Diablo® II: Resurrected™",
+    "description": "Diablo® II: Resurrected™ is the definitive remastering of Diablo® II and its Lord of Destruction® expansion—two hallmark entries in Blizzard Entertainment’s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo® II’s timeless gameplay with modern visuals and audio that take advantage of today’s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary’s greatest champions await at the iconic campfire screen—the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo® II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.",
+    "publisher": "Blizzard Entertainment",
+    "developer": null,
+    "base_release_date": 20210923,
+    "first_update_release_date": 20210921,
+    "latest_update_release_date": 20240820,
+    "latest_update": {
+        "version": "1703936",
+        "release_date": 20240820
+    },
+    "versions": {
+        "65536": 20210921,
+        "131072": 20210924,
+        "196608": 20211007,
+        "262144": 20211008,
+        "327680": 20211019,
+        "393216": 20211021,
+        "458752": 20211118,
+        "524288": 20211202,
+        "589824": 20211214,
+        "655360": 20220103,
+        "786432": 20220414,
+        "851968": 20220513,
+        "917504": 20220601,
+        "983040": 20220629,
+        "1048576": 20220725,
+        "1114112": 20220808,
+        "1179648": 20220923,
+        "1245184": 20221007,
+        "1310720": 20221101,
+        "1376256": 20230217,
+        "1441792": 20230502,
+        "1507328": 20230822,
+        "1572864": 20231123,
+        "1638400": 20240521,
+        "1703936": 20240820
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Party",
+        "RPG"
+    ],
+    "intro": "Relive the epic adventure that defined the action RPG genre for decades",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

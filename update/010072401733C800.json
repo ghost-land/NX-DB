@@ -1,4 +1,37 @@
 {
     "id": "010072401733C800",
-    "version": 65536
+    "base_tid": "010072401733C000",
+    "name": "Arcade Archives DANGEROUS SEED",
+    "description": "\"DANGEROUS SEED\" is a shooter released by NAMCO in 1989.\nYou pilot the \"Moon Diver\" fighter, which is made up of α-Ship, β-Ship, and γ-Ship, to fight off the mysterious aliens [codename: Danger Seed].\nIf you can keep all of your ships running through the battle, they can also combine and transform into an ultimate configuration.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20220216,
+    "latest_update_release_date": 20220216,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220216
+    },
+    "versions": {
+        "65536": 20220216
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Emergency!\nYour orders are to defeat the DANGEROUS SEED!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "010072800CBE8800",
-    "version": 393216
+    "base_tid": "010072800CBE8000",
+    "name": "PC Building Simulator",
+    "description": "Build your very own PC empire, from simple diagnosis and repairs to bespoke, boutique creations that would be the envy of any enthusiast. With an expansive marketplace full of real-world components you can finally stop dreaming of that ultimate PC and get out there, build it and see how it benchmarks in 3DMark!\n\nRun your own Business\nThe career mode in PC Building Simulator puts you in charge of your very own PC building and repair business. From your own cozy workshop, you must use all your technical skills to complete the various jobs that come your way.\n\nLearn to Build a PC\nDoes building your own PC seem like an impossible task?\nPC Building Simulator aims to teach even the most novice PC user how their machine is put together with step-by-step instructions explaining the order parts should be assembled and providing useful information on what each part is and its function.",
+    "publisher": "The Irregular Corporation",
+    "developer": null,
+    "base_release_date": 20190813,
+    "first_update_release_date": 20191107,
+    "latest_update_release_date": 20230110,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230110
+    },
+    "versions": {
+        "65536": 20191107,
+        "131072": 20200526,
+        "196608": 20210414,
+        "262144": 20211028,
+        "327680": 20220628,
+        "393216": 20230110
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "The Ultimate PC Building Simulation has arrived!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

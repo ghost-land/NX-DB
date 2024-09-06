@@ -1,4 +1,37 @@
 {
     "id": "0100727019FC4800",
-    "version": 262144
+    "base_tid": "0100727019FC4000",
+    "name": "Super Kiwi 64",
+    "description": "Super Kiwi 64 is a 3D-Platformer and Collect-a-Thon, in a low poly late 90s console look.\n\nFeatures:\n- Low poly late 90s retro looks.\n- Kiwi can jump, glide, corkscrew-attack and stick to walls in order to jump up almost every wall.\n- The levels can be played in any order, and to reach the ending, it is not necessary to collect everything.\n- Eight compact open levels filled with tons of secrets.\n- Features a bird with a long beak! ",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20221202,
+    "first_update_release_date": 20221115,
+    "latest_update_release_date": 20240419,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240419
+    },
+    "versions": {
+        "65536": 20221115,
+        "131072": 20240126,
+        "196608": 20240208,
+        "262144": 20240419
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

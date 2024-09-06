@@ -1,4 +1,33 @@
 {
     "id": "010071F00D65A800",
-    "version": 196608
+    "base_tid": "010071F00D65A000",
+    "name": "Wilmot's Warehouse",
+    "description": "Wilmot's Warehouse is a puzzle game about keeping a warehouse running in tip-top shape. You play as Wilmot, a hard working warehouse employee tasked with pushing, sorting and stacking a variety of products. Over time more and more truckloads of these products will arrive, gradually filling up the warehouse. How you arrange them all is entirely up to you - organize by color, type, the Dewey Decimal System, or some wild format that only you understand - it’s all good! Just remember where you put everything, because when the service hatch opens, you'll need to find the things people want quickly, in order to earn the coveted Performance Stars required for all manner of labor-saving upgrades.\n \nFeatures\n- Unique relaxing gameplay.\n- 500 possible products to stock.\n- All manner of upgrades and perks.\n- Splitscreen 2 player co-op: Work in tandem to organize the warehouse with a friend                                                                                                                                                                                                                                                                   - Customize your game with Expert Mode for an extra challenge\n- Sublime electronic music to listen to while you decide whether wellington boots belong in the footwear section, or with the umbrellas.",
+    "publisher": "Finji",
+    "developer": null,
+    "base_release_date": 20221128,
+    "first_update_release_date": 20200811,
+    "latest_update_release_date": 20220124,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220124
+    },
+    "versions": {
+        "65536": 20200811,
+        "131072": 20200813,
+        "196608": 20220124
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "A game for people who like to organise stuff.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

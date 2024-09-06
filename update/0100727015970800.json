@@ -1,4 +1,40 @@
 {
     "id": "0100727015970800",
-    "version": 131072
+    "base_tid": "0100727015970000",
+    "name": "Mutropolis",
+    "description": "MUTROPOLIS is a lovely sci-fi adventure set on the abandoned Planet Earth. Play as Henry Dijon (hero, nerd, detective) in search of a legendary lost city. Begin a gorgeous, hand-drawn quest. Uncover weird ancient artifacts. And PLEASE don’t get obliterated by an ageless evil. You’ve been warned.\nIt is the year 5000, and the greatest achievements in human history are forgotten. The pyramids, the Mona Lisa, The Fresh Prince of Bel Air – forgotten.\n\nForgotten by everyone except Henry Dijon and his ragtag team of archaeologists. They left Mars to dig up lost treasures on the wild and inhospitable Planet Earth. Life is sweet, until Henry’s professor is kidnapped, and thing start to get... weird.\n\nJoin Henry on a freewheeling adventure through the ruins of our civilization. Ask questions like, “Who was this Sony Walkman? And where did he walk?” Unearth extraordinary relics, rescue Professor Totel, and be the first to enter the legendary city of Mutropolis.\nOne more thing - the gods of ancient Egypt are real and they’re trying to destroy humanity. - Have fun!\n\nFEATURES\n• 50+ hand-drawn scenes, crammed with cute, weird characters.\n• Full voice over in English, text localizations in Spanish, German, French, Italian, Portuguese, Russian, Chinese, Korean and Japanese.\n• TONS OF LOVE!\n\n\nOfficial Selection: AdventureX 2019\nWinner: Indie Prize Casual Connect (London 2019)\nWinner: Indie[MAD] Award (Madrid 2019)",
+    "publisher": "ASHGAMES",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20220725,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20220725,
+        "131072": 20220818
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A lovely SCI-FI detective point&click adventure.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Partial Nudity"
+    ],
+    "region": null
 }

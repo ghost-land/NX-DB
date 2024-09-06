@@ -1,4 +1,34 @@
 {
     "id": "010072E01F364800",
-    "version": 65536
+    "base_tid": "010072E01F364000",
+    "name": "Eternal Light",
+    "description": "The characters are brought to life using the E-mote animation system.\nWhen they breathe, wink, or speak, it all looks very realistic.\nAdditionally, the game features Japanese voice acting.\n\nIn this harsh world, what is the truth?\nWhat darkness lies beneath everyone's deceitful smiles?\nI have no expectations for interpersonal relationships.\n\nShunichi Kazama, an ordinary high school sophomore, lives life like a walking corpse due to past misfortunes. He holds no hope for life.\nHowever, on that day, her appearance shone like a ray of light into his gloomy heart.",
+    "publisher": "moesoft",
+    "developer": null,
+    "base_release_date": 20240518,
+    "first_update_release_date": 20240603,
+    "latest_update_release_date": 20240603,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240603
+    },
+    "versions": {
+        "65536": 20240603
+    },
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Animation System Visual Novel \"Eternal Light.\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

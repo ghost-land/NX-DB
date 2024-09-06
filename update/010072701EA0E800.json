@@ -1,4 +1,34 @@
 {
     "id": "010072701EA0E800",
-    "version": 131072
+    "base_tid": "010072701EA0E000",
+    "name": "EGGCONSOLE HYDLIDE II PC-8801",
+    "description": "This is an action RPG released by T&E SOFT in 1985. The protagonist, chosen by God for their pure heart, embarks on an adventure to seal away evil consciousness.\n\nThe popular collision-based attack system from the previous game is back, and this time, new magic such as FIRE, ICE, WAVE, and JUMP are introduced. With the addition of the parameter FORTH (conscience), concepts of good and evil are expressed. The game also features information gathering through conversation mode, shopping in towns, character development, and a map six times larger than the previous game, surpassing it in both quality and quantity.\n\nKnown as an Active RPG at the time, this game places a strong emphasis on action. Players switch between attack and defense modes while engaging in collision-based combat with monsters. Defeating monsters earns experience points, allowing for level-ups and increased strength. When injured, resting in flat areas automatically restores health.\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"\"How to play\"\" screens are in English.\n",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240418,
+    "first_update_release_date": 20240419,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240419,
+        "131072": 20240719
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Hydlide Series Part 2. Become the chosen one and seal the evil consciousness targeting Fairyland! Utilize magic to conquer a field map six times larger than the previous ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

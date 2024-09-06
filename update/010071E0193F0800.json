@@ -1,4 +1,37 @@
 {
     "id": "010071E0193F0800",
-    "version": 131072
+    "base_tid": "010071E0193F0000",
+    "name": "Record of Agarest War",
+    "description": "The Fate of Agarest is in your hands!\n\nLeonhardt and his descendants are the last hope for a world devastated by a war between the gods. Their journey will span generations and continents as they strive to restore peace.\n\nIncludes all add-on dungeons and extra content packs, featuring tons of extra items, weapons, and upgrades\n\n - Explore a tactical RPG with over 100 hours of gameplay\n - Features upscaled 2D art, full HD movies, and new music\n - Raise future generations of heroes with the unique Soul Breed system",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20230331,
+    "latest_update_release_date": 20230816,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230816
+    },
+    "versions": {
+        "65536": 20230331,
+        "131072": 20230816
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Partial Nudity",
+        "Suggestive Themes"
+    ],
+    "region": null
 }
