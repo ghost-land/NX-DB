@@ -1,4 +1,36 @@
 {
     "id": "01006AD01835C800",
-    "version": 65536
+    "base_tid": "01006AD01835C000",
+    "name": "AlphaLink",
+    "description": "AlphaLink pits players in a 2D dystopian intergalactic arena multiplayer battle to shift the tides in the war of factions! Pick a faction, find some friends, and engage in the fight of your life in local or online matches! Earn XP and Galactic Credits to unlock new cosmetics like armor, helmets, guns, and more! Features \"stop and pop\" style aiming system (not a dual stick shooter) for slower, more calculated aiming. Suit up and jump in!\n\nOther Features:\n- Hub area to engage with NPCs to reveal lore in the Kova universe.\n- Multiple game modes for online and local play\n- Faction standings and leader boards\n- Various weapon pick ups\n- XP and progression system\n- Wide range of cosmetics to personalize your player\n- Beautiful array of hand-painted levels\n- (NEW!) Alternate Controls for twin stick option",
+    "publisher": "Black Hive Media",
+    "developer": null,
+    "base_release_date": 20230105,
+    "first_update_release_date": 20230322,
+    "latest_update_release_date": 20230322,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230322
+    },
+    "versions": {
+        "65536": 20230322
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "AlphaLink pits players in a dystopian intergalactic arena multiplayer battle to shift the tides in the war of factions! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

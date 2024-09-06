@@ -1,4 +1,32 @@
 {
     "id": "01006B1011B9E800",
-    "version": 65536
+    "base_tid": "01006B1011B9E000",
+    "name": "80's OVERDRIVE",
+    "description": "80'S OVERDRIVE is a 2D pixel art racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars, and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!\n\nFeatures:\n- 2 game modes and racing track editor;\n- 6 retro supercars;\n- 8 unique visual themes;\n- 18 synth/retrowave music scores;\n- tons of retro, handcrafted, pixel-perfect joy!",
+    "publisher": "Insane Code",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20201018,
+    "latest_update_release_date": 20201018,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201018
+    },
+    "versions": {
+        "65536": 20201018
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

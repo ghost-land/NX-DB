@@ -1,4 +1,37 @@
 {
     "id": "01006B0016BC0800",
-    "version": 65536
+    "base_tid": "01006B0016BC0000",
+    "name": "Arcade Archives SPACE SEEKER",
+    "description": "\"SPACE SEEKER\" is a hybrid strategy and shooting game released by TAITO in 1981. The game has you battling for victory against ever-approaching waves of enemy air forces in first-person 3D, and mobile fortresses in side-scrolling 2D. Use the map to track your foes, and choose which to battle, but stay in one place too long and your bases will be overrun, losing you a life!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220616,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20220915,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220915
+    },
+    "versions": {
+        "65536": 20220915
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Seek victory against the invaders with strategy and skill! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010069F01D436800",
-    "version": 65536
+    "base_tid": "010069F01D436000",
+    "name": "Starlight Drifter",
+    "description": "Starlight Drifter is a sci-fi RPG that puts the player in the starship captain’s seat.\n\nAfter following a strange signal you discover an amazing ship left derelict in a remote patch of space, and soon you have a small crew assembled. Get ready to finally live your dream of exploring the vastness of the space!\n\nFeaturing a mix of visual novel storytelling and open world decision-making, so that you can choose what you do, what missions to take and in between missions who to chat to and potentially get to know better... You’ll be at the helm to make your own unique mark on the universe. How will your unique space saga unfold, and how will your heroic journey end?\n\n\nFeatures\n* Visual novel storytelling\n* Explore the galaxy\n* Romance crew members\n* Multiple endings",
+    "publisher": "Gamuzumi",
+    "developer": null,
+    "base_release_date": 20231124,
+    "first_update_release_date": 20240109,
+    "latest_update_release_date": 20240109,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240109
+    },
+    "versions": {
+        "65536": 20240109
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Explore space and lead the crew as a starship captain",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Partial Nudity",
+        "Strong Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

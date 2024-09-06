@@ -1,4 +1,37 @@
 {
     "id": "01006A0010D6A800",
-    "version": 131072
+    "base_tid": "01006A0010D6A000",
+    "name": "Blood Breed",
+    "description": "Blood Breed is a brutal, retro-styled survival horror with challenging gameplay and mature visuals (nudity can be toggled on and off in the game menu). \n\nIn this stylish game, you will fight for your life and explore hand-crafted-like environments.\n\nYour car breaks down in a mysterious area, full of horrific human remains, and you're left to face a murderous maniac who is hunting you down. As you dive deeper into the story, you begin to discover the twisted and paranormal meaning to it all... \n\nWill you survive to see the light of day again?",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20211108,
+    "first_update_release_date": 20200406,
+    "latest_update_release_date": 20200501,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200501
+    },
+    "versions": {
+        "65536": 20200406,
+        "131072": 20200501
+    },
+    "category": [
+        "Adventure",
+        "First-Person Shooter",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "A night of horrors. Run and hide. Be stealthy, survive. Adapt, strike back. You’re the prey, become the hunter!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Partial Nudity"
+    ],
+    "region": null
 }

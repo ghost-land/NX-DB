@@ -1,4 +1,33 @@
 {
     "id": "01006AA00EE44800",
-    "version": 65536
+    "base_tid": "01006AA00EE44000",
+    "name": "Otokomizu",
+    "description": "Hovering in the sky over Edo City with a loincloth!\nThis jet pack firefighting 3D action game has the most mysterious operation feeling ever!",
+    "publisher": "BIG BOYS STUDIO",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191111,
+    "latest_update_release_date": 20191111,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191111
+    },
+    "versions": {
+        "65536": 20191111
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

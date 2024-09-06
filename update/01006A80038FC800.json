@@ -1,4 +1,38 @@
 {
     "id": "01006A80038FC800",
-    "version": 65536
+    "base_tid": "01006A80038FC000",
+    "name": "ACA NEOGEO ART OF FIGHTING",
+    "description": "\"ART OF FIGHTING\" is a fighting game released by SNK in 1992.\n\nRyo Sakazaki and Robert Garcia fight against numerous enemies to to free Yuri Sakazaki who was kidnaped by a mysterious person.This game is known as an ambitious title via the introduction of spirit gauge and representation on characters of the damage received by the enemy.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20171011,
+    "latest_update_release_date": 20171011,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171011
+    },
+    "versions": {
+        "65536": 20171011
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "The 1st 100 Mega Shock Series title!\nExperience ultra-realistic battles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

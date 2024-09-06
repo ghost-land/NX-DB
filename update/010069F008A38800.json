@@ -1,4 +1,37 @@
 {
     "id": "010069F008A38800",
-    "version": 65536
+    "base_tid": "010069F008A38000",
+    "name": "Arcade Archives STAR FORCE",
+    "description": "\"STAR FORCE\" is a shooting game released in 1984 by Tehkan (now Koei Tecmo Games). It was very popular due to its variety of hidden bonuses as well as the competitiveness for achieving high scores.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220303,
+    "first_update_release_date": 20200129,
+    "latest_update_release_date": 20200129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200129
+    },
+    "versions": {
+        "65536": 20200129
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "This is a pure shooting game masterpiece! \nAim for the highest score!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

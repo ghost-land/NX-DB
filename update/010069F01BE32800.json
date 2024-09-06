@@ -1,4 +1,41 @@
 {
     "id": "010069F01BE32800",
-    "version": 131072
+    "base_tid": "010069F01BE32000",
+    "name": "Crowded Mysteries",
+    "description": "In Crowded Mysteries, you're a detective in Mystery City, investigating crimes and interrogating suspects. \n\nExplore the city for clues, unravel secrets, and solve cases as they become increasingly complex. Use your observation skills to uncover patterns behind bizarre incidents and stay ahead of elusive criminals. Earn stars by solving cases quickly, and feel the pressure of time ticking away. \n\nWith an immersive storyline, beautiful minimalistic art, and engaging gameplay, Crowded Mysteries is a crime-solving adventure for all, whether you're a seasoned detective or a curious newcomer. \n\nGet ready to put on your detective hat and solve some crimes!\n",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20230720,
+    "first_update_release_date": 20230719,
+    "latest_update_release_date": 20230802,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230802
+    },
+    "versions": {
+        "65536": 20230719,
+        "131072": 20230802
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "Uncover the truth, solve the crimes, and become the ultimate detective!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,74 @@
 {
     "id": "01006A800016E800",
-    "version": 1835008
+    "base_tid": "01006A800016E000",
+    "name": "Super Smash Bros.™ Ultimate",
+    "description": "Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more!\n\nHaving trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling—a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers—legendary couch competitions await—or play together anytime, anywhere!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20181207,
+    "first_update_release_date": 20181204,
+    "latest_update_release_date": 20240215,
+    "latest_update": {
+        "version": "1835008",
+        "release_date": 20240215
+    },
+    "versions": {
+        "65536": 20181204,
+        "131072": 20181213,
+        "196608": 20181221,
+        "262144": 20190129,
+        "327680": 20190222,
+        "393216": 20190402,
+        "458752": 20190417,
+        "524288": 20190425,
+        "589824": 20190530,
+        "655360": 20190730,
+        "720896": 20190905,
+        "786432": 20191106,
+        "851968": 20191114,
+        "917504": 20200107,
+        "983040": 20200128,
+        "1048576": 20200629,
+        "1114112": 20200805,
+        "1179648": 20201013,
+        "1245184": 20201021,
+        "1310720": 20201111,
+        "1376256": 20201217,
+        "1441792": 20201222,
+        "1507328": 20210304,
+        "1572864": 20210323,
+        "1638400": 20210629,
+        "1703936": 20211018,
+        "1769472": 20211201,
+        "1835008": 20240215
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "New characters and stages join the entire legacy roster!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Comic Mischief",
+        "Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

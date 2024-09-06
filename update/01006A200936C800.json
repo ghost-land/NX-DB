@@ -1,4 +1,38 @@
 {
     "id": "01006A200936C800",
-    "version": 65536
+    "base_tid": "01006A200936C000",
+    "name": "Shantae: Half- Genie Hero Ultimate Edition",
+    "description": "This all-inclusive version comes with all of the previously released DLC, Modes, and Costumes! \n\nSave the day as belly dancing half-genie Shantae! Conquer Sequin Land as the evil Risky Boots in ‘Pirate Queen’s Quest’! Swap between Sky, Bolo, and Rottytops in ‘Friends to the End’! And finally, wall-jump as Ninja Shantae, soak up sun as Beach Shantae, serve justice as Officer Shantae!\n\nAlso includes Tinkerbat Transformation, Blue Shantae & Classic Risky costumes!\n\n\n",
+    "publisher": "WayForward",
+    "developer": null,
+    "base_release_date": 20220728,
+    "first_update_release_date": 20180731,
+    "latest_update_release_date": 20180731,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180731
+    },
+    "versions": {
+        "65536": 20180731
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Experience Shantae's fantastic first HD adventure along with all the additional modes in one convenient package!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,48 @@
 {
     "id": "01006A800FA22800",
-    "version": 589824
+    "base_tid": "01006A800FA22000",
+    "name": "Evolution Board Game",
+    "description": "ADAPT OR GO EXTINCT\nIn Evolution, you adapt your species to survive, and stay one step ahead of opponents. \n\n*Watering hole running dry? Evolve a long neck to reach food in the trees. \n*Staring down a Carnivore? Develop a hard shell to protect you. \n*Opponent has too many species?  Time to go on the attack yourself by adapting into a Carnivore.  \n\nAWARD WINNING ADAPTATION\n\"#1 Digital Board Game of the Year\" -Ars Technica\n\"Best Digital Board Game of the Year\" -Vulture\n\nPACKED WITH FEATURES\n*Asynchronous Play, Friend system and Chat\n*21 game Single Player Campaign with distinct AI opponents\n*Online Multiplayer with skill based Matchmaking\n*Progression ladder and online rankings let you see your improvement \n*Pass and Play\n*Weekly Challenges test your skill\n*Interactive Tutorial\n*Gorgeous Hand drawn Species to Discover",
+    "publisher": "North Star Games",
+    "developer": null,
+    "base_release_date": 20201211,
+    "first_update_release_date": 20210113,
+    "latest_update_release_date": 20230830,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20230830
+    },
+    "versions": {
+        "65536": 20210113,
+        "131072": 20210331,
+        "262144": 20210610,
+        "327680": 20210714,
+        "393216": 20211207,
+        "458752": 20230316,
+        "589824": 20230830
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "The Strategy Game of Adaptation",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

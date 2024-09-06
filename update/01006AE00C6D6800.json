@@ -1,4 +1,41 @@
 {
     "id": "01006AE00C6D6800",
-    "version": 262144
+    "base_tid": "01006AE00C6D6000",
+    "name": "Son of a Witch",
+    "description": "Action roguelike for 1-4 players with cute graphics, easy to pick up controls and deep game mechanics. Combine dozens of different weapons, magic items, potions and spells with unique effects to beat 7 enemy factions and 24 bosses. Can you find the ancient goblin artifact at the end of the dungeon?\n\nKey Features\n• Explore non-linear procedurally generated dungeons\n• Fight your way through random encounters with monsters and a selection of 24 bosses\n• Find shops, treasure rooms and challenge rooms\n• Complete NPC quests to unlock playable characters\n• Get help from one of 26 cute pet companions\n• Drink random potions to power up or increase the challenge\n• Identify and use powerful magic scrolls\n• Every weapon has some unique ability or attack type\n• Every item you find has its use or special mechanics\n• Single player and up to 4 player co-op\n• Three different play styles: melee beat'em up, magic shooter and archers sniping enemies from the distance\n• Permadeath. A new world is created every time you start the game, so it's always fresh and interesting to explore",
+    "publisher": "Bigosaur",
+    "developer": null,
+    "base_release_date": 20181205,
+    "first_update_release_date": 20190405,
+    "latest_update_release_date": 20210915,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210915
+    },
+    "versions": {
+        "65536": 20190405,
+        "131072": 20190412,
+        "196608": 20200229,
+        "262144": 20210915
+    },
+    "category": [
+        "Party",
+        "Fighting",
+        "Arcade",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

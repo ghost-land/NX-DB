@@ -1,4 +1,49 @@
 {
     "id": "01006B0016AD6800",
-    "version": 1310720
+    "base_tid": "01006B0016AD6000",
+    "name": "Taiko no Tatsujin: Rhythm Festival",
+    "description": "Online Music Not Rated by the ESRB\n\nWelcome to Omiko City, the stage for Taiko no Tatsujin: Rhythm Festival! A city full of everyone’s favorite Taiko elements is gathered into one town! Together with DON-Chan, meet your new friend, Kumo-kyun and aim to become a Taiko Master!\n\n76 songs including Gurenge, Feel Special, and Into the Night are available in the game! As well as Improvement Support that helps you with upping your drumming skills!\n\nParticipate in Online Ranked Matches and battle against with players from around the world!\nThere are other modes to enjoy with everyone, like DON-chan Band, where Players work as a group of 4 to perform successful concerts! Also Great Drum Toy War, where Players make a deck of toys for Taiko battles!\n\nHave fun playing Taiko solo, or together with friends!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20220923,
+    "first_update_release_date": 20220923,
+    "latest_update_release_date": 20240731,
+    "latest_update": {
+        "version": "1310720",
+        "release_date": 20240731
+    },
+    "versions": {
+        "196608": 20220923,
+        "262144": 20221012,
+        "327680": 20221101,
+        "393216": 20221116,
+        "458752": 20230113,
+        "524288": 20230201,
+        "589824": 20230507,
+        "786432": 20230627,
+        "917504": 20230802,
+        "1048576": 20231206,
+        "1114112": 20240117,
+        "1179648": 20240313,
+        "1245184": 20240530,
+        "1310720": 20240731
+    },
+    "category": [
+        "Music"
+    ],
+    "intro": "Play Solo! Play Together! Drum to the beat of your heart with Taiko!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "No Descriptors",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

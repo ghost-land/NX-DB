@@ -1,4 +1,39 @@
 {
     "id": "01006AA006BE4800",
-    "version": 65536
+    "base_tid": "01006AA006BE4000",
+    "name": "Tallowmere",
+    "description": "Greetings, hero. How far through Lady Tallowmere's dungeons can you delve?\n\nEach randomly-generated room gets bigger, harder, and more rewarding the further you go. Raise your shield and hunt for the key in each room - or die trying. Be on your guard for every enemy, elite, boss, and treasure chest you'll encounter. Discover new weapons and armor ranging from Basic to Otherworldly. Brace yourself as you learn the quirks of each foe, trap, and room type so you can strive for that \"one more run\" high-score victory!\n\nKey features:\n- 2D action roguelite platformer\n- Supports 1-4 local players\n- Infinite number of randomly-generated rooms\n- Tiered loot including axes, clubs, katanas, daggers, ice wands, grenades, rocket launchers, and flamethrowers\n- Local high score board and achievements\n- Challenge modes\n\nTo those who will be lured into Lady Tallowmere's dungeons: good luck.",
+    "publisher": "Teyon",
+    "developer": null,
+    "base_release_date": 20171110,
+    "first_update_release_date": 20180104,
+    "latest_update_release_date": 20180104,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180104
+    },
+    "versions": {
+        "65536": 20180104
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Strategy",
+        "Party"
+    ],
+    "intro": "Raise your shield. Embrace Lady Tallowmere's dungeons. How far can you make it?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Violence"
+    ],
+    "region": null
 }
