@@ -1,4 +1,42 @@
 {
     "id": "0100BAC011928800",
-    "version": 262144
+    "base_tid": "0100BAC011928000",
+    "name": "Deadly Premonition 2: A Blessing In Disguise",
+    "description": "The true sequel to Deadly Premonition is coming to Nintendo Switch.\n\nIn the year 2005, FBI agent York visits Le Carré, a small town in New Orleans where he encounters a mysterious serial murder case alongside his “friend” Zach.\n\nProduced by the original creator team. The story takes place in a small town in New Orleans which was created based on research and interviews.",
+    "publisher": "Thunderful Games",
+    "developer": null,
+    "base_release_date": 20200710,
+    "first_update_release_date": 20200702,
+    "latest_update_release_date": 20200925,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200925
+    },
+    "versions": {
+        "65536": 20200702,
+        "131072": 20200804,
+        "196608": 20200808,
+        "262144": 20200925
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

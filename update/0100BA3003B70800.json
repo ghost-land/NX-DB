@@ -1,4 +1,38 @@
 {
     "id": "0100BA3003B70800",
-    "version": 131072
+    "base_tid": "0100BA3003B70000",
+    "name": "PAC-MAN VS. Free Multiplayer-only Ver.",
+    "description": "PAC-MAN™ VS. (Free Multiplayer-only Ver.) is a free download from Nintendo eShop which allows you to play PAC-MAN™ VS. with another player who owns NAMCO MUSEUM™ for the Nintendo Switch™ console.\nBecome Pac-Man or a ghost and challenge up to 3 other players* in classic gameplay with a multi-player twist!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20170728,
+    "first_update_release_date": 20170926,
+    "latest_update_release_date": 20180927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180927
+    },
+    "versions": {
+        "65536": 20170926,
+        "131072": 20180927
+    },
+    "category": [
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Violence"
+    ],
+    "region": null
 }

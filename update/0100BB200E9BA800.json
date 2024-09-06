@@ -1,4 +1,33 @@
 {
     "id": "0100BB200E9BA800",
-    "version": 65536
+    "base_tid": "0100BB200E9BA000",
+    "name": "Scrap",
+    "description": "Jump faster and learn new sequences to discover the way forward. But it's not gonna be easy, since each level is harder than the previous one and SCRAP keeps getting faster. You're lucky though, because there are clues and power-ups scattered around to help you. All of this is complemented by a polished graphic design and great soundtrack.\n\nIn short, SCRAP is:\n- 30 (plus 3 bonus) carefully designed levels in 3 unique worlds. 11 additional levels and a completely new world coming soon - free.\n- Intuitive controls.\n- Yup, you can play SCRAP using only one hand. One. Hand.\n- Polished graphics. You're gonna rate it yourself, anyways :wink:\n- Equally great soundtrack. You're gonna rate this, too.\n- No microtransactions, ads or any of that stuff. NONE.\n- Gorgeous wallpapers to discover, created by Polish artists!\n- We've thrown in some making-of sketches as a bonus.",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190621,
+    "first_update_release_date": 20190722,
+    "latest_update_release_date": 20190722,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190722
+    },
+    "versions": {
+        "65536": 20190722
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "SCRAP is a unique platformer in which you can't stop moving. The remedy to that is jumping.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100BB20152BA800",
-    "version": 65536
+    "base_tid": "0100BB20152BA000",
+    "name": "Enigmatis: The Ghosts of Maple Creek",
+    "description": "Imagine waking up after a powerful storm as the sun goes down. You find yourself just outside a small town on the side of the road. A shiver runs down your spine as your body remembers the recent dramatic events that your mind cannot or will not recall…",
+    "publisher": "Artifex Mundi",
+    "developer": null,
+    "base_release_date": 20210625,
+    "first_update_release_date": 20230911,
+    "latest_update_release_date": 20230911,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230911
+    },
+    "versions": {
+        "65536": 20230911
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Will you dare to solve the ages-old mystery of Maple Creek?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

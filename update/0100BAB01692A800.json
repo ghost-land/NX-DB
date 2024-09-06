@@ -1,4 +1,41 @@
 {
     "id": "0100BAB01692A800",
-    "version": 131072
+    "base_tid": "0100BAB01692A000",
+    "name": "Panorama Cotton",
+    "description": "The game's main character is Nata de Cotton, a witch with unquenchable craving for candy called Willow. She is accompanied by the fairy Silk, who Cotton saved the world with once before. Silk is approached by her sister Knit, who tells her that Queen Velvet has been acting strange. Identifying the source of her behavior as a burnt Willow, Silk tries to dispose of it, but Cotton crosses her path, grabs the Willow and tries to eat it, only to realize that it has been burned. She doesn't care much about the queen or the kingdom, but is angered by the fact that someone is burning Willows, so Cotton and Silk set off to stop whoever is doing such evil things!\n\nIn 1994, Panorama Cotton raised the bar for what's possible on the Mega Drive/Genesis consoles. The game's more colorful pallet makes every stage a treat to look at and fly through!\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20211029,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20220623,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220623
+    },
+    "versions": {
+        "65536": 20211112,
+        "131072": 20220623
+    },
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "The groundbreaking 3D-scrolling Cute 'em Up is back!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

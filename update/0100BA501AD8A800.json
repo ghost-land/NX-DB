@@ -1,4 +1,35 @@
 {
     "id": "0100BA501AD8A800",
-    "version": 131072
+    "base_tid": "0100BA501AD8A000",
+    "name": "Mystical Mixing",
+    "description": "Pour the potion into the cauldron, throw in the clover, bone and feather, stir and voila - you have a cute Mixie!\n\nCombine other ingredients to create Mixies with different features: winged, horned, spotted, furry... the possibilities are endless.\n\nLet your Mixie friends explore the mysterious island, find hidden treasures, repair the magical portal and collect new ingredients to create even more adorable pets. Over time, you might even discover a way to combine Mixies with each other.\n\nMystical Mixing is an enchanting simulation game that will immerse you in a world of magic, alchemy and wonder. So grab your cauldron and start the adventure!",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20230526,
+    "first_update_release_date": 20230627,
+    "latest_update_release_date": 20230627,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230627
+    },
+    "versions": {
+        "131072": 20230627
+    },
+    "category": [
+        "Adventure",
+        "Strategy",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Enter a world of magic and wonder with Mystical Mixing.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

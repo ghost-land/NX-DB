@@ -1,4 +1,36 @@
 {
     "id": "0100BB400BF92800",
-    "version": 65536
+    "base_tid": "0100BB400BF92000",
+    "name": "BLAZBLUE CENTRALFICTION Special Edition",
+    "description": "Brace yourselves for the pinnacle of 2D fighting action - this is BlazBlue's final and most hard-hitting chapter to date, with more stages, more moves, and more characters than ever before. \n\nWhether you're a hardcore BlazBlue veteran, or a newcomer wanting to experience the HUGE single player mode, one thing is for certain - this is the ULTIMATE anime fighting experience!",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20190208,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190626
+    },
+    "versions": {
+        "65536": 20190626
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Sexualised imagery and violence"
+    ],
+    "region": null
 }

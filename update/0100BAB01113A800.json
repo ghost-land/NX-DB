@@ -1,4 +1,49 @@
 {
     "id": "0100BAB01113A800",
-    "version": 458752
+    "base_tid": "0100BAB01113A000",
+    "name": "Neon Abyss",
+    "description": "Featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset. Get ready to unleash hell!\n\nEvolving Dungeon\nWith each run, you will be able to unlock new rooms, items, bosses, special rules and even new endings! This means each dungeon is unique and expandable, being tailored to your own specific playstyle.\n\nUnlimited Item Synergies\nAs you progress through each dungeon, random item drops will be key in helping you infiltrate the Abyss and these passive effects can stack between every item. With no limit to how many can apply; a wide variety of combinations will make each run unique.\n\nMini-games\nTake a break from slaying minions and take part in  mini-games that will also bag you some loot! Jump into Piano Performances, Meditation Challenge, Dance Competitions, and more!",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20200706,
+    "latest_update_release_date": 20220815,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220815
+    },
+    "versions": {
+        "65536": 20200706,
+        "131072": 20200713,
+        "196608": 20200923,
+        "262144": 20201126,
+        "393216": 20210616,
+        "458752": 20220815
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Comic Mischief",
+        "Simulated Gambling",
+        "Violence"
+    ],
+    "region": null
 }

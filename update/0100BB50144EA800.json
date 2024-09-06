@@ -1,4 +1,34 @@
 {
     "id": "0100BB50144EA800",
-    "version": 65536
+    "base_tid": "0100BB50144EA000",
+    "name": "Pinball Big Splash",
+    "description": "Imagine playing pinball with perfect reflexes. Pinball big Splash brings the arcade classic tabletop game to virtual simulations with art, atmosphere, roll and play mechanics. Phenomenal beautiful arts, bring the joy and excitement of a pinball arcade to life.\nUNIQUELY NEW Marine theme inspired table for beginners and professional.  First launch the ball with plunger, see the ball roll to different targets. Once the ball roll to the lowest level, pick which flipper's to flip and send the ball to the top of the table again. Play well and you'll unlock bonuses like multi-ball, multipliers, and more to help you get to the top. \nKeep the pinball floating and achieve your high scores now! Great for solitaire play!",
+    "publisher": "Max Interactive Studio",
+    "developer": null,
+    "base_release_date": 20210313,
+    "first_update_release_date": 20210326,
+    "latest_update_release_date": 20210326,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210326
+    },
+    "versions": {
+        "65536": 20210326
+    },
+    "category": [
+        "Simulation",
+        "Arcade",
+        "Board Game",
+        "Sports"
+    ],
+    "intro": "DO NOT DROP THE BALL :-)",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

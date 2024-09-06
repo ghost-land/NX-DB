@@ -1,4 +1,32 @@
 {
     "id": "0100BA401D284800",
-    "version": 65536
+    "base_tid": "0100BA401D284000",
+    "name": "Ortheo",
+    "description": "Explore huge beautiful worlds and collect tons of coins and gears.\n\nFeatures:\n- Toon-Shaded Graphics\n- Momentum-Based Platforming\n- 3 Unique Worlds and A Final Boss",
+    "publisher": "Elushis",
+    "developer": null,
+    "base_release_date": 20231130,
+    "first_update_release_date": 20240317,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20240317
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Ortheo is a bite-sized open-world momentum-based 3D platformer. Join Ortheo and explore massive worlds in this all-new 3D adventure!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

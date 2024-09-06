@@ -1,4 +1,40 @@
 {
     "id": "0100BB3015F0E800",
-    "version": 65536
+    "base_tid": "0100BB3015F0E000",
+    "name": "15in1 Solitaire",
+    "description": "Freecell and Klondike are just the beginning! Dive deep into the world of Solitaire in the largest Solitaire combo released yet. Offering days of fun, pleasant looks and simple controls. Can your personal best measure up to the best?\n\nThe common goal of all the solitaire variants is to eliminate all the cards, which are on the table. Move them to the corresponding pile based on the rules of particular mode. The cards are sorted based on their suits or values. Every variant have different rules and allows different card movements.\n\nStack 'em all!\n\nFeatures:\n- 15 different game modes\n- Addictive simplicity\n- Minimalistic visuals\n\n",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20230317,
+    "latest_update_release_date": 20230317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230317
+    },
+    "versions": {
+        "65536": 20230317
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Biggest Solitaire combo - can you beat all the game modes?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "0100BB500EACA800",
-    "version": 327680
+    "base_tid": "0100BB500EACA000",
+    "name": "STAR WARS™ Jedi Knight II: Jedi Outcast™",
+    "description": "Kyle Katarn’s classic adventure lands on Nintendo Switch™! Experience the legendary single-player epic with modernized controls.\n\n- As Kyle Katarn, agent of the New Republic, use your Lightsaber and the full power of the Force to combat a new evil plaguing the galaxy.\n\n- Choose wisely from an arsenal of 13 weapons including disruptor rifle, thermal detonators, trip mines, and Wookiee bowcaster.\n\n- Test your skills in 24 single-player missions, four epic boss fights, and one unforgettable cantina.\n",
+    "publisher": "Aspyr",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20191014,
+    "latest_update_release_date": 20211019,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20211019
+    },
+    "versions": {
+        "131072": 20191014,
+        "196608": 20210602,
+        "327680": 20211019
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A Jedi outcast struggles with his past, his enemies, and his destiny.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

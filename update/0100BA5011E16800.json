@@ -1,4 +1,42 @@
 {
     "id": "0100BA5011E16800",
-    "version": 65536
+    "base_tid": "0100BA5011E16000",
+    "name": "Skeletal Avenger",
+    "description": "Skeletal Avenger is a hack'n'slash roguelite with a massive perk arsenal and skull-chucking special moves! Re-animate skeletons and fight your way to vengeance. Build a new playstyle each run with perks. Loot, explore, avenge, and try to go crazy with perk combos.",
+    "publisher": "10tons",
+    "developer": null,
+    "base_release_date": 20211104,
+    "first_update_release_date": 20211102,
+    "latest_update_release_date": 20211102,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211102
+    },
+    "versions": {
+        "65536": 20211102
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Guide a head-chucking skeletal warrior on a quest for vengeance!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

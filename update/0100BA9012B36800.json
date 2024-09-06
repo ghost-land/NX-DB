@@ -1,4 +1,37 @@
 {
     "id": "0100BA9012B36800",
-    "version": 131072
+    "base_tid": "0100BA9012B36000",
+    "name": "Firework",
+    "description": "Follow Yan the Defective One through his fight against the Fire Troops and let him unveil the Facility's mystery.\n\nDive into a modern tale written by David de La Rosa and developed by Ivan Zanotti.\n\nMake your way through the Facility and face platform challenges.\nRepel the fire, extinguishing its flames and soldiers.\nObtain hidden power-ups and special equipment.\n\nThe game finally arrives on Nintendo Switch™ in a revisited version and enriched by the brilliant Co-Op mode, perfect to be played with Joy-Con™ together with a friend.\n",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20200911,
+    "first_update_release_date": 20200914,
+    "latest_update_release_date": 20200919,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200919
+    },
+    "versions": {
+        "65536": 20200914,
+        "131072": 20200919
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Jump, fire, dash in midair and save the Facility from burning in the action platformer FIREWORK!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Coarse Language",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

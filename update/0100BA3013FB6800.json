@@ -1,4 +1,39 @@
 {
     "id": "0100BA3013FB6800",
-    "version": 983040
+    "base_tid": "0100BA3013FB6000",
+    "name": "",
+    "description": "",
+    "publisher": "",
+    "developer": "",
+    "base_release_date": null,
+    "first_update_release_date": 20210519,
+    "latest_update_release_date": 20240823,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20240823
+    },
+    "versions": {
+        "65536": 20210519,
+        "131072": 20220323,
+        "196608": 20220609,
+        "262144": 20220705,
+        "327680": 20220923,
+        "393216": 20221111,
+        "458752": 20230324,
+        "524288": 20231123,
+        "589824": 20231208,
+        "655360": 20240510,
+        "720896": 20240612,
+        "786432": 20240702,
+        "851968": 20240728,
+        "917504": 20240731,
+        "983040": 20240823
+    },
+    "category": [],
+    "intro": "",
+    "isDemo": false,
+    "languages": [],
+    "numberOfPlayers": 0,
+    "ratingContent": [],
+    "region": null
 }
