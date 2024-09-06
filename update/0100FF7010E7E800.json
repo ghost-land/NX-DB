@@ -1,4 +1,31 @@
 {
     "id": "0100FF7010E7E800",
-    "version": 65536
+    "base_tid": "0100FF7010E7E000",
+    "name": "void tRrLM(); //Void Terrarium",
+    "description": "In a world contaminated with toxic fungi, a discarded maintenance robot finds a lone human girl among the discarded junk in a scrapyard. To ensure her survival, the robot and a decommissioned AI known as factoryAI must create a refuge for her within a terrarium.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200710,
+    "first_update_release_date": 20210518,
+    "latest_update_release_date": 20210518,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210518
+    },
+    "versions": {
+        "65536": 20210518
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Save the last remaining human from the dangerous of the toxic world.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild science fiction themes and violence"
+    ],
+    "region": null
 }

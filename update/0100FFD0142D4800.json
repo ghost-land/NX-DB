@@ -1,4 +1,33 @@
 {
     "id": "0100FFD0142D4800",
-    "version": 65536
+    "base_tid": "0100FFD0142D4000",
+    "name": "Blastful",
+    "description": "Blastful is a fast-paced arcade shoot-em-up.\n*Enjoy crazy shooting action in procedurally generated visuals with retro style.\n*Cyberpunk flavoured techno-beats. \n*Blast your way through 10 different types of enemies with 5 different weapons.",
+    "publisher": "Playstige Interactive",
+    "developer": null,
+    "base_release_date": 20210226,
+    "first_update_release_date": 20210313,
+    "latest_update_release_date": 20210313,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210313
+    },
+    "versions": {
+        "65536": 20210313
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Non-Stop-Arcade shoot-em-up",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

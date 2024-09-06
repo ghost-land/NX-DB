@@ -1,4 +1,48 @@
 {
     "id": "0100FF6014BEE800",
-    "version": 393216
+    "base_tid": "0100FF6014BEE000",
+    "name": "UNSIGHTED",
+    "description": "Traverse Arcadia your way. Save your friends. Time is ticking. \n\nAlma is an Automaton that awakens to a world in ruin after the war with the humans. Anima, the resource that gives Automatons sentience, is running out and turning Alma’s friends into mindless killing machines, the UNSIGHTED.\n\nKey Features: \nEXPLORE YOUR WAY - The world of Arcadia is massive and ripe for exploration, with many shortcuts to discover and maps both above and below the surface of the world. When one path seems too tricky, find new uses for familiar weapons and tools.\n\nRICH AND VARIED COMBAT - Build your perfect loadout to suit your playstyle. UNSIGHTED allows players to equip weapons in various ways, from dual-wielding swords to shuriken and shotgun combinations. Alma will need to use perfectly timed combat actions to trigger faster reload speeds or a massively damaging parry to survive in the city.\n\nCRAFT AND UPGRADE - Upgrade Alma through an extensive upgrade tree via chips you’ll find throughout your journey. Chips can be crafted or discovered, and each offers different bonus effects. Experiment with nearly limitless builds from the fast and efficient to the powerful and stylish. \n\nCHOICES MATTER - Alma’s withering life force ticks away in real-time and is the driving factor in the story of UNSIGHTED. Tarry too long in one spot, and you may find that critical NPCs have already become Unsighted before you meet them.  Save or drain other Automatons of their anima for your survival. The constant passage of time can result in vastly different endings and allows for further playthroughs to stay fresh and exciting.\n\nHIGHLY REPLAYABLE + CO-OP - In addition to the main story UNSIGHTED also features additional challenge modes, BOSS RUSH and DUNGEON RAID. You can also bring a friend along your journey through Arcadia through full-featured CO-OP.",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20210909,
+    "latest_update_release_date": 20220126,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20220126
+    },
+    "versions": {
+        "65536": 20210909,
+        "131072": 20210915,
+        "196608": 20211001,
+        "262144": 20211015,
+        "327680": 20211102,
+        "393216": 20220126
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Alma must traverse the vast city of Arcadia before the life force of her friends and herself withers away. Who will you save, and who will you leave to turn UNSIGHTED?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }
