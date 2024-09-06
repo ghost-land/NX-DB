@@ -1,4 +1,36 @@
 {
     "id": "0100A350188F8800",
-    "version": 65536
+    "base_tid": "0100A350188F8000",
+    "name": "OmegaBot",
+    "description": "OmegaBot is a tight action side-scroller with challenging robotic bosses. As the OmegaBot, dodge metallic dangers, acquire powerful weapons and blast your way through a ravaged world full of deadly machines. In OmegaBot, running out of energy means death.\n\nAvoid various traps and deadly obstacles by using your weapons and abilities. Make your way through metallic forests, ruins of futuristic cities and other environments. And step away from the beaten path in order to find hidden secrets and maybe even new friends who will help you vanquish the curse that has stricken the land.\n\nFeatures:\n\n-Varied environments including metallic forests and ruins of a futuristic city\n-Fast-paced but strategic combat\n-Challenging bosses whose weapons and powers can be looted\n-Colorful pixel art graphics",
+    "publisher": "RED ART GAMES",
+    "developer": null,
+    "base_release_date": 20230120,
+    "first_update_release_date": 20230119,
+    "latest_update_release_date": 20230119,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230119
+    },
+    "versions": {
+        "65536": 20230119
+    },
+    "category": [
+        "Platformer",
+        "Action"
+    ],
+    "intro": "As the OmegaBot, dodge metallic dangers, acquire powerful weapons and blast your way through a ravaged world full of deadly machines.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

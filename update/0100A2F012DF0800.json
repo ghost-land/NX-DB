@@ -1,4 +1,44 @@
 {
     "id": "0100A2F012DF0800",
-    "version": 196608
+    "base_tid": "0100A2F012DF0000",
+    "name": "Yum Yum Line",
+    "description": "Fantastic fun for all ages. Match up the same colours to clear lines and make sure that you don’t get stuck. With infinite replayability and the local battle mode, Yum Yum Line gives you the chance to play by yourself or challenge a friend on the same screen.\n\nFeatures:\n• Classic Line gameplay\n• Infinite replayability\n• Split-screen multiplayer mode for a 1-vs-1 challenge\n• Local leaderboard",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20201217,
+    "first_update_release_date": 20201216,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20201216,
+        "131072": 20220331,
+        "196608": 20220720
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "intro": "Match 5 tiles of the same colour, clear lines and make sure you don't get stuck. Can you make it to the top of the leaderboard?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

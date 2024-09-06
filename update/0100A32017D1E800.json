@@ -1,4 +1,37 @@
 {
     "id": "0100A32017D1E800",
-    "version": 65536
+    "base_tid": "0100A32017D1E000",
+    "name": "Vzerthos: The Heir of Thunder",
+    "description": "Player's arsenal includes skills of the Thunder God's heir and three types of guns - use them to slice and dice, burn and blow up your enemies!\n\nHero under the player's control must rescue a kidnapped princess Se'Vera from the evil Baron Vakhzon.\nNot only the guards of Baron attack Vzerthos, but his ally Messenger took his magical powers by order of the Thunder God.\nNow the heir should return his power, to break into Vakhzon castle and rescue the princess!\n(Princess is exactly in this castle!)",
+    "publisher": "DarkDes Labs",
+    "developer": null,
+    "base_release_date": 20220714,
+    "first_update_release_date": 20220830,
+    "latest_update_release_date": 20220830,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220830
+    },
+    "versions": {
+        "65536": 20220830
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "RPG",
+        "Arcade"
+    ],
+    "intro": "Vzerthos is a 2D isometric old-school techno-fantasy styled Top-Down Shooter.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

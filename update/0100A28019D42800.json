@@ -1,4 +1,35 @@
 {
     "id": "0100A28019D42800",
-    "version": 131072
+    "base_tid": "0100A28019D42000",
+    "name": "Battle Kid: Fortress of Peril",
+    "description": "It's not just any kid, it's Battle Kid! \n\nAfter having uncovered a devious plot to build a super-secret Supermech on your island, you head to an ancient high-tech fortress in an effort to prevent this weapon from being completed. \n\nNavigate through the various sectors of the fortress and battle its denizens while avoiding its many dangers in this authentic 8-bit retro gem! \n\nAlong the way, you will uncover items that will allow progress to new locations of the fortress and grant you new abilities. \n\nDo you have what it takes to overcome the perils that lie ahead--or is the island doomed?\n\n- Blast through over 550 action-packed rooms\n- Battle more than 30 enemy types and 8 bosses\n- Dive into authentic retro gameplay \n- Feast your eyes on 8-Bit Legit graphics loyal to the cartridge-gaming era \n- For Fans of Retro and Classic Platforming Shooters\n- 5 difficulty settings along with a password system",
+    "publisher": "8 Bit Legit",
+    "developer": null,
+    "base_release_date": 20230519,
+    "first_update_release_date": 20230505,
+    "latest_update_release_date": 20230609,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230609
+    },
+    "versions": {
+        "65536": 20230505,
+        "131072": 20230609
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Platformer"
+    ],
+    "intro": "Are You Ready to Die?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

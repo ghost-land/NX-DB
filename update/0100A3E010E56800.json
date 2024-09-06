@@ -1,4 +1,49 @@
 {
     "id": "0100A3E010E56800",
-    "version": 917504
+    "base_tid": "0100A3E010E56000",
+    "name": "A-Train: All Aboard! Tourism",
+    "description": "A-Train, the classic urban development simulation game that allows you to create the city of your dreams, is now available on the Nintendo Switch!\n\nBecome the president of your very own railroad company, laying tracks and running your trains as you see fit. However, you will be responsible for more than the railroad. You'll also be tasked with managing subsidiaries, playing the stock market, and participating in urban planning, in order to develop and expand your town.\n\nThis latest installment in the A-Train series introduces the element of tourism to the urban planning formula, and focuses on building up towns into bustling tourism capitals. Providing realistic business management simulations of financing, investing, and more, as well as a wide variety of customizable options for all your vehicles, A-Train: All Aboard! Tourism is packed full of features for you to explore. But don't be overwhelmed—players old and new alike will be able to jump right into the series thanks to the fun and practical tutorials provided in the early stages.\n\nSo why not hop aboard the A-Train with your trusted team of advisors, and start crafting a bright future for your town?",
+    "publisher": "ARTDINK",
+    "developer": null,
+    "base_release_date": 20210312,
+    "first_update_release_date": 20210310,
+    "latest_update_release_date": 20230309,
+    "latest_update": {
+        "version": "917504",
+        "release_date": 20230309
+    },
+    "versions": {
+        "65536": 20210310,
+        "131072": 20210316,
+        "196608": 20210323,
+        "262144": 20210408,
+        "327680": 20210427,
+        "393216": 20210617,
+        "458752": 20210713,
+        "524288": 20220126,
+        "589824": 20220225,
+        "655360": 20221013,
+        "720896": 20221025,
+        "786432": 20221226,
+        "851968": 20230203,
+        "917504": 20230309
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "All aboard! Tourism is a one-way ticket to urban planning!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

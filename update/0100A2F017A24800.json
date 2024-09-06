@@ -1,4 +1,33 @@
 {
     "id": "0100A2F017A24800",
-    "version": 65536
+    "base_tid": "0100A2F017A24000",
+    "name": "Kamiwaza: Way of the Thief",
+    "description": "Join honorable thief Ebizo on the streets of Mikado, and put your thieving skills to the test! Will you walk the path of honor for the sake of family? The choice is yours to make.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20221011,
+    "first_update_release_date": 20220917,
+    "latest_update_release_date": 20220917,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220917
+    },
+    "versions": {
+        "65536": 20220917
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Know Honor Among Thieves",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

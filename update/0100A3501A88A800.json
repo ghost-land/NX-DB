@@ -1,4 +1,38 @@
 {
     "id": "0100A3501A88A800",
-    "version": 131072
+    "base_tid": "0100A3501A88A000",
+    "name": "MOTHERED - A ROLE-PLAYING HORROR GAME",
+    "description": "MOTHERED is a first-person horror adventure game with point-and-click mechanics, set in a familiar yet eerily unnatural depiction of home. Set over the course of seven days, you play the role of LIANA - a young girl who's arrived home to stay with her mother after having undergone major surgery.\n\nUpon arriving at your new home, all you find is a strange mannequin who claims to be your mother. Through speaking with this mannequin, you will discover more about the role you play in this world. Can Liana help mother go back to the things they were, or will you find yourself repeating past mistakes?\n\nFEATURING:\n• A dense, engaging narrative that gradually reveals itself over the course of 7 days, each with a morning, afternoon, evening and night time.\n• An immersive, tense atmosphere that makes use of the uncanny to tell a story that will keep you guessing until the credits roll.\n• The possibility of breaking the cycle and finding your own path?",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230327,
+    "latest_update_release_date": 20231025,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231025
+    },
+    "versions": {
+        "65536": 20230327,
+        "131072": 20231025
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

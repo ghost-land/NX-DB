@@ -1,4 +1,43 @@
 {
     "id": "0100A35011406800",
-    "version": 65536
+    "base_tid": "0100A35011406000",
+    "name": "NecroWorm",
+    "description": "Chew your way through 120 levels of addictive puzzle gameplay, where your only goal is to devour everything but your own wormy self. It's quick, tasty, and hard to resist. Just like a late-night snack.\n\nHow hard can it be to grab a bite? Quite hard, when you're an abominable serpent dwelling in a cemetery. Collect keys, open doors, and plan your every move so you don't paint yourself into a corner. Like it EXTRA SPICY? Hurry up and make it within the time limit—but watch out for the cramps.\n\n*Gurgle-gurgle* Stop your stomach rumbling!\n\nFeatures:\n● Addictive brain-teasing gameplay\n● Dead simple rules\n● Think-fast gameplay\n● 120 exciting levels\n● Spooooky atmosphere",
+    "publisher": "Walkabout Games",
+    "developer": null,
+    "base_release_date": 20200327,
+    "first_update_release_date": 20200423,
+    "latest_update_release_date": 20200423,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200423
+    },
+    "versions": {
+        "65536": 20200423
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "intro": "It's midnight, you're dead, and got a bad case of the munchies.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

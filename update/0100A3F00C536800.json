@@ -1,4 +1,41 @@
 {
     "id": "0100A3F00C536800",
-    "version": 262144
+    "base_tid": "0100A3F00C536000",
+    "name": "KILL la KILL -IF",
+    "description": "2013年人氣動畫「KILL la KILL」以真實對戰動作登場！\n盡情操作原作動畫的人氣角色們吧！！\n除了可遊玩故事模式、Covers挑戰賽之外，還有單人模式也能遊玩！\n\n■原汁原味重現原作動畫！\n以卡通渲染技術描繪的強烈的視覺效果！\n\n■富含靈魂的呈現！！\n就在你手中呈現出TRIGGER兼修的演出、台詞、音樂！\n\n■以簡單的操作展現出華麗的動作！\n無論是誰都可帥氣地遊玩！奔馳在KILL la KILL的世界吧！！",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20190725,
+    "first_update_release_date": 20190723,
+    "latest_update_release_date": 20191219,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20191219
+    },
+    "versions": {
+        "65536": 20190723,
+        "131072": 20190827,
+        "196608": 20191108,
+        "262144": 20191219
+    },
+    "category": [
+        "格鬥",
+        "動作"
+    ],
+    "intro": "讓你的熱血沸騰起來吧！\n澎派的暢快感！這就是《KILL la KILL -IF》對戰動作！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

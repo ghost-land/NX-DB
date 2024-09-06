@@ -1,4 +1,39 @@
 {
     "id": "0100A32010618800",
-    "version": 196608
+    "base_tid": "0100A32010618000",
+    "name": "Silent World",
+    "description": "The world you once knew has been lost to nuclear devastation. Facing this new world alone, you begin your search for other survivors...\n\nMutants roam the demolished city, and you'll have to move silently to avoid them and deadly traps scattered throughout the modern ruins.\n\nAll you have to help you is a single match, which you'll have to use to light your way and find a safe path out of this hostile world.\n\nBlind corners and bloodthirsty mutants... You'll have to conquer the fear within you and move forward one step at a time. Will you ever find your way out of this neverending maze...?\n\nThere could be bonus content after you clear the game!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20200319,
+    "first_update_release_date": 20200311,
+    "latest_update_release_date": 20200401,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200401
+    },
+    "versions": {
+        "65536": 20200311,
+        "131072": 20200319,
+        "196608": 20200401
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "A post nuclear apocalyptic world that has lost light. Survive by escaping from mutants that roam the city!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

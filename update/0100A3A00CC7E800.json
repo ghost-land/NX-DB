@@ -1,4 +1,36 @@
 {
     "id": "0100A3A00CC7E800",
-    "version": 458752
+    "base_tid": "0100A3A00CC7E000",
+    "name": "CLANNAD",
+    "description": "Step inside a heart-warming tale of love, family, and the ties that bind us all together. With gorgeous visuals and a haunting soundtrack, the classic romantic adventure game comes to the Nintendo Switch™!\n\nImmerse yourself in the story and enjoy stunning visuals in full 1080 HD.\nAll music and selected vocals available in Linear PCM 5.1ch surround sound-compatible AV amplifier system. Connect the Nintendo Switch™ to a Linear PCM-compatible speaker system via an HDMI cable for a truly immersive audio experience. (Also compatible with 2-channel sound setups.) \n\nPlay using only the touch screen! Play with one hand!\nPlay in handheld mode with the Joy-Con™ controllers attached, or detach them and play with just the touch controls! While in tabletop mode or TV mode, everything can be controlled by one Joy-Con, allowing you to play with only one hand!\n\nText available in Japanese or English!\nText can be set to either Japanese or English (audio is Japanese only). This includes in-game text, options, and the digital manual. Language settings can be changed at any time.\nWhen set to English, explanations of different aspects of Japanese culture will appear in the \"Dangopedia.\"\nSkip forward or rewind the text to experience the story at your own pace.\n",
+    "publisher": "PROTOTYPE",
+    "developer": null,
+    "base_release_date": 20190704,
+    "first_update_release_date": 20190701,
+    "latest_update_release_date": 20200225,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200225
+    },
+    "versions": {
+        "65536": 20190701,
+        "196608": 20190725,
+        "327680": 20200106,
+        "393216": 20200109,
+        "458752": 20200225
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Spring. Ordinary school life develops into a complex story of fascinating characters and the town where they live.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
+    "region": null
 }

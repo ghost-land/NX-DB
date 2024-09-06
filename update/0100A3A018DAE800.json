@@ -1,4 +1,44 @@
 {
     "id": "0100A3A018DAE800",
-    "version": 65536
+    "base_tid": "0100A3A018DAE000",
+    "name": "HunterX: code name T",
+    "description": "The Night of the Purple Moon has returned.\nFacing the moonlight, the devil hunter Taiyo recalls a lost memory.\nTo hunt devils... and to find himself... he embarks on a fateful adventure through a crack in the world.\n\nForge your own path and explore an ever-greater world that straddles the past and future!\nExciting stories of your comrades, bewildering riddles, and terrifying devils await you.\n\nCollect a variety of weapons and shape your own action style!\nExperience more sophisticated and stylish combat with weapon-specific actions, dodges, guards, parries, and counterattacks.\n\nDefeat unique devils and bosses!\nCollect over 190 different items to identify enemy weaknesses and attack strategically.",
+    "publisher": "ORANGE POPCORN",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20240129,
+    "latest_update_release_date": 20240129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240129
+    },
+    "versions": {
+        "65536": 20240129
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "HunterX: code name T is an action adventure with fast and stylish combat.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

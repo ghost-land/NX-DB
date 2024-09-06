@@ -1,4 +1,48 @@
 {
     "id": "0100A3E00CDD4800",
-    "version": 262144
+    "base_tid": "0100A3E00CDD4000",
+    "name": "Alien Hominid Invasion",
+    "description": "Alien Hominid is back! Blast, beam, and bite your way through an endless swarm of enemies as you and up to three of your fellow hominids cause mayhem with a huge arsenal of weapons, mutations, and acrobatic maneuvers.\n\nKey features:\n\nCouch or online co-op: get a group of (up to) four players together for the most chaotic invasion possible!\n\nMaster alien movement: learn how to flip, dive, dig, fly, toss your enemies, and more to gain an edge over enemy agents.\n\nLevel up and mutate your alien: utilize mechanics like head chomping, super speed, healing, and flight!\n\nDetermine your own gameplay path: choose which area to invade next in a non-linear level experience.\n\nInvade randomly-assembled neighborhoods: take down the enemy in areas built from hundreds of hand-drawn city blocks!\n\nCustomize your alien: choose your hominid’s head, boosts, and pigment to your liking.\n\nPlay across skill gaps: each player chooses their own difficulty by choosing Friendly, Normal, or INSANE!\n",
+    "publisher": "The Behemoth",
+    "developer": null,
+    "base_release_date": 20231101,
+    "first_update_release_date": 20231101,
+    "latest_update_release_date": 20240618,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240618
+    },
+    "versions": {
+        "131072": 20231101,
+        "196608": 20231212,
+        "262144": 20240618
+    },
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Old friends and bitter enemies await as you invade Earth alongside a Mothership full of alien friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

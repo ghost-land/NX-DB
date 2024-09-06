@@ -1,4 +1,36 @@
 {
     "id": "0100A300147D0800",
-    "version": 65536
+    "base_tid": "0100A300147D0000",
+    "name": "Negative Nancy",
+    "description": "You are Nancy, a retail clerk who can only say “no!”. You work a terrible job at Megamart with your best friend, but most of the time that’s the least of your problems. Annoying StreamTubers, delusional bosses, and angry customers... if they want to take you on they'll have to get in line!\n\nPlay as Nancy in a short game with four unique, branching stories. Help Nancy express herself by navigating tense and delicate situations.",
+    "publisher": "Effort Star",
+    "developer": null,
+    "base_release_date": 20211023,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Adventure",
+        "Communication",
+        "Other",
+        "Simulation"
+    ],
+    "intro": "A choose your “no” adventure for people who have had enough. An interactive sitcom where you can only say “no” (or nothing at all). Your choices control the story.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

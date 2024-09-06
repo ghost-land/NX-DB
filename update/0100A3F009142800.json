@@ -1,4 +1,34 @@
 {
     "id": "0100A3F009142800",
-    "version": 196608
+    "base_tid": "0100A3F009142000",
+    "name": "Little Dragons Café",
+    "description": "Little Dragons Café opens with a twin brother and\nsister learning to cook and manage a small café\nwith their mother. All was routine until one\nmorning when the twins discover that their mother\nwon’t wake up. Suddenly, a strange old man appears\nand tells them that they must raise a dragon to\nsave her. Working with three quirky café\nemployees, the twins must wrangle a dragon and run\nthe family business while finding a way to save\ntheir mother. ",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20180824,
+    "first_update_release_date": 20180816,
+    "latest_update_release_date": 20181018,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181018
+    },
+    "versions": {
+        "131072": 20180816,
+        "196608": 20181018
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

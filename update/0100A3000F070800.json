@@ -1,4 +1,34 @@
 {
     "id": "0100A3000F070800",
-    "version": 196608
+    "base_tid": "0100A3000F070000",
+    "name": "Electronic Super Joy",
+    "description": "Critically acclaimed, adored for its style and praised for its spot-on platforming, the original Electronic Super Joy is legendary. \n\nElectronic Super Joy is a platformer set in a world of pulse-pounding electronic music. Run, jump, smash and fly your way through weird and wonderful levels, with low-gravity, world rotation, giant monsters and swarming missiles.\n\nFeatures:\n\n• EnV's pulse-pounding, brain-exploding sound track!\n• Micro-Hell DLC expansion included!\n• Hot Sticky Mess bonus content included!\n• HUGE Boss fights!\n• Over 80 levels in total Ooh la la!",
+    "publisher": "Hard Copy Games",
+    "developer": null,
+    "base_release_date": 20191129,
+    "first_update_release_date": 20200125,
+    "latest_update_release_date": 20200125,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200125
+    },
+    "versions": {
+        "196608": 20200125
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Visually stunning, hilarious, and infinitely challenging platformer with pulse-pounding electronic music!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language"
+    ],
+    "region": null
 }
