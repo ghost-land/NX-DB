@@ -1,4 +1,37 @@
 {
     "id": "0100F9400982A800",
-    "version": 65536
+    "base_tid": "0100F9400982A000",
+    "name": "Arcade Archives MAGMAX",
+    "description": "\"MAGMAX\" is a shooting game released by Nichibutsu in 1985.\nThe player can power up by combining with the parts falling on the stage in order to defeat the Strange Mechanism Babylon.\nWith 4 different stages, aboveground and underground stages not only vary in their appearance, but offer different ways to attack!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200507,
+    "first_update_release_date": 20200602,
+    "latest_update_release_date": 20200602,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200602
+    },
+    "versions": {
+        "65536": 20200602
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Rise up against the Raging Giant Machine Babylon. Our hero, MAGMAX!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

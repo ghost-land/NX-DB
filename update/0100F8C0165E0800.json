@@ -1,4 +1,33 @@
 {
     "id": "0100F8C0165E0800",
-    "version": 65536
+    "base_tid": "0100F8C0165E0000",
+    "name": "Pure Crosswords - the best Crossword Puzzle Word Game ever!",
+    "description": "Enjoy 2,250 puzzles across 3 difficulty levels, and written in classic British English. The clues are shown right in the puzzle grid, making crossword puzzles easy to view and play.\n \nFeatures:\n- Smooth zoomable puzzle grid\n- Intelligent word & letter navigation\n- Help features: Solve letter; Solve word; Mark errors\n- Supports English & German\n- 3-way style selector for clue & answer fields\n- Progress through 9 possible ranks\n- Detailed statistics remembered for each puzzle\n \nPlease Note: \nOur puzzles are created by British puzzle editors especially with players from Commonwealth countries in mind. Of course, North American players are welcome to join the fun!\n",
+    "publisher": "the binary family",
+    "developer": null,
+    "base_release_date": 20220803,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220805
+    },
+    "category": [
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "From the world leaders in mobile crosswords: Beautifully designed for TV, handheld & even portrait mode!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

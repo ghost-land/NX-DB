@@ -1,4 +1,35 @@
 {
     "id": "0100F8201F962800",
-    "version": 65536
+    "base_tid": "0100F8201F962000",
+    "name": "Photographic Memory Test",
+    "description": "A game that exercises memory and observation skills.\n\nIt is easy to play!\n・Memorize every detail of the picture within a time limit of 1 minute.\n・Answer the question \"\"? Answer the questions from among 4 choices about what was hidden by \"\"?\n\nPlay alone or with family and friends.\nEnjoy the game with family and friends.\nIt is also recommended for live-playing by distributors.\n\nIf you can answer all the questions correctly\nthe title of \"\"King of Memory\"\" will be awarded!",
+    "publisher": "MASK",
+    "developer": null,
+    "base_release_date": 20240718,
+    "first_update_release_date": 20240719,
+    "latest_update_release_date": 20240719,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240719
+    },
+    "versions": {
+        "65536": 20240719
+    },
+    "category": [
+        "Study",
+        "Education",
+        "Training",
+        "Party"
+    ],
+    "intro": "Memorize a photo in 1 minute and answer the quiz!\nYour memory will be tested with a very difficult quiz.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

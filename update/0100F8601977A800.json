@@ -1,4 +1,45 @@
 {
     "id": "0100F8601977A800",
-    "version": 196608
+    "base_tid": "0100F8601977A000",
+    "name": "Army of Ruin",
+    "description": "Army of Ruin is an auto-shooter in which you guide legendary heroes on a quest to defeat the Armies of Evil.\n\nCountless Foes\n\nGet hold of a deadly arsenal capable of slaying hundreds of enemies in seconds, and you may have a shot at defeating the fearsome Army Generals!\n\nPower in your own hands\n\nUse the unique skills of each hero to turn the tides when they least expect it. Enhance your trinkets and equipment and find powerful combinations that will evolve your weapons beyond their limits!\n\nUpgrade your arsenal\n\nLevel up your skills between missions and test new combinations as you keep earning rewards, unlock new equipment to become even more powerful and face the hardest quests. Hundreds of challenges await you!\n\nQuick and thrilling experience\n\nArmy of Ruin has been designed to offer a quick and thrilling game experience, while also focusing on simplicity and fun. Get ready to enjoy the game for hours!",
+    "publisher": "Milkstone Studios",
+    "developer": null,
+    "base_release_date": 20230623,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240112,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240112
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20230719,
+        "196608": 20240112
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Army of Ruin is an auto-shooter where you become the Bullet Hell.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

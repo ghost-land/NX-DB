@@ -1,4 +1,30 @@
 {
     "id": "0100F9100B04A800",
-    "version": 131072
+    "base_tid": "0100F9100B04A000",
+    "name": "CLOSED NIGHTMARE",
+    "description": "墜入（沉睡於）絕望的深淵吧……\n\n玩家將扮演失去記憶的女性“上代真莉亞”，在一個封閉的空間中醒來。\n雖然試著尋找逃往外部的方法，但是這個空間裡卻有許多的房間，\n裡面都各自設置了詭異且殘酷的機關謎題，想要逃脫的人必須一一挑戰……",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180719,
+    "first_update_release_date": 20180718,
+    "latest_update_release_date": 20180719,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180719
+    },
+    "versions": {
+        "65536": 20180718,
+        "131072": 20180719
+    },
+    "category": [
+        "冒險"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

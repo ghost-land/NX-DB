@@ -1,4 +1,35 @@
 {
     "id": "0100F8E018194800",
-    "version": 65536
+    "base_tid": "0100F8E018194000",
+    "name": "Derby Racing: Xtreme Driver",
+    "description": "Forget about the asphalt of the metropolis and the shiny city cars — here you will find only primitive rage and real demolition derby! To win this infernal mess, you need a powerful extreme car, an engine instead of a heart and high-octane gasoline instead of blood!\n\nDefeat enemies and bosses and discover new cars and destroy everything and everything in its path!\n\n▪ A bunch of different amazing derby arenas;\n▪ Large selection of cars — there is even a monster truck!\n▪ Deadly dynamics and atmosphere of survival races!\n▪ Rhythmic music will make you crush your opponents!",
+    "publisher": "Megame",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220517,
+    "latest_update_release_date": 20220517,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220517
+    },
+    "versions": {
+        "65536": 20220517
+    },
+    "category": [
+        "Racing",
+        "Action",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": "Feel the action of real derby in the survival race!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

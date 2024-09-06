@@ -1,4 +1,41 @@
 {
     "id": "0100F8F014190800",
-    "version": 65536
+    "base_tid": "0100F8F014190000",
+    "name": "Darksiders III",
+    "description": "Return to an apocalyptic Earth in Darksiders III, a hack-n-slash Action Adventure where players assume the role of FURY in her quest to hunt down and dispose of the Seven Deadly Sins.  The most unpredictable and enigmatic of the Four Horsemen, FURY must succeed where many have failed – to bring balance to the forces that now ravage Earth. \n\nIncludes Darksiders III and 2 DLCs: Keepers of the Void and The Crucible.\n\nThe Crucible.\nIn this mighty morsel of digital wonderment, competitors can expect to receive a truly earth-shattering experience: The Crucible! \nA legendary challenge whispered with reverence across the universe. Not even the Creator could have envisioned such glorious spectacle as that which is found in this fabled arena.\n\nKeepers of the Void\nOn a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there.  All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the biggest prize of them all: The Abyssal Armor.",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20210926,
+    "latest_update_release_date": 20210926,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210926
+    },
+    "versions": {
+        "65536": 20210926
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong fantasy violence"
+    ],
+    "region": null
 }

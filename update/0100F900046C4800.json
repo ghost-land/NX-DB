@@ -1,4 +1,41 @@
 {
     "id": "0100F900046C4800",
-    "version": 65536
+    "base_tid": "0100F900046C4000",
+    "name": "Mercenary Kings: Reloaded Edition",
+    "description": "In this frantic 2D action game, you are part of the Mercenary Kings, the most skilled team of warriors-for-hire on Earth, but when your comrades have fallen and the fearsome forces of CLAW have seized an island-wide top secret Laboratory Base, you must do what it takes to stop them.\n\nBut you're not going in unprepared! Your back-up is made of a crew of rogue geniuses and experts of their field! Able to craft & customize guns'n'blades or upgrading body armor, you've never been this ready to join the fight.\n \nWhether its solo or with friends, move out, cut down CLAW and save the world!",
+    "publisher": "Tribute Games",
+    "developer": null,
+    "base_release_date": 20240314,
+    "first_update_release_date": 20181004,
+    "latest_update_release_date": 20181004,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181004
+    },
+    "versions": {
+        "65536": 20181004
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": "Craft your arsenal to avenge your fallen comrades and save the world from the fearsome forces of CLAW!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood and Gore",
+        "Comic Mischief",
+        "Mild Suggestive Themes",
+        "Use of Tobacco",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100F91018628800",
-    "version": 131072
+    "base_tid": "0100F91018628000",
+    "name": "TY the Tasmanian Tiger™ 4: Bush Rescue Returns™",
+    "description": "The hero loved by millions worldwide, TY the Tasmanian Tiger™, is back! Join TY on an exciting new adventure in the great Aussie Outback. Use your wits and boomerangs to find hidden treasures, help the colorful locals, and uncover the mysteries of the land Down Under.\n\nFeatures:\n* 40 levels of adventures in the Australian Outback at a silky smooth 60FPS.\n* Defeat enemies by freezing, zapping, and more with heaps of choice new boomerangs.\n* Now with English voice-overs featuring an all-star cast you'll recognize as TY's old mates!\n* Challenge yourself with multiple game modes: Adventure, Time Attack, Turkey Chase, and Danger Arena.\n* Cosplay as TY's friends in style with a metric ton of costumes.\n* And of course, improved graphics, music, and remastered extended cutscenes.",
+    "publisher": "Krome Studios",
+    "developer": null,
+    "base_release_date": 20230926,
+    "first_update_release_date": 20230920,
+    "latest_update_release_date": 20231022,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231022
+    },
+    "versions": {
+        "65536": 20230920,
+        "131072": 20231022
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Explore a ripper new side of TY the Tasmanian Tiger with this fair dinkum, comic-style side scrolling adventure!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

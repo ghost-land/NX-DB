@@ -1,4 +1,35 @@
 {
     "id": "0100F8501AB1E800",
-    "version": 65536
+    "base_tid": "0100F8501AB1E000",
+    "name": "ghostpia Season One",
+    "description": "They say this is an ideal town, a true utopia for ghosts…but is it really? Can you really call this place a utopia? More than anything Sayoko longs to return home, but that may prove harder than it seems. With forgotten memories to recover and a mysterious girl to investigate Sayoko has her hands full.\n\nGhostpia is a kinetic, visual novel with colourful visuals that look like a picture book. Adorned with glitches and noise, ghostpia is inspired by a deep sense of longing and nostalgia. Follow Sayoko’s captivating story as she searches for answers in this isolated town, surrounded by a vast desert of snow and unable to fit in with the ghostly atmosphere.\n\nEnjoy a rich cinematic experience with a beautiful melancholic soundtrack and unique sound effects, to fully immerse yourself in the moving, sometimes sombre, sometimes exciting, narrative that ghostpia is trying to tell.",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20230523,
+    "first_update_release_date": 20240221,
+    "latest_update_release_date": 20240221,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240221
+    },
+    "versions": {
+        "65536": 20240221
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "A colourful, picture book style visual novel, set in a town full of ghosts.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Drug Reference",
+        "Violence"
+    ],
+    "region": null
 }

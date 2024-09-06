@@ -1,4 +1,34 @@
 {
     "id": "0100F93012A36800",
-    "version": 65536
+    "base_tid": "0100F93012A36000",
+    "name": "Tinker Racers",
+    "description": "You want to be leading the race to be the camera target. Especially because everyone that leaves the camera dies!\n\nRace with mini RC cars on tracks that your parents never allowed you to set at home.\n\nCoop Campaign\nBeat frenetic angry bots to unlock new tracks. Continue the good work and you may be allowed to mess up with other rooms;\nDamage your car as minimum as possible to increase your score. Remember how careful you were with your toys (errhh… you were, right?);\nTeam up to get even higher scores playing it multiplayer. Be it your parents, siblings or friends, join forces with them to prove that you have the best teamwork out there!\n\nFree For All\nDon't care about scores, but love to compete and troll your friends? Race Free For All matches against your mates in a truly sociable way!\n\nSingle Race\nFor the more traditional racers, play Single Race mode with up to 4 local players in split-screen.",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230309,
+    "first_update_release_date": 20210824,
+    "latest_update_release_date": 20210824,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210824
+    },
+    "versions": {
+        "65536": 20210824
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Party",
+        "Adventure"
+    ],
+    "intro": "Tinker Racers is not about reaching the finishing line at all. In this Survival Racing Party Game, the challenge is to stay in sight on chaotic miniature tracks.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

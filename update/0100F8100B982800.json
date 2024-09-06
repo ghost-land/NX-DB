@@ -1,4 +1,42 @@
 {
     "id": "0100F8100B982800",
-    "version": 393216
+    "base_tid": "0100F8100B982000",
+    "name": "Monster Energy Supercross - The Official Videogame 2",
+    "description": "The official Monster Energy AMA Supercross Championship game is back!\nLive like a champion with the updated career mode and set weekly activities in your agenda: new challenges, sponsors and incredible prizes all await you!\nTrain in the Compound. Ride freely or put your custom rider's skills to the test, competing against rivals on four different tracks. Learn to control your bike when leaning, starting, braking, cornering and scrubbing. \nCompete against more than 80 official 2018 championship 250SX and 450SX riders, including Jason Anderson, Marvin Musquin and the superstar, Eli Tomac! \nCustomize your bike and rider with more than 3000 objects and show everyone what you're made of!\nCreate new tracks and share your creations thanks to an upgraded track editor. New features and simplified accessibility will help you design and share your custom tracks online!",
+    "publisher": "Milestone",
+    "developer": null,
+    "base_release_date": 20220318,
+    "first_update_release_date": 20190206,
+    "latest_update_release_date": 20190704,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20190704
+    },
+    "versions": {
+        "131072": 20190206,
+        "196608": 20190320,
+        "262144": 20190417,
+        "327680": 20190520,
+        "393216": 20190704
+    },
+    "category": [
+        "Racing",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Lyrics",
+        "Users Interact"
+    ],
+    "region": null
 }

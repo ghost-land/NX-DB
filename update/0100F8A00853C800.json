@@ -1,4 +1,40 @@
 {
     "id": "0100F8A00853C800",
-    "version": 524288
+    "base_tid": "0100F8A00853C000",
+    "name": "Wandersong",
+    "description": "A musical adventure where you use singing to save the world! Play as a silly bard who embarks on a globe-trotting journey to learn about the mysterious Earthsong, said to prevent the universe’s imminent end. It's up to you to sing your songs, unlock the world's secrets and make new friends!",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220721,
+    "first_update_release_date": 20180921,
+    "latest_update_release_date": 20191028,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20191028
+    },
+    "versions": {
+        "65536": 20180921,
+        "131072": 20180927,
+        "196608": 20181010,
+        "262144": 20181212,
+        "327680": 20181205,
+        "393216": 20181217,
+        "458752": 20191001,
+        "524288": 20191028
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Music"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }
