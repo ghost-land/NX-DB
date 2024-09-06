@@ -1,4 +1,35 @@
 {
     "id": "01000F6014D62800",
-    "version": 327680
+    "base_tid": "01000F6014D62000",
+    "name": "Klondike Solitaire Collection",
+    "description": "Do you love Klondike (also known as \"Classic Solitaire\" or \"Patience\"), but want a bigger challenge?\nNow you can play Klondike and other popular variants with different levels of difficulty.\n\nThe collection contains:\n• Agnes Bernauer\n• Batsford\n• Blind Alleys\n• Giant\n• King Albert\n• Klondike\n• New York\n• Pas Seul\n• Thumb and Pouch\n• Westcliff\n\nPlus 10 more...\n\n\nFeatures:\n• Unlimited undo\n• Auto complete\n• Statistics\n• Rules for each game",
+    "publisher": "eSolutions Nordic",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20211112,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20211112,
+        "131072": 20211214,
+        "196608": 20220124,
+        "262144": 20220311,
+        "327680": 20220923
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "20 popular Klondike games in one",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

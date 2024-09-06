@@ -1,4 +1,36 @@
 {
     "id": "01000FD00DF78800",
-    "version": 131072
+    "base_tid": "01000FD00DF78000",
+    "name": "AnShi",
+    "description": "Grab your hoverboard and explore the ancient, mysterious world of AnShi as you glide across caves, large deserts and old temple ruins to discover its secrets.\nWith the company of an energy being you explore this vast world together. Discover what happened to the planet and its being. Featuring stunning visuals and\nan original soundtrack, AnShi delivers a relaxing, unique, breathtaking experience.",
+    "publisher": "Lion Castle",
+    "developer": null,
+    "base_release_date": 20220118,
+    "first_update_release_date": 20210225,
+    "latest_update_release_date": 20210305,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210305
+    },
+    "versions": {
+        "65536": 20210225,
+        "131072": 20210305
+    },
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Explore a mysterious world and find out what happened to it and all its citizens",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

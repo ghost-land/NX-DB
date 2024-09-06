@@ -1,4 +1,43 @@
 {
     "id": "01000FC019058800",
-    "version": 65536
+    "base_tid": "01000FC019058000",
+    "name": "BACKGAMMON PRO for Nintendo Switch",
+    "description": "<Features>\n\n● Fast-paced Gameplay\nPrecise and speedy movement and controls.\n\n● Genuine Backgammon Rules\nThis software follows the official rules of Backgammon.\n\n● Streaming Capabilities\nContains cursor display features for clear online streams.\n\n● Fast but Clever\nA strong but quick-thinking AI utilizing machine learning technology.\n\nEnjoyable for all levels from beginner to professional!\n\n<Game Modes>\n\n● Offline Match\nCPU match. Offline match with one Nintendo Switch™. You can set optional rules freely.\n\n● Online Match\n・ Free match (rating is not affected)\n・ Rating match (rating is affected based on performance)\n・ Password match (rating is not affected)\n* Online matches are automatically matched. You can select a 1P match with a 5P cube.\n\n● Tutorial\nAn illustrated tutorial that explains the basic rules. You can also check during gameplay.\n\n● Game Record Analysis\nUse AI to analyze gameplay.\n\n● Clock & Score Board\nA clock and scoreboard that can be used when playing real-life Backgammon.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230927,
+    "latest_update_release_date": 20230927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230927
+    },
+    "versions": {
+        "65536": 20230927
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Study",
+        "Other"
+    ],
+    "intro": "Utilizing AI machine learning and game record analysis, this is as authentic as Backgammon gets!\nIt even supports online multiplayer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

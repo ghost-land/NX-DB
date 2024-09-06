@@ -1,4 +1,37 @@
 {
     "id": "01000F600B01E800",
-    "version": 65536
+    "base_tid": "01000F600B01E000",
+    "name": "ATV Drift & Tricks",
+    "description": "Tired of 2-wheeled vehicles? ATV Drift & Tricks is the ATV game for you! A quads-only racing game:\n\nDo a series of races in 5 game modes with extraordinary challenges on varied tracks you can do over and over again: \nDeserts, Forests, Mountains, Lakes, Rivers, Oases … Settings that that will fill your eyes! No doubt, you'll really see it all!\n\nCrazy stunts & drifts to the max: \nJump high into the air each time you do a stunt that will drive your opponents crazy! Come back down to the ground and rack up the drifts. Your tires will pay the price, and so will your opponents!",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20181122,
+    "first_update_release_date": 20181210,
+    "latest_update_release_date": 20181210,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181210
+    },
+    "versions": {
+        "65536": 20181210
+    },
+    "category": [
+        "Racing",
+        "Arcade"
+    ],
+    "intro": "DRIFT, TRICKS & FUN!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

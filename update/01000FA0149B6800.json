@@ -1,4 +1,41 @@
 {
     "id": "01000FA0149B6800",
-    "version": 65536
+    "base_tid": "01000FA0149B6000",
+    "name": "EQI",
+    "description": "You find yourself in a digital world that twists and changes around you, challenging your senses, focus, and reflexes. Interface with the great mystery and transcend.\n\n- Explore and solve over 20 stages, increasing in size and difficulty.\n- Control your own movement and shift the world around you.\n- Solve puzzles, see through illusions, and master challenging obstacle courses.\n- Immerse yourself in the electronic pulse of the game's OST.\n",
+    "publisher": "Hyperstrange",
+    "developer": null,
+    "base_release_date": 20210423,
+    "first_update_release_date": 20210517,
+    "latest_update_release_date": 20210517,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210517
+    },
+    "versions": {
+        "65536": 20210517
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "intro": "EQI is a trippy first-person arcade game with spatial puzzles and a synthwave soul.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

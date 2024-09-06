@@ -1,4 +1,36 @@
 {
     "id": "01000F101ED60800",
-    "version": 196608
+    "base_tid": "01000F101ED60000",
+    "name": "The Legend of Dark Witch Episode 2",
+    "description": "The Legend of Dark Witch 2 retains its simple controls and enough challenges to satisfy the completist.\n\nCreated by indie games company INSIDE SYSTEM in 2014, The Legend of Dark Witch 2 is a 2D action story sequel to \"The Legend of Dark Witch\". True to its predecessor, Legend of the Dark Witch 2 retains its simple controls and enough challenges to satisfy the completist.\n\nPlayers have 8 stages to choose from and must use SHOTs to make their way through a variety of obstacles to reach the boss enemy. Within each stage there are hidden \"Pura Syega\" which are helpful to power up player characters.\n\nNew Features\n\n-Increased number of stages to choose from\n-Allows finer customization for player stats using \"Tres\"\n-\"Technical skills\" can be customized not only to increase power, but add abilities as well\n-New \"Forbidden\" items added for a wider variety of game play",
+    "publisher": "INSIDE SYSTEM",
+    "developer": null,
+    "base_release_date": 20240805,
+    "first_update_release_date": 20240805,
+    "latest_update_release_date": 20240823,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240823
+    },
+    "versions": {
+        "65536": 20240805,
+        "131072": 20240815,
+        "196608": 20240823
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Created by indie games company INSIDE SYSTEM in 2014, The Legend of Dark Witch 2 is a 2D action story sequel to \"The Legend of Dark Witch\".",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

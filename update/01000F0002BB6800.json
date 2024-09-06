@@ -1,4 +1,56 @@
 {
     "id": "01000F0002BB6800",
-    "version": 1048576
+    "base_tid": "01000F0002BB6000",
+    "name": "Wargroove",
+    "description": "Take to the battlefield with Wargroove, a turn-based strategy game for up to 4 players! Choose your Commander and wage war on battling factions, using your ‘groove’ to strategically sway the fight in your favour! \n\nFeatures:\n• Choose your Commander - a vibrant cast of 12+ characters, each with their own distinct personalities and motivations. \n\n• Challenge your friends online - Send your units to victory in both local and online multiplayer skirmish battles, with competitive and co-op play, as well as complete rule customisation.\n\n• Create your own adventure - Design and share online your own complex series of battlefields, with branching story paths using easy to master in-game map and campaign editors.\n\n• Save the Kingdom - Follow the story of a fresh-faced and inexperienced young Queen on a quest against unworldly forces in Campaign mode, told through animated pixel art cut-scenes and dynamic battles.\n\n• Quick-fire clashes - Learn more about each character you encounter through a trial of boisterous bouts in Arcade mode, fighting 5 different opponents in quick succession.\n\n• Solve perplexing puzzles - Outwit the enemy in Puzzle mode, using your strategic skills to complete tricky challenges in just ONE turn.\n\n• Secrets to discover... - Seek out hidden in-game content and unlockables - old school style!",
+    "publisher": "Chucklefish",
+    "developer": null,
+    "base_release_date": 20190502,
+    "first_update_release_date": 20190123,
+    "latest_update_release_date": 20240617,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20240617
+    },
+    "versions": {
+        "65536": 20190123,
+        "131072": 20190124,
+        "196608": 20190204,
+        "262144": 20190306,
+        "327680": 20190327,
+        "393216": 20190423,
+        "458752": 20190801,
+        "524288": 20191104,
+        "655360": 20200206,
+        "720896": 20200211,
+        "786432": 20200214,
+        "851968": 20200511,
+        "917504": 20200804,
+        "1048576": 20240617
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "A modern return to retro turn-based tactics!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

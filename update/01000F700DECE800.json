@@ -1,4 +1,47 @@
 {
     "id": "01000F700DECE800",
-    "version": 65536
+    "base_tid": "01000F700DECE000",
+    "name": "Into the Dead 2",
+    "description": "Journey through the zombie apocalypse in a race to save your family. Arm yourself with an arsenal of powerful weapons and do whatever it takes to survive. Maim, mow down, and massacre the Dead – anything to keep moving! In a world where no one is safe, how far will you go to make it out alive?\n\nFeatures:\n• 60 story levels spread across 7 chapters—each containing special challenges to complete\n• 3 different endings to discover\n• 8 loyal animal companions—from lovable dogs to ferocious tigers, these companions aide you in battle, level up, and come with special abilities\n• 25 unique weapons across 8 classes—each with up to 7 different boosts to equip\n• Side Stories—36 additional levels expand the story with unique environments, weapons, and companions\n• Arcade Mode Missions—defeat the undead with each weapon and aim for high scores to unlock the next challenge\n• The all-new sawblade launcher weapon and bear companion give you the maiming power to keep you moving\n• HD Rumble, Joy-Con controller, and Pro Controller support",
+    "publisher": "Versus Evil",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20191001,
+    "latest_update_release_date": 20191001,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191001
+    },
+    "versions": {
+        "65536": 20191001
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Other"
+    ],
+    "intro": "How far will you go to survive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

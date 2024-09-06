@@ -1,4 +1,40 @@
 {
     "id": "01000FA010340800",
-    "version": 131072
+    "base_tid": "01000FA010340000",
+    "name": "Melbits World",
+    "description": "The cooperative puzzle-platformer game that will equally charm and challenge your friends and family. Communication and coordination are the key to success in the Melbits™ mission!\n\nDiscover these collectable digital creatures and guide them through fiendish levels full of traps. Dodge evil viruses, gather seeds and spread the good vibes across the Internet.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20191220,
+    "first_update_release_date": 20200123,
+    "latest_update_release_date": 20200227,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200227
+    },
+    "versions": {
+        "65536": 20200123,
+        "131072": 20200227
+    },
+    "category": [
+        "Arcade",
+        "Multiplayer",
+        "Puzzle",
+        "Party"
+    ],
+    "intro": "THE CUTEST CHALLENGE",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

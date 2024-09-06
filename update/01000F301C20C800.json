@@ -1,4 +1,34 @@
 {
     "id": "01000F301C20C800",
-    "version": 65536
+    "base_tid": "01000F301C20C000",
+    "name": "MetaDude",
+    "description": "Welcome to the new reality!\n\nThis visual novel dares to fantasize about this topic in an attempt to predict one of the likely developments in the near future.\n\nWe are approaching the threshold of a new era of technological development, but only God knows where the abundance of new technologies and ways of interacting with the real and virtual worlds will lead humanity.\n\nOur hero Meta-Dude explores the rapidly growing digital world through the prism of irony over the modern consumer society. He's armed with sarcasm, a deciphering blaster, and references to classic comics. And may the St. Admin help those who stand in his way...\n\nFeatures:\n- 6 bright episodes\n- cover recovery mini-games",
+    "publisher": "DillyFrame",
+    "developer": null,
+    "base_release_date": 20230720,
+    "first_update_release_date": 20240424,
+    "latest_update_release_date": 20240424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240424
+    },
+    "versions": {
+        "65536": 20240424
+    },
+    "category": [
+        "Other",
+        "Puzzle"
+    ],
+    "intro": "Please connect, my user!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

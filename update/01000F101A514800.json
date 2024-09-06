@@ -1,4 +1,36 @@
 {
     "id": "01000F101A514800",
-    "version": 131072
+    "base_tid": "01000F101A514000",
+    "name": "Arcade Tycoon",
+    "description": "Build stunning Arcade centres, purchase a range of arcade machines and manage troublesome staff in this colourful and humorous simulation management game. \n12 level campaign.\nSandbox mode with full lockable mode and customisation.\nOver 400 different Arcade Machines, VR, Hockey Tables, Modern Machines, Consoles, Rides, Objects, Decorations to place and more!\nIn-depth Staff Upgrades!\nGift shop and guest facilities.\nThemed Areas Wild West, Future Zone, Pirates and Spocky Halloween decorations.\n",
+    "publisher": "VincentCorporation",
+    "developer": null,
+    "base_release_date": 20240125,
+    "first_update_release_date": 20240109,
+    "latest_update_release_date": 20240305,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240305
+    },
+    "versions": {
+        "65536": 20240109,
+        "131072": 20240305
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "It's Time To Build and Manage your Dream Arcade",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor"
+    ],
+    "region": null
 }

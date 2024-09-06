@@ -1,4 +1,40 @@
 {
     "id": "01000F300F082800",
-    "version": 65536
+    "base_tid": "01000F300F082000",
+    "name": "Reaper",
+    "description": "Become the Black Swordsman and slay thousands of enemies in an epic action RPG! \n\nWar broke between the industrious Imperium and the savage tribes of Wilderness. Demons and carrions have returned to the land. \n\nPlay all sides and make your own decisions. Take countless quests and uncover the secrets of Wilderness!\n\nLevel up your character with skills of your choice. Select from more than 30 unique & tiered skills to improve your character. \n\nLoot gold from slain enemies, find treasures and negotiate quest rewards. Choose from hundreds of exquisite armors, swords and accessories.\n\n★ Take countless quests and uncover the secrets of Wilderness\n★ Level up your character with skills of your choice\n★ Hundreds of swords, armor and accessories to equip\n★ Play all sides and make your own decisions\n",
+    "publisher": "Hexage",
+    "developer": null,
+    "base_release_date": 20190926,
+    "first_update_release_date": 20190927,
+    "latest_update_release_date": 20190927,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190927
+    },
+    "versions": {
+        "65536": 20190927
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Enter the world ripe with magic and monsters!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

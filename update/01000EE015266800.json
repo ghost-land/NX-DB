@@ -1,4 +1,44 @@
 {
     "id": "01000EE015266800",
-    "version": 196608
+    "base_tid": "01000EE015266000",
+    "name": "The Centennial Case: A Shijima Story",
+    "description": "A unique and immersive live-action mystery-adventure, surrounding the theme of eternal Life.\nSolve an age-old mystery using your powers of deduction to uncover the truth.\nCollect clues, establish a hypothesis, and use logic to break through the mysteries.\n\n■Story\nThe Shijima family have suffered a chain of inexplicable deaths over the past century.\nWhen Haruka Kagami, a mystery novelist, visits the Shiijmas, she finds herself taking on four different murder cases - occurring at different points in time.\n\nThe red camellia and the Fruit of Youth, which invite only death.\nAnd the truth behind it all, waiting to be uncovered...",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20220512,
+    "first_update_release_date": 20220425,
+    "latest_update_release_date": 20230424,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230424
+    },
+    "versions": {
+        "65536": 20220425,
+        "131072": 20220809,
+        "196608": 20230424
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Unravel the mysteries of death, and find the answers to life.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Mild Language",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

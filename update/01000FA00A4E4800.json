@@ -1,4 +1,43 @@
 {
     "id": "01000FA00A4E4800",
-    "version": 65536
+    "base_tid": "01000FA00A4E4000",
+    "name": "Garage",
+    "description": "Garage - United by Death\n \n Garage is a bloody shooter in the style of an 80s B-movie. Playing as a drug dealer named Butch, you stand alone against hordes of the living dead.\n \n Explore every dark corner of an underground parking garage and discover a passageway to a supernatural world that has never seen the light of day.\n \n Find new weapons and master them in order to survive. Solve the mystery of this cursed place and the creatures that inhabit it.",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20180510,
+    "first_update_release_date": 20180718,
+    "latest_update_release_date": 20180718,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180718
+    },
+    "versions": {
+        "65536": 20180718
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

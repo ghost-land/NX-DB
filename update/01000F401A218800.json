@@ -1,4 +1,42 @@
 {
     "id": "01000F401A218800",
-    "version": 65536
+    "base_tid": "01000F401A218000",
+    "name": "Animal Puzzle World",
+    "description": "Puzzles with awesome animals! Try different approaches! \n\nSolve, puzzle and change different puzzles to see and complete new animals! ",
+    "publisher": "RuWaMo Games",
+    "developer": null,
+    "base_release_date": 20230209,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "Animal Puzzle World is full of suprises!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "01000EC010BF4800",
-    "version": 262144
+    "base_tid": "01000EC010BF4000",
+    "name": "Niche - a genetics survival game",
+    "description": "Niche - a genetics survival game is a fresh blend of turn-based strategy and simulation combined with rogue-like elements. Shape your own species of cat/fox/bear/dog-like animals based on real genetics. Keep your animals alive against all odds, such as hungry predators, climate change and spreading sickness.\n\nKey Features:\n- Living, dynamic world to test your survival skills\n- Breeding system based on real genetics\n- Over 100 genes to shape your species\n- Procedural worlds and animals\n- Game mechanics inspired on population genetics\n- 5 biomes featuring different predators, prey and flora to explore\n\nEducational aspects:\nWhile playing Niche, the player is introduced to the scientific mechanics of genetics (featuring dominant-recessive, co-dominant inheritance, etc). The game also features the five pillars of population genetics (genetic drift, genetic flow, mutation, natural selection, sexual selection). All knowledge is interwoven with the game-mechanics. This creates the effect of learning by playing.",
+    "publisher": "Stray Fawn",
+    "developer": null,
+    "base_release_date": 20200903,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20211215,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211215
+    },
+    "versions": {
+        "131072": 20201110,
+        "196608": 20210201,
+        "262144": 20211215
+    },
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Education",
+        "Board Game"
+    ],
+    "intro": "Evolve your own animal species based on real genetics, survive and explore a variety of biomes!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }
