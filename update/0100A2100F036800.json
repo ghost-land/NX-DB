@@ -1,4 +1,45 @@
 {
     "id": "0100A2100F036800",
-    "version": 131072
+    "base_tid": "0100A2100F036000",
+    "name": "Youropa",
+    "description": "When Youropa is torn apart, you must walk the walls in a strange fragmented city, in order to restore it and learn who you really are. \n\nWalk upside down, on walls, in fact walk anywhere you can get to. Your suction cup feet let's you stick to any surface. You will unlock new abilities, encounter physical puzzles, secrets, ferocious enemies, paint your character and much more, in an abstract but logical universe that challenges your perception of the third dimension.\n\nIn Create Mode you can build your own levels while playing them. And you can share your levels and character designs with other players.\n\nYouropa is made with passion by a small group of friends over a period of 15 years.",
+    "publisher": "frecle",
+    "developer": null,
+    "base_release_date": 20221006,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20220926,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220926
+    },
+    "versions": {
+        "65536": 20220915,
+        "131072": 20220926
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "A gravity defying puzzle platform paint adventure, about breaking rules, being upside down and thinking outside the box. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

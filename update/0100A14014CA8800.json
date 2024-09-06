@@ -1,4 +1,44 @@
 {
     "id": "0100A14014CA8800",
-    "version": 524288
+    "base_tid": "0100A14014CA8000",
+    "name": "GINSHA",
+    "description": "GINSHA is a unique atmospheric pixelart Action Adventure Platformer with special Gravity Shield and Dash mechanics. It combines a versatile Platformer Core with RPG, Souls and Crafting Elements to an Anomaly among Metroidvania games. Explore huge interconnected planets, filled with secrets, loot, obstacles, different enemy types and epic bossfights. Level up, equip and customize your Clone, craft companion drones and enjoy ever evolving possibilities as you proceed to save your species.\n\nExplore 6 different planets and find your own path to save your species. Every decision matters and affects your surroundings and karma for new possibilities and endings. Make new friends or foes among your way, find epic gear and unlock new shortcuts.\n\nChoose from a wide variety of weapon types and combine skills, dash and gravity shield abilities to master GINSHA's fast paced combat system. Defend yourself against the overwhelming enemy forces and fight on ground, in the air, underwater and in space in hundreds of challenging environments.\n\nChoose to be good or evil in GINSHA's Alien Couple Story and dive into an epic journey, driven by rewarded Exploration. Play as two Alien lifeforms “Gin” and “Gon” and unveil the mystery of our dying planet in a far future.\n\nMeet and interact with unknown lifeforms, learn new languages, make new friends or foes. Your decisions matter and will have a huge impact on the future of your species. Find hidden areas within hidden areas, easter eggs and 80s sci-fi legends...\n\nYour clone is equipped with a Scanner that allows you to scan everything you'll find on your journey. Collected data will be stored in an in-game wiki and can be used to unlock upgrades, create advanced gear and to build & simulate your own Worlds once you've gained access to the betaverse.\n\nFEATURES\n- Fully customizable versatile Platformer Core\n- Directional Gravity Shield Mechanics\n- Huge Open World full of Secrets and Easter eggs\n- Fast Paced Combat with Free Aim or Aim Assist\n- RPG Mechanics, Quests and Inventory System\n- Be good or evil - Dialogue & Karma System\n- Companion Drones, Crafting & Survival Elements\n- A wide variety of Weapon Types, tools, items and gadgets\n- Scan & Rebuild Mechanics with InGame Wiki\n- Driven by Rewarded Exploration and infinite Replayability",
+    "publisher": "PolarityFlow,",
+    "developer": null,
+    "base_release_date": 20230824,
+    "first_update_release_date": 20230802,
+    "latest_update_release_date": 20240108,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240108
+    },
+    "versions": {
+        "65536": 20230802,
+        "131072": 20230810,
+        "196608": 20230819,
+        "262144": 20230823,
+        "327680": 20230829,
+        "393216": 20231013,
+        "458752": 20231123,
+        "524288": 20240108
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Discover a captivating Metroidvania anomaly full of secrets, dangers and constantly evolving possibilities",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

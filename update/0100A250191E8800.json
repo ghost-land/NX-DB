@@ -1,4 +1,32 @@
 {
     "id": "0100A250191E8800",
-    "version": 65536
+    "base_tid": "0100A250191E8000",
+    "name": "Money Parasite ～嘘つきな女～",
+    "description": "幼い頃からずっと大好きだったマジック。\nしかし大人になればなるほど現実を知り、同時に忙しない生活の中で気付けば趣味は動画を見ることになっていた。\nそんな主人公の元に届く一通のＤＭ。その内容は『豪華客船でマジックショーをしませんか？』\n無償で豪華客船に泊まれる上、マジシャンという密かな夢も叶うかも知れない！\nしかしそんな想いを胸に向かった先で告げられたのは、その手の器用さを活かし、ディーラーとしてカジノで働くこと。\nそして一癖も二癖もある大富豪の男達を騙し、そのお金を全て頂くこと！！\n庶民ヒロインの下克上物語が今、始まる――。",
+    "publisher": "TAKUYO",
+    "developer": null,
+    "base_release_date": 20221222,
+    "first_update_release_date": 20230201,
+    "latest_update_release_date": 20230201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230201
+    },
+    "versions": {
+        "65536": 20230201
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "【恋する貴方の心とお金 タネも仕掛けも、全てはこの手の中にある――】",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恋愛",
+        "ギャンブル"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100A27018ED0800",
-    "version": 65536
+    "base_tid": "0100A27018ED0000",
+    "name": "Rise of Fox Hero",
+    "description": "Rise of Fox Hero is a colorful 3D platformer with fun combat and puzzle elements.\n\nArmed with a sword and a shield, you will help our fox jump, fight and solve puzzles throughout 4 different chapters and 32 different levels. \n\nExplore colorful and beautiful environments and find all the collectibles while battling tons of different enemies. And beware, by the end of each chapter, an epic boss fight awaits!\n\nIn Rise of Fox Hero, perspective is key — so make use of the rotatable camera and look in every angle to find your way through obstacles, or even hidden secrets.\n\nKey features:\n- 4 different chapters and 32 different levels: filled with colorful elements.\n- Fully interactable camera: make use of the 360º rotation to explore every corner and find every secret.\n- Fun combat: fight different enemies with your sword and shield in a simple but yet fun combat.\n- Beautiful environments and music",
+    "publisher": "2Awesome Studio",
+    "developer": null,
+    "base_release_date": 20230217,
+    "first_update_release_date": 20221222,
+    "latest_update_release_date": 20221222,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221222
+    },
+    "versions": {
+        "65536": 20221222
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "Armed with a sword and a shield, jump and fight your way through beautiful and colorful levels.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

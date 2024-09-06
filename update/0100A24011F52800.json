@@ -1,4 +1,34 @@
 {
     "id": "0100A24011F52800",
-    "version": 65536
+    "base_tid": "0100A24011F52000",
+    "name": "Dead Z Meat",
+    "description": "Grab a gun and get blasting - these zombies are as vicious as they are silly. \n\nIt's the apocalypse again!\nYou may very well be the last person on Earth! Grab your gun and get blasting - these zombies are as vicious as they are silly. Survive day to day, upgrade your arsenal and supercharge your powerups to wreak havoc on the horde of dead meat shambling in your neighbourhood.\n\nKEY FEATURES\n- Action packed shooting gallery\n- Impressive, upgradeable arsenal, including sci-fi weapons, modern guns and explosives\n- Powerups included for your pleasure\n- Stylized, cartoony visuals\n- And an endless supply of zombies",
+    "publisher": "isTom Games",
+    "developer": null,
+    "base_release_date": 20201016,
+    "first_update_release_date": 20201015,
+    "latest_update_release_date": 20201015,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201015
+    },
+    "versions": {
+        "65536": 20201015
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "First-Person Shooter",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

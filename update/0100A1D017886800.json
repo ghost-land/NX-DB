@@ -1,4 +1,46 @@
 {
     "id": "0100A1D017886800",
-    "version": 131072
+    "base_tid": "0100A1D017886000",
+    "name": "ABC Follow Me: Animals",
+    "description": "An educational game for preschool children that will develop their motor skills and introduce them to the basics of writing letters and numbers in a child-friendly design.\n\nOnce this is mastered, you can move on to a more challenging game mode where children learn animals from A to Z in English! This will be a great introduction to learning languages and getting to know many fascinating animals. Maybe one of them will even become your child's favorite? ;-)\n\nModes:\n★ Numbers\n★ Animals\n★ Uppercases\n★ Lowercases\n★ Your own words\n\nFeatures:\n★ Learn animals in a fun way\n★ Learn the alphabet from A to Z\n★ Take your first steps in counting\n★ Enjoy a smart interface designed for children\n★ Listen and repeat to improve pronunciation\n★ Play with colors and save your creations\n★ Develop fine motor skills with the help of a guide",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20220204,
+    "first_update_release_date": 20220204,
+    "latest_update_release_date": 20220324,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220324
+    },
+    "versions": {
+        "65536": 20220204,
+        "131072": 20220324
+    },
+    "category": [
+        "Education",
+        "Puzzle",
+        "Study",
+        "Music"
+    ],
+    "intro": "ABC Follow Me is a perfect game for children to write their first words and learn the alphabet, numbers, animals and English! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

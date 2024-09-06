@@ -1,4 +1,32 @@
 {
     "id": "0100A1C01C614800",
-    "version": 65536
+    "base_tid": "0100A1C01C614000",
+    "name": "Seven",
+    "description": "You place a tile that falls from the top of the grid. Each tile has a number 1–7, or a blank. \nWhenever the number of any tile matches the number of contiguous tiles in a row or column, that tile disappears and also hits any blank tiles it touches. The game ends when the uncleared tiles reach the top of the playing field. \n\nYou earn points by matching the number on a tile to the number of tiles in its row or column. \nNow let's up the difficulty a bit by introducing those white tiles that you see. These are solid tiles that crack when a tile explodes next to them. When you break the solid tile, it will reveal the hidden number inside!\n\n\nMusic, backgrounds, sounds, special effects—everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: The longer the Chain Combo, the higher your points is!",
+    "publisher": "Max Interactive Studio",
+    "developer": null,
+    "base_release_date": 20240131,
+    "first_update_release_date": 20240202,
+    "latest_update_release_date": 20240202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240202
+    },
+    "versions": {
+        "65536": 20240202
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Lifestyle",
+        "Arcade"
+    ],
+    "intro": "Best drop number tiles puzzle game!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

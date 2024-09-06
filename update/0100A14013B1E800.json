@@ -1,4 +1,34 @@
 {
     "id": "0100A14013B1E800",
-    "version": 65536
+    "base_tid": "0100A14013B1E000",
+    "name": "Doug Hates His Job",
+    "description": "With 8 styles of gameplay, you get to decide how Doug responds to annoying coworkers, crazy clients, and a ruthless boss.\n\nFeatures 8 different styles of gameplay:\nBeat-Em up\nChoose your own adventure\nBar Trivia\nQuick Time Events\n3d Melee combat\nStealth\n2D Platformer\nTop Down car Racer",
+    "publisher": "Super Villain Games",
+    "developer": null,
+    "base_release_date": 20210305,
+    "first_update_release_date": 20210226,
+    "latest_update_release_date": 20210226,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210226
+    },
+    "versions": {
+        "65536": 20210226
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Platformer"
+    ],
+    "intro": "Doug Hates his Job is a Beat-Em Up game with an office mockumentary style story about a sales agent who, as the title states, hates his job! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

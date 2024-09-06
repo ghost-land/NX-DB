@@ -1,4 +1,34 @@
 {
     "id": "0100A2501B3B2800",
-    "version": 131072
+    "base_tid": "0100A2501B3B2000",
+    "name": "Legend of Grimrock",
+    "description": "A group of prisoners are sentenced to certain death by exiling them to the secluded Mount Grimrock for vile crimes they may or may not have committed. If they ever wish to see daylight again and reclaim their freedom the ragtag group of prisoners must form a team and descend through the mountain, level by level.\n\nThe game brings back the oldschool challenge with highly tactical real-time combat and grid-based movement, devious hidden switches and secrets as well as deadly traps and horrible monsters. Legend of Grimrock puts an emphasis on puzzles and exploration and the wits and perception of the player are more important tools than even the sharpest of swords could be. Are you ready to venture forth and unravel the mysteries of Mount Grimrock?\n\n- Explore a vast network of ancient tunnels, discover secrets and find a way to survive in the perilous dungeons of Mount Grimrock.\n- Cast spells with runes, craft potions with herbs and fight murderous monsters with a wide variety of weaponry.\n- Create a party of four characters and customize them with different races, classes, skills and traits.\n- Pure blooded dungeon crawling game with grid-based movement and thousands of squares riddled with hidden switches, pressure plates, sliding walls, floating crystals, forgotten altars, trapdoors and more.",
+    "publisher": "Almost Human",
+    "developer": null,
+    "base_release_date": 20240115,
+    "first_update_release_date": 20240120,
+    "latest_update_release_date": 20240209,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240209
+    },
+    "versions": {
+        "65536": 20240120,
+        "131072": 20240209
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Legend of Grimrock is a dungeon crawling role playing game with an oldschool heart but a modern execution. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

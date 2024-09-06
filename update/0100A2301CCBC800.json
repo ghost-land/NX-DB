@@ -1,4 +1,34 @@
 {
     "id": "0100A2301CCBC800",
-    "version": 131072
+    "base_tid": "0100A2301CCBC000",
+    "name": "MAKOTO WAKAIDO’s Case Files TRILOGY DELUXE",
+    "description": "Makoto Wakaido's Case Files is a mystery adventure game with minimalistic pixel art. Your job is to become detective Wakaido and find the culprit behind all kinds of crimes. Question witnesses, collect info, make deductions, and find the truth behind each case.\n\n[Episode1 - The Executioner Linchpin]\nWhat truth hides behind a gruesome series of murders where the victim was beheaded?\nDetective Wakaido has to find the culprit in this story inspired by Japan in the '80s and the insurgence of religious cults.\n\n[Episode2 - The Bogeyman's Woods]\nWho or what is behind the missing people in this small, secluded village?\nDetective Wakaido has to find the real reason why several villagers have been spirited away in this story with a rural setting.\n\n[Episode3 - The Phantom's Foot]\nThat's one suspect you never expected to investigate.\nDetective Wakaido has been accused of a murder. Will he be able to escape capture and prove his innocence?\n\n[Episode4 - The Weeping Hand Manor]\nA mansion shut off from the world by a storm. A supernatural presence haunting its halls and terrifying its guests.\nDetective Wakaido must find the truth about the ghost who is said to attack those who visit the Weeping Hand Manor.",
+    "publisher": "room6",
+    "developer": null,
+    "base_release_date": 20231020,
+    "first_update_release_date": 20231123,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231123
+    },
+    "versions": {
+        "131072": 20231123
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A game based on a simple concept: a mystery puzzle you can complete in an hour. Can you solve the cases narrated in this beautiful pixel-art adventure?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

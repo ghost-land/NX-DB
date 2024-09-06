@@ -1,4 +1,38 @@
 {
     "id": "0100A1B00C8CC800",
-    "version": 131072
+    "base_tid": "0100A1B00C8CC000",
+    "name": "King's Heir: Rise to the Throne",
+    "description": "Two royal knights, Edmund and Randall Ulmer, are tricked into a conspiracy against the crown. Pursued by the royal guard and ruthless conspirators, the brothers embark on a dangerous journey that will uncover the kingdom's shameful secrets, restore the honor of the Ulmer family and change their fate forever.",
+    "publisher": "Artifex Mundi",
+    "developer": null,
+    "base_release_date": 20181220,
+    "first_update_release_date": 20190116,
+    "latest_update_release_date": 20191009,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191009
+    },
+    "versions": {
+        "65536": 20190116,
+        "131072": 20191009
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The clash for the crown is coming!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

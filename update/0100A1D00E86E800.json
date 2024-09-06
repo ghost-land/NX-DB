@@ -1,4 +1,31 @@
 {
     "id": "0100A1D00E86E800",
-    "version": 262144
+    "base_tid": "0100A1D00E86E000",
+    "name": "魔界戦記ディスガイア４ Return",
+    "description": "Nintendo Switch向けに最適化され、遊びやすくなった『魔界戦記ディスガイア４ Return』。\nディスガイアシリーズではおなじみとなった底なしのやり込み要素と、様々なブッ飛んだゲームシステム。\n最凶のキャラクターを育成し、400種を超える多彩な特殊技で戦闘をド派手に盛り上げる…ストーリークリアで終わらない、ディスガイアならではの無限のゲームプレイをお楽しみいただけます。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191030,
+    "latest_update_release_date": 20201007,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201007
+    },
+    "versions": {
+        "65536": 20191030,
+        "196608": 20191126,
+        "262144": 20201007
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "打倒政腐、政拳奪取、魔界改革！“地獄”からはじまる世直しストーリー、開幕！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

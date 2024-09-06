@@ -1,4 +1,38 @@
 {
     "id": "0100A1A011944800",
-    "version": 65536
+    "base_tid": "0100A1A011944000",
+    "name": "Smoots World Cup Tennis",
+    "description": "Customize your appearance! Create your Smoot with your own style, and chose amongst lots of fashion complements and accessories. Prepare for a hard season Beat the 66 tournaments in the World Circuit to be the top 1 in the SMOOT ranking. Defeat all your opponents and be a reference! Improve your skills while playing. The opponents are tough and you must be prepared. During the season, you will be able to unlock different funny mini games, letting you improve your skills. Improve your skills by playing different mini games around the world. Play local multiplayer games with your friends, up to 4 players.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20201020,
+    "latest_update_release_date": 20201020,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201020
+    },
+    "versions": {
+        "65536": 20201020
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Join the Smoots characters and play all the tournaments in the Smoots World Cup Tennis.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

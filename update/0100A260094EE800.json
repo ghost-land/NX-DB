@@ -1,4 +1,32 @@
 {
     "id": "0100A260094EE800",
-    "version": 131072
+    "base_tid": "0100A260094EE000",
+    "name": "Fallen Legion: Rise to Glory",
+    "description": "Return to the battlefield of Fenumia, where a besieged nation stands on the brink of war. See the conflict through the lenses of Princess Cecille and Legatus Laendur, one who would restore her kingdom to its former glory and one who would see a new nation rise in its place. Combining both Fallen Legion: Flames of Rebellion and Fallen Legion: Sins of an Empire for the first time on one console, Fallen Legion: Rise to Glory includes all new art, Exemplars, monsters, bosses and challenges not found in the original releases. See the story from all sides anywhere you go in Fallen Legion: Rise to Glory.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180608,
+    "first_update_release_date": 20180529,
+    "latest_update_release_date": 20180622,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180622
+    },
+    "versions": {
+        "65536": 20180529,
+        "131072": 20180622
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Grasp the Crown Before All Falls to Chaos.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

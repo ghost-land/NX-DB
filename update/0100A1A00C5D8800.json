@@ -1,4 +1,33 @@
 {
     "id": "0100A1A00C5D8800",
-    "version": 131072
+    "base_tid": "0100A1A00C5D8000",
+    "name": "Picture Painting Puzzle 1000!",
+    "description": "According to numbers at the side of the grid to fill in or left blank cells to reveal hidden picture\n【Picture Logic Puzzle 1000!】\n\n1000 questions in each 5x5 to 20x20 and 4 levels of difficulty for both beginners and advanced users.",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20181108,
+    "first_update_release_date": 20191211,
+    "latest_update_release_date": 20210430,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210430
+    },
+    "versions": {
+        "65536": 20191211,
+        "131072": 20210430
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Picture logic puzzle with full of Cute & Cool pixel art is arrive!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

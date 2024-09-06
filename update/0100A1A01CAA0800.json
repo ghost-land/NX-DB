@@ -1,4 +1,35 @@
 {
     "id": "0100A1A01CAA0800",
-    "version": 65536
+    "base_tid": "0100A1A01CAA0000",
+    "name": "Hentai Project",
+    "description": "Hentai Project is an exciting puzzle game where you will meet four heroines: Hitomi, Keiko, Airi, and Ema. Each of them has their own unique story, personality, and aspirations that you can uncover as you solve puzzles. Collect puzzles featuring beautiful anime images of the girls and get ready for an inspiring and amazing experience.\n\nIncreasing Difficulty:\nEach level offers puzzles with increasing difficulty. The progressively increasing difficulty ensures that the game keeps you engaged and challenged.\n\nAnime-Style Artwork:\nThe game features visually stunning and captivating anime-style artwork. The images of the heroines are colorful, detailed, and convey their individuality and emotions.\n\nRelaxing Music:\nThroughout the game, you will be accompanied by relaxing music that helps create an atmosphere of tranquility and comfort.\n\nUnique Stories:\nAs you solve puzzles, you will uncover deep and emotional stories of the four heroines. Each of them has a unique personality, motives, and aspirations that will be revealed through puzzle-solving.\n\nFeatures:\n• Anime hentai artwork\n• Captivating character stories\n• Relaxing music\n• Simple gameplay mechanics",
+    "publisher": "17Studio",
+    "developer": null,
+    "base_release_date": 20230907,
+    "first_update_release_date": 20230811,
+    "latest_update_release_date": 20230811,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230811
+    },
+    "versions": {
+        "65536": 20230811
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy",
+        "Party"
+    ],
+    "intro": "Uncover the heroines' stories, solve puzzles, and immerse yourself in the beauty of anime images.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }

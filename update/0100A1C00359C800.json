@@ -1,4 +1,37 @@
 {
     "id": "0100A1C00359C800",
-    "version": 262144
+    "base_tid": "0100A1C00359C000",
+    "name": "TowerFall",
+    "description": "TowerFall is the ultimate version of the beloved archery \ncombat/party game, featuring all of the content from \nAscension and Dark World, and several Switch-exclusive \nadditions!\n\nInspired by classics from the golden age of couch multiplayer, \nTowerFall centers around hilarious, intense versus matches - \nbest played against friends, sitting cross-legged on the floor \nwithin punching distance of each other.\n\nThe core mechanics are simple and accessible, but hard to \nmaster, with a huge amount of gameplay variants, arrow types, \npower-ups, and levels. And when you need a break from the \ncompetition, team up in 1-4 player co-op modes, where you’ll \nfight off a wide variety of monsters, enemy archers, and \nbosses. \n\nThe Switch version includes several new and exclusive features, \nincluding 6-player battles utilizing widescreen levels, new \ngameplay variants, and guest archers Madeline and her \nreflection Badeline from fan-favorite platformer Celeste!",
+    "publisher": "Maddy Makes Games",
+    "developer": null,
+    "base_release_date": 20180927,
+    "first_update_release_date": 20180918,
+    "latest_update_release_date": 20210824,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210824
+    },
+    "versions": {
+        "65536": 20180918,
+        "131072": 20181108,
+        "196608": 20191121,
+        "262144": 20210824
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Platformer",
+        "Fighting"
+    ],
+    "intro": "The classic archery party game from the creators of Celeste, featuring Switch-exclusive 6-player battles and more!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }
