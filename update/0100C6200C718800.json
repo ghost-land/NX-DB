@@ -1,4 +1,29 @@
 {
     "id": "0100C6200C718800",
-    "version": 65536
+    "base_tid": "0100C6200C718000",
+    "name": "ディスティニーコネクト",
+    "description": "かつて 子供だったあなたと、\nいつか 大切なひとを見つけるキミへ。\n\n■ストーリー\n歯車と電気の街、クロックニー。\n新年を迎えようとしたその瞬間、街は、すべての時を止めてしまう。\n街に暮らす少女シェリーとメカのアイザックは、異変の原因を探るため\n時を越えて過去のクロックニーへ旅立つ。\n\n■システム\n戦闘はシンボルエンカウント形式。キャラクターごとに異なるスキルを駆使して、襲い来るメカたちと戦おう。\nまた、物語の鍵を握るメカ、アイザックはフォームチェンジが可能！\n戦況に合わせて、異なる戦闘スタイルを使いこなそう。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20190314,
+    "first_update_release_date": 20190314,
+    "latest_update_release_date": 20190314,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190314
+    },
+    "versions": {
+        "65536": 20190314
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "時を越え、過去と未来をつなぎなおすRPG",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

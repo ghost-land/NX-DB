@@ -1,4 +1,41 @@
 {
     "id": "0100C5E003B40800",
-    "version": 131072
+    "base_tid": "0100C5E003B40000",
+    "name": "ARMS™ Global Testpunch",
+    "description": "You can play ARMS™ Global Testpunch for free during the following period: \n\n31/03 15:00 AEDT – 03/04 13:59 AEST",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180324,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170822,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20170822
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20170822
+    },
+    "category": [
+        "Action",
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

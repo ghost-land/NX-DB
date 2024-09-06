@@ -1,4 +1,37 @@
 {
     "id": "0100C5B01BB32800",
-    "version": 131072
+    "base_tid": "0100C5B01BB32000",
+    "name": "Faerie Afterlight",
+    "description": "Inspired by Indonesian philosophy and folk art, Faerie Afterlight is a beautifully stylized 2D Metroidvania game filled with an abundance of heart, courage, camaraderie, and a delightful soundtrack complimentary to the game's lush world. \n\nSimultaneously control Kimo and Wispy as this unlikely but (literally) inseparable duo explores Lumina’s infested caverns, deep seas, and ghostly cities to reclaim the scattered, broken shards of Light. Along the way, the pair will solve puzzles, befriend locals, engage and enchant enemies, and face off against fierce Titans to gain powerful new abilities that will grant greater access to Lumina!",
+    "publisher": "Mastiff",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20230929,
+    "latest_update_release_date": 20230929,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230929
+    },
+    "versions": {
+        "131072": 20230929
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100C6800D9D0800",
-    "version": 262144
+    "base_tid": "0100C6800D9D0000",
+    "name": "The Red Lantern",
+    "description": "The Red Lantern is a story-driven, rogue-lite, survival game where you and your team of 5 sled dogs, lost in the wilderness, must navigate the ever-changing encounters of the Alaskan bush to find your way home.\n\nFeatures:\n- A dynamic world that changes as you play\n- Nearly 100 different encounters each with varied results\n- Gain items and upgrades as you discover things about the world around you\n- 8 different pups to add to your team, each with their own personalities.\n",
+    "publisher": "Kepler Interactive",
+    "developer": null,
+    "base_release_date": 20201022,
+    "first_update_release_date": 20201021,
+    "latest_update_release_date": 20211208,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20211208
+    },
+    "versions": {
+        "65536": 20201021,
+        "131072": 20201022,
+        "196608": 20201119,
+        "262144": 20211208
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Choose wisely. Live wildly.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
+    "region": null
 }

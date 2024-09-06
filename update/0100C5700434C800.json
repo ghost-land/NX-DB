@@ -1,4 +1,48 @@
 {
     "id": "0100C5700434C800",
-    "version": 393216
+    "base_tid": "0100C5700434C000",
+    "name": "Sky Rogue",
+    "description": "Sky Rogue is a fwooshy rogue-lite action flight simulator! Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Choose one of a diverse set of aeros and kit it out with a dizzying array of weaponry. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers and battleships, but watch out for volleys of missiles; when you die, you're dead.\n\nEXCLUSIVE to the Switch: DANGER ZONE motion controls! Hold the the right Joy-con upright and tilt it to control roll and pitch. Hold the left Joy-con horizontally (L and ZL to the right) and twist it to control throttle.",
+    "publisher": "Fractal Phase",
+    "developer": null,
+    "base_release_date": 20180426,
+    "first_update_release_date": 20180427,
+    "latest_update_release_date": 20200904,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20200904
+    },
+    "versions": {
+        "65536": 20180427,
+        "131072": 20190301,
+        "196608": 20190625,
+        "262144": 20191119,
+        "327680": 20200207,
+        "393216": 20200904
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
+    "region": null
 }

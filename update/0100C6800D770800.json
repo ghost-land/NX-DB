@@ -1,4 +1,41 @@
 {
     "id": "0100C6800D770800",
-    "version": 131072
+    "base_tid": "0100C6800D770000",
+    "name": "Super Toy Cars 2",
+    "description": "Super Toy Cars 2 is a fast paced arcade racing game where you control miniature cars that speed through amazing tracks made of supersized everyday objects.\n\nIn Super Toy Cars 2 you will race cool toy cars, alone or with friends, across crazy table top tracks made of everyday objects that take on a new dimension. In this world a sausage is the size of a bus, a burger is the size of a small swimming pool and you may encounter dangerous toy scissors cutting their way through the middle of the track.\n\nOutrace your opponents… or crush them to scrap! You can fight them up close or use one of the many power-ups scattered throughout the race. Unlock and collect the 20 toy cars, each with their own statistics, by playing through career mode and then improve them by installing upgrades or changing their paintjobs.\n\nIn the end this game is sure to do one thing for you: revive that crazy larger than life feeling of playing with toy cars when you were a kid.",
+    "publisher": "Eclipse Games",
+    "developer": null,
+    "base_release_date": 20200612,
+    "first_update_release_date": 20201008,
+    "latest_update_release_date": 20210602,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210602
+    },
+    "versions": {
+        "65536": 20201008,
+        "131072": 20210602
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Super Toy Cars 2 is a fast-paced arcade racing game where you control miniature cars that speed across amazing tracks made of supersized everyday objects",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

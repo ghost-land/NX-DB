@@ -1,4 +1,39 @@
 {
     "id": "0100C67015978800",
-    "version": 131072
+    "base_tid": "0100C67015978000",
+    "name": "My Universe - Green Adventure : Farmers Friends",
+    "description": "Prepare your dungarees and wellington boots! You've just inherited an old family farm and it's high time you gave it a new lease of life. Vegetables, fruit, flowers, it's up to you to find the best way to grow your crops in line with nature. Watch your farm grow as you have fun! Care for your animals and make sure they're in good health so that they provide you with the very best organic produce.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20220630,
+    "first_update_release_date": 20220622,
+    "latest_update_release_date": 20220905,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220905
+    },
+    "versions": {
+        "65536": 20220622,
+        "131072": 20220905
+    },
+    "category": [
+        "Simulation",
+        "Lifestyle",
+        "Adventure"
+    ],
+    "intro": "Learn to become a farmer and renovate your own environmentally-friendly farm!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

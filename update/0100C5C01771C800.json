@@ -1,4 +1,37 @@
 {
     "id": "0100C5C01771C800",
-    "version": 65536
+    "base_tid": "0100C5C01771C000",
+    "name": "Pill Baby",
+    "description": "Play as Anna, finding a job and moving to a new country. Explore her new life, struggles, loneliness, relationships, language barrier.\nPill Baby features deep action mechanics, including a wide movement set where you can learn lots of different attacks, and use them strategically. Helpful drone units with special moves that help you on offense or defense. Custom gloves for special effects such as freezing or poisoning parasites. Use all your powers strategically to fight with epic parasites 10 times your size.\nPlay as Anna, finding a job and moving to a new country. Stress, loneliness and alienation. Can she survive here? See the small town she moved to and interact with her new friends and neighbors. Form all kinds of relationships. Sinister and mysterious things are going on in this town.",
+    "publisher": "Kayabros",
+    "developer": null,
+    "base_release_date": 20221015,
+    "first_update_release_date": 20221008,
+    "latest_update_release_date": 20221008,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221008
+    },
+    "versions": {
+        "65536": 20221008
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "A stylish hack and slash game about an immigrant who takes drugs for her job.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,50 @@
 {
     "id": "0100C64015F84800",
-    "version": 720896
+    "base_tid": "0100C64015F84000",
+    "name": "RiffTrax: The Game",
+    "description": "RiffTrax: The Game is a multiplayer party game where players compete to make bad movies funny. Grab your friends and make fun of some of the worst cinematic abominations ever created. RiffTrax has been bringing their comedic commentary to movies for over 15 years - now’s your chance to riff along with them! Do you have what it takes to be the next movie riffing genius?\n\nOver 400 movie clips (and counting) from RiffTrax classics such as “Rollergator”, “Attack Of The Supermonsters”, and “Plan 9 From Outer Space”!\n\nPlay locally or battle riffers from around the world with online multiplayer matchmaking.\n\nFeaturing two exciting ways to play! Write your own riff and watch your comedy genius come to life via text-to-speech. Or leave it to the pros and choose from over 4,000 expertly crafted riffs from the RiffTrax team.\n\nCompete head-to-head with up to 6 players using any internet connected device as controller. An additional 12 audience members can also play along.\n\nSupports cross play and features in-game voice chat.\n\nStreamers, get your entire chat in on the action with Twitch chat voting. Additional moderation, privacy, and content tools ensure your stream remains problem-free.",
+    "publisher": "Wide Right Interactive",
+    "developer": null,
+    "base_release_date": 20220505,
+    "first_update_release_date": 20220525,
+    "latest_update_release_date": 20231210,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20231210
+    },
+    "versions": {
+        "65536": 20220525,
+        "131072": 20220622,
+        "196608": 20220628,
+        "262144": 20220722,
+        "327680": 20220727,
+        "393216": 20220810,
+        "458752": 20221027,
+        "524288": 20221122,
+        "589824": 20230310,
+        "655360": 20230714,
+        "720896": 20231210
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Video",
+        "Board Game"
+    ],
+    "intro": "RiffTrax: The Game is a multiplayer party game where players compete to make bad movies funny!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Drug Reference",
+        "Language",
+        "Mild Blood",
+        "Mild Violence",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Users Interact"
+    ],
+    "region": null
 }

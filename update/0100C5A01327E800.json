@@ -1,4 +1,36 @@
 {
     "id": "0100C5A01327E800",
-    "version": 131072
+    "base_tid": "0100C5A01327E000",
+    "name": "The Legend of Ninja",
+    "description": "The Legend of Ninja is a 2D Action-RPG Platformer. The game aims to immerse you in its fantasy world full of deadly traps, various enemies and mysteries to discover. Player impersonate as fearless ninja passing through dangerous fantasy worlds on his mission to rescue his beloved princess who got kidnapped by a Dracula from her castle. Journey into the unknown as an unskilled fighter with each step, each defeated enemy and boss will bring crucial experience in order to prepare young warrior in his final battle against powerful vampire. \n\n\n- 30 unique levels which require different strategies\n- Wide variety of enemies with unique abilities and weaknesses\n- A lot of traps which provide great challenge\n- Upgradeable skills to strenghten your hero\n- Beautiful, hand made fantasy world\n- Spectacular boss fights",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20201008,
+    "first_update_release_date": 20201012,
+    "latest_update_release_date": 20210804,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210804
+    },
+    "versions": {
+        "65536": 20201012,
+        "131072": 20210804
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Times have come to test you as a worthy ninja. Increase your abilities trough your journey in order to fight for your love. ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

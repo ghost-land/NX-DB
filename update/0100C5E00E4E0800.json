@@ -1,4 +1,37 @@
 {
     "id": "0100C5E00E4E0800",
-    "version": 65536
+    "base_tid": "0100C5E00E4E0000",
+    "name": "Delta Squad",
+    "description": "Just when you think the world is safe and it’s okay to take a break, a new threat emerges. Having already survived an alien invasion in FullBlast, the Delta Squad must now do battle against General Rumanovsky, a maniacal overlord who will stop at nothing to achieve global domination.\n\nTo overcome every threat players will need to take full advantage of upgrading their skills in a bid to deal maximum damage.\n\nFeatures: \n * Gorgeous 3D graphics\n * 50 missions across 5 levels\n * Ambient soundtrack\n * Local co-op support for up to four players\n * The option to play any of the 5 levels you want for a quick gaming session",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20191102,
+    "first_update_release_date": 20191114,
+    "latest_update_release_date": 20191114,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191114
+    },
+    "versions": {
+        "65536": 20191114
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Delta Squad, Roll Out!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

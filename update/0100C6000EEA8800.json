@@ -1,4 +1,39 @@
 {
     "id": "0100C6000EEA8800",
-    "version": 262144
+    "base_tid": "0100C6000EEA8000",
+    "name": "Warhammer 40,000: Mechanicus",
+    "description": "Take control of the most technologically advanced army in the Imperium - The Adeptus Mechanicus in this critically acclaimed turn-based tactical game. Your every decision will shape the missions ahead and ultimately decide the fate of the troops under your command in over 50 hand-crafted missions, including the amazing Heretek DLC missions. Choose your path carefully - the Imperium depends on it.\n",
+    "publisher": "KalypsoMediaGroup",
+    "developer": null,
+    "base_release_date": 20200717,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20210602,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210602
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200825,
+        "196608": 20210526,
+        "262144": 20210602
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Science fiction violence"
+    ],
+    "region": null
 }

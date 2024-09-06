@@ -1,4 +1,37 @@
 {
     "id": "0100C5700ECE0800",
-    "version": 131072
+    "base_tid": "0100C5700ECE0000",
+    "name": "Puzzle & Dragons GOLD",
+    "description": "o Thrilling Puzzle & Dragons Battles\nPuzzle & Dragons GOLD is a competitive puzzle action game featuring classic Puzzle & Dragons game play. Line up three or more Orbs of the same color and your monsters will attack your opponent's team. Use your monster's skills to boost your attacks and defensive strength! Form your own unique team and defeat your rivals!\n\no Learn the ropes at the Puzzle & Dragons Academy\nNew to Puzzle & Dragons? The Puzzle & Dragons Academy will teach you as you play! This training mode has lessons ideal for both beginners and those looking to step up their game.\n\no Face off against rivals in the Story Mode\nThe Puzzle & Dragons Champion Cup is the gateway to the glamorous world of professional gaming. Puzzle & Dragons GOLD focuses on Taiga Akashi, a boy who dreams of becoming the world's top takoyaki chef, and Ryuji, a boy living in the shadow of his pro gamer brother. As aspiring tournament champions, both of these boys will encounter formidable rivals who have mastered a variety of battle tactics. Who will rise and who will fall?!\n\no Unique Monsters\nSome monsters are expert attackers, while others boast strong defenses. Other monsters possess skills that can completely change the flow of battle. Choose the monsters that best suit YOUR preferred strategy. The possibilities are endless!\n\n* Images are under development and subject to change.",
+    "publisher": "GUNGHOONLINE",
+    "developer": null,
+    "base_release_date": 20200114,
+    "first_update_release_date": 20200110,
+    "latest_update_release_date": 20200218,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200218
+    },
+    "versions": {
+        "65536": 20200110,
+        "131072": 20200218
+    },
+    "category": [
+        "Puzzle",
+        "Action",
+        "Multiplayer",
+        "Strategy"
+    ],
+    "intro": "A new, easy-to-play Puzzle & Dragons battle game for Nintendo Switch™!\nTeam up with appealing monsters and aim for the top!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

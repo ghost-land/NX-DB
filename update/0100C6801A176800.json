@@ -1,4 +1,44 @@
 {
     "id": "0100C6801A176800",
-    "version": 196608
+    "base_tid": "0100C6801A176000",
+    "name": "Necrosmith",
+    "description": "Assemble the dead using different body parts while upgrading your tower, combine the abilities of the different fantastic races to fight your way through the hordes of enemies and overrun the ’chosen ones’. To tell the truth, the dead are pretty, uhm, dumb.\nIn a dark, dark tower a dark, dark Necromancer is performing a dark, dark ritual as dark, dark clouds swarm… Wait a second! What is a white cat doing here?\n\nASSEMBLE THE DEAD\nSkeletons, zombies, orcs, harpies, elementals, and even robots! Combine the body parts with the appropriate characteristics and attacks to find the perfect combination of survivability, speed, and combat power.\n\nUPGRADE YOUR TOWER\nBuild necro labs to grow body parts and make techno-magic devices to upgrade your army of the dead.\n\nEXPLORE THE WORLD\nGuide your hordes of the undead through more than a dozen biomes to find the keys to escape from this strange world.",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20230706,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230922,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230922
+    },
+    "versions": {
+        "131072": 20230714,
+        "196608": 20230922
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "A necromancer simulator",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

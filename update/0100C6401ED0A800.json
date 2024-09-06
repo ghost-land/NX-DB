@@ -1,4 +1,37 @@
 {
     "id": "0100C6401ED0A800",
-    "version": 65536
+    "base_tid": "0100C6401ED0A000",
+    "name": "Arcade Archives VS. STAR LUSTER",
+    "description": "\"VS. STAR LUSTER\" is a shooter released by NAMCO (Bandai Namco Entertainment Inc.) in 1985.\nThe player uses the Star luster “G.A.I.A” to fight the invader “Battura” who is trying to cause a big bang.\nDefend your base from enemies by switching between Map Mode, where you choose which enemies to attack, and Combat Mode in the battle space.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20240613,
+    "first_update_release_date": 20240723,
+    "latest_update_release_date": 20240723,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240723
+    },
+    "versions": {
+        "65536": 20240723
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "The Big Bang was about to happen!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

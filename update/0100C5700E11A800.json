@@ -1,4 +1,37 @@
 {
     "id": "0100C5700E11A800",
-    "version": 196608
+    "base_tid": "0100C5700E11A000",
+    "name": "現嚐好滋味！超級猴子球",
+    "description": "滾動猴子球，趣味樂無窮！『現嚐好滋味！超級猴子球』是一款經典的休閒遊戲，玩家只需操作裝著小猴子的球抵達終點，既簡單又好玩。除了有高品質的視覺圖像、輕鬆暢快的操作體驗，遊戲內共收錄了100個關卡，份量十足。簡單卻深奧的遊戲內容等您來體驗。此外還有10種派對遊戲，最多可4人同樂。還可參加線上排名，與全世界的玩家一較高下。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20191031,
+    "first_update_release_date": 20191022,
+    "latest_update_release_date": 20200107,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200107
+    },
+    "versions": {
+        "65536": 20191022,
+        "131072": 20191114,
+        "196608": 20200107
+    },
+    "category": [
+        "動作",
+        "派對",
+        "街機"
+    ],
+    "intro": "滾動猴子球，趣味樂無窮！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

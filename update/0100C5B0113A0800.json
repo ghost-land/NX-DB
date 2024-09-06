@@ -1,4 +1,33 @@
 {
     "id": "0100C5B0113A0800",
-    "version": 65536
+    "base_tid": "0100C5B0113A0000",
+    "name": "Armed 7 DX",
+    "description": "With ARMED SEVEN DX, discover 7 stages of pure mecha-shooting action with customisable weapons.\nUse all laser beams, space rockets and missiles to suit your needs.\nGear up and fight!",
+    "publisher": "PixelHeart",
+    "developer": null,
+    "base_release_date": 20200514,
+    "first_update_release_date": 20201201,
+    "latest_update_release_date": 20201201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201201
+    },
+    "versions": {
+        "65536": 20201201
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

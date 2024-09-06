@@ -1,4 +1,32 @@
 {
     "id": "0100C5C01F3FC800",
-    "version": 65536
+    "base_tid": "0100C5C01F3FC000",
+    "name": "Puzzle World: Neko Girls",
+    "description": "Try yourself in Puzzle World - a unique puzzle game that stands out from ordinary puzzles with its unconventional mechanics. There is no need to move parts of the image - you just need to skillfully rotate them! In addition, in addition to rotation, some parts of the puzzle will have to be mirrored, which adds additional flavor and complexity to this exciting process.\n\nIn this game you will meet cute anime girls, original style and excellent image quality. More than 30 exciting puzzles await you, accompanied by relaxing music.\n\nPeculiarities:\n• Cute anime characters\n• Original style of images\n• More than 30 puzzles\n• Relaxing music",
+    "publisher": "17Studio",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20240626,
+    "latest_update_release_date": 20240626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240626
+    },
+    "versions": {
+        "65536": 20240626
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Strategy",
+        "Party"
+    ],
+    "intro": "Rotate the puzzle elements and collect all the amazing anime style images!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

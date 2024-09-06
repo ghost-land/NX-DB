@@ -1,4 +1,34 @@
 {
     "id": "0100C67015270800",
-    "version": 65536
+    "base_tid": "0100C67015270000",
+    "name": "Guardian Force - Saturn Tribute",
+    "description": "The Guardians, a secret society wielding the power of the Force, have readied their tanks and intend on crushing the aspirations of the Hammerbolt Empire!\n\nThis is an auto-scrolling, multidirectional shooting game released by SUCCESS in 1998.\n\nThis masterpiece of the past is given new life using the specially-developed \"Zebra Engine.\"\n\nThe new features included such as game rewind, slow mode, and quick save greatly improve ease of play.\n\nOnline rankings have also been added!",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20220211
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Attack in 360 degrees!\nGuardian Force, the timeless shooting game featuring cyber tanks, is finally back!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

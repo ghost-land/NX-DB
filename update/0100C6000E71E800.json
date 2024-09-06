@@ -1,4 +1,31 @@
 {
     "id": "0100C6000E71E800",
-    "version": 196608
+    "base_tid": "0100C6000E71E000",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "description": "プレイアブルキャラクターとして、「キングダム ハーツ」シリーズのキャラクターが多数登場！ステージによっては、ゲストメンバーとしてディズニーのキャラクターが登場し、力を貸してくれます。登場キャラクター数は20キャラクター以上！「キングダム ハーツ」シリーズの楽曲はもちろん、ディズニーの楽曲なども含め収録楽曲は140曲以上の大ボリューム！オンライン対戦も楽しめます。KHシリーズの音楽の思い出を駆け巡ろう！",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20201111,
+    "first_update_release_date": 20201110,
+    "latest_update_release_date": 20210329,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210329
+    },
+    "versions": {
+        "131072": 20201110,
+        "196608": 20210329
+    },
+    "category": [
+        "音楽",
+        "アクション"
+    ],
+    "intro": "「キングダム ハーツ」シリーズ初のリズムアクションゲームが登場！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

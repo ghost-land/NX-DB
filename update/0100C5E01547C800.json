@@ -1,4 +1,41 @@
 {
     "id": "0100C5E01547C800",
-    "version": 131072
+    "base_tid": "0100C5E01547C000",
+    "name": "A Plague Tale: Innocence - Cloud Version (TRIAL VERSION)",
+    "description": "跟著年輕的艾蜜西亞與弟弟雨果展開衆望所歸的旅程，體驗他們在歷史最黑暗之時的險境。\n在遭到宗教法庭士兵追捕，以及潮水般鼠患的包圍下，艾蜜西亞和雨果將逐漸了解彼此，繼而相互信賴。當兩人在逆境中竭力抓住微弱的生存希望，也將在這殘忍無情的世界中找到生命的意義。",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20210706,
+    "first_update_release_date": 20210705,
+    "latest_update_release_date": 20211208,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211208
+    },
+    "versions": {
+        "65536": 20210705,
+        "131072": 20211208
+    },
+    "category": [
+        "動作",
+        "冒險"
+    ],
+    "intro": "本遊戲使用雲端串流技術\n購買正式版之前必須事先利用本免費體驗版測試遊戲內的操作",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
