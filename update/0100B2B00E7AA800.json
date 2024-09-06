@@ -1,4 +1,42 @@
 {
     "id": "0100B2B00E7AA800",
-    "version": 393216
+    "base_tid": "0100B2B00E7AA000",
+    "name": "Dusk Diver",
+    "description": "When an unstable dimensional rift brings together Gods, Phantoms and Humans - headstrong highschool girl Yang Yumo must step up to protect the neighbourhood.  Fight alongside your guardians as part of a dynamic action-oriented combat system and expand your abilities by immersing yourself in the bustling streets, stores, personalities and even cuisines of Taipei.",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20191021,
+    "latest_update_release_date": 20201021,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20201021
+    },
+    "versions": {
+        "65536": 20191021,
+        "196608": 20191127,
+        "262144": 20200103,
+        "327680": 20200113,
+        "393216": 20201021
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100B23017E0A800",
-    "version": 65536
+    "base_tid": "0100B23017E0A000",
+    "name": "KUBIC",
+    "description": "KUBIC is a NEW game like you've never seen it, or heard it, or felt it before—an incredibly addictive, unique, and breathtakingly gorgeous puzzle games of all time.\nIn KUBIC, players complete circular rings by rotating and moving different falling color-shaped pieces (CUBES), which descend onto the playing field. The completed rings disappear and the player scores points, and the player can proceed to fill the vacated spaces. The game ends when the uncleared rings reach the top of the playing field. \n\nMusic, backgrounds, sounds, special effects—everything, down to the effects in perfect sync with how you're playing, making the game something you'll want to experience over and over again. Challenge yourself by reaching the top of the leaderboard. Infinite hours of fun!\n\nHint: Aim for 4xCOMBOs to achieve the highest scores. ",
+    "publisher": "Max Interactive Studio",
+    "developer": null,
+    "base_release_date": 20240131,
+    "first_update_release_date": 20240202,
+    "latest_update_release_date": 20240202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240202
+    },
+    "versions": {
+        "65536": 20240202
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Lifestyle",
+        "Arcade"
+    ],
+    "intro": "Can you beat the high scores?\n",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

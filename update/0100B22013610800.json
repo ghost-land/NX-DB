@@ -1,4 +1,44 @@
 {
     "id": "0100B22013610800",
-    "version": 131072
+    "base_tid": "0100B22013610000",
+    "name": "Zotrix Starglider",
+    "description": "Zotrix is an arcade space shooter inspired by early shooter games on arcade machines from 80's and early 90's. \nDesigned for all generations it contains levels with nice and colorful enemies while focuse is on the arcade element of the gameplay.\n\nChains of enemy ships are lining up one by one while you perform maneuvers to clear the perimeter and avoid being cleared out yourself. \nVictory doesn't come easy as you have to earn every single score point.\n\nEach stage consists of 3 waves of enemies where each wave is more challenging. \nCarve your way towards final battle while you unlock new ships and gain rewards.\n\nSpecial type of gameplay is designed for two player mode. \nYou and your friend are pit against Zotrix aliens to cooperate and find the right balance in the battle to survive and win.\n\n- unlock new ships\n- single player and two player cooperative modes\n- global leaderboards\n- collect amazing achievements\n- nice arcade synthwave music",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210107,
+    "first_update_release_date": 20210707,
+    "latest_update_release_date": 20210917,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210917
+    },
+    "versions": {
+        "65536": 20210707,
+        "131072": 20210917
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Stars are waiting for you!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

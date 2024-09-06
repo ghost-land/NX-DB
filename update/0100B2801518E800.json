@@ -1,4 +1,43 @@
 {
     "id": "0100B2801518E800",
-    "version": 65536
+    "base_tid": "0100B2801518E000",
+    "name": "Mainframe Defenders",
+    "description": "MAINFRAME DEFENDERS - tactical retrofuturistic strategy game. A computer virus has infiltrated the \"Stargazer\" research complex. Most of the robotic units are controlled by the virus. Lead a squad of 4 prototypes on a mission to defend complex mainframe. You'll have to repel assaults, destroy unit fabricators, download valuable data, clear infected nodes, and do more on your way to the deepest parts of the complex. Work with item limitations and drawbacks to build powerful combinations. Destroy your enemies with diverse tactics: overheat them, melt with corrosion, absorb damage, and return fire. But don't rely on a single strategy too much - enemies might have a way to counter it. But above everything else: defend the Mainframe!\n\n• RETRO STYLE: Graphics, inspired by 80s terminal PC with hybrid synthwave soundtrack.\n\n• DIVERSE TACTICS: Cook enemy robots to death, bury them under your bullets, eliminate with a single powerful shot, or render your opponents useless with debuffs - this game is designed with a lot of viable strategies in mind.\n\n• BUILD YOUR SQUAD: Similar to how in card games you have to build your deck, in MAINFRAME DEFENDERS you have to combine different items with unique abilities, to create an unstoppable squad. Work with item drawbacks or double down on them, creating flawed, yet powerful build!\n\n• UNIQUE ENEMIES: Enemy squad won't sit idle, though. Each unit has its own role in the squad and designed to counter certain strategies. Pick your targets wisely, or you will lose.\n\n• PROCEDURAL LEVELS: Hand-made rooms are combined with procedural generation to create random levels. Missions have differing objectives, combined with unique mission conditions. Will you accept the challenge or avoid the unknown and risk falling behind?\n\n• PROGRESSION SYSTEM: Victory or defeat, the game is not over yet! Unlock new units, each with a unique set of upgrades and load-outs. Unlock new items to bolster your new strategies.",
+    "publisher": "Big Way",
+    "developer": null,
+    "base_release_date": 20211023,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20220211
+    },
+    "category": [
+        "Action",
+        "Strategy",
+        "RPG",
+        "Other"
+    ],
+    "intro": "MAINFRAME DEFENDERS - turn-based tactics centered around gear and unit customization. It offers simple combat, high replayability, and tons of loot.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

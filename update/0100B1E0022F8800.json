@@ -1,4 +1,31 @@
 {
     "id": "0100B1E0022F8800",
-    "version": 65536
+    "base_tid": "0100B1E0022F8000",
+    "name": "VVVVVV",
+    "description": "It’s the game that’ll have you walking on the ceiling and looking up at the floor! VVVVVV is a challenging 2D action/platformer with one deceptively simple gameplay mechanic: Without the ability to jump, Captain Viridian must rely on inverting gravity to advance through hundreds of rooms and solve the puzzles he encounters therein.\n\nThis love letter to the days of 8-bit home computer games features amazing retro gameplay, a genuinely classic visual aesthetic and an earworm chiptune soundtrack created by Swedish musician Magnus Palsson.\n\nFEATURES\n• Open-world environment with six unique areas\n• 20 collectable trinkets scattered throughout the massive game world\n• Abundant checkpoints to reduce the chances of having to repeat areas you’ve already cleared\n• Multiple game modes, including Time Trials and No Death Mode\n• New local cooperative multiplayer mode\n• Silky smooth frame rate (60 fps)",
+    "publisher": "Nicalis",
+    "developer": null,
+    "base_release_date": 20171118,
+    "first_update_release_date": 20180110,
+    "latest_update_release_date": 20180110,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180110
+    },
+    "versions": {
+        "65536": 20180110
+    },
+    "category": [
+        "Platformer"
+    ],
+    "intro": "Every Section Has an Equal and Opposite Reflection",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

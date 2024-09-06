@@ -1,4 +1,42 @@
 {
     "id": "0100B2C00E4DA800",
-    "version": 65536
+    "base_tid": "0100B2C00E4DA000",
+    "name": "Served!",
+    "description": "The game features different typical characters from the world cuisine, in iconic venues of local gastronomy.\nEach playable character has his own attack corresponding to his cuisine to spice the game up.\nBon appétit!",
+    "publisher": "Light Maze",
+    "developer": null,
+    "base_release_date": 20200227,
+    "first_update_release_date": 20200227,
+    "latest_update_release_date": 20200227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200227
+    },
+    "versions": {
+        "65536": 20200227
+    },
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Party",
+        "Arcade"
+    ],
+    "intro": "Race + food = Served!\nA top-down multiplayer racing game taking place in a fun culinary universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

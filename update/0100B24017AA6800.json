@@ -1,4 +1,35 @@
 {
     "id": "0100B24017AA6800",
-    "version": 65536
+    "base_tid": "0100B24017AA6000",
+    "name": "War Mines Collection",
+    "description": "Interact with the story of World War I (the Great War) and World War II by solving puzzles, finding land, naval, and anti-tank mines, and win the war!\n\nPlay a real minesweeper in an entirely new way! The classic minesweeper game was reinvented in a way you've never seen before!\n\nClear minefields in a variety of different scenarios and guide soldiers to victory!\n\nHelp clear the ground to build medical camps, airstrips for fighter planes, and more.\n\nIf you like puzzles, minesweeper, World War I and World War II stories, and are looking for simple, minimalist fun, this is your game.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220505,
+    "first_update_release_date": 20220424,
+    "latest_update_release_date": 20220424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220424
+    },
+    "versions": {
+        "65536": 20220424
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "The Allies need your help!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

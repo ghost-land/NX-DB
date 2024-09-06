@@ -1,4 +1,30 @@
 {
     "id": "0100B1F013F2E800",
-    "version": 65536
+    "base_tid": "0100B1F013F2E000",
+    "name": "International Basketball",
+    "description": "Show you skills, moves and fakes in this fast-paced authentic Basketball game. On defense, steal ball from your opponents and on attack, score 2 or 3 points shoots or dunk.\n\nMain features:\n- Single Match with Top AI game\n- Olympic Tournament games\n- Local 2 players games \n- Full 3D\n- Realistics animations\n- Real Basketball stadiums ambient sounds\n- Intuitive Joy-Con or Pro Controllers Controls\n\nTime to enter competition!",
+    "publisher": "Pix Arts",
+    "developer": null,
+    "base_release_date": 20211105,
+    "first_update_release_date": 20210630,
+    "latest_update_release_date": 20210630,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210630
+    },
+    "versions": {
+        "65536": 20210630
+    },
+    "category": [
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

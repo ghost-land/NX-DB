@@ -1,4 +1,37 @@
 {
     "id": "0100B2900DF06800",
-    "version": 196608
+    "base_tid": "0100B2900DF06000",
+    "name": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+    "description": "The brand new iteration of the cult hit Under Night In-Birth saga, coming for the first time on Nintendo Switch™!\nFast, chaotic and spectacular anime battles galore for fans of the genre and newcomers alike.\nDeveloped by acclaimed 2D fighting game studio French-Bread, Under Night In-Brith Exe:Late[cl-r] will feature a new playable character -Londrekia- and updates to the game which include nearly a thousand balance changes and new moves.",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20200221,
+    "first_update_release_date": 20200420,
+    "latest_update_release_date": 20201123,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201123
+    },
+    "versions": {
+        "65536": 20200420,
+        "131072": 20201026,
+        "196608": 20201123
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Action"
+    ],
+    "intro": "The brand new iteration of the acclaimed Under Night In-Birth saga, coming for the first time on Nintendo Switch™! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "Violence and coarse language"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "0100B1A0066DC800",
-    "version": 196608
+    "base_tid": "0100B1A0066DC000",
+    "name": "Völgarr the Viking",
+    "description": "Völgarr the Viking possesses all the hallmarks of the true classics - simple controls, high challenge, and meticulous design - combined with hand-made pixel animation, an epic soundtrack, and buckets of blood.\n\nFlex your gaming muscles and step into the arena with Völgarr the Viking... or retire your gamer card. We dare you.",
+    "publisher": "Crazy Viking",
+    "developer": null,
+    "base_release_date": 20171006,
+    "first_update_release_date": 20171026,
+    "latest_update_release_date": 20180221,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20180221
+    },
+    "versions": {
+        "65536": 20171026,
+        "131072": 20171219,
+        "196608": 20180221
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "The indie hit Völgarr the Viking arrives!\nReturn to the Golden Age of arcades! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

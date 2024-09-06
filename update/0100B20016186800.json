@@ -1,4 +1,38 @@
 {
     "id": "0100B20016186800",
-    "version": 131072
+    "base_tid": "0100B20016186000",
+    "name": "Oaken",
+    "description": "Story:\n\nThe world of Oaken is a mythical place, existing in a not easily defined space and time. It is stretched among the branches of the Great Oak. Its inhabitants are spirits which listen to the same voice, called the Oak Song.\nThe loss of that voice starts a series of events leading into a struggle which may either heal or destroy the Great Oak.\n\nFeatures:\n\n- Roguelike, hero-oriented campaign with deck management.\n- A mystical world inhabited by spirits with celtic and tribal vibes.\n- A randomly generated world map with tons of levels, bosses and events to be discovered.\n- Unique, highly tactical battles on a hexagonal grid, where position and rotation is everything.\n- Upgrade your spells and spirits the way you want.\n- Easy to learn, hard to master - chill and challenge modes suitable for any player.",
+    "publisher": "Goblinz Studio",
+    "developer": null,
+    "base_release_date": 20230720,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240125,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240125
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20240125
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Puzzle"
+    ],
+    "intro": "Oaken is a turn-based tactical roguelike set in the spirit inhabited world. Wake the spirits and save the Oak!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

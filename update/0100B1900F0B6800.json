@@ -1,4 +1,45 @@
 {
     "id": "0100B1900F0B6800",
-    "version": 458752
+    "base_tid": "0100B1900F0B6000",
+    "name": "The Legend of Dark Witch",
+    "description": "Syega Crystals gave their powers to the people of the world, but somebody has stolen all of them...\n\nAfter all the Syega crystals are missing, the world plunges into darkness. As the dark witch Zizou, you must retrieve the missing Syega Crystals.\n\nThe Legend of Dark Witch is a 2D platform action game. Zizou can learn new attacks by defeating bosses. She will need every one of those attacks if she is going to save the world.\n\nOther Features:\n\n-A magical world beautifully depicted through in-game graphics.\n-Diverse levels that provide a fair challenge.\n-Additional bonuses that reward those who replay the game.\n-3 difficulty modes.",
+    "publisher": "INSIDE SYSTEM",
+    "developer": null,
+    "base_release_date": 20231109,
+    "first_update_release_date": 20191023,
+    "latest_update_release_date": 20200413,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200413
+    },
+    "versions": {
+        "65536": 20191023,
+        "131072": 20191108,
+        "196608": 20191114,
+        "262144": 20191122,
+        "327680": 20200211,
+        "393216": 20200225,
+        "458752": 20200413
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The Legend of Dark Witch is a 2D platform action game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

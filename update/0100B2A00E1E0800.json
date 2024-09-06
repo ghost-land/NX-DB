@@ -1,4 +1,41 @@
 {
     "id": "0100B2A00E1E0800",
-    "version": 196608
+    "base_tid": "0100B2A00E1E0000",
+    "name": "Super Monkey Ball: Banana Blitz HD",
+    "description": "Hold onto your bananas, because Super Monkey Ball: Banana Blitz HD is rolling your way! Experience the magic of one of the most beloved titles in the series, now remastered in HD! \n\nHead back into the fantastical world of Super Monkey Ball and take back your bananas from the space alien pirate king, Captain Crabuchin. Race through over 100 colorful stages and challenge your friends and family to 10 fan-favorite Party Games! Feeling like the fastest, most maneuverable monkey around? Try out Time Attack mode or the grueling Decathlon endurance run! Will you make it onto the scoreboard?",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20220201,
+    "first_update_release_date": 20191025,
+    "latest_update_release_date": 20200106,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200106
+    },
+    "versions": {
+        "65536": 20191025,
+        "131072": 20191030,
+        "196608": 20200106
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Party"
+    ],
+    "intro": "“There’s always time to Monkey around!”",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }
