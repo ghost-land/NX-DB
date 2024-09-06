@@ -1,4 +1,43 @@
 {
     "id": "0100AA0012DFA800",
-    "version": 196608
+    "base_tid": "0100AA0012DFA000",
+    "name": "Lumote: The Mastermote Chronicles",
+    "description": "Meet Lumote, the squishiest bioluminescent creature, in this beautiful 3D puzzle platformer. Take control of the world’s inhabitants on a quest to overthrow the Mastermote!",
+    "publisher": "Wired Productions",
+    "developer": null,
+    "base_release_date": 20220421,
+    "first_update_release_date": 20220414,
+    "latest_update_release_date": 20230223,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230223
+    },
+    "versions": {
+        "65536": 20220414,
+        "131072": 20220513,
+        "196608": 20230223
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "The biggest quest awaits, for the squishiest hero!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

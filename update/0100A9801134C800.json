@@ -1,4 +1,39 @@
 {
     "id": "0100A9801134C800",
-    "version": 65536
+    "base_tid": "0100A9801134C000",
+    "name": "Anna's Quest",
+    "description": "Dragons, witches, trolls... No one can stop Anna. With her telekinesis, unorthodox use of torture instruments, a knack for improvisation and the help of a shady fox she just makes her way. She communes with the dead, shuts off the local taverns beer supply and gets old ladies behind bars...\n\n\nThe world of author Dane Krams' debut on the game development stage isn't as cuddly as it may seem. Anna however, is actually perfectly nice - or is she? It all starts with freeing talking teddy bear...\n\n\nAnna's Quest unfolds a hand-drawn, grim tale with a good dash of self-irony.\n\n•\tUnlimited inventory with special slot for a baby dragon\n•\tSmall-time Vandalism\n•\tDiscover a Unicorn's inner beauty \n•\tBlack magic and telekinesis - this time, not exclusive to villains!\n•\tExecutions for the whole family! \n•Light-hearted, courageous, bad-ass: Anna \n•\tClassic Point & Click controls with hotspot-indicator \n•\tAwesome ending (really!)",
+    "publisher": "Daedalic Entertainment",
+    "developer": null,
+    "base_release_date": 20220223,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20221218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221218
+    },
+    "versions": {
+        "65536": 20221218
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Anna's Quest is a point&click adventure full of dark humor and creative puzzles\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

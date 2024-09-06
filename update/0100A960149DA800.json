@@ -1,4 +1,33 @@
 {
     "id": "0100A960149DA800",
-    "version": 65536
+    "base_tid": "0100A960149DA000",
+    "name": "Invirium",
+    "description": "Invirium is an action shooter game with randomly generated levels and elements from the roguelike genre. You are the cell which needs to eliminate dangerous pathogens in the human body. In the gameplay you can find interesting items which help you upgrade or add new features against tons of microorganisms.\n\nMICROORGANISM\nYou will find a lot of inner body enemies like bacterias, viruses or fungus. Be patient and vigilant against them - each has unique qualities which might annihilate you.\n\nORGANS\nYou will lurk many organs like intestines, kidney or liver to eliminate pathogens. Explore and find life references to the human body.\n\nMEDICAL NEWS\nApart from a cool gameplay you can find useful information about medical news in this game world \"Virofarium\" and more!",
+    "publisher": "Art Games Studio",
+    "developer": null,
+    "base_release_date": 20210520,
+    "first_update_release_date": 20210609,
+    "latest_update_release_date": 20210609,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210609
+    },
+    "versions": {
+        "65536": 20210609
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Try to challenge uncontrollable microorganisms world. You are only one - small cell against many pathogens to exterminate. Save the human body and reach the inner body nirvana.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,40 @@
 {
     "id": "0100A9500C606800",
-    "version": 262144
+    "base_tid": "0100A9500C606000",
+    "name": "Ghoulboy",
+    "description": "Ghoulboy is a retro-inspired style action platformer. Exciting new platformer that combines the action-RPG genre with hack 'n' slash gameplay. \n2D action, heroic characters, gloomy environments, demonic bosses, these all seem to excite players a lot. Pixels will be combined with other cool retro elements and the result will certainly be something that will meet the needs of Nintendo Switch™ gamers. \nOnce in-game, users will get to control a heroic character who will often be seen throwing a spear to create additional platforms. To boot, puzzle and combat elements will further enhance the experience. You wouldn’t want to miss out on it. With the gold that you collect, you can increase your health level, your arsenal of weapons to be thrown away.\nSlay as many monsters as you can, collect loot, avoid dangerous traps and defeat menacing bosses.\n\nGhoulboy brings back the look and feel of the very best classic retro platformers from the 90's, introducing refreshed and engaging gameplay mechanics. If you miss platformers from the 16-bit era, and think games nowadays aren't that good anymore, think twice! Ghoulboy is for you.\n\nFEATURES\n• 4 bosses\n• Chiptune retro musics\n• Puzzles\n• 3 weapons (small sword,big sword, mace)\n• 2 throwable weapons",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20190215,
+    "first_update_release_date": 20190206,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20190206,
+        "131072": 20190401,
+        "262144": 20200804
+    },
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "•Explore a magical realm of dungeons, towns, treasures and devious monsters.\n•Find powerful weapons, items and spells.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

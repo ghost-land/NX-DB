@@ -1,4 +1,59 @@
 {
     "id": "0100AA201236E800",
-    "version": 1245184
+    "base_tid": "0100AA201236E000",
+    "name": "Clone Drone in the Danger Zone",
+    "description": "With your mind downloaded into a robot gladiator, you must survive the sinister trials of the arena.\n\nSingleplayer Game Modes:\n   • Story Mode - One part epic tale of human defiance, another part laser swords.\n   • Endless Mode - Challenge yourself to fight through 86 level variants spread across 7 difficulty tiers. Can you make it to TITANIUM?\n   • Challenge Mode - Bow-only, hammer-only, can you still survive the arena?\n\nMultiplayer Game Modes:\n   • Last Bot Standing - A Battle-Royale-like game mode with short, 5-10 minute play sessions and up to 15 players. Survive, and shower in the remains of your fellow robot competitors.\n   • Private Duels - Challenge your friend to a 1v1 duel!\n   • Online Co-op! - Use the power of human friendship (and laser swords!) to survive in the arena!\n\nFeatures:\n   • Epic Voxel Dismemberment - In addition to looking cool, the ability to cut off body parts is central to the gameplay. Jumping on one leg is a common occurrence.\n   • Sharp Sword Combat - Combat is fast and intense, putting great emphasis on movement, timing and positioning. You are never safe, as any blow can instantly kill or dismember.\n   • Entertaining Commentary - With over 38000(!!!) spoken words, Commentatron and Analysis-Bot provide a running commentary of your performance and react to your activities.\n   • Upgrade your robot - Jetpack, bow, kicking, deflection, clones, armor, FIRE!\n   • Terrifying robotic enemies that actually get pretty hard! Sword robots, bow robots, Spidertron 5000, Spidertron 6000, gigantic hammer bots. So many things to dismember.\n   • Achievements! Unlock upgrades, emotes and multiplayer skins by achieving a rich variety of things!\n   • Emotes! - Do the Funky Pillar Dance, mock your foes, or flap your arms delightfully!",
+    "publisher": "Doborog Games",
+    "developer": null,
+    "base_release_date": 20210728,
+    "first_update_release_date": 20210622,
+    "latest_update_release_date": 20231220,
+    "latest_update": {
+        "version": "1245184",
+        "release_date": 20231220
+    },
+    "versions": {
+        "262144": 20210622,
+        "327680": 20210721,
+        "393216": 20210830,
+        "458752": 20210929,
+        "524288": 20211215,
+        "589824": 20220217,
+        "655360": 20220314,
+        "720896": 20220421,
+        "786432": 20221111,
+        "851968": 20230127,
+        "917504": 20230303,
+        "983040": 20230520,
+        "1048576": 20230802,
+        "1114112": 20231026,
+        "1179648": 20231126,
+        "1245184": 20231220
+    },
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Shooter",
+        "Fighting"
+    ],
+    "intro": "Clone Drone in the Danger Zone is a robot voxel slice-em-up where any part of your body can be sliced off.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100A9C0134DE800",
-    "version": 131072
+    "base_tid": "0100A9C0134DE000",
+    "name": "Lyrica2 Stars Align",
+    "description": "Centering around the story of Shiue and Bai forming a band group with Yang and Chun, the lives of the great Chinese poets Li Shangyin, and Du Mu intersect with the dreams of Shiue and Bai.\n\nIntroduction of game modes\n\nSongs\nIn this mode, you can play your favorite songs.\n\nStory\nIn this mode, the game progresses along with the story.\n\nChallenge\nIn this mode, you play to meet certain conditions that have been set. \n\nAchievement\nFunctions as a collection of things like trophies and CG.",
+    "publisher": "COSEN",
+    "developer": null,
+    "base_release_date": 20211008,
+    "first_update_release_date": 20211215,
+    "latest_update_release_date": 20230501,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230501
+    },
+    "versions": {
+        "65536": 20211215,
+        "131072": 20230501
+    },
+    "category": [
+        "Music",
+        "Study",
+        "Action"
+    ],
+    "intro": "A music game where you can enjoy songs that combine contemporary music such as rock, ballad, and jazz with\nclassical Chinese poetry such as Li Bai and Du Fu.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

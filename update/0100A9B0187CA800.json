@@ -1,4 +1,35 @@
 {
     "id": "0100A9B0187CA800",
-    "version": 131072
+    "base_tid": "0100A9B0187CA000",
+    "name": "ANONYMOUS;CODE",
+    "description": "2037. Nakano, Tokyo. \nPollon Takaoka is caught up in a tangle of plots as a result of his encounter with the mysterious girl Momo and faces major events that shake the world. Live the experience with Pollon, help him hack the myriad branches of reality and \"load\" the ending that saves the world!",
+    "publisher": "Spike Chunsoft US",
+    "developer": null,
+    "base_release_date": 20230908,
+    "first_update_release_date": 20230908,
+    "latest_update_release_date": 20240207,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240207
+    },
+    "versions": {
+        "65536": 20230908,
+        "131072": 20240207
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "This is the latest work by STEINS;GATE creator Chiyomaru Shikura, in collaboration with returning staff from the Science Adventure Series.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,33 @@
 {
     "id": "0100A9F01776A800",
-    "version": 131072
+    "base_tid": "0100A9F01776A000",
+    "name": "MLB® The Show™ 22 Tech Test",
+    "description": "This Tech Test is intended to help gameplay experience for MLB The Show 22. We appreciate your support/feedback to help make our game better. Please note: this will be a limited Diamond Dynasty experience and by no means representative of the final product. Learn more at theshow.com/techtest.\n\nhttps://www.playstation.com/en-us/legal/ps5-system-software-beta-agreement/",
+    "publisher": "MLBAM",
+    "developer": null,
+    "base_release_date": 20220217,
+    "first_update_release_date": 20220216,
+    "latest_update_release_date": 20220216,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220216
+    },
+    "versions": {
+        "65536": 20220216,
+        "131072": 20220216
+    },
+    "category": [
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

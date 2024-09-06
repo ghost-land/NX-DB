@@ -1,4 +1,32 @@
 {
     "id": "0100A9C010246800",
-    "version": 131072
+    "base_tid": "0100A9C010246000",
+    "name": "Wide Ocean Big Jacket",
+    "description": "** INDEPENDENT GAMES FESTIVAL 2020 - FINALIST - EXCELLENCE IN NARRATIVE **\n\nTake part in a classic camping trip: Roast hot dogs on the fire, go birdwatching, tell ghost stories, grab a beverage from the cooler and do cartwheels on the beach.\n\nWOBJ is a short story game including 20 chapters, 4 playable characters, 10,000 words of dialog and 8 explorable areas, all rendered in a beautiful 2D/3D art style.\n\n\nPlaytime: 60-90 minutes\n\n(like watching a good movie with friends or curling up to read a book)",
+    "publisher": "Tender Claws",
+    "developer": null,
+    "base_release_date": 20200205,
+    "first_update_release_date": 20200207,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200207,
+        "131072": 20200804
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "An aunt and uncle take their middle-school niece\nand her boyfriend on an overnight camping trip in\nWIDE OCEAN BIG JACKET",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Crude Humour"
+    ],
+    "region": null
 }

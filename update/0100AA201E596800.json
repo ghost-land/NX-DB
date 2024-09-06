@@ -1,4 +1,34 @@
 {
     "id": "0100AA201E596800",
-    "version": 131072
+    "base_tid": "0100AA201E596000",
+    "name": "Hellstuck: Rage With Your Friends",
+    "description": "Get ready to feel the pain!\n\nHellstuck: Rage With Your Friends is a punishing platforming game where you start in the deepest depths of Hell and must escape. But the way out is a long way up and the only thing in between you and escape is how much rage you can endure.\n\nCan you beat your friends and make it out of Hell?\n\n- Struggle upwards through each of the 9 Circles of Hell\n\n- One missed jump can lead to a long fall back down",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20240306,
+    "first_update_release_date": 20240305,
+    "latest_update_release_date": 20240322,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240322
+    },
+    "versions": {
+        "65536": 20240305,
+        "131072": 20240322
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Get ready to rage with your friends in this co-op precise platforming adventure! You're stuck in Hell. You can only jump upwards and all you have to do is escape.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

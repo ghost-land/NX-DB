@@ -1,4 +1,37 @@
 {
     "id": "0100A9800E9B4800",
-    "version": 131072
+    "base_tid": "0100A9800E9B4000",
+    "name": "Disgaea 4 Complete+",
+    "description": "When the ruling powers of Hades are revealed to be corrupt, Valvatorez must spark a rebellion to bring them down! Armed to the teeth with dynamic, over-the-top gameplay and a horde of special features, this is the ultimate Disgaea!",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20191105,
+    "first_update_release_date": 20191029,
+    "latest_update_release_date": 20200110,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200110
+    },
+    "versions": {
+        "65536": 20191029,
+        "131072": 20200110
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Action"
+    ],
+    "intro": "The ultimate Disgaea has arrived!\nHellraising action and a horde of special features\nawait you in this tale of fiery revolution.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes",
+        "Fantasy Violence",
+        "Coarse language"
+    ],
+    "region": null
 }
