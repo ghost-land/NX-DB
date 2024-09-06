@@ -1,4 +1,40 @@
 {
     "id": "0100391015642800",
-    "version": 131072
+    "base_tid": "0100391015642000",
+    "name": "Trifox",
+    "description": "Trifox is a colourful and cartoonish action-adventure featuring a phenomenal fox with a multitude of talents! Choose from a trio of classes – Warrior, Mage, Engineer – or mix-and-match abilities to create a tailor-made hero!\n\nAfter his home is attacked and his TV remote stolen, Trifox sets out in pursuit of the mysterious looters in an action-packed adventure. Use magic, might, and marvelous gadgets to outfox foes across four danger-filled worlds as you fight your way to a final showdown at Villain HQ!\n\nThree different classes: Wield a giant hammer as a Warrior! Master magic and mystery as a Mage! Use a backpack full of gadgets as an Engineer!\n\nMix-and-match styles: Customise your Trifox by combining different class-based abilities! Want to cast spells and fire a Gatling Gun? No problem!\n\n30 abilities to unlock: Collect and spend coins to gain new skills, such as Spike Slam, Shield Bubble, Guided Missile, and many more!\n\nFour worlds to beat: Fight hordes of enemies, traverse platforming pitfalls, overcome environmental puzzles, and battle big angry bosses!\n\nA modern retro adventure: A new and fresh experience designed to evoke the spirit of classic 3D platformers!",
+    "publisher": "Big Sugar",
+    "developer": null,
+    "base_release_date": 20221013,
+    "first_update_release_date": 20221125,
+    "latest_update_release_date": 20230223,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230223
+    },
+    "versions": {
+        "65536": 20221125,
+        "131072": 20230223
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A phenomenal fox in an action-packed adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "nl",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

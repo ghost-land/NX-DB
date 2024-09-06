@@ -1,4 +1,34 @@
 {
     "id": "010038B012D32800",
-    "version": 65536
+    "base_tid": "010038B012D32000",
+    "name": "BIT.TRIP BEAT",
+    "description": "From gameplay to visuals to music and imagination, BIT.TRIP BEAT is inspired by classic games in every way. Get sucked into a whole new world of sights and sounds as you juggle beats and ride the vibe in this modern look at the beginning of it all.\nOriginally released for the Nintendo Wii™ in 2009, BIT.TRIP BEAT makes its triumphant return to Nintendo platforms.\n- A modern reimagining of classic gameplay!\n- Brain-melting visuals!\n- Crazy boss battles!\n- Intriguing cutscenes!\n- Easy, medium, and hard difficulty modes\n- 20 bite-sized challenges separate from the main game\n- A rockin’ chiptune-inspired soundtrack featuring special guest Bit Shifter!\n",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20201225,
+    "first_update_release_date": 20210121,
+    "latest_update_release_date": 20210121,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210121
+    },
+    "versions": {
+        "65536": 20210121
+    },
+    "category": [
+        "Arcade",
+        "Music",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "CommanderVideo’s journey begins in BIT.TRIP BEAT, the first entry in the critically acclaimed and award-winning BIT.TRIP series.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

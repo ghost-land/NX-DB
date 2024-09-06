@@ -1,4 +1,36 @@
 {
     "id": "0100394012038800",
-    "version": 65536
+    "base_tid": "0100394012038000",
+    "name": "Linn: Path of Orchards",
+    "description": "You are in control of Aban, an exotic guardian of nature, on her journey through a lost sky temple. Help Aban on her divine mission to rejuvenate the ancient Tree of Light.\nLevels consist of treacherous dynamic platforms that make you rethink every move before you press any button. Completing each level needs both timely reactions and logical thinking.\n\nFeatures:\n\n- Beautiful environments with a soft and relaxing soundtrack\n- 56 rotating levels to complete across 4 chapters each with unique visuals\n- 20 night levels to unlock, built for hardcore players\n- 3 challenging objectives to complete in each level\n- Play with buttons or touch screen",
+    "publisher": "CarbonFire Studio",
+    "developer": null,
+    "base_release_date": 20200814,
+    "first_update_release_date": 20200928,
+    "latest_update_release_date": 20200928,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200928
+    },
+    "versions": {
+        "65536": 20200928
+    },
+    "category": [
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Step out of your conventional platforming habits and delve into the dynamic and rotating world of Linn, a modern puzzle platformer set in a fantastic and mysterious ancient world.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

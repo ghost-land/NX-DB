@@ -1,4 +1,34 @@
 {
     "id": "010039601162A800",
-    "version": 65536
+    "base_tid": "010039601162A000",
+    "name": "Him & Her",
+    "description": "Him & Her is a challenging Puzzle-Platformer in which the player must find a path to their significant other by defying gravity.\n\nCan you find love amidst darkness?\n\nFeatures:\n- 68 Challenges across all Difficulty Levels\n- Normal and Hard Difficulty Settings\n- Moody Artistic Graphics\n- Thought provoking Experience",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20231120,
+    "first_update_release_date": 20210720,
+    "latest_update_release_date": 20210720,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210720
+    },
+    "versions": {
+        "65536": 20210720
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Study",
+        "Other"
+    ],
+    "intro": "Defy gravity to find love amidst darkness in this challenging Puzzle-Platformer.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

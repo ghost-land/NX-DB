@@ -1,4 +1,46 @@
 {
     "id": "010038D00EC88800",
-    "version": 327680
+    "base_tid": "010038D00EC88000",
+    "name": "Grand Brix Shooter",
+    "description": "Board the Brix Core, piloted by Prince Brix himself. Combine aircrafts in different ways to gain abilities and grab crystals to boost your firepower. \nIt'll take split-second decisions, expert control, and a bit of luck to survive this gauntlet. Can Prince Brix defeat the evil looming before him and save the world? \n\nGame Features\n- Fusion system lets you combine with randomly-appearing aircrafts\n- Upgrade system lets you collect experience points to power up your aircraft\n- Strategic elements - change crafts at the right time to survive the waves of bullets\n- Secret units with massive power\n- Challenge Mode lets you compete with friends for high scores\n- Online leaderboard encourages you to step up your game",
+    "publisher": "Intragames",
+    "developer": null,
+    "base_release_date": 20190829,
+    "first_update_release_date": 20190828,
+    "latest_update_release_date": 20191025,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20191025
+    },
+    "versions": {
+        "65536": 20190828,
+        "131072": 20190905,
+        "196608": 20190913,
+        "327680": 20191025
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Challenge yourself to a new kind of bullet-hell fusion shooter. Change your aircraft to get new skills just when you need them against advancing foes. Aim for the top!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

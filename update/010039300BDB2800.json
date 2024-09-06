@@ -1,4 +1,46 @@
 {
     "id": "010039300BDB2800",
-    "version": 196608
+    "base_tid": "010039300BDB2000",
+    "name": "Defunct",
+    "description": "You are a broken robot that accidentally falls out\nof a giant cargo ship onto a post-human Earth, now\ninhabited by robots. You have to get back to your\nship before it’s too late!\n\nYou are equipped with a Gravitize engine. It is\nused to create a separate gravity around yourself;\nthis is the main source of your speed. Use this in\ndownhills to accelerate. But be careful, using it\nuphill will slow you down. In addition to this the\nworld is full of different speed boosts such as\nEnerjuice, which you can pick up and use to go faster.",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20180913,
+    "first_update_release_date": 20180910,
+    "latest_update_release_date": 20200421,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200421
+    },
+    "versions": {
+        "65536": 20180910,
+        "196608": 20200421
+    },
+    "category": [
+        "Racing",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Defunct is an indie adventure game with a focus on flow, speed and an engaging world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

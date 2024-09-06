@@ -1,4 +1,44 @@
 {
     "id": "0100396012844800",
-    "version": 196608
+    "base_tid": "0100396012844000",
+    "name": "RESEARCH and DESTROY",
+    "description": "Take control of three brilliant scientists as you RESEARCH and develop strange new weapons and gadgets to DESTROY the Supernatural hordes that have all but crushed humanity!\n\nRESEARCH - Gain fresh insight into the Supernatural threat via battlefield vivisections, then develop radical upgrades for each weird weapon and fascinating gadget!\n\nDESTROY - Plan ahead, then run-and-gun in a combination of turn-based strategy and real-time shooting--every second counts!\n\nCO-OP - Tailor your scientists’ appearance, then drop in or out of local co-op with friends at any time!\n\nCAMPAIGN - Adapt your guerilla science tactics to manage the campaign map and seek the Supernatural source--no two playthroughs are the same!",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20220425,
+    "first_update_release_date": 20220425,
+    "latest_update_release_date": 20221007,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20221007
+    },
+    "versions": {
+        "65536": 20220425,
+        "131072": 20220901,
+        "196608": 20221007
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "RESEARCH and DESTROY is a TURN-BASED ACTION GAME with local co-op. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

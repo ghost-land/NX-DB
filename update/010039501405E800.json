@@ -1,4 +1,40 @@
 {
     "id": "010039501405E800",
-    "version": 131072
+    "base_tid": "010039501405E000",
+    "name": "Blanc",
+    "description": "An emotional journey\nExperience the poetic tale of a wolf cub and a fawn in the spectacular world of Blanc. Lost in a sudden snowstorm, they will have to lean on each other in order to follow the footprints their families left behind in the snow.\n\nBreathtaking hand-crafted art\nImmerse yourself in the stunningly beautiful black-and-white world of Blanc – completely hand-drawn on paper in 2D before coming to life in 3D. Blanc focuses on the journey and experience of the animals with text-free gameplay and storytelling, allowing players to dive completely into its wondrous world.\n\nFollow your families’ tracks\nEach animal has their own unique strengths that complements the other, which you’ll need to make use of to navigate through the snowy landscapes. Using only two buttons and movement, this simple gameplay allows for anyone to play and follow their journey home.\n\nCooperation Required\nTwo players take control of either the wolf cub or the fawn. Guide them through the environment, unforgiving weather, and obstacles that you must face together. Build a relationship together locally on the same screen or from far away with online play.\n",
+    "publisher": "Gearbox Publishing",
+    "developer": null,
+    "base_release_date": 20230214,
+    "first_update_release_date": 20230203,
+    "latest_update_release_date": 20230329,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230329
+    },
+    "versions": {
+        "65536": 20230203,
+        "131072": 20230329
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Blanc is an artistic cooperative adventure that follows the journey of a wolf cub and a fawn stranded in a vast, snowy wilderness. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

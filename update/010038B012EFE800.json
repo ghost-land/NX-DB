@@ -1,4 +1,43 @@
 {
     "id": "010038B012EFE800",
-    "version": 65536
+    "base_tid": "010038B012EFE000",
+    "name": "Trash Sailors",
+    "description": "The world was flooded by a giant Trash Tsunami! Luckily for you, a lot of trash is floating around. Trash is your main resource and the most valuable thing in this world. You can recycle it into fuel, raft spare parts, and even weapons. Brace yourself for swamp crocodiles, toxic sharks, arctic pirates, and much, much more!\n• Online and local 4-player coop.\n• Hand-drawn trash piracy.\n• Dozens of seas for treasure hunting!\n• Battles for the last piece of trash.",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20221006,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230113
+    },
+    "versions": {
+        "65536": 20230113
+    },
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Party",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

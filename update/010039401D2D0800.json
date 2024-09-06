@@ -1,4 +1,37 @@
 {
     "id": "010039401D2D0800",
-    "version": 65536
+    "base_tid": "010039401D2D0000",
+    "name": "Devil Inside Us: Roots of Evil",
+    "description": "Devil Inside Us: Roots of Evil is a story focused horror game.\nPlay as a priest and help a family with their cursed house, explore, follow your visions and exorcize the evil!\n\nAughust Heylel, an exorcist legitimized by the vatican and a relevant priest doesn't belive in his own faith anymore. \n\nHe writes a letter talking about his life and his worst mission, the case \"Roots of Evil\", which started in 1984.\n\nHis mission was to investigate a house with paranormal activities, but the problem was way deeper.\n\nThe case stuck into Aughust's head for more than 30 years, and now, it's finally the time to finish it!\n\nFeatures:\n- Explore the house, find itens, notes and cursed objects\n- Control a 74 year old priest with limited movement, beware of his condition\n- Aughust's medium skills will take you to unusual places and guide you to solve the mistery\n- Use your crucifix to exorcize cursed objects and Devils",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20240125,
+    "first_update_release_date": 20240111,
+    "latest_update_release_date": 20240111,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240111
+    },
+    "versions": {
+        "65536": 20240111
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "Play as a priest and exorcize the evil!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Language"
+    ],
+    "region": null
 }

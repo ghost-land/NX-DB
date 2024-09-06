@@ -1,4 +1,39 @@
 {
     "id": "0100393016D7E800",
-    "version": 131072
+    "base_tid": "0100393016D7E000",
+    "name": "WAIFU IMPACT",
+    "description": "WAIFU IMPACT is a third person shooter, immersive single-player game in a paradisiac deserted island. \nEquip yourself with a watergun and unlock all the waifus!\nIt's so hot, so why don't you come to Waifu Island?\nThe cutest girls are waiting for you, let's have some fun!\nWatergun in hand, find all the stars and unlock the 8 beautiful girls! Increase your affinity with the girls defeating your enemies with them and then check out the gallery to see what they have for you!",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220503,
+    "latest_update_release_date": 20220620,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220620
+    },
+    "versions": {
+        "65536": 20220503,
+        "131072": 20220620
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Party"
+    ],
+    "intro": "Third person shooter, immersive game in a paradisiac island.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Sexual Themes"
+    ],
+    "region": null
 }

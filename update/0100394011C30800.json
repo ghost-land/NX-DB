@@ -1,4 +1,42 @@
 {
     "id": "0100394011C30800",
-    "version": 196608
+    "base_tid": "0100394011C30000",
+    "name": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+    "description": "Complete Edition includes the remaster of Scott Pilgrim vs. The World™: The Game and its original DLCs: the Knives Chau and Wallace Wells Add-On Packs. Rediscover the beloved 2D arcade-style beat 'em up inspired by the iconic comic book series and movie, Scott Pilgrim vs. The World.\n\nPlay as your favorite characters – Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more! \n\nTeam up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball, all on your way to defeat the League of Ramona's Evil Exes!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20210212,
+    "first_update_release_date": 20210115,
+    "latest_update_release_date": 20220420,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220420
+    },
+    "versions": {
+        "65536": 20210115,
+        "131072": 20210303,
+        "196608": 20220420
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Language",
+        "Mild Blood",
+        "Partial Nudity",
+        "Users Interact"
+    ],
+    "region": null
 }

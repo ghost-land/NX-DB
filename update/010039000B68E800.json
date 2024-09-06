@@ -1,4 +1,44 @@
 {
     "id": "010039000B68E800",
-    "version": 196608
+    "base_tid": "010039000B68E000",
+    "name": "MY HERO ONE'S JUSTICE",
+    "description": "Fight for your justice in MY HERO ONE'S JUSTICE! The popular manga and anime series clashes head-to-head and Quirk-to-Quirk in this 3D arena fighter. Pave your path and choose between hero or villain and battle through iconic moments.\n\n・Choose from a cast of fan favorite characters like Deku, All Might, Shigaraki, and many more! \n・Use each character's Quirks to achieve superhuman feats such as One for All, Decay, Explosion, and many more!\n・Call upon your sidekicks to create your own unique team of heroes and villains\n・Unlock accessories to customize your favorite character's appearance\n・See the perspective of both heroes and villains as you enjoy the story from both sides, available only in MY HERO ONE'S JUSTICE\n・Engage in fully featured online combat and climb your way up the leaderboards to become the world's number one hero or villain!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20181010,
+    "latest_update_release_date": 20181113,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181113
+    },
+    "versions": {
+        "65536": 20181010,
+        "131072": 20181108,
+        "196608": 20181113
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Fight For Your Justice!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Mild Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

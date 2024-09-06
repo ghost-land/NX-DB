@@ -1,4 +1,49 @@
 {
     "id": "010038A016E92800",
-    "version": 262144
+    "base_tid": "010038A016E92000",
+    "name": "Oxide Room 104",
+    "description": "Combining escape room gameplay and action, Oxide Room 104 is a bone-chilling single-player body-horror game set inside an old motel. Abducted, at the mercy of a ruthless scientist, and stalked by a horrible creature, you must try to escape using common sense, just as you would in real life. Can you get out of Oxide?\n\nIt all starts when you wake up in the bathtub of a motel room, naked, wounded, and unsure what has happened. You remember that the deal had gone wrong, but now the only thing that matters is trying to escape from that horrifying place no matter what. From this moment on, everything you do will lead you to one of the endings. And we warn you that, out of all the ways it could end, there’s only one good way out…\n\nThere are many options and ways to solve situations, as well as different paths. Some actions will lead you to states that will alter your perception of the environment and even to an abrupt outcome. Remember that a bad decision can be the difference between life and death.\n\n• It's your choice! Matthew has gotten this far by making bad decisions. Decide carefully as your actions will affect how the game plays out and ends. It’s up to you to get out of there alive… or not.\n\n• Interact with virtually anything as you would in real life. Search for resources, maps, clues, or something to defend yourself with. The Night Soul Motel is full of things you can use.\n\n• A shocking story. Getting out of there is not going to be an easy task and finding out WHAT OXIDE IS will be a challenge. Someone is playing with you, but what’s behind all this?\n\n• Game over? Every time the character dies, either accidentally or at the hands of the motel’s dangers, you will reappear in the bathtub of room 104, but everything has a price…\n\n• Great replayability. Your actions and decisions will affect the end of your adventure, so each game will be a challenge as you have many different options to explore.",
+    "publisher": "Wild Sphere",
+    "developer": null,
+    "base_release_date": 20220617,
+    "first_update_release_date": 20220613,
+    "latest_update_release_date": 20221206,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20221206
+    },
+    "versions": {
+        "65536": 20220613,
+        "131072": 20220623,
+        "196608": 20221122,
+        "262144": 20221206
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "A bone-chilling body-horror game with escape room gameplay - will you make it out alive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Nudity",
+        "Strong Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "01003960172BC800",
-    "version": 65536
+    "base_tid": "01003960172BC000",
+    "name": "Arcade Archives WONDER MOMO",
+    "description": "\"WONDER MOMO\" is an action game released by NAMCO（BANDAI NAMCO Entertainment Inc.)  in 1987.\nControl the hero, Momo, and take down the Warudemon Villain to keep the world at peace.\nRide the whirlwind to transform into WONDER MOMO and fight for your success as a costumed hero, using Wonder Rings and special moves!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220331,
+    "first_update_release_date": 20220419,
+    "latest_update_release_date": 20220419,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220419
+    },
+    "versions": {
+        "65536": 20220419
+    },
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Defeat the Warudemon Villain that threaten\nyour peaceful world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

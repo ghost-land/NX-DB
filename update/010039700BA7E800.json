@@ -1,4 +1,35 @@
 {
     "id": "010039700BA7E800",
-    "version": 131072
+    "base_tid": "010039700BA7E000",
+    "name": "Circle of Sumo",
+    "description": "Have fun with your friends with the great award-winning Circle of Sumo!\nCOS is simple and compelling at the same time, with a lot of different challenges. It's pure fun!\n\nTake control of 8 different sumo wrestlers and challenge your friends on daring fights and sport based extra-games!\n\n- Up to 4 local players\n- 8 different characters\n- 24 sumo arenas\n- 4 crazy extra-games  \n- 2 single player mini-games\n\nCircle of Sumo is a must for the game nights with your friends!",
+    "publisher": "Strelka Games",
+    "developer": null,
+    "base_release_date": 20181116,
+    "first_update_release_date": 20181103,
+    "latest_update_release_date": 20181119,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20181119
+    },
+    "versions": {
+        "65536": 20181103,
+        "131072": 20181119
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Sports",
+        "Fighting"
+    ],
+    "intro": "The award-winning Circle of Sumo finally comes to Nintendo Switch™! ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

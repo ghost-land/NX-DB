@@ -1,4 +1,36 @@
 {
     "id": "010038C00EC34800",
-    "version": 131072
+    "base_tid": "010038C00EC34000",
+    "name": "Under Night In-Birth Exe:Late[cl-r]",
+    "description": "Rule the Night! Control a deeper, darker fighting experience than ever before. Battle with 21 unique characters, including the all-new Londrekia with his original moves, story, stage, and music. Master devastating new combos and dazzling special attacks in online, arcade, story, and training modes.  Command combatants with different brawling techniques showcasing over 12,000 stunning frames of animation.\nPerfect your style with nearly 1000 character balance adjustments.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20200220,
+    "first_update_release_date": 20200420,
+    "latest_update_release_date": 20201026,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201026
+    },
+    "versions": {
+        "65536": 20200420,
+        "131072": 20201026
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Mild Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }
