@@ -1,4 +1,32 @@
 {
     "id": "0100CAF015C32800",
-    "version": 65536
+    "base_tid": "0100CAF015C32000",
+    "name": "Sports & Adventure Pinball",
+    "description": "Enjoy 6 games in one with the perfect reproduction of real pinball machines, with all kinds of graphic details and sounds.\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
+    "publisher": "SuperPowerUpGames",
+    "developer": null,
+    "base_release_date": 20211001,
+    "first_update_release_date": 20211125,
+    "latest_update_release_date": 20211125,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211125
+    },
+    "versions": {
+        "65536": 20211125
+    },
+    "category": [
+        "Simulation",
+        "Sports",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "This pack includes the games: World Soccer Pinball, Touchdown Pinball, Basketball Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

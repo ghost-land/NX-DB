@@ -1,4 +1,46 @@
 {
     "id": "0100CBC018546800",
-    "version": 655360
+    "base_tid": "0100CBC018546000",
+    "name": "Super Dungeon Maker",
+    "description": "Choose however many levels, enemies, secret rooms, traps and items you want. Challenge your friends and the community to master your dungeon or play the countless dungeons of the community.\n\nDUNGEON EDITOR\nThe easy to learn editor allows you to build exciting and complex dungeons. \n\nSHARE YOUR DUNGEONS\nPlay the most popular community dungeons or share your own with other players.\n\nUNLIMITED CREATIVITY\nA variety of enemy types and items provide almost countless creative possibilities.\n\nPLAY ON THE GO\nWith the offline mode, you can save community dungeons and play them without an internet connection.",
+    "publisher": "Rokaplay",
+    "developer": null,
+    "base_release_date": 20230503,
+    "first_update_release_date": 20230419,
+    "latest_update_release_date": 20240704,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240704
+    },
+    "versions": {
+        "65536": 20230419,
+        "131072": 20230621,
+        "196608": 20230926,
+        "262144": 20231010,
+        "327680": 20231219,
+        "393216": 20240112,
+        "458752": 20240419,
+        "655360": 20240704
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "Super Dungeon Maker is a creative pixel art dungeon editor inspired by the best 2D adventure games.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

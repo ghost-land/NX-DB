@@ -1,4 +1,32 @@
 {
     "id": "0100CB301B1C8800",
-    "version": 65536
+    "base_tid": "0100CB301B1C8000",
+    "name": "Quick Race",
+    "description": "Everything you need to do is very simple – just race and overtake every other car on the track to win the race! Quick Race is a simple racing game where you can compete with AI or on a split screen with your friend.\nMain features included in the game:\n\n- Tournament mode \n- Topdown camera mode\n- 10 tracks with different shapes and surfaces\n- the ability to change the time of the day\n- the ability to change AI difficulty\n- different types of cars\n- split-screen\n- simple steering\n\n\n\"Quick Race\" is definitely not a simulation game, but the steering is designed to imitate real steering as closely as possible. Remember to be a nice driver to the other cars, otherwise they won't be nice to you and you may end up crashing into a wall or going off the track. So what are you waiting for? Grab the key and put it in your racer's ignition!\n",
+    "publisher": "SOURCE BYTE",
+    "developer": null,
+    "base_release_date": 20230629,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20230523
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "intro": "Ready, Steady, Go!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

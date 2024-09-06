@@ -1,4 +1,43 @@
 {
     "id": "0100CB800B07E800",
-    "version": 65536
+    "base_tid": "0100CB800B07E000",
+    "name": "NOT A HERO: SUPER SNAZZY EDITION",
+    "description": "Professional assassin turned amateur campaign manager Steve is charged with cleaning up the city by an anthropomorphic rabbit and mayoral candidate from the future named BunnyLord. Now Steve and his expanding roster of dubious heroes must wield their unique skills to shoot, slide, dive, and take cover behind a political platform built on ethics, accountability, and an inordinate amount of gunfire. Eliminate the criminal underworld of the city’s three major districts and persuade undecided voters to your cause, tackling the issues that matter by putting a gun in the mouth of those issues. \n\nThrough the power of ISO-Slant™ technology and a wasted youth, London-based developer Roll7 (OlliOlli) delivers the greatest 2¼D cover-based indie shooter of all-time, ever.\n\nNext Level Shootouts – Use reasonable force unreasonably in a dynamic mix of run-and-gun gameplay and cover-based shootouts. The intuitive quick-snap cover system lets you slide, roll, and dive into cover, dodging enemy fire before fighting back with tackles, executions, and 100s of bullets.\n\nRoster of Not Heroes - Select between 9 different heroes, each with their own distinct gameplay style and crime murdering abilities. Blast the city’s scum through doors with Cletus’ a shotgun, slice them in half with Kimmy’s katana dash, or simply bash crime in it’s terrible face with Ronald’s hammer.\n\nDynamic Missions – Go ham on primary objectives and (sometimes random) secondary goals but be prepared for unexpected mid-level events that turn the tables on the anti-heroes in an instant. SWAT teams, gun-toting elderly, helicopter gunships, pandas, pugs and suicidal samurais stand between you and victory.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230829,
+    "first_update_release_date": 20180820,
+    "latest_update_release_date": 20180820,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180820
+    },
+    "versions": {
+        "65536": 20180820
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Crude Humor",
+        "Drug Reference",
+        "Strong Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

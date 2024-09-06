@@ -1,4 +1,65 @@
 {
     "id": "0100CC400DDE8800",
-    "version": 1441792
+    "base_tid": "0100CC400DDE8000",
+    "name": "Realm Royale Reforged",
+    "description": "Join 20+ million players and experience a new kind of battle royale in Realm Royale Reforged! Choose your class, forge deadly weapons, and master powerful abilities to be the last champion standing. Mount up alone or with a team to explore a fantasy world while outrunning the deadly fog.",
+    "publisher": "Hi-Rez Studios",
+    "developer": null,
+    "base_release_date": 20220822,
+    "first_update_release_date": 20190523,
+    "latest_update_release_date": 20230803,
+    "latest_update": {
+        "version": "1441792",
+        "release_date": 20230803
+    },
+    "versions": {
+        "65536": 20190523,
+        "131072": 20190620,
+        "196608": 20190710,
+        "262144": 20190806,
+        "327680": 20191001,
+        "393216": 20191010,
+        "458752": 20200204,
+        "524288": 20200221,
+        "589824": 20200520,
+        "655360": 20210421,
+        "720896": 20220822,
+        "786432": 20220826,
+        "851968": 20220915,
+        "917504": 20220923,
+        "983040": 20221012,
+        "1048576": 20221030,
+        "1114112": 20221201,
+        "1179648": 20221208,
+        "1245184": 20230316,
+        "1310720": 20230427,
+        "1376256": 20230520,
+        "1441792": 20230803
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

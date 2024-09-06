@@ -1,4 +1,34 @@
 {
     "id": "0100CB60163C0800",
-    "version": 65536
+    "base_tid": "0100CB60163C0000",
+    "name": "Rogue Sentry",
+    "description": "You are a sentry droid, part of the robotic legion that nearly wiped out mankind and seized control of civilization, but you’ve gone rogue and now represent humanity’s last hope for survival! Rogue Sentry is a hardcore twin-stick adventure shoot’em up where you’ll navigate the complex inner workings of a gigantic prison fortress, face gun and laser wielding machines, pick up human survivors along the way and attempt to escape to safety before it’s too late!\n\nPresented in 1-bit pixel art style and set to a retro chiptune soundtrack, Rogue Sentry is a minimalistic and nostalgic journey with an epic finale and multiple endings. What fate will humanity meet on your watch?\n\nFeatures:\n\n• Navigate a massive fortress filled with mechanical threats!\n• Find human survivors and lead them to safety.\n• Enjoy 1-bit graphics and chiptune music for an authentic retro vibe!\n• Discover multiple endings depending on actions and performance.\n• Explore alternate game modes for enhanced replay value!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20241009,
+    "first_update_release_date": 20240902,
+    "latest_update_release_date": 20240902,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240902
+    },
+    "versions": {
+        "65536": 20240902
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Save the last remnants of humanity and attempt to reverse the apocalypse!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

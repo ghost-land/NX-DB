@@ -1,4 +1,48 @@
 {
     "id": "0100CB700D438800",
-    "version": 720896
+    "base_tid": "0100CB700D438000",
+    "name": "Monster Hunter Stories 2: 破滅之翼",
+    "description": "《MONSTER HUNTER STORIES》是一款RPG遊戲，玩家將會成為與魔物建立羈絆、加以培育並與之共存的「騎士」，在「Monster Hunter」的世界中冒險。本作為系列第二彈，有關羈絆的全新故事將會揭開帷幕。\n\n【故事】\n在所有火龍都遠去他方的世界內──\n\n繼承了偉大騎士「烈度」之血統的主角，將命中注定地跟被託付了龍蛋的龍人族少女艾娜相遇。自龍蛋孵化的火龍正如傳說所言，擁有漆黑的翅膀，樣貌跟「破滅火龍」如出一轍。\n\n為了查明在世界各地發生的異變及傳說的真相，主角一行人踏上旅途，並會編織出一個有關破滅和希望的故事。",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210709,
+    "first_update_release_date": 20210610,
+    "latest_update_release_date": 20240514,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240514
+    },
+    "versions": {
+        "196608": 20210610,
+        "262144": 20210714,
+        "327680": 20210804,
+        "393216": 20210901,
+        "458752": 20210929,
+        "524288": 20211008,
+        "589824": 20211020,
+        "655360": 20211214,
+        "720896": 20240514
+    },
+    "category": [
+        "角色扮演",
+        "冒險"
+    ],
+    "intro": "Monster Hunter系列 RPG第二彈！\n被託付的，會是破滅，還是希望……",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100CC3014886800",
-    "version": 65536
+    "base_tid": "0100CC3014886000",
+    "name": "The Caligula Effect 2",
+    "description": "The virtuadoll Regret creates Redo, a simulation in which people are trapped. To escape from Redo, a group of \"awakened\" high school students re-establish the Go-Home Club to fight against Regret’s reign and escape to the real world.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20211026,
+    "first_update_release_date": 20231017,
+    "latest_update_release_date": 20231017,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231017
+    },
+    "versions": {
+        "65536": 20231017
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Escape your regret, Redo to forget",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy themes and violence"
+    ],
+    "region": null
 }

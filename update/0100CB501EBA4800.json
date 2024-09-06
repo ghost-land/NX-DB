@@ -1,4 +1,33 @@
 {
     "id": "0100CB501EBA4800",
-    "version": 65536
+    "base_tid": "0100CB501EBA4000",
+    "name": "Monolith",
+    "description": "A classical science fiction point and click adventure which takes you into a deep story and murky atmosphere, while solving logical puzzles. Accompany Tessa Carter and her talking robot as she finds out about herself and searches for a way to survive.\n\nDetails\n- 50 hand drawn locations full of atmosphere and detail\n- Three dimensional characters and motion capture animations\n- 7 – 9 hours of play time",
+    "publisher": "Animation Arts",
+    "developer": null,
+    "base_release_date": 20240613,
+    "first_update_release_date": 20240613,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20240613
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

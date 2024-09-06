@@ -1,4 +1,51 @@
 {
     "id": "0100CB50107BA800",
-    "version": 458752
+    "base_tid": "0100CB50107BA000",
+    "name": "Truck Driver",
+    "description": "When you inherit a truck from your father, you decide to take your chance and move to a new city. Here, it’s up to you to make a name for yourself and earn the respect of the local community. Drive through a seamless open world, work with all kinds of people ranging from a constructor to a lumberjack and honor your father by making it as a Truck Driver!\n\nFeatures\n● Enjoy a trucking experience focused on your career as a truck driver\n● Build stronger relationships with the local community with each job\n● Customize your truck with tons of parts and tune it to your liking\n● Navigate through diverse landscapes and interesting locations",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20220401,
+    "first_update_release_date": 20201116,
+    "latest_update_release_date": 20220124,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220124
+    },
+    "versions": {
+        "65536": 20201116,
+        "131072": 20201117,
+        "196608": 20210218,
+        "262144": 20210401,
+        "327680": 20210827,
+        "393216": 20211019,
+        "458752": 20220124
+    },
+    "category": [
+        "Simulation",
+        "Racing",
+        "Adventure",
+        "Lifestyle"
+    ],
+    "intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
+    "region": null
 }

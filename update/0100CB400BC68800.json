@@ -1,4 +1,60 @@
 {
     "id": "0100CB400BC68800",
-    "version": 1441792
+    "base_tid": "0100CB400BC68000",
+    "name": "Trove",
+    "description": "Battle the forces of Shadow in realms filled with incredible dungeons and items created by your fellow players. Whether hunting treasure in far-off lands or building realms of your own, it’s never been this good to be square!",
+    "publisher": "gamigo US",
+    "developer": null,
+    "base_release_date": 20210624,
+    "first_update_release_date": 20210623,
+    "latest_update_release_date": 20240813,
+    "latest_update": {
+        "version": "1441792",
+        "release_date": 20240813
+    },
+    "versions": {
+        "65536": 20210623,
+        "131072": 20210714,
+        "196608": 20210810,
+        "262144": 20211026,
+        "327680": 20211214,
+        "393216": 20220301,
+        "458752": 20220503,
+        "524288": 20220607,
+        "589824": 20220728,
+        "655360": 20220906,
+        "720896": 20221110,
+        "786432": 20230105,
+        "851968": 20230307,
+        "917504": 20230502,
+        "983040": 20230530,
+        "1048576": 20230803,
+        "1114112": 20230914,
+        "1179648": 20231017,
+        "1245184": 20231219,
+        "1310720": 20240312,
+        "1376256": 20240604,
+        "1441792": 20240813
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Grab your friends, hone your blades, and set off for adventure in Trove, the ultimate action MMO!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Scary Scenes",
+        "Users Interact",
+        "In-game Purchases (Includes Random Items)"
+    ],
+    "region": null
 }
