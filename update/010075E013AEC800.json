@@ -1,4 +1,38 @@
 {
     "id": "010075E013AEC800",
-    "version": 65536
+    "base_tid": "010075E013AEC000",
+    "name": "Backpack Twins",
+    "description": "Swap. Solve. Survive.\n\nBackpack Twins is a hard but fair single player puzzle platformer... with a twist! \nControl both twins by swapping between them, and make them work together in order to solve environmental puzzles, move forward and stay alive!\n\nAvoid hazards, jump, duck, swap and time your moves carefully.\n\nA carefully crafted blend of platforming and puzzle solving.\nOld school platforming that will test your skills!\nCollectibles that are easy to find but hard to get! Get them all to unlock additional awesomeness!\nResponsive and precise controls.\nSpeedrun friendly. Last and best times are saved for each level.\nIncludes left and right handed controller layouts for accessibility.\nMade with love, just for you.\nBackpacks! (x2)\nTwins! (x2)\nHumor! (not guaranteed)",
+    "publisher": "AMATA",
+    "developer": null,
+    "base_release_date": 20230104,
+    "first_update_release_date": 20230626,
+    "latest_update_release_date": 20230626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230626
+    },
+    "versions": {
+        "65536": 20230626
+    },
+    "category": [
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Hard but fair single player puzzle platformer.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

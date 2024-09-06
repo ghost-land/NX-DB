@@ -1,4 +1,45 @@
 {
     "id": "0100760002048800",
-    "version": 393216
+    "base_tid": "0100760002048000",
+    "name": "NBA 2K18",
+    "description": "NOTE: All multiplayer servers for NBA 2K18 will be shutdown as of 31/12/2019. After that time, all game functions requiring online servers will no longer function.\n\nmicroSD Card Required\n\nLOCAL PLAY \nWhether on the go or at home, connect up to 4 devices locally to play with your friends in Play Now.\n\nRUN THE NEIGHBORHOOD\nThe future of sports career modes has arrived, allowing you to play the game the way you like. Build your career in NBA games, hit the courts in The Playground, join the Pro-Am circuit, or explore an all-new open neighborhood setting. \n\nRoad to 99\nA unified badge system across Pro-Am, Park, and MyCAREER, with attributes, animations, and badges all defining your play style on your road to a 99 rating.  \n\nMyTEAM\nCollect cards featuring NBA legends from yesterday and today, and compete in a variety of modes.\n\nMotion System\nThe new motion system dynamically creates animations to deliver the best gameplay experience possible.\n\nSpecial Guest Commentary\nKobe Bryant and Kevin Garnett join the booth on a rotating basis to lend their expertise to the broadcast.\n\nAll-Time Teams\nThe greatest players in NBA history from all 30 teams, together on All-Time franchise rosters for the very first time.\n\nClassic Teams\nPlay with 62 of the NBA’s greatest teams from the past, including 17 new additions.",
+    "publisher": "2K Games",
+    "developer": null,
+    "base_release_date": 20170915,
+    "first_update_release_date": 20170913,
+    "latest_update_release_date": 20180228,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20180228
+    },
+    "versions": {
+        "65536": 20170913,
+        "131072": 20171006,
+        "196608": 20171013,
+        "262144": 20171127,
+        "327680": 20171219,
+        "393216": 20180228
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "0100767008502800",
-    "version": 65536
+    "base_tid": "0100767008502000",
+    "name": "FANTASY HERO ～unsigned legacy～",
+    "description": "Save the world in \"Fantasy Hero -unsigned legacy-\", by choosing from one of four heroes, and reclaiming what was lost to the Decoders!\n\nSet yourself on fire and charge head in, or pulverize them with powerful throws. Like keeping a safe distance from your opponents? \nThen, pick them off with projectiles, or send your robot in to do your bidding. \nThe variety of combat styles and skills will let players build heroes to their liking.",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20180126,
+    "first_update_release_date": 20180314,
+    "latest_update_release_date": 20180314,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180314
+    },
+    "versions": {
+        "65536": 20180314
+    },
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Hack'n'Slash X Action RPG!?\nStand up with the 4 heroes to save the world!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

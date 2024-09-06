@@ -1,4 +1,35 @@
 {
     "id": "010075601150A800",
-    "version": 131072
+    "base_tid": "010075601150A000",
+    "name": "1993 Shenandoah",
+    "description": "Towards the end of the Interstellar Wars, chaos spread and one band of elite mercenaries acted more like pirates and looters than actual soldiers. The leader of this group was the notorious and infamous Colonel Nestor.\n\nWithout a doubt the biggest prize of their looting was the Shenandoah, a device designed to terraform barren planets. With this device Nestor and his men started to build an army that now poses a great threat to the known star systems.\n\nYour mission: Take down Nestor and bring back the Shenandoah.",
+    "publisher": "Aurora Punks",
+    "developer": null,
+    "base_release_date": 20200709,
+    "first_update_release_date": 20200710,
+    "latest_update_release_date": 20220404,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220404
+    },
+    "versions": {
+        "65536": 20200710,
+        "131072": 20220404
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Space shooters never die",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

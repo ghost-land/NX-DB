@@ -1,4 +1,42 @@
 {
     "id": "010075B004DD2800",
-    "version": 65536
+    "base_tid": "010075B004DD2000",
+    "name": "DISTRAINT: Deluxe Edition",
+    "description": "DISTRAINT: Deluxe Edition is a 2D psychological horror adventure game that tells the story of Price, a young man who seizes an old woman’s apartment. After seizing her home, his humanity is now gone. So begins his tale of regrets…\n\nCreep your way through different locations, learning the backstory of Price and his motivations that led him down this dark path. \n\nProgress through the somber story by solving light puzzles across a variety of different scenarios and settings!\n\nFeatures:\n * Side scrolling 2D art with dynamic hand drawn graphics\n * Atmospheric music and sound design\n * Minimalist interface so your focus never wavers from the experience\n * Delve into a unique story full of intriguing twists",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190913,
+    "first_update_release_date": 20211201,
+    "latest_update_release_date": 20211201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211201
+    },
+    "versions": {
+        "65536": 20211201
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "How much is your humanity worth?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Drug Use",
+        "Strong Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

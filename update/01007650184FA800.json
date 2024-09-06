@@ -1,4 +1,44 @@
 {
     "id": "01007650184FA800",
-    "version": 131072
+    "base_tid": "01007650184FA000",
+    "name": "Colossal Cave",
+    "description": "Acclaimed game designer Roberta Williams revives Colossal Cave as a retro, point-&-click, cave exploration puzzler. Based on the original 1970’s design by Will Crowther & Don Woods, the origin of adventure games, this 3D update maintains its vintage charm, while revitalizing it for modern gamers.\n\nEmbark on a timeless journey through a sprawling cave system packed with treasures, creatures, mazes, and wits-defying puzzles. The great grandpappy of adventure games will test you and tickle your problem-solving skills as you unearth its plot and secrets. Through cunning trial-and-error you will crawl through tight squeezes, encounter impressive caverns, collect inventory, locate treasure, thwart dwarf attacks, all while keeping your eye on the score before your lamp goes out. Dust off your vintage Colossal Cave maps from the 70s or 80s, they'll still work like a charm. This is a faithful, unchanged tribute to the original game design.  \n\nDeveloped in the mid-1970’s by amateur cave spelunker, this classic text-adventure was originally crafted as a way for a father to entertain his two young daughters. This groundbreaking game is considered one of the most influential in history, establishing conventions that have become standard in the adventure game genre. It has been ported to just about every computer and console, played by millions, and inspired many other games, books, movies, and TV series.\n\nRelive the golden age of adventure gaming. Immerse yourself in a timeless exploration through a sprawling cave system filled with treasures, creatures, and brain-teasing puzzles. Transport back to a more innocent time. Experience the retro-cool of point-and-click mechanics, accompanied by an art style that harkens back to the golden age of adventure games. This lovingly and respectfully assembled tribute is brought to you by boutique studio, Cygnus Entertainment.  Ken and Roberta Williams are committed to sharing and preserving the spirit of classic adventure games.\n\nWith its challenging and mind-bending puzzles, this explorative game will keep you enthralled. Explore 14 distinct regions filled with magic, hidden secrets, breathtaking views, and cave-dwelling creatures of all types. Each area offers a unique and enchanting experience. \n\n• Simple, intuitive, point-&-click controls\n• Captivating, colorful, and immersive regions\n• Challenging, logic-driven puzzles\n• A perfect blend of challenge and reward\n• Scenic subterranean vistas with hidden secrets\n• A game that is incredibly fun and engaging\n• A game experience unlike any other\n\nAnd, as much as this game is steeped in gaming history and lore, there’s also a reason it’s stood the test of time and become so richly intertwined with gaming culture. It’s fun!  It’s creative.  It’s thought provoking and challenging.  It’s both simple and complex.  It’s a fantastic design.  \n\nVenture down into Colossal Cave and explore its depths.  Don’t forget your lamp!\n\n",
+    "publisher": "Cygnus Entertainment",
+    "developer": null,
+    "base_release_date": 20230119,
+    "first_update_release_date": 20230126,
+    "latest_update_release_date": 20230221,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230221
+    },
+    "versions": {
+        "65536": 20230126,
+        "131072": 20230221
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "Roberta Williams brings you a reimagining of the classic text adventure - venture deep into the earth and discover mystery & treasure. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

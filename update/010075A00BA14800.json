@@ -1,4 +1,40 @@
 {
     "id": "010075A00BA14800",
-    "version": 65536
+    "base_tid": "010075A00BA14000",
+    "name": "Sniper Elite 3 Ultimate Edition",
+    "description": "Sniper Elite 3 is a tactical World War 2 third-person shooter with stealth gameplay, authentic ballistics and huge open levels. \nStalk your targets through the canyons, oases and cities of North Africa, as you sabotage a Nazi super-weapons programme that could end Allied resistance for good.\nUse stealth, planning and skill to hunt your targets. From long distance sniping, to melee takedowns and explosive traps, you are as deadly up close as you are from afar. \n\nAUTHENTIC SNIPING – Distance, gravity, wind and even your heart rate affect the shot\nMULTIPLAYER & CO-OP – Compete with up to 4 players local and 8 players online, or team up and play the Campaign, Overwatch and Survival mode in 2 player co-op\nX-RAY KILL CAMERA – Watch bullets rip into organs, bones, and even vehicles, or turn it off to focus on the mission at hand\nALL DLC INCLUDED – Includes 4 extra Campaign missions, extra weapons and more\nNINTENDO SWITCH™ EXCLUSIVE CONTROLS – Enhanced Pro Controller support and motion controls",
+    "publisher": "RebellionInteract",
+    "developer": null,
+    "base_release_date": 20191001,
+    "first_update_release_date": 20191001,
+    "latest_update_release_date": 20191001,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191001
+    },
+    "versions": {
+        "65536": 20191001
+    },
+    "category": [
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Face the infamous Afrika Korps of World War 2 in this award-winning third-person shooter. You are the turning point. Because one bullet can change history...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Gaming experience may change online",
+        "Strong violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010076300EE80800",
-    "version": 65536
+    "base_tid": "010076300EE80000",
+    "name": "Super Wiloo Demake",
+    "description": "Wiloo and Agatha need to rescue their dog from the clutches of Dr.ETvaldo! \n\nRoll, fly, jump, and shoot your way across a variety of different platforming levels using unique power ups to reach the end of the level. Can you defeat all 5 bosses and rescue your buddy?\n\nWith 3 different difficulties, experience the quest that you desire with easier or devilish challenges. \n\nFeatures:\n * Traverse 50 levels across 5 different worlds with unique themes. \n * Vibrant 8-bit visuals\n * Conquer 5 malicious bosses\n * Pick from 3 difficulties to suit your playstyle\n * Use fun power ups to defeat enemies",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190802,
+    "first_update_release_date": 20190906,
+    "latest_update_release_date": 20190906,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190906
+    },
+    "versions": {
+        "65536": 20190906
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": "Save your Doggo from Dr.ETvaldo!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

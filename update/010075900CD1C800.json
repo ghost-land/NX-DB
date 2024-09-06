@@ -1,4 +1,44 @@
 {
     "id": "010075900CD1C800",
-    "version": 458752
+    "base_tid": "010075900CD1C000",
+    "name": "Thea: The Awakening",
+    "description": "Thea: The Awakening is a turn-based strategic survival game steeped in Slavic myth and monstrosity set after an apocalyptic force known only as The Darkness has engulfed the world. There are Strigas and Baba Yagas aplenty, but there are no heroes, no monster slayers, and no great armies capable of banishing them. You have only a few hopeless and starving survivors who are desperately trying to stay alive. You are their last and only true hope!\n\nThe game combines turn-based strategic gameplay with the tension and grit of a rogue-like, a captivating story you can uncover through a series of in-game events, and a unique combat system based on a complex card battle game. ",
+    "publisher": "Monster Couch",
+    "developer": null,
+    "base_release_date": 20190202,
+    "first_update_release_date": 20190208,
+    "latest_update_release_date": 20200422,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200422
+    },
+    "versions": {
+        "65536": 20190208,
+        "131072": 20190506,
+        "196608": 20190627,
+        "327680": 20200316,
+        "393216": 20200330,
+        "458752": 20200422
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "You are their last and only true hope! ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Sexual References"
+    ],
+    "region": null
 }

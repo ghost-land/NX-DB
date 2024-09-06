@@ -1,4 +1,50 @@
 {
     "id": "010075600AE96800",
-    "version": 458752
+    "base_tid": "010075600AE96000",
+    "name": "Just Dance® 2019",
+    "description": "Dance to your own beat with Just Dance® 2019, the ultimate dance game featuring 40 hot tracks from chart-topping hits to family favorites, including \"Havana\" by Camila Cabello, \"Bang Bang Bang\" by BIGBANG, \"No Tears Left To Cry\" by Ariana Grande, and many more! With a one-month trial of Just Dance Unlimited included, dance to more than 400 songs!\n\nYour Just Dance experience is now personalized as the game learns your dancing habits and suggests content!\n\nExperience eight exclusive choreographies created with the help of kids’ development experts to encourage healthy movement. \n\nFeaturing seasonal and special-event content for an even more dynamic experience on a new curated homepage.  \n",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20181022,
+    "latest_update_release_date": 20190402,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20190402
+    },
+    "versions": {
+        "65536": 20181022,
+        "131072": 20181102,
+        "196608": 20181220,
+        "262144": 20190204,
+        "327680": 20190204,
+        "393216": 20190305,
+        "458752": 20190402
+    },
+    "category": [
+        "Music",
+        "Party",
+        "Training",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Lyrics"
+    ],
+    "region": null
 }

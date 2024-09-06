@@ -1,4 +1,40 @@
 {
     "id": "010075A016A3A800",
-    "version": 131072
+    "base_tid": "010075A016A3A000",
+    "name": "Persona 4 Arena Ultimax",
+    "description": "The stakes are Ultimate, the tension is Maximum, the fight is… the ULTIMAX! Experience the latest entry into the beloved Persona 4 series with a thrilling fighting twist. Join the heroes as they combat an army of Shadows in the P-1 CLIMAX!\n\n\nKey Features include:\n- Ultimax Version - Includes all previously released Persona 4 Arena Ultimax content, including the original Persona 4 Arena story\n- A Deep Roster of Playable Characters – Persona 3 fan-favorites and  “Shadow” versions offer a range of fighting styles to choose from\n- Dual audio - Choose between Japanese and English VO",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20220317,
+    "first_update_release_date": 20220315,
+    "latest_update_release_date": 20220807,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220807
+    },
+    "versions": {
+        "65536": 20220315,
+        "131072": 20220807
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "A Persona 4 Smackdown!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Language",
+        "Mild Blood",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

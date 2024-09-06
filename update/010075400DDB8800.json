@@ -1,4 +1,52 @@
 {
     "id": "010075400DDB8800",
-    "version": 589824
+    "base_tid": "010075400DDB8000",
+    "name": "Torchlight III",
+    "description": "It’s been a century since the events of Torchlight II, and the Ember Empire is in decline. In Torchlight III, Novastraia is again under threat of invasion and it’s up to you to defend against the Netherim and its allies. Gather your wits and brave the frontier to find fame, glory, and new adventures!\n\nTravel the Frontier - Brave the vast wilderness of Novastraia and all of its dangers either alone or with a group of friends! \n\nCollect Epic Gear - Whether it’s armor, weapons, or even new pets...there’s always more to find as you battle through dungeons and take on dangerous foes. \n\nBuild Your Hero - With four unique classes to choose from and five available Relic subclasses, there are many different ways to build your hero and maximize your damage. You’ll also gather epic gear along your journey that you can customize to work with your hero’s unique make-up.\n\nBuild & Upgrade Your Fort - It’s time to rebuild – and that includes you! Enjoy your very own fort, where you can upgrade gear and renovate your fort to show off to your friends and the world.\n\nPets Are Back - Fight your way to fame and glory with your loyal companion! Add skills and equip them with gear to make them stronger. Each species comes in a myriad of colors and styles, so make sure to collect them all!\n",
+    "publisher": "Gearbox Publishing SF",
+    "developer": null,
+    "base_release_date": 20201023,
+    "first_update_release_date": 20201019,
+    "latest_update_release_date": 20210525,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20210525
+    },
+    "versions": {
+        "65536": 20201019,
+        "131072": 20201029,
+        "196608": 20201112,
+        "262144": 20201215,
+        "327680": 20210106,
+        "393216": 20210217,
+        "458752": 20210401,
+        "524288": 20210415,
+        "589824": 20210525
+    },
+    "category": [
+        "RPG",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "In Torchlight III, Novastraia is again under threat of invasion and it’s up to you to defend against the Netherim and its allies.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }
