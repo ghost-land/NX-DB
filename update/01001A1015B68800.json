@@ -1,4 +1,31 @@
 {
     "id": "01001A1015B68800",
-    "version": 65536
+    "base_tid": "01001A1015B68000",
+    "name": "Kubinashi Recollection",
+    "description": "Sekibanki goes on a great adventure set in a dream world to regain her lost memories!\nUse your own head to try to clear stages full of all sorts of tricks in a 2D action puzzle game like you've never experienced.\n\n▼\"Use my head?!\" Conquer stages with a variety of actions!\nSekibanki is a type of monster called a \"rokurokubi\" who can multiply her own head, throw it and make it fly.She can also use her head as a springboard to take a giant leap, hurl it to obtain faraway items, or use it to destroy blocks that are in her way.Take advantage of Sekibanki's head-multiplying trait to overcome obstacles by literally using the heads!\n\n▼It's OK if you're not very good with puzzles or action! This game comes with a \"Nine Heads Mode.\"\nThe number of heads you can use in a stage is limited, but the game is equipped with a \"Nine Heads Mode\" which is worry-free even for people who aren't good with puzzles or action.You can use nine heads in every stage.\n\n▼Characters are rich in personality and each has their own heartwarming story\nWhen you clear a world, Sekibanki regains her memories of the characters associated with that stage.Will she be able to take back the memories of these fantasy worlds safely? \n\nLet Sekibanki's rather wonderful adventure begin.",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20211209,
+    "first_update_release_date": 20211124,
+    "latest_update_release_date": 20211124,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211124
+    },
+    "versions": {
+        "65536": 20211124
+    },
+    "category": [
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "A puzzle game where you literally use your head, packed with the cuteness of the Touhou Project character Sekibanki!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

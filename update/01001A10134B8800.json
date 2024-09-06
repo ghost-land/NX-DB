@@ -1,4 +1,59 @@
 {
     "id": "01001A10134B8800",
-    "version": 1179648
+    "base_tid": "01001A10134B8000",
+    "name": "CarX Drift Racing Online",
+    "description": "THE REAL DRIFTING SIMULATOR\n· CarX Drift Racing Online provides a unique experience handling sports cars with simple and the intuitive control\n· If you like drifting, prepare to spend hours playing and enjoying this game\n· Use the handbrake to send your car sideways\n· Paint donuts burning tires\n· Cut through clouds of smoke on high speed \n\nCARS AND TUNING\n· Enjoy an insane feeling driving powerful sports cars\n· Check out unique driving on different terrain: asphalt, grass & sand\n· Drive 70+  racing cars\n· Choose among available setups: Turbo, Racing, Drift, Ultimate\n\nCUSTOMIZATION\n· Shuffle through over 100 bodykits or customize your own with 1000+ parts available\n· Paint your car different colors and create unique vinyls with in-game tools\n\nONLINE & XDS MODES\n· Compete against other players in online rooms (up to 16 players)\n· Take part in XDS-based championships\n· Tandem drift with friends\n· Enjoy live cams and marvelous replays",
+    "publisher": "CarX Technologies",
+    "developer": null,
+    "base_release_date": 20211018,
+    "first_update_release_date": 20210629,
+    "latest_update_release_date": 20240527,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20240527
+    },
+    "versions": {
+        "65536": 20210629,
+        "131072": 20210715,
+        "196608": 20210922,
+        "262144": 20211012,
+        "327680": 20220127,
+        "393216": 20220225,
+        "458752": 20220608,
+        "524288": 20220727,
+        "589824": 20220825,
+        "655360": 20221214,
+        "720896": 20230217,
+        "786432": 20230608,
+        "851968": 20230928,
+        "917504": 20231211,
+        "983040": 20231222,
+        "1048576": 20240216,
+        "1114112": 20240423,
+        "1179648": 20240527
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Multiplayer"
+    ],
+    "intro": "CarX Drift Racing Online is a true drift simulator.\nOver 100,000,000 fans all over the world.\nNow on Nintendo Switch™!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

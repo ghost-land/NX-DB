@@ -1,4 +1,31 @@
 {
     "id": "01001A1018A50800",
-    "version": 65536
+    "base_tid": "01001A1018A50000",
+    "name": "Retro Pocket Rocket",
+    "description": "Save mankind from meteorites and asteroids! Travel in the spaceship through the universe and avoid collisions with asteroids. Shoot and dodge the meteors and collect the highest score. \n\nDon't shoot wildly! or you'll have to pay the consequences. The ship has an overheating protection system and if you don't manage your energy well, you could be left vulnerable at the most crucial moment. \n\nFeatures\n- Control the direction to avoid collision\n- Your ship will turn 90 degrees when you fire\n- Get all the secret abilities\n- Get the different skins\n\nCome on, join our retro rocket crew!",
+    "publisher": "Cooking & Publishing",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20220811,
+    "latest_update_release_date": 20220811,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220811
+    },
+    "versions": {
+        "65536": 20220811
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Launch your rocket into a new galaxy in the Retro Pocket Rocket universe. Join our astronauts and get an interstellar score by destroying asteroids.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
