@@ -1,4 +1,30 @@
 {
     "id": "0100EF00107A6800",
-    "version": 65536
+    "base_tid": "0100EF00107A6000",
+    "name": "キャッチ ダック",
+    "description": "ずる賢いキツネはカモが大好き。迷路のような森に潜むカモを捕まえよう。行く手を阻むクマやオオカミに襲われないように上手く隠れながら近づくのがポイントだ！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20200409,
+    "first_update_release_date": 20200608,
+    "latest_update_release_date": 20200608,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200608
+    },
+    "versions": {
+        "65536": 20200608
+    },
+    "category": [
+        "パズル",
+        "アドベンチャー"
+    ],
+    "intro": "絵本のようなアートスタイルの森でカモを捕まえよう！",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

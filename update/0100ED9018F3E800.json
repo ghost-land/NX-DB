@@ -1,4 +1,49 @@
 {
     "id": "0100ED9018F3E800",
-    "version": 458752
+    "base_tid": "0100ED9018F3E000",
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "description": "Our story begins in one corner of Allraan, a tapestry of nations with diverse cultures and values. By dint of sword, and by way of magical objects known as “rune-lenses,” the land’s history has been shaped by the alliances and aggressions of the humans, beastmen, elves, and desert people who live there.\n\nThe Galdean Empire has edged out other nations and discovered a technology that amplifies the rune-lenses’ magic.\n\nNow, the Empire is scouring the continent for an artifact that will expand their power even further. It is on one such expedition that Seign Kesling, a young and gifted imperial officer, and Nowa, a boy from a remote village, meet each other and become friends.\n\nHowever, a twist of fate will soon drag them into the fires of war and forces them both to reexamine everything they believe to be right and true.\n\nEiyuden Chronicle: Hundred Heroes became the #1 funded Kickstarter video game of 2020 thanks to phenomenal support from the community. 505 Games is truly honored to publish Eiyuden Chronicle and work with Rabbit & Bear to help deliver a memorable gaming experience to fans. The goal of Rabbit & Bear and 505 Games is to make sure Eiyuden Chronicle reaches its true potential and delivers a worthwhile JRPG the community will enjoy.\n",
+    "publisher": "505 Games",
+    "developer": null,
+    "base_release_date": 20240423,
+    "first_update_release_date": 20240319,
+    "latest_update_release_date": 20240722,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240722
+    },
+    "versions": {
+        "65536": 20240319,
+        "131072": 20240412,
+        "196608": 20240419,
+        "262144": 20240425,
+        "327680": 20240603,
+        "393216": 20240703,
+        "458752": 20240722
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The JRPG is back with a new host of heroes.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Suggestive Themes",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

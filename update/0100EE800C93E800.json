@@ -1,4 +1,40 @@
 {
     "id": "0100EE800C93E800",
-    "version": 65536
+    "base_tid": "0100EE800C93E000",
+    "name": "BLAZBLUE CENTRALFICTION Special Edition",
+    "description": "The definitive edition of the 『BLAZBLUE』 series, 「BLAZBLUE CENTRALFICTION」, is the most-played 2D fighting game in the world featuring with beautiful graphics and a well-designed, fighting system.",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190626
+    },
+    "versions": {
+        "65536": 20190626
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "The definitive edition of the most-played 2D fighting game in the world featuring beautiful graphics and a well-designed, fighting system.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

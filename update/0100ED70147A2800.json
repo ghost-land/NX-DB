@@ -1,4 +1,35 @@
 {
     "id": "0100ED70147A2800",
-    "version": 131072
+    "base_tid": "0100ED70147A2000",
+    "name": "Regina & Mac World",
+    "description": "Regina and Mac are back in an all new, 2D adventure. On a quest to help their new friend Macbat (from Macbat 64) to find the purpose in his life, the dinosaur and the parrot jump, run, slide and dash through 100 levels filled with secrets. Can you collect all 111 golden floppies and 200 medals?",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20210528,
+    "first_update_release_date": 20210520,
+    "latest_update_release_date": 20210528,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210528
+    },
+    "versions": {
+        "65536": 20210520,
+        "131072": 20210528
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

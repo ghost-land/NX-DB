@@ -1,4 +1,32 @@
 {
     "id": "0100EDC01ACC2800",
-    "version": 65536
+    "base_tid": "0100EDC01ACC2000",
+    "name": "Ratyboy Adventures",
+    "description": "Explore dozens of different specially designed levels and pick up cheeses hidden around the rooms, leaving no item to collect in the level! \nEasy and comfortable controls allow you to lift your character onto objects bigger than you, grab onto small ledges and walk on them to find ways to reach your goal!\nWith a timer that runs while you play, you can try again and again and compete with yourself to finish in less time! \nEnjoy the changing environment and atmosphere with the appropriate items for each room and try to finish all the levels with the best score, as each one will feel different! ",
+    "publisher": "Weakfish Studio",
+    "developer": null,
+    "base_release_date": 20230330,
+    "first_update_release_date": 20230411,
+    "latest_update_release_date": 20230411,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230411
+    },
+    "versions": {
+        "65536": 20230411
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "In this 3D platformer game where we play as a mouse living in a big house, we try to collect the stars placed at certain points in the rooms of the house and overcome the challenging platform ",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

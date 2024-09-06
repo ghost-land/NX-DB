@@ -1,4 +1,35 @@
 {
     "id": "0100EE900AB58800",
-    "version": 65536
+    "base_tid": "0100EE900AB58000",
+    "name": "BLAZBLUE CENTRALFICTION Special Edition",
+    "description": "「BLAZBLUE  CENTRALFICTION Special Edition」は、過去にダウンロードコンテンツ（以下、DLC）として有償配信されていた「追加プレイアブルキャラクター」「キャラクターカラー」「システムボイス」等の多数のコンテンツが収録され、ゲームバランスは最新バージョン（Ver2.0）が適用された“決定版”と呼ぶに相応しい豪華な内容になっております。",
+    "publisher": "アークシステムワークス",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190626,
+    "latest_update_release_date": 20190626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190626
+    },
+    "versions": {
+        "65536": 20190626
+    },
+    "category": [
+        "格闘",
+        "アーケード",
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": "美麗なグラフィックと練りこまれたゲームシステムにより、\n世界中でもっとも遊ばれている2D対戦格闘ゲームの決定版",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル"
+    ],
+    "region": null
 }

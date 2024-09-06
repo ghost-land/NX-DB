@@ -1,4 +1,34 @@
 {
     "id": "0100ED700469A800",
-    "version": 65536
+    "base_tid": "0100ED700469A000",
+    "name": "Deru - The Art of Cooperation",
+    "description": "In this couch co-op experience two players team up to overcome the boundaries of shadow and light and succeed through teamwork, timing and tactics.\nBlock streams for your partner, juggle your mass to make each other huge for traversing big streams. To succeed you have to communicate and plan together, fuse your brains and bring your co-op gaming skills on the next level. Deru is more than your usual puzzle game, you need to have dexterity, precision and use strategic planning to reach the exit of each level.\nEverybody can join! Friends, family and foes:\n- Enjoy beautiful abstract art while solving mind-bending puzzles\n- Elegance: Simple and easily understandable mechanics create complex and satisfying puzzles\n- Great atmospheric music\n- Multiple worlds packed with many brain twisting riddles\n- Couch Co-op: merge your brains together to overcome the streams and barriers\n- Single Player: Challenge your twin stick skills to tackle the puzzles solo",
+    "publisher": "Ink Kit",
+    "developer": null,
+    "base_release_date": 20181108,
+    "first_update_release_date": 20181130,
+    "latest_update_release_date": 20181130,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181130
+    },
+    "versions": {
+        "65536": 20181130
+    },
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "The art is the puzzle and the puzzle is the art.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

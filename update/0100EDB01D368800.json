@@ -1,4 +1,46 @@
 {
     "id": "0100EDB01D368800",
-    "version": 65536
+    "base_tid": "0100EDB01D368000",
+    "name": "Valiant Hearts: Coming Home",
+    "description": "Following the events of Valiant Hearts: The Great War, our story continues with new and familiar faces. \n\nIn Valiant Hearts: Coming Home, play as four characters through exploration, action, and puzzles.\n\nWith James, brother of the courageous Freddie, relive the story of the renowned Harlem Hellfighters. Follow George, a mysterious pilot helping the Allied forces thanks to his flying skills and smarts. Play as Ernst, a German diver sadly swept into the great conflict. Finally, join Anna once again as she struggles in her quest to save as many lives as she can.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20240307,
+    "first_update_release_date": 20240304,
+    "latest_update_release_date": 20240304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240304
+    },
+    "versions": {
+        "65536": 20240304
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "In this puzzle-based side-scroller, enter an animated graphic novel–style adventure and help unsung heroes fight their way through World War I.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

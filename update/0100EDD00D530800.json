@@ -1,4 +1,39 @@
 {
     "id": "0100EDD00D530800",
-    "version": 65536
+    "base_tid": "0100EDD00D530000",
+    "name": "Nice Slice",
+    "description": "Skilfully cutting food into many little pieces might be the greatest joy of cooking. Kool2Play studio, the makers of the critically acclaimed zen rhythm game Clock Simulator and the trippy visual puzzle Estiman, set out to recreate that pleasing sensation in a video game. Nice Slice gives you a knife and an endless supply of stuff to cut – the smaller the pieces, the bigger the score. With simple controls adapted especially for Nintendo Switch™, sharp wit, cheerful visuals, and original and satisfying gameplay, Nice Slice is out today.\n \nKey features:\n• A dynamic endless highscore run full of cutting edge fun\n• An original cast of pop culture-inspired sentient cartoon knives\n• Many exciting score-boosting tricks to discover\n• Skill-based gameplay that rewards practice\n• Advanced in-game physics system for realistic, tactile slicing\n• Crazy multiplayer mode for two players\n• Controls adapted for Nintendo Switch™\n",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20190214,
+    "first_update_release_date": 20190305,
+    "latest_update_release_date": 20190305,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190305
+    },
+    "versions": {
+        "65536": 20190305
+    },
+    "category": [
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

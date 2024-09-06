@@ -1,4 +1,36 @@
 {
     "id": "0100EEA00E3EA800",
-    "version": 65536
+    "base_tid": "0100EEA00E3EA000",
+    "name": "One-Way Ticket",
+    "description": "One-Way Ticket is a visual novel loosely based around actual events. A group of men and women, isolated at sea on a long-distance fishing vessel, suddenly find their very humanity at stake as crew members begin turning up dead.",
+    "publisher": "Zodiac Interactive",
+    "developer": null,
+    "base_release_date": 20191129,
+    "first_update_release_date": 20200115,
+    "latest_update_release_date": 20200115,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200115
+    },
+    "versions": {
+        "65536": 20200115
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

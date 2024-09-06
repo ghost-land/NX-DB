@@ -1,4 +1,32 @@
 {
     "id": "0100EE5013198800",
-    "version": 65536
+    "base_tid": "0100EE5013198000",
+    "name": "Nullum",
+    "description": "The goal is to eliminate all tiles by creating matching numbers.\n\nRules: A tile can only be moved onto an adjacent tile. If they have the same number, both are eliminated; otherwise, they’re added together.\n\nMake the right sums and eliminations to clear the playfield and unlock the next challenge!\n\n- 40 handcrafted levels\n- Original music composed specially for this game.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211209,
+    "first_update_release_date": 20210226,
+    "latest_update_release_date": 20210226,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210226
+    },
+    "versions": {
+        "65536": 20210226
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "Nullum is a minimalist puzzle game.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

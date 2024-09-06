@@ -1,4 +1,31 @@
 {
     "id": "0100EDF016D08800",
-    "version": 65536
+    "base_tid": "0100EDF016D08000",
+    "name": "Gekisou!Benza Race -Toilet Shooting Star-",
+    "description": "An exciting toilet racing game that lets you experience a toilet revolution.\nMany circuits and toilet racers are waiting for your challenge.\nAfter customizing the toilet and getting your stomach ready, it's time to start the race!",
+    "publisher": "Da-soft",
+    "developer": null,
+    "base_release_date": 20230515,
+    "first_update_release_date": 20230403,
+    "latest_update_release_date": 20230403,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230403
+    },
+    "versions": {
+        "65536": 20230403
+    },
+    "category": [
+        "Racing"
+    ],
+    "intro": "Let the toilet race begin!",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor"
+    ],
+    "region": null
 }

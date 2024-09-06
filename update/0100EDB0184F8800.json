@@ -1,4 +1,32 @@
 {
     "id": "0100EDB0184F8800",
-    "version": 131072
+    "base_tid": "0100EDB0184F8000",
+    "name": "Harem Girl Isabella",
+    "description": "Harem Girl: Isabella is a simple puzzle game in which your goal is to swap tiles and complete each illustration.\n\nEnjoy stunning art and a soothing aesthetic as this spatial challenge starts small and gradually becomes more difficult.\n\nThe game offers a “random mode” with rotating and flipping of tiles. In between levels, enjoy the tranquility of a 3D map to explore before taking on a new puzzle.\n\nCan you help Isabella shine through correctly rearranging these stunning images?\n\n\nFeatures:\n* Image matching puzzle gameplay\n* Increasing difficulty\n* Beautiful anime / manga art",
+    "publisher": "Gamuzumi",
+    "developer": null,
+    "base_release_date": 20230120,
+    "first_update_release_date": 20230113,
+    "latest_update_release_date": 20230113,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230113
+    },
+    "versions": {
+        "131072": 20230113
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Can you match each incredible image of Isabella?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Suggestive Themes"
+    ],
+    "region": null
 }

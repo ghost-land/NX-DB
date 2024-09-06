@@ -1,4 +1,32 @@
 {
     "id": "0100EE501708C800",
-    "version": 196608
+    "base_tid": "0100EE501708C000",
+    "name": "ラジルギ２",
+    "description": "本作では、2005年にアーケードゲームで好評を博した「ラジルギ」と進化した「ラジルギ２」を楽しめます。\n「ラジルギ２」は、2種類の自機を操作できます。\nダブルスティックで操作する「村雨(むらさめ)」は進化することでレーザーや回転斬りなどの強力な攻撃を繰り出す、爽快感のある機体です。\nどこか懐かしい「固地老(こじろう)」はショットとボムで敵機を倒していく、往年のシューターも満足する操作感です。\n異なる性能の2つの自機を駆使してクリアを目指そう！",
+    "publisher": "BEEP",
+    "developer": null,
+    "base_release_date": 20240328,
+    "first_update_release_date": 20240405,
+    "latest_update_release_date": 20240606,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240606
+    },
+    "versions": {
+        "65536": 20240405,
+        "131072": 20240510,
+        "196608": 20240606
+    },
+    "category": [
+        "シューティング",
+        "アーケード"
+    ],
+    "intro": "電波系シューティング、再提案。\n",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
