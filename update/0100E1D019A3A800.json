@@ -1,4 +1,45 @@
 {
     "id": "0100E1D019A3A800",
-    "version": 65536
+    "base_tid": "0100E1D019A3A000",
+    "name": "Spectator",
+    "description": "From your small office, you will monitor anomalous activity through CCTV cameras.\nYou have to monitor the controlled location and apply countermeasures in case of manifestations of the anomaly. \nBut be careful, if you miss too many anomalies, then your life will be in danger!\n\nOur audiovisual technologies heighten and deepen your experiences, helping you feel more.\nRealistic graphics, functional user interface, and deep spooky sound will ensure an immersive experience.\nTraverse through 6 unique levels based on popular creepypasta stories!\nEach level features more than 60 different procedural generated anomalies!",
+    "publisher": "Neko Machine",
+    "developer": null,
+    "base_release_date": 20230911,
+    "first_update_release_date": 20231002,
+    "latest_update_release_date": 20231002,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231002
+    },
+    "versions": {
+        "65536": 20231002
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Featuring Backrooms, Slender, FazPizza, and many more locations based on Creepy stories!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100E19018C0E800",
-    "version": 65536
+    "base_tid": "0100E19018C0E000",
+    "name": "Unichrome: A 1-Bit Unicorn Adventure",
+    "description": "Relive the glory of the retro console era in the spirit of the classic Atari while experiencing heart-pounding platforming and shoot 'em up action. Prepare for an arcade delight with tight controls, refreshing game mechanics, cracking retro art and an addictive soundtrack.",
+    "publisher": "TERNOX",
+    "developer": null,
+    "base_release_date": 20220916,
+    "first_update_release_date": 20221013,
+    "latest_update_release_date": 20221013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221013
+    },
+    "versions": {
+        "65536": 20221013
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Follow the platforming quest of a unicorn in search of color in this 1-bit adventure by gallery artist and oil painter Super 8bit Rafa.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood"
+    ],
+    "region": null
 }

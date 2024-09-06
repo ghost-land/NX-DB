@@ -1,4 +1,32 @@
 {
     "id": "0100E0C010AB8800",
-    "version": 65536
+    "base_tid": "0100E0C010AB8000",
+    "name": "Sky Jaguar 2",
+    "description": "Sky jaguar 2 is a frantic game that will test your reflexes as a player. Several alien races have risen to war, and only you can face the threat. You are the best pilot in the galaxy and this is a good time to prove it. No one is going to help you. You are alone against thousands of enemies who will destroy you. \nThey are 3 different types of weapons. Choose which of them is the most suitable for each situation. Collect all kind of items to help you in your mission; missiles, speed, extra weapons... Everything is against you, but you are a hero, and the heroes always win.",
+    "publisher": "Vikalb",
+    "developer": null,
+    "base_release_date": 20200901,
+    "first_update_release_date": 20231003,
+    "latest_update_release_date": 20231003,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231003
+    },
+    "versions": {
+        "65536": 20231003
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Show your skill as a pilot in this frantic shooter",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

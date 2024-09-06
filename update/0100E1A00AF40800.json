@@ -1,4 +1,43 @@
 {
     "id": "0100E1A00AF40800",
-    "version": 65536
+    "base_tid": "0100E1A00AF40000",
+    "name": "Hungry Shark® World",
+    "description": "Experience life as a shark and eat everything that gets in your way in this action-packed aquatic adventure. Control more than 20 sharks in full HD and take on fearsome bosses as you venture into the depths to find trapped sharks, hidden treasures, and more. Sink your teeth into the award-winning Hungry Shark series, now on console in full HD with optimized gamepad controls. Spread terror in the ocean by controlling over 20 different sharks. Take on challenging boss battles, from gruesome goblin sharks to prehistoric monsters and giant submarines. Explore the ocean depths, unlocking treasures and missions across four unique locations.  Unleash your inner shark in this jawsome arcade adventure! Take on fearsome bosses as you venture into the depths to find trapped sharks, hidden treasures, and more.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221018,
+    "first_update_release_date": 20180706,
+    "latest_update_release_date": 20180706,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180706
+    },
+    "versions": {
+        "65536": 20180706
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

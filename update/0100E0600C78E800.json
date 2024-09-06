@@ -1,4 +1,51 @@
 {
     "id": "0100E0600C78E800",
-    "version": 393216
+    "base_tid": "0100E0600C78E000",
+    "name": "Monster Crown",
+    "description": "Dive into a dark world where monsters rule and make pacts with them to defeat an evil young woman seeking power. Hunt, battle, tame and breed monsters to create your own legacy. Together with your monsters, you can restore the balance to Crown Island\n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20240222,
+    "first_update_release_date": 20211001,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20211001,
+        "131072": 20211025,
+        "196608": 20211113,
+        "262144": 20211213,
+        "327680": 20230503,
+        "393216": 20230523
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language",
+        "Mild Blood",
+        "Use of Alcohol and Tobacco"
+    ],
+    "region": null
 }

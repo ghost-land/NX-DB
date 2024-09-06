@@ -1,4 +1,41 @@
 {
     "id": "0100E1700C31C800",
-    "version": 327680
+    "base_tid": "0100E1700C31C000",
+    "name": "GRIS",
+    "description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality. As the story unfolds, Gris will grow emotionally and see her world in a different way, revealing new paths to explore using her new abilities.\n\nGRIS is a serene and evocative experience, free of danger, frustration or death. Players will explore a meticulous designed world brought to life with delicate art, detailed animation, and an elegant original score. Through the game light puzzles, platforming sequences, and optional skill-based challenges will reveal themselves as more of Gris’s world becomes accessible.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20181203,
+    "latest_update_release_date": 20210624,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210624
+    },
+    "versions": {
+        "65536": 20181203,
+        "131072": 20190107,
+        "196608": 20190307,
+        "327680": 20210624
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

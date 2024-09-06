@@ -1,4 +1,39 @@
 {
     "id": "0100E07006C84800",
-    "version": 65536
+    "base_tid": "0100E07006C84000",
+    "name": "Earth Atlantis",
+    "description": "\"The Great Climate Shift\" struck at end of the 21st century. Ninety six percent of the earth’s surface is underwater. Human civilization has fallen. Machines have adopted the shape and form of marine animals.\nThe ocean is full of creature-machine hybrid monsters. You are a “Hunter” and the new journey begins...\n\nEarth Atlantis is a side-scrolling shooter with an original \"Monster-Hunting\" gameplay. Search and hunt down dreadful sea monsters and explore the post-apocalyptic underwater world. Unlock multiple ships with special weapons and abilities for your journey and become a legendary hunter! \n\nThe game is presented in a very unique and artistic “Old Sketching” visual style, which expresses the essence of the 14th century’s ocean exploration when the sea was considered a dangerous place full of monsters.",
+    "publisher": "Headup Games",
+    "developer": null,
+    "base_release_date": 20171006,
+    "first_update_release_date": 20171027,
+    "latest_update_release_date": 20171027,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171027
+    },
+    "versions": {
+        "65536": 20171027
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

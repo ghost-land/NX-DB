@@ -1,4 +1,37 @@
 {
     "id": "0100E1201803A800",
-    "version": 65536
+    "base_tid": "0100E1201803A000",
+    "name": "New Star GP",
+    "description": "NEW STAR GP is a retro arcade racer that puts you in the driving seat as you take control of your own motorsport team and compete at thrilling and iconic racing circuits around the world from the 1980s to the present day.\n\nUpgrade your car, choose your race perks and pit strategy, and battle a grid of CPU opponents and ever-changing weather conditions to win the championship and unlock the next decade of racing!\n\nInvite your friends to share in the fun with hectic split-screen multiplayer action in a selection of pre-made championships, or use Create-a-Championship Mode to make your own!\n",
+    "publisher": "FiveAcesPublishing",
+    "developer": null,
+    "base_release_date": 20240307,
+    "first_update_release_date": 20240312,
+    "latest_update_release_date": 20240312,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240312
+    },
+    "versions": {
+        "65536": 20240312
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "Start your engines for the ultimate retro racing experience\n",
+    "isDemo": false,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100E1200DC1A800",
-    "version": 196608
+    "base_tid": "0100E1200DC1A000",
+    "name": "Bounty Battle",
+    "description": "Bounty Battle is the ultimate indie fighting game: a new 2D fighter, where you can pit your favourite Indie heroes against one another! Indie heroes from games like Guacamelee!, Darkest Dungeon, Flinthook, Dead Cells Axoim Verge, Owlboy & more battle it out in this fighter frenzy. Bounty Battle features over 25 fighters from over 20 different Indie games! Each fighter comes with their own Minion companion and unique abilities. Battle across levels inspired from the fighters’ native game worlds with up to 3 other players.\n•\tA host of game modes including a Tournament mode, Local-Multiplayer, Tutorial and Training Room to master your character\n•\tOver 20 Fighters from your favourite Indie games! Each with their own move set and special attacks\n•\tEach Fighter has their very own minion to summon and join the fight\n•\tOver 15 different arenas to battle on – some inspired by the worlds of their fighters\n•\tMultiple colour and pallet swap options to fight in style!",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20200910,
+    "first_update_release_date": 20200826,
+    "latest_update_release_date": 20201202,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201202
+    },
+    "versions": {
+        "65536": 20200826,
+        "131072": 20200827,
+        "196608": 20201202
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "The ultimate indie fighting game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null
 }

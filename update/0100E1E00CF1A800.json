@@ -1,4 +1,61 @@
 {
     "id": "0100E1E00CF1A800",
-    "version": 1638400
+    "base_tid": "0100E1E00CF1A000",
+    "name": "Power Rangers: Battle for the Grid",
+    "description": "A modern take on the 25 year franchise, Power Rangers: Battle for the Grid showcases stunning graphics and vivid details. Pit current and classic Rangers and villains like never before in 3 vs. 3 tag battles. Test your skills online against friends and players from around the world for endless replayability. A streamlined combat system welcomes newcomers with simplified controls while maintaining depth for the most dedicated competitor to learn and master.\n\n\n25 YEARS OF RANGERS\nGenerations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic but reimagined Power Rangers battle sequences like never before.\n\nEASY TO LEARN, HARD TO MASTER\nPower Rangers: Battle for the Grid features traditional fighting game controls. This easy to learn but hard to master game is designed to welcome players of all skill levels. ",
+    "publisher": "nWay",
+    "developer": null,
+    "base_release_date": 20190327,
+    "first_update_release_date": 20190326,
+    "latest_update_release_date": 20220706,
+    "latest_update": {
+        "version": "1638400",
+        "release_date": 20220706
+    },
+    "versions": {
+        "65536": 20190326,
+        "131072": 20190410,
+        "196608": 20190502,
+        "262144": 20190710,
+        "327680": 20190813,
+        "393216": 20190924,
+        "458752": 20191011,
+        "524288": 20191025,
+        "589824": 20191106,
+        "655360": 20191218,
+        "720896": 20200205,
+        "786432": 20200211,
+        "851968": 20200324,
+        "917504": 20200414,
+        "983040": 20200714,
+        "1114112": 20200915,
+        "1179648": 20201208,
+        "1245184": 20210406,
+        "1310720": 20210525,
+        "1376256": 20210921,
+        "1441792": 20211116,
+        "1507328": 20211214,
+        "1572864": 20220603,
+        "1638400": 20220706
+    },
+    "category": [
+        "Fighting",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "It's Morphin Time! \nPower Rangers finally comes to the Nintendo Switch™️.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

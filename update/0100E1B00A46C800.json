@@ -1,4 +1,37 @@
 {
     "id": "0100E1B00A46C800",
-    "version": 65536
+    "base_tid": "0100E1B00A46C000",
+    "name": "Rage in Peace",
+    "description": "Rage in Peace is a side-scrolling adventure game that tells the story of Timmy Malinu, an emotionally numb 27 years old actuary who only has one dream that sets him apart from most people: to die asleep in his pajamas, in the warmth of home, in peace, and with no drama.\n\nOn one fateful day, a Grim Reaper appears bearing news that Timmy will die today. With his head cut off. But the Grim Reaper did not specify when, where, or what will kill Timmy, giving him one final chance to realize his dream.\n\nBut achieving his dream will not be an easy task for Timmy. To reach his home, Timmy will have to avoid all the traps and obstacles that mysteriously show up to stop him from \"cheating\" death. Surprise and memorization will be the key for you to help Timmy postponing his demise, receive inner peace, and dying the way he always wished to.",
+    "publisher": "Toge Productions",
+    "developer": null,
+    "base_release_date": 20181109,
+    "first_update_release_date": 20181206,
+    "latest_update_release_date": 20181206,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181206
+    },
+    "versions": {
+        "65536": 20181206
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "What would you do if you knew you would die today?",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

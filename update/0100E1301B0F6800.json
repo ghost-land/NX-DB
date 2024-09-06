@@ -1,4 +1,34 @@
 {
     "id": "0100E1301B0F6800",
-    "version": 65536
+    "base_tid": "0100E1301B0F6000",
+    "name": "Super Drunken Guy",
+    "description": "Welcome to \"Super Drunken Guy\", a 2D pixel platformer where the goal is to collect as many beers as possible, but be careful - the more beers you collect, the blurrier the screen becomes!\n\nRun through various levels, jumping over obstacles and enemies while collecting as many beers as you can. Each beer you collect will add to your overall score, but it will also make the screen more blurry, making it harder to see what's coming up ahead.\n\nThe game features multiple levels with increasing difficulty, each with its own unique challenges and enemies. \n\nSo, put on your drinking hat and get ready for an adventure in this funny 2D pixel platformer!",
+    "publisher": "Nerdvision Games",
+    "developer": null,
+    "base_release_date": 20230609,
+    "first_update_release_date": 20230602,
+    "latest_update_release_date": 20230602,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230602
+    },
+    "versions": {
+        "65536": 20230602
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "Are you drunken enough for that game?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Alcohol"
+    ],
+    "region": null
 }

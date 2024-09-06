@@ -1,4 +1,36 @@
 {
     "id": "0100E11019268800",
-    "version": 196608
+    "base_tid": "0100E11019268000",
+    "name": "Home Deco Puzzles",
+    "description": "Home Deco Puzzles is a relaxing game about interior decorating mixed into a puzzle game. A room will be shown and after a short amount of time packed into boxes. Now you have to unpack the whole room and place each item back to his originally position. \nUnbox and decorate four different room types starting with small single rooms, double rooms, and bigger rooms. The peaceful soundtrack completes the game into a meditative puzzle game experience.\nCan you unpack the room and place each item back to his originally position ? It is Simple, relaxing and fun for everyone!\n\nFeatures :\n- Decorate four different room sizes with a variety of different rooms\n- 60 different rooms to explore and decorate\n- Relaxing game experience\n- Train your memory at the same time",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20220818,
+    "first_update_release_date": 20220802,
+    "latest_update_release_date": 20220901,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220901
+    },
+    "versions": {
+        "65536": 20220802,
+        "131072": 20220807,
+        "196608": 20220901
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Lifestyle",
+        "Education"
+    ],
+    "intro": "Brings you the joy of building miniature interior and homedecorating mixed into a puzzle game. Simple, relaxing and fun!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,41 @@
 {
     "id": "0100E0C011D52800",
-    "version": 196608
+    "base_tid": "0100E0C011D52000",
+    "name": "Lunch A Palooza",
+    "description": "In Lunch A Palooza players enter frenetic food fights as one of eight dishes, pushing other delicacies off the table in single player or multiplayer for up to four people. Pepper your character with power-ups to spice up your unique attacks. When dishing out the pain anything goes, from serving side dishes to sweep up the competition, to setting up push traps to clear the table for the next sitting. Remember, the dinner table arena is a hazardous place for food with flying enemies that always trying to nab a piece of you.",
+    "publisher": "Seashell Studio",
+    "developer": null,
+    "base_release_date": 20201104,
+    "first_update_release_date": 20210604,
+    "latest_update_release_date": 20220425,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220425
+    },
+    "versions": {
+        "65536": 20210604,
+        "131072": 20210930,
+        "196608": 20220425
+    },
+    "category": [
+        "Party",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Lunch A Palooza is a game for everyone! The goal is to be the last food standing! You must use special attacks and food items to dominate the opposition.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

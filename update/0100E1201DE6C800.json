@@ -1,4 +1,42 @@
 {
     "id": "0100E1201DE6C800",
-    "version": 65536
+    "base_tid": "0100E1201DE6C000",
+    "name": "Sherlock Purr 2",
+    "description": "Our clever cat detective is back, and this time, the mystery unfolds throughout the entire flat. Dive into an extended adventure filled with captivating challenges, vibrant colours, and puzzles that tickle the brain. \nSherlock Purr 2 is an enchanting children's game, tailor-made for young explorers who adore cats and crave delightful mysteries. Join our whiskered hero, explore every nook and cranny, and embark on a meow-velous journey where every corner holds a delightful surprise. ",
+    "publisher": "COMMANDO PANDA",
+    "developer": null,
+    "base_release_date": 20240315,
+    "first_update_release_date": 20240317,
+    "latest_update_release_date": 20240317,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240317
+    },
+    "versions": {
+        "65536": 20240317
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education"
+    ],
+    "intro": "Get ready for a fur-tastic sequel with Sherlock Purr 2!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }
