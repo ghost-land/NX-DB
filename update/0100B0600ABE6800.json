@@ -1,4 +1,45 @@
 {
     "id": "0100B0600ABE6800",
-    "version": 262144
+    "base_tid": "0100B0600ABE6000",
+    "name": "Treachery in Beatdown City",
+    "description": "In Treachery in Beatdown City you play as 3 unique heroes using an all new beat 'em up RPG combat system to fight hoards of depraved cops, disorderly grunts, shouting drunks, gentrifying preppsters, entitled joggers, rap cd slangin' grapplers, affluent punks, tech startup bikers,  and MORE!\n\nWill they save Blake Orama from the Ninja Dragon Terrorists?\n\nYou have to play to find out!\n\nFEATURES:\n- Innovative hybrid real time and turn based fighting system reinvents the beat ‘em up genre.\n- Learn lots of moves, from giant suplexes and stunning elbows to brutal flying knees and spinning trip kicks.\n- Use those moves to build custom STRIKE-A-GRAPPLE-OMBOS!\n- Fight dozens of unique enemies broken into multiple class types ensuring every fight is different!\n- Explore East Fulton on a snappy top down map. \n- Timeless chiptune score by the amazing Inverse Phase.",
+    "publisher": "Nuchallenger",
+    "developer": null,
+    "base_release_date": 20200331,
+    "first_update_release_date": 20200423,
+    "latest_update_release_date": 20230920,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230920
+    },
+    "versions": {
+        "65536": 20200423,
+        "131072": 20200605,
+        "196608": 20210624,
+        "262144": 20230920
+    },
+    "category": [
+        "Fighting",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Build your own combos to fight horrible people, and maybe save the president.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Language",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }

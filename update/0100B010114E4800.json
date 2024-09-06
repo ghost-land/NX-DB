@@ -1,4 +1,43 @@
 {
     "id": "0100B010114E4800",
-    "version": 65536
+    "base_tid": "0100B010114E4000",
+    "name": "Breakpoint",
+    "description": "我們將經典街機遊戲的元素與現代感融為一體，為你帶來了 Breakpoint：一個自上而下的得分追逐遊戲，帶有會爆炸的近戰武器，富有挑戰性。\n\n在雙搖桿方案的情節中，你無法使用遠程攻擊。您只能切割、壓碎和爆破，從而突破敵群。請將武器推至爆破點，對敵人實施毀滅性爆炸。對武器進行爆破、充能和再次爆破，以求生存。\n",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20210121,
+    "first_update_release_date": 20201201,
+    "latest_update_release_date": 20201201,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201201
+    },
+    "versions": {
+        "65536": 20201201
+    },
+    "category": [
+        "動作",
+        "街機",
+        "射擊",
+        "策略"
+    ],
+    "intro": "雙搖杆砍人者游戲，你的武器會爆炸\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

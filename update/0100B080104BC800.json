@@ -1,4 +1,36 @@
 {
     "id": "0100B080104BC800",
-    "version": 196608
+    "base_tid": "0100B080104BC000",
+    "name": "Strike! Ten Pin Bowling",
+    "description": "• Full Classic 10 Pin Bowling. 1-4 Players.\n• Series Classic 10 Pin (3 games).\n• 3 MiniGames available, each with 4 levels and 30 frames to challenge even the best bowlers.\n• Candle Pin Bowling. 1-4 Players.\n• Duck Pin and Rubber band Duck Pin Bowling. 1-4 Players.\n• Mega Lane.\n• Upgrade your ball with over 35 cool designs to choose from.\n• Over 30 Achievements to win.\n",
+    "publisher": "Touch Mechanics",
+    "developer": null,
+    "base_release_date": 20200124,
+    "first_update_release_date": 20200210,
+    "latest_update_release_date": 20210729,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210729
+    },
+    "versions": {
+        "65536": 20200210,
+        "131072": 20210520,
+        "196608": 20210729
+    },
+    "category": [
+        "Sports",
+        "Multiplayer",
+        "Simulation",
+        "Party"
+    ],
+    "intro": "Play authentic Ten Pin Bowling with Touch Screen and Motion Controls. Add spin with the flick of a finger or twist of the wrist!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

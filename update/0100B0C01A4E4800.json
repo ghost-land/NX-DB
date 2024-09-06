@@ -1,4 +1,34 @@
 {
     "id": "0100B0C01A4E4800",
-    "version": 65536
+    "base_tid": "0100B0C01A4E4000",
+    "name": "Deep Space Shooter",
+    "description": "An automatic station deep in the space has sent an alarm signal and then the connection disrupted. Your spaceship set off there to carry out reconnaissance. But all of a sudden you encounter huge forces of an unknown enemy. Now there’s no way back – you either defeat them or die.\n\nThis game is a vertical scroll-shooter with numerous enemies and a gradually increasing level of complexity.\nGame's features:\n- 24 original levels\n- 12 bosses\n- An endless level mode with strong enemies\n- Stylish 8-bit music\n\n",
+    "publisher": "Valkyrie Initiative",
+    "developer": null,
+    "base_release_date": 20230119,
+    "first_update_release_date": 20230626,
+    "latest_update_release_date": 20230626,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230626
+    },
+    "versions": {
+        "65536": 20230626
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Again you are alone against the hordes of hostile spacecrafts where you can only rely on yourself. It is the victory or the death!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

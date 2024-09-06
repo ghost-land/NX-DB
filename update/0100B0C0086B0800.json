@@ -1,4 +1,38 @@
 {
     "id": "0100B0C0086B0800",
-    "version": 65536
+    "base_tid": "0100B0C0086B0000",
+    "name": "Mega Man 11",
+    "description": "This entry in this iconic series blends classic, challenging 2D platforming action with a fresh look. The stunning visual style refreshes the series' iconic colorfulness, combining hand-drawn environments with detailed, 3D character models.\n\nTo save the day, the Blue Bomber must battle Robot Masters and take their powerful weapons for himself, which now changes the hero’s appearance with added levels of detail. The innovative Double Gear system lets you boost Mega Man's speed and power for an exciting twist on the satisfying gameplay the series is known for. \n\nA variety of difficulty modes makes this the perfect opportunity to experience Mega Man for the first time! ",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20180905,
+    "latest_update_release_date": 20180905,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180905
+    },
+    "versions": {
+        "65536": 20180905
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Mega Man jumps into battle once again!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

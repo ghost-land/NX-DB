@@ -1,4 +1,49 @@
 {
     "id": "0100B1600E9AE800",
-    "version": 720896
+    "base_tid": "0100B1600E9AE000",
+    "name": "CARRION",
+    "description": "CARRION is a reverse horror game in which you assume the role of an amorphous creature of unknown origin. Stalk and consume those that imprisoned you to spread fear and panic throughout the facility. Grow and evolve as you tear down this prison and acquire more and more devastating abilities on the path to retribution.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20240208,
+    "first_update_release_date": 20200717,
+    "latest_update_release_date": 20211203,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20211203
+    },
+    "versions": {
+        "131072": 20200717,
+        "196608": 20200804,
+        "262144": 20200820,
+        "458752": 20210318,
+        "589824": 20210706,
+        "655360": 20210810,
+        "720896": 20211203
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "STALK. CONSUME. GROW. EVOLVE.  \n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

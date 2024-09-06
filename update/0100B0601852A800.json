@@ -1,4 +1,43 @@
 {
     "id": "0100B0601852A800",
-    "version": 262144
+    "base_tid": "0100B0601852A000",
+    "name": "Aka",
+    "description": "Find inner peace in a small, open-world game. On these carefully handcrafted islands, you can take a nap on a giant monster, feed baby dragons, take care of the fauna and flora... ...but demons from your past might come back to remind you what you want to forget.",
+    "publisher": "NEOWIZ",
+    "developer": null,
+    "base_release_date": 20221214,
+    "first_update_release_date": 20221213,
+    "latest_update_release_date": 20230628,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20230628
+    },
+    "versions": {
+        "65536": 20221213,
+        "131072": 20221228,
+        "196608": 20230124,
+        "262144": 20230628
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "Lifestyle",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

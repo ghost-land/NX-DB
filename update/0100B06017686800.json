@@ -1,4 +1,39 @@
 {
     "id": "0100B06017686800",
-    "version": 131072
+    "base_tid": "0100B06017686000",
+    "name": "Unsouled",
+    "description": "Unsouled is a 2D action RPG game requiring immense elaborate control. Take a break from repetitive attack and dodge action by challenging yourself with the world of Unsouled.",
+    "publisher": "NEOWIZ",
+    "developer": null,
+    "base_release_date": 20220427,
+    "first_update_release_date": 20220427,
+    "latest_update_release_date": 20220512,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220512
+    },
+    "versions": {
+        "65536": 20220427,
+        "131072": 20220512
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100B10002904800",
-    "version": 262144
+    "base_tid": "0100B10002904000",
+    "name": "Shakedown: Hawaii",
+    "description": "Shakedown: Hawaii follows three protagonists through a 16-bit open world. Build your own \"legitimate\" corporation by completing missions, acquiring businesses, sabotaging competitors, \"re-zoning\" land, and shaking down shops for protection money.\n\nExplore the island by foot, by car, or by boat. It's filled with arcade challenges, sidequests, stores to shop at, houses to burgle, civilians to interact with, and secrets to discover.\n\nYou begin your adventure as an aging CEO, struggling to make sense of the modern world. Online shopping killed his retail stores, ride sharing his taxi business, and streaming his video stores. To save the company, he'll need to learn the \"methods\" of modern business, and use them to rebuild his empire.\n\nThe entire island is up for grabs... or at least, could be with the right business model. \n\nIt's business in the front, and bodies in the back... in Shakedown: Hawaii.",
+    "publisher": "Vblank Entertainment",
+    "developer": null,
+    "base_release_date": 20190507,
+    "first_update_release_date": 20190502,
+    "latest_update_release_date": 20201114,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201114
+    },
+    "versions": {
+        "65536": 20190502,
+        "131072": 20190521,
+        "196608": 20190711,
+        "262144": 20201114
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Build your corporate empire and destroy the competition.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

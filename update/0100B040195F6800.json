@@ -1,4 +1,33 @@
 {
     "id": "0100B040195F6800",
-    "version": 131072
+    "base_tid": "0100B040195F6000",
+    "name": "Beeny",
+    "description": "A vertical 2D platformer featuring a round bee in an early 90s prerendered environment. Roll and hop up to the precious honey.\n\nFeatures:\n- early 90s prerendered graphics\n- 9 levels with replay value\n- a few secrets to discover\n- a very round bee\n- a prelude to Super Kiwi 64",
+    "publisher": "Diplodocus Games",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20221013,
+    "latest_update_release_date": 20221019,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221019
+    },
+    "versions": {
+        "65536": 20221013,
+        "131072": 20221019
+    },
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

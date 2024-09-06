@@ -1,4 +1,39 @@
 {
     "id": "0100B0F011A84800",
-    "version": 131072
+    "base_tid": "0100B0F011A84000",
+    "name": "Escape Game Fort Boyard",
+    "description": "You will need all your endurance and dexterity to escape an old fort lost in the sea by passing all its obstacles and beating the trial.\nTeam up with your friends or family, gather all the clues and keys to solve the final riddle.\n\nBe careful!\nIf you don’t make it out on time, you will be imprisoned!\n\nSPECIAL FEATURES\n- Personalize your gaming experience by customizing your character and team.\n- Challenging reflection trials like the Maze or the Mummy will put your brain cells to a hard test.\n- You will need to use your dexterity to triumph over intense skill mini-games like Rodeo Dino and Car Wars.\n- Strength trials like Excalibur and the Punching-Ball will ask you to surpass yourself.\n- Playing with friends and family has never been so easy and fun!\n- Split screen is available on various mini-games for an enhanced multiplayer experience.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20200625,
+    "first_update_release_date": 20200604,
+    "latest_update_release_date": 20210624,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210624
+    },
+    "versions": {
+        "65536": 20200604,
+        "131072": 20210624
+    },
+    "category": [
+        "Party",
+        "Puzzle",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Beat all the trials to escape the Fort with the treasure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

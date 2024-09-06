@@ -1,4 +1,43 @@
 {
     "id": "0100B0901EC0E800",
-    "version": 131072
+    "base_tid": "0100B0901EC0E000",
+    "name": "Alien Survivors: To Starship Resurrection",
+    "description": "Pilots crash-land on an alien planet and try to survive. When you clear the stage, choose one of the skills to challenge the next stage with your own strategy.\n\n・ Use your 3D skills to blast away the onslaught of aliens and alien queens!\n・ A tank battle that relieves stress with explosive direction begins.\n・ Collect dozens of different weapons, skills, and unique tanks.\n・ It appears a thrilling bonus game mode for additional goods.\n・ It is possible to manipulate games that can be easily played by men and women of all ages.\n・ It is a battle system that adds skills with your own strategy when you clear the stage.\n・ The boss battle that makes your hands sweat increases the tension and sense of accomplishment.\n・ Get goods in the challenge mode and upgrade your own tank in the technical research mode.\n・ Collect the tanks and drones you want and enjoy the sub-tank system where you can take up to three to fight together.\n\nThe exciting new-sense roguelike shooter game with easy manipulation!\nYou will collect goods, research technology, and create new weapons to challenge Alien.\nRepair your spaceship to defeat the final boss and survive on the alien planet!",
+    "publisher": "TROOOZE",
+    "developer": null,
+    "base_release_date": 20240509,
+    "first_update_release_date": 20240510,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240530
+    },
+    "versions": {
+        "65536": 20240510,
+        "131072": 20240530
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Strategy"
+    ],
+    "intro": "Defeat the aliens and repair your spaceship to survive!\nEach stage equipped with a hot skill!\nA roguelike shooter that blows everything away!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

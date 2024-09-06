@@ -1,4 +1,39 @@
 {
     "id": "0100B0A00C8D8800",
-    "version": 131072
+    "base_tid": "0100B0A00C8D8000",
+    "name": "Arcade Archives Penguin-Kun Wars",
+    "description": "\"Penguin-Kun Wars\" is an action game released by UPL in 1985.\nSet in the village's original sports \"DOJIBALL\" tournament, unique animal characters face off across the table to throw a ball 10 times at each other.\nThe winner is the first side to throw all of the balls out of their area. Launch yourself through heated ball-battles, and aim for first place in the tournament.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200103,
+    "first_update_release_date": 20200101,
+    "latest_update_release_date": 20200121,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200121
+    },
+    "versions": {
+        "65536": 20200101,
+        "131072": 20200121
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "Fun ball-throwing action! Who will be smiling triumphantly in the end?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

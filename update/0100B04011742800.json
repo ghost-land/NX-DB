@@ -1,4 +1,71 @@
 {
     "id": "0100B04011742800",
-    "version": 2228224
+    "base_tid": "0100B04011742000",
+    "name": "Monster Hunter Rise",
+    "description": "The critically acclaimed action-RPG series returns to the Nintendo Switch™!\n\nSet in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It’s been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.\n\nHunt solo or in a party with friends to earn rewards that you can use to craft a huge variety of weapons and armor. Brand new gameplay systems such as the high-flying ‘Wire Action’ and your canine companion ‘Palamute’ will add exciting new layers to the already robust combat that Monster Hunter is known for.\n\nWhether it’s at home, on the go, online or offline - you’ll always be ready for your next hunt on the Nintendo Switch™!",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210326,
+    "first_update_release_date": 20210318,
+    "latest_update_release_date": 20240122,
+    "latest_update": {
+        "version": "2228224",
+        "release_date": 20240122
+    },
+    "versions": {
+        "131072": 20210318,
+        "196608": 20210406,
+        "262144": 20210427,
+        "327680": 20210527,
+        "393216": 20210623,
+        "458752": 20210728,
+        "589824": 20210825,
+        "720896": 20210930,
+        "786432": 20211027,
+        "917504": 20211124,
+        "983040": 20211219,
+        "1048576": 20220126,
+        "1114112": 20220224,
+        "1179648": 20220309,
+        "1376256": 20220628,
+        "1441792": 20220708,
+        "1572864": 20220809,
+        "1638400": 20220826,
+        "1703936": 20220930,
+        "1769472": 20221013,
+        "1835008": 20221123,
+        "1900544": 20230207,
+        "1966080": 20230419,
+        "2031616": 20230520,
+        "2097152": 20230608,
+        "2162688": 20230714,
+        "2228224": 20240122
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Demo now available for the Sunbreak massive expansion DLC!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

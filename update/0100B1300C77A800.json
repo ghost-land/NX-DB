@@ -1,4 +1,36 @@
 {
     "id": "0100B1300C77A800",
-    "version": 196608
+    "base_tid": "0100B1300C77A000",
+    "name": "FightNJokes",
+    "description": "FightNJokes is a semi-humorous retro style 2D fighting game created from original IP while taking a gentle poke at the more serious sides of Fighting Games.\n\nDon't be confused, FightNJokes may not take itself too seriously, there is a real solid, fun combat and fighting experience here.\n\nFightNJokes is designed in a unique hand-drawn retro style palette simulating 256 colors, with old school style pixel graphics and effects with fast fluid 60 frames per seconds animations.",
+    "publisher": "Mental Drink",
+    "developer": null,
+    "base_release_date": 20220103,
+    "first_update_release_date": 20220111,
+    "latest_update_release_date": 20231214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231214
+    },
+    "versions": {
+        "65536": 20220111,
+        "131072": 20220118,
+        "196608": 20231214
+    },
+    "category": [
+        "Arcade",
+        "Fighting",
+        "Party"
+    ],
+    "intro": "Play across the world, and the galaxy in weird, wacky and wonderful locations that are sure to keep our players amused. “This ain’t your grand daddy’s fighting game”.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }
