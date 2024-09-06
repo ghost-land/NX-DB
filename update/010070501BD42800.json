@@ -1,4 +1,38 @@
 {
     "id": "010070501BD42800",
-    "version": 65536
+    "base_tid": "010070501BD42000",
+    "name": "Mystic Academy: Escape Room",
+    "description": "Today marks your final exam to become a wizard. Will you pass the test?\n\nImmerse yourself in Mystic Academy, an exhilarating escape room that will challenge your magical prowess. Solve puzzles, decipher mystical artifacts, learn spells, find hidden objects, and explore your wizardry school!\n\nOvercome daunting trials to prove your wizardry skills and succeed in the exam!\n\n*All puzzles require logic (and a touch of your wizard skills!).\n*Explore diverse rooms in your wizardry school.\n*Uncover more about your magical abilities, learn new spells, and put them to the ultimate test!",
+    "publisher": "mc2games",
+    "developer": null,
+    "base_release_date": 20230803,
+    "first_update_release_date": 20240105,
+    "latest_update_release_date": 20240105,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240105
+    },
+    "versions": {
+        "65536": 20240105
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Mystic Academy is an escape room that will put your wizard skills to the test. Solve puzzles, decipher magical artifacts, learn new spells, and find hidden objects!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

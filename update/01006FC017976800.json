@@ -1,4 +1,33 @@
 {
     "id": "01006FC017976800",
-    "version": 131072
+    "base_tid": "01006FC017976000",
+    "name": "Will Die Alone",
+    "description": "Congratulations! You just got hired by Dewitt Corp. for their memory program, your job starts tomorrow.\nOur customers come to us to solve their current problems. Your task is to dig into their past and find the right memories to erase to change their present and future.\nFor each customer, you will receive a series of personal information on your PC that you can analyze. Choose carefully, every memory removed can have enormous effects on the present and future of the customer.\nYou will be sent to an isolated place to be able to work with peace of mind, we will keep in touch via email.",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20220513,
+    "latest_update_release_date": 20220621,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220621
+    },
+    "versions": {
+        "65536": 20220513,
+        "131072": 20220621
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language"
+    ],
+    "region": null
 }

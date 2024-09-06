@@ -1,4 +1,45 @@
 {
     "id": "0100701015846800",
-    "version": 327680
+    "base_tid": "0100701015846000",
+    "name": "Unpacking",
+    "description": "Unpacking is a zen game about the familiar experience of pulling possessions out of boxes and fitting them into a new home. Part block-fitting puzzle, part home decoration, you are invited to create a satisfying living space while learning clues about the life you’re unpacking. Over the course of eight house moves, you are given a chance to experience a sense of intimacy with a character you never see and a story you’re never told.\n\nFeatures:\n- Unpack a home — from a single bedroom to an entire house\n- Meditative gameplay with no timers, meters or scores\n- Explore domestic environments with all their nooks and crannies while you stack plates, hang towels, and arrange bookshelves\n- Discover a character's story through the items that come with her to each new home (and the items that get left behind)\n- Soundtrack by BAFTA award-winning composer and audio director Jeff van Dyck",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20211026,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20211026,
+        "131072": 20220211,
+        "262144": 20231027,
+        "327680": 20231123
+    },
+    "category": [
+        "Puzzle",
+        "Simulation",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Unpack someone's belongings at different stages of their life to learn their story in this zen puzzle game.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

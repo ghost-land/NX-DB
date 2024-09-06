@@ -1,4 +1,44 @@
 {
     "id": "01006FE005B6E800",
-    "version": 196608
+    "base_tid": "01006FE005B6E000",
+    "name": "Sky Force Reloaded",
+    "description": "The shoot ‘em up you were looking for! \n\nSky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. \n\nSky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects. It will keep you with its superb gameplay mechanics, progression system and in-game collectibles. It will leave you wishing for more, once it’s over. Fortunately, there’s a lot to do before that happens. \n\nWelcome to your new favorite shoot ‘em up. Welcome to Sky Force Reloaded!\n",
+    "publisher": "Infinite Dreams",
+    "developer": null,
+    "base_release_date": 20180202,
+    "first_update_release_date": 20180417,
+    "latest_update_release_date": 20181217,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181217
+    },
+    "versions": {
+        "65536": 20180417,
+        "196608": 20181217
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Enjoy flashy explosions, beautiful scenery and massive bosses in single player or local cooperative mode!\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
+    "region": null
 }

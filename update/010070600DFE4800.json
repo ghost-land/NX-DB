@@ -1,4 +1,32 @@
 {
     "id": "010070600DFE4800",
-    "version": 65536
+    "base_tid": "010070600DFE4000",
+    "name": "Let's Go Nuts",
+    "description": "Adorable adventures await in a cartoonishly cute experience full of charming little squirrels, quirky monsters, and limitless nuts to collect. Save furry-friends in single-player adventures, or run until the end of time in endless mode. Grab a friend for local co-op and save woodland pals together, Let’s Go Nuts is a nutty experience!\n\nKey Features:\n- Local co-op for up to 4 players\n- Multiple game modes, available to single or co-op players\n- 40 levels in four vibrant, cartoon-style environments\n- Worlds packed with objects to escape treacherous hazards\n- Cute and stylish gear to customize and outfit fashionable furry friends\n",
+    "publisher": "Devjuice",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20190731,
+    "latest_update_release_date": 20190731,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190731
+    },
+    "versions": {
+        "65536": 20190731
+    },
+    "category": [
+        "Platformer",
+        "Party"
+    ],
+    "intro": "An adorable platformer with cute squirrels, quirky monsters, and limitless nuts to collect. Local co-op for up to 4 players!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

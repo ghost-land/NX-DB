@@ -1,4 +1,48 @@
 {
     "id": "01006FF016F36800",
-    "version": 131072
+    "base_tid": "01006FF016F36000",
+    "name": "Sky Games",
+    "description": "Put on your gloves, stun your opponents, collect your balloons and fly for the win by leaving your opponents behind!\n\nFeatures:\n★ Party game for up to 4 players\n★ Challenging single player mode\n★ 20 unique maps with different difficulty level\n★ Randomly generated levels ensuring variety of gameplay\n★ Additional game modes such as elimination of the weakest player\n★ Fun, customizable characters with nearly 100 unlockable visual add-ons\n★ Highscore table to compare your performance with the best players from all over the world\n★ Hidden power-ups to make the game even more competitive\nAnd more... ",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20211227,
+    "first_update_release_date": 20211220,
+    "latest_update_release_date": 20220103,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220103
+    },
+    "versions": {
+        "65536": 20211220,
+        "131072": 20220103
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "An intergalactic party where only the chosen blobs will fit. Will there be space for you?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

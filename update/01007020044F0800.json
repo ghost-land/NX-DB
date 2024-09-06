@@ -1,4 +1,38 @@
 {
     "id": "01007020044F0800",
-    "version": 131072
+    "base_tid": "01007020044F0000",
+    "name": "SUPERBEAT: XONiC",
+    "description": "Experience SUPERBEAT: XONiC, the new music game sensation! Play your way through 68 unique songs and unlocks tons of hidden rewards and items! ",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20171121,
+    "first_update_release_date": 20171123,
+    "latest_update_release_date": 20191003,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20191003
+    },
+    "versions": {
+        "65536": 20171123,
+        "131072": 20191003
+    },
+    "category": [
+        "Music",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Lyrics",
+        "Mild Blood",
+        "Online Interactions Not Rated by the ESRB",
+        "Suggestive Themes",
+        "Music Downloads Not Rated by the ESRB."
+    ],
+    "region": null
 }

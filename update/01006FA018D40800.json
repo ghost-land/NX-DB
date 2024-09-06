@@ -1,4 +1,43 @@
 {
     "id": "01006FA018D40800",
-    "version": 131072
+    "base_tid": "01006FA018D40000",
+    "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai",
+    "description": "The legendary DRAGON QUEST The Adventure of Dai manga and anime arrives as an exhilarating action RPG!\n\nRelive the events of the anime in INFINITY STRASH as you take charge of Dai and the Disciples of Avan in their battle against the Dark Army!\n\nBond Memories: These items recreate iconic scenes from the original manga. Earn and equip them to augment your abilities according to your playstyle.\n\nTemple of Recollection: Play through over 100 room combinations in the endless dungeon, where monsters and traps change each time you enter. \nHack and slash through hordes of enemies to reach the final floor.\n\n[STORY]\nIt has been many years now since The Hero restored peace to the land...\n\nIn a world tormented by the forces of evil, a swordsman and \nhis companions set out to defeat Hadlar, the Dark Lord. \n\nOn an isolated island in the southern seas, a boy named Dai lives among monsters,\nyearning to become a hero himself someday.\nEverything changes when the Dark Lord is revived.\n\nWith a new crisis facing the world, Dai makes a promise to his mentor,\nencounters new friends, and slowly learns about his own inescapable fate... \nThis is the beginning of Dai's adventure, and his quest to become a true hero!",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20230912,
+    "latest_update_release_date": 20230927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230927
+    },
+    "versions": {
+        "65536": 20230912,
+        "131072": 20230927
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "The legendary anime DRAGON QUEST The Adventure of Dai arrives as an action RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language"
+    ],
+    "region": null
 }

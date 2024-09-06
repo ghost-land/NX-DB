@@ -1,4 +1,31 @@
 {
     "id": "010070800D3E2800",
-    "version": 65536
+    "base_tid": "010070800D3E2000",
+    "name": "すみっコぐらし　学校生活はじめるんです",
+    "description": "今は使われていない学校に入り込んで、学校ごっこを始めるすみっコたち。そんな彼らのために、教室はもちろん、理科室や音楽室、体育館やプールを用意して、さまざまな備品を置いてあげて、楽しい学校にしてあげましょう。",
+    "publisher": "日本コロムビア",
+    "developer": null,
+    "base_release_date": 20190718,
+    "first_update_release_date": 20190723,
+    "latest_update_release_date": 20190723,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190723
+    },
+    "versions": {
+        "65536": 20190723
+    },
+    "category": [
+        "コミュニケーション",
+        "シミュレーション",
+        "その他"
+    ],
+    "intro": "すみっコたちが、たのしい学校ごっこをはじめるよ！\n",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

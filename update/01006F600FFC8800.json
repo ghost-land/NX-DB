@@ -1,4 +1,40 @@
 {
     "id": "01006F600FFC8800",
-    "version": 65536
+    "base_tid": "01006F600FFC8000",
+    "name": "LEGO® Marvel™ Super Heroes",
+    "description": "LEGO® Marvel™ Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world.",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20211005,
+    "first_update_release_date": 20211007,
+    "latest_update_release_date": 20211007,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211007
+    },
+    "versions": {
+        "65536": 20211007
+    },
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "LEGO® Marvel™ Super Heroes features an original story crossing the entire MARVEL Universe.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

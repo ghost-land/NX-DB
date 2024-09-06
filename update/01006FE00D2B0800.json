@@ -1,4 +1,34 @@
 {
     "id": "01006FE00D2B0800",
-    "version": 65536
+    "base_tid": "01006FE00D2B0000",
+    "name": "High Noon Revolver",
+    "description": "High Noon Revolver is a 2D Action Shooter; blast your way across 3 layers of platforming, collecting gold and obtaining upgrades helping you go from puny to powerhouse! Play as a cast of colorful characters, each with unique weapons and abilities (like Chickens with Shotguns and Robots with Swords!). Chase down and collect bounties on Wanted outlaws everywhere from Sunken Ships to Haunted Mansions!\n\nFeatures\n- Play as a slew of colorful characters with unique weapons and abilities\n- Collect hefty bounties on Wanted outlaws\n- Spend gold on character and weapon upgrades\n- Chase down criminals across diverse landscapes\n- Race against your best time to achieve high scores\n- Play with friends in Local Co-op",
+    "publisher": "Keybol Games",
+    "developer": null,
+    "base_release_date": 20190723,
+    "first_update_release_date": 20190923,
+    "latest_update_release_date": 20190923,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190923
+    },
+    "versions": {
+        "65536": 20190923
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

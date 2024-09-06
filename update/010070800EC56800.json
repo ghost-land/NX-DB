@@ -1,4 +1,35 @@
 {
     "id": "010070800EC56800",
-    "version": 65536
+    "base_tid": "010070800EC56000",
+    "name": "Throne Quest Deluxe",
+    "description": "Throne Quest Deluxe is a seem-less open-world Action Role Playing Game (ARPG). Delve into an adventurous world full of dungeons and crypts, fighting many types of vicious monsters and search for huge amounts of loot. Change between 11 classes throwing your axes, fire, harps and even a djenty-guitar in fast-paced combat whilst gulping potions and collecting drops to level-up and become a champion. Explore your way through the dangers of the lands on an epic quest to reach the central castle- to claim the Throne held by a demon boss.",
+    "publisher": "Valorware",
+    "developer": null,
+    "base_release_date": 20190911,
+    "first_update_release_date": 20190919,
+    "latest_update_release_date": 20190919,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190919
+    },
+    "versions": {
+        "65536": 20190919
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Open-world fast-action-RPG with 150+ items! 90+ monsters! 11 classes! One Quest... Claim the Throne!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }
