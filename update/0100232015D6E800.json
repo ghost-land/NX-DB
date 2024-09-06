@@ -1,4 +1,34 @@
 {
     "id": "0100232015D6E800",
-    "version": 196608
+    "base_tid": "0100232015D6E000",
+    "name": "Mary Kay Andrews: The Fixer Upper",
+    "description": "After her boss in a high-powered Washington public relations firm is caught in a political scandal, fledgling lobbyist Dempsey Jo Killebrew is left almost broke, unemployed, and homeless. Out of options, she reluctantly accepts her father's offer to help refurbish Birdsong, the old family place he recently inherited in Guthrie, Georgia. \nAll it will take, he tells her, is a little paint and some TLC to turn the fading Victorian mansion into a real-estate cash cow. \nBefore long, what started as a job of necessity will somehow become a labour of love and, ultimately, a journey that takes her to a place she never expected, back home again.",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210812,
+    "first_update_release_date": 20210819,
+    "latest_update_release_date": 20210927,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20210927
+    },
+    "versions": {
+        "65536": 20210819,
+        "131072": 20210916,
+        "196608": 20210927
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Don't let criminals take away your Victorian mansion!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

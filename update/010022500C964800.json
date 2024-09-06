@@ -1,4 +1,36 @@
 {
     "id": "010022500C964800",
-    "version": 196608
+    "base_tid": "010022500C964000",
+    "name": "StarCrossed",
+    "description": "StarCrossed is an action arcade game with a magical girl aesthetic and a cooperative twist! Join our cast of 5 space-faring heroes as they travel across the stars, working together to strengthen their bond and defeat a looming evil that threatens the Nova galaxy! It’s time to team up, get sparkly, and take out the bad guys!",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
+    "first_update_release_date": 20200526,
+    "latest_update_release_date": 20200923,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200923
+    },
+    "versions": {
+        "65536": 20200526,
+        "131072": 20200814,
+        "196608": 20200923
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

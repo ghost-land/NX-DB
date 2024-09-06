@@ -1,4 +1,46 @@
 {
     "id": "010022C016DC8800",
-    "version": 262144
+    "base_tid": "010022C016DC8000",
+    "name": "Breakout: Recharged",
+    "description": "The grandfather of brick-breaking games is back with some of the toughest challenges yet! Breakout: Recharged steps up the excitement with a fresh coat of paint, exciting power-ups, and another original soundtrack from award-winning video game composer Megan McDuffee.\n\nBreakout: Recharged will forever change what you expect from a brick-breaking title. The endless arcade mode and 50 challenge levels will push you to the limit of your skills. Don’t fret, however, as this wouldn’t be a Recharged title without game-changing powerups. Expect the aid of rail guns, homing missiles, and explosives to join the traditional multi-ball. You’ll need every tool in the arsenal and razor-sharp reflexes to climb the global leaderboards.\n\nKey Features:\n\nOld Meets New: Classic Breakout gameplay updated with refined control, and modern visual flourishes\n\nPower Up: Blast special bricks to pick up paddle-transforming power-ups a rail gun, explosive balls, missile launchers, and more\n\nChallenge: Compete in a series of 50 challenges designed to put even the most seasoned players to the test\n\nCompete: Reach the top of global leaderboards for arcade and individual challenge modes\n\nBring a Friend: Play local co-op in every mode - breaking bricks is better together!\n\nGet in the Groove: Rock out to an original score by Megan McDuffee",
+    "publisher": "Atari",
+    "developer": null,
+    "base_release_date": 20220211,
+    "first_update_release_date": 20220201,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20220201,
+        "131072": 20220211,
+        "196608": 20220224,
+        "262144": 20220923
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "The original brick breaker returns with its toughest challenge yet. Survive as long as you can in arcade or take on one of 50 challenges picking up game-changing power-ups along the way",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

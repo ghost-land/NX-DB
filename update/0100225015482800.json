@@ -1,4 +1,35 @@
 {
     "id": "0100225015482800",
-    "version": 131072
+    "base_tid": "0100225015482000",
+    "name": "I.F.O",
+    "description": "I.F.O is an old school LCD-style shoot'em up game. Shoot down UFOs using a classic style aircraft and save the abducted animals from the aliens. Save the Earth from the Aliens! You're the world's last hope.",
+    "publisher": "Turtle Cream",
+    "developer": null,
+    "base_release_date": 20210805,
+    "first_update_release_date": 20210901,
+    "latest_update_release_date": 20210901,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210901
+    },
+    "versions": {
+        "131072": 20210901
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Shoot'em up aliens and save the Earth!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

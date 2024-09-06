@@ -1,4 +1,44 @@
 {
     "id": "010022700E7D6800",
-    "version": 65536
+    "base_tid": "010022700E7D6000",
+    "name": "FAR: Lone Sails",
+    "description": "Traverse a dried-out seabed littered with the remains of a decaying civilization. Keep your unique vessel going, overcome numerous obstacles and withstand the hazardous weather conditions. How far can you make it? What will you find?\n\n- Master your vessel: Maintain and upgrade your vehicle to overcome numerous obstacles and natural hazards.\n- Discover a unique world: Explore a desolate dried-out seabed, follow the trails of your people and find relics and buildings, that tell the story of a civilization on the run.\n- Experience an atmospheric journey: Let the sky full of clouds pass by and heed the wind that drives your sails towards the horizon.",
+    "publisher": "Assemble Entertainment",
+    "developer": null,
+    "base_release_date": 20190819,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230523,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230523
+    },
+    "versions": {
+        "65536": 20230523
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Simulation"
+    ],
+    "intro": "FAR: Lone Sails is a vehicle adventure game. It’s just you and your machine vs. the big nothing.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

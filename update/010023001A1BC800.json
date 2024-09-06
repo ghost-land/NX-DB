@@ -1,4 +1,43 @@
 {
     "id": "010023001A1BC800",
-    "version": 131072
+    "base_tid": "010023001A1BC000",
+    "name": "Rytmos",
+    "description": "Rytmos is a relaxing puzzle game, where you create music by solving maze puzzles. \n\nTravel from planet to planet and discover new music. \nSolve the puzzles on each side of the cubic planets and create small musical loops that slowly evolves into full music compositions. \n\nUnlock 20+ musical toys and jam on top of the planet music.\nLearn a bit of rare music history while playing the game. ",
+    "publisher": "Floppy Club",
+    "developer": null,
+    "base_release_date": 20230228,
+    "first_update_release_date": 20230227,
+    "latest_update_release_date": 20230308,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230308
+    },
+    "versions": {
+        "65536": 20230227,
+        "131072": 20230308
+    },
+    "category": [
+        "Puzzle",
+        "Music",
+        "Study"
+    ],
+    "intro": "A galactic music puzzle game",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

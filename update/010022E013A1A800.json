@@ -1,4 +1,45 @@
 {
     "id": "010022E013A1A800",
-    "version": 196608
+    "base_tid": "010022E013A1A000",
+    "name": "Hoa",
+    "description": "Hoa is a beautiful puzzle-platforming game that features breathtaking hand-painted art, lovely music, and a peaceful, relaxing atmosphere. Experience the magic of nature and imagination as you play the main character, Hoa, on her journey through breathtaking environments back to where it all began.\n\n- Breathtaking hand-painted art\nStep into a painting that lives - explore a vast world of meticulously crafted sceneries of stunning hand-painted art.\n\n- Outstanding original soundtrack\nCaptivatingly story-telling and emotionally-charged, Hoa's exceptional score, originally composed and live-recorded, brings its world to life with a touch of nostalgia.\n\n- Lovely creatures\nKeep an eye out for delightful magical creatures along the way. Most of them want to be friends, some might even tell you a little story or two. Cuteness guaranteed.\n\n- Gentle, yet compelling flow\nNavigate with a keen eye and solve exploration-based puzzles. Relax to the organic rhythm of subtle storytelling while being intrigued by endless little wonders. Be a child - it's easier and harder than it may seem.\n",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20210824,
+    "first_update_release_date": 20210824,
+    "latest_update_release_date": 20211004,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211004
+    },
+    "versions": {
+        "65536": 20210824,
+        "131072": 20210825,
+        "196608": 20211004
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

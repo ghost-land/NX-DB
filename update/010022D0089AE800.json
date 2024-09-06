@@ -1,4 +1,37 @@
 {
     "id": "010022D0089AE800",
-    "version": 327680
+    "base_tid": "010022D0089AE000",
+    "name": "Labyrinth of the Witch",
+    "description": "A simple dungeon exploration RPG that anyone can play!\n Strategically use a multitude of items to tackle ever-changing dungeons.\n \n A Rogue-like for Anyone and Everyone\n \n This simple, easy-to-play dungeon exploration RPG is free of difficult game mechanics.\n \n Speedrun Faster than Anyone!\n \n Built for the speedrunners, take on the Speedrun Dungeon armed with only your wits (no starting items!) and find your own gear!\n \n Pixel Art at its Best\n \n State-of-the-art pixel art and animations bring your adventures to life!\n",
+    "publisher": "ORANGE CUBE",
+    "developer": null,
+    "base_release_date": 20191114,
+    "first_update_release_date": 20191125,
+    "latest_update_release_date": 20240412,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20240412
+    },
+    "versions": {
+        "65536": 20191125,
+        "131072": 20191210,
+        "196608": 20191217,
+        "327680": 20240412
+    },
+    "category": [
+        "RPG",
+        "Puzzle"
+    ],
+    "intro": "Rogue-like as you like!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

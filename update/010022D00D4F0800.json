@@ -1,4 +1,38 @@
 {
     "id": "010022D00D4F0800",
-    "version": 458752
+    "base_tid": "010022D00D4F0000",
+    "name": "Cricket 19",
+    "description": "Earn World Glory At The Pinnacle Of Cricket!\n\nCricket 19 – The Official Game of the 2019 Ashes, is the complete cricket simulation. From Big Ant Studios, the leading name in authentic, realistic cricket simulation, comes this year’s tie-in to the mammoth summer of cricket in England. \n\nSelect a team and lead them to T20, ODI or Test Match glory, or create your own team via the acclaimed Cricket Academy and recreate your local matches – Cricket 19 – The Official Game of the 2019 Ashes, has it all.\n\nDive into the deepest, story-driven career mode in the history of cricket video games. Build a rookie player’s career from their junior years at club cricket. Perform well and the headlines will be singing your praises, and before you know it, you’ll be leading your nation on to the field.\n\nKey features include:\nDeep player, stadia, logo and scenario creator.\nFull support for all formats of cricket - T20, ODI and Test Match.\nReal world AI and tactics.\nFully licensed Australian and English teams.",
+    "publisher": "Big Ant Studios",
+    "developer": null,
+    "base_release_date": 20190528,
+    "first_update_release_date": 20190604,
+    "latest_update_release_date": 20200330,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20200330
+    },
+    "versions": {
+        "65536": 20190604,
+        "131072": 20190715,
+        "196608": 20190930,
+        "262144": 20191020,
+        "327680": 20191210,
+        "393216": 20200105,
+        "458752": 20200330
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "Deep player, stadia, logo and scenario creator.\nFull support for all formats of cricket - T20, ODI and Test Match.\nFully licensed English and Australian teams.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

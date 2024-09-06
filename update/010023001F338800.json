@@ -1,4 +1,32 @@
 {
     "id": "010023001F338800",
-    "version": 65536
+    "base_tid": "010023001F338000",
+    "name": "△與X的謎題",
+    "description": "這是一款使用「△」和「X」兩種圖形來解答IQ問題的腦力訓練遊戲\n\n玩法很簡單\n・閱讀問題文本並仔細觀察插圖\n・尋找符合答案的「△」或「X」\n・知道答案後，將圖形拖放到正確的位置！\n\n從完成漢字或數學公式的問題，到填補插圖缺少部分的問題，\n以及幫助插圖中的人物的問題，\n讓我們用「△」和「X」解開各種謎題吧\n\n覺得難也沒關係！\n提示功能讓任何級別的玩家都能享受遊戲的樂趣",
+    "publisher": "TT",
+    "developer": null,
+    "base_release_date": 20240627,
+    "first_update_release_date": 20240619,
+    "latest_update_release_date": 20240619,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240619
+    },
+    "versions": {
+        "65536": 20240619
+    },
+    "category": [
+        "訓練",
+        "學習",
+        "實用",
+        "益智"
+    ],
+    "intro": "用神奇的圖形△和X解開謎團\nIQ腦力訓練遊戲",
+    "isDemo": false,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

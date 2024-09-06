@@ -1,4 +1,34 @@
 {
     "id": "010023500B0BA800",
-    "version": 196608
+    "base_tid": "010023500B0BA000",
+    "name": "Nefarious",
+    "description": "Tired of playing the hero? Nefarious is a 2D action platformer where you get to be the villain! Step into the wily shoes of Crow, an evil genius on an epic quest to steal princesses for his royalty-powered death ray – the world-conquering Doom Howitzer. \n\nWreak havoc across five different kingdoms! Stomp on heroes in iconic battles recreated with you as the boss! Unleash your inner megalomaniac!\n\nKey Features\nYou’re the villain! Kidnap princesses! Take over the world!\nLovingly crafted 2D animation and illustrated backdrops\nReverse boss battles let you fight against the hero\nGlobe hop between five different kingdoms\nUnlock different ammo types for your grenade launcher\nMix and match customization options for your explosive punches\nUncover mysteries to unlock a secret ending!\nStory that spoofs the video game trope of princess kidnapping",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20180913,
+    "first_update_release_date": 20180903,
+    "latest_update_release_date": 20181030,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20181030
+    },
+    "versions": {
+        "65536": 20180903,
+        "131072": 20180918,
+        "196608": 20181030
+    },
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "The game where YOU get to be the bad guy.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

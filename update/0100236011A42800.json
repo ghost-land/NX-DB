@@ -1,4 +1,40 @@
 {
     "id": "0100236011A42800",
-    "version": 131072
+    "base_tid": "0100236011A42000",
+    "name": "Black Rainbow",
+    "description": "For adventurer Helen Stone, the biggest adventure is yet to follow!\nHelp Helen escape the burning village and guide her through the dark and dangerous forests and help the people of Amazonia.\n\nThe evil behind the curtain is far bigger and dangerous than anyone could have ever imagined. It's up to Helen to restore the balance in this hidden and unexplored world. Will you survive the impossible!?\n\n- Find your way out of the dark forest of Amazonia\n- Search through dozens of hidden and sacred places\n- Help people of Amazonia stop the darkness\n- Solve dozens of exciting minigames\n- Numerous animated, colorful locations to explore\n\n\n\n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20200409,
+    "first_update_release_date": 20210924,
+    "latest_update_release_date": 20221109,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221109
+    },
+    "versions": {
+        "65536": 20210924,
+        "131072": 20221109
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }
