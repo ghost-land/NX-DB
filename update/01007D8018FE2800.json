@@ -1,4 +1,63 @@
 {
     "id": "01007D8018FE2800",
-    "version": 1048576
+    "base_tid": "01007D8018FE2000",
+    "name": "Palia",
+    "description": "Explore a vibrant new world made just for you with Palia, a free-to-play, cozy sim MMO game. Craft, cook, fish, and farm with friends as you live the life of your dreams and discover an enchanting adventure filled with colorful characters and a mystery to unravel.  \nDo What You Love \nFish and farm or cook and catch insects - you can live off the land any way you like! Tend to your home plot and nurture your garden or explore Kilima Valley and Bahari Bay to forage for items, ingredients, and rare critters.\n \nAn Always-Evolving Adventure \nUnravel a deep mystery about what happened to ancient humans as you reappear in a world alongside other players.\n\nBefriend the local Majiri, learn their backstories, foster relationships, and maybe even romance! Be sure to give back to the community by providing gifts and honing your skills in fishing, hunting, crafting, and more.\n \nMake Your House a Home \nCustomize your character and build the home of your dreams! With hundreds of craftable items and customizable options, you can decorate your plot to make your home uniquely yours.\n \nBetter Together \nPlay solo or jump in with friends at any time! Palia is a friendly, cozy community that's always here to welcome you home. Discover a shared world full of players and new friends and enjoy your adventure together.",
+    "publisher": "Singularity 6",
+    "developer": null,
+    "base_release_date": 20231215,
+    "first_update_release_date": 20231205,
+    "latest_update_release_date": 20240827,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20240827
+    },
+    "versions": {
+        "131072": 20231205,
+        "196608": 20231208,
+        "262144": 20231212,
+        "327680": 20231219,
+        "393216": 20240130,
+        "524288": 20240301,
+        "589824": 20240325,
+        "655360": 20240404,
+        "720896": 20240423,
+        "786432": 20240528,
+        "851968": 20240612,
+        "917504": 20240625,
+        "983040": 20240730,
+        "1048576": 20240827
+    },
+    "category": [
+        "Simulation",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Welcome to Palia, a cozy community sim MMO made for you and your friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Mild Crude Humour",
+        "Mild Sexual References",
+        "Mild Themes",
+        "Mild Violence",
+        "Users Interact",
+        "In-Game Purchases",
+        "Mild Gambling Themes"
+    ],
+    "region": null
 }

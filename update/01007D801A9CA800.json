@@ -1,4 +1,38 @@
 {
     "id": "01007D801A9CA800",
-    "version": 196608
+    "base_tid": "01007D801A9CA000",
+    "name": "IDEA",
+    "description": "Explore gorgeous landscapes, roll down highways and stumble upon welcoming cottages and abandoned dumpsters. Help your ideas find their way – and share them with the world when they stop, before beginning your journey anew.",
+    "publisher": "TLR Games",
+    "developer": null,
+    "base_release_date": 20230323,
+    "first_update_release_date": 20230418,
+    "latest_update_release_date": 20230508,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230508
+    },
+    "versions": {
+        "65536": 20230418,
+        "131072": 20230430,
+        "196608": 20230508
+    },
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "IDEA is a game about discovering and sharing.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

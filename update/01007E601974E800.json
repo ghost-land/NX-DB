@@ -1,4 +1,44 @@
 {
     "id": "01007E601974E800",
-    "version": 131072
+    "base_tid": "01007E601974E000",
+    "name": "Think Logic! Sudoku - Binary - Suguru",
+    "description": "Put your brain to the ultimate test with three of the most played number puzzles!\n\nExperience three totally different number puzzles in one package with 400 puzzles for you to solve. The puzzles have different levels of difficulty so if you’re not a specialist yet, you can start with the easy puzzles and increase the difficulty as you become a Think Logic master!\n\nNeed a little help during your puzzle solving? All levels have hint button which will give a number on a random place and a reset button, which will empty the board again.\n\nShow off your Think Logic skills! Submit your scores to the online leaderboards and see how you rank up against other players worldwide.",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20230105,
+    "first_update_release_date": 20230109,
+    "latest_update_release_date": 20230120,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20230120
+    },
+    "versions": {
+        "65536": 20230109,
+        "131072": 20230120
+    },
+    "category": [
+        "Puzzle",
+        "Education",
+        "Study",
+        "Practical"
+    ],
+    "intro": "Put your brain to the ultimate test with three of the most played number puzzles!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

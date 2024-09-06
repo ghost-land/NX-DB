@@ -1,4 +1,36 @@
 {
     "id": "01007E100EFA8800",
-    "version": 131072
+    "base_tid": "01007E100EFA8000",
+    "name": "Habroxia",
+    "description": "Blast your way through a myriad of extra terrestrial incursions in this arcade-style scrolling shooter! Pilot the ship Habroxia through 15 levels featuring intense boss fights, rescue missions, shifting perspectives and untold surprises. Customize your ship to enhance your abilities, unlock the three endless side modes, and save the galaxy from a series of sinister invaders.\n\nFeatures:\n\n• 15 Campaign Levels\n• 3 distinct Firing Patterns\n• Persistent Ship Upgrade System\n• Over 10 Unique Boss Fights\n• Over 50 Different Enemy Types With Multiple Iterations\n• Horizontal and Vertical Levels\n• 3 Endless Side Modes Featuring Distinct Gameplay",
+    "publisher": "Lillymo Games",
+    "developer": null,
+    "base_release_date": 20190926,
+    "first_update_release_date": 20190927,
+    "latest_update_release_date": 20240214,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240214
+    },
+    "versions": {
+        "65536": 20190927,
+        "131072": 20240214
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Save the galaxy in this classic shoot'em up game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
+    "region": null
 }

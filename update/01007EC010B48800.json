@@ -1,4 +1,32 @@
 {
     "id": "01007EC010B48800",
-    "version": 65536
+    "base_tid": "01007EC010B48000",
+    "name": "Rainswept",
+    "description": "Detective Michael Stone arrives in the small town of Pineview to assist the local police force with a seemingly simple case - A couple is found dead in their kitchen. The locals believe it to be a case of murder-suicide, their speculation fueled by rumors of the turbulent nature of the couple's relationship.\n\nHelp Detective Stone, assisted by the driven and empathetic Amy Blunt, discover the truth behind Chris and Diane's story. But be warned: the further he pursues the case, the more his own past shall come back to haunt him. And the closer his sanity will be pushed to the edge.\n\n- An emotionally captivating story set in an immersive and atmospheric game world.\n- A wide cast of characters with deep histories, meaningful motivations and distinct personalities. -An original detective noir story in the tradition of Twin Peaks, Luther or Memories of Murder\n- A moving original soundtrack by Micamic (Downfall, The Cat Lady, Lorelai).\n- Pine trees, coffee and rain. Lots of rain.",
+    "publisher": "2Awesome Studio",
+    "developer": null,
+    "base_release_date": 20200724,
+    "first_update_release_date": 20200628,
+    "latest_update_release_date": 20200628,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200628
+    },
+    "versions": {
+        "65536": 20200628
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Rainswept takes you on an emotional adventure in a small town affected by a double shooting. Join Detective Stone and unravel entangled threads of love, relationships and unresolved trauma.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
+    "region": null
 }

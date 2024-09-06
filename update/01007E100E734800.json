@@ -1,4 +1,39 @@
 {
     "id": "01007E100E734800",
-    "version": 131072
+    "base_tid": "01007E100E734000",
+    "name": "Ping Pong Arcade",
+    "description": "Ping Pong Arcade tests your skills with a variety of challenging game modes and customisation options. Go from novice to pro with five difficulty levels to suit any player’s skill. Conquer the campaign mode by beating opponents in five different locations including an arcade, a stadium and a Japanese garden. Unlock eleven “super-powers” as you play and use skills such as “Ultra Hit”, “Giga Paddle” and “Soap Bubble”, to outwit and overpower you opponent.\n\nPlay against a friend with either the local or online multiplayer options or prove your prowess in Ping Pong Arcade’s World Cup Championship. Have you got what it takes to go from your local school gymnasium, through the regional sports halls in the nationals and onto the international arenas where the ultimate prize of becoming the World Champion awaits?  ",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20220428,
+    "first_update_release_date": 20220525,
+    "latest_update_release_date": 20220706,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220706
+    },
+    "versions": {
+        "65536": 20220525,
+        "131072": 20220706
+    },
+    "category": [
+        "Sports",
+        "Arcade",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Paddles at the ready!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "01007DB010D2C800",
-    "version": 65536
+    "base_tid": "01007DB010D2C000",
+    "name": "TaniNani",
+    "description": "TaniNani is a puzzle game where you move parts of the level around to help the characters find the crystal and each other. Explore a unique puzzle experience in your own pace, test your brain with optional challenges and unlock cute outfits for Tani & Nani.\n\nFEATURES:\n120 Handcrafted levels across 10 worlds.\nOptional challenges for extra difficulty.\nUnlockable outfits.\nA catchy cute little soundtrack.",
+    "publisher": "WhyKev",
+    "developer": null,
+    "base_release_date": 20200422,
+    "first_update_release_date": 20200816,
+    "latest_update_release_date": 20200816,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200816
+    },
+    "versions": {
+        "65536": 20200816
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "A unique puzzle experience",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

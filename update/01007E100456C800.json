@@ -1,4 +1,42 @@
 {
     "id": "01007E100456C800",
-    "version": 262144
+    "base_tid": "01007E100456C000",
+    "name": "Guacamelee! 2",
+    "description": "Luchador Juan Aguacate is out of retirement for a stunning new Metroidvania-style adventure. Explore a huge, hand-crafted world inspired by Mexican culture and folklore, filled with sassy new villains and weirdos (and a few old friends!). Learn bone-crunching wrestling moves to fend off skeletal hordes and overcome skillful platforming challenges... and who said anything about a Chicken Illuminati? Certainly not us!\n\nCheck out these features:\n\n- Drop-in 4-player local co-op for you and your best amigos!\n- New upgrade system: discover “trainers” around the world to learn new skill sets for movement, combat, and more!\n- All new areas. Explore from the Mangrove Swamp to Hell itself! \n- Double the enemy types of the original, and a roster of eccentric new bosses!\n- Electro-Mexican soundtrack, and more gorgeous visuals thanks to a fancy new rendering engine!\n- Definitely no secret society of chickens that teaches you ancient chicken abilities!",
+    "publisher": "DrinkBox Studios",
+    "developer": null,
+    "base_release_date": 20181211,
+    "first_update_release_date": 20181210,
+    "latest_update_release_date": 20210112,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210112
+    },
+    "versions": {
+        "65536": 20181210,
+        "196608": 20181217,
+        "262144": 20210112
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Juan saved the world once -- but this time, the entire Mexiverse is at stake!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

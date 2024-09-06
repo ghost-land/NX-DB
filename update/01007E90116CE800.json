@@ -1,4 +1,33 @@
 {
     "id": "01007E90116CE800",
-    "version": 131072
+    "base_tid": "01007E90116CE000",
+    "name": "Giraffe and Annika",
+    "description": "After waking from a strange dream, Annika finds herself stranded on the island of Spica, having no recollection of her past. With the help of a boy named Giraffe and the witch Lily, she must find three special star fragments on the island in order to uncover her memories.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200828,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200923,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200923
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20200923
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Magic Lies Within Memories",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy violence",
+        "Mild sexualised imagery"
+    ],
+    "region": null
 }

@@ -1,4 +1,46 @@
 {
     "id": "01007DD00DFDE800",
-    "version": 458752
+    "base_tid": "01007DD00DFDE000",
+    "name": "Dyna Bomb",
+    "description": "Experience the manic arcade action as you dodge enemies, fling bombs and grab the treasure - before making a mad dash for the exit. Do you have the skills to find the secret levels? Can you master all the different power ups and dominate the worlds?\n\nIf it moves, detonate it. Dyna Bomb has an intuitive arcade action game play, with a blast of humor . Enjoy features like, the wheel of fortune to discover hidden extras, player powerups, different characters designs and much, much more!",
+    "publisher": "7 Raven Studios",
+    "developer": null,
+    "base_release_date": 20211015,
+    "first_update_release_date": 20190605,
+    "latest_update_release_date": 20210615,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20210615
+    },
+    "versions": {
+        "65536": 20190605,
+        "131072": 20190607,
+        "196608": 20190624,
+        "262144": 20190726,
+        "327680": 20190820,
+        "393216": 20200211,
+        "458752": 20210615
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "With 64 explosive levels - and 8 gloriously animated worlds. This arcade smash is a real feast for the senses, with superb artwork and thunderous explosions - oh so many explosions!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

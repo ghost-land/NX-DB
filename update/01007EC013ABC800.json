@@ -1,4 +1,52 @@
 {
     "id": "01007EC013ABC800",
-    "version": 524288
+    "base_tid": "01007EC013ABC000",
+    "name": "Spelunky 2",
+    "description": "Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family. Spelunky 2 builds upon the unique, randomized challenges that made the original a classic, offering a huge adventure designed to satisfy players old and new. Explore the game alone, play locally with up to four players, or, for the first time, join up with friends online to unravel its mysteries together (or battle it out in competitive Arena modes).\n\nSpelunky 2's world is even denser than the one in the original game, offering more areas, characters, traps, and items, as well as new ways to interact with them (and for them to interact with each other). The world has expanded in other ways, too, with branching paths and multi-layered levels adding a third dimension to the classic 2d platforming gameplay.",
+    "publisher": "Mossmouth",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20210812,
+    "latest_update_release_date": 20221123,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20221123
+    },
+    "versions": {
+        "65536": 20210812,
+        "131072": 20210825,
+        "196608": 20210903,
+        "262144": 20211105,
+        "327680": 20220119,
+        "393216": 20220919,
+        "458752": 20220930,
+        "524288": 20221123
+    },
+    "category": [
+        "Platformer",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Spelunky returns in this greatly-expanded sequel to the original roguelike platformer!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Simulated Gambling",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01007E700D17E800",
-    "version": 131072
+    "base_tid": "01007E700D17E000",
+    "name": "Blood Waves",
+    "description": "using the destroying traps, defensive barricades and also weapon of close and long-range combat.\n\nDestroy zombies, get the cash and prepare yourself for the next wave. During the break you can buy necessary weapon, place the traps and defensive barricades, repair the traps survived in the previous wave. And of course, don't forget to check the stock of bullets and restore your health.\n\nDifferent types of zombie possess the distinctive features. There are enemies with long-distance attack as well as cleverer zombies avoiding certain traps.\n\nChoose the optimal survival strategy. For the most successful game you will need to control expenditure of the earned resources. The time of your survival depends on it.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20190316,
+    "first_update_release_date": 20190318,
+    "latest_update_release_date": 20190411,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190411
+    },
+    "versions": {
+        "65536": 20190318,
+        "131072": 20190411
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Hardcore and bloody shooter where you will have to repel the attacks of the living dead",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "High Impact Violence"
+    ],
+    "region": null
 }

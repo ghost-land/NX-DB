@@ -1,4 +1,39 @@
 {
     "id": "01007E400ECC6800",
-    "version": 65536
+    "base_tid": "01007E400ECC6000",
+    "name": "Deadly Fighter 2",
+    "description": "The world's largest fighting contest is back! \n\nNo ranking, no rules, only dead or alive! \n\nWho is the strongest fighter on the earth? \n\nPlunge into epic combat sequences, rendered in astonishingly lifelike detail. \n\nJourney through four different locations. Choose your fighter, unlock, buy and upgrade boosts!\n\nEvery Press Matters!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20211027,
+    "first_update_release_date": 20190815,
+    "latest_update_release_date": 20190815,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190815
+    },
+    "versions": {
+        "65536": 20190815
+    },
+    "category": [
+        "Action",
+        "Fighting",
+        "Communication"
+    ],
+    "intro": "Put your kung-fu to the ultimate test!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "01007D9007792800",
-    "version": 65536
+    "base_tid": "01007D9007792000",
+    "name": "Shadow Bug",
+    "description": "You are the overpowered ninja hero Shadow Bug! Save your home forest from the evil factory by slicing monsters to pieces. Adventure through beautiful and twisted landscapes full of action and adventure as the ultimate ninja.\n\n- A completely new take on platformer games.\n- 36 hand crafted levels filled with action, exploration and puzzles.\n- Unique core mechanic: move by attacking enemies.\n- Breathtaking soundscape with an epic soundtrack and immersive sound effects.\n- Leaderboards for speedrunning levels.\n- Mesmerizing art with picturesque parallax backgrounds and mystical silhouettes.\n- 6 memorable boss fights.",
+    "publisher": "Muro Studios",
+    "developer": null,
+    "base_release_date": 20180330,
+    "first_update_release_date": 20180409,
+    "latest_update_release_date": 20180409,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180409
+    },
+    "versions": {
+        "65536": 20180409
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Leap, slash, splash!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

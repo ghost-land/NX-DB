@@ -1,4 +1,45 @@
 {
     "id": "01007E3006DDA800",
-    "version": 327680
+    "base_tid": "01007E3006DDA000",
+    "name": "Kirby™ Star Allies",
+    "description": "When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!\n\nWith tons bosses and enemies standing in your way, Kirby has a new bag of tricks. Take baddies out by taking advantage of their elemental weaknesses.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180316,
+    "first_update_release_date": 20180308,
+    "latest_update_release_date": 20181129,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20181129
+    },
+    "versions": {
+        "65536": 20180308,
+        "131072": 20180315,
+        "196608": 20180327,
+        "262144": 20180726,
+        "327680": 20181129
+    },
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Classic Kirby enemies are his new best friends!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,55 @@
 {
     "id": "01007E700DBF6800",
-    "version": 983040
+    "base_tid": "01007E700DBF6000",
+    "name": "MY HERO ONE'S JUSTICE 2",
+    "description": "Bonus for purchasing the previous game, MY HERO ONE'S JUSTICE:\n- Special customization item set for Izuku Midoriya\n\nMY HERO ONE'S JUSTICE 2, the over-the-top follow-up to the smash hit 3D arena fighter MY HERO ONE'S JUSTICE, makes its heroic debut! Make full use of characters' Quirks as you clash head-to-head in epic battles across huge arenas!\n\n*In addition to this product, the Deluxe Edition and Ultimate Edition are also available. Please be careful not to purchase the same content twice.\n*To receive the bonus for purchasing the previous game, you must have save data from MY HERO ONE'S JUSTICE.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20211124,
+    "first_update_release_date": 20200227,
+    "latest_update_release_date": 20230204,
+    "latest_update": {
+        "version": "983040",
+        "release_date": 20230204
+    },
+    "versions": {
+        "65536": 20200227,
+        "131072": 20200414,
+        "196608": 20200609,
+        "262144": 20200818,
+        "327680": 20200930,
+        "393216": 20201119,
+        "458752": 20210223,
+        "524288": 20210525,
+        "589824": 20210817,
+        "655360": 20211207,
+        "720896": 20220126,
+        "786432": 20220315,
+        "851968": 20220518,
+        "983040": 20230204
+    },
+    "category": [
+        "Fighting"
+    ],
+    "intro": "THE FIGHT FOR JUSTICE GETS BIGGER, BADDER, AND QUIRKIER!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }
