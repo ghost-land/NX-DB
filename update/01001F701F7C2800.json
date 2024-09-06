@@ -1,4 +1,35 @@
 {
     "id": "01001F701F7C2800",
-    "version": 131072
+    "base_tid": "01001F701F7C2000",
+    "name": "Satryn DX",
+    "description": "Satryn DX is a little twin stick shooty featuring infinite levels of chaotic, physics-based baddie blasting. save your friends to increase the score multiplier. the bigger the score, the more power-ups will spawn. i hope your brain enjoys this reward loop.\n\n- 12 fearsome baddies (not cuddly) \n- 9 power-ups that will make you smile and say \"i'm having fun\"\n- 5 hazards that add to the chaotic nature of this strange place\n- Global leaderboards\n- A manual that reveals helpful hints and useless lore as you discover things\n- The love of your friends makes you stronger ",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20240718,
+    "first_update_release_date": 20240703,
+    "latest_update_release_date": 20240715,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240715
+    },
+    "versions": {
+        "65536": 20240703,
+        "131072": 20240715
+    },
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Fighting"
+    ],
+    "intro": "A chaotic, infinite twin stick shooter",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

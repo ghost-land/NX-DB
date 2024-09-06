@@ -1,4 +1,33 @@
 {
     "id": "010020700E2A2800",
-    "version": 65536
+    "base_tid": "010020700E2A2000",
+    "name": "Disaster Report 4: Summer Memories",
+    "description": "In the shadow of a massive earthquake, you must brave a destroyed city where your choices will determine who survives.\n",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200407,
+    "first_update_release_date": 20200407,
+    "latest_update_release_date": 20200407,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200407
+    },
+    "versions": {
+        "65536": 20200407
+    },
+    "category": [
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "The World You Know Is Gone",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Violence"
+    ],
+    "region": null
 }

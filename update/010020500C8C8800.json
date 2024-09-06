@@ -1,4 +1,32 @@
 {
     "id": "010020500C8C8800",
-    "version": 65536
+    "base_tid": "010020500C8C8000",
+    "name": "Number Place 10000",
+    "description": "Mind Training logic puzzle \"Number Place\"\n\nThe objective is to fill a 9x9 grid with numbers without repeatedly in all row, column and 3x3 squares.\n\n10000 questions in 4 levels of difficulty from Easy to Expert.\nLets't choose question that suit yourself, or challenge harder with others!",
+    "publisher": "SUCCESS",
+    "developer": null,
+    "base_release_date": 20190104,
+    "first_update_release_date": 20200923,
+    "latest_update_release_date": 20200923,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200923
+    },
+    "versions": {
+        "65536": 20200923
+    },
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Classic Mind Training logic puzzle:\nNumber Place with 10000 Questions!\nLet's enjoy it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

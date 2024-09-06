@@ -1,4 +1,45 @@
 {
     "id": "010020700DE04800",
-    "version": 65536
+    "base_tid": "010020700DE04000",
+    "name": "Bear With Me: The Lost Robots",
+    "description": "The noir episodic point and click adventure series Bear With Me is back! Introducing Bear With Me: The Lost Robots – an all new prequel chapter featuring Amber’s brother Flint and the callous detective Ted E. Bear. \n\nTake to the gritty and bustling undergrounds of Paper City, discovering new characters and rich lore leading up to the events of the first three episodes of Bear With Me.\n\nDark interrogations, sarcastic banter, and challenging puzzles lie in store for our heroes as they collect clues to solve a bigger, more sinister mystery. Featuring an evocative soundtrack, expansive narrative and a uniquely drawn 2D animated art-style accented by an impressive film noir style, Bear With Me will take players through an emotional rollercoaster of a journey that will determine the fates of our protagonists.\n",
+    "publisher": "Maximum Games",
+    "developer": null,
+    "base_release_date": 20220208,
+    "first_update_release_date": 20190805,
+    "latest_update_release_date": 20190805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190805
+    },
+    "versions": {
+        "65536": 20190805
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Other"
+    ],
+    "intro": "Bear With Me: The Lost Robots is an all new prequel chapter featuring Amber’s brother Flint and the callous detective Ted E. Bear. ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Language",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

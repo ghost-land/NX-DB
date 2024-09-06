@@ -1,4 +1,41 @@
 {
     "id": "01001F901B8E0800",
-    "version": 196608
+    "base_tid": "01001F901B8E0000",
+    "name": "PSYCHIC 5: ETERNAL",
+    "description": "'\"The Return of Psychic Hammer that Stormed the Game Center in 1987!\"\n『PSYCHIC 5: ETERNAL』\n\n\"Five heroes with super powers, five hammers saving the world.\"\n\"Escape the maze and enter the room of the Great Demon!\"\n\"Save the espers and unite your powers to defeat the Great Demon!\"\n\n\"At that time, Satan was not completely dead.\"\n\"Introducing five new comrades!\"\n\"The Psychic Hammer burns even stronger, now more powerful than ever!\"\n\n\"Various modes not found in the original game\"\n- 'Survival' mode, where you must survive until the end with only one life\n- 'Time Attack' mode, where you aim to clear the game in the shortest time possible\n- 'Towering' mode, where you challenge endless heights\n\n'2-player simultaneous play' now supported,\nso players can enjoy exciting cooperative play!\n\nVarious display settings for that nostalgic feeling,\nincluding green monitor, black and white monitor, and scanline!\n\n\"A Masterpiece Returns after 36 Years, PSYCHIC 5: ETERNAL\"",
+    "publisher": "DAEWON MEDIA",
+    "developer": null,
+    "base_release_date": 20230727,
+    "first_update_release_date": 20230809,
+    "latest_update_release_date": 20230911,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230911
+    },
+    "versions": {
+        "65536": 20230809,
+        "131072": 20230824,
+        "196608": 20230911
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": "\"Five heroes with super powers, five hammers saving the world.\"\n\"At that time, Satan was not completely dead.\"",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Tobacco Reference"
+    ],
+    "region": null
 }

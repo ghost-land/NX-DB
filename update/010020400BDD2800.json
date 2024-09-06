@@ -1,4 +1,40 @@
 {
     "id": "010020400BDD2800",
-    "version": 131072
+    "base_tid": "010020400BDD2000",
+    "name": "Moai VI: Unexpected Guests",
+    "description": "From vibrant jungles bursting with color, to an underwater wonderland teeming with aquatic life, to a cluster of floating islands, you'll traverse many magical lands filled with miracles. You'll also go toe-to-toe with awesome giants, outwit clever jellyfish and pet cute Manu-Ai to receive mana. Characters that range from the charming Posei-Don to the wicked Moko-Moko lizards will make each encounter a memorable one.\n\nAlong the way, you'll race to complete 80 thrilling levels that challenge you to strategically figure out the best use of your resources. Mine stone and ore from the bowels of the Earth, summon crops from soil and trade with merchants, all in an effort to complete missions ranging from keeping an island afloat to repairing a natural cloud maker. \n\nGuide Hika-Ri and Kao-Ri on the adventure of their lives and enjoy countless hours of fun on the enchanted island of Tapa-Tui!\n\n- Dozens of challenging levels\n- A thrilling story of adventure\n- Awesome art and animation",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20190329,
+    "first_update_release_date": 20200130,
+    "latest_update_release_date": 20240806,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240806
+    },
+    "versions": {
+        "65536": 20200130,
+        "131072": 20240806
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Join two heroes on one grand adventure!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

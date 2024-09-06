@@ -1,4 +1,34 @@
 {
     "id": "01001FF01247E800",
-    "version": 65536
+    "base_tid": "01001FF01247E000",
+    "name": "Epic Word Search Collection 2",
+    "description": "Epic Word Search puzzles are enormous! There are more than 1,500 words hidden in each massive, scrollable grid.\n\nThis collection contains:\nEpic America Word Search\nEpic Monster Word Search\nEpic Rock Word Search\nEpic Summer Word Search\n",
+    "publisher": "Lightwood Games",
+    "developer": null,
+    "base_release_date": 20200723,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20200813,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200813
+    },
+    "versions": {
+        "65536": 20200813
+    },
+    "category": [
+        "Puzzle",
+        "Study",
+        "Training",
+        "Education"
+    ],
+    "intro": "They're gigantic!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

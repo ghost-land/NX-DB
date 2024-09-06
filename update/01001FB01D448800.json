@@ -1,4 +1,37 @@
 {
     "id": "01001FB01D448800",
-    "version": 65536
+    "base_tid": "01001FB01D448000",
+    "name": "8-Colors Star Guardians +",
+    "description": "Fight evil with pixelated style, in this turn-based, choose-your-boss-path game made with just 8 colors!\n\nA heartfelt, ironic homage to the tokusatsu genre\nOh no! Evil alien monsters have attacked Earth (yet again)! But fret not, because the Star Guardians, an elite group of fighters led by the hot-blooded Rhea, is going to kick their backs back to outer space!\n\nPlan your path\nFace eight gigantic galactic monsters, carefully choosing which ones to tackle first! Unlock skills by defeating the weakest ones and use them to best the heavy-hitters! And don't worry if you don't do it at the first attempt, your teammates will offer precious advice after every defeat!\n\nMeet your (dysfunctional) heroines!\nThe Star Guardians are a motley crew of girls and women at different stages of their lives, with their quirks, aspirations, crushes and little idiosyncrasies. Learn more about their relationships after beating (or being defeated) by a boss.\n\nUp for one more challenge?\nChoose between a more relaxed Story Mode, with dialogues, hints and charming interactions, and a more brutal Arcade Mode, where you'll have to best all enemies in a set amount of turns. Can you beat them all before the timer runs out?\n\nWait, there's more!\nThis edition adds more content and quality-of-life improvements, compared to the original version:\nStory Mode Chapter 2: One year after the end of Chapter 1, fight through a gauntlet of deadly ensembles of monsters, find the truth behind the mysterious White Guardian, and bring back peace to the planet once more!\nUnlockable costumes for all characters, obtained by clearing Story and Arcade mode\nImproved settings and user interface\n",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20240111,
+    "first_update_release_date": 20240801,
+    "latest_update_release_date": 20240801,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240801
+    },
+    "versions": {
+        "65536": 20240801
+    },
+    "category": [
+        "RPG",
+        "Fighting",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Alien monsters have invaded Earth! It's up to the Star Guardians, a dysfunctional group of heroines, to protect the planet and awkwardly save the day (yet again)!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

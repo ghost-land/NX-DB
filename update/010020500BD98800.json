@@ -1,4 +1,39 @@
 {
     "id": "010020500BD98800",
-    "version": 131072
+    "base_tid": "010020500BD98000",
+    "name": "The King's Bird",
+    "description": "Escape into a world kept secret by a tyrant, and discover the truth about your freedom. The King’s Bird is an artistic, momentum-based game that seamlessly combines precision-platforming with physics-based gliding.\n\n· New yet easily accessible take on the precision-platforming genre\n· Dynamic background music and sounds that change based on your movements\n· Text-less narrative told through visuals in motion\n· Five unique worlds to explore, full of vibrance and colorful silhouettes, with inspirations from ancient Mayan, Southeast Asian, and Roman cultures",
+    "publisher": "Graffiti Games",
+    "developer": null,
+    "base_release_date": 20190212,
+    "first_update_release_date": 20190208,
+    "latest_update_release_date": 20190225,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190225
+    },
+    "versions": {
+        "65536": 20190208,
+        "131072": 20190225
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Flight · Flow · Freedom ",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "01002020183A2800",
-    "version": 196608
+    "base_tid": "01002020183A2000",
+    "name": "ディスコ エリジウム ザ ファイナル カット",
+    "description": "あなたは記憶喪失の刑事となり、ユニークなスキルシステムと街全体を使って、自らの道を切り開いていきます。\n忘れられない人物を尋問し、殺人事件を解決するか、はたまた賄賂を受け取るか。英雄になるか、最低のクズ人間になるかはあなた次第です。",
+    "publisher": "スパイク・チュンソフト",
+    "developer": null,
+    "base_release_date": 20220825,
+    "first_update_release_date": 20220825,
+    "latest_update_release_date": 20240724,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240724
+    },
+    "versions": {
+        "65536": 20220825,
+        "131072": 20230828,
+        "196608": 20240724
+    },
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "革新的なロールプレイングゲームの決定版です。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "麻薬"
+    ],
+    "region": null
 }

@@ -1,4 +1,30 @@
 {
     "id": "010020500E862800",
-    "version": 65536
+    "base_tid": "010020500E862000",
+    "name": "World Of Riders",
+    "description": "World Of Riders is the most realistic racing game where you can have a full motorcycle racing experience.\nStarting with level 1, you can proceed to the higher levels by attending to the competitions and by completing assigned tasks. So you can get credits and buy new motorcycles, or you can use those credits to upgrade power and other specs of existing motorcycle.\nThere are 12 different stages and 2 race tracks in the game. Among them, there are stages in night mode, in rainy and snowy weather.\nThere are 11 different motorcycle options categorized by engine power. You can proceed to higher levels in career mode, get credits in time trail mode.",
+    "publisher": "Kodobur Yazilim",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20191006,
+    "latest_update_release_date": 20191006,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20191006
+    },
+    "versions": {
+        "65536": 20191006
+    },
+    "category": [
+        "Racing",
+        "Sports"
+    ],
+    "intro": "Full motorcycle racing experience with 11 different motorcycle and 12 different stages.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

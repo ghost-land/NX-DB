@@ -1,4 +1,35 @@
 {
     "id": "01001FA0034E2800",
-    "version": 65536
+    "base_tid": "01001FA0034E2000",
+    "name": "Dark Witch Music Episode: Rudymical",
+    "description": "\"The popular spin off from Dark Witch Story is now available on Nintendo Switch!\nPlay the 1 player STORY MODE and defeat all the bosses!\nPlay the VS MODE to battle against your friends, and the CO-OP MODE to cooperate!\n\n・High quality graphics true to the original Dark Witch Story\n・Original music composed by Raito\n・Beautiful illustrations\n\n♦Gameplay♦\nPress the buttons rhythmically in timing to cut down Boing boings (bullets).\nJump to avoid fire beams!\n\nGet your groove on Dark Witch style!\"",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20170511,
+    "first_update_release_date": 20210707,
+    "latest_update_release_date": 20210707,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210707
+    },
+    "versions": {
+        "65536": 20210707
+    },
+    "category": [
+        "Music",
+        "Action"
+    ],
+    "intro": "Jump and Slash to the rhythm! Dark Witch Music: Rudymical now on Switch!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

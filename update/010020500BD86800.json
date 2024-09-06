@@ -1,4 +1,57 @@
 {
     "id": "010020500BD86800",
-    "version": 1245184
+    "base_tid": "010020500BD86000",
+    "name": "Colors Live",
+    "description": "The critically acclaimed painting game is back! Paint using multiple brushes and layers and share your masterpiece online. Enjoy the same ease of use and powerful painting tools that made Colors! 3D so popular. Now adding pressure-sensitive painting with the Colors SonarPen. \n\nPressure-sensitive painting with the Colors SonarPen\nPaint with your fingers, your favorite stylus or using the Colors SonarPen, our own pressure-sensitive pen that turns your Nintendo Switch™ into the perfect digital sketchbook. Read more at colorslive.com/sonarpen\n\nA new art adventure begins\nColors Quest is a brand-new game-mode designed for beginners and masters alike where you paint using a set theme and various rules. After each day, you’ll see your results and move closer to your goal.\n\nShare your paintings with the world\nColors Live puts online front and center with the online gallery. Take part in weekly challenges, follow successful artists, and share your creations with a world-wide community on colorslive.com (Nintendo Switch Online subscription NOT required).\n\nPlaybacks to admire and learn from\nEvery painting created in Colors Live stores the entire painting process. Marvel at the talented painters of the world and learn from their creations by watching the playback for any of the 4+ million paintings in the online gallery.\n\nAnd we’re just getting started! \nColors Live is built to be expanded over time, we’ll push regular updates with new drawing tools, new challenges, and more ways to interact with your friends and followers. After all, it’s meant to be Live.\n",
+    "publisher": "Collecting Smiles",
+    "developer": null,
+    "base_release_date": 20210920,
+    "first_update_release_date": 20201019,
+    "latest_update_release_date": 20240530,
+    "latest_update": {
+        "version": "1245184",
+        "release_date": 20240530
+    },
+    "versions": {
+        "65536": 20201019,
+        "131072": 20201108,
+        "196608": 20210111,
+        "262144": 20210121,
+        "327680": 20210414,
+        "393216": 20210622,
+        "458752": 20210629,
+        "524288": 20210908,
+        "589824": 20211015,
+        "655360": 20211213,
+        "720896": 20220204,
+        "786432": 20220307,
+        "851968": 20220331,
+        "917504": 20220722,
+        "983040": 20220805,
+        "1048576": 20230512,
+        "1114112": 20230529,
+        "1179648": 20240510,
+        "1245184": 20240530
+    },
+    "category": [
+        "Utility",
+        "Simulation",
+        "Education",
+        "Communication"
+    ],
+    "intro": "Turn your Nintendo Switch™ into a portable art studio!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,61 @@
 {
     "id": "010020900E7A8800",
-    "version": 1179648
+    "base_tid": "010020900E7A8000",
+    "name": "Rush Rally 3",
+    "description": "60 FPS racing at night or day in the rain or snow! Over 72 new and unique stages each with different surface types including snow, gravel, tarmac and dirt! Race with one of the best car dynamics models to date, including real time vehicle deformation and damage, built from over 15 years of experience.\n\nWORLD RALLY RACING!\nTake on the new Career mode, race a Single Rally over many countries or grind metal to metal with other cars in Rally Cross.\n\nLIVE EVENTS\nCompete in weekly events against other players all over the world on a unique selection of tracks!\n\nBUILD YOUR GARAGE\nUpgrade, tune and customise a garage full of cars. Use the new livery editor to completely change the look of your vehicles.\n\nCOMPETE WITH FRIENDS, MULTIPLAYER AND OFFLINE!\nReal-Time multiplayer, Social Leaderboards and Ghost Racing allow you to race any player at any time. See how you compare with the world's best.\n\n",
+    "publisher": "Brownmonster",
+    "developer": null,
+    "base_release_date": 20191223,
+    "first_update_release_date": 20200109,
+    "latest_update_release_date": 20231123,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20231123
+    },
+    "versions": {
+        "65536": 20200109,
+        "131072": 20200416,
+        "196608": 20200428,
+        "262144": 20200514,
+        "327680": 20200707,
+        "393216": 20200804,
+        "458752": 20201120,
+        "524288": 20201203,
+        "589824": 20211101,
+        "655360": 20211202,
+        "720896": 20220420,
+        "786432": 20220603,
+        "851968": 20220624,
+        "917504": 20220826,
+        "983040": 20230110,
+        "1048576": 20230125,
+        "1114112": 20230520,
+        "1179648": 20231123
+    },
+    "category": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "Take on the most authentic and realistic rally simulation at home or on the go!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

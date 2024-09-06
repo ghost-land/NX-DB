@@ -1,4 +1,46 @@
 {
     "id": "01001FF00B544800",
-    "version": 458752
+    "base_tid": "01001FF00B544000",
+    "name": "NBA 2K19",
+    "description": "NOTE: All multiplayer servers for NBA 2K19 will be shutdown as of 12/31/2020. After that time, all game functions requiring online servers will no longer function.\n\nNBA 2K celebrates 20 years of redefining what sports gaming can be, from best in class graphics & gameplay to groundbreaking game modes and an immersive open-world “Neighborhood.” NBA 2K19 continues to push limits as it brings gaming one step closer to real-life basketball excitement and culture.",
+    "publisher": "2K Games",
+    "developer": null,
+    "base_release_date": 20180911,
+    "first_update_release_date": 20180903,
+    "latest_update_release_date": 20190404,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20190404
+    },
+    "versions": {
+        "65536": 20180903,
+        "131072": 20180925,
+        "196608": 20181025,
+        "262144": 20181120,
+        "327680": 20181212,
+        "393216": 20190221,
+        "458752": 20190404
+    },
+    "category": [
+        "Sports"
+    ],
+    "intro": "They Will Know Your Name",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

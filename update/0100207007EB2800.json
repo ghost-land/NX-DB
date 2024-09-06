@@ -1,4 +1,41 @@
 {
     "id": "0100207007EB2800",
-    "version": 262144
+    "base_tid": "0100207007EB2000",
+    "name": "Smoke And Sacrifice",
+    "description": "Smoke and Sacrifice is an open-world, narrative-driven RPG, where exploiting living ecosystems is the key to your survival. Craft, fight, survive and explore the huge open world in this beautifully hand-painted, gothic adventure where every character has their tale to tell.\n\nSachi’s home is the one tiny patch of fertile land which remains in an icy wasteland of a world. Her farming community thrives thanks to their devotion to the blazing Sun Tree, which replaces the lost light of the failed sun. After sacrificing her firstborn child to the Sun Tree, Sachi discovers a darker secret beneath the aura of priestly benevolence. Will she discover the truth hidden in the secret underworld, or perish in its swirling, deadly smoke?\n\nWith the odds stacked against her, strange creatures challenging her every step, and the ever-looming smoke waiting to steal life and memory, will Sachi ever discover the truth of what happened to her son?\n",
+    "publisher": "Curve Digital",
+    "developer": null,
+    "base_release_date": 20180531,
+    "first_update_release_date": 20180606,
+    "latest_update_release_date": 20200114,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200114
+    },
+    "versions": {
+        "65536": 20180606,
+        "131072": 20180802,
+        "196608": 20190115,
+        "262144": 20200114
+    },
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Smoke and Sacrifice sees Sachi, a mother forced to give up her son, adventure into a grotesque underworld on a quest that will lead her to a darker truth. \n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy themes and violence"
+    ],
+    "region": null
 }

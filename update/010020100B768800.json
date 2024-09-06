@@ -1,4 +1,28 @@
 {
     "id": "010020100B768800",
-    "version": 131072
+    "base_tid": "010020100B768000",
+    "name": "True Fear: Forsaken Souls - Part 1 Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20201026,
+    "latest_update_release_date": 20210113,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210113
+    },
+    "versions": {
+        "65536": 20201026,
+        "131072": 20210113
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Horror"
+    ],
+    "region": null
 }

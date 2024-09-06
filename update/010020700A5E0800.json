@@ -1,4 +1,37 @@
 {
     "id": "010020700A5E0800",
-    "version": 196608
+    "base_tid": "010020700A5E0000",
+    "name": "TRIVIAL PURSUIT® Live!",
+    "description": "Get 33% off if you have downloaded the RISK: The Game of Global Domination Nintendo Switch™ version.\n\nGet 50% off if you have downloaded the Monopoly for Nintendo Switch™ version.\n\nExperience the thrill of competing on a TV trivia game show at home or on the go. Featuring different question formats to challenge players from beginner to expert. You can even take on players from around the world in online play. For up to four players. \n\nCustomize your gameplay: Choose your favorite categories, question-and-answer formats, and even your game length. Inclusive for everyone through adapted difficulty levels and unique catch-up game rounds. \n\nGet the whole family on board: Kid-friendly questions let the whole family play together! Play in teams with up to four players with the Versus mode.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221018,
+    "first_update_release_date": 20181029,
+    "latest_update_release_date": 20201214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20201214
+    },
+    "versions": {
+        "65536": 20181029,
+        "131072": 20190110,
+        "196608": 20201214
+    },
+    "category": [
+        "Party",
+        "Board Game",
+        "Education",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "es",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

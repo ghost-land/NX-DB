@@ -1,4 +1,36 @@
 {
     "id": "0100207018F62800",
-    "version": 65536
+    "base_tid": "0100207018F62000",
+    "name": "Sakura Fantasy",
+    "description": "Get ready for a new visual novel from the makers of Sakura Spirit and Sakura Angels.\n\nSakura Fantasy begins an exciting visual novel fantasy adventure where you decide the development of the story by the choices you make.\n\nTake on the role of Raelin, a cute female in training to become a knight who has a special extraordinary power. \n\nEnjoy a romantic and comedic story full of adventure with beautiful companions. \n\n\nFeatures:\n* Fantasy-based Visual Novel\n* Meet beautiful video game heroines \n* Beautiful manga art",
+    "publisher": "Gamuzumi",
+    "developer": null,
+    "base_release_date": 20220722,
+    "first_update_release_date": 20220801,
+    "latest_update_release_date": 20220801,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220801
+    },
+    "versions": {
+        "65536": 20220801
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Become a cute fantasy knight in a magical kingdom of beautiful women",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "01001F90122B2800",
-    "version": 65536
+    "base_tid": "01001F90122B2000",
+    "name": "Super Punch Patrol",
+    "description": "When crime and violence dominate the streets, Police Chief Anders Punch decides to take desperate measures. Defeat the Evil Crime Syndicate using just your fists!",
+    "publisher": "Hörberg Productions",
+    "developer": null,
+    "base_release_date": 20230117,
+    "first_update_release_date": 20200910,
+    "latest_update_release_date": 20200910,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200910
+    },
+    "versions": {
+        "65536": 20200910
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "Classic Beat 'em Up action from the creator of Gunman Clive and Mechstermination Force",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }
