@@ -1,4 +1,37 @@
 {
     "id": "0100853013824800",
-    "version": 131072
+    "base_tid": "0100853013824000",
+    "name": "Summer Catchers",
+    "description": "Embark on an epic road trip adventure of a lifetime in Summer Catchers. With your trusty wooden car you must travel to distant lands full of mystery, strange creatures and exciting races in your quest to finally experience summer.\n\nHowever the journey won't be easy. Driving through shadowy forests, dark swamps, vast valleys and underground cities you will encounter obstacles and larger than life situations. With your trusty travel bag in hand, you can work your way through these uncharted lands and just like in real life, find a few friends and secrets along the way.\n\nKey Features:\n- A unique arcade game that mixes racing, story, rhythm and puzzle elements all into one\n- Uncover all the mysteries and events of this beautiful pixel art world\n- Discover unique abilities and upgrade your car to ride in style\n- Replay the game to find all the hidden corners the fast traveller might have missed",
+    "publisher": "Noodlecake",
+    "developer": null,
+    "base_release_date": 20210212,
+    "first_update_release_date": 20210408,
+    "latest_update_release_date": 20210408,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210408
+    },
+    "versions": {
+        "131072": 20210408
+    },
+    "category": [
+        "Adventure",
+        "Racing",
+        "Arcade"
+    ],
+    "intro": "A Mystical Driving Adventure",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

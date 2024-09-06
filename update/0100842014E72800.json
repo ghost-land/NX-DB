@@ -1,4 +1,43 @@
 {
     "id": "0100842014E72800",
-    "version": 196608
+    "base_tid": "0100842014E72000",
+    "name": "Webbed",
+    "description": "Webbed is the story of a happy little spider on an adventure to save her boyfriend from a big mean bowerbird.\nExplore the dangerous wilderness with nothing but your webs and your wits. Practise the art of web swinging to speed your way through the world!\nLeave your own unique mark by spinning webs through the interconnected world. Stick webs to almost anything and use them to create your own paths.\nMake friends with bugs, and dance with them. Some bugs could use a little help from a friend and might even join your rescue effort in return!",
+    "publisher": "Sbug Games",
+    "developer": null,
+    "base_release_date": 20220202,
+    "first_update_release_date": 20220107,
+    "latest_update_release_date": 20220214,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220214
+    },
+    "versions": {
+        "65536": 20220107,
+        "131072": 20220127,
+        "196608": 20220214
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

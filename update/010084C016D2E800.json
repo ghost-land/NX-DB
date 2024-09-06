@@ -1,4 +1,35 @@
 {
     "id": "010084C016D2E800",
-    "version": 131072
+    "base_tid": "010084C016D2E000",
+    "name": "About an Elf",
+    "description": "Join forces with Dam, the magical princess of all elves, and her incorrigible apprentice, Roland the BraveCat, as they fight to save the universe from the King of Terrors and his army of evil monsters.\n\nThis is a point-and-click-ish, rpg-ish, visual-novel-ish game of gigantawesome proportions. Do you have what it takes to have what it takes? If so, everything might turn out elf-ok!\n\n• Explore 4 magical, mysterious lands.\n• Decipher indecipherable crystal visions!\n• Fight an assortment of evil monsters, each more monstrous than the last!",
+    "publisher": "Meringue Interactive",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20220126,
+    "latest_update_release_date": 20221024,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221024
+    },
+    "versions": {
+        "65536": 20220126,
+        "131072": 20221024
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "The most elf-tastic adventure ever!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

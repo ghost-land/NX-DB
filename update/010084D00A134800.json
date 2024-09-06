@@ -1,4 +1,35 @@
 {
     "id": "010084D00A134800",
-    "version": 196608
+    "base_tid": "010084D00A134000",
+    "name": "War Theatre",
+    "description": "War has come to Kasalli. As endless conflict rages, seven warriors discover an ancient power that promises mastery over any battlefield.\n\nFrom the developers of Plague Road, War Theatre expands classic turn-based strategy gameplay with RPG elements. Choose your hero and take to battle in single-player campaigns set in a continent ravaged by ceaseless war. Complete quests to earn perks and unlock deeper customization options to refine your strategy and dominate opponents in multiplayer.",
+    "publisher": "Arcade Distillery",
+    "developer": null,
+    "base_release_date": 20190411,
+    "first_update_release_date": 20190405,
+    "latest_update_release_date": 20191104,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20191104
+    },
+    "versions": {
+        "65536": 20190405,
+        "131072": 20190605,
+        "196608": 20191104
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "RPG"
+    ],
+    "intro": "Turn-based strategy with RPG elements. Take command of seven unique heroes, each with a specialization to change the course of every battle.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

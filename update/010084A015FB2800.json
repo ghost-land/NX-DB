@@ -1,4 +1,40 @@
 {
     "id": "010084A015FB2800",
-    "version": 131072
+    "base_tid": "010084A015FB2000",
+    "name": "A Memoir Blue",
+    "description": "From Cloisters Interactive, A Memoir Blue is an interactive poem about a superstar athlete and the all-encompassing love between mother and daughter.\n\nA unique aesthetic combining hand-drawn and 3D art brings Miriam's magical-realist journey to life, as she swims into the depths of her memories. A series of gameplay vignettes blends sacrifice and heartbreak with victory and pride as she reconnects with her inner child and deepens the love she shares with her mother.  ",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20220324,
+    "first_update_release_date": 20220325,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20220325,
+        "131072": 20220818
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A Journey Into Depths of Memory",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

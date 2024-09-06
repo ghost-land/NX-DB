@@ -1,4 +1,38 @@
 {
     "id": "010084600F51C800",
-    "version": 131072
+    "base_tid": "010084600F51C000",
+    "name": "Demon Pit",
+    "description": "Arise Demon Hunter. It is time. The years you spent slaughtering demon-kind in the mortal world did little to cleanse your soul. Your sins have been laid bare and you have been judged. You are damned for eternity. The pit awaits!\n\nInspired by the fast-paced FPS games of the 1990s, Demon Pit is an intense arcade-style arena shooter. Armed with a series of ranged weapons and a soul grapple, you must fight and out maneuver endless waves of demons in a constantly changing environment. How long can you survive before they rip your flesh and claim your soul?\nBattle 10 types of hideous hell spawn\nRepel the demon horde with 7 varied weapons\nUse your soul grapple to traverse the arena quickly and avoid the oncoming legion\nMaster movement to survive the changing environment and its hazards\nConstantly kill to keep your multiplier alive and compete for leaderboard immortality.",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20191226,
+    "first_update_release_date": 20200205,
+    "latest_update_release_date": 20200205,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200205
+    },
+    "versions": {
+        "131072": 20200205
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "First-Person Shooter"
+    ],
+    "intro": "The pit awaits!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "010084300C816800",
-    "version": 65536
+    "base_tid": "010084300C816000",
+    "name": "Odallus: The Dark Call",
+    "description": "The old gods have forgotten this land… Odallus is an exploration/action game and loving homage to the 8-bit genre classics. You play as Haggis – a battle-weary warrior who must wield his sword once more to rescue his son from Darkness.\n\nKey Features\nEight levels open to exploration\nHuge bosses\nSharp controls\nRad 8-bit graphics\nThrilling atmosphere\n8+ hours of gameplay\n50+ enemy types\nVeteran Mode",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20190209,
+    "first_update_release_date": 20190506,
+    "latest_update_release_date": 20190506,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190506
+    },
+    "versions": {
+        "65536": 20190506
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "As darkness spreads, one hero rises up",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

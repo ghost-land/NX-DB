@@ -1,4 +1,42 @@
 {
     "id": "010084F013BB4800",
-    "version": 65536
+    "base_tid": "010084F013BB4000",
+    "name": "Treasures of The Roman Empire",
+    "description": "Underground or on the surface, you will be busy trying to sort out the different scenario you'll face. Stables, bar, cinema, squared, forest, gigs, market, docks, luna park, Circo Massimo and much more! Oh yes, your goal is to collect all the treasures hidden by the Romans.\n\nGuaranteed fun suitable for all the family!\n- You'll visit some of the most beautiful historic monuments of Rome\n- logic and arcade minigames including nonograms, spot the difference, slot machine, tic tac toe, hidden objects, horse race and more!\n- more than 31 levels filled with humour!\n- guest stars\n- featuring soundtrack by Matthew Malley founding member of the multi-platinum band Counting Crows!\n",
+    "publisher": "7 Raven Studios",
+    "developer": null,
+    "base_release_date": 20220929,
+    "first_update_release_date": 20240129,
+    "latest_update_release_date": 20240129,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240129
+    },
+    "versions": {
+        "65536": 20240129
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "You'll visit some of the most beautiful historic monuments.\nMore than 31 levels filled with humour!\nFeaturing soundtrack by Matthew Malley",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Crude Humor"
+    ],
+    "region": null
 }

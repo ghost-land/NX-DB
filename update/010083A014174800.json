@@ -1,4 +1,36 @@
 {
     "id": "010083A014174800",
-    "version": 65536
+    "base_tid": "010083A014174000",
+    "name": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+    "description": "Danganronpa 2 is finally available on Nintendo Switch™! Danganronpa 10th Anniversary Release: Part 2! \n\nJabberwock Island – once a popular tourist destination, this now uninhabited island remains oddly pristine. You and your classmates at the elite Hope’s Peak Academy have been brought to this island by your super-cute teacher for a “lovey-dovey, heart-throbbing school trip.” Everyone seems to be having fun in the sun…until Monokuma returns to restart his murderous game! Trapped on this island of mutual killing, your only hope of escape rests in solving the island’s mysteries. But be warned—sometimes the truth can be its own despair…\n\nThis 10th Anniversary edition comes with a gallery feature that allows you to view event illustrations, scenes, and listen to voiced dialogue!",
+    "publisher": "Spike Chunsoft US",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20220214,
+    "latest_update_release_date": 20220214,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220214
+    },
+    "versions": {
+        "65536": 20220214
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Survive the evolution of the psycho-tropical class trials within the typhoon of doubt and suspicion!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

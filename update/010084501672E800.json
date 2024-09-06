@@ -1,4 +1,41 @@
 {
     "id": "010084501672E800",
-    "version": 196608
+    "base_tid": "010084501672E000",
+    "name": "Islets",
+    "description": "Iko is a hopeful aspiring warrior exploring the land and sky to reunite a series of floating islands. With his rickety airship, he must travel from island to island in order to reignite each one’s magnetic core while fighting off the many adversaries standing in his way. \n\nIslets is a surprisingly wholesome metroidvania about making connections with the people around you. By reuniting the islands and befriending a cast of charming characters, the world expands and reveals new parts of each area for Iko to explore. Scour every nook and cranny in order to collect the many upgrades hidden around this world and face its numerous hidden challenges!\n\nThere’s also a tour guide to show you around, but you should be careful. The guy’s got some really weird vibes...\n\nFeatures\n- Connect the islands like a puzzle to discover new ways to explore previous areas and reunite the vast world around you.\n- Fight back against terrifying monsters and ruthless sky pirates in epic boss battles.\n- Discover upgrades to help you on your journey by completing challenges and uncover the islands’ many secrets.\n- Make friends with a wide cast of charming characters—including a pretentious warrior classmate, a suspiciously friendly frog, and so many others.\n- Become immersed in a visually stunning hand-painted world with lush, vivid environments for you to experience.",
+    "publisher": "Armor Games Studios",
+    "developer": null,
+    "base_release_date": 20220824,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20220915,
+        "196608": 20230714
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Take to the sky, reunite a fragmented and lovingly painted world, and face powerful monster adversaries in this surprisingly wholesome adventure game!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

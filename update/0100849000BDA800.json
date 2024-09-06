@@ -1,4 +1,35 @@
 {
     "id": "0100849000BDA800",
-    "version": 65536
+    "base_tid": "0100849000BDA000",
+    "name": "I Am Setsuna",
+    "description": "I AM SETSUNA introduces the authentic JRPG style of yesteryear to Nintendo Switch™! Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.\n\nAn emotionally impactful story which immerses players in the narrative of Setsuna, whose story portrays heartrending sorrow\nA new battle system inspired by the timeless JRPG classic, Chrono Trigger\nA great homage to JRPG masterpieces of yesteryear, beautiful character designs and varied in-game locales evoke nostalgia for classic RPGs",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20240513,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20170814,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20170814
+    },
+    "versions": {
+        "65536": 20170814
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "Journey with Setsuna as she prepares to make the ultimate sacrifice and save the people of her land. A powerfully nostalgic experience, blending a classic style of story-telling, battle system and gameplay.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

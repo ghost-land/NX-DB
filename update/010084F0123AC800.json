@@ -1,4 +1,35 @@
 {
     "id": "010084F0123AC800",
-    "version": 65536
+    "base_tid": "010084F0123AC000",
+    "name": "Space Elite Force II",
+    "description": "With a wide variety of weapons, enemies and improvements to your ship, it presents all the intensity, depth and beautiful handcrafted pixels of a classic space-shooting game. Have fun in insane battles, facing epic bosses and unlocking a wide variety of achievements in one of three game modes, alone or with a friend in local cooperative mode.\n\nGame Details:\n - Fast and intense phases.\n - Insane battles against epic bosses\n - Play with a friend in a local cooperative mode! (Requires at least one joystick)\n - Beautiful visuals made with handmade pixels.\n - Total Full compatibility with controls.\n - Online ranking for each game mode.\n - Available in 2 languages (English, Portuguese)\n\nGame modes:\n - Normal Mode: classic game experience, immerse yourself in the immersive story of Space Elite Force II and try to recover the data stolen by the merciless and hostile Klyvu race\n - Arcade Mode: A frantic and fun mode for those who want fast and intense matches, survive as long as you can with your chosen weapons at the start.\n - Boss Rush Mode: Try to defeat all the bosses, one by one, and get the best score in the ranking ... this will not be easy!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20200915,
+    "first_update_release_date": 20210831,
+    "latest_update_release_date": 20210831,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210831
+    },
+    "versions": {
+        "65536": 20210831
+    },
+    "category": [
+        "Shooter",
+        "Strategy",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Space Elite Force II is a space-shooting game for up to 2 players in local cooperative mode.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "010084600F7FE800",
-    "version": 65536
+    "base_tid": "010084600F7FE000",
+    "name": "#Funtime",
+    "description": "#Funtime combines traditional twin-stick shooting with a unique coloring mechanic. Earn bonus points by coloring the playing field and exploding enemies that cross your path. Persistent ship upgrades allow for lengthier runs filled with even more mayhem. Fast and fun gameplay will have you coming back again and again.\n\n#Funtime Features:\nOver 50 challenging levels, all with their own leaderboards\n8 distinct battle modes\nUnique color swapping mechanics\nDeep scoring system and replayability\nOriginal soundtrack with beat-synced levels\nAn extremely Funtime!\n",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "developer": null,
+    "base_release_date": 20200716,
+    "first_update_release_date": 20200813,
+    "latest_update_release_date": 20200813,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200813
+    },
+    "versions": {
+        "65536": 20200813
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Music"
+    ],
+    "intro": "#Funtime is an explosive twin-stick shooter where shooting isn't your only weapon.\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

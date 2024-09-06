@@ -1,4 +1,40 @@
 {
     "id": "010084E01689A800",
-    "version": 65536
+    "base_tid": "010084E01689A000",
+    "name": "Trigger Dungeon",
+    "description": "This troll and rage hardcore platformer game promises an infuriatingly difficult and maddening experience. It is rumoured that there is an ending and that it is possible to beat the game without dying. Good luck with that.",
+    "publisher": "Refold",
+    "developer": null,
+    "base_release_date": 20220117,
+    "first_update_release_date": 20220118,
+    "latest_update_release_date": 20220118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220118
+    },
+    "versions": {
+        "65536": 20220118
+    },
+    "category": [
+        "Platformer",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

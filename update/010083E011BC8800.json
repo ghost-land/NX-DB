@@ -1,4 +1,34 @@
 {
     "id": "010083E011BC8800",
-    "version": 65536
+    "base_tid": "010083E011BC8000",
+    "name": "Wordify",
+    "description": "Wordify goal - using the given letters, combine them into correct word cross. Exercise your brain playing 250 puzzles, multiple difficulty levels.\n\n- 250 handmade crosswords\n- 10 color themes\n- Touch support\n- Relaxing background music",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20200807,
+    "first_update_release_date": 20210304,
+    "latest_update_release_date": 20210304,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210304
+    },
+    "versions": {
+        "65536": 20210304
+    },
+    "category": [
+        "Puzzle",
+        "Study",
+        "Education",
+        "Training"
+    ],
+    "intro": "Enjoy 250 challenging crossword puzzles!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

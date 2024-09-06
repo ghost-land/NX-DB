@@ -1,4 +1,54 @@
 {
     "id": "0100846016572800",
-    "version": 655360
+    "base_tid": "0100846016572000",
+    "name": "SpiderHeck",
+    "description": "Spiders With Laser Swords!\n\nSpiderHeck is a fast-paced couch co-op brawler where spiders dance to the death in the grip of chaotic battles using laser swords, grenades and even rocket launchers to defeat their foes.\n\nChallenge yourself by fighting wave after wave of vicious enemies in endless hours of single-player fun, or let the mayhem begin in a dazzling fight against your friends taking on the enemies in PvE; stab, sling, and scramble your way to victory in this silly spider showdown.\n• Local and Online Multiplayer\n• PvP and Co-op PvE modes\n• Easy to learn, hard to master\n• Physics based combat\n• Incredible arachnobatics\n• Big weapon variety",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20220922,
+    "first_update_release_date": 20220928,
+    "latest_update_release_date": 20240319,
+    "latest_update": {
+        "version": "655360",
+        "release_date": 20240319
+    },
+    "versions": {
+        "65536": 20220928,
+        "131072": 20221024,
+        "262144": 20230203,
+        "327680": 20230613,
+        "393216": 20230828,
+        "458752": 20231123,
+        "524288": 20231219,
+        "589824": 20240130,
+        "655360": 20240319
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Multiplayer"
+    ],
+    "intro": "Spiders with laser swords! Swing, stab, shoot with style and cool parkour.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

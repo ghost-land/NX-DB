@@ -1,4 +1,43 @@
 {
     "id": "010084D00CF5E800",
-    "version": 131072
+    "base_tid": "010084D00CF5E000",
+    "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO",
+    "description": "The latest game in the Ultimate Ninja Storm series is finally here for Nintendo Switch™! It features all DLC, including the latest \"NEXT GENERATIONS\" DLC Update Pack. Relive the Fourth Great Ninja War that unfolded in Naruto Shippuden, and experience the story of Boruto: Naruto the Movie featuring Naruto's son, Boruto Uzumaki. Plus, choose from 124 ninja—the most in the series! Join in action-packed battles, whenever and wherever you want!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20230928,
+    "first_update_release_date": 20200410,
+    "latest_update_release_date": 20200805,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20200805
+    },
+    "versions": {
+        "65536": 20200410,
+        "131072": 20200805
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": "Experience the complete NARUTO STORM 4!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Language",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

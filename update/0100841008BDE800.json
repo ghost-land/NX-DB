@@ -1,4 +1,40 @@
 {
     "id": "0100841008BDE800",
-    "version": 131072
+    "base_tid": "0100841008BDE000",
+    "name": "JCB Pioneer: Mars",
+    "description": "Experience incredible survival sandbox gameplay and explore Mars using a selection of futuristic, ultra-rugged JCB vehicles designed specifically for the challenge. Mine precious materials, construct large-scale buildings and research new technologies to ensure humanity's future lies beyond planet Earth\n\nKey Features \n- A hard-core blend of survival and construction gameplay with 100’s of hours of gameplay.\n\n- Explore the planet, discover and mine resources, construct buildings and research new technology to grow your colony.\n\n- 3D Print and Craft items that can help you survive.\n\n- Discover secrets as you traverse the planet using highly futuristic heavy-duty construction and mining vehicles, designed with JCB engineers.\n\n- Overcome everything the hostile environment throws at you including meteor strikes, dust clouds and electrical storms, all Martian hazards are based on real science.",
+    "publisher": "Atomicom",
+    "developer": null,
+    "base_release_date": 20181224,
+    "first_update_release_date": 20190122,
+    "latest_update_release_date": 20190201,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190201
+    },
+    "versions": {
+        "65536": 20190122,
+        "131072": 20190201
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": "Humanity is in crisis! Survive the perilous conditions on Mars to build a new future.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

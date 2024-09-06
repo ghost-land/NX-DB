@@ -1,4 +1,39 @@
 {
     "id": "010084E010E18800",
-    "version": 196608
+    "base_tid": "010084E010E18000",
+    "name": "NAMCO MUSEUM® ARCHIVES Vol 1",
+    "description": "Take a trip down memory lane and relive the magical times of the 8-Bit era with a collection of Namco’s hits and long-lost treasures in Namco Museum Archives Volume 1.\n\n■Includes 11 titles!\nIn addition to 10 classic Namco titles, some of which were never localized and released in the west, a newly created 8-Bit demastered version of \"Pac-Man Championship Edition\" makes its world premiere as a bonus!\n(Titles included: Galaxian, Pac-Man, Xevious, Mappy, Dig Dug, The Tower of Druaga, Sky Kid, Dragon Buster, Dragon Spirit: The New Legend, Splatterhouse: Wanpaku Graffiti, and Pac-Man Championship Edition)\n\n■Equipped with convenient modern functions!\nConvenient features such as the \"save function\" that allows you to interrupt the game at any time and the \"replay function\" that allows you to start over at the last minute.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20211227,
+    "first_update_release_date": 20200618,
+    "latest_update_release_date": 20211226,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211226
+    },
+    "versions": {
+        "65536": 20200618,
+        "131072": 20200714,
+        "196608": 20211226
+    },
+    "category": [
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

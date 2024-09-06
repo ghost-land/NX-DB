@@ -1,4 +1,40 @@
 {
     "id": "010084B00B36E800",
-    "version": 196608
+    "base_tid": "010084B00B36E000",
+    "name": "Team Sonic Racing™",
+    "description": "Team Sonic Racing™ combines the best elements of arcade and fast-paced competitive style racing. Face-off with friends in intense multiplayer racing, race together across stunning worlds and work together as a team by sharing power-ups and speed boosts. Take control of your racing style - Choose from 3 distinct character types and unlock game changing vehicle customization options to suit your racing style. ",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190521,
+    "first_update_release_date": 20190507,
+    "latest_update_release_date": 20190708,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190708
+    },
+    "versions": {
+        "65536": 20190507,
+        "196608": 20190708
+    },
+    "category": [
+        "Racing",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }
