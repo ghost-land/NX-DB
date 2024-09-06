@@ -1,4 +1,38 @@
 {
     "id": "010077B0038B2800",
-    "version": 327680
+    "base_tid": "010077B0038B2000",
+    "name": "LOST SPHEAR",
+    "description": "The adventure of LOST SPHEAR begins in a remote town of Elgarthe where a young boy, Kanata, awakens from a devastating dream to find his hometown disappearing. Facing an ominous power that threatens the fabric of reality he must awaken the power of Memory to restore the ‘LOST’. To stop the world from disappearing forever, Kanata and his comrades set out to rebuild the world mustering different Memory and crafting the world around them.",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20240513,
+    "first_update_release_date": 20171010,
+    "latest_update_release_date": 20180305,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20180305
+    },
+    "versions": {
+        "65536": 20171010,
+        "196608": 20171206,
+        "262144": 20180122,
+        "327680": 20180305
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "RESTORE MEMORIES TO SAVE A FADING WORLD",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

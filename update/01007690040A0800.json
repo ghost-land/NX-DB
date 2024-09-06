@@ -1,4 +1,45 @@
 {
     "id": "01007690040A0800",
-    "version": 458752
+    "base_tid": "01007690040A0000",
+    "name": "LEGO® Marvel Super Heroes 2",
+    "description": "It's about TIME! Join your favourite Super Heroes and Super Villains from different eras and realities as they go head-to-head with the time-travelling Kang the Conqueror in the all-new, original adventure, LEGO® Marvel Super Heroes 2! Play as the Guardians of the Galaxy, Spider-Man, Thor, Hulk, Black Panther, Captain Marvel, Doctor Strange, Green Goblin and dozens of other Marvel Super Heroes and Villains in this cosmic battle across the time-tossed city of Chronopolis! Travel across lands – from Ancient Egypt to The Old West, Sakaar and New York City in 2099 – and transport objects or characters through the centuries! And, with new battle modes, friends and family can play against each other in a series of themed challenges and battle arenas!\n",
+    "publisher": "WARNER BROS. PICTURES",
+    "developer": null,
+    "base_release_date": 20171129,
+    "first_update_release_date": 20171116,
+    "latest_update_release_date": 20220413,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20220413
+    },
+    "versions": {
+        "65536": 20171116,
+        "131072": 20171212,
+        "196608": 20180209,
+        "262144": 20180221,
+        "327680": 20180316,
+        "393216": 20180412,
+        "458752": 20220413
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild violence"
+    ],
+    "region": null
 }

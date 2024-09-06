@@ -1,4 +1,29 @@
 {
     "id": "0100775008C5A800",
-    "version": 65536
+    "base_tid": "0100775008C5A000",
+    "name": "HAC-P-ALZWA",
+    "description": "HAC-P-ALZWA",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20191107,
+    "first_update_release_date": 20200303,
+    "latest_update_release_date": 20200303,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200303
+    },
+    "versions": {
+        "65536": 20200303
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

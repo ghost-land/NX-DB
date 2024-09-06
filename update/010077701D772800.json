@@ -1,4 +1,39 @@
 {
     "id": "010077701D772800",
-    "version": 262144
+    "base_tid": "010077701D772000",
+    "name": "Bowling Fever",
+    "description": "Immerse yourself in the world of bowling with Bowling Fever!\n\nTest your skills in countless game modes, visit amazingly realistic 3D locations, play fantastic mini-games and discover dozens of new bowling balls and pins!\n\nNeed a hand? Various power-ups and boosts will help you to meet the challenges.\n\nA bowling game has never been this exciting!\n\n- Fantastic bowling alleys from around the world.\n- Fantastic 20+ balls, pins and lanes to show off!\n- Multiple mini-games to complete.\n- Multiple game modes to play!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20231225,
+    "first_update_release_date": 20240215,
+    "latest_update_release_date": 20240822,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240822
+    },
+    "versions": {
+        "65536": 20240215,
+        "131072": 20240412,
+        "196608": 20240530,
+        "262144": 20240822
+    },
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Sports",
+        "Action"
+    ],
+    "intro": "Fire up \"Bowling Fever\" and be carried away by the emotions!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

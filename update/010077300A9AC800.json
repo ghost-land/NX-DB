@@ -1,4 +1,25 @@
 {
     "id": "010077300A9AC800",
-    "version": 65536
+    "base_tid": "010077300A9AC000",
+    "name": "ポータルナイツ 体験版",
+    "description": null,
+    "publisher": null,
+    "developer": null,
+    "base_release_date": null,
+    "first_update_release_date": 20181219,
+    "latest_update_release_date": 20181219,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181219
+    },
+    "versions": {
+        "65536": 20181219
+    },
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

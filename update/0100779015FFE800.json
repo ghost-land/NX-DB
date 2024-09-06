@@ -1,4 +1,34 @@
 {
     "id": "0100779015FFE800",
-    "version": 65536
+    "base_tid": "0100779015FFE000",
+    "name": "Mini Car Racing 2",
+    "description": "Race around in tiny vehicles in a giant household and experience amazing races with your friends up to four players or race alone and hunt the next best race time in 16 different race tracks! Complete championships to unlock new different tracks or race the arcade mode. Play with up to four friends in splitscreen and have a fun race experience! Race On!\n\nFeatures:\n- Different tiny vehicles\n- 16 Tracks\n- Different game modes: Arcade, Timetrail and championship\n- Splitscreen mode up to 4 players",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

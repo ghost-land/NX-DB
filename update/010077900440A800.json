@@ -1,4 +1,39 @@
 {
     "id": "010077900440A800",
-    "version": 65536
+    "base_tid": "010077900440A000",
+    "name": "Island Flight Simulator",
+    "description": "Enjoy fantastic open-ended gameplay, touch down in the tropics and transport freight between twelve exotic islands in more than a hundred exciting missions. Only the most daring pilots will take the risk of accepting both highly lucrative and illegal missions from shifty clients.\n\n• Over a hundred different transport missions, some of them very lucrative, but also quite risky.\n• Exotic setting on an archipelago with twelve islands.\n• 3 different planes, which can be improved using upgrades for speed, sturdiness and fuel capacity.\n• Personal hangars and three basic airfields.\n• Personal map and survey map",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20180126,
+    "first_update_release_date": 20180118,
+    "latest_update_release_date": 20180118,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180118
+    },
+    "versions": {
+        "65536": 20180118
+    },
+    "category": [
+        "Simulation",
+        "Arcade",
+        "Sports",
+        "Racing"
+    ],
+    "intro": "Arcade Flight Simulation",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }

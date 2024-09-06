@@ -1,4 +1,36 @@
 {
     "id": "0100777018812800",
-    "version": 65536
+    "base_tid": "0100777018812000",
+    "name": "Marmoset",
+    "description": "Marmoset is a mystery-filled survival game set a century after the events of World War III, a little 15-year-old Luna and her friend AI (Artificial Intelligence) Chimbra embark on a grand and dangerous adventure to reclaim their old home, the Caves of Marmoset, for without them the City of Marmoset can have its days numbered.\n\nCave exploration with unique biomes full of monsters, treasures, and traps.\nA story full of mysteries that are revealed throughout the game.\nAgriculture, fishing, cooking, and construction.\nPlayable Minigames on Luna's notebook and Bar arcade.\n",
+    "publisher": "Nerd Games",
+    "developer": null,
+    "base_release_date": 20220813,
+    "first_update_release_date": 20230203,
+    "latest_update_release_date": 20230203,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230203
+    },
+    "versions": {
+        "65536": 20230203
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Party",
+        "Other"
+    ],
+    "intro": "Open world\nAgriculture, fishing, cooking, and construction",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,49 @@
 {
     "id": "010077A00CB58800",
-    "version": 393216
+    "base_tid": "010077A00CB58000",
+    "name": "Catlateral Damage: Remeowstered",
+    "description": "Catlateral Damage: Remeowstered is the definitive edition of your favorite destructive cat simulator, where you play as a house cat on a rampage and do all that fun stuff your owner hates!\n\nSee the world through the eyes of a cat! Run around the house, topple neatly organized books, shatter vases, meow at nothing, tear up curtains, nap in obscure places, and more!\n\nComplete objectives, explore procedurally generated levels, or just relax in sandbox mode to unlock a clowder of cat friends and special abilities!\n\nRemeowstered was rebuilt from the ground up to give a shiny new coat to the destructive feline gameplay of the original!\n\nImprovements and Additions\n• A complete progression redesign\n• More objects to topple and interact with\n• 20+ new pet photos, bringing the total to almost 300\n• Brand new tasks to complete\n• Persistent stat boosts and abilities\n• Revamped cat models and animations\n• Overall improvements to UI, animations, and effects",
+    "publisher": "Manekoware",
+    "developer": null,
+    "base_release_date": 20210915,
+    "first_update_release_date": 20210818,
+    "latest_update_release_date": 20230920,
+    "latest_update": {
+        "version": "393216",
+        "release_date": 20230920
+    },
+    "versions": {
+        "65536": 20210818,
+        "131072": 20210910,
+        "196608": 20211002,
+        "327680": 20220918,
+        "393216": 20230920
+    },
+    "category": [
+        "Simulation",
+        "First-Person Shooter",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "The premier first-person destructive house cat simulator is back with a vengeance!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Language",
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

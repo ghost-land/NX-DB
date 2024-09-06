@@ -1,4 +1,33 @@
 {
     "id": "0100779004172800",
-    "version": 65536
+    "base_tid": "0100779004172000",
+    "name": "Golf Story",
+    "description": "Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams.\n\nBut all is not so simple in the world of golf. To best today's players you have to be able to keep up with them both on and off the course.\n\nFeatures:\n\nTee up anywhere! You’ll be surprised by how many problems can be solved by hitting a golf ball at them.\n\nExplore 8 unique environments, each with their own courses, challenges, people and secrets.\n\nPlay through a dramatic story with a diverse cast of characters.",
+    "publisher": "Sidebar Games",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20171109,
+    "latest_update_release_date": 20171109,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20171109
+    },
+    "versions": {
+        "65536": 20171109
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Sports"
+    ],
+    "intro": "Tee up anywhere - on and off the course.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

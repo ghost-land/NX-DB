@@ -1,4 +1,33 @@
 {
     "id": "010076F011F54800",
-    "version": 65536
+    "base_tid": "010076F011F54000",
+    "name": "Undead & Beyond",
+    "description": "Undead & Beyond is a game where you reanimate the death and cause chaos!\n\n Use the products of your research to create an army of the undead and cause havoc in the complex while you aim to accomplish your objectives to reach the next area. Use a wide range of methods to advance further, from creating undead that will attack the facility staff, to using gadgets or simply using stealth to pass through the guards without being noticed. But careful, the facility guards could call for reinforcements.\n\n- Revive your enemies as fierce undead!\n- Use items to support your undead forces or carefully killing key targets.\n- Increase the hazard level to spawn deadlier mutants!\n- Watch the undead rip apart the opposition with brutal death animations\n- The NPCs are AI driven, every time you play is a different experience.\n- Use stealth, carefully plan your moves to overwhelm your enemies with the hordes!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20200530,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20200804
+    },
+    "category": [
+        "Shooter",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Take control of Dr. Beyond in his quest to escape the facility! Use the products of your research to create an undead army and cause havoc in the complex!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,44 @@
 {
     "id": "0100770008DD8800",
-    "version": 262144
+    "base_tid": "0100770008DD8000",
+    "name": "Monster Hunter Generations Ultimate™",
+    "description": "Hunting season is open! This critically acclaimed action RPG series makes its debut on Nintendo Switch. Take on epic hunts on the go or from the comfort of your own home! Choose from 14 different weapon types, mix and match them with unique Hunting Styles and Hunter Arts, or even play as an adorable but ferocious Felyne in Prowler Mode! Featuring the largest cast of monsters for any game in the series, from returning fan favourites to mysterious never-before-seen monsters!\n\nYou can join up to three other players for co-op multiplayer action, either online or in person using local wireless. Join the hunt in Monster Hunter Generations Ultimate for Nintendo Switch!",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20180918,
+    "latest_update_release_date": 20190219,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190219
+    },
+    "versions": {
+        "65536": 20180918,
+        "131072": 20181030,
+        "196608": 20181106,
+        "262144": 20190219
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Mild Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

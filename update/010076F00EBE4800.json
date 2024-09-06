@@ -1,4 +1,38 @@
 {
     "id": "010076F00EBE4800",
-    "version": 131072
+    "base_tid": "010076F00EBE4000",
+    "name": "BOSSGARD",
+    "description": "WHO’S THE BOSS? It’s finally you! One big, bad, player-controlled Boss goes against a team of Vikings, each with special abilities. Enter BOSSGARD, a hectic 1v2, 1v3, up to 1v5 bossfight multiplayer game in which you get to crush your friends as THE BOSS.\nYou can also fight in viking vs viking FFA or TDM formats.",
+    "publisher": "SandSailorStudio",
+    "developer": null,
+    "base_release_date": 20200715,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20211027,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211027
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20211027
+    },
+    "category": [
+        "Multiplayer",
+        "Party",
+        "Fighting",
+        "Action"
+    ],
+    "intro": "An absurdly fun party game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

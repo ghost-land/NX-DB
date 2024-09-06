@@ -1,4 +1,37 @@
 {
     "id": "01007740160D4800",
-    "version": 131072
+    "base_tid": "01007740160D4000",
+    "name": "DUSK",
+    "description": "Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS.\n\nThree distinct campaign episodes await you, hand-crafted from straight outta the '90s! Featuring a vast arsenal of killer weaponry including sickles, swords, crossbows, rifles, dual-wielded and double barreled shotguns and incredibly necessary grenade and rocket launchers. DUSK brings unapologetic retro action from start to finish.\n\nIn addition to the main campaign, DUSK also features an Endless Survival Mode, putting you front and center against wave after wave of merciless enemies.\n                                                                                                                                                                                                                                                                                                                  But that's not all! The “cult” classic shooter explodes onto Nintendo Switch™ at 60 frames per second with new features such as a weapon wheel, HD rumble, gyro aiming, tons of UI and UX improvements plus a new endless level for the most robust DUSK experience yet - on your couch or on the go!",
+    "publisher": "New Blood",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20211202,
+    "latest_update_release_date": 20221206,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221206
+    },
+    "versions": {
+        "65536": 20211202,
+        "131072": 20221206
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": "Don't Trust Your Eyes.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Use of Alcohol and Tobacco",
+        "Violence"
+    ],
+    "region": null
 }
