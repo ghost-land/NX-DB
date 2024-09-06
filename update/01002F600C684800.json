@@ -1,4 +1,35 @@
 {
     "id": "01002F600C684800",
-    "version": 65536
+    "base_tid": "01002F600C684000",
+    "name": "Fight of Gods",
+    "description": "For the first time ever, gods, holy spirits and mythological characters from around the globe and throughout history will clash in an explosive 2D fighter where the entire world is at stake! Who will emerge victorious from the most destructive combat tournament the universe has ever witnessed?",
+    "publisher": "Digital Crafter",
+    "developer": null,
+    "base_release_date": 20190118,
+    "first_update_release_date": 20210629,
+    "latest_update_release_date": 20210629,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210629
+    },
+    "versions": {
+        "65536": 20210629
+    },
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "Fight with the Divine Powers!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery"
+    ],
+    "region": null
 }

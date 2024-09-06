@@ -1,4 +1,30 @@
 {
     "id": "01002E5008C56800",
-    "version": 131072
+    "base_tid": "01002E5008C56000",
+    "name": "HAC-P-ALZUA",
+    "description": "HAC-P-ALZUA",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20191207,
+    "first_update_release_date": 20200303,
+    "latest_update_release_date": 20201203,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201203
+    },
+    "versions": {
+        "65536": 20200303,
+        "131072": 20201203
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": null,
+    "ratingContent": [],
+    "region": null
 }

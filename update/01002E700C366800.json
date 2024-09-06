@@ -1,4 +1,45 @@
 {
     "id": "01002E700C366800",
-    "version": 196608
+    "base_tid": "01002E700C366000",
+    "name": "COCOON",
+    "description": "From Jeppe Carlsen, the lead gameplay designer of LIMBO and INSIDE — COCOON takes you on an adventure across worlds within worlds. Master world-leaping mechanics to unravel a cosmic mystery.\n\nWorlds within Worlds\nCOCOON is a unique take on the puzzle adventure genre, where each world exists within an orb that you can carry on your back. Wrap your head around the core mechanic of leaping between worlds—and combine, manipulate, and rearrange them to solve intricate puzzles.\n\nAlien Machinery\nInteract with alien environments and biomechanical devices left behind by an ancient civilization. Journey through unique and diverse biomes, from industrial structures to massive organic caverns, and discover how they are connected to one another.\n\nOrb Abilities\nEach orb has an ability that can be unlocked, thereby turning the orb into a unique tool for you to utilize within other worlds. Use these abilities to uncover hidden pathways and objects, fire projectiles to trigger switches, and more.\n\nMonstrous Guardians\nMighty guardians protect every world, and you must face them in fierce battles. Each fight is unique and requires you to master new and satisfying mechanics.\n",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20230929,
+    "first_update_release_date": 20230922,
+    "latest_update_release_date": 20240120,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240120
+    },
+    "versions": {
+        "65536": 20230922,
+        "131072": 20230927,
+        "196608": 20240120
+    },
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "An adventure across worlds within worlds.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

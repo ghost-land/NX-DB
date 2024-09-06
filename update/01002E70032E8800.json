@@ -1,4 +1,36 @@
 {
     "id": "01002E70032E8800",
-    "version": 131072
+    "base_tid": "01002E70032E8000",
+    "name": "ACA NEOGEO BIG TOURNAMENT GOLF",
+    "description": "\"BIG TOURNAMENT GOLF\" is a golf game released by SNK in 1996.\n\nPlayers can choose from a total of six golfers with different abilities and play on courses located around the world such as Australia or Germany.\n\nPlayers can test out their golf game skills against friends with game modes such as \"STROKE PLAY\" and \"MATCH PLAY (2P battle only)\".\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20220224,
+    "first_update_release_date": 20170814,
+    "latest_update_release_date": 20190731,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190731
+    },
+    "versions": {
+        "65536": 20170814,
+        "131072": 20190731
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "The ultimate golf game! \nMeet glory in all the greatest courses around the world, and clear the Grand Slam!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

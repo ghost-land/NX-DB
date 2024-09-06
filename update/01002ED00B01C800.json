@@ -1,4 +1,40 @@
 {
     "id": "01002ED00B01C800",
-    "version": 196608
+    "base_tid": "01002ED00B01C000",
+    "name": "Moto Racer 4",
+    "description": "Moto Racer 4 is racing game you can play on asphalt or dirt.\n\nIn a world where freestyle and risk-taking dominate, impose your riding style all around the world. Impress your opponents and win races with class!\n\nMaster drifting, wheelies, sharp turns and other techniques to earn a place on the podium!\n\nCustomize and upgrade your bike! Progress through Moto Racer 4 and take in the stunning environments.\n\nFrom the United States to the Himalayas by way of the desert, Moto Racer 4 takes you through perilous, breathtaking courses at 100 miles an hour.",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20181120,
+    "first_update_release_date": 20181119,
+    "latest_update_release_date": 20190106,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190106
+    },
+    "versions": {
+        "65536": 20181119,
+        "131072": 20181121,
+        "196608": 20190106
+    },
+    "category": [
+        "Arcade",
+        "Racing"
+    ],
+    "intro": "Choose your racing style!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
+    "region": null
 }

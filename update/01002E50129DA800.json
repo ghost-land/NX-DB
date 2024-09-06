@@ -1,4 +1,43 @@
 {
     "id": "01002E50129DA800",
-    "version": 131072
+    "base_tid": "01002E50129DA000",
+    "name": "Brightstone Mysteries: Paranormal Hotel",
+    "description": "Meet the ancient Egyptian cult in a search of almighty artifact, Marcus Antonius, King Arthur and many others who tried to kept this omni-powerful object hidden away from those who wanted to use its terrible powers for conquering the world and stop the evil from raising from its grave!\n\n- Lead a young detective and confront the ancient Egyptian cult\n- Meet King Arthur, Cleopatra, Marcus Antonius and other historical characters\n- Explore the mystical old castle and over 50 other locations\n- Search the \"underworld\" and discover the supernatural\n- Help save the world from the ultimate evil",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20200723,
+    "first_update_release_date": 20210928,
+    "latest_update_release_date": 20210928,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210928
+    },
+    "versions": {
+        "65536": 20210928,
+        "131072": 20210928
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A medieval castle, now a luxury hotel holds secrets beyond the wildest imagination. For detective Bridget Brightstone of NYPD, this is a once-in-a-lifetime investigation!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

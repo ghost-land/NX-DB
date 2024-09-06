@@ -1,4 +1,32 @@
 {
     "id": "01002EF01583E800",
-    "version": 65536
+    "base_tid": "01002EF01583E000",
+    "name": "ソラリオ：協力謎解きゲーム",
+    "description": "このゲームは2人で遊ぶ謎解きゲームです。次々に出てくる謎を会話しながら解きましょう。\n\n出てくる謎は一人では解くことができない謎ばかりです。手元にある情報をパートナーに正確に伝えましょう。\n\n謎自体は子供でも解けます。しかし、閃きを必要とする謎もあるので大人でも解くのが難しい謎もあるでしょう。\n\n特定の言語を使った謎は出てきません。",
+    "publisher": "ビーシュピール",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20211014,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211014
+    },
+    "versions": {
+        "65536": 20211014
+    },
+    "category": [
+        "パズル",
+        "コミュニケーション",
+        "アドベンチャー"
+    ],
+    "intro": "不思議な館に連れてこられたソラとリオ。\n会話しながら謎を解いて脱出しよう。\nコミュニケーションが攻略のカギだ。",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

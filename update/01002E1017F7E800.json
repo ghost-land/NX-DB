@@ -1,4 +1,38 @@
 {
     "id": "01002E1017F7E800",
-    "version": 65536
+    "base_tid": "01002E1017F7E000",
+    "name": "Escape Game R00M",
+    "description": "Move through 3D space to find hints, solve mysteries and escape from the room.\nAnyone can play to the end because you can see hints and answers.",
+    "publisher": "AlignmentSharp",
+    "developer": null,
+    "base_release_date": 20220623,
+    "first_update_release_date": 20220607,
+    "latest_update_release_date": 20220607,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220607
+    },
+    "versions": {
+        "65536": 20220607
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Explore 3D space and escape",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

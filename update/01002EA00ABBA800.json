@@ -1,4 +1,42 @@
 {
     "id": "01002EA00ABBA800",
-    "version": 196608
+    "base_tid": "01002EA00ABBA000",
+    "name": "Oddworld: Stranger's Wrath",
+    "description": "Along comes Stranger, a tall, dark and enigmatic bounty hunter with a mission to capture troublemakers and scoundrels and return them to civilized townships for incarceration.\n\nBut Stranger is keeping a secret and needs expensive surgery to survive. In his quest to earn enough Moolah, Stranger reluctantly accepts the ultimate bounty from the owner of the Mongo River and suddenly his adventure takes a very different turn.",
+    "publisher": "Oddworld Inhabitants",
+    "developer": null,
+    "base_release_date": 20200124,
+    "first_update_release_date": 20200122,
+    "latest_update_release_date": 20200518,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200518
+    },
+    "versions": {
+        "65536": 20200122,
+        "131072": 20200210,
+        "196608": 20200518
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "intro": "In the dusty, undeveloped wastelands of Western Mudos, cantankerous townsfolk find their settlements besieged by belligerent outlaws.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Medium level animated violence"
+    ],
+    "region": null
 }

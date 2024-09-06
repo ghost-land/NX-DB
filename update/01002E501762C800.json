@@ -1,4 +1,40 @@
 {
     "id": "01002E501762C800",
-    "version": 65536
+    "base_tid": "01002E501762C000",
+    "name": "Trigonal",
+    "description": "Trigonal is a simple puzzle game where you need to fill a line to clear it out and gain some points. How you clear the line is your choice as you can clear it by fill a row horizontal, vertical or diagonal. To mix up the fun there three different game modes.\nFeatures:\n- Three game modes\n- casual puzzle experience\n- Simple but fun mechanics",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20220125,
+    "first_update_release_date": 20220223,
+    "latest_update_release_date": 20220223,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220223
+    },
+    "versions": {
+        "65536": 20220223
+    },
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Arcade",
+        "Lifestyle"
+    ],
+    "intro": "Fill a Vertical, Horizontal or Diagonal line to clear the row!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

@@ -1,4 +1,35 @@
 {
     "id": "01002ED00ACC0800",
-    "version": 65536
+    "base_tid": "01002ED00ACC0000",
+    "name": "DEADBOLT",
+    "description": "Play and complete missions given to you by the mysterious fireplace as you become the avatar of death. While the reaper has an impressive arsenal and skillset to kill the undead, he has one flaw - he dies in one shot... leaving you with no room for error.\n\nKey Features:\n• Complete over 25 extremely challenging missions \n• Unlock and obtain over 30 weapons, ranging from a reaper's scythe to an automatic grenade launcher\n• Fight over 35 enemy types, from zombies to vampires to bosses and more \n• Choose your playstyle: quiet assassin, loud one-man army, or anything in between \n• Gib them all! DEADBOLT's dynamic gore system guarantees that all evisceration leads to satisfaction \n• Choose your own way to complete a mission - no mission has to be completed in one way \n• Accomplish a variety of objectives, like assassinating gang leaders and investigating mysteries \n• Multi-genre soundtrack created by the talented Chris Christodoulou of the Risk of Rain OST",
+    "publisher": "Hopoo Games",
+    "developer": null,
+    "base_release_date": 20181026,
+    "first_update_release_date": 20181102,
+    "latest_update_release_date": 20181102,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181102
+    },
+    "versions": {
+        "65536": 20181102
+    },
+    "category": [
+        "Action",
+        "Shooter"
+    ],
+    "intro": "DEADBOLT is an extremely challenging stealth-action hybrid that allows you to take control of the reaper to quell the recent undead uprising.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Horror Themes",
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

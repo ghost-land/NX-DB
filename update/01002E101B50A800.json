@@ -1,4 +1,38 @@
 {
     "id": "01002E101B50A800",
-    "version": 196608
+    "base_tid": "01002E101B50A000",
+    "name": "Yatzi",
+    "description": "It's quite tricky to roll a YATZI: Roll five dice with the same number in three tries. Skillful combination is half the battle! This classic dice game thrills players thanks to its simple game rules and exciting gameplay. You can’t be sure who has the most points until the very end.\n\nHighlights:\n• Different game modes \n• Game boards with different looks",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20231026,
+    "first_update_release_date": 20231031,
+    "latest_update_release_date": 20231031,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20231031
+    },
+    "versions": {
+        "196608": 20231031
+    },
+    "category": [
+        "Board Game",
+        "Multiplayer",
+        "Party",
+        "Other"
+    ],
+    "intro": "Skillful combination is half the battle!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [],
+    "region": null
 }

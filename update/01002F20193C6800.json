@@ -1,4 +1,36 @@
 {
     "id": "01002F20193C6800",
-    "version": 196608
+    "base_tid": "01002F20193C6000",
+    "name": "Venba",
+    "description": "Venba is a narrative cooking game where you play as an Indian mom who immigrates to Canada with her family in the 1980s. Players will cook various dishes and restore lost recipes, hold branching conversations and explore in this story about family, love, loss and more.\n\nCook Mouth Watering Dishes\nVenba's recipe book gets damaged when she moves to Canada. Restore the lost recipes to cook delicious, mouth-watering dishes that serve as a connection to the home left behind.\n\nExplore, Converse, Experience\nGet to know the family well, hold branching conversations, and explore as you face the challenges that arise from day to day life.\n\nFeatures:\n- Cook authentic and delicious recipes handpicked from regional South-Indian cuisine \n- Hold branching conversations and explore different narrative beats \n- Beautiful visuals and animations \nUnique soundtrack inspired by Indian musicals",
+    "publisher": "Visai Games",
+    "developer": null,
+    "base_release_date": 20230731,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20240313,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240313
+    },
+    "versions": {
+        "65536": 20230714,
+        "131072": 20230802,
+        "196608": 20240313
+    },
+    "category": [
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "Cook delicious South-Indian food and experience the journey of an immigrant family in Venba!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Tobacco",
+        "Violence"
+    ],
+    "region": null
 }
