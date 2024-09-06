@@ -1,4 +1,41 @@
 {
     "id": "010012A01B4E0800",
-    "version": 327680
+    "base_tid": "010012A01B4E0000",
+    "name": "Inescapable: No Rules, No Rescue",
+    "description": "Inescapable: No Rules, No Rescue is a social thriller set in a tropical island resort: you’ve been kidnapped and forced to participate in a twisted reality TV show with 10 strangers. At the end of your stay, you’ll receive $500,000. There’s just one catch—on the island there are no rules, and no hope of rescue.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20231019,
+    "first_update_release_date": 20230918,
+    "latest_update_release_date": 20231206,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20231206
+    },
+    "versions": {
+        "65536": 20230918,
+        "131072": 20231024,
+        "196608": 20231101,
+        "262144": 20231107,
+        "327680": 20231206
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "01001260143FC800",
-    "version": 65536
+    "base_tid": "01001260143FC000",
+    "name": "Townscaper",
+    "description": "Build quaint island towns with curvy streets. Build small hamlets, soaring cathedrals, canal networks, or sky cities on stilts. Block by block.\n\nNo goal. No real gameplay. Just plenty of building and plenty of beauty. That's it.\n\nTownscaper is an experimental passion project. More of a toy than a game. Pick colors from the palette, plop down colored blocks of house on the irregular grid, and watch Townscaper's underlying algorithm automatically turn those blocks into cute little houses, arches, stairways, bridges and lush backyards, depending on their configuration.",
+    "publisher": "Raw Fury",
+    "developer": null,
+    "base_release_date": 20230530,
+    "first_update_release_date": 20210823,
+    "latest_update_release_date": 20210823,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210823
+    },
+    "versions": {
+        "65536": 20210823
+    },
+    "category": [
+        "Simulation",
+        "Puzzle",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Instant town building toy",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

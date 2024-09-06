@@ -1,4 +1,41 @@
 {
     "id": "010011801AA04800",
-    "version": 65536
+    "base_tid": "010011801AA04000",
+    "name": "Cyber Neon Bundle",
+    "description": "Cyber Neon Bundle is a collection of two cyber theme games; CYBERHUNT and RAZORTRON 2000. Both are frenetic action games where you’ll use your skills to win everything! \n\nCYBERHUNT is a retro procedurally generated twin stick shooter that takes you back to the sweet to the sweet arcade machines era, where you can play the arcade and missions mode.\n\nRAZORTRON 2000 is a retro top-down endless racing game, where the player will try to beat the highscore, unlock new cars and climb your way to the top of the leaderboards on this love letter to coin eater arcade machines era!\t\n\nBundle Features\n- Two games to choose;\n- Both games with beautiful retro pixel art with aesthetics vibe;\n- Frenetic Music; \n- Many unlockables in both games;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230427,
+    "first_update_release_date": 20230424,
+    "latest_update_release_date": 20230424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230424
+    },
+    "versions": {
+        "65536": 20230424
+    },
+    "category": [
+        "Shooter",
+        "Racing",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Step into the neon-soaked world of Cyber Vibes with Cyber Neon Bundle - where you'll hunt, slash and survive your way to victory in two adrenaline-fueled games!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

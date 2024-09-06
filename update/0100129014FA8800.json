@@ -1,4 +1,47 @@
 {
     "id": "0100129014FA8800",
-    "version": 458752
+    "base_tid": "0100129014FA8000",
+    "name": "The Wild at Heart",
+    "description": "Wield an ever-growing herd of quirky creatures to rebuild broken paths, battle perilous beasts, and solve peculiar puzzles in a rich, interconnected world. Join two young runaways as they unravel the mysteries of a lost realm in this nostalgic storybook fantasy!\n\nAmass your Horde\nCollect and deploy a swarm of quirky Spritelings; small magical creatures for you to command. Break stuff, collect loot, fight enemies, build new paths, and more!\n\nExplore\nA unique and sequestered world rich with centuries full of lore. Woods, caves, coastline, ancient shrines... The Deep Woods is full of puzzles to be solved and secrets waiting to be uncovered.\n\nCollect & Craft\nGather rare resources like magical crystals, scrap, electrical components and more to build new structures, items, and upgrades!\n\nBattle\nTake on precarious wildlife and supernatural foes with the unique abilities of your Spriteling swarm and your trusty vacuum, the Gustbuster!\n\nNightfall\n\"The dark is bad!\" - A common saying among the denizens of the Deep Woods, and for good reason. Malevolent beings lurk in the shadows here and you may just find yourself wanting to stay near a campfire light until sunrise.",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20211116,
+    "first_update_release_date": 20211116,
+    "latest_update_release_date": 20240522,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240522
+    },
+    "versions": {
+        "65536": 20211116,
+        "131072": 20211213,
+        "196608": 20220224,
+        "262144": 20220413,
+        "327680": 20220621,
+        "393216": 20221115,
+        "458752": 20240522
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Welcome to the Deep Woods...",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Language"
+    ],
+    "region": null
 }

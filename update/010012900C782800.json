@@ -1,4 +1,40 @@
 {
     "id": "010012900C782800",
-    "version": 262144
+    "base_tid": "010012900C782000",
+    "name": "NEKOPARA Vol.2",
+    "description": "The sequel to NEKOPARA, a touching adventure game that's become a worldwide sensation, is coming to Nintendo Switch!\n\nThis newest edition will feature a new opening movie and theme song, all-new hand-drawn art from NEKO WORKs, and new fully voiced story scenes. The game's gorgeous graphics are all in high definition for a truly complete experience.\n\nAlso included is the bonus story \"NEKOPARA Extra: Kitten Day Promise\"! We're excited to bring all our masters across the world another installment of NEKOPARA!\n\n◆Story\nKashou Minaduki operates the pastry shop La Soleil along with the four neko sisters and his younger sister, Shigure.\n\nAzuki, the oldest sister, has a sharp tongue but is extremely skilled and, underneath it all, very caring. Coconut, the youngest sister, always tries her best, but her clumsiness tends to lead to new problems.\n\nAll the neko sisters care deeply for each other, but lately misunderstandings and petty bickering have caused a rift between Azuki and Coconut. This heartfelt neko comedy tells a story of the growth and maturity of the neko sisters as they encounter a variety of new experiences. As of today, this delightful shop is open for business!",
+    "publisher": "CFK",
+    "developer": null,
+    "base_release_date": 20190214,
+    "first_update_release_date": 20190214,
+    "latest_update_release_date": 20200420,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200420
+    },
+    "versions": {
+        "65536": 20190214,
+        "131072": 20190320,
+        "196608": 20200207,
+        "262144": 20200420
+    },
+    "category": [
+        "Adventure",
+        "Communication",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Heartfelt Neko Comedy Open for Business!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Nudity"
+    ],
+    "region": null
 }

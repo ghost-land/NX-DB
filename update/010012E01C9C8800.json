@@ -1,4 +1,40 @@
 {
     "id": "010012E01C9C8800",
-    "version": 262144
+    "base_tid": "010012E01C9C8000",
+    "name": "Room of Depression",
+    "description": "Is there anyone around you that suffers from depression? Do you really understand depression? This game allows you to enter a world of people who suffer from depression and understand how to deal with people with depression properly.\n\n\"Room of Depression\" is an adventure game that focuses on the atmosphere and experience of depression.\n\nPlayers experience Moon's daily life. Her encounters may be as ordinary as any passer-by but her world is very different from others. The big and small events in life affect her differently because she suffers from depression.\n\nDepression is a common mental illness around the world, especially in developed cities. The mission of this work is to not only explain depression, but to let players have a taste of depression themselves through the game experience.",
+    "publisher": "IndieArk",
+    "developer": null,
+    "base_release_date": 20240118,
+    "first_update_release_date": 20240120,
+    "latest_update_release_date": 20240219,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240219
+    },
+    "versions": {
+        "131072": 20240120,
+        "196608": 20240126,
+        "262144": 20240219
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Education",
+        "Practical"
+    ],
+    "intro": "\"Same encounter, different world.\" Moon is a young woman who lives an ordinary city life as an office worker.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

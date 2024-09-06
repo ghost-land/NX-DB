@@ -1,4 +1,36 @@
 {
     "id": "010012100E208800",
-    "version": 131072
+    "base_tid": "010012100E208000",
+    "name": "Sagebrush",
+    "description": "Inspired by real-world cults, Sagebrush is a first-person narrative-driven adventure game which thrusts players into the role of a truth-seeker who must investigate the tragic circumstances of the Perfect Heaven cult’s mass suicide.\n\nSet in New Mexico, players explore Black Sage Ranch, the former home of Father James, the revered prophet of the Perfect Heaven cult, in order to uncover the truth.\n\nFeatures: \n * An Immersive, Lo-Fi 3D World\n * A Whole Compound to Explore\n * Moody, ambient soundtrack\n * Real world inspiration from apocalyptic cults",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20190809,
+    "first_update_release_date": 20190821,
+    "latest_update_release_date": 20190913,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190913
+    },
+    "versions": {
+        "65536": 20190821,
+        "131072": 20190913
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The Mystery of Black Sage Ranch",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
+    "region": null
 }

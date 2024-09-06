@@ -1,4 +1,33 @@
 {
     "id": "010012F017608800",
-    "version": 65536
+    "base_tid": "010012F017608000",
+    "name": "Pixel Game Maker Series RUMBLE DRAGON",
+    "description": "Pixel Game Maker Series Rumble Dragon is a belt-scrolling action game with a retro flavor.\n\nTake control of Alisa and Mark as they try to defeat the giant enemies!\nThe basic controls are punching and kicking, but you can also perform combo attacks by hitting buttons in rapid succession.\n\nThe game also supports sharing play, so two players can work together to clear the game!\nClear the game and you'll be in for a new treat!\n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch™.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20220210,
+    "first_update_release_date": 20231026,
+    "latest_update_release_date": 20231026,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231026
+    },
+    "versions": {
+        "65536": 20231026
+    },
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The fifth installment in the fictional \"GAME BUDDY\" portable game series!\nWork together to defeat the evil organization! ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

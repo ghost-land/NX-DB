@@ -1,4 +1,34 @@
 {
     "id": "010012F00B6F2800",
-    "version": 65536
+    "base_tid": "010012F00B6F2000",
+    "name": "Yomawari: The Long Night Collection",
+    "description": "Traverse the haunting world of Yomawari: Night Alone as a young girl searches for her sister, or share in the terror facing schoolgirls Yui and Haru in Yomawari: Midnight Shadows. Uncover the mysteries plaguing a rural Japanese town, hide from the things lurking in the night, and maybe get home alive...",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20181102,
+    "first_update_release_date": 20181026,
+    "latest_update_release_date": 20181026,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20181026
+    },
+    "versions": {
+        "65536": 20181026
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes, horror themes and violence"
+    ],
+    "region": null
 }

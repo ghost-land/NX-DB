@@ -1,4 +1,40 @@
 {
     "id": "0100128003A24800",
-    "version": 65536
+    "base_tid": "0100128003A24000",
+    "name": "Elliot Quest",
+    "description": "After Elliot’s wife disappears, he falls sick and attempts to take his own life--only to discovers that he can’t die. Plagued by nightmares and growing weaker by the day, Elliot seeks out a local Sage, who tells him that he’s the victim of a rare curse. A demon called a Satar is slowly consuming Elliot’s vitality. If Elliot can’t find a cure to the curse before it’s too late, he too will become a Satar. His only hope is to ask for the help of one of the island’s Guardians, who have kept the Satar from taking over Urele.\n\nExplore a vibrant open-world filled with hidden secrets and mysterious Guardians that can help cure Elliot's curse of immortality. Throughout this adventure you'll collect countless abilities and spells, quest through 5 dungeons and defeat 16 unique bosses along your way to unlocking multiple endings.",
+    "publisher": "PlayEveryWare",
+    "developer": null,
+    "base_release_date": 20171020,
+    "first_update_release_date": 20180314,
+    "latest_update_release_date": 20180314,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180314
+    },
+    "versions": {
+        "65536": 20180314
+    },
+    "category": [
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "Elliot can’t die — but he’s still running out of time. In Elliot Quest, the victim of a rare curse must find a cure before he’s transformed into a demon. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

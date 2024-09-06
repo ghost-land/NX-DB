@@ -1,4 +1,40 @@
 {
     "id": "010012800EBAE800",
-    "version": 262144
+    "base_tid": "010012800EBAE000",
+    "name": "Disney TSUM TSUM FESTIVAL",
+    "description": "The ever popular Disney's Tsum Tsum makes its debut on the Nintendo Switch™!\n\nThe cute little characters from Disney's Tsum Tsum step foot into a toy store, where they can have a blast playing ten different party games, including curling, hockey, and more! Enjoy many modes of play such as cooperative and versus play. Choose your favorite Tsum and have a good time with friends and family!\nWhat's more, you can go online to play with players from around the world!\nIncluding the classic puzzle game, Tsum Tsum offers worldwide online multiplayer support for the first time ever!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20191108,
+    "latest_update_release_date": 20201119,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20201119
+    },
+    "versions": {
+        "65536": 20191108,
+        "131072": 20191121,
+        "196608": 20200715,
+        "262144": 20201119
+    },
+    "category": [
+        "Party",
+        "Puzzle"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

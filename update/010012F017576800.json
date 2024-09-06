@@ -1,4 +1,49 @@
 {
     "id": "010012F017576800",
-    "version": 589824
+    "base_tid": "010012F017576000",
+    "name": "Game Boy™ Advance – Nintendo Switch Online",
+    "description": "With a Nintendo Switch Online + Expansion Pack membership, access a collection of classic and colorful Game Boy™ Advance games to play anytime, anywhere! Shrink down for a big adventure in The Legend of Zelda™: The Minish Cap and master sibling strategies in Mario & Luigi™: Superstar Saga. Gotta take off? Pick up where you left off with suspend points.\n\nShrink the screen size or enable a retro-style filter to play your way. With online and local wireless multiplayer you can lap opponents in Mario Kart™: Super Circuit or battle it out in Super Mario™ Advance 4: Super Mario Bros.™ 3—no Link Cable required!\n\n• A selection of Game Boy Advance games including The Legend of Zelda: The Minish Cap, Super Mario Advance 4: Super Mario Bros. 3, and hidden gems like Kuru Kuru Kururin™\n• Games can also be played offline, so you can play while on the go—anytime, anywhere\n• Create suspend points for each game to save your progress\n• Choose a smaller screen size or retro filter to play your way\n• Play online or with local wireless with up to 3 friends in games like Mario Kart: Super Circuit\n\n",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20230208,
+    "first_update_release_date": 20230308,
+    "latest_update_release_date": 20240809,
+    "latest_update": {
+        "version": "589824",
+        "release_date": 20240809
+    },
+    "versions": {
+        "65536": 20230308,
+        "131072": 20230526,
+        "196608": 20230622,
+        "262144": 20230928,
+        "327680": 20240117,
+        "393216": 20240329,
+        "458752": 20240618,
+        "524288": 20240712,
+        "589824": 20240809
+    },
+    "category": [
+        "Other"
+    ],
+    "intro": "Advance your play with Game Boy™ Advance – Nintendo Switch Online",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Simulated Gambling"
+    ],
+    "region": null
 }

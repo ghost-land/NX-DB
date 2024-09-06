@@ -1,4 +1,36 @@
 {
     "id": "0100121012BB6800",
-    "version": 262144
+    "base_tid": "0100121012BB6000",
+    "name": "Love Colors",
+    "description": "Pixel color by numbers is easy! The game can be played by adults and enjoyed as a painting training for kids. Want more? Connect your console to the large screen, invite up to 3 friends and enjoy cooperative fun together! \n\nWhat do you find in the game?\n\n- 150+ pictures to color in 10 theme chapters\n- Various themes from friendly animals and cute creatures, through sweet cakes and fruits, to mythical creatures, dragons and yummy food.\n- 200 - 3500+ pixels to color in a single image (even more complex images available in the Love Colors - Pixel Adventure DLC).\n- Relaxing solo play\n- A hint of competition in multiplayer, with up to 4-players mode.\n\nCheck out Love Colors DLCs to widen the game experience!",
+    "publisher": "naptime.games",
+    "developer": null,
+    "base_release_date": 20210917,
+    "first_update_release_date": 20210910,
+    "latest_update_release_date": 20220401,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220401
+    },
+    "versions": {
+        "131072": 20210910,
+        "196608": 20211014,
+        "262144": 20220401
+    },
+    "category": [
+        "Puzzle",
+        "Party",
+        "Training",
+        "Lifestyle"
+    ],
+    "intro": "LOVE COLORS is a paint by numbers pixel art game. It’s super relaxing and easy to start! Choose from a variety of themes and complexity and start to color!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Themes"
+    ],
+    "region": null
 }
