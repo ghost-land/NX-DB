@@ -1,4 +1,34 @@
 {
     "id": "0100DEB013C76800",
-    "version": 65536
+    "base_tid": "0100DEB013C76000",
+    "name": "Knight with Tactics",
+    "description": "Knight with Tactics is a game where you need to move your knight in such a way so that it can reach your enemy and eliminate it quickly. You can’t always destroy your enemies right away, sometimes you need to get your weapon, so there are a variety of puzzles you need to try and go through. That brings in a sense of fun and immersion!\nWith Knight with Tactics you get to test your puzzle game skills, while also figuring out solutions on the spot. This is a creative, intense game that everyone in your family should play today!\nFeatures:\nSolve various puzzles \nYou can create your own levels\nDefeat enemies in the right order\nBeautiful graphics",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210111,
+    "first_update_release_date": 20210517,
+    "latest_update_release_date": 20210517,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210517
+    },
+    "versions": {
+        "65536": 20210517
+    },
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

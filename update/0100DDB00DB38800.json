@@ -1,4 +1,50 @@
 {
     "id": "0100DDB00DB38800",
-    "version": 262144
+    "base_tid": "0100DDB00DB38000",
+    "name": "Just Dance® 2020",
+    "description": "Just Dance® 2020 is the ultimate dance game with 40 hot tracks from chart-topping hits like “Old Town Road (Remix)” by Lil Nas X Ft. Billy Ray Cyrus and “God Is A Woman” by Ariana Grande. Keep the party going for hours with songs for the whole family to enjoy!\n\n40 Hot New Tracks: Keep the party going with the latest hits like “Old Town Road (Remix)” by Lil Nas X Ft. Billy Ray Cyrus.\n\nFree Just Dance® Unlimited: Dance to 500+ of your favorite songs!  A free one-month trial is included with every purchase.\n\nChoose Your Favorite Songs: Create your own playlists to customize your Just Dance parties!\n\nKids Mode: Enjoy eight new kid-friendly songs, offering a fun experience for our youngest players.  \n\nPlay Co-op with Friends: Dance to our newest universes and beat the high score together.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20191105,
+    "first_update_release_date": 20191104,
+    "latest_update_release_date": 20240620,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240620
+    },
+    "versions": {
+        "65536": 20191104,
+        "131072": 20191216,
+        "196608": 20200128,
+        "262144": 20240620
+    },
+    "category": [
+        "Music",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Lyrics",
+        "Mild Suggestive Themes",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

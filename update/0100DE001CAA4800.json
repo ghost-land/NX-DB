@@ -1,4 +1,34 @@
 {
     "id": "0100DE001CAA4800",
-    "version": 65536
+    "base_tid": "0100DE001CAA4000",
+    "name": "Love Kuesuto",
+    "description": "Take on the role of an old man whose life is flashing before his eyes. As you awaken, the goddess Aphrodite guides you through four game boards full of romantic trauma and relationship dilemmas.\n\nBe careful with your choices, because God and The Devil are watching! Love, heartache, and even the fate of the world all hang in the balance.\n\nThe future of human relations is entirely in your hands!\n\n\nFeatures:\n* Customize your avatar\n* Five different endings await you\n* Relaxing mood-setting music\n* Retro pixel art",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20230929,
+    "first_update_release_date": 20231001,
+    "latest_update_release_date": 20231001,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231001
+    },
+    "versions": {
+        "65536": 20231001
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "An interactive love and relationship quiz",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual Themes",
+        "Strong Language"
+    ],
+    "region": null
 }

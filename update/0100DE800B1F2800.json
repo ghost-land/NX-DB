@@ -1,4 +1,40 @@
 {
     "id": "0100DE800B1F2800",
-    "version": 65536
+    "base_tid": "0100DE800B1F2000",
+    "name": "JumpHead: Battle4Fun!",
+    "description": "Compete to see who is the greatest Jump Champion by landing on as many heads as possible, each one earning you points.\n\nTake advantages of combo to crush your friends before one of them uses a ridiculous, but deadly bonus from an arsenal of twenty six items to get an edge over you!\n\nThere are also thirteen different game modes to play, each of which adds a new twist to your fights. These include for example a Time Is Broken mode, where time is completely broken and a Laser mode where you could get beamed at any moment!\n\nJumpHead: Battle4Fun! is a hilarious experience, with limitless replay value that can provide many hours of entertainment for you and your friends.",
+    "publisher": "Light Maze",
+    "developer": null,
+    "base_release_date": 20190719,
+    "first_update_release_date": 20200421,
+    "latest_update_release_date": 20200421,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200421
+    },
+    "versions": {
+        "65536": 20200421
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Fighting",
+        "Platformer"
+    ],
+    "intro": "It’s all about stomping down on your friends! Up to 4 players, dive head first into this party game with crazy, easy to learn gameplay!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Drug Reference"
+    ],
+    "region": null
 }

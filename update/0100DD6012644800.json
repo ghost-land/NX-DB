@@ -1,4 +1,35 @@
 {
     "id": "0100DD6012644800",
-    "version": 262144
+    "base_tid": "0100DD6012644000",
+    "name": "Taiko no Tatsujin: Rhythmic Adventure Pack",
+    "description": "◈ Taiko no Tatsujin RPG?! Join Don-chan in two exciting RPG adventures!\nFrom the past to the future, Don-chan sets out on a great adventure that will transcend time and space and save the world from mysterious occurrences around the world in \"Taiko no Tatsujin: Rhythmic Adventure Pack\".\n\n■Enjoy a relaxing adventure through the world where you control Don freely in Story Mode!\nTake care of foes you encounter in Taiko Battles!\nDrum on the Taiko well to attack! Mess it up and you'll be attacked!\nCompose a team of your favorite characters to take on even stronger enemies!\n\n■In \"Rhythmic Adventure 1\" you'll serendipitously meet Tocky who has the important job of protecting all of history.\nHe tells you his friend Ticky has been abducted by someone named Professor Timedyne.\nThis wily professor is trying to use Ticky to dismantle history!\nTravel to all sorts of ages throughout history and do away with the bad guys!\n\n■In \"Rhythmic Adventure 2\" the treasures that protect the very being of the world, the Ooparts, have been stolen by the shady organization The Hexagria Magical Society!\nIn order to retrieve them, Don and Katsu embark on a grand adventure!\nWill Don and his friends be able to retrieve the Ooparts successfully and save the world?!\n\n■And of course, you can play the Taiko Game Mode!\nThe library consists of over 130 songs, including 6 newly added titles such as “Pretender” by Official Hige Dandism and “Gurenge” from Demon Slayer: Kimetsu no Yaiba!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20201203,
+    "first_update_release_date": 20201124,
+    "latest_update_release_date": 20210310,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210310
+    },
+    "versions": {
+        "131072": 20201124,
+        "196608": 20201216,
+        "262144": 20210310
+    },
+    "category": [
+        "Music",
+        "RPG"
+    ],
+    "intro": "What? An RPG Taiko No Tatsujin!! Use your drumming skills to save the world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

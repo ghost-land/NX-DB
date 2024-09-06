@@ -1,4 +1,37 @@
 {
     "id": "0100DEB00D5A8800",
-    "version": 65536
+    "base_tid": "0100DEB00D5A8000",
+    "name": "Battle Worlds: Kronos",
+    "description": "Battle Worlds: Kronos is a turn-based strategy game deeply rooted in the hexagonal tradition of the genre. The planet is once again torn by war, for the succession of a new emperor. Its destiny is in your hands!",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20190611,
+    "first_update_release_date": 20190808,
+    "latest_update_release_date": 20190808,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190808
+    },
+    "versions": {
+        "65536": 20190808
+    },
+    "category": [
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
+    "region": null
 }

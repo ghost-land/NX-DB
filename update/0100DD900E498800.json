@@ -1,4 +1,38 @@
 {
     "id": "0100DD900E498800",
-    "version": 196608
+    "base_tid": "0100DD900E498000",
+    "name": "DOUBLE DRAGON Ⅱ: The Revenge",
+    "description": "■Introduction\nThe Lee brothers are back to avenge the death of Marian at the hands of the Shadow Warriors!\nFight your way through street gangs, ninjas, giant mutant fighters \nas well as spiked ceilings and mechas with sharp claws, \nby using the newly acquired \"Hyper uppercut\" or  the \"Flying knee kick\"!\n\n■System\nToggle quality-up/original graphics\nSuspend Save/Load\nScreen Mode(Size, Scanline)\nSound Settings\nControl Manual\n\n■Quality-up version changes\nReduce Lag/Flickering",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20200416,
+    "first_update_release_date": 20200416,
+    "latest_update_release_date": 20240613,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20240613
+    },
+    "versions": {
+        "65536": 20200416,
+        "131072": 20231129,
+        "196608": 20240613
+    },
+    "category": [
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The second episode of Billy and Jimmy's saga: Double Dragon II: The Revenge!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

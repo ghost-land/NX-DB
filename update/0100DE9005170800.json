@@ -1,4 +1,46 @@
 {
     "id": "0100DE9005170800",
-    "version": 327680
+    "base_tid": "0100DE9005170000",
+    "name": "Sports Party",
+    "description": "Sports Party brings the sun, sea, and sports right to your fingertips! Whether at home or on the go, challenge your family and friends to Frisbee, Jet Ski, Basketball, Golf, Skateboarding, and Beach Tennis to claim victory! \n\nEnjoy Frisbee, Jet Ski, Basketball, Golf, Skateboarding, and Beach Tennis! Play each sport your way with various modes and controls for endless fun. Fully customize your avatar! New items will be unlocked as you progress! Easy-to-pick-up controls make this game fun for everyone, from kids to grandparents. \n\nHave fun wherever you go! Whether battling with four players using Nintendo Switch™ motion controls, taking on a friend, or just playing on your own.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221018,
+    "first_update_release_date": 20181018,
+    "latest_update_release_date": 20210722,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20210722
+    },
+    "versions": {
+        "65536": 20181018,
+        "131072": 20181101,
+        "196608": 20181204,
+        "262144": 20181214,
+        "327680": 20210722
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

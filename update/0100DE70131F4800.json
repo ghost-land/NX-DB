@@ -1,4 +1,39 @@
 {
     "id": "0100DE70131F4800",
-    "version": 131072
+    "base_tid": "0100DE70131F4000",
+    "name": "Alpaca Ball: Allstars Legacy Edition",
+    "description": "GOAAAAAAAAAAAAAAAAAAL! Play the craziest kind of soccer with the furriest alpacas around the world.\n\nBlock, ram your opponents and dive-kick your way to that dream goal!\n\nEnjoy the frantic local multiplayer for up to 8 players. \n\nTake your alpaca to glory in solo career mode, or share the credit with the local two-player co-op!\n\nEnjoy all the different arenas and stadiums inspired by famous locations such as South American Machu Picchu!\n\nFeatures:\n\n• Ready to enjoy soccer like you've never done before?\n• Play with beach balls, rugby balls and even... with a dice? YOU PLAY WITH A DICE TOO!?\n• Play against your friends in the up to 8-player multiplayer mode.\n• Enjoy your way to victory as a soccer alpaca in the exciting career mode.\n• Customize your Alpaca, show off your style!",
+    "publisher": "Leoful",
+    "developer": null,
+    "base_release_date": 20201016,
+    "first_update_release_date": 20201216,
+    "latest_update_release_date": 20210730,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210730
+    },
+    "versions": {
+        "65536": 20201216,
+        "131072": 20210730
+    },
+    "category": [
+        "Sports",
+        "Party",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Football with the alpacas! Win the cup and humiliate your opponents in this hilarious, crazy and chaotic party-game.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,45 @@
 {
     "id": "0100DE600FDFE800",
-    "version": 262144
+    "base_tid": "0100DE600FDFE000",
+    "name": "No Time to Relax",
+    "description": "You now have the ability to beat your more successful friends with this fake life simulator. To win the game, you have to work your way up the corporate ladder, educate yourself and keep your sanity. This might seem easy, but working and studying your ass off will strain even the most iron-willed of your friends. It almost seems like there is no time to relax!\n\nKey features:\n* Support up to 4 player couch pvp.\n* Play online with your friends (or total strangers).\n* Single player vs CPU player (Skynet look out!).\n* Finish missions, hex your friends and get a pet to gain the upper hand.\n* Decorate your apartment with cheap stuff and fancy things.\n* Educate your character, gain work experience and play the stock market\n* Play peaceful mode for a less stressful experience, free from hexes.\n* Choose from 7 different avatars.\n* Great original soundtrack.",
+    "publisher": "Porcelain Fortress",
+    "developer": null,
+    "base_release_date": 20220303,
+    "first_update_release_date": 20200625,
+    "latest_update_release_date": 20210826,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210826
+    },
+    "versions": {
+        "65536": 20200625,
+        "131072": 20210126,
+        "196608": 20210331,
+        "262144": 20210826
+    },
+    "category": [
+        "Board Game",
+        "Simulation",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "No Time to Relax is a life simulation game where up to 4 players online or locally compete against each other in the ultimate game of life.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Language"
+    ],
+    "region": null
 }

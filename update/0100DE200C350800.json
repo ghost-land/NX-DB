@@ -1,4 +1,42 @@
 {
     "id": "0100DE200C350800",
-    "version": 262144
+    "base_tid": "0100DE200C350000",
+    "name": "Chasm",
+    "description": "Welcome to Chasm, an action-adventure game in which you play a new recruit undertaking your first mission for the Guildean Kingdom. Thrilled to prove your worth as a knight, you track strange rumors that a mine vital to the Kingdom has been shut down. But what you discover in the mining town is worse than you imagined: The townspeople have disappeared, kidnapped by supernatural creatures emerging from the depths.\n\nHonor-bound to solve the mystery and restore peace to the Kingdom, you embark upon an epic adventure, with deadly battles against cunning monsters, exploration of ancient catacombs and castles, and powerful new equipment hidden at every turn. Though the overall story is the same for all players, your hero's journey will be unique: each of the rooms has been hand-designed, and behind the scenes Chasm stitches these rooms together into a one-of-a-kind world map that will be your own.",
+    "publisher": "Bit Kid",
+    "developer": null,
+    "base_release_date": 20181012,
+    "first_update_release_date": 20181015,
+    "latest_update_release_date": 20210813,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20210813
+    },
+    "versions": {
+        "65536": 20181015,
+        "131072": 20191003,
+        "196608": 20200404,
+        "262144": 20210813
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
+    "region": null
 }

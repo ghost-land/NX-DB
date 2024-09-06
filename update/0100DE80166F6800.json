@@ -1,4 +1,37 @@
 {
     "id": "0100DE80166F6800",
-    "version": 262144
+    "base_tid": "0100DE80166F6000",
+    "name": "City Pipes",
+    "description": "City pipes is the next best brain-teaser for every pipeline puzzle lover. If you are a big fan of pipe connection puzzle, do not miss this next great pipeline puzzle game! Connect the city with water and solve the puzzles!\nEveryone can enjoy the fun of plumbing and connecting the right pipes in the right orientation! An amusing, inspiring pipe puzzle experience. All pipe plumbing fans, get ready for your exciting pipe plumbing puzzle journey in over 100 levels!\n\nFeatures:\n- over 100 Levels\n- Different difficulties",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20211028,
+    "first_update_release_date": 20211019,
+    "latest_update_release_date": 20220715,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220715
+    },
+    "versions": {
+        "65536": 20211019,
+        "131072": 20220601,
+        "196608": 20220613,
+        "262144": 20220715
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

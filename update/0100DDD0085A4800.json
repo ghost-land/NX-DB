@@ -1,4 +1,37 @@
 {
     "id": "0100DDD0085A4800",
-    "version": 65536
+    "base_tid": "0100DDD0085A4000",
+    "name": "Sushi Striker™: The Way of Sushido",
+    "description": "Help Musashi end the Empire’s tyrannical monopoly of the world’s sushi supply by becoming a Sushi Striker! Devour conveyor-belt sushi, matching plates and sushi types to defeat any enemy or boss who stands between you and victory. Befriend Sushi Sprites and use their powerful skills in battle. Deliciously strategic action-RPG-puzzle battles await!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20180608,
+    "first_update_release_date": 20180605,
+    "latest_update_release_date": 20180605,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180605
+    },
+    "versions": {
+        "65536": 20180605
+    },
+    "category": [
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Learn the Way of Sushido",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Cartoon Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }
