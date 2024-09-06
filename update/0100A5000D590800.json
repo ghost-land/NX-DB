@@ -1,4 +1,38 @@
 {
     "id": "0100A5000D590800",
-    "version": 131072
+    "base_tid": "0100A5000D590000",
+    "name": "The Little Acre",
+    "description": "The Little Acre follows the story of Aidan and his daughter, Lily, set in 1950’s Ireland. After discovering clues as to the whereabouts of his missing father, Aidan begins investigating until he inadvertently finds himself transported to a strange new world. Ever the hero, Lily sets off after him, encountering her own perils along the way. Featuring full voice-acting and hand-drawn animation, The Little Acre is a memorable, lovingly crafted adventure game.\n\nThe Little Acre is developed by Pewter Games alongside Executive Producer Charles Cecil (Broken Sword, Beneath a Steel Sky).\n\nFeatures:\nTwo playable characters\nTraditional hand-drawn animation\nUnique perspective transitions\nBeautiful original score\nFully voice acted",
+    "publisher": "Pewter Games Studios",
+    "developer": null,
+    "base_release_date": 20190425,
+    "first_update_release_date": 20190513,
+    "latest_update_release_date": 20190927,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190927
+    },
+    "versions": {
+        "65536": 20190513,
+        "131072": 20190927
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Fully voiced and with hand-drawn animations, The Little Acre is a lovingly crafted adventure developed by Pewter Games with Executive Producer Charles Cecil.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,36 @@
 {
     "id": "0100A4A015FF0800",
-    "version": 65536
+    "base_tid": "0100A4A015FF0000",
+    "name": "Winter Games 2023",
+    "description": "Winter Games 2023 is an exciting sports game in a modern 3D guise. The player can prove his/her athletic abilities in ten dynamic winter sports disciplines, for example, ski jumping, biathlon, ski cross, skeleton, or super-G. Set off on the hunt for records, best times, and trophies. Besides the individual disciplines there are also ready-to-play cups to choose from in which several disciplines can be played one after the other, and customized competitions you can put together yourself. Play alone against AI or compete in local multiplayer mode against up to three friends in an exciting winter sports duel.\n\nLocal multiplayer with up to 4 players\nCustom mode for own sports events\nSeveral degrees of difficulty for beginners and pros\n10 thrilling winter sports disciplines:\n * Biathlon\n * Downhill\n * Super-G\n * Skeleton\n * Short track\n * 2-man bobsled\n * Ski jumping\n * Ski cross\n * Snowboard cross\n * Curling\n\n",
+    "publisher": "Wild River Games",
+    "developer": null,
+    "base_release_date": 20221014,
+    "first_update_release_date": 20221012,
+    "latest_update_release_date": 20221012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221012
+    },
+    "versions": {
+        "65536": 20221012
+    },
+    "category": [
+        "Sports",
+        "Simulation",
+        "Action"
+    ],
+    "intro": "Bring fun in the snow right into the home: 10 thrilling winter sports disciplines are waiting for you!\n",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

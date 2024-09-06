@@ -1,4 +1,44 @@
 {
     "id": "0100A46018E0A800",
-    "version": 458752
+    "base_tid": "0100A46018E0A000",
+    "name": "Monmusu Gladiator",
+    "description": "Monmusu Gladiator is a rogue-lite RPG where you can raise creatures called Monmusus. Play as a monster breeder and, along with your partner, overcome hardships and raise the strongest Monmusus to conquer all the tournaments! Build your deck by winning battles and earning Nurture Cards. \n\n- Raise the strongest Monmusus however you want!\nRaise cute Monmusus using the board game-style system while enjoying the easy controls and intense battles.\n\nChoose cards and increase your stats! Create your own one-of-a-kind deck and raise the strongest Monmusus! Your choice between stats and events could make the difference between life and death.\n\n- Intense Battles\nSimply press the skill button when your AP is charged! Battle on until freedom is yours!",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20221124,
+    "first_update_release_date": 20221123,
+    "latest_update_release_date": 20240308,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240308
+    },
+    "versions": {
+        "65536": 20221123,
+        "131072": 20221202,
+        "196608": 20230526,
+        "262144": 20230621,
+        "327680": 20231011,
+        "393216": 20231212,
+        "458752": 20240308
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Move forward through board game-style spaces and raise cute monster girls. Win your way through the arenas and aim for the top!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
+    "region": null
 }

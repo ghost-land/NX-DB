@@ -1,4 +1,36 @@
 {
     "id": "0100A4E017372800",
-    "version": 262144
+    "base_tid": "0100A4E017372000",
+    "name": "Pyramid Quest",
+    "description": "Pyramid Quest is an exploration and treasure-hunting game inspired by classic platform games.\nThe goal is to find the three parts of an artefact and open the gate to the next level while collecting diamonds and coins.\n \nTraps, obstacles, and enemies from old days make the quest very dangerous and challenging.\n \n3D graphics packed in a nice graphics style, great 2.5D levels and proven gameplay gives you hours of fun.",
+    "publisher": "EntwicklerX",
+    "developer": null,
+    "base_release_date": 20220120,
+    "first_update_release_date": 20220119,
+    "latest_update_release_date": 20220414,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220414
+    },
+    "versions": {
+        "65536": 20220119,
+        "131072": 20220307,
+        "196608": 20220310,
+        "262144": 20220414
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "Pyramid Quest is an exploration and treasure-hunting game inspired by classic platform games.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

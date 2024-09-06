@@ -1,4 +1,44 @@
 {
     "id": "0100A4301AA0C800",
-    "version": 524288
+    "base_tid": "0100A4301AA0C000",
+    "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+    "description": "This is the fourth release in the METAL GEAR series. Metal Gear Solid 2 is a story a told in two parts: \nIn the Tanker chapters, Solid Snake sneaks into a secret tanker in pursuit of a new top-secret nuclear weapon, called Metal Gear.\nIn the Plant chapters, Raiden of the new FOXHOUND unit infiltrates an offshore plant occupied by terrorists.\n\nNew gameplay actions such as handling weapons from a first person viewpoint, holding up enemies at gunpoint, and grabbing and dragging fallen opponents were also incorporated into this title.\n\nAn exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 2: Sons of Liberty are also included.\n\n[Title lineup]\nMetal Gear Solid 2: Sons of Liberty (HD Collection version)\n\nRegional versions of the titles are available as additional downloads.\n\n[Digital book]\nMetal Gear Solid 2: Screenplay Book\nMetal Gear Solid 2: Master Book\n\nThe digital books can be accessed from the game's main menu screen.",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20231024,
+    "first_update_release_date": 20231022,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "524288",
+        "release_date": 20240328
+    },
+    "versions": {
+        "262144": 20231022,
+        "327680": 20231123,
+        "393216": 20231127,
+        "458752": 20240109,
+        "524288": 20240328
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "Tactical Espionage Action",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Violence"
+    ],
+    "region": null
 }

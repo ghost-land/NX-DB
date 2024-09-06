@@ -1,4 +1,33 @@
 {
     "id": "0100A46015296800",
-    "version": 65536
+    "base_tid": "0100A46015296000",
+    "name": "守護者 Saturn 致敬精選輯",
+    "description": "展開360度攻擊！！ 表現活躍的網路戰車射擊遊戲'守護者'又回來啦！！\n\n擁有守護力量的祕密團體\"守護\"的戰車開始了阻止海默博爾特帝國雄心的旅程！\n\n'守護者'是SUCCESS公司在1998年問世的多方性強制捲動的射擊遊戲。\n\n以自家開發的'zebra引擎'在SEGA土星時期的名作又復活了。\n為了能夠更簡單的享受遊戲，也新增了慢速模式，快速儲存 等的新功能。\n也實裝了線上排名模式！",
+    "publisher": "H2 INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20210930,
+    "first_update_release_date": 20220211,
+    "latest_update_release_date": 20220211,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220211
+    },
+    "versions": {
+        "65536": 20220211
+    },
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null
 }

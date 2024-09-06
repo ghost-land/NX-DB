@@ -1,4 +1,36 @@
 {
     "id": "0100A49012D10800",
-    "version": 196608
+    "base_tid": "0100A49012D10000",
+    "name": "Street Outlaws 2: Winner Takes All",
+    "description": "The stakes have just been raised! In this high-octane sequel, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own. Along with the street racing seen on TV, you will also be able to participate in unique races and stunts all while interacting with your favorite cast members from the show! Do you have what it takes to be crowned the Winner Takes All National Champion?\n\n• 26 drag vehicles plus 5 challenge cars \n• 36 unique locations for races and challenge events\n• Over 250 parts for deep car customization including rims, parachutes, tires, window tints, tire smoke colors, as well as personal garage customization\n• Put up or shut up through the in-game race wager feature\n• Featuring Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck and many more from the Street Outlaws TV show\n• Asynchronous multiplayer tournaments and leaderboards",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20221118,
+    "first_update_release_date": 20211104,
+    "latest_update_release_date": 20220111,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220111
+    },
+    "versions": {
+        "65536": 20211104,
+        "131072": 20211104,
+        "196608": 20220111
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

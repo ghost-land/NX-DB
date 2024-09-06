@@ -1,4 +1,44 @@
 {
     "id": "0100A4400BE74800",
-    "version": 196608
+    "base_tid": "0100A4400BE74000",
+    "name": "The LEGO Movie 2 Videogame",
+    "description": "The alien monster invaders have left Bricksburg in ruins and taken Emmet's friends! It is now up to Emmet and a host of heroic characters to go beyond their world and save their friends from the strange inhabitants of the Systar System. Journey into outer space, discover new worlds, and test your Master Building skills.\n",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20190301,
+    "first_update_release_date": 20190219,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20190219,
+        "131072": 20190417,
+        "196608": 20190528
+    },
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,43 @@
 {
     "id": "0100A410169A4800",
-    "version": 262144
+    "base_tid": "0100A410169A4000",
+    "name": "Tales of Symphonia Remastered",
+    "description": "Tales of Symphonia, an action RPG and one of the most critically-acclaimed titles in the series, returns with a full HD remastering.\n\nThe story takes place in Sylvarant, a world in danger of extinction due to the exploitation of mana by an evil group thought to be sealed away by the hero Mithos 4,000 years ago.\n\nColette, The Chosen One, receives an oracle from the heavenly institution Cruxis, and sets out on a World Regeneration journey with her childhood friend Lloyd.\n\nThis profound and magnificent adventure fantasy is spun by characters rich in personality and full of charm.",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20230217,
+    "first_update_release_date": 20230217,
+    "latest_update_release_date": 20231019,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20231019
+    },
+    "versions": {
+        "65536": 20230217,
+        "131072": 20230520,
+        "196608": 20230822,
+        "262144": 20231019
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": "The Epic Battle for Survival",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Simulated Gambling",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

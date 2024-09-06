@@ -1,4 +1,34 @@
 {
     "id": "0100A4D01514A800",
-    "version": 65536
+    "base_tid": "0100A4D01514A000",
+    "name": "Bring Honey Home",
+    "description": "Bring Honey Home is a block filling puzzle game. To complete a level you need to drag pieces to the gameboard and fill up the whole grid. It comes with 4 difficulties ranging from Beginner to Expert and there are 240 levels in total.\n\nFeatures :\n- Different difficulties\n- 240 levels\n- Sweet art design",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210608,
+    "first_update_release_date": 20211012,
+    "latest_update_release_date": 20211012,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211012
+    },
+    "versions": {
+        "65536": 20211012
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Strategy"
+    ],
+    "intro": "The bee's need your help to fill up the honeycombs! Be busy like a bee and fill all the honeycombs with sweet honey blocks!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

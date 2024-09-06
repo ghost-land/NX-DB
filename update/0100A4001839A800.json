@@ -1,4 +1,34 @@
 {
     "id": "0100A4001839A800",
-    "version": 65536
+    "base_tid": "0100A4001839A000",
+    "name": "LootLite",
+    "description": "Dragons steal everything they find... This is something that the new inhabitants of this peculiar peninsula discover as soon as they arrive.\nYou must help all these unlucky heroes to recover all that stolen treasure...\n\nLootLite is a roguelike-arcade in which you can choose between seven different heroes to fight against the enemy hordes and try to recover the stolen treasures. Travel through a huge peninsula with different levels full of secrets, hidden paths and all kinds of weapons.\n\nCharacteristic:\n- Seven unlockable characters.\n- Travel all corners of the peninsula in search of weapons and runes.\n- Play alone or with a friend in local cooperative mode.\n- A seamless RogueLike experience.",
+    "publisher": "JanduSoft",
+    "developer": null,
+    "base_release_date": 20220728,
+    "first_update_release_date": 20220810,
+    "latest_update_release_date": 20220810,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220810
+    },
+    "versions": {
+        "65536": 20220810
+    },
+    "category": [
+        "Action",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "LootLite is a roguelike-arcade in which you can choose between seven different heroes to try to recover the stolen treasures.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

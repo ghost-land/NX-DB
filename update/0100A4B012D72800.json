@@ -1,4 +1,46 @@
 {
     "id": "0100A4B012D72800",
-    "version": 131072
+    "base_tid": "0100A4B012D72000",
+    "name": "Roguebook",
+    "description": "Embrace the challenge of a roguelike deckbuilder with unique mechanics from the developers of Faeria and Richard Garfield, creator of Magic: The Gathering™. Build a team of two heroes, unleash powerful combos and defeat the legends of the Roguebook!\n\n* LEGENDARY HEROES – Create a team of two heroes, each with their own cards and abilities. Combine their strengths to defeat over 40 bosses and enemies. \n* BUILD YOUR DECK AS YOU PLAY – Choose wisely from 200 cards, 80 relics and 30 gems that can be combined. You will never play with the same deck twice.\n* THE BOOK CHANGES EACH TIME YOU OPEN IT – It's up to you to reveal the Roguebook's mysteries with the ingenious ink system.\n* EACH RUN COUNTS – Train your heroes and earn new cards and relics to take on the 20 difficulty levels in the Roguebook.",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20220609,
+    "latest_update_release_date": 20221027,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221027
+    },
+    "versions": {
+        "65536": 20220609,
+        "131072": 20221027
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
+    "region": null
 }

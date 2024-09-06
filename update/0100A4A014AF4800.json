@@ -1,4 +1,34 @@
 {
     "id": "0100A4A014AF4800",
-    "version": 131072
+    "base_tid": "0100A4A014AF4000",
+    "name": "The Mysterious Case of Dr.Jekyll and Mr.Hyde",
+    "description": "After a respected member of Parliament is found murdered, it’s up to you to go on the search for the killer, the notorious Mr. Hyde! Step into the shoes of an inspector from Scotland Yard, and dive deep into the case to try to find out why Sir Danvers Crew has been killed. Search beautiful Hidden Object scenes in The Mysterious Case of Dr. Jekyll and Mr. Hyde! Can you crack the case and discover the horrifying truth?\n\n- Immersive atmosphere\n- Fun detective mini games\n- Discover a horrifying secret!",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20210408,
+    "first_update_release_date": 20210914,
+    "latest_update_release_date": 20210928,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210928
+    },
+    "versions": {
+        "65536": 20210914,
+        "131072": 20210928
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Discover a horrifying secret!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

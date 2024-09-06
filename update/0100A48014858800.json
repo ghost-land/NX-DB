@@ -1,4 +1,43 @@
 {
     "id": "0100A48014858800",
-    "version": 65536
+    "base_tid": "0100A48014858000",
+    "name": "Kids Play 動物卡片遊戲 卡片配對遊戲",
+    "description": "這是一款經典的專注力遊戲，玩家每回合翻開兩張卡片，尋找兩張相同圖案的卡片。\n\n遊戲含有18種難度級別，可選擇4至64張卡片，適用於各年齡玩家。\n\n你可以一個人玩，也可以和最多三位朋友們玩。",
+    "publisher": "RAINYFROG",
+    "developer": null,
+    "base_release_date": 20210527,
+    "first_update_release_date": 20210628,
+    "latest_update_release_date": 20210628,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210628
+    },
+    "versions": {
+        "65536": 20210628
+    },
+    "category": [
+        "益智",
+        "學習",
+        "訓練",
+        "桌上遊戲"
+    ],
+    "intro": "適用於1至4個玩家的有趣專注力遊戲！",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

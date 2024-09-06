@@ -1,4 +1,37 @@
 {
     "id": "0100A4201A7F6800",
-    "version": 196608
+    "base_tid": "0100A4201A7F6000",
+    "name": "Just Xiangqi",
+    "description": "This is a refreshing Chinese chess game with realistic graphics and a detailed audio tutorial that will keep you entertained, even as a novice. A variety of well-designed challenges will test your tactics. Sit back and relax, as you transform into a master of strategy.\n\nChinese Chess is one of the three major types of chess in the world, and is played with red and black round pieces on a square board. It simulates an ancient battle between two armies on a dynamic battlefield, in which the opponent's general is captured to achieve ultimate victory.",
+    "publisher": "Studio Amateur",
+    "developer": null,
+    "base_release_date": 20230420,
+    "first_update_release_date": 20230511,
+    "latest_update_release_date": 20230511,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20230511
+    },
+    "versions": {
+        "196608": 20230511
+    },
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Puzzle"
+    ],
+    "intro": "The most exquisite Xiangqi game ever made!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

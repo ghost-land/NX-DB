@@ -1,4 +1,43 @@
 {
     "id": "0100A50018D38800",
-    "version": 327680
+    "base_tid": "0100A50018D38000",
+    "name": "Pulling no Punches",
+    "description": "Pulling no Punches is a classic beat’em up game with frame-by-frame animations, where players will try to survive a fictional pandemic in a city filled with madness and denial. The game includes 4 playable characters with unique unlockable moves, extremely detailed environments and local co-op multiplayer for up to 4 players.\n\nA BUNCH OF COOL STUFF:\n \n- 4 Co-op Local Multiplayer!\n- 4 Characters with unique Unlockables and Moves!\n- Use everything at your disposal to destroy your enemies: a wide variety of punches, kicks, grabs and headbutts!\n- Handmade art painfully animated frame by frame!",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230525,
+    "first_update_release_date": 20230523,
+    "latest_update_release_date": 20230809,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20230809
+    },
+    "versions": {
+        "65536": 20230523,
+        "131072": 20230621,
+        "196608": 20230714,
+        "327680": 20230809
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Other"
+    ],
+    "intro": "Survive a fictional pandemic in a city filled with madness and denial.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Alcohol",
+        "Violence"
+    ],
+    "region": null
 }

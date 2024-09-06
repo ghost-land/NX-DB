@@ -1,4 +1,38 @@
 {
     "id": "0100A4301889C800",
-    "version": 131072
+    "base_tid": "0100A4301889C000",
+    "name": "Host 714",
+    "description": "Host 714 is a stealth game where you control Squid, a drug addicted hobo who was invited by a governmental organization, the Orange Institute, to join a drug addiction rehab center with experimental treatment and social reintegration. \n\nArriving at the Institute on a faraway island, Squid realizes that the proposal was not what they claimed to be. Now you are a test subject, with an uncertain fate.\n\nFrom abandoned dungeons to modern laboratories. From abusive guards to soulless patients. Host 714's sound and visuals will leave you with the feeling of constant tension, abandonment and an accelerated heart within the Institute corridors.\n\nExplore the areas, find keys, access cards, talk to other prisoners and solve mysteries to find a way out of this hellish place full of locked doors and inaccessible places.\n\nGame Features\n\n-\tChallenging stealth gameplay\n-\tGood story telling and creepy vibes\n-\tUnique game mechanics\n-\tA familiar protagonist and villain",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20220929,
+    "first_update_release_date": 20220915,
+    "latest_update_release_date": 20221122,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20221122
+    },
+    "versions": {
+        "65536": 20220915,
+        "131072": 20221122
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Escape from a creepy rehab center in Host 714",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
+    "region": null
 }
