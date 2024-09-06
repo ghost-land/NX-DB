@@ -1,4 +1,39 @@
 {
     "id": "0100421003FD4800",
-    "version": 131072
+    "base_tid": "0100421003FD4000",
+    "name": "Syberia",
+    "description": "Kate Walker, a young New York attorney, is sent by her law firm to the small French village of Valadilène. Her mission: complete negotiations for the purchase of an automaton factory on behalf of a large multinational. She has no idea what the future holds in store for her…\n\nJoin Kate Walker on an extraordinary journey that takes her all the way from Western Europe to the far reaches of Eastern Russia. You will come across a host of endearing characters and incredible locations as you search for traces of Hans Voralberg, the genius inventor of the automatons. It is a search that will take you to the legendary island of Syberia, in the far North of the continent, where the last living mammoths reside, hidden from modern eyes...\n\nEXPERIENCE a moving adventure and roam through an enchanting world.\nJOURNEY everywhere with Kate Walker with the Nintendo Switch's handheld mode.\nRELAX while playing in TV mode or tabletop mode.\n\n",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20171020,
+    "first_update_release_date": 20171102,
+    "latest_update_release_date": 20180809,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20180809
+    },
+    "versions": {
+        "65536": 20171102,
+        "131072": 20180809
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "The standard-setting adventure game is finally available on the Nintendo Switch!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Adult themes"
+    ],
+    "region": null
 }

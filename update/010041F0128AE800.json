@@ -1,4 +1,39 @@
 {
     "id": "010041F0128AE800",
-    "version": 131072
+    "base_tid": "010041F0128AE000",
+    "name": "Liege Dragon",
+    "description": "With Abigore, the Evil Dragon, coming back to life, the kingdom of Blaze was thrown into confusion. Yuran who has lost his memory witnesses a village being destroyed, and heads for the capital hoping to find something he could do in this time of destruction.\nHere begins an adventure to find the Dragon Tools of the Three Heroes, to confront the revived dragon and bring peace to the world!\n\nEngage with hordes of monsters in turn-based battles, and make use of Sorcery Stones to learn skills! Attack enemies as a team using Unison triggered by the bonds between the allies. There are even more to enjoy in this magical adventure, such as various quests, weapons to upgrade, and a monster guide to complete!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20201001,
+    "first_update_release_date": 20200930,
+    "latest_update_release_date": 20231218,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20231218
+    },
+    "versions": {
+        "65536": 20200930,
+        "131072": 20231218
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Find the Dragon Tools of legend to stand up to the Evil Dragon in a fantasy RPG!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Themes",
+        "Scary Scenes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

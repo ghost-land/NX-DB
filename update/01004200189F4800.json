@@ -1,4 +1,59 @@
 {
     "id": "01004200189F4800",
-    "version": 1179648
+    "base_tid": "01004200189F4000",
+    "name": "Factorio",
+    "description": "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire.\n\nJoin forces with other players in cooperative Multiplayer, create huge factories, collaborate and delegate tasks between you and your friends. While the core gameplay is in the form of the freeplay scenario, there are a range of interesting challenges in the form of Scenarios. If you don't find any maps or scenarios you enjoy, you can create your own with the in-game Map Editor, place down entities, enemies, and terrain in any way you like.",
+    "publisher": "Wube Software",
+    "developer": null,
+    "base_release_date": 20221028,
+    "first_update_release_date": 20221012,
+    "latest_update_release_date": 20240827,
+    "latest_update": {
+        "version": "1179648",
+        "release_date": 20240827
+    },
+    "versions": {
+        "65536": 20221012,
+        "131072": 20221103,
+        "196608": 20221122,
+        "262144": 20221218,
+        "327680": 20230201,
+        "393216": 20230426,
+        "524288": 20230714,
+        "589824": 20230921,
+        "655360": 20231031,
+        "786432": 20231212,
+        "851968": 20240110,
+        "917504": 20240214,
+        "1048576": 20240419,
+        "1114112": 20240702,
+        "1179648": 20240827
+    },
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "The factory must grow",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

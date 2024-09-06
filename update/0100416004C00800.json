@@ -1,4 +1,45 @@
 {
     "id": "0100416004C00800",
-    "version": 262144
+    "base_tid": "0100416004C00000",
+    "name": "DOOM",
+    "description": "Developed by id Software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, DOOM returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. There is no taking cover or stopping to regenerate health as you beat back Hell’s raging demon hordes. Combine your arsenal of futuristic and iconic guns, upgrades, movement and an advanced melee system to knock-down, slash, stomp, crush, and blow apart demons in creative and violent ways.",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20210901,
+    "first_update_release_date": 20171105,
+    "latest_update_release_date": 20240702,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240702
+    },
+    "versions": {
+        "65536": 20171105,
+        "131072": 20180219,
+        "196608": 20181210,
+        "262144": 20240702
+    },
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "intro": "Fight Like Hell",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Users Interact"
+    ],
+    "region": null
 }

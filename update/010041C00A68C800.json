@@ -1,4 +1,40 @@
 {
     "id": "010041C00A68C800",
-    "version": 131072
+    "base_tid": "010041C00A68C000",
+    "name": "The Spectrum Retreat",
+    "description": "The Spectrum Retreat is a challenging, first-person puzzle game set in the near future. You awake at The Penrose hotel, a peaceful yet unsettling refuge from the outside world. As a valued guest, your existence is embedded into the corridors and guest rooms of The Penrose.\n\nExploration of the striking art-deco hotel will begin to uncover the mysteries of both The Penrose and the uncertainties surrounding your current stay. Your desire to unearth the truth is obstructed by an array of colour coded puzzles, mind-bending physics challenges and the growing fear of exposing your true intentions.",
+    "publisher": "Ripstone Publishing",
+    "developer": null,
+    "base_release_date": 20180913,
+    "first_update_release_date": 20201116,
+    "latest_update_release_date": 20201116,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201116
+    },
+    "versions": {
+        "131072": 20201116
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Manipulate your way to the truth in this captivating narrative-driven puzzler.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild themes and coarse language"
+    ],
+    "region": null
 }

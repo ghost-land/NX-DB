@@ -1,4 +1,33 @@
 {
     "id": "010042000CA02800",
-    "version": 65536
+    "base_tid": "010042000CA02000",
+    "name": "Super Life of Pixel",
+    "description": "Join Pixel as he quests through gaming history, teleporting across the most iconic video game systems of generations past. He’ll have to jump, dodge and play smart if he wants to survive all the traps, puzzles and enemies waiting to take him down at every turn.\n\nBut wait, there’s more! For the first time ever, Super Life of Pixel introduces the “Special Collections” systems: Six additional, expertly recreated vintage consoles for Pixel to master on his way to the top.\n\nNostalgia, variety and fun are one button away!\n\n",
+    "publisher": "WhiteMoon Dreams",
+    "developer": null,
+    "base_release_date": 20190515,
+    "first_update_release_date": 20190515,
+    "latest_update_release_date": 20190515,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190515
+    },
+    "versions": {
+        "65536": 20190515
+    },
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": "A classic platformer in which you must Think, Move, Jump or Die.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

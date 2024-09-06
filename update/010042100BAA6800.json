@@ -1,4 +1,43 @@
 {
     "id": "010042100BAA6800",
-    "version": 262144
+    "base_tid": "010042100BAA6000",
+    "name": "Valthirian Arc: Hero School Story",
+    "description": "BECOME THE GREATEST PRINCIPAL\nOversee the development of your hero school, build structures, upgrade facilities, and manage the day-to-day activities of your students\n\nDEVELOP YOUR STUDENTS\nTrain your warrior, mage, and ranger students to hone their abilities and unlock powerful sub-classes such as paladin, scholar, harlequin and more!\n\nHELP THE CITIZENS OF VALTHIRIA\nDeploy students on timed errand missions across the world or head out to take on quests with your own squad to experience the adventure first-hand\n\nMASTER MIGHT AND MAGIC\nUse powerful skills and cast explosive spells in real-time combat with a party of four students\n\nCRAFT A WIDE VARIETY OF WEAPONS AND ARMOR\nGather materials from enemies and develop recipes to craft more powerful equipment to enhance your student’s abilities\n\nEXPERIENCE A GRAND RPG STORY\nForge alliances with one of five rival queendoms to influence the fate of all Valthiria and experience different endings ",
+    "publisher": "PQube",
+    "developer": null,
+    "base_release_date": 20211012,
+    "first_update_release_date": 20181018,
+    "latest_update_release_date": 20200804,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20200804
+    },
+    "versions": {
+        "65536": 20181018,
+        "131072": 20181225,
+        "262144": 20200804
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Run your own fantasy RPG academy!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Suggestive Themes"
+    ],
+    "region": null
 }

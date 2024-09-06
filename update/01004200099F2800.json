@@ -1,4 +1,42 @@
 {
     "id": "01004200099F2800",
-    "version": 196608
+    "base_tid": "01004200099F2000",
+    "name": "Fractured Minds",
+    "description": "Fractured Minds is an immersive artistic short game, exploring anxiety and mental health issues. \n\nWinner of the BAFTA Young Game Designers Award, Fractured Minds is a game created by 17-year-old Emily Mitchell, with the hope of aiding understanding and awareness of mental illness.\n\nEmbark on a journey through the human psyche and experience six atmospheric and thought-provoking chapters, each symbolising a different aspect or challenge associated with mental health issues; from isolation to anxiety, with everyday situations being distorted beyond recognition.\n\nRaw, emotive and earnest, Fractured Minds demonstrates that video games are capable of communicating vital messages in imaginative ways. It is a game that seeks to encourage empathy and champion support for the millions living with mental health issues.\n\nFractured Minds is proud to support Safe in our World, a gaming industry charity striving for better mental health awareness.",
+    "publisher": "Wired Productions",
+    "developer": null,
+    "base_release_date": 20191114,
+    "first_update_release_date": 20191104,
+    "latest_update_release_date": 20200108,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200108
+    },
+    "versions": {
+        "131072": 20191104,
+        "196608": 20200108
+    },
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
+    "region": null
 }

@@ -1,4 +1,38 @@
 {
     "id": "010041D00DEB2800",
-    "version": 196608
+    "base_tid": "010041D00DEB2000",
+    "name": "Amoeba Battle - Microscopic RTS Action",
+    "description": "Unlike other RTS games, there are no bases to build - new amoebas are created through the miracle of binary fission! \n\nFirst though, your amoebas must forage for food in the beautiful yet alien environments that make up their world. Once well fed, these amoebas can replicate into two identical amoebas of the same type, doubling your army with a press of a button!\n\nBut multiplying amoebas won't always be enough. You will need to introduce mutations to evolve your weaker amoebas into stronger species. Experiment with different amoeba combinations to field a diverse force that can face any threat!\n",
+    "publisher": "Grab",
+    "developer": null,
+    "base_release_date": 20200304,
+    "first_update_release_date": 20200303,
+    "latest_update_release_date": 20200518,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200518
+    },
+    "versions": {
+        "131072": 20200303,
+        "196608": 20200518
+    },
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Amoeba Battle is a new breed of real-time strategy game where you control versatile amoebas in the battle for the microscopic world!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

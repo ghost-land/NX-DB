@@ -1,4 +1,35 @@
 {
     "id": "0100417007F78800",
-    "version": 196608
+    "base_tid": "0100417007F78000",
+    "name": "Danmaku Unlimited 3",
+    "description": "\"Mastery of the Modern Day Shmup\" - GameSkinny\n\"A Visual Masterpiece\" - Overpowered Noobs\n\nTake to the skies once more as the last defender of humanity against overwhelming odds! Lovingly built to be enjoyed by newcomers and genre veterans alike, Danmaku Unlimited 3 is a perfect medley of the best aspects of classic Bullet Hell shooters wrapped up in a modern and approachable package.\n\nFEATURES\n• Authentically crafted Japanese style Bullet Hell shoot'em up\n• Action packed campaign with spellbinding bullet patterns and epic boss battles\n• Multiple levels of difficulty across two unique modes that caters to players of all skill ranges\n• Innovative SPIRIT/GRAZE system promotes stylish risk vs reward play\n• Brand new Ultra Wide Mode in 60FPS HD\n• TATE Mode for the ultimate arcade experience\n• Up to 25 unique weapon combinations\n• Music by the talented Japanese indie circle BLANKFIELD",
+    "publisher": "Doragon",
+    "developer": null,
+    "base_release_date": 20180313,
+    "first_update_release_date": 20180320,
+    "latest_update_release_date": 20190205,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20190205
+    },
+    "versions": {
+        "65536": 20180320,
+        "131072": 20180514,
+        "196608": 20190205
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "SHOOT. DODGE. EXPLODE. Can you survive the Bullet Storm?",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

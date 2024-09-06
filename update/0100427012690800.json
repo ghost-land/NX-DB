@@ -1,4 +1,33 @@
 {
     "id": "0100427012690800",
-    "version": 65536
+    "base_tid": "0100427012690000",
+    "name": "Attack on Beetle",
+    "description": "Insect warfare begins in a variety of forests, deserts, and waterfront locations.\nConfront and defeat hostile insects, and add them to your army to expand your power.\nThe insect that builds the largest army wins!\n\nBeetles, stag beetles, and butterflies of all kinds are here!\nDetermine which ones you are good at and which ones you are bad at, and use them to your advantage.",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20220117,
+    "first_update_release_date": 20211216,
+    "latest_update_release_date": 20211216,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20211216
+    },
+    "versions": {
+        "65536": 20211216
+    },
+    "category": [
+        "Strategy",
+        "Action"
+    ],
+    "intro": "The beetles begin their march!\nLead the horde to the top of the insects!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }
