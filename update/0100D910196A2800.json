@@ -1,4 +1,40 @@
 {
     "id": "0100D910196A2800",
-    "version": 65536
+    "base_tid": "0100D910196A2000",
+    "name": "The Lost Labyrinth",
+    "description": "Enter The Lost Labyrinth, as Sophie awakes to find herself in an eerie and perilous place, crowded with mysterious creatures. Can Sophie overcome the dangers, and free the tormented creatures? Discover a breathtaking adventure through the many mazes of a cursed labyrinth. Explore its mysteries and secrets, and fight against the dangers that await those who dare to enter The Lost Labyrinth.\n\nFeatures:\n* Puzzle your way through 120 unique and challenging levels\n* Enjoy thrilling match 3 gameplay across three different modes\n* Collect coins to boost your power-ups and earn all the stars\n* Immersive storyline with unique characters\n* Hand-painted artwork",
+    "publisher": "Green Sauce Games",
+    "developer": null,
+    "base_release_date": 20221117,
+    "first_update_release_date": 20221218,
+    "latest_update_release_date": 20221218,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20221218
+    },
+    "versions": {
+        "65536": 20221218
+    },
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "A thrilling match-3 adventure awaits those who dare to explore the mysteries of the Lost Labyrinth.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Blood",
+        "Use of Tobacco"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100D8B01D214800",
-    "version": 65536
+    "base_tid": "0100D8B01D214000",
+    "name": "Arcade Archives MASTER OF WEAPON",
+    "description": "\"MASTER OF WEAPON\" is a shooting game released by TAITO in 1989.\nIt takes place on an Earth ravaged by a seven-day nuclear war. The supercomputer ‘N’, designed to lead the survivors to salvation, has run amok and the young protagonist, Yukiwo, must make a stand against it!\nMaster a variety of weapons to defeat the mutant monsters and robotic weapons!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20240215,
+    "first_update_release_date": 20240227,
+    "latest_update_release_date": 20240227,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240227
+    },
+    "versions": {
+        "65536": 20240227
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Master the weapons\nand take back the post-apocalyptic Earth!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
+    "region": null
 }

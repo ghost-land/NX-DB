@@ -1,4 +1,43 @@
 {
     "id": "0100D98005E8C800",
-    "version": 262144
+    "base_tid": "0100D98005E8C000",
+    "name": "Die for Valhalla!",
+    "description": "Die for Valhalla! is an action RPG where you possess and take full control of heroes, monsters and other things to help Vikings save their realm!\n\nYou are a Valkyrie, a supernatural maiden bestowed with the ability to possess fallen warriors. You embark on a quest that will lead you through strange lands where Norse Mythology collides with Lovecraftian mythos. Sounds Weird? Well, because it is!\n\nYou can play solo or with friends locally (up to 4 players).\n\nKey Features:\nAn action-packed hybrid of Roguelike and arcade Beat ‘Em Up.\nUnique Possession gameplay mechanic.\nMore than 10 Viking Clans to discover and unlock. \nEach of the 7 Viking Classes comes with unique play styles and combos.\nOver 80 skills to choose from when leveling up your Valkyrie.\nCute but bloodthirsty creatures will become your companions. \nPlay against your friends in Deathmatch and Survival modes.\nAnd more!\n",
+    "publisher": "Monster Couch",
+    "developer": null,
+    "base_release_date": 20180529,
+    "first_update_release_date": 20180514,
+    "latest_update_release_date": 20190828,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20190828
+    },
+    "versions": {
+        "65536": 20180514,
+        "131072": 20180611,
+        "196608": 20181016,
+        "262144": 20190828
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Hack, slash and crush your enemies!\nValhalla awaits!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Strong Violence"
+    ],
+    "region": null
 }

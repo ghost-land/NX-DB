@@ -1,4 +1,38 @@
 {
     "id": "0100D95012C0A800",
-    "version": 65536
+    "base_tid": "0100D95012C0A000",
+    "name": "Gibbous - A Cthulhu Adventure",
+    "description": "Crazy cultists. Cthulhu. A talking cat. Gibbous takes you on an expansive, traditionally animated, hand-painted adventure. Play as three protagonists and explore a lushly rendered Lovecraft-inspired world, unraveling ancient conspiracies. A comedy cosmic horror adventure made in Transylvania!",
+    "publisher": "Stuck In Attic",
+    "developer": null,
+    "base_release_date": 20201028,
+    "first_update_release_date": 20201123,
+    "latest_update_release_date": 20201123,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20201123
+    },
+    "versions": {
+        "65536": 20201123
+    },
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A comedy cosmic horror adventure made in Transylvania!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
+    "region": null
 }

@@ -1,4 +1,37 @@
 {
     "id": "0100D98007784800",
-    "version": 65536
+    "base_tid": "0100D98007784000",
+    "name": "Premium Pool Arena",
+    "description": "Awaken the pool pro within you! \n(Re)discover the joy and tension of traditional pool through the different game modes and ultra-intuitive gameplay.\nWork on your technique, unlock better and better cues and pocket the victories to become absolute champion! \n• Play traditional 8-ball\n• Take part in tournaments against stronger and stronger opponents\n• Develop your style of play by unlocking different cues with your victories \n• Try to win the daily challenges\n• Customise your games with the different available table styles",
+    "publisher": "Nacon",
+    "developer": null,
+    "base_release_date": 20180206,
+    "first_update_release_date": 20180202,
+    "latest_update_release_date": 20180202,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180202
+    },
+    "versions": {
+        "65536": 20180202
+    },
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

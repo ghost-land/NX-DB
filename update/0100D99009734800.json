@@ -1,4 +1,41 @@
 {
     "id": "0100D99009734800",
-    "version": 65536
+    "base_tid": "0100D99009734000",
+    "name": "White Night",
+    "description": "Explore the macabre past of an old mansion in the 1930's and solve puzzles of light and shadows in this fully black & white survival horror! Players are trapped in this nightmare where darkness is a constant threat!\n\nClassic Survival-Horror 3D Mechanics: Solve puzzles of lights and shadows to survive\n\nShed Light on the Mysteries of the Mansion: Collect matches to light your way and reveal the next passage\n\nDark Entities Lurk in the Shadows: Avoid apparitions to continue your search for answers\n\nImmerse Yourself in the Noir: Unique art style engrosses the player in the tone of Film Noir",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20180517,
+    "first_update_release_date": 20220805,
+    "latest_update_release_date": 20220805,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220805
+    },
+    "versions": {
+        "65536": 20220805
+    },
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "The dark will reveal all!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100D9500A0F6800",
-    "version": 65536
+    "base_tid": "0100D9500A0F6000",
+    "name": "CLOSED NIGHTMARE",
+    "description": "プレイヤーは記憶を失った女性“上代真莉亜”として、閉鎖空間で目を覚ます。\n外部への脱出方法を探すが、この空間に存在するいくつもの部屋には、\n脱出しようとするものを試すような奇妙で残酷な仕掛けばかりだった…。\n\n本作のイベントシーンは、一人称視点の実写映像で進行します。\nまるで自分自身が体験しているかのような、目前に迫る恐怖をお楽しみください。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20180719,
+    "first_update_release_date": 20180718,
+    "latest_update_release_date": 20180718,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20180718
+    },
+    "versions": {
+        "65536": 20180718
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "絶望の果てに堕(ねむ)ればいい・・・",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
+    "region": null
 }

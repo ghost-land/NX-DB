@@ -1,4 +1,42 @@
 {
     "id": "0100D8E010B1A800",
-    "version": 131072
+    "base_tid": "0100D8E010B1A000",
+    "name": "インディヴィジブル 闇を祓う魂たち",
+    "description": "様々な神話をモチーフにした独特の世界観で\nアジュナとその世界ロカの人々の冒険の物語を描く、\n探索型アクションRPGがついに登場！\n\n主人公アジュナと共に幻想的な世界ロカを冒険し、\n20人以上の仲間と共に、よりド派手なコンボを決めて、\nラバナバーに支配された世界を救い出そう！",
+    "publisher": "スパイク・チュンソフト",
+    "developer": null,
+    "base_release_date": 20200716,
+    "first_update_release_date": 20200804,
+    "latest_update_release_date": 20201012,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20201012
+    },
+    "versions": {
+        "65536": 20200804,
+        "131072": 20201012
+    },
+    "category": [
+        "アクション",
+        "ロールプレイング"
+    ],
+    "intro": "全ての魂をかけて世界を救え",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "麻薬"
+    ],
+    "region": null
 }

@@ -1,4 +1,42 @@
 {
     "id": "0100D9000A930800",
-    "version": 131072
+    "base_tid": "0100D9000A930000",
+    "name": "Trine Enchanted Edition",
+    "description": "Trine Enchanted Edition is the origin story for the three unlikely heroes of Trine - Amadeus the Wizard, Pontius the Knight, and Zoya the Thief. Spellbound by the magical object Trine, the heroes must join forces to overcome obstacles and puzzles in a fully interactive physics-based world, battle the undead and their minions, and restore balance to the kingdom!\n\nFeatures:\n\n- Action and platforming in a fantasy fairytale world, featuring 15 breathtaking levels full of dangerous enemies, hazards, and physics-based puzzles\n\n- Origin story for the 3 heroes - Amadeus the Wizard, Pontius the Knight, and Zoya the Thief, each with their own skills and unique abilities\n\n- Solve challenges and puzzles in many different ways by combining the characters' abilities, and come up with creative solutions never seen before!\n\n- Online and local co-op multiplayer for up to three players",
+    "publisher": "Frozenbyte",
+    "developer": null,
+    "base_release_date": 20221103,
+    "first_update_release_date": 20181115,
+    "latest_update_release_date": 20190528,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190528
+    },
+    "versions": {
+        "65536": 20181115,
+        "131072": 20190528
+    },
+    "category": [
+        "Action",
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Three Heroes Bound by a Magical Artifact",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
+    "region": null
 }

@@ -1,4 +1,32 @@
 {
     "id": "0100D89014A0E800",
-    "version": 65536
+    "base_tid": "0100D89014A0E000",
+    "name": "Classic Checkers",
+    "description": "Classic Checkers is an engaging checkers game that helps you enjoy a realistic, fun gameplay of this extraordinary board game. The visuals are extraordinary, and you can also see the current score right away. It’s also possible to rotate the board if you want for the best results and experience.\nYou can play Classic Checkers against the AI that has multiple difficulties. It’s also possible to play PVP against your friends if you want. Classic Checkers is the ultimate game that you can play if you love board games and want to try out something new, unique and cool. All you have to do is to check it out for yourself and have fun!\nFeatures:\nImmersive checkers gameplay\nPlay PVE or PVP\nStylish visuals\nInfinite replay value",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210503,
+    "first_update_release_date": 20210609,
+    "latest_update_release_date": 20210609,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20210609
+    },
+    "versions": {
+        "65536": 20210609
+    },
+    "category": [
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

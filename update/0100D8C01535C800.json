@@ -1,4 +1,41 @@
 {
     "id": "0100D8C01535C800",
-    "version": 196608
+    "base_tid": "0100D8C01535C000",
+    "name": "Mind Scanners",
+    "description": "Mind Scanners is a retro-futuristic psychiatry simulation in which you diagnose the citizens of a dystopian metropolis. Locate a host of other-worldly characters and use arcade-style treatment devices to help them. Manage your time and resources to keep The Structure in balance. Remember, you take full responsibility for your patients.",
+    "publisher": "Brave At Night",
+    "developer": null,
+    "base_release_date": 20211130,
+    "first_update_release_date": 20211202,
+    "latest_update_release_date": 20220818,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220818
+    },
+    "versions": {
+        "65536": 20211202,
+        "131072": 20211214,
+        "196608": 20220818
+    },
+    "category": [
+        "Simulation",
+        "RPG",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Strong Language",
+        "Suggestive Themes"
+    ],
+    "region": null
 }

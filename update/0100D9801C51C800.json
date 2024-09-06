@@ -1,4 +1,35 @@
 {
     "id": "0100D9801C51C800",
-    "version": 65536
+    "base_tid": "0100D9801C51C000",
+    "name": "Counter Shooter Strike Zone",
+    "description": "   Dive into the heart of intense combat in a gripping shooter experience where your skills are put to the ultimate test. This game offers two exhilarating modes to conquer. In the first, precision is paramount as you eliminate a dynamic number of foes, armed with a limited yet strategic arsenal. Will your finesse triumph over the challenge or will you face defeat with dwindling ammunition?\n   The second mode introduces a thrilling mission, demanding not only the defeat of adversaries but also the discovery of hidden treasures scattered across diverse maps. Your hard-earned cash prize becomes the key to upgrading your arsenal, from pistols to formidable automatic weapons. With each advancing level, the stakes rise as opponents multiply, requiring strategic firepower for triumph. But beware, as your life line inches closer to zero, pushing you perilously towards defeat.\n   With multiple maps offering unique challenges, this game promises relentless action, daring missions, and an unwavering pursuit of victory. Can you rise to the occasion and conquer the relentless onslaught?",
+    "publisher": "GameToTop Corp.",
+    "developer": null,
+    "base_release_date": 20240127,
+    "first_update_release_date": 20231225,
+    "latest_update_release_date": 20231225,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20231225
+    },
+    "versions": {
+        "65536": 20231225
+    },
+    "category": [
+        "Simulation",
+        "Shooter",
+        "First-Person Shooter",
+        "Strategy"
+    ],
+    "intro": "Immerse yourself in an adrenaline-fueled world of tactical challenges, weapon upgrades, and hidden treasures in this gripping shooter adventure!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
 }
