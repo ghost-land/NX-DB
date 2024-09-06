@@ -1,4 +1,44 @@
 {
     "id": "0100BEB014D94800",
-    "version": 196608
+    "base_tid": "0100BEB014D94000",
+    "name": "Banners of Ruin",
+    "description": "The Blackfoots have been dealt a mighty blow by the fearsome House Ender - you must infiltrate their defences and cut out the rot.\n\nBuild your deck and fight your way through the city of Dawn's Point with card based combat and up to 6 members in your party. Characters loyal to your cause have a set of unique cards and abilities that may augment your deck in powerful, exciting ways. Defeat each of the elite opponents in your path to the city's Guard Captain and cripple the Enders at their core. You and your brethren may fall at this attempt, but there will always be others to carry the torch. House Blackfoot will remember, and they will never relent. Encounter a series of scenarios as you travel through the city which may help you, but at the expense of some moral ground.",
+    "publisher": "Goblinz Studio",
+    "developer": null,
+    "base_release_date": 20210730,
+    "first_update_release_date": 20210804,
+    "latest_update_release_date": 20211213,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20211213
+    },
+    "versions": {
+        "65536": 20210804,
+        "131072": 20210813,
+        "196608": 20211213
+    },
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Build a deck and fight a series of turn-based combats with up to 6 party characters through the city of Dawn's Point. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
+    "region": null
 }

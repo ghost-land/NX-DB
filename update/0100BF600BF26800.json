@@ -1,4 +1,34 @@
 {
     "id": "0100BF600BF26800",
-    "version": 65536
+    "base_tid": "0100BF600BF26000",
+    "name": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+    "description": "A new instalment of the ever-popular series is here! The classic FINAL FANTASY FABLES: Chocobo’s Dungeon is back with an enhanced gameplay system - to be enjoyed by both first-timers and fans of the series! \n\nExplore the challenges of the never-ending dungeons (\"Insatiable Hunger\"), befriend monsters with the new buddy system. You adhere to one simple rule, … every time you enter, the world around you changes shape, but it only moves whenever Chocobo moves!",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20190320,
+    "first_update_release_date": 20200527,
+    "latest_update_release_date": 20200527,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20200527
+    },
+    "versions": {
+        "65536": 20200527
+    },
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Scary Scenes"
+    ],
+    "region": null
 }

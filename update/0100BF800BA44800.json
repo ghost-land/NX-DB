@@ -1,4 +1,44 @@
 {
     "id": "0100BF800BA44800",
-    "version": 458752
+    "base_tid": "0100BF800BA44000",
+    "name": "Mineko's Night Market",
+    "description": "Mineko’s Night Market is a game that celebrates Japanese culture while introducing a heartwarming story about friendship, tradition, and many, many cats. \n\nPlay as Mineko, a curious girl who has just arrived at her new home on a struggling Japanese-inspired island at the base of Mount Fugu. The superstitious locals on the island worship the Sun Cat, Nikko. What was always thought to be a long-told myth has the town puzzled, as sightings of Nikko have begun to surface among the residents of the island in recent days.\n \nDiscover the secrets behind the town and restore the struggling village to its former glory. All the while, manage your daily activities, complete various jobs, venture on whimsical quests, and craft peculiar items in preparation for the weekly Night Market! ",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20230926,
+    "first_update_release_date": 20230919,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "458752",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20230919,
+        "131072": 20231010,
+        "196608": 20231019,
+        "262144": 20231101,
+        "327680": 20231123,
+        "393216": 20240116,
+        "458752": 20240710
+    },
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A narrative-driven, social simulation adventure game that celebrates Japanese culture. Craft whimsical items, eat delicious snacks, and ultimately enjoy all the cats!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
+    "region": null
 }

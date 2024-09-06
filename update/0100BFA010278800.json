@@ -1,4 +1,32 @@
 {
     "id": "0100BFA010278800",
-    "version": 196608
+    "base_tid": "0100BFA010278000",
+    "name": "AOテニス 2",
+    "description": "AO（全豪オープン）公式テニスゲームが日本初上陸！シングルスとダブルスの種目はもちろん、オリジナル選手で楽しめるストーリー性のあるキャリアモードを収録。\nモーションキャプチャによるリアルな動き等、臨場感あふれるテニスマッチを体験しよう。\n自由度の高いカスタマイズ機能で作成した選手やテニスウェア、ラケット、スタジアムはオンラインにつなげれば世界中のプレイヤーと共有できる！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20200514,
+    "first_update_release_date": 20200513,
+    "latest_update_release_date": 20200915,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20200915
+    },
+    "versions": {
+        "65536": 20200513,
+        "131072": 20200608,
+        "196608": 20200915
+    },
+    "category": [
+        "スポーツ"
+    ],
+    "intro": "AO（全豪オープン）公式ゲームが登場！\n",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [],
+    "region": null
 }

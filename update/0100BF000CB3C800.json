@@ -1,4 +1,39 @@
 {
     "id": "0100BF000CB3C800",
-    "version": 131072
+    "base_tid": "0100BF000CB3C000",
+    "name": "Captain StarONE",
+    "description": "Became the hero \"Captain StarONE\" in this game blending action and ‘inaction’. You set your strategies and combos, then multitask as the game carries out your attacks. Watch the battles unfold and be ready to jump back in to guide our hero!\n\nAs enemies become stronger strategies and actions change, and you then assist the Captain for stronger moves!\n\nMake timely interventions to manipulate and generate combos, aim for major damage, strengthen equipment, organize teams and head to victory!\n\nGet ready for a unique and comical space adventure in Captain StarONE!",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20190213,
+    "first_update_release_date": 20190222,
+    "latest_update_release_date": 20190312,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20190312
+    },
+    "versions": {
+        "65536": 20190222,
+        "131072": 20190312
+    },
+    "category": [
+        "Action",
+        "Simulation",
+        "Shooter",
+        "RPG"
+    ],
+    "intro": "Protect the universe from mysterious enemies and preserve peace in Captain StarONE!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

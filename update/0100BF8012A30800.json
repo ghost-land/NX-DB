@@ -1,4 +1,39 @@
 {
     "id": "0100BF8012A30800",
-    "version": 131072
+    "base_tid": "0100BF8012A30000",
+    "name": "Assault ChaingunS KM",
+    "description": "Board the Hoverheli, the low altitude invasive craft, and eliminate the Independent Battle Machine Corp that is occupying the city!\n\nAim with controller gyroscope! Or by touching the screen!\n\n6 challenging stages! Fight through all the stages and clear them all!\n\nPlay Score Attack on your selected stage! Defeat enemies to increase the time limit!\n\nJoin forces with up to 4 players in local gameplay!",
+    "publisher": "MoonGlass",
+    "developer": null,
+    "base_release_date": 20200924,
+    "first_update_release_date": 20211014,
+    "latest_update_release_date": 20211014,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20211014
+    },
+    "versions": {
+        "131072": 20211014
+    },
+    "category": [
+        "Arcade",
+        "Shooter",
+        "First-Person Shooter",
+        "Action"
+    ],
+    "intro": "The Independent Battle Machine Corp is trying to occupy the city! Board on the hoverheli and stop them with the Assault Chainguns!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
 }

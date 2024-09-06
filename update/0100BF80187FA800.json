@@ -1,4 +1,42 @@
 {
     "id": "0100BF80187FA800",
-    "version": 65536
+    "base_tid": "0100BF80187FA000",
+    "name": "Crazy Plane Landing",
+    "description": "Flying is easy - but can you stick the landing?\n\nGet into one of the amazing flying machines and launch as high as you can. This part is easy… well, fairly easy. Not that anyone can do it. But you can. Surely you do!\n\nWhat’s really interesting is what happens next. Will you crash? Or will you somehow make it a perfect landing?\n",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220707,
+    "first_update_release_date": 20220706,
+    "latest_update_release_date": 20220706,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220706
+    },
+    "versions": {
+        "65536": 20220706
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Fly high and try to stick the landing. Will you survive or will you crash?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

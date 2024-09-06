@@ -1,4 +1,35 @@
 {
     "id": "0100BEA00E63A800",
-    "version": 196608
+    "base_tid": "0100BEA00E63A000",
+    "name": "Hero Express",
+    "description": "A mad 2D physics based driving game that lets you drive all over the world. Who's gonna save the day when the hero's in trouble? Of course the Hero Express! Drive around 11 crazy tracks and 11 totally crazy arenas, powerup your vehicles and save the world.",
+    "publisher": "Fantastico Studio",
+    "developer": null,
+    "base_release_date": 20190705,
+    "first_update_release_date": 20191021,
+    "latest_update_release_date": 20191124,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20191124
+    },
+    "versions": {
+        "131072": 20191021,
+        "196608": 20191124
+    },
+    "category": [
+        "Racing",
+        "Arcade",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "It doesn't take a hero to save the world.\nHero Express: \"Heroic deliveries, right on time!\"",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

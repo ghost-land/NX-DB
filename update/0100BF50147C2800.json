@@ -1,4 +1,41 @@
 {
     "id": "0100BF50147C2800",
-    "version": 131072
+    "base_tid": "0100BF50147C2000",
+    "name": "BloodRayne 2: ReVamped",
+    "description": "Rayne is a dhampir, born from the unnatural union of vampire and human. Her mixed heritage grants her vampiric powers and superior resistance to sunlight and water, but curses her with the bloodthirst of a vampire. She has defeated countless monsters both demonic and human, but now faces her most personal battle yet. Rayne must hunt down her very own siblings, who have banded together and pledged to carry on their father's legacy of creating a new era of vampire supremacy in which humans are mere cattle.\n\nBloodRayne is back with new acrobatic movements, rail sliding, fast-paced blade and gun combat and fatal finishing moves. Use Rayne’s dhampir powers like time dilation to rack up points in the extensive combo system in this brutally satisfying continuation of the iconic series.\n\nFeatures:\n\n• The original BloodRayne 2 returns to consoles with upgraded graphics and cinematics.\n\n• Get a clear view of every merciless kill in high definition.\n\n• Soak in the atmosphere with improved lighting, shadows, textures, and reflections.",
+    "publisher": "Ziggurat",
+    "developer": null,
+    "base_release_date": 20211119,
+    "first_update_release_date": 20211122,
+    "latest_update_release_date": 20220213,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20220213
+    },
+    "versions": {
+        "65536": 20211122,
+        "131072": 20220213
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Fighting"
+    ],
+    "intro": "Rayne returns in her second adventure, enhanced and improved for modern consoles",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "High Impact Violence",
+        "References to Sexual Violence"
+    ],
+    "region": null
 }

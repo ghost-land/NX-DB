@@ -1,4 +1,58 @@
 {
     "id": "0100BF500207C800",
-    "version": 786432
+    "base_tid": "0100BF500207C000",
+    "name": "Bloodstained: Ritual of the Night",
+    "description": "Bloodstained®︎: Ritual of the Night is a gothic horror action side-scrolling RPG set in 18th century England. A paranormal force has summoned a demon-infested castle, revealing crystal shards infused with tremendous magical power.\nPlay as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, Miriam must fight through the castle and defeat the summoner, Gebel. \nCollect, craft and unlock a vast array of weapons, equipment and loot to defeat the countless minions and bosses of hell that await!",
+    "publisher": "505 Games",
+    "developer": null,
+    "base_release_date": 20240516,
+    "first_update_release_date": 20190621,
+    "latest_update_release_date": 20240516,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20240516
+    },
+    "versions": {
+        "65536": 20190621,
+        "131072": 20190801,
+        "196608": 20191031,
+        "262144": 20200114,
+        "327680": 20200521,
+        "393216": 20200818,
+        "458752": 20201201,
+        "524288": 20210114,
+        "589824": 20210301,
+        "655360": 20220603,
+        "720896": 20220825,
+        "786432": 20240516
+    },
+    "category": [
+        "Platformer",
+        "Action",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "The king of Metroidvania returns!\nCraft, cast and explore your way to victory.\nSave yourself, save the world.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Partial Nudity",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

@@ -1,4 +1,39 @@
 {
     "id": "0100BF40199F0800",
-    "version": 65536
+    "base_tid": "0100BF40199F0000",
+    "name": "Pupperazzi",
+    "description": "Put your love for pups to the test - we have a bunch of dogs that need their photos taken, doggone it! Photograph and catalogue the finest (and derpiest) dogs to build your career, upgrade your camera, and discover new canines. WOOF!\n\nWho will photograph, pet, and tell these dogs they're good boys and girls if you don't?? The world NEEDS you in Pupperazzi, the dog photography game! Snap photos of dogs while maintaining your social media presence. Will you hound for stardom in public, or would you rather be taken seriously as an artist? Perhaps you just want to show your friends the cute dog you saw while you were out. It's your choice which direction your career goes - just don’t forget to pet the dogs along the way.\n\nDodge between people and obstacles as you try to capture canine beauty on everlasting digital photos. Double jump across buildings to get that lucrative shot of a local dog celebrity just trying to live their life. Slow motion zooming helps capture mid-air moments that actually make you feel something.\n\nIt’s a ruff world out there and it’s up to you to document it!",
+    "publisher": "Kitfox Games",
+    "developer": null,
+    "base_release_date": 20230406,
+    "first_update_release_date": 20230316,
+    "latest_update_release_date": 20230316,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230316
+    },
+    "versions": {
+        "65536": 20230316
+    },
+    "category": [
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Put your love for pups to the test - we have a bunch of dogs that need their photos taken, doggone it!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

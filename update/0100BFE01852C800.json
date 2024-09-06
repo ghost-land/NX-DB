@@ -1,4 +1,34 @@
 {
     "id": "0100BFE01852C800",
-    "version": 65536
+    "base_tid": "0100BFE01852C000",
+    "name": "Pixel Game Maker Series Pearl Vs Grey",
+    "description": "Story\nPearl and Grey find a treasure map.\nThe two rivals compete with each other...\nTake control of Grey and clear 100 stages to reach the treasure first!\n\nGame System\nAn easy-to-learn puzzle action game with lots of variety!\nCollect key items and open the door in puzzle stages.\nFace off against Pearl in battle stages!\n\nControls\nLeft/Right: Move\nUp/Down: Move up/down ladders\nB: Jump\nX: Hook shot (when held in inventory)\n+: Pause\nR & +: Game menu (Volume and language settings)\n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch™.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20230105,
+    "first_update_release_date": 20230714,
+    "latest_update_release_date": 20230714,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20230714
+    },
+    "versions": {
+        "65536": 20230714
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Pearl and Grey's battle for treasure.\nA great adventure across 100 stages!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

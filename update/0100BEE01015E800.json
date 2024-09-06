@@ -1,4 +1,33 @@
 {
     "id": "0100BEE01015E800",
-    "version": 65536
+    "base_tid": "0100BEE01015E000",
+    "name": "Chippy",
+    "description": "Your purpose is to eliminate all pixel-based lifeforms by breaking off their limbs and destroying their cores. Compete to be fastest on the leaderboards, watch replays from other players to learn their tricks, or team up with a friend in local co-op.",
+    "publisher": "Facepunch Studios",
+    "developer": null,
+    "base_release_date": 20220323,
+    "first_update_release_date": 20220808,
+    "latest_update_release_date": 20220808,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220808
+    },
+    "versions": {
+        "65536": 20220808
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Chip apart destructible bosses in this bullet-hell shooter",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

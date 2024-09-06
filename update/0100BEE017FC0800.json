@@ -1,4 +1,55 @@
 {
     "id": "0100BEE017FC0800",
-    "version": 786432
+    "base_tid": "0100BEE017FC0000",
+    "name": "Just Dance©",
+    "description": "Try Just Dance 2024 Edition for free!\n\nDance to “Tití Me Preguntó” by Bad Bunny and “After Party” by Banx & Ranx Ft. Zach Zoya.\n\nDiscover our new dance platform and keep your progression when you buy the game!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221122,
+    "first_update_release_date": 20221116,
+    "latest_update_release_date": 20240618,
+    "latest_update": {
+        "version": "786432",
+        "release_date": 20240618
+    },
+    "versions": {
+        "65536": 20221116,
+        "131072": 20221207,
+        "196608": 20221219,
+        "262144": 20230227,
+        "327680": 20230509,
+        "393216": 20230714,
+        "524288": 20231010,
+        "589824": 20231106,
+        "655360": 20231212,
+        "720896": 20240305,
+        "786432": 20240618
+    },
+    "category": [
+        "Music",
+        "Action"
+    ],
+    "intro": "Play Two Songs from Just Dance 2024 Edition for Free",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Mild Lyrics",
+        "In-Game Purchases",
+        "Online Music Not Rated by the ESRB"
+    ],
+    "region": null
 }

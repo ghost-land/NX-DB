@@ -1,4 +1,39 @@
 {
     "id": "0100BFA01787C800",
-    "version": 262144
+    "base_tid": "0100BFA01787C000",
+    "name": "SNOW BROS. SPECIAL",
+    "description": "“SNOW BROS. is an arcade game developed by TOAPLAN. \nIn this fun and easy-to-play adventure popular for gaming among couples and with friends, two snowball-hurling snowman brothers power their way through against various enemies.”\n\n「The Story」\nAll is well in peaceful Snowland. \nThen one day, King Artich of the Hottoda Kingdom invades Snowland. \n\nThe twin princes of Snowland, Nick and Tom, try to stop him...\nBut King Artich curses them and turns them into snowmen.\nHe takes the twin princesses Puripuri and Puchipuchi captive.\nIn this state… all of Snowland will soon melt away.\nNick and Tom embark on a long journey to return peace to Snowland. \n\n“We must rescue the princesses and lift the curse”\n“Let’s go! SNOW BROS.!!”",
+    "publisher": "DAEWON MEDIA",
+    "developer": null,
+    "base_release_date": 20220519,
+    "first_update_release_date": 20220523,
+    "latest_update_release_date": 20220706,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20220706
+    },
+    "versions": {
+        "131072": 20220523,
+        "196608": 20220603,
+        "262144": 20220706
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": "THE CLASSIC ARCADE GAME IS BACK IN A MODERN VERSION",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
+    "region": null
 }
