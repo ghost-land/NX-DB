@@ -1,4 +1,58 @@
 {
     "id": "010090100E334800",
-    "version": 1048576
+    "base_tid": "010090100E334000",
+    "name": "Don't Starve Together",
+    "description": "Don't Starve Together is the standalone multiplayer expansion of the uncompromising wilderness survival game, Don't Starve.\n\nEnter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style. Play your way as you unravel the mysteries of this strange land.\n\nCooperate with your friends in a private game, or take your chances with strangers online. Work with other players to survive the harsh environment, or strike out on your own.\n\nDo whatever it takes, but most importantly, Don't Starve.\n",
+    "publisher": "Klei Entertainment",
+    "developer": null,
+    "base_release_date": 20230113,
+    "first_update_release_date": 20220412,
+    "latest_update_release_date": 20240725,
+    "latest_update": {
+        "version": "1048576",
+        "release_date": 20240725
+    },
+    "versions": {
+        "65536": 20220412,
+        "131072": 20220524,
+        "196608": 20220812,
+        "262144": 20221020,
+        "327680": 20221201,
+        "393216": 20230124,
+        "458752": 20230313,
+        "524288": 20230417,
+        "589824": 20230529,
+        "655360": 20230823,
+        "720896": 20231010,
+        "786432": 20231123,
+        "851968": 20240125,
+        "917504": 20240305,
+        "983040": 20240525,
+        "1048576": 20240725
+    },
+    "category": [
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
+    "region": null
 }

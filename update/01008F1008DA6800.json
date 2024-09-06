@@ -1,4 +1,51 @@
 {
     "id": "01008F1008DA6800",
-    "version": 327680
+    "base_tid": "01008F1008DA6000",
+    "name": "Darkest Dungeon",
+    "description": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring.\n\nRecruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond. You'll battle not only unimaginable foes, but stress, famine, disease, and the ever-encroaching dark. Uncover strange mysteries, and pit the heroes against an array of fearsome monsters with an innovative strategic turn-based combat system.\n\nFeatures: \n•The Affliction System – battle not only monsters, but stress! Contend with paranoia, masochism, fear, irrationality, and a host of gameplay-meaningful quirks!\n•Striking hand-drawn gothic crowquill art style\n•Innovative turn-based combat pits you against a host of diabolical monsters\n•Narration system to celebrate your successes...and failures\n•16 (and counting!) playable hero classes, including Plague Doctor, Hellion, and even the Leper!\n•Camp to heal wounds or deliver inspiring speeches.\n•Rest your weary, shell-shocked characters in town at the Tavern or the Abbey to keep their stress in check.\n•Classic CRPG and roguelike features, including character permadeath, procedural dungeons, and incredible replay\n\nCan you stem the tide of eldritch horrors erupting across your family’s ancestral estate?",
+    "publisher": "Red Hook Studios",
+    "developer": null,
+    "base_release_date": 20240606,
+    "first_update_release_date": 20180214,
+    "latest_update_release_date": 20190509,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20190509
+    },
+    "versions": {
+        "65536": 20180214,
+        "131072": 20180403,
+        "196608": 20180501,
+        "262144": 20181010,
+        "327680": 20190509
+    },
+    "category": [
+        "RPG",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Blood and Gore",
+        "Mild Language",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Violence",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

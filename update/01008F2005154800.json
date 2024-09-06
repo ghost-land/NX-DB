@@ -1,4 +1,50 @@
 {
     "id": "01008F2005154800",
-    "version": 327680
+    "base_tid": "01008F2005154000",
+    "name": "South Park™: The Fractured but Whole™ - Standard Edition",
+    "description": "From the creators of South Park, Trey Parker and Matt Stone, comes South Park: The Fractured but Whole, a sequel to 2014's award-winning South Park: The Stick of Truth. Players will once again assume the role of the New Kid and join South Park favorites Stan, Kyle, Kenny and Cartman in a new hilarious and outrageous RPG adventure.\n\nIn South Park: The Fractured but Whole, players will delve into the crime-ridden underbelly of South Park with Coon and Friends. This dedicated group of crime fighters was formed by Eric Cartman whose superhero alter-ego, The Coon, is half man, half raccoon. As the New Kid, players will join Mysterion, Toolshed, Human Kite and a host of others to battle the forces of evil while Coon strives to make his team the most beloved superheroes in history.",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20221018,
+    "first_update_release_date": 20180422,
+    "latest_update_release_date": 20180813,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20180813
+    },
+    "versions": {
+        "65536": 20180422,
+        "131072": 20180524,
+        "196608": 20180717,
+        "262144": 20180730,
+        "327680": 20180813
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Action",
+        "Strategy"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Mature Humor",
+        "Nudity",
+        "Sexual Content",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
+    "region": null
 }

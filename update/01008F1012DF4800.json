@@ -1,4 +1,47 @@
 {
     "id": "01008F1012DF4800",
-    "version": 196608
+    "base_tid": "01008F1012DF4000",
+    "name": "Jigsaw Fun: Piece It Together!",
+    "description": "Jump into a relaxing puzzle alone or with up to 4 players. With hundreds of unique jigsaw puzzles, Jigsaw Fun has the largest library of images and jigsaws to enjoy. From cats & dogs to cityscapes, from beautiful nature scenes to colorful balls of yarn, piece together your favorite puzzles!\n\nFeatures:\n• 200+ unique jigsaw levels\n• Huge selection of high-quality puzzle images\n• Up to 4 player local multiplayer\n• Easy and accessible touch controls\n• Pick up where you left off with automatic save feature\n• 3 different piece counts (max. 300 pieces)\n• 8 different backgrounds to customize your game\n• Time challenge mode",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20201214,
+    "first_update_release_date": 20201214,
+    "latest_update_release_date": 20220720,
+    "latest_update": {
+        "version": "196608",
+        "release_date": 20220720
+    },
+    "versions": {
+        "65536": 20201214,
+        "131072": 20220413,
+        "196608": 20220720
+    },
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Board Game",
+        "Party"
+    ],
+    "intro": "Piece it together with up to 4 players, across 200+ unique puzzling levels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }

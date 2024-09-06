@@ -1,4 +1,37 @@
 {
     "id": "01008F3010752800",
-    "version": 65536
+    "base_tid": "01008F3010752000",
+    "name": "Arcade Archives XX MISSION",
+    "description": "“XX MISSION” is a shooting game released by UPL in 1986.\nWhile switching between air and ground attacks, take out the approaching large and small craft and large fleets.\nPowering up allows you to use different powerful air attacks and wider ranged ground attacks depending on the ship's form.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200124,
+    "first_update_release_date": 20240424,
+    "latest_update_release_date": 20240424,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240424
+    },
+    "versions": {
+        "65536": 20240424
+    },
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "Enemy bullets and missiles pour down like Heavy rain! Will you survive?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
+    "region": null
 }

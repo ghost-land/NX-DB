@@ -1,4 +1,36 @@
 {
     "id": "010090601EE66800",
-    "version": 131072
+    "base_tid": "010090601EE66000",
+    "name": "There's No Dinosaurs",
+    "description": "Feel like joining us in a theme park? Or maybe a museum? An office? There's No Dinosaurs offers a variety of different locations to look over and we'll be happy if you join us in our search - even if we don't expect it to be very effective, considering the dinosaurs do not exist!\n\nThere's No Dinosaurs is a hidden object game with a selection of 9 locations and random dinosaurs to find for each of them.\n- 9 different levels \n- 3 difficulty settings\n- replayable with 20 dinosaurs out of 60 selected for each play\n- hint system\n- zoom",
+    "publisher": "Error300 Games",
+    "developer": null,
+    "base_release_date": 20240430,
+    "first_update_release_date": 20240626,
+    "latest_update_release_date": 20240626,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20240626
+    },
+    "versions": {
+        "131072": 20240626
+    },
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Embark on a cute adventure in “There’s No Dinosaurs” - a relaxing hidden object game in which your objective is to locate randomly placed dinosaurs amongst nine cozy environments.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
+    "region": null
 }

@@ -1,4 +1,47 @@
 {
     "id": "010090400D366800",
-    "version": 327680
+    "base_tid": "010090400D366000",
+    "name": "Torchlight II",
+    "description": "Play Torchlight II and receive an exclusive pet Unicorn.\n\nTorchlight II takes you back into the quirky, fast-paced world of bloodthirsty monsters, bountiful treasures, and sinister secrets - and, once again, the fate of the world is in your hands.\n\nTorchlight II is fast, fun, and filled to the brim with action and loot. Adventure solo or form a party online with your friends.\n\nAction-Packed Multiplayer\nPlay co-op with up to 4 players online. Experiment with hero synergies and take on the fiercest opponents together, for the world’s most awesome loot.\n\nCustomizable Characters\nCreate and customize characters from one of four distinct classes. Each class can be played as male or female, and robust skillsets and equipment variety give tons of opportunity for unique builds.\n\nOpen, Dynamic World\nExplore vast overland areas and multiple hub towns. Fight through rain and snow, day and night. Level randomization ensures fresh new layouts, paths, loot, and monsters every time you play.\n\nPets and Fishing\nChoose how to empower your pet with special transforming consumables. Your pet can fight by your side or make a run to town to sell loot so you don’t have to.\n\nNew Game Plus\nOnce you've beaten Torchlight II's primary campaign, you can start again with the same character for a significantly greater challenge. You'll keep all of the skills, gold, and gear you worked so hard for.",
+    "publisher": "Gearbox Publishing SF",
+    "developer": null,
+    "base_release_date": 20190903,
+    "first_update_release_date": 20190905,
+    "latest_update_release_date": 20200514,
+    "latest_update": {
+        "version": "327680",
+        "release_date": 20200514
+    },
+    "versions": {
+        "65536": 20190905,
+        "131072": 20191001,
+        "196608": 20191202,
+        "262144": 20200220,
+        "327680": 20200514
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Multiplayer"
+    ],
+    "intro": "The award-winning action RPG is back, bigger and better than ever!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "01008F201838E800",
-    "version": 65536
+    "base_tid": "01008F201838E000",
+    "name": "BIRFIA",
+    "description": "BIRFIA is a couch fighting game where you battle with friends as one of the wobbly birdies inside an unfinished comic book. On top of an old apartment in Brooklyn, NY, you are going to punch (/throw/bomb/...) your opponents off the arena in various creative and risky ways to ensure your team (or yourself) is among the top BIRFIAs!\n\nP.S. If you ever wonder why you hear little footsteps running across your ceiling despite living on the top floor, now you know whom to blame ;D\n\nWhat To Expect:\n- Supports Local 1v1 and 2v2\n- Up to 4 different procedural animated player characters\n- 5 randomly spawned distinctive weapons\n- Tons of crazy and chaotic moments with your friends",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220922,
+    "first_update_release_date": 20220923,
+    "latest_update_release_date": 20220923,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20220923
+    },
+    "versions": {
+        "65536": 20220923
+    },
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Join this comic-style silly birdy fight!\nWith friends!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
 }

@@ -1,4 +1,34 @@
 {
     "id": "010090301A246800",
-    "version": 262144
+    "base_tid": "010090301A246000",
+    "name": "Ala Mobile - Formula Racing",
+    "description": "The most complete open wheel racing experience. \n- 16 real tracks from all over the world\n- Dynamic weather\n- Pit stops\n- Safety car\n- 10 different teams\n- Livery editor: design your own racing car!\n- Helmet editor: design your own helmets!\n- Online multiplayer\n- ...and everything you can desire from a racing game!",
+    "publisher": "CVi Games",
+    "developer": null,
+    "base_release_date": 20230303,
+    "first_update_release_date": 20230621,
+    "latest_update_release_date": 20240821,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20240821
+    },
+    "versions": {
+        "65536": 20230621,
+        "131072": 20231011,
+        "196608": 20240227,
+        "262144": 20240821
+    },
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "It's time to prove you are fast!",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [],
+    "region": null
 }

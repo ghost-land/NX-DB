@@ -1,4 +1,37 @@
 {
     "id": "01008FF00B8FA800",
-    "version": 65536
+    "base_tid": "01008FF00B8FA000",
+    "name": "Reverie: Sweet As Edition",
+    "description": "With restless spirits threatening the safety of Toromi Island’s inhabitants, Tai must venture through dangerous dungeons and across a variety of environments to put the spirits to rest. All in a summer holiday!\n\nReverie is an action adventure game set on a fictional island in New Zealand, inspired by the legend of Maui and the Giant Fish where the demigod himself fishes up the North Island with a powerful fishhook.\n\nFeatures:\n- Six dungeons to fight and puzzle your way through.\n- Use unique weapons and items to solve puzzles and defeat menacing bosses.\n- Explore varied environments and find the secrets of Toromi Island.\n- Collect hidden feathers from New Zealand’s many beautiful native birds.\n- Story inspired by a Maori legend.\n- Nightmare difficulty mode\n- New minigame\n- Quick select item wheel\n- In-game achievement system",
+    "publisher": "Rainbite",
+    "developer": null,
+    "base_release_date": 20190207,
+    "first_update_release_date": 20190221,
+    "latest_update_release_date": 20190221,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20190221
+    },
+    "versions": {
+        "65536": 20190221
+    },
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "DESTINY CALLS THE LEAST LIKELY OF HEROES\nSave an island in peril on a childhood holiday",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
+    "region": null
 }

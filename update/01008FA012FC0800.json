@@ -1,4 +1,37 @@
 {
     "id": "01008FA012FC0800",
-    "version": 65536
+    "base_tid": "01008FA012FC0000",
+    "name": "Crystal Ortha",
+    "description": "Today too, in the town tavern the crystal appraisers devote themselves to their business, in search of a far-off legend. Set off on a journey, with four allies who have the future on their shoulders, to find the legendary crystal mother lode!\n\nEnjoy solving puzzles in dungeons, and strike up conversations with the people around the world. Battles with bosses feature conversations, which might even give you some hints about tactics! Fill the skill slots with the skills you like to be prepared for strategic turn-based battles.\nFind the ores to craft weapons and search around pots and objects to get items for your adventure.\n\nWatch over the fate of the crystal seekers until the end of their journey!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20201218,
+    "first_update_release_date": 20240710,
+    "latest_update_release_date": 20240710,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240710
+    },
+    "versions": {
+        "65536": 20240710
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Search the mother lode of legend in a fantasy RPG with immersive pixels!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mature Themes",
+        "In-Game Purchases"
+    ],
+    "region": null
 }

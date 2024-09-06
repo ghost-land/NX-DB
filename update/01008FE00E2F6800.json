@@ -1,4 +1,47 @@
 {
     "id": "01008FE00E2F6800",
-    "version": 720896
+    "base_tid": "01008FE00E2F6000",
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "description": "The PIRATE WARRIORS series has successfully combined the popular anime ONE PIECE with the thrilling action of the WARRIORS series to create a worldwide phenomenon selling more than four million copies! Based on the concept of \"fighting hordes of enemies while adventuring with trusted allies,\" experience awesome ONE PIECE action lifted straight from the anime!\n\nONE PIECE: PIRATE WARRIORS 4 is the latest evolution of PIRATE WARRIORS action! Based on the concept of \"experiencing a real ONE PIECE battlefield,\" buildings will come crashing down during the action and attacks will throw up smoke and dust, placing you in the thick of the ONE PIECE world! Injecting fresh elements that couldn't be achieved in previous entries has now realized an even more thrilling brand of PIRATE WARRIORS action!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20240412,
+    "first_update_release_date": 20200324,
+    "latest_update_release_date": 20240328,
+    "latest_update": {
+        "version": "720896",
+        "release_date": 20240328
+    },
+    "versions": {
+        "65536": 20200324,
+        "131072": 20200719,
+        "196608": 20200922,
+        "262144": 20201215,
+        "327680": 20230719,
+        "393216": 20230912,
+        "458752": 20230919,
+        "589824": 20240110,
+        "655360": 20240207,
+        "720896": 20240328
+    },
+    "category": [
+        "Action"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Language",
+        "Suggestive Themes",
+        "Use of Alcohol and Tobacco",
+        "Violence",
+        "Users Interact"
+    ],
+    "region": null
 }

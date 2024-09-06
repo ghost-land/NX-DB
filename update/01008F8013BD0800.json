@@ -1,4 +1,35 @@
 {
     "id": "01008F8013BD0800",
-    "version": 131072
+    "base_tid": "01008F8013BD0000",
+    "name": "Maze with cube",
+    "description": "Maze with cube is a fun puzzle game where you need to guide your cube as you try to find the end of the maze. There are more than 100 levels to play through, each one with its own maze and unique gameplay challenges. You will need to test all your puzzle skills as you try to complete challenges and reach the next experience. \nAs you play, you will become better and better at puzzle games. Every new puzzle adds a higher level of difficulty, but it all increases gradually. So there’s a lot of fun to be had and a variety of exciting experiences for you to enjoy. All you have to do is to check out Maze with cube today!\nFeatures:\nGreat puzzle game experience\nGuide the cube to the end of the maze\nMore than 100 levels to play through\nSimplistic, minimalist graphics",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210104,
+    "first_update_release_date": 20210113,
+    "latest_update_release_date": 20210428,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20210428
+    },
+    "versions": {
+        "65536": 20210113,
+        "131072": 20210428
+    },
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Platformer"
+    ],
+    "intro": null,
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
 }
