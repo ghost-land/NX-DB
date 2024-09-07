@@ -1,11 +1,11 @@
 {
     "id": "010048300D5C2800",
     "base_tid": "010048300D5C2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "BATTLLOON",
+    "description": "BATTLLOON is a cute and casual PvP action game which pits you against your friends in a battle of bouncing balloons! Plays up to 4 players!\n\nThe rules are simple!\nAll you have to do is to bump other players into the spikes! May the best balloon win!\n\nWith its simple controls, anyone can play this bouncy game of battling balloons!\nFrom a unique point system allowing even beginners to have a chance at winning to a \"Ghost\" system where ousted players can still enact sweet revenge, BATTLLOON has something for balloons of all ages!",
+    "publisher": "UNTIES",
+    "developer": null,
+    "base_release_date": 20190228,
     "first_update_release_date": 20190227,
     "latest_update_release_date": 20190227,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20190227
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "A battle of bouncy balloons bumping it out!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

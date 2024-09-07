@@ -1,11 +1,11 @@
 {
     "id": "0100486016806800",
     "base_tid": "0100486016806000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "What Lies in the Multiverse",
+    "description": "What Lies in the Multiverse is a story-driven 2D adventure that one could call a dramatic comedy. Filled to the brim with hilarious, cartoonish hijinks, the narrative also presents the player with mature and deep themes like death, envy, and obsession. \n\nThings inevitably go batshit crazy very fast in the Multiverse when you discover the ability to travel between parallel worlds. These worlds are alternate versions of each level and differ in aesthetic, theme, and physicality. Switching between them allows you to solve logical and spatial challenges and to progress the story. \n\nSeamless Transformations\nWould you like to change the game world on the fly? Now you can! Can't reach a ledge? Bam! Switch worlds mid-air. Afraid of sliding around in an icy environment? Alternate to another universe for firmer ground! Just be careful when messing with gravity...\n\nDiverse World\nEmbark on a journey across a variety of gorgeous pixel-art worlds, each offering something unique. Explore temples, towns, harbors, the wilderness and more as you race to unlock the secrets of the Multiverse.\n\nColorful Cast of Characters\nMeet a bunch of quirky but compelling characters such as Everett, your eventual genius companion. Picture a sarcastic, eccentric Albert Einstein. Then there’s EZ, a mysterious figure everyone fondly remembers but can't describe. Or ZENITH, a group of enigmatic and shadowy figures always breathing down your neck.\n\nA Deeper Story\nWhile staying true to its light-hearted nature, the story's poignancy builds as you progress. A rollercoaster of laughter, joy, and sorrow awaits.",
+    "publisher": "Untold Tales",
+    "developer": null,
+    "base_release_date": 20220305,
     "first_update_release_date": 20220303,
     "latest_update_release_date": 20220816,
     "latest_update": {
@@ -17,11 +17,29 @@
         "131072": 20220622,
         "196608": 20220816
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "A dimension-shifting, comedic adventure about worlds turned inside out.\n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Drug Reference",
+        "Violence"
+    ],
     "region": null
 }

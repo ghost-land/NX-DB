@@ -1,11 +1,11 @@
 {
     "id": "010048801AADE800",
     "base_tid": "010048801AADE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pocket Penguin DX: A Retro Style Adventure",
+    "description": "Travel back in time, with this game that will remind you how important it is to have courage to face the adversities that come your way.\nThroughout action-color scenarios, meet Pichi , a blue penguin who thanks to his small size and incredible swimming ability has been sent on an adventure to return home.\nWith  lovely and original pixel art mixed with music comes directly from the portable device, explore impossible worlds for a penguin, from a hot desert to a coral reef, fight enemies, solve puzzles and take on Nanuk, the pirate polar bear that attacked your ship.\nPocket Penguin DX on Nintendo Switch™ have extra features:\n- New Mini Games \n- New color palettes (up to 19)\n- 3 Modes of difficulty.\n-  Costumes\n- Play in portable mode to experience the real deal.\n\nPocket Penguin DX, without a doubt, a platformer adventure that will remind you of the portable device era.\n\n",
+    "publisher": "Dog Biscuit Studios",
+    "developer": null,
+    "base_release_date": 20230329,
     "first_update_release_date": 20230411,
     "latest_update_release_date": 20230523,
     "latest_update": {
@@ -17,11 +17,18 @@
         "131072": 20230417,
         "196608": 20230523
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "A retro style videogame that tell us the story of a blue penguin that got lost in the sea after the attack of a pirate ship.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

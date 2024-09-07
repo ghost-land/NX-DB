@@ -1,11 +1,11 @@
 {
     "id": "0100484014C12800",
     "base_tid": "0100484014C12000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SUPER UFO FIGHTER",
+    "description": "The space sport \"SUPER UFO FIGHTER\" is all the rage in the galaxy.\nAnd UFO pilots, known as Shuforians, are battling it out today!\n\n◆Shuforians compete in intense 1v1 battles for supremacy!\nDeposit the \"target\" item into your goal to score.\nThe key to victory is to control the stage items!\nUse your shwoop beam to collect the target before your rival and bring it home!\nOr use the beam to intercept, throw, and attack your opponent!\nAnything goes when trying to get the prize!\nUse the stage gimmicks and special items to your advantage to win!\n\n◆Play alone, or together with friends online!\nOr hand a Joy-Con™ to a friend to play local battles!\nMultiple modes and settings for online play!\n\n◆And much more!\nNeed to practice? Jump in the training mode to study new UFOs. Or check your progress as a Shuforian in the Collection Mode!",
+    "publisher": "Phoenixx",
+    "developer": null,
+    "base_release_date": 20220714,
     "first_update_release_date": 20220622,
     "latest_update_release_date": 20230714,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20220622,
         "131072": 20230714
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Party",
+        "Other"
+    ],
+    "intro": "UFO vs UFO !?\nUFO Catcher Battle in a Whirlwind of Prizes!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }

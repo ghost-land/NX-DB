@@ -1,11 +1,11 @@
 {
     "id": "0100487012CC6800",
     "base_tid": "0100487012CC6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Last Days",
+    "description": "Can you defeat the enemy and save the earth? An ancient enemy returns and the fate of the world is in your hands when you play The Last Days. Learn about the mysteries of the Bermuda Triangle, and discover clues left by advanced civilizations eons ago.\n\nYou're long overdue for a vacation, so you head out to the Bahamas looking for the refreshment of sun, sea, and sand. Your diving excursions reveal mysterious artifacts strangely out of place. Can you piece together the clues in time? \n",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20201001,
     "first_update_release_date": 20201203,
     "latest_update_release_date": 20210929,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20201203,
         "131072": 20210929
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004800160C8800",
     "base_tid": "01004800160C8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "My Last First Kiss",
+    "description": "The Story:\nEven after all these years, you haven’t forgotten about your first love.\nYou try confessing your feelings to him, but he turns you down.\nLuckily the friends you grew up with are there to help mend your broken heart…\nuntil that night, when you become more than just friends…\n\nCharacters:\nAyato Hidaka    　　\"The Likeable Popular Guy\"\nIchiya Misono          \"The Unfriendly Lone Wolf\"\nMakoto Morimachi    \"The Loyal Older Brother\"\nTakamune Kitami     \"The Passive Soccer Player\"\nRiku Morimachi        \"The Quiet Younger Brother\"\n\nContents:\nIncludes \"Main Stories\" in the app \"Love 365: Find Your Story,\" up until \"Delivering the News\" ",
+    "publisher": "Voltage",
+    "developer": null,
+    "base_release_date": 20211125,
     "first_update_release_date": 20211205,
     "latest_update_release_date": 20211205,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20211205
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "From now on, we're more than friends.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Language",
+        "Nudity",
+        "Sexual Content"
+    ],
     "region": null
 }

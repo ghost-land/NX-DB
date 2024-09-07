@@ -1,11 +1,11 @@
 {
     "id": "01004840086FE800",
     "base_tid": "01004840086FE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "NORTH",
+    "description": "In NORTH you play a man who applies for asylum in a city filled with strange creatures and strange customs.\n\nDealing with the issue of the contemporary refugee crisis while at the same time being deeply rooted in a classical cyberpunk atmosphere, NORTH features a dark synthpop soundtrack, a sprawling mega-city and weird monster-like inhabitants. \n\nThe gameplay is very straightforward and mostly consists of exploration and simple puzzles. The main difficulty is to understand what you have to do in order to get asylum. You've come from an foreign land in the south and find yourself lost and confused - a confusion you convey through letters to your sister back home. An important part of the gameplay, these letters help you understand your tasks while at the same time moving the narrative of the game forward.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180307,
     "first_update_release_date": 20180326,
     "latest_update_release_date": 20180903,
     "latest_update": {
@@ -17,11 +17,19 @@
         "131072": 20180410,
         "196608": 20180903
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010047A01754E800",
     "base_tid": "010047A01754E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "League of Enthusiastic Losers",
+    "description": "FRIENDSHIP WITH HURDLES\nVitya and Volodya - two best friends and heroes of our story - swim with a struggle in everyday life and try to stay afloat. Facing an eviction, they decide to find a treasure that will help with debt repayment. \n\n In the course of the adventure, they will meet many new friends, witnessing unaverage (or in the eyes of some very average) events for a typical housing complex. \n\nNOSTALGIA LETTER TO THE 90S\nTake a stroll in the red and white trolley on the streets of former USSR Moscow. Face the problems of a young generation of liberated, though not entirely free, Russia. Learn about the everyday life in the neighbourhood.\n\n Experience the bittersweet taste of finding yourself in adulthood.\n\nA CHARMING REAL-LIFE STORY\nDecide the fate of your heroes and guide them towards happily ever after. Thanks to the charming graphics you will be transported straight back to the time when the internet was a western invention.\n\n A warm and enveloping soundtrack will put you in the mood for an emotional voyage. \n \n\nKEY FEATURES:\n\n- An adventure about the power of friendship and overcoming obstacles in life\n- 90's atmosphere with the location of the story in the former USSR Moscow\n- Stories of the residents who lived on housing estates of concrete blocks\n- Many nostalgic references to Eastern European culture of the 90s\n- Stylized graphics and atmospheric soundtrack\n",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20220923,
     "first_update_release_date": 20220919,
     "latest_update_release_date": 20230626,
     "latest_update": {
@@ -16,11 +16,21 @@
         "65536": 20220919,
         "131072": 20230626
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other",
+        "Simulation"
+    ],
+    "intro": "Just because others call you a loser, doesn't mean you are one. Make the journey to the 90s Moscow and experience an adventure about friendship and finding your true self. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language"
+    ],
     "region": null
 }

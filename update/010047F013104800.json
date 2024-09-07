@@ -1,11 +1,11 @@
 {
     "id": "010047F013104800",
     "base_tid": "010047F013104000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Outbreak",
+    "description": "Explore a nightmarish environment, scrounge for supplies, and battle the undead in Outbreak -- a hardcore survival horror game. The clock never stops as you attempt to manage an extremely limited inventory with a murderous horde on the hunt. Choose between acquiring additional weapons, healing items, or necessary tools for progression. Play through the Campaign and Onslaught Modes alone or with a friend in local co-op, including the option for AI teammates. Also experience small survivor horror vignettes in the Nightmares mode. You have only one life. Make it count!",
+    "publisher": "Dead Drop Studios",
+    "developer": null,
+    "base_release_date": 20201119,
     "first_update_release_date": 20220720,
     "latest_update_release_date": 20220813,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20220720,
         "131072": 20220813
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "Race against the clock and battle the undead in this hardcore co-op survival horror nightmare.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
     "region": null
 }

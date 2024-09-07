@@ -1,11 +1,11 @@
 {
     "id": "010048800D95C800",
     "base_tid": "010048800D95C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Car Mechanic Manager",
+    "description": "Buy used cars, repair and sell them. Do you want to earn more? Find out about trends and Pimp cars before selling. New spoilers? Special painting? Or maybe engine tuning? In Car Mechanic Manager everything this is possible!\n\nGame Features:\n\n    8 types of cars\n    5 types of buildings\n    14 kinds of services\n    40 levels of upgrades\n    37 special tasks to perform\n    The system of changing Trends\n    More than a million combinations of visual cars\n    Unlimited expansion of the company\n    Purchase and rental of billboards advertising space",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20190507,
     "first_update_release_date": 20190606,
     "latest_update_release_date": 20190606,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20190606
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Do you love cars? Do you like to take care of them?\nWashing, cleaning, waxing, colour change, all the wishes of your customers!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

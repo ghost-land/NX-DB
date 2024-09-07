@@ -1,11 +1,11 @@
 {
     "id": "010047F01AA10800",
     "base_tid": "010047F01AA10000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
+    "description": "Metal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series.\n\nThe game is set in a deep jungle environment.\nSnake must find his equipment and use various camouflage which allows the player to deceive the enemy's eyes and face paint that matches the surrounding environment, providing a unique stealth gameplay experience.\n\nThe game is also packed with new action elements which allow players to capture jungle animals for food and to regain stamina, and Close Quarters Combat (CQC), a combat system based on martial arts for fighting enemies at close range. \n\nAn exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 3: Snake Eater are also included.\n\n[Title lineup]\nMetal Gear Solid 3: Snake Eater (HD Collection version)\n\nRegional versions of the titles are available as additional downloads.\n\n[Digital book]\nMetal Gear Solid 3: Screenplay Book\nMetal Gear Solid 3: Master Book\n\nThe digital books can be accessed from the game's main menu screen.",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20231024,
     "first_update_release_date": 20231022,
     "latest_update_release_date": 20240619,
     "latest_update": {
@@ -19,11 +19,24 @@
         "524288": 20240328,
         "589824": 20240619
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "Tactical Espionage Action",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010047E010B3E800",
     "base_tid": "010047E010B3E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fight of Animals",
+    "description": "Meme Animals such as Power Hook Dog, Mighty Fox, Magic Squirrel, and more have now become Fighters!! \nSimple Controls & Funny Animals & Exciting Battles!!! \nChoose your favorite animal and join the fight!! \nPlayers can fight through arcade mode to become the King of Animals!",
+    "publisher": "Digital Crafter",
+    "developer": null,
+    "base_release_date": 20200409,
     "first_update_release_date": 20200423,
     "latest_update_release_date": 20240205,
     "latest_update": {
@@ -22,11 +22,24 @@
         "458752": 20231222,
         "524288": 20240205
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Fighting",
+        "Action",
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "The most adorable Fighting Game EVER!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Crude Humour",
+        "Mild Violence"
+    ],
     "region": null
 }

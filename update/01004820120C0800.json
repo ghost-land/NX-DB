@@ -1,11 +1,11 @@
 {
     "id": "01004820120C0800",
     "base_tid": "01004820120C0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "BallzOut",
+    "description": "*Please note this game is primarily designed for two players*\n\nSimple, competitive, and absolutely loads of fun, BallzOut is the Ball flinging/smashing game you have been waiting for. It's a bit like Lawn Bowls, a bit like Air Hockey and a lot like absolute nonsense. \n\nTake it in turns to roll your Ballz into the scoring zone - do you tactically place your Ballz in an area your opponent cannot reach or attempt to smash their Ballz out of the scoring zone? Tough one.\n\nOver three rounds and with the help of such powers ups as Big Ballz and Sticky Ballz, can you outwit and outmaneuver your opponent to become the BallzOut Champion?   ",
+    "publisher": "4MB Interactive",
+    "developer": null,
+    "base_release_date": 20200831,
     "first_update_release_date": 20200907,
     "latest_update_release_date": 20220102,
     "latest_update": {
@@ -17,11 +17,19 @@
         "131072": 20211222,
         "196608": 20220102
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Sports",
+        "Multiplayer"
+    ],
+    "intro": "Keep your Ballz in, get your opponent's out! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

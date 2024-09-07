@@ -1,11 +1,11 @@
 {
     "id": "0100485012F1C800",
     "base_tid": "0100485012F1C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "スーパー野田ゲーPARTY",
+    "description": "野田クリスタルの『野田ゲー』18作品を詰め込んだパーティーゲーム『スーパー野田ゲーPARTY』がNintendo Switchに登場。\nルールも簡単で、子供から大人まで誰でも遊べてしまうゲームです。どことなく最近のゲームに疲れたと思っているあなたにうってつけ！\n",
+    "publisher": "吉本興業",
+    "developer": null,
+    "base_release_date": 20210429,
     "first_update_release_date": 20210520,
     "latest_update_release_date": 20210818,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20210520,
         "131072": 20210818
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "パーティー",
+        "アクション",
+        "テーブル",
+        "パズル"
+    ],
+    "intro": "子供から大人まで楽しめる！？\n一生遊べる超面白パーティーゲームが完成！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }
