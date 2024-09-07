@@ -1,11 +1,11 @@
 {
     "id": "010045E01D140800",
     "base_tid": "010045E01D140000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "3in1 Game Collection: Backgammon + Checkers + Mills",
+    "description": "Backgammon, checkers and mills are among the oldest strategic games in the world and are played around the globe. They require concentration, strategic thinking and a bit of luck with the dice. Lovingly designed game boards and the option of adapting the rules to your own habits ensure fun and variety. \nThe popular board game classics for two players are ideal for grey rainy days, cosy game evenings or simply as a pastime. If you don't have a game partner, you can play challenging games against artificial intelligence. An entertaining collection of games for all ages!\n\n• Game boards with different looks\n• Customisable rules\n• In pairs or alone against the AI",
+    "publisher": "TREVA",
+    "developer": null,
+    "base_release_date": 20231225,
     "first_update_release_date": 20231222,
     "latest_update_release_date": 20240202,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20231222,
         "131072": 20240202
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Board Game",
+        "Multiplayer",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Discover three exciting board games!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }

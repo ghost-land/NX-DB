@@ -1,11 +1,11 @@
 {
     "id": "01004680126BC800",
     "base_tid": "01004680126BC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Toy Soldiers HD",
+    "description": "Command from above or take direct control below. Lead your  foot soldiers, cavalry, tanks and planes to victory. Deploy an exciting arsenal of guns, gas, howitzers, mortars, troops, flamethrowers and vehicles to protect your Toybox in vintage WWI toy dioramas.\n\nToy Soldiers is a multi-genre action-strategy game in which players command antique WWI toy soldiers vying for control of the trench-filled diorama battlefields of Europe. The original classic has been overhauled and upgraded with new content, skins, gameplay, expanded game modes, improved controls and graphical upgrades. We’ve also included all  the original DLC and a few new levels as well! ",
+    "publisher": "Accelerate Games",
+    "developer": null,
+    "base_release_date": 20230101,
     "first_update_release_date": 20221123,
     "latest_update_release_date": 20221123,
     "latest_update": {
@@ -15,11 +15,30 @@
     "versions": {
         "131072": 20221123
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Strategy",
+        "Multiplayer"
+    ],
+    "intro": "Re-enlist with Toy Soldiers HD and experience the award-winning hit updated for a whole new generation!  ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Themes",
+        "Scary Scenes"
+    ],
     "region": null
 }

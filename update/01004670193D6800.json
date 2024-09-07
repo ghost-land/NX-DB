@@ -1,11 +1,11 @@
 {
     "id": "01004670193D6800",
     "base_tid": "01004670193D6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "description": "In a time where people are isolated from each other, Coffee Talk is a place where we can reconnect over a cup of warm drink.\n\nIt’s time to revisit your favorite late-night coffee shop and reconnect with your fantasy friends over a warm drink or two. You are a barista, and your customers aren't always humans, listen to their stories and influence their hearts with a warm cup of coffee or two.\n\n*Brew Warm Drinks\nMix a combination of ingredients, such as tea, ginger, mint, chocolate, coffee and many more. Experiment and uncover secret recipes, change people’s lives by serving drinks that will warm their hearts.\n*Create Latte-Art Masterpieces\nShow your creativity, draw your own latte-art masterpiece with our in-game fluid simulation to decorate your drinks.\n*Chill Lo-fi Atmosphere\nImmerse yourself in the relaxing coffee shop atmosphere. It’s raining outside, brew yourself a warm drink, play that lo-fi chillhop beats, and listen to the coffee talk.\n*Urban Fantasy Cappuccinopunk\nSet in an alternate present-day Seattle where humans, orcs, elves, and other races have been coexisting since the beginning of time. Explore the world through the stories told by your customers one cup at a time.\n*Hangout With a Diverse Cast\nMeet quirky and interesting characters, such as; Baileys the elf freelance graphic designer, Lua, the succubus bisdev executive, Myrtle the orc game developer, and more. Listen to their stories and influence them with a warm drink or two!",
+    "publisher": "Chorus Worldwide Games",
+    "developer": null,
+    "base_release_date": 20230420,
     "first_update_release_date": 20230417,
     "latest_update_release_date": 20230919,
     "latest_update": {
@@ -17,11 +17,26 @@
         "131072": 20230621,
         "196608": 20230919
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A coffee-brewing and heart-to-heart talking simulation.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Language",
+        "Mild Suggestive Themes",
+        "Use of Tobacco"
+    ],
     "region": null
 }

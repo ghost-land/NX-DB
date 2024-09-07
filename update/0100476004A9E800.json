@@ -1,11 +1,11 @@
 {
     "id": "0100476004A9E800",
     "base_tid": "0100476004A9E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Puzzle Box Maker",
+    "description": "Let your fantasy run wild and get creating and uploading your own amazing Pixel Arts to the cloud.\nBrowse the online gallery and play automatically created, challenging levels from any user-generated image.\nRedraw your image in paint-by-numbers style or use it as a level to play action mini games within it.\n\n\n☺ Paint and share pixel arts online\n☺ Get cloud coins through user votes for a top ranking\n☺ Play action mini games with your pixel art\n☺ Get new images and levels weekly\n☺ over 100 levels - Download more pixel arts from the gallery\n☺ Paint and play with up to 3 friends simulatenously\n☺ Extremely colorful and very family friendly\n☺ Over 30 different kinds of vibrations with HD Rumble\n☺ Nintendo Switch™ Pro Controller, JoyCon™ and Touch Screen support\n\n☺ Content will grow and optimized through updates\n",
+    "publisher": "Bplus",
+    "developer": null,
+    "base_release_date": 20171222,
     "first_update_release_date": 20190322,
     "latest_update_release_date": 20190529,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20190322,
         "131072": 20190529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "Platformer",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "We love Pixel art! Paint them, Share them and Play with them like never before - only on Nintendo Switch™!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
     "region": null
 }

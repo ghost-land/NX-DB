@@ -1,11 +1,11 @@
 {
     "id": "0100470016C10800",
     "base_tid": "0100470016C10000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pixel Game Maker Series Arcanion: Tale of Magi",
+    "description": "Magi is a girl of great promise, having recently entered training to become one of the defenders of the land, a Warrior of Arcanion.\n\nHowever, the great abbey is attacked while Magi is out on her first mission!\nWho would dare attack the Warriors of Arcanion in their seat of power, and what does this assailant want to do with the mysterious Dark Tome?\n\nBegin to explore the world of Arcanion in this classically styled action-platform experience!\nUnlock new powers, explore the various levels in any order you choose, and help Magi recover the Dark Tome!\nPlay in either the classically difficult Hard Mode, or in the more forgiving Normal Mode! \n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch™.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20220217,
     "first_update_release_date": 20220508,
     "latest_update_release_date": 20220902,
     "latest_update": {
@@ -16,11 +16,19 @@
         "65536": 20220508,
         "131072": 20220902
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Rise to the Challenge and Become a Warrior of Arcanion!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

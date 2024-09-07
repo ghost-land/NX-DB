@@ -1,11 +1,11 @@
 {
     "id": "010046B00DE62800",
     "base_tid": "010046B00DE62000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Skullgirls 2nd Encore",
+    "description": "Skullgirls 2nd Encore is a beautiful, fast-paced, and critically acclaimed 2D fighting game that puts players in control of fierce warriors in an extraordinary Dark Deco world. Each of the 14 wildly original characters features unique gameplay mechanics and plenty of personality.\n\nSkullgirls is the perfect fighting game for casual and competitive fighting game fans alike. Includes fully voiced story mode, gorgeous animation, and a soundtrack by Michiru Yamane.",
+    "publisher": "Autumn Games",
+    "developer": null,
+    "base_release_date": 20220103,
     "first_update_release_date": 20191021,
     "latest_update_release_date": 20240622,
     "latest_update": {
@@ -24,11 +24,28 @@
         "655360": 20240528,
         "720896": 20240622
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Fighting",
+        "Arcade"
+    ],
+    "intro": "The ultimate Skullgirls experience! Featuring 14 hand-animated characters, fully voiced story mode, countless palettes, and unparalleled GGPO-based multiplayer netcode. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood and Gore",
+        "Mild Language",
+        "Partial Nudity",
+        "Suggestive Themes",
+        "Use of Tobacco",
+        "Violence",
+        "Users Interact"
+    ],
     "region": null
 }

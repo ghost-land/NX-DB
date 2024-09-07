@@ -1,11 +1,11 @@
 {
     "id": "010046000EE40800",
     "base_tid": "010046000EE40000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Call of Cthulhu",
+    "description": "Call of Cthulhu, the official videogame inspired by Chaosium's classic pen and paper RPG, brings you deep into a world of creeping madness and shrouded Old Gods within Lovecraft's iconic universe. \n\n1924. Private Investigator Pierce is sent to look into the tragic death of the Hawkins family on the isolated Darkwater Island. Soon enough, Pierce is pulled into a terrifying world of conspiracies, cultists, and cosmic horrors. Nothing is as it seems. Sanity is an irregular bedfellow, all too often replaced by whisperings in the dark. Strange creatures, weird science, and sinister cults dominate the Cthulhu Mythos, intent on realizing their mad schemes to bring about the end of everything.\n \nYour mind will suffer - between sanity and psychosis, your senses will be disrupted until you question the reality of everything around you. Trust no one. Slinking shadows hide lurking figures… and all the while, the Great Dreamer prepares for his awakening.",
+    "publisher": "Focus Entertainment",
+    "developer": null,
+    "base_release_date": 20211014,
     "first_update_release_date": 20190828,
     "latest_update_release_date": 20200113,
     "latest_update": {
@@ -17,11 +17,29 @@
         "131072": 20190916,
         "196608": 20200113
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "WALK THE PATH OF MADNESS",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Strong Language",
+        "Use of Alcohol"
+    ],
     "region": null
 }

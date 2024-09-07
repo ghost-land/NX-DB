@@ -1,11 +1,11 @@
 {
     "id": "0100461007BB0800",
     "base_tid": "0100461007BB0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Black Hole",
+    "description": "Black Hole is an arcade-style twin-stick shooter in space. Choose your ship and embark on a dangerous and action packed flight through multiple black holes. Shoot everything you can see and collect everything you can find.\n\nFeatures:\n- 40 levels spread across 4 worlds\n- 3 upgradable ships\n- HD rumble\n- full support for touch controls\n- also motion controls and IR controls for fun\n- speedrun mode and leaderboards\n- colorblind mode",
+    "publisher": "Dufgames",
+    "developer": null,
+    "base_release_date": 20180207,
     "first_update_release_date": 20180626,
     "latest_update_release_date": 20190215,
     "latest_update": {
@@ -18,11 +18,21 @@
         "196608": 20181204,
         "262144": 20190215
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "An action-packed space shooter.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes"
+    ],
     "region": null
 }

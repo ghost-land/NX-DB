@@ -1,11 +1,11 @@
 {
     "id": "010046400F310800",
     "base_tid": "010046400F310000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Music Racer",
+    "description": "Rush along futuristic, neon tracks. Gather beats, catch the rhythm.\nThe racetrack is created in real time based on the game's music tracks. The speed and mood of each run are determined by the compositions chosen. Obstacles and awards are generated from the music. Get into the rhythm and collect as many points as possible.\n\nFeatures:\n- 14 levels\n- 25 cars with the ability to customize them\n- Beautiful neon, Retrowave style graphics\n- 4 game modes\n- Music library",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200130,
     "first_update_release_date": 20200207,
     "latest_update_release_date": 20200219,
     "latest_update": {
@@ -16,11 +16,21 @@
         "65536": 20200207,
         "131072": 20200219
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Music",
+        "Party",
+        "Racing"
+    ],
+    "intro": "Music Racer is the dynamic rhythm game loved by millions of players around the world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

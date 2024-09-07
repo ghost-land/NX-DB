@@ -1,11 +1,11 @@
 {
     "id": "0100471018F60800",
     "base_tid": "0100471018F60000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Blaloon Blalympia 2",
+    "description": "After the great fun with BLALOON BLALYMPIA PART ONE, now comes the next level: BLALOON BLALYMPIA PART TWO. With even more party game fun action and a significantly improved look and feel for your favorite console. \nIn seven exciting mini-games all your skills will be challenged again: reaction speed, tactical skills and brains…\nWhether for big kids or little kids – younger and young at heart: Blaloon Blalympia transforms your Nintendo Switch™ system into a blatastic game-sport-fun machine for the whole family! ",
+    "publisher": "Swinging Lama",
+    "developer": null,
+    "base_release_date": 20221007,
     "first_update_release_date": 20220923,
     "latest_update_release_date": 20230125,
     "latest_update": {
@@ -17,11 +17,19 @@
         "131072": 20221010,
         "196608": 20230125
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "The next chapter of our crazy party game fun for families and friends: Slip into the role of a blathlete and win the second part of the blatastic Blalympic Games on Blanet Blaloonia! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "de"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010046E01E252800",
     "base_tid": "010046E01E252000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Squirrel Stapler",
+    "description": "Originally created as part of The Dread X Collection II, Squirrel Stapler is a short (less than an hour long) horror hunting simulator that satirizes low budget edutainment games with pitch black humor and panic-inducing absurdist horror.\n\nA lonely man living in a remote cabin wakes up one day and realizes his beloved--a dismembered corpse nailed to the cabin wall--has been made ugly and rotten by the flies that swarm her. He wishes she were beautiful, like the squirrels of the wood. And so he sets out to hunt the squirrels of the wood, so that he might staple them to her and make her beautiful again.\n\nBut that is easier said than done. A sinister presence lurks in the deep forest, and it has only one rule: \"Thou shalt not staple squirrels!\"",
+    "publisher": "Ducky Dev Games",
+    "developer": null,
+    "base_release_date": 20240222,
     "first_update_release_date": 20240222,
     "latest_update_release_date": 20240222,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "131072": 20240222
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
     "region": null
 }

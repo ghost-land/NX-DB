@@ -1,11 +1,11 @@
 {
     "id": "01004670143D8800",
     "base_tid": "01004670143D8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Magical Maze",
+    "description": "Magical Maze is an engaging, fun game where you need to guide the coin from the beginning of the maze and up until the end. The way you play is you use Joy-Con™ controllers and then guide the coin towards the end. There are multiple different options, so you really have to figure out what works for you and what feature gives you the best value and experience here.\nMagical Maze comes with minimalist graphics, and you will get to experiment in multiple ways as you try to complete every level. With 10 levels and 270+ stages, there are always challenges to encounter, you just have to check it out and see how far you can go.\nFeatures:\n10 levels, 270 stages to play through\nEndless level buildup\nReload the level with a new solution\nGreat, simple visuals",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210204,
     "first_update_release_date": 20210428,
     "latest_update_release_date": 20210428,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210428
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Platformer"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010046601125A800",
     "base_tid": "010046601125A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "風雨来記4",
+    "description": "2021年をもって第1作の発売から20周年を迎える『風雨来記』シリーズの4作目。\n実写の美しい風景のなかバイクで旅し、時に女の子と出会うアドベンチャーゲームとして、根強い人気を得ています。\n本作では、360度カメラで撮影された全方位の景色を楽しめ、よりリアルなバイク旅が楽しめます。\n",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20210708,
     "first_update_release_date": 20210630,
     "latest_update_release_date": 20220307,
     "latest_update": {
@@ -18,11 +18,18 @@
         "196608": 20220120,
         "262144": 20220307
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "キミの知らない、日本の真ん中へ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "恋愛",
+        "セクシャル"
+    ],
     "region": null
 }

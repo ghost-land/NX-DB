@@ -1,11 +1,11 @@
 {
     "id": "010046801537E800",
     "base_tid": "010046801537E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Find 10 Differences",
+    "description": "Find the differences games can be very interesting for everyone, especially kids! In this game, there are 25 levels in total. In each level, you see two versions of one image and have to find the 10 differences between them by touching on these spots. There is also a timer that your final score is based on it (the highest is 3 stars). Note that wrong clicks will also reduce your time and final score, so think carefully before deciding! All the games images are cute and cartoon images of animals, robots, monsters and cartoons which make the game even more interesting for kids!",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210602,
     "first_update_release_date": 20211011,
     "latest_update_release_date": 20211011,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20211011
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Education",
+        "Puzzle",
+        "Board Game",
+        "Other"
+    ],
+    "intro": "Can you spot the 10 differences ?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010047401ACB2800",
     "base_tid": "010047401ACB2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "No One Lives Under the Lighthouse",
+    "description": "You’re alone on this rock, just a lighthouse and the seagulls to keep you company.\n\nNothing else… at least you’re pretty sure that’s it…\n\nThe previous lighthouse keeper has gone missing without a trace and you are the newest keeper tasked with keeping the lighthouse lit every night. Keep your sanity from slipping on this desolate rock in the middle of the ocean, and don’t give in to hallucinations. Let it be a calming reminder that it's just you here, because No One Lives Under the Lighthouse.\n",
+    "publisher": "Puppet Combo",
+    "developer": null,
+    "base_release_date": 20230518,
     "first_update_release_date": 20230608,
     "latest_update_release_date": 20230608,
     "latest_update": {
@@ -15,11 +15,28 @@
     "versions": {
         "65536": 20230608
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "The cult slow burn horror hit No One Lives Under the Lighthouse from Marevo Collective is launching on Nintendo Switch™ with updated features!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Use of Alcohol",
+        "Violence"
+    ],
     "region": null
 }

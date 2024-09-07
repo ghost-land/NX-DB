@@ -1,11 +1,11 @@
 {
     "id": "0100479008552800",
     "base_tid": "0100479008552000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Monster Energy Supercross - The Official Videogame (モンスターエナジースーパークロス　オフィシャルビデオゲーム)",
+    "description": "Daytonaを含む公式トラックや250SXと450SXの公式ライダーでの白熱したレースを再現。\n80種類を超える公式ブランドと300種類のアイテムでライダーとマシンをカスタマイズ。\nランキングのトップを目指し、史上最高のレースの興奮を味わおう！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20180322,
     "first_update_release_date": 20180411,
     "latest_update_release_date": 20180411,
     "latest_update": {
@@ -15,11 +15,17 @@
     "versions": {
         "65536": 20180411
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "レース",
+        "スポーツ",
+        "シミュレーション"
+    ],
+    "intro": "2017年の公式Monster Energy Supercross選手権の興奮を体感せよ。",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

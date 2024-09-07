@@ -1,11 +1,11 @@
 {
     "id": "010046F012A04800",
     "base_tid": "010046F012A04000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Chinese Parents",
+    "description": "This is probably the most heart-warming simulation game you have ever played.\nAs a child born in an ordinary family, there is a journey ahead of you, a journey of growth from birth to adult——\nFaced with the choices in life, how would you respond?\nFaced with the talented kids, can you stand out?\nFaced with your true love, how would you deal with your heart...\nThe most important thing is that in this era of rapid development, how many generations will you need?",
+    "publisher": "Coconut Island Games",
+    "developer": null,
+    "base_release_date": 20200820,
     "first_update_release_date": 20200819,
     "latest_update_release_date": 20200918,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20200819,
         "131072": 20200918
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Simulation",
+        "RPG",
+        "Lifestyle"
+    ],
+    "intro": "From birth to adult, explore the relationship between children and parents.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
     "region": null
 }

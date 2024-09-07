@@ -1,11 +1,11 @@
 {
     "id": "010046500C8D2800",
     "base_tid": "010046500C8D2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Among the Sleep - Enhanced Edition",
+    "description": "In the enhanced edition of this award-winning first person horror adventure, you step into the pyjamas of a two year old child creeping through a dark and distorted house. Find your missing mother as you wander through sinister and surreal surroundings ranging from a haunting playground to a lakeside cottage, with only a teddy bear by your side for comfort. Will you survive long enough to unravel the family secret and make it to the end of this pitch-black nightmare? \n\nFeatures:\nEnhanced edition with new dialogue, better performance & visuals and more\nPut the pieces of the puzzle together to find out what has happened to your mother\nCreep through threatening environments like a twisted forest and a dark house\nUnravel a disturbing story filled with tension, symbolism and psychological horror\n",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20230914,
     "first_update_release_date": 20190814,
     "latest_update_release_date": 20210722,
     "latest_update": {
@@ -16,11 +16,30 @@
         "65536": 20190814,
         "131072": 20210722
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "In the nightmarish first-person horror game Among the Sleep, you play as a defenseless toddler, roaming around the house to find your missing mom.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

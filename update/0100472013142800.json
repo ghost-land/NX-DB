@@ -1,11 +1,11 @@
 {
     "id": "0100472013142800",
     "base_tid": "0100472013142000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "CrossKrush",
+    "description": "Henry & Florence are a happily married couple, they enjoy music & have been dancing all their lives. But now, a noisy highway has been built right in front of their home, disrupting their harmonious lifestyle.\n\nDefend your peaceful abode by blowing up as many cars in a row as possible, or whack and hack at them with your cane to finish them off.\n\nBattle wave after wave of oncoming traffic as the challenge increases.\n\nFeatures:\n* Simple & intuitive controls\n* 10 levels with 10 puzzles each, for a total of 100 challenges!\n* Local multiplayer action: play with a friend, or against a friend\n* 2 different characters to choose from, with several customization options\n* Catchy jazz music",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20201024,
     "first_update_release_date": 20211203,
     "latest_update_release_date": 20211203,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20211203
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "intro": "Help this sweet elderly couple defend their home by blowing up cars!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }
