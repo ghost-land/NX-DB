@@ -1,11 +1,11 @@
 {
     "id": "01004A101E25C800",
     "base_tid": "01004A101E25C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Make it! Taiyaki",
+    "description": "Let's make taiyaki on the Nintendo Switch™!\nUse the special grill well and cook up some delicious taiyaki!\nShare Joy-Con™ and play with up to 4 players!\nReach for the ultimate high score!\n\n<Rules>\nCook taiyaki using the special taiyaki maker!\nThe points you earn are based on how well your taiyaki are cooked!\nMake as many as you can before time runs out!\n\n<How to Play>\n1. Add taiyaki batter to the right side of the taiyaki maker, then add in the red bean paste filling.\n\n2. Once the taiyaki start to smoke, add batter to the left side and then flip them! Be careful not to go too fast or too slow, or you might fail!\n\n3. Once both sides are well cooked, finish by popping your taiyaki into a to-go box!\n\n[Score Attack]\nAim for 1st place on the leaderboards by making as many taiyaki as possible!\n\n[Battle]\nTest your taiyaki-making skills against others!",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240222,
     "first_update_release_date": 20240208,
     "latest_update_release_date": 20240208,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20240208
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Party",
+        "Puzzle",
+        "Communication"
+    ],
+    "intro": "It's time for a taiyaki-making challenge!\nCan you master this traditional Japanese sweet?\nMake as many as you can!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

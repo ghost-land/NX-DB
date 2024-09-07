@@ -1,11 +1,11 @@
 {
     "id": "010049000B69E800",
     "base_tid": "010049000B69E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Black Future '88",
+    "description": "Black Future ’88 is a Synth-Punk roguelike 2D action Shooter. Vertically climb an always evolving procedural tower to reach the top and kill its insane owner…before your heart explodes. Shoot, slash, dash and upgrade yourself to survive the endless waves of deadly traps, homicidal AI and colossal Wardens standing in your way in a stylish alternative version of 1988.\n\nThe world is reeling from a nuclear cataclysm, created by Duncan, the tower architect. The First of his bombs fell in the summer of 1988, and by December they had blacked-out the sun with endless rain. We decided to stop keeping time after this, and it’s been 1988 ever since. Everything that lived through the initial attack will die in the extreme floods that followed.  These are the times after, where there are no more months, or even weeks…everything is measured in minutes left to live. \n\nTake on the mantle of one of the last remaining misfit survivors, and fight your way to the top of the tower to kill the architect and stop the endless nuclear rain. Ascend to die, and die to survive.\n\nDeath Ascendant: Climb an always evolving procedural tower and fight for survival through a constant onslaught of death by fire, lasers, and slashes. \n\nUnique Synth-Punk World: Play through a unique take on a retro cyberpunk dystopia, and fight to survive through 5 distinct zones each with their own challenges.\n\nPick Your Poison: Play as one of 5 playable characters, each with their own unique buffs and weaknesses.\n\nRuin Friendships: Test your wits and reflexes with a friend in couch co-op, and experience a completely unique take on the co-op roguelike.\n\nKill the Wardens: Fight for survival by challenging the numerous unique bosses that guard each one of the game’s zones.\n\nFog Machines and Laser Beams: Bring a gun and laser sword to a fire fight by arming yourself with a selection of the 50 unique weapons available in the game, each with their own unique effects.\n\nEvolve to Survive: The only way to survive when everything, including your own heart, is trying to kill you is to carefully boost or curse yourself by strategically choosing- and combining from 30 distinct buffs and curses.\n\nDailies: Every day, a new challenge is generated with unique attributes that will test your mettle and allow you to see how your skills compare against other players in a global Leaderboard. Fight for not just survival, but supremacy! \n\nEar Candy: Death never sounded so good thanks to an all killer original analog-synth soundtrack.",
+    "publisher": "Good Shepherd",
+    "developer": null,
+    "base_release_date": 20191122,
     "first_update_release_date": 20191121,
     "latest_update_release_date": 20201111,
     "latest_update": {
@@ -17,11 +17,26 @@
         "262144": 20200420,
         "327680": 20201111
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "Reach the top of a evolving tower before your heart explodes.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild themes and violence",
+        "Online interactivity"
+    ],
     "region": null
 }

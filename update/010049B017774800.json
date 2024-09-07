@@ -1,11 +1,11 @@
 {
     "id": "010049B017774800",
     "base_tid": "010049B017774000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "DRAGON QUEST TREASURES",
+    "description": "Erik and his sister Mia live on a Viking longship, dreaming of the day they can explore the world in search of grand treasure. One night they encounter a pair of otherworldly creatures, Porcus and Purrsula, and are whisked away to a mysterious place known as Draconia - a legendary land full of treasures just waiting to be discovered. The adventure Erik and Mia have always dreamed of is finally underway!\n\nWith the vast world of Draconia to explore and tons of tantalizing treasure to find, Erik, Mia, and their cute companions will need some help. The team soon befriends and recruits a veritable variety of well-mannered monsters. By making use of these monsters' magical visions of hidden treasure and their unique treasure-hunting abilities, our heroes will race over open fields, scale cliffs with a single bound, and glide over gaping chasms to locate loot in even the most fiendishly inaccessible spots! \n\nVenture into a vast, varied world where twists, turns, and mysteries lie hidden on your path to discovering the legendary treasure of Draconia!",
+    "publisher": "SQUARE ENIX",
+    "developer": null,
+    "base_release_date": 20221209,
     "first_update_release_date": 20230113,
     "latest_update_release_date": 20230113,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20230113
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A Boundless Adventure in a Treasure-Hunter's Paradise",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
     "region": null
 }

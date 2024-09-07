@@ -1,11 +1,11 @@
 {
     "id": "01004A400C320800",
     "base_tid": "01004A400C320000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Momodora: Reverie Under the Moonlight",
+    "description": "Momodora: Reverie Under the Moonlight, the critically and publicly acclaimed action-platformer from Bombservice, has finally made its way to Nintendo Switch™! Lead Kaho, a priestess from the village of Lun, as she seeks an audience with the Queen of Karst who can surely lift the curse from the land.\n\nCombo and dodge through a lovingly crafted pixel art world full of monsters and bosses. Carve out your path to Castle Karst as you see fit and lift the curse that threatens all life in the kingdom. \n\nMomodora: Reverie Under the Moonlight offers: \n- Difficulty settings appropriate to story aficionados and hardcore action enthusiasts alike\n- Gorgeous pixel art graphics\n- Smooth gameplay: combo mix-ups, dodge rolls, and ranged attack options\n- Speed-run friendly movement\n- Epic boss fights with satisfying challenge\n- Item customization that facilitates new strategies\n- A unique world to explore, saturated with atmosphere\n- Compelling characters with unique personalities\n- Events, dialogue and flavor text that weave a mysterious tapestry of lore",
+    "publisher": "DANGEN Entertainment",
+    "developer": null,
+    "base_release_date": 20190110,
     "first_update_release_date": 20190109,
     "latest_update_release_date": 20211007,
     "latest_update": {
@@ -19,11 +19,29 @@
         "262144": 20210103,
         "327680": 20211007
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "Momodora: RUtM is an action-platformer steeped in somber atmosphere and compelling lore. Forge your path to the Queen in Castle Karst and lift the land's curse!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

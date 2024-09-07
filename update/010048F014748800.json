@@ -1,11 +1,11 @@
 {
     "id": "010048F014748800",
     "base_tid": "010048F014748000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ZombieVital DG",
+    "description": "The Heroes are coming to raid your Dungeon and its up to you to make sure they find it challenging. Design your own dungeon and fill it with Monsters, Traps and Treasure!",
+    "publisher": "Mediascape",
+    "developer": null,
+    "base_release_date": 20210415,
     "first_update_release_date": 20210427,
     "latest_update_release_date": 20210521,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20210427,
         "131072": 20210521
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "What kind of dungeon do you make?\nDo you want to entertain adventurers?\nOr kill and rob?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

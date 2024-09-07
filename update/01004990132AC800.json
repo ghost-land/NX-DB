@@ -1,11 +1,11 @@
 {
     "id": "01004990132AC800",
     "base_tid": "01004990132AC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "HITMAN 3 - Cloud Version",
+    "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+    "publisher": "IO Interactive",
+    "developer": null,
+    "base_release_date": 20210120,
     "first_update_release_date": 20210120,
     "latest_update_release_date": 20240321,
     "latest_update": {
@@ -21,11 +21,31 @@
         "393216": 20230511,
         "458752": 20240321
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Other"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Intense Violence",
+        "Strong Language",
+        "In-Game Purchases"
+    ],
     "region": null
 }

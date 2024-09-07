@@ -1,11 +1,11 @@
 {
     "id": "0100495011B6A800",
     "base_tid": "0100495011B6A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "HexON",
+    "description": "HexON is a relaxing puzzle game where you connect magnetic pieces to a hexagonal board.\n\nIn each level you have a different board and set of pieces. You need to plug all pieces to the board to complete each level. No piece can be left unplugged.\n\n- 40 hand-crafted levels;\n- Original soundtrack to help you relax while solving the puzzles;\n- A game for everyone who likes jigsaw puzzles and gridlock games;\n\nCan you find out the exact configuration that will complete the board?",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20231120,
     "first_update_release_date": 20200808,
     "latest_update_release_date": 20200808,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20200808
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Study",
+        "Training",
+        "Strategy"
+    ],
+    "intro": "A relaxing puzzle game. Turn on each board by connecting all magnetic pieces to it.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

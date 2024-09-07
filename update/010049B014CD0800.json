@@ -1,11 +1,11 @@
 {
     "id": "010049B014CD0800",
     "base_tid": "010049B014CD0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Connect It!",
+    "description": "Connect It! is an exciting and fun puzzle game where you try to connect items that have the same colour. The two ends of the same colour are scattered all over the map, so you must find a way to try and make the game as immersive and as engaging as possible. Connect It! does a very good job at making the gameplay fun, interesting and full of creative ideas. What you will like about it is the fact that it’s extremely easy to play, and it continually comes with unique, different ideas. \nWith more than 200 levels to go through, there’s always something new to enjoy, and the gameplay is very exciting and rewarding. The minimalist style and beautiful graphics add up to create a mesmerizing and fun experience. Give it a try for yourself today!\nFeatures:\nInnovative puzzle gameplay\n200+ levels to play\nMinimalist style\nBeautiful, engaging visuals",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210416,
     "first_update_release_date": 20210528,
     "latest_update_release_date": 20210528,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210528
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Training",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

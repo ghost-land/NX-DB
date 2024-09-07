@@ -1,11 +1,11 @@
 {
     "id": "010049100B93E800",
     "base_tid": "010049100B93E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Octahedron: Transfixed Edition",
+    "description": "Surf through a pulsating underworld on platforms YOU pull from thin air, where and when you want, in this psychedelic action platformer. Unlock devastating abilities across 50+ hand crafted levels as you defy gravity to a pumping beat.\n\nFry enemies with laser beams, crumble walls, and solve puzzles, while obstacles & enemies move along with the beat. Ascend through the subterranean world of Veetragoul as you lose yourself to a pulse-pounding soundtrack from Chipzel, Andre Sobota, Derek Howell and Monomirror.\n\nEnjoy brand new features & content exclusive to the Transfixed Edition: New time trial medals, dozens of new special challenges and new post-game unlockables.",
+    "publisher": "Demimonde",
+    "developer": null,
+    "base_release_date": 20190117,
     "first_update_release_date": 20190219,
     "latest_update_release_date": 20190219,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20190219
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Music",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Surf, Ascend, Escape!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very mild themes"
+    ],
     "region": null
 }

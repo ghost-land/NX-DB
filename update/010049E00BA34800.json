@@ -1,11 +1,11 @@
 {
     "id": "010049E00BA34800",
     "base_tid": "010049E00BA34000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Townsmen - A Kingdom Rebuilt",
+    "description": "Develop your tiny village to a grand medieval empire with a thriving economy and happy villagers! Find spots for mining ore, harvest the crops of your farms and collect coins as taxes from your folk. Build jousting fields, taverns, marketplaces and beautify your city with impressive statues, magnificent monuments and lush gardens. But there are also dangers lurking close by. Bandits are in the area, looking to plunder and pillage your peaceful town. Build barracks, guard towers and recruit brave soldiers to protect your citizens from harm. You rule the whole empire from your castle and make sure your inhabitants have fun and stay happy!\n\nFEATURES\n✔ City-building gameplay set in medieval times\n✔ Cute inhabitants with their own daily routines\n✔ New townie language for livelier interactions\n✔ Complex economy sim and deep production chains\n✔ Dozens of different town and production buildings\n✔ Optional military feature with soldiers and bandits\n✔ Meaningful seasons and weather effects\n✔ Devastating disasters like fire, disease, drought and many more\n✔ 26 diverse scenarios and challenging tasks\n✔ Unrestricted sandbox gameplay on 24 maps\n",
+    "publisher": "HandyGames",
+    "developer": null,
+    "base_release_date": 20181110,
     "first_update_release_date": 20190215,
     "latest_update_release_date": 20200520,
     "latest_update": {
@@ -18,11 +18,25 @@
         "262144": 20200220,
         "327680": 20200520
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "From humble backwater to medieval metropolis - build the city of your dreams!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

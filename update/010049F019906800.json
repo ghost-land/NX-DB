@@ -1,11 +1,11 @@
 {
     "id": "010049F019906800",
     "base_tid": "010049F019906000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fluffy Horde",
+    "description": "You are the only thing standing between a magical rabbit-mancer \"Shaman\" and the complete anihilation of the Three Kingdoms.\n\nFluffy Horde is a 2D side-scrolling game with a crystal clear goal. Defend against a magical bunny horde with hyper-breeding tendencies. Halt their offensive or die of embarassment. \n\nStop the armies of fluffiness by commanding your warriors, archers and... many insane individuals. Seriously we even got a humanoid carrot that will take a rabbit bullet for you. \n\nIf you free enough cities, you might even discover the reason behind this insane invasion. First Rabbit War starts in 3...2...1!\n\nKey features\n- Unique gameplay\n- 2D aesthetic\n- Side scrolling game\n- Tons of Rabbits\n- Charming humor\n- Mesmerizing pixel art\n- Real-time strategy mixed with tower defense mechanics",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20221111,
     "first_update_release_date": 20221109,
     "latest_update_release_date": 20240605,
     "latest_update": {
@@ -16,11 +16,22 @@
         "65536": 20221109,
         "131072": 20240605
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Strategy",
+        "Shooter",
+        "Fighting"
+    ],
+    "intro": "The Fluffy Horde is coming!  Save your crops from the enemy and try to withstand the rabbit TSUNAMI. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

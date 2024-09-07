@@ -1,11 +1,11 @@
 {
     "id": "01004A301AAFA800",
     "base_tid": "01004A301AAFA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "How 2 Escape",
+    "description": "How 2 Escape is an escape-simulation game where two players will need to cooperate on asymmetrical gameplay and devices.\n\n2 players, 2 ways to play. \nFirst player on Nintendo Switch™ console embodies the character trapped in the train, exploring and playing with the environment.\nSecond player will use the dedicated free companion app*  to get various information and try to understand how to help the first player and be able to escape from this unfortunate travel…\n\n*Read more on our website or get the free How 2 Escape Companion App on smartphone.\n\nEach wagon is timed in different ways that you’ll discover. Running out of time means defeat. \nThe longer you wait, the more difficult it is to see clearly...\nBoth players will need to interact with each other and focus on their sense. Puzzles will require logic, coordination, observation and listening but most of all: communication!\nNo time to chitchat. Get out of the trapped train. Every second is counted.\n\nEmy wakes up, trapped in a speeding train filled with traps and enigmatic puzzles. Her only way out? Reach the brake lever of the locomotive to stop the train. Her brother, Johann, on the other end of the phone, is the sole possessor of information that will aid Emy in navigating through the various carriages and escaping from this train. Will you be able to save Emy in time?",
+    "publisher": "JUST FOR GAMES",
+    "developer": null,
+    "base_release_date": 20230831,
     "first_update_release_date": 20230816,
     "latest_update_release_date": 20231220,
     "latest_update": {
@@ -18,11 +18,26 @@
         "196608": 20231123,
         "262144": 20231220
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Multiplayer",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "How 2 Escape is an asymmetrical coop game escape simulator. Play on both Nintendo Switch™ console & smartphone to solve puzzles together!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

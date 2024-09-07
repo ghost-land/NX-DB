@@ -1,11 +1,11 @@
 {
     "id": "0100496004194800",
     "base_tid": "0100496004194000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Mummy Demastered",
+    "description": "A powerful ancient evil has arisen, and the war to save humanity has begun! The Mummy Demastered throws you into a 16-bit-inspired battle against the undead in a 2D, nonlinear, action-packed adventure. As an elite agent in the monster-hunting Prodigium organization, you must use a variety of weapons, upgrades, and magical artifacts to defend mankind against the supernatural hordes of Princess Ahmanet. Your Prodigium teammates are already on the scene, but HQ lost contact with them hours ago; only by exploring tombs, forests, abandoned tunnels, and the cursed streets of London will you discover the fate of your allies. But beware - Ahmanet commands legions of zombies, insects, plague-ridden vermin, and worse... and if you're not careful, you'll be the next soul in Ahmanet's thrall.\n\nKey Features:\nStunning Retro-inspired graphics\n\nShoot-'em-up action mixed with exploration-based adventuring\n\nAn arsenal of weapons! Use grenades, an assault rifle, a flamethrower, and more!\n\nBattle a variety of horrifying enemies and bosses!\n\nDiscover and collect 50 hidden relics ",
+    "publisher": "WayForward",
+    "developer": null,
+    "base_release_date": 20220811,
     "first_update_release_date": 20171101,
     "latest_update_release_date": 20180221,
     "latest_update": {
@@ -16,11 +16,26 @@
         "65536": 20171101,
         "131072": 20180221
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Shooter"
+    ],
+    "intro": "Break Ahmanet's curse in this retro-inspired horror adventure! Exploration meets blast-'em-up action!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

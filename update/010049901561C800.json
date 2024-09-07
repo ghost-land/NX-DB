@@ -1,11 +1,11 @@
 {
     "id": "010049901561C800",
     "base_tid": "010049901561C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Lotus Reverie: First Nexus",
+    "description": "Do you like adventure and strategy games?\nLotus Reverie is a visual novel focused on time management. Within a limited amount of time, you will forge bonds with other survivors and uncover the incredible mysteries this world hides in this survival game where only one pair will remain.\nYou will enjoy the best of each character and survive to the end of the world!",
+    "publisher": "Keinart",
+    "developer": null,
+    "base_release_date": 20210715,
     "first_update_release_date": 20210709,
     "latest_update_release_date": 20210804,
     "latest_update": {
@@ -16,11 +16,25 @@
         "65536": 20210709,
         "131072": 20210804
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "A visual novel at the end of the world. Half of the survivors are not human, and only one pair will survive.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
     "region": null
 }
