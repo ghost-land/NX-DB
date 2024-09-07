@@ -1,11 +1,11 @@
 {
     "id": "01004F4014C62800",
     "base_tid": "01004F4014C62000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Stranded Deep",
+    "description": "Experience terrifying encounters both above and below an endless environment with a different experience each time you play\n\nTEST YOUR SURVIVAL SKILLS IN THIS OPEN WORLD ADVENTURE\n\nIn the aftermath of a mysterious plane crash, you are stranded in the vast expanse of the Pacific Ocean. Alone, without any means to call for help, you must do what you can to survive.\n\nBUILD. CRAFT. SURVIVE. ESCAPE.\n\nExplore underwater and on land as you hunt for supplies to craft the tools, weapons, and shelter you’ll need to stay alive. Stay sharp: hunger, thirst, and exposure conspire against you as you brave treacherous elements and the dangerous creatures of the Pacific.\nLive long enough, Stay Alive!",
+    "publisher": "Beam Team",
+    "developer": null,
+    "base_release_date": 20210831,
     "first_update_release_date": 20210930,
     "latest_update_release_date": 20220227,
     "latest_update": {
@@ -16,11 +16,24 @@
         "131072": 20210930,
         "196608": 20220227
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Discover. Survive. Escape!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature themes",
+        "Online interactivity"
+    ],
     "region": null
 }

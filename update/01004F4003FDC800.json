@@ -1,11 +1,11 @@
 {
     "id": "01004F4003FDC800",
     "base_tid": "01004F4003FDC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Yesterday Origins",
+    "description": "Discover the critically acclaimed adventure from Pendulo Studios, creators of the Runaway series!\n\nIt's 1481. Young John is publically humiliated and dragged through the street. Under suspicion of witchcraft, he is imprisoned by the Spanish Inquisition to be tortured.\n\nLater, he undergoes an alchemical transformation making him immortal. But not everything goes to plan. As a result, after each resurrection, John completely forgets who he is.\n\n500 years later, in the present day, John and Pauline are searching for an artefact that is needed to reproduce the ritual. During their investigation, they will have to face dangerous new protagonists who want to steal their secrets... \n\nJoin immortals John Yesterday and Pauline Petit in Yesterday Origins, and experience an epic adventure through time and across the world in a story full of intrigue and unexpected twists.\n\n* Pendulo Studios: over 20 years of narrative gaming experience\n* An original storyline takes players through different time periods\n* An adventure mixing several genres: investigation, thriller, history and the occult\n* Dark, offbeat humor gives the story a unique tone \n* 3D graphics boost the good old \"Pendulo touch\"\n* Fully dubbed in English",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20180531,
     "first_update_release_date": 20180720,
     "latest_update_release_date": 20180720,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20180720
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "WHO SAID IMMORTALITY WAS ETERNAL?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language",
+        "Strong Themes",
+        "Strong Violence"
+    ],
     "region": null
 }

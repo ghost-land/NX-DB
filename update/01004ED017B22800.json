@@ -1,11 +1,11 @@
 {
     "id": "01004ED017B22800",
     "base_tid": "01004ED017B22000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Tricky Doors",
+    "description": "Tricky doors is a captivating game that offers a variety of puzzles. Find a creative way to get out of each room.\n\nTricky doors is a point-and-click game in the \"escape the room\" genre with plenty of mini-games and complicated quests. \n\nYou can open a lot of different doors. Behind each door, you will find hostile and friendly worlds, as well as familiar and exotic landscapes. Your task is always the same - you need to leave the place where the game sent you this time through a portal to move forward. \nSolve puzzles and find hidden objects. Many of them will be familiar to you. Some of them you'll see for the first time. Can you use all of them to find a way out? Challenge your quick-wittedness!\n\nFantastic locations and beautiful graphics\nUnique escape stories\nExciting search for hidden objects\nChallenging mini-games\nWill be interesting for both beginners and experienced players",
+    "publisher": "FIVE-BN STUDIO",
+    "developer": null,
+    "base_release_date": 20220530,
     "first_update_release_date": 20220811,
     "latest_update_release_date": 20240529,
     "latest_update": {
@@ -19,11 +19,28 @@
         "262144": 20240404,
         "327680": 20240529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

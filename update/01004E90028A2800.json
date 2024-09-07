@@ -1,11 +1,11 @@
 {
     "id": "01004E90028A2800",
     "base_tid": "01004E90028A2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Vroom in the night sky",
+    "description": "\"Vroom in the night sky\" is a \"Magical Bike Action Game\".\nThe features of this game are Fantastic feeling, Speedy feeling, and Realistic feeling by HD rumble.\n\nThere are various night skies in this world, and it is work of Magical Girls to collect Stardusts there.\nYou become the Magical Girl \"Luna\", ride a Magical Bike, fly around the night sky and collect Stardusts!\n\nThe Magical Gate is floating in the night sky.\nIn order to open the gate, you need to collect the necessary number of Keystars floating in the night sky.\nBy collecting Keystars faster and entering the gate, you can get more Stardusts.\n\nBesides, by manipulating the motorcycle more technically, the number of Stardusts will get increased.\nLet's try various actions and challenge to collect Stardusts.\n\nBy using the collected Stardusts, you will be able to get a new Magical Bike.\nIf you get a powerful Magical Bike, you will be able to more easily collect Stardusts!",
+    "publisher": "POISOFT",
+    "developer": null,
+    "base_release_date": 20170303,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20170814,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20170814
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Action"
+    ],
+    "intro": "Magical Girl flies in the sky with bike!\nRealistic response by HD rumble.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

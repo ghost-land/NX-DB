@@ -1,11 +1,11 @@
 {
     "id": "01004EA01E6D4800",
     "base_tid": "01004EA01E6D4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Naheulbeuk's Dungeon Master",
+    "description": "Your mission, should you choose to accept it!\nEmbody Reivax, the servile (or not) steward of the Dungeon of Naheulbeuk. Years before the first incursion of fearless adventurers, you are tasked to build, develop, and populate the wobbly tower. Above all, try not to upset your master, the evil sorcerer Zangdar. Are you up to the task?",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20240709,
     "first_update_release_date": 20240806,
     "latest_update_release_date": 20240806,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20240806
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "A dungeon in danger!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language",
+        "Mild Crude Humour",
+        "Mild Sexual References",
+        "Mild Themes",
+        "Scary Scenes",
+        "Sexualised Imagery"
+    ],
     "region": null
 }

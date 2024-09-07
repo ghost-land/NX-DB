@@ -1,11 +1,11 @@
 {
     "id": "01004F7015382800",
     "base_tid": "01004F7015382000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Color Dot Connect",
+    "description": "Dot Connect is a simple fun line puzzle game. The goal is to connect all the same colored dots by drawing a line through the grid. All dots must be connected and all spaces on the game board must be filled with color to complete the level.",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210528,
     "first_update_release_date": 20211012,
     "latest_update_release_date": 20211012,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20211012
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Study"
+    ],
+    "intro": "Simple and awesome puzzle game!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

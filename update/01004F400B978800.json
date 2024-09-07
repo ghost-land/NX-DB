@@ -1,11 +1,11 @@
 {
     "id": "01004F400B978800",
     "base_tid": "01004F400B978000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Robbotto",
+    "description": "A gigantic space cruiser was slowly gliding through the vastness \nof cosmos, when suddenly disaster struck! The ship flew straight \nthrough a magnetic storm, causing all the robots and machines \nonboard to go crazy. Luckily, Robb and Otto, the ships top \nmaintenance robots were putting out a fire in the ships shield \ngenerator room, and didn't get affected by the storm. Now the \ntwo unlikely heroes must travel through the ship and disable all \nthe malfunctioning machines.\n\nClassic Arcade Action\n100 Levels\n20 Different Enemies\n10 Huge Bosses\nSingle Player or Local Co-op",
+    "publisher": "JMJ Interactive",
+    "developer": null,
+    "base_release_date": 20180816,
     "first_update_release_date": 20180817,
     "latest_update_release_date": 20180817,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20180817
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "Join Robb and Otto, two intrepid maintenance robots as they must travel through a malfunctioning spaces cruiser, in an effort to shutdown all the rampaging through the ship!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

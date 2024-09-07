@@ -1,11 +1,11 @@
 {
     "id": "01004F0010A02800",
     "base_tid": "01004F0010A02000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Sky Racket",
+    "description": "Sky Racket is the world’s first Shmup Breaker, mixing the classic genres of shoot ’em ups and block breakers!\nBlast bullets back at baddies while flying over whimsical worlds filled with vivid, kooky colors! Grab your laser tennis racket, a stylish scarf and your best buddies to battle a horde of fluffy enemies trying to blow you up back to the ground.\nPlay as RacketBoy or RacketGirl, guardians chosen by the Capybara Goddess to save your galaxy from the paws of a destructive tyrant genius, Korrg! Unable to attack by yourself, you must strike enemies’ attacks back at them, turning the battlefield into an explosive space tennis battle. Rain tennis-devastation down on hordes of ducks, cat-sandwiches, fluffy bunnies, space-tennis-robots and actual BANANAS in this unique and totally realistic adventure to save the galaxy!\n(Sky Racket is based on a true story.)\n\nFEATURES\n• Dodge and dive through fanciful shmup levels! Blast bullets back to break blocks and bust bad guys!\n• Gorgeous pixel art and fluid animation so good it’s BANANAS, literally and figuratively.\n• Co-op multiplayer to share this funky fun with friends!\n• Befriend the best little buddies to aid you in a colorful and whimsical universe!\n• Catchy original soundtrack sure to please 16-bit fans!\n• Bizarre boss battles! No really, they’re very strange...\n• Bullet hell challenges to thrill and test your will!\n• Master the mechanics of rebounding attacks and find creative ways to use your enemies’ weapons against them!",
+    "publisher": "Double Dash Studios",
+    "developer": null,
+    "base_release_date": 20200317,
     "first_update_release_date": 20200317,
     "latest_update_release_date": 20210803,
     "latest_update": {
@@ -22,11 +22,24 @@
         "458752": 20210316,
         "524288": 20210803
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "The world’s first Shmup Breaker!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

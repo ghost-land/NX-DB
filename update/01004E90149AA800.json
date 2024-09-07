@@ -1,11 +1,11 @@
 {
     "id": "01004E90149AA800",
     "base_tid": "01004E90149AA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Azure Striker GUNVOLT 3",
+    "description": "The next installment in the high-speed 2D action Gunvolt series is finally here with Azure Striker Gunvolt 3. Balancing both an involving story and satisfying gameplay, Gunvolt 3 is the most extravagant entry in the series yet!\n\nPlay as both new star Kirin and series protagonist Gunvolt as you switch between them on the fly while conquering Gunvolt 3's many stages and bosses. Story Mode+ which keeps the exciting action uninterrupted by the rich story. New to Gunvolt 3 are Image Pulses, collectable summons and equipment called forth from Gunvolt's own memories. Over 150 varieties are available to collect!\n\nGunvolt 3 was developed targeting the Nintendo Switch™ hardware, allowing for more crisp visuals and astounding effects to go along with the high-speed action!\n\n■Satisfying swordplay meets light-speed superpowers!\n  Experience the exhilarating 2D action your own way! Take control of Kirin's stylish sword action or Gunvolt's devastating lightning powers to clear stages with show-stopping abilities!\n\n■The thrilling near-future dystopian story plays out in real-time with \"Story Mode+\"!\nCharacters talk and banter without interrupting gameplay thanks to Story Mode+, allowing their personalities to shine and the story to develop without diluting the action experience.\nFull English voices are available along with the original Japanese!\n\n■New songs from \"The Muse\" Lumen heat up the battle!\nPut on a show with your gameplay to earn \"Kudos\" points and the virtual pop idol Lumen will start a performance of her own, replacing the stage track with a vocal pop song! 7 brand new songs are included alongside a large selection of classic songs from the series.\n\n■Kirin and Gunvolt's team-up creates a new power - \"Image Pulse\"!\nCollect over 150 types of \"Image Pulses,\" giving form to Gunvolt's memories. Image Pulses allow you to summon comrades and rivals from Gunvolt's past to attack, grant abilities, and more. ",
+    "publisher": "Inti Creates",
+    "developer": null,
+    "base_release_date": 20220728,
     "first_update_release_date": 20220727,
     "latest_update_release_date": 20221218,
     "latest_update": {
@@ -22,11 +22,28 @@
         "458752": 20221116,
         "589824": 20221218
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "What lies beyond the path toward hope?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Suggestive Themes"
+    ],
     "region": null
 }

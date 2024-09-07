@@ -1,11 +1,11 @@
 {
     "id": "01004F0013BAA800",
     "base_tid": "01004F0013BAA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "LOVE - A Puzzle Box Filled with Stories",
+    "description": "LOVE is a puzzle game about finding the things we’ve lost in ourselves and the people who help us find them.\n\nThrough interactions in both the past and present, get to know the people that live in your apartment building and the moments that define their lives - and then change them.\n\nLOVE is an experiment in storytelling that combines the rich experience of a diorama with puzzles inspired by point-and-click adventures. LOVE creates opportunities for empathy and reflection, as well as moments of classic head-scratching puzzle goodness.\n\nFEATURES:\n\n- EXPLORE the tenement building and meet the inhabitants that reside within\n- LEARN the stories of the past that continue to impact your neighbours in the present\n- ROTATE apartments to move them back and forth through time to solve puzzles\n- MAKE changes that help your friends resolve their pasts and live their best lives",
+    "publisher": "Thalamus Digital",
+    "developer": null,
+    "base_release_date": 20210528,
     "first_update_release_date": 20210711,
     "latest_update_release_date": 20210711,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20210711
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Lifestyle"
+    ],
+    "intro": "Every life has a story. Every story has regret. But what if you could change the past? ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
     "region": null
 }

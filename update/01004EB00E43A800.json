@@ -1,11 +1,11 @@
 {
     "id": "01004EB00E43A800",
     "base_tid": "01004EB00E43A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Five Nights at Freddy's 2",
+    "description": "In Five Nights at Freddy's 2, the old and aging animatronics are joined by a new cast of characters. They are kid-friendly, updated with the latest in facial recognition technology, tied into local criminal databases, and promise to put on a safe and entertaining show for kids and grown-ups alike!\n\nWhat could go wrong?\n\nAs the new security guard working nights, your job is to monitor cameras and make sure nothing goes wrong after-hours. The previous guard has complained about the characters trying to get into the office (he has since been moved to day-shift). So to make your job easier, you've been provided with your very own empty Freddy Fazbear head, which should fool the animatronic characters into leaving you alone if they should accidentally enter your office.\n\nAs always, Fazbear Entertainment is not responsible for death or dismemberment.",
+    "publisher": "Clickteam",
+    "developer": null,
+    "base_release_date": 20191130,
     "first_update_release_date": 20191218,
     "latest_update_release_date": 20220429,
     "latest_update": {
@@ -17,11 +17,18 @@
         "196608": 20191220,
         "262144": 20220429
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Welcome back to the new and improved Freddy Fazbear's Pizza! Now with new friends to entertain kids and growns-ups alike!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
     "region": null
 }

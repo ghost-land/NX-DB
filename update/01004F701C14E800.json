@@ -1,11 +1,11 @@
 {
     "id": "01004F701C14E800",
     "base_tid": "01004F701C14E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Arcade Archives ZING ZING ZIP",
+    "description": "\"ZING ZING ZIP\" is a shooter released by ALLUMER in 1992.\nOperate the 1P aircraft with fast vertical movement speed or the 2P aircraft with fast horizontal movement speed to defeat the evil empire.\nAim to clear the screen by making full use of various items and rolling special moves that make you invincible or power up while activated.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20230907,
     "first_update_release_date": 20231010,
     "latest_update_release_date": 20231010,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20231010
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "A special technique for raging!\nMaster the invincible rolling!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004F1012716800",
     "base_tid": "01004F1012716000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Collapsed",
+    "description": "So what happened to the world? Why was everything destroyed? At first, these questions are left unanswered — but as you complete levels and the game grows more challenging, the history of the world begins to be revealed. You can also come across snatches of the backstory in memory clusters which are randomly scattered throughout the universe. These contain notes, diaries and other interesting recordings which shed light on the events that took place in certain locations.\nEnjoy numerous unique locations with procedurally generated levels, hordes of dangerous enemies, and deadly traps. Combat in heated battles will test your skills and reaction time.",
+    "publisher": "OverGamez",
+    "developer": null,
+    "base_release_date": 20200829,
     "first_update_release_date": 20200911,
     "latest_update_release_date": 20210522,
     "latest_update": {
@@ -17,11 +17,27 @@
         "131072": 20200924,
         "196608": 20210522
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Collapsed is a roguelike platformer set in a post-apocalyptic world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

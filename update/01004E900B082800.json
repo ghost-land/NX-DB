@@ -1,11 +1,11 @@
 {
     "id": "01004E900B082800",
     "base_tid": "01004E900B082000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Touhou Genso Wanderer Reloaded",
+    "description": "Set out on an all-new adventure with Reimu, Marisa, Sanae, and more of your favourite Touhou characters! The land of Gensokyo once again plunges into darkness as a new mystery unfolds. What mysteries await in the Tower of Desire?",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20180720,
     "first_update_release_date": 20180716,
     "latest_update_release_date": 20181031,
     "latest_update": {
@@ -17,11 +17,18 @@
         "131072": 20180820,
         "196608": 20181031
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes"
+    ],
     "region": null
 }

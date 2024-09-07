@@ -1,11 +1,11 @@
 {
     "id": "01004F800C4DA800",
     "base_tid": "01004F800C4DA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Croc's World",
+    "description": "Croc´s World is a really nice jump'n'run with 60 incredible levels and many challenging enemies!\n\nIt features:\n\n+ 60 incredible levels \n+ Nice graphics\n+ 4 different themes\n+ many challenging enemies\n\nInstructions:\n\nJump and run through the levels and dodge all enemies.\nCollect a helmet to crush stoneblocks.\nCollect the stonebag to throw stones.\nIf you collect 100 diamonds you´ll get an extra life!",
+    "publisher": "Sprakelsoft",
+    "developer": null,
+    "base_release_date": 20181102,
     "first_update_release_date": 20181202,
     "latest_update_release_date": 20220825,
     "latest_update": {
@@ -17,11 +17,25 @@
         "131072": 20190410,
         "196608": 20220825
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

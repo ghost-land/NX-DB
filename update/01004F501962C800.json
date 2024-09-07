@@ -1,11 +1,11 @@
 {
     "id": "01004F501962C800",
     "base_tid": "01004F501962C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Punchuin",
+    "description": "You are on a quest to solve the mystery of the treasure of Punch Mountain. Punch your way down, collect money and diamonds, improve your punching skills and make some new friends along the way.\n\n- Explore the depths of Punch Mountain \n- Play alone or against a friend \n- Upgrade items from the Punch Shop\n- Unlock branching paths to new levels\n- Interact with NPCs that will help you to get the treasure\n- High quality CRT emulation to customize your pixels look\n- Awesome soundtrack!",
+    "publisher": "Shin’en Multimedia",
+    "developer": null,
+    "base_release_date": 20221220,
     "first_update_release_date": 20221220,
     "latest_update_release_date": 20221220,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20221220
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Punch your way to the treasure of the mountain in THE PUNCHUIN!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }
