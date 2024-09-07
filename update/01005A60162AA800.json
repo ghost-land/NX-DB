@@ -1,11 +1,11 @@
 {
     "id": "01005A60162AA800",
     "base_tid": "01005A60162AA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "NHRA Championship Drag Racing: Speed for All",
+    "description": "NHRA™ is back – bigger and better than ever! Immerse yourself into the teams, tracks, tuning, and strategies, then strap into the driver’s seat in your ultimate quest to become the Champion among the true Beasts of the Strip™.\n\nKey Game Features:\n• 5 NHRA Classes: Top Fuel, Funny Car, Pro Stock, Pro Mod, & Super Modified\n• 38 Top NHRA Drivers: Brittany Force, Antron Brown, John Force, Steve Torrence and more!\n• Real-world tracks directly sanctioned by the NHRA: Bristol, Las Vegas, Charlotte, Indianapolis, Pomona, and more.\n• Physics-based drag racing gameplay for simulated real-world depth, speed, and authentic feel.\n• Single-player career mode spanning multiple in-game seasons.\n• Career Mode: Team management, R&D, tuning, and customizations.\n• Asynchronous online multiplayer leaderboards to fuel your competitive instinct.",
+    "publisher": "Game Mill",
+    "developer": null,
+    "base_release_date": 20221118,
     "first_update_release_date": 20220809,
     "latest_update_release_date": 20220915,
     "latest_update": {
@@ -16,11 +16,19 @@
         "131072": 20220809,
         "196608": 20220915
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Lyrics",
+        "In-Game Purchases"
+    ],
     "region": null
 }

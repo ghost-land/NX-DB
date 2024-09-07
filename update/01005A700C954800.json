@@ -1,11 +1,11 @@
 {
     "id": "01005A700C954800",
     "base_tid": "01005A700C954000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Stellar Interface",
+    "description": "Fight In Ever Changing Space Battles!\n\nRun through the universe, discover the numerous perks/consumables and their synergistic effects. Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect StellarNetES Cartridges, checkmark your kills of the various galactic overlords.\n\nAnd die. A lot!\n\nCan you find the most outrageous perk combination to defeat the Last Overlord? \n\nGame Features:\n\n • Rogue-like Elements: With a randomly generated universe and randomized perks, no journey will ever be the same! What will happen to you, in your own unique apocalyptic cataclysmic transgalactic voyage?\n\n • Synergistic Perk System: Over 100 perks and consumables! Look out for the synergistic nature of the perks that suits your playstyle!\n • Galactic Bounties: Complete over 100 missions to participate in the StellarNET Entertainment System lottery!\n\n • Customize Your Start: Choose your spacecraft: there is one for every playstyle, as they have unique starting perks. You can personalize your arsenal from numerous weapons: cannons, missiles and lasers!\n\n • Unlock Spacecrafts, View Your Progress: Check out what have you accomplished in our in-game encyclopedia StellarNET. Unlock new spacecrafts, kill all the bosses to progress in StellarNET's kill table. Check which perks and consumables you have used and seen, and what is your progress towards the achievements! \n\n • Explore the Universe: Some levels are more special than others: Merchants, Bosses, Spacecraft Factories. Fight through lower-difficulty levels to stock up on perks, or just streamline to the end-boss if you feel powerful enough!",
+    "publisher": "ImaginationOverflow",
+    "developer": null,
+    "base_release_date": 20220117,
     "first_update_release_date": 20190111,
     "latest_update_release_date": 20220215,
     "latest_update": {
@@ -19,11 +19,27 @@
         "262144": 20220119,
         "327680": 20220215
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Music"
+    ],
+    "intro": "Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect Cartridges and checkmark your kills of the various galactic overlords.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

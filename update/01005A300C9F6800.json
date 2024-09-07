@@ -1,11 +1,11 @@
 {
     "id": "01005A300C9F6800",
     "base_tid": "01005A300C9F6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SEGA AGES Phantasy Star",
+    "description": "The tyrant Lassic rules the cosmos, and it is up to you to defeat his evil reign. Witness the revival of this defining RPG in SEGA AGES Phantasy Star.\n\nTake advantage of the new dungeon map display and the acclaimed “Ages Mode” as you traverse tricky dungeon mazes and battle ferocious 8-bit beasts. Phantasy Star has claimed its place as a pioneer RPG and its retro-spirit is sure to find a home in the hearts of old and new fans alike.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20181214,
     "first_update_release_date": 20210127,
     "latest_update_release_date": 20210127,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210127
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "The classic galactical adventure arrives on Nintendo Switch™!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
     "region": null
 }

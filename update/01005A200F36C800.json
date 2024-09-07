@@ -1,11 +1,11 @@
 {
     "id": "01005A200F36C800",
     "base_tid": "01005A200F36C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "사무라이 쇼다운",
+    "description": "SAMURAI REBOOT！\n완전 신작 「SAMURAI SHODOWN」 등장!\n\n1993년 탄생 이후 무기를 이용해 싸우는 검극대전격투게임으로 세계적인 인기를 누린 「SAMURAI SHODOWN」 시리즈, 전작 이후 11년 만에 완전 신작으로 재등장! 시리즈의 매력인 세계관과 게임성은 그대로 계승하며 궁극의 영상미로 진화했다! AI가 플레이어의 행동 패턴을 학습해 고스트(분신)를 만들어 내는 혁신적인 신기능까지 탑재되었다. 초대 『SAMURAI SHODOWN』으로부터 일 년 전의 일본을 무대로 자신의 신념을 관철하는 검호들의 이야기가 막을 연다.\n\n■초대 시리즈의 본질을 「계승」\n독자적인 세계관, 진검승부의 리얼리티를 추구한 게임성을 계승해 그때의 긴장감과 상쾌함을 다시 맛볼 수 있다.\n\n■궁극의 영상미로 「진화」\n게임 엔진으로 채용된 UNREAL® ENGINE 4를 통해 펼쳐지는 섬세하면서도 미려한 궁극의 영상미가 영혼을 뒤흔든다.\n\n■AI를 이용한 격투 게임의 「혁신」\nAI가 행동 패턴을 학습해 고스트(분신)을 자동으로 생성한다. AI와 대전할 수 있는 혁신적인 기능 탑재.",
+    "publisher": "Intragames",
+    "developer": null,
+    "base_release_date": 20191212,
     "first_update_release_date": 20191211,
     "latest_update_release_date": 20211022,
     "latest_update": {
@@ -31,11 +31,22 @@
         "1179648": 20210903,
         "1245184": 20211022
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "격투",
+        "액션"
+    ],
+    "intro": "SAMURAI REBOOT！\n완전 신작 「SAMURAI SHODOWN」 등장!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "폭력성"
+    ],
     "region": null
 }

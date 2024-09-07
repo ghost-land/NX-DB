@@ -1,11 +1,11 @@
 {
     "id": "0100594017FD0800",
     "base_tid": "0100594017FD0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Catana",
+    "description": "When an unseen phenomenon creates havoc in nature, strange veggie mutants start to appear in the courtyard of a quiet monastery. To beat back the hostile peppers and eggplants, the master of the monastery takes a disciple under his wing — the young and fierce samurai Catana! \n\nGuide Catana as he masters the attacks that will save not only the monastery but also the world beyond it. With an easy-to-play and hard-to-master approach, you'll create matches that eliminate groups of enemies, unleash powerful special attacks and take down crafty bosses. On your way to the epic liberation you'll face Tentacles, Lava Crunchers, Robots and more. These monsters will lead you to the memorable showdown with the mysterious force behind mutations.",
+    "publisher": "ESDigital Games",
+    "developer": null,
+    "base_release_date": 20220420,
     "first_update_release_date": 20220412,
     "latest_update_release_date": 20220412,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20220412,
         "131072": 20220412
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Your clear mind is the sharpest sword!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

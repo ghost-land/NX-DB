@@ -1,11 +1,11 @@
 {
     "id": "010059C0192EA800",
     "base_tid": "010059C0192EA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Bounty Huntress",
+    "description": "In this Metroidvania-style game, Rhea is a bounty huntress with a task to save people kidnapped in the City of Vaunard. They have been taken to the mysterious Aresdale castle.\n\nRhea has many special skills that will help her accomplish this difficult task. Help her rescue these people and to bring peace to the city of Vaunard.\n\nWith monsters infesting the corridors in Aresdale castle, you will have to be careful to make it back alive. Besides dangers, this castle also hides several rewards.\n\n\nFEATURES\n- Metroidvania-style game in crispy pixel art\n- Play as Rhea, a bounty huntress full of skills and weapons\n- Accurate controls and intuitive gameplay\n- Defeat a variety of monsters in the castle corridors\n- Side quests\n- Unravel the secrets of Aresdale Castle in 7 different areas",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20221115,
     "first_update_release_date": 20221212,
     "latest_update_release_date": 20221212,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20221212
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Rhea and the people of Vaunard need you!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
     "region": null
 }

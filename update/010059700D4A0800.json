@@ -1,11 +1,11 @@
 {
     "id": "010059700D4A0800",
     "base_tid": "010059700D4A0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Sephirothic Stories",
+    "description": "Shendoah―a world protected by Sephiroth. However, with the power of the world tree having begun to wane, countless people have been overcome by an encroaching murk that has transformed them into monsters. Now with the world on the verge of destruction, an unlikely band sets out an adventure with their convictions...\nYet, what shocking truth awaits them at the end of their journey...?\n\nNavigate trap-filled dungeons using only your mind and wit to conquer challenging puzzles! Use individual character abilities to make headway and unleash powerful attacks called “fusions” in turn-based battles! Weapon upgrades and many subquests are available for additional enjoyment.",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190405,
     "first_update_release_date": 20230226,
     "latest_update_release_date": 20230226,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20230226
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Discover the truth behind the world tree's waning power in a fantasy RPG!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Scary Scenes",
+        "Digital Purchases"
+    ],
     "region": null
 }

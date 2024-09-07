@@ -1,11 +1,11 @@
 {
     "id": "01005970169DE800",
     "base_tid": "01005970169DE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Sky Races",
+    "description": "Your focus is to compete with other airplanes as quickly as possible and push them to the next level. The game is very immersive, engaging, and fun, and you will find yourself playing, again and again, all the time. \n\nIf you want to test your prowess against your friends, this is the right way to do it. Check out Sky Races right now and immerse yourself in the most exciting airplane race game ever!\n\nFeatures:\n\t•\tMultiple airplanes with varied statistics\n\t•\tMultiplayer support \n\t•\tMultiple tracks to choose from \n\t•\tIntense airplane race\n",
+    "publisher": "Gametry",
+    "developer": null,
+    "base_release_date": 20211112,
     "first_update_release_date": 20211222,
     "latest_update_release_date": 20211222,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20211222
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Multiplayer"
+    ],
+    "intro": "Please fasten your seatbelts and play Sky Races - up to 4 players in multiplayer!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

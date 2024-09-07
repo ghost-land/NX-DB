@@ -1,11 +1,11 @@
 {
     "id": "010059A0157A4800",
     "base_tid": "010059A0157A4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Flåklypa Grand Prix",
+    "description": "Join Reodor, Sola, Ludvig and the other villagers on a breathtakingly fast, high-octane adventure.\n\nWith captivating story mode, racing in the classic Flåklypa environments for one or two players, and nine fun mini-games, Flåklypa Grand Prix has something for the whole family!\n\nLanguages supported: Norwegian, Swedish, Danish, English and Sámigiella.\nAudio available in Norwegian, Danish, English and Sámigiella.",
+    "publisher": "Ravn Studio",
+    "developer": null,
+    "base_release_date": 20220103,
     "first_update_release_date": 20211025,
     "latest_update_release_date": 20211223,
     "latest_update": {
@@ -17,11 +17,20 @@
         "131072": 20211026,
         "196608": 20211223
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Time to revisit the small mountain village of Flåklypa!\nFlåklypa Grand Prix is finally making a grand comeback in full 3D, beautifully recreated in Unreal Engine.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

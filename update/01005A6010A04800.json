@@ -1,11 +1,11 @@
 {
     "id": "01005A6010A04800",
     "base_tid": "01005A6010A04000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Darts",
+    "description": "Pick up your darts and take a shot in this incredibly realistic fun and easy to play darts simulation game,\nanytime and anywhere!\n\nDarts is based on the classic 501 dart game, starting with a score of 501 your goal is to 0 with the minimum number of dart throws and just like the classic game you can score doubles and triples.\n\n\nThere are 15 rounds and in each round you throw 3 darts, the player to either reach 0 or has the lowest score wins the game. \n\nPlay against a friend or play against the computer’s smart artificial intelligence (AI) player, either way, winning won’t come easy. \n\nCustomise your dart board and darts with over a 100 different combinations to chose from.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200306,
     "first_update_release_date": 20210728,
     "latest_update_release_date": 20210818,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20210728,
         "131072": 20210818
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Sports"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

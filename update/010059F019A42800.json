@@ -1,11 +1,11 @@
 {
     "id": "010059F019A42800",
     "base_tid": "010059F019A42000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Another Crusade",
+    "description": "Play as Rai Reysend and his companions through a series of comical events and epic battles to reveal the mystery of the cosmic barriers that were created after a meteor shower. Will you be able to save the land and uncover the truth?\n\n-Traditional turn-based combat RPG!\n-Execute commands with timing to increase your attacks and defenses!\n-Cast powerful magic attacks and amplify them with fun button sequences!\n-Run and jump your way through various stages while finding treasures!\n-Solve puzzles and complete quests!\n-Meet a wonderful cast of funny characters in comical situations!\n-Tons of secrets to discover!",
+    "publisher": "Limited Run Games",
+    "developer": null,
+    "base_release_date": 20230915,
     "first_update_release_date": 20231018,
     "latest_update_release_date": 20231018,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20231018
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Discover a 3D wooden puppet style world while exploring as a platformer, and taking battles in a turn-based combat as an old school RPG where timing and strategy is all!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
     "region": null
 }

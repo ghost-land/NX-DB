@@ -1,11 +1,11 @@
 {
     "id": "01005A600C318800",
     "base_tid": "01005A600C318000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SMITE",
+    "description": "Enter the Battleground of the Gods\n\nJoin 40+ million players in SMITE, the world’s most popular action multiplayer online battle arena.  Become a legend of myth, enter the Battleground of the Gods, and play FREE now!\n\n100+ Gods\nUnleash each deity’s unique strategies, legendary weapons, and earth-shattering powers. Rain lightning down upon your foes as Zeus, assassinate from the shadows as Loki, or transform and trick your foes as the Monkey King, Sun Wukong. Which God will you choose?\n\nUnique Perspective\nUnlike other MOBAs, SMITE puts you directly onto the battlefield with a third-person action viewpoint. From blind-side ambushes to aimed shots, a new pantheon of strategic possibilities awaits.\n\nBecome Godlike\nNever played a battle arena before? Don’t worry. Auto-buy, auto-level, and the deathmatch-like Arena mode let you jump right into divine MOBA action. Aspiring pro? Top the ladders, join a competitive team, and you too could be playing at the SMITE World Championship.",
+    "publisher": "Hi-Rez Studios",
+    "developer": null,
+    "base_release_date": 20211116,
     "first_update_release_date": 20181116,
     "latest_update_release_date": 20240903,
     "latest_update": {
@@ -95,11 +95,35 @@
         "5439488": 20240806,
         "5505024": 20240903
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Multiplayer",
+        "Strategy",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Battleground of the Gods",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 10,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Partial Nudity",
+        "Use of Alcohol",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }

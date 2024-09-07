@@ -1,11 +1,11 @@
 {
     "id": "01005A40168A2800",
     "base_tid": "01005A40168A2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pixel Game Maker Series CHAM THE CAT ADVENTURE",
+    "description": "\"Pixel Game Maker Series CHAM THE CAT ADVENTURE is a side-scrolling action game full of retro flavor.\nThe game is full of retro flavor, with a variety of tricks, including attack methods that change depending on the number of hearts (stamina).\nThe stages are not only side-scrolling action with various gimmicks, but also shooting aspects!\n\nIf you can collect all the keys hidden in each stage, you can challenge the hidden stages!\nIf you can collect all the keys hidden in each stage, you can challenge the hidden stage. Can you see the mysterious hidden boss?\n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20211216,
     "first_update_release_date": 20231026,
     "latest_update_release_date": 20231026,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20231026
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "The first in the fictional \"GAME BUDDY\" portable game series!　A retro-style action game!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence"
+    ],
     "region": null
 }
