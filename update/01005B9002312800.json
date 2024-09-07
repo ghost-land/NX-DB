@@ -1,11 +1,11 @@
 {
     "id": "01005B9002312800",
     "base_tid": "01005B9002312000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Binding of Isaac: Afterbirth+",
+    "description": "Isaac has discovered a labyrinth beneath his own house, filled with monsters, power-ups and unimaginable treasure. Can he survive the physical challenges and psychological trials of a world he never made?\n\nThe Binding of Isaac: Afterbirth+ is a dungeon-crawling shoot-'em-up that’s literally a different game each and every time you play it! The randomly generated maps are built with over 11,000 unique room configurations, each populated with a nearly endless variety of enemies, items, challenges and secrets!\n\nThe Binding of Isaac: Afterbirth+ includes:\n\n-Over 600 different items to collect\n-13 unique playable characters\n-More than 180 individual enemy types\n-90+ terrifying, deadly bosses\n-Multiple difficulty settings and game modes\n-Bestiary to record enemy encounters\n-20 professionally animated cartoon endings\n-AND MANY MORE SECRETS!",
+    "publisher": "Nicalis",
+    "developer": null,
+    "base_release_date": 20170907,
     "first_update_release_date": 20170928,
     "latest_update_release_date": 20230417,
     "latest_update": {
@@ -22,11 +22,19 @@
         "458752": 20220531,
         "589824": 20230417
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "What Lies in the Basement? INFINITE DUNGEONS of ACTION and DANGER!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mature themes and violence"
+    ],
     "region": null
 }

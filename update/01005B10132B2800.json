@@ -1,11 +1,11 @@
 {
     "id": "01005B10132B2800",
     "base_tid": "01005B10132B2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Double Dragon Neon",
+    "description": "Trained in the special form of martial arts called Sosetsuken it's up to you to defeat the evil Skullmageddon and his henchmen to rescue the love of your life, Marian!\n\nThe classic beat'em up feel with new powers, and new attacks!\nFight your way through a variety of levels including dangerous city streets, twisted science labs, an evil stronghold, outer space, and more! String together attacks using the mixtape system for brutal combos to keep your foes down and out. Use a variety of weapons including bats, knives, whips, and more to incapacitate unsuspecting enemies.\n\nJam out to the radical original soundtrack by award-winning composer and sound designer John Kaufman. Team up with a buddy in local co-op for the most brodacious high fives!",
+    "publisher": "Majesco Entertainment",
+    "developer": null,
+    "base_release_date": 20210113,
     "first_update_release_date": 20210517,
     "latest_update_release_date": 20231013,
     "latest_update": {
@@ -16,11 +16,19 @@
         "65536": 20210517,
         "131072": 20231013
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Fighting"
+    ],
+    "intro": "Brotacular! Legendary martial artists Billy and Jimmy Lee return in this creative re-imagining of the classic beat 'em up",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence",
+        "Sexualised Imagery",
+        "Users Interact"
+    ],
     "region": null
 }

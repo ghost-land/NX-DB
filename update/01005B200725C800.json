@@ -1,11 +1,11 @@
 {
     "id": "01005B200725C800",
     "base_tid": "01005B200725C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ギア・クラブ アンリミテッド",
+    "description": "世界の有名車種80種を収録した本作は、400以上のレース、200以上のトラックで、リアルなレース体験が可能。マイガレージでは、車のアップグレード、カスタマイズも自由自在。世界最高峰の車で白熱のレースを体感してください。",
+    "publisher": "Microids",
+    "developer": null,
+    "base_release_date": 20171214,
     "first_update_release_date": 20180221,
     "latest_update_release_date": 20180830,
     "latest_update": {
@@ -18,11 +18,16 @@
         "196608": 20180706,
         "262144": 20180830
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "レース",
+        "シミュレーション"
+    ],
+    "intro": "Nintendo Switch 初の本格的レーシングゲーム ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

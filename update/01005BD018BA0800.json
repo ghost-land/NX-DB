@@ -1,11 +1,11 @@
 {
     "id": "01005BD018BA0800",
     "base_tid": "01005BD018BA0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Run Sausage Run!",
+    "description": "Enjoy your short life as a hot dog playing SOLO or with FRIENDS! (up to 8 players)\n\n- Play as the tasty sausage of your choice. Weisswurst or blutwurst, bacon or chocolate… even president or ninja!\n\n- Run for your life and avoid getting sliced, chopped, burned, or smashed in this adventure run game!\n\n- Tons of juicy sausages to choose from and tons of hot dog skins to enjoy in this adventure run.\n\n- Compare the speed of your wursts in a classic Sausage Race or outrun a giant land mower in Panic Race! \n\nThis adventure run is a hot dog’s dream - or nightmare - depending on how well you do.",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20221111,
     "first_update_release_date": 20230429,
     "latest_update_release_date": 20230429,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20230429
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "Multiplayer",
+        "Arcade",
+        "Racing"
+    ],
+    "intro": "The most exciting sausage race in the world!\nLet the bodies hit the floor in a ketchup bath!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Violence"
+    ],
     "region": null
 }

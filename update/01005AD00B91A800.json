@@ -1,11 +1,11 @@
 {
     "id": "01005AD00B91A800",
     "base_tid": "01005AD00B91A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Never Give Up",
+    "description": "Never Give Up is packed full of vicious traps and hazards specifically designed to turn you into bloody chunks. When the going gets tough, the tough don't quit! From the creators of the brutal and beloved web series enjoyed by millions of players worldwide comes another installment of hardcore, skill-intensive platforming. Every time you beat a level, another element is layered in to make it even harder. Buzzsaws? Yup. Guided missiles? Mhmm. Giant rhino mechs? You know it. Never Give Up has all that and more with over 150 stages, huge boss battles, and voice acting from Arin Hanson.",
+    "publisher": "Armor Games Studios",
+    "developer": null,
+    "base_release_date": 20190813,
     "first_update_release_date": 20190906,
     "latest_update_release_date": 20190906,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20190906
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Death-Defying Platforming",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Violence"
+    ],
     "region": null
 }

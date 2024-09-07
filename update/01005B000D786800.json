@@ -1,11 +1,11 @@
 {
     "id": "01005B000D786800",
     "base_tid": "01005B000D786000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "DC Universe™ Online",
+    "description": "DC Universe™ Online is now on Nintendo Switch™! Join thousands of other players in this free-to-play, massively multiplayer online action game set in the popular DC universe. \n•\tChannel your inner hero or villain by creating a unique, customizable character with a variety of superpowers \n•\tExperience thrilling, fast-paced battles alongside and against DC characters including Batman, Wonder Woman, Superman, The Joker, and more\n•\tExplore immersive, story-driven adventures in Gotham City, Metropolis, Titans Island, Themyscira, Atlantis and many other famous DC locations\n\nAn SD Card is required to play this game.",
+    "publisher": "Daybreak Game Company",
+    "developer": null,
+    "base_release_date": 20190806,
     "first_update_release_date": 20190801,
     "latest_update_release_date": 20240904,
     "latest_update": {
@@ -71,11 +71,27 @@
         "3670016": 20240730,
         "3735552": 20240904
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Action",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Your character. Our universe. Create your own Superhero or Supervillain in DC Universe Online.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }

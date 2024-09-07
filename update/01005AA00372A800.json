@@ -1,11 +1,11 @@
 {
     "id": "01005AA00372A800",
     "base_tid": "01005AA00372A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "UNO",
+    "description": "UNO, one of the most well-known card game, makes its return to the Nintendo Switch™ with an assortment of exciting features such as the new Today’s Ruleset which adds more fun and new strategies to your UNO game! Race against others to empty your hand before everyone else in Classic play or customize your experience with a variety of House Rules.\nFor even more fun, use the brand new Emote system to show how you really feel to everyone else playing either locally or Online!",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20171107,
     "first_update_release_date": 20171127,
     "latest_update_release_date": 20210127,
     "latest_update": {
@@ -22,11 +22,26 @@
         "524288": 20200710,
         "589824": 20210127
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
     "region": null
 }

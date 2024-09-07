@@ -1,11 +1,11 @@
 {
     "id": "01005BD0112B8800",
     "base_tid": "01005BD0112B8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Mushroom Heroes",
+    "description": "Retro platformer where the player can switch between three different characters.\nYou have a 3 mushroom hero and each mushroom has special abilities, some of which the player needs in order to pass certain obstacles.\n\nJumpi can jump higher and float in the air.\nYuppi can kill enemies with his bow. The bow can also be used to detonate some walls and bombs.\nDombi can block enemies projectiles with his shield, and he can push or pull some objects.\n\nMushroom Heroes brings back the look and feel of the very best classic platformers from the 90's, introducing refreshed and engaging gameplay mechanics. If you miss platformers from the 16-bit era, and think games nowadays aren't that good anymore, think twice! Mushroom Heroes is for you.\n\n\nFeatures:\n• 38 Challenging Levels\n• Dozens of Unique Puzzles to Solve\n• EXTREMELY addicting\n• The Ultimate Casual Brain Teaser\n",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20200430,
     "first_update_release_date": 20200720,
     "latest_update_release_date": 20200720,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20200720
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "A puzzle platform adventure, with inspiration going all the way back to SNES and 8-bit classics.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

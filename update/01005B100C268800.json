@@ -1,11 +1,11 @@
 {
     "id": "01005B100C268800",
     "base_tid": "01005B100C268000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Ape Out",
+    "description": "Ape Out is a wildly intense and colorfully stylized smash ‘em up about primal escape, rhythmic violence, and frenetic jazz. Build up nearly unstoppable momentum and use your captors as both weapons and shields to crush everyone on your procedurally generated path to freedom.\n\nStylish Escape: Embrace bold colors and a dazzling perspective as you rush through tight corridors, open areas, and twisting labyrinths on a mad dash for freedom. Overcome all manner of human opposition, nefarious traps, and breakable obstacles to find each exit and escape captivity.\n\nGrab and Smash: Unleash your primal instincts and incredible strength to overpower your captors. Hold them steady to create a human shield, smash their feeble bodies into walls, or throw one into another in a violent explosion of humanity.\n\nDynamic Soundtrack: Find your rhythm in the chaos as a dynamic soundtrack of drums, cymbals, and decapitations drive the action to the edge of mayhem.",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20240229,
     "first_update_release_date": 20190225,
     "latest_update_release_date": 20210504,
     "latest_update": {
@@ -18,11 +18,29 @@
         "196608": 20190322,
         "262144": 20210504
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005AA011A4E800",
     "base_tid": "01005AA011A4E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Boomerang Fu",
+    "description": "使用回旋鏢來切碎你的敵人!\n最多可以有6名玩家進行對戰!\n\n取得強化道具來追打敵手!\n炸彈回旋鏢，隱身術，操縱對手的身體…等\n各種強化道具，讓對戰更加混沌!\n\n超過30個戰場\n有超過30個帶有陷阱的戰場!\n跳過移動的腳手架，滑過竹叢。\n在適當的時候移動牆壁，把敵人困住再給與打擊!",
+    "publisher": "Flyhigh Works",
+    "developer": null,
+    "base_release_date": 20210715,
     "first_update_release_date": 20210707,
     "latest_update_release_date": 20240613,
     "latest_update": {
@@ -17,11 +17,29 @@
         "131072": 20211215,
         "196608": 20240613
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "動作",
+        "射擊",
+        "派對",
+        "格鬥"
+    ],
+    "intro": "一個超級有趣的聚會遊戲來了\n用你的回旋鏢把你的敵人切成碎片!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
     "ratingContent": [],
     "region": null
 }

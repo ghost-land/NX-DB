@@ -1,11 +1,11 @@
 {
     "id": "01005BB00FA92800",
     "base_tid": "01005BB00FA92000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rogue Company Demo",
+    "description": "The world needs saving and only the best of the best can do it!\n\nRogue Company is the third-person tactical action shooter that puts the fate of the world in your hands. Suit up as one of the elite agents of Rogue Company, each with their own individual set of skills, and go to war in a variety of different game modes.\n\nRogue Company is action packed with no shortage of weapons, gadgets, and style. The mission starts now. Save the Day, Look Good, Get Paid.",
+    "publisher": "Hi-Rez Studios",
+    "developer": null,
+    "base_release_date": 2020,
     "first_update_release_date": 20200703,
     "latest_update_release_date": 20200703,
     "latest_update": {
@@ -15,11 +15,30 @@
     "versions": {
         "65536": 20200703
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Multiplayer"
+    ],
+    "intro": "Save the Day, Look Good, Get Paid.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }

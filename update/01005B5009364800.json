@@ -1,11 +1,11 @@
 {
     "id": "01005B5009364800",
     "base_tid": "01005B5009364000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Xeodrifter",
+    "description": "Xeodrifter is the story of an interstellar drifter traveling the stars on a simple mission of exploration. We join our nomad as he embarks on the investigation of a small cluster of four planets in the omega sector, after a collision with a rogue asteroid damaged his warp core.\n\nBlast your way through alien landscapes, seek out valuable secrets, and defeat ancient guardians to unlock powers from a legendary supreme culture in this exciting journey of mystery and adventure.",
+    "publisher": "Atooi",
+    "developer": null,
+    "base_release_date": 20180216,
     "first_update_release_date": 20220923,
     "latest_update_release_date": 20220923,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20220923
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Drifting through the stars.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

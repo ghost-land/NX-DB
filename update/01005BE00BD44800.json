@@ -1,11 +1,11 @@
 {
     "id": "01005BE00BD44800",
     "base_tid": "01005BE00BD44000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bass Pro Shops: The Strike - Championship Edition",
+    "description": "Bass Pro Shops: The Strike - Championship Edition combines authentic environments based on real lakes, engaging gameplay with accurate fish and lure behaviors that creates an immersive fishing adventure. Players can enjoy 3 different game-play modes including Quick Fish, Career and Bass Pro Shops Invitational Tournament, or compete with friends in mini games like boat races and casting challenges. Players cast, jig, set the hook, and fight as if a real fish were on the other end of the line. The game takes players to some of North America's most famous fishing hot spots and features eleven types of game fish including Largemouth, Smallmouth, Catfish, and Striped Bass as well as Northern Pike and Muskie. In addition, realistic lake bottom topography, advanced graphics, and authentic fishing gear from the Bass Pro Shops stores, all combine to offer virtual anglers the most comprehensive fishing game experience to-date. ",
+    "publisher": "PLANET ENTMT",
+    "developer": null,
+    "base_release_date": 20181117,
     "first_update_release_date": 20181219,
     "latest_update_release_date": 20181219,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "131072": 20181219
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Simulation",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Fish for Real",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online interactivity",
+        "General"
+    ],
     "region": null
 }

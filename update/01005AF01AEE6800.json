@@ -1,11 +1,11 @@
 {
     "id": "01005AF01AEE6800",
     "base_tid": "01005AF01AEE6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Indoor Kickball",
+    "description": "Indoor Kickball is a 1v1 game of kickball played in the rooms of your house! Play in the world's first Kickball Season Mode! Play 1v1 local multiplayer or challenge the CPU against one of a dozen playable characters!\n\nFeatures:\nWorld's first Kickball video game\nNo strikes out or foul balls in this chaotic game of kickball\nKick through windows for home run\nCountless interactive and destructible items throughout 10 different indoor fields\nDestroy the kitchen cabinet doors and send plates and cups flying\nDiverse set of 18 unlockable characters with multiple variations of each\nCustomizable characters with hundreds of combinations of hats, masks, glasses, backpacks and tons of other accessories\nPlay to unlock new indoor fields and dozens of cosmetics for your character with 1000s of unique combinations\nChallenge a friend and play 1v1 local multiplayer (*requires controller for 2nd player)\n\nSeason Mode:\nPlay in a randomly generated 14 game kickball season\nLook out for angry Mom or Dad who may try to ruin your fun\nMake it to the playoffs for a chance to win the Kickball Kup!",
+    "publisher": "Snow Day Software",
+    "developer": null,
+    "base_release_date": 20230929,
     "first_update_release_date": 20230922,
     "latest_update_release_date": 20231207,
     "latest_update": {
@@ -17,11 +17,18 @@
         "131072": 20231123,
         "196608": 20231207
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Party",
+        "Action",
+        "Other"
+    ],
+    "intro": "Indoor Kickball is fast paced 1v1 game of kickball played where your parents wouldn't let you. Play kickball in the living room, kitchen, bedroom, and many other indoor fields! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }

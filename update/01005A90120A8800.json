@@ -1,11 +1,11 @@
 {
     "id": "01005A90120A8800",
     "base_tid": "01005A90120A8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "MotoGP™20",
+    "description": "MotoGP™20が今年も登場！公式コースのディテールやバイクのダメージ等グレードアップしたグラフィック、モーションとスキャニングによってよりリアルに表現されたライダーのアニメーション。更に、根強いファンの要望から復活したチームの育成ができる「マネージャーキャリアモード」や、名ライダーを収録した「歴史チャレンジモード」でこれまでにないMotoGP体験ができる！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20200827,
     "first_update_release_date": 20200826,
     "latest_update_release_date": 20200914,
     "latest_update": {
@@ -16,11 +16,17 @@
         "65536": 20200826,
         "131072": 20200914
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "レース",
+        "スポーツ",
+        "シミュレーション"
+    ],
+    "intro": "MotoGP™公式ゲームが更に進化して今年も登場！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

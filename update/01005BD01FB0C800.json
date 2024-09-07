@@ -1,11 +1,11 @@
 {
     "id": "01005BD01FB0C800",
     "base_tid": "01005BD01FB0C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Exit Station 7",
+    "description": "You entered a train station and appear to be stuck in a loop. Multiple levels to test your observation skill. See if you have what it takes to escape the loop! ",
+    "publisher": "SURPRISED HOTDOG",
+    "developer": null,
+    "base_release_date": 20240817,
     "first_update_release_date": 20240827,
     "latest_update_release_date": 20240827,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20240827
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Can you solve the anomaly challenges before time runs out?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

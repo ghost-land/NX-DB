@@ -1,11 +1,11 @@
 {
     "id": "01005AB01119C800",
     "base_tid": "01005AB01119C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SUSHI REVERSI",
+    "description": "Introducing real-time reversi where sushi rampages across the board!\nA maximum of 4 sushi scrambles for isolation plates on a variety of stages which is a big runaway! ?\nLet's make full use of items and skills to interfere!\n\n▼ Game features\nTo place a plate, attack first! Attack your opponent's sushi!\nConsume the dish points you got by attacking and place the dish!\nUltimately, the sushi with the most plates on the board wins!\n\n▼ Unique items and skills\nActivate items and skills to win!\nFlames, barriers, ghosts, meteorites, and laser beams! ?\nThere is no doubt that the different skills for each sushi will be incandescent!\n\n▼ Various large volume stage!\nNot to mention the basic square stage, there are 100 types in total!\nCross bridges, climb ladders, warp! ?\nEnjoy all kinds of stage in the image of a famous spot in Japan!",
+    "publisher": "Caerux",
+    "developer": null,
+    "base_release_date": 20200723,
     "first_update_release_date": 20200819,
     "latest_update_release_date": 20200819,
     "latest_update": {
@@ -15,11 +15,25 @@
     "versions": {
         "65536": 20200819
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "Action",
+        "Party"
+    ],
+    "intro": "A big runaway of sushi running and jumping!\nMessed up real-time reversi!\nWhich sushiwill get the most dishes ...! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Very Mild Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

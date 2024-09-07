@@ -1,11 +1,11 @@
 {
     "id": "01005AB0202FC800",
     "base_tid": "01005AB0202FC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Desktop Dodgeball 2",
+    "description": "桌上躲避球！\n分享 Joy-Con™，最多可四人一起享樂！\n透過簡單的操作，競爭瞬間的判斷力與策略性！\n\n透過風格設定，創造出充滿個性的\n專屬自己的選手吧！\n\n多種特殊規則與球場登場！\n獲得陣型和制服，\n目標是打造最強的原創隊伍！\n\n【練習賽】\n輕鬆享受單人比賽，\n並可設定各種球類和規則。\n\n【好友對戰】\n最多可四人一起遊玩！\n隨心所欲地組合隊伍！\n大家一起享受躲避球的樂趣吧！\n\n【隊伍編成】\n自由設定選手名、制服、風格等，\n創建專屬的原創隊伍吧！\n\n【錦標賽】\n戰勝強敵，\n以世界大賽冠軍為目標吧！\n\n【膠囊射擊】\n使用各模式獲得的點數，\n來取得新的制服和陣型！\n獲得稀有物品，強化你的隊伍吧！\n\n【趣味模式】\n閃避球來獲得點數吧！\n金色球是高分的機會！",
+    "publisher": "SAT-BOX",
+    "developer": null,
+    "base_release_date": 20240919,
     "first_update_release_date": 20240905,
     "latest_update_release_date": 20240905,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20240905
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "運動",
+        "訓練",
+        "學習",
+        "桌上遊戲"
+    ],
+    "intro": "投擲、閃避、接球！\n全力奪取勝利吧！\n在進化版的躲避球中進行激烈對決！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

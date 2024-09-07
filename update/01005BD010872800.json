@@ -1,11 +1,11 @@
 {
     "id": "01005BD010872800",
     "base_tid": "01005BD010872000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "女神異聞錄５ 亂戰：魅影攻手",
+    "description": "『女神異聞錄５』結束後約半年，\n於暑假再次集結的心之怪盜團，\n被捲入了接踵而來的新事件……\n日本各地發生了神秘的怪奇事件。\n扭曲大人的認知世界——「殿堂」又復活了？\n一行人再次披上怪盜裝，\n出動解決新事件。\n\n本作不僅主角（ＪＯＫＥＲ），\n其他怪盜團成員也能直接操作！\n善用熟悉的角色武器／槍／技能\n華麗地穿越\n陰影群聚的街道吧！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20200618,
     "first_update_release_date": 20200617,
     "latest_update_release_date": 20200617,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20200617
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "動作",
+        "角色扮演",
+        "冒險",
+        "格鬥"
+    ],
+    "intro": "女神異聞錄系列首款\n動作RPG登場！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

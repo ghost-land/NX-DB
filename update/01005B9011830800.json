@@ -1,11 +1,11 @@
 {
     "id": "01005B9011830800",
     "base_tid": "01005B9011830000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pen and Paper Games Bundle",
+    "description": "Enjoy hours and hours of adventures in these turn-based, retro style, pixel-art RPG full of danger, intrigue, and semi-appropriate cultural references! All games include all of their ever-released expansions with many new characters, enemies, quests and locations! \n-------\nIn Knights of Pen and paper, take on the roles of in-game players taking on the roles of their characters in a traditional pen and paper RPG session in the ultimate meta roleplaying experience. As both the playing characters AND the game master, you can choose which battles to fight. Put together a bunch of monsters to make for a challenging fight and your efforts will be equally rewarded!\n-------\nPrepare to join Knights of Pen & Paper 2 in a turn-based, retro style, pixel-art adventure full of danger, intrigue, and semi-appropriate cultural references!\n\nNow including races like Dwarf or Elf, assemble the party of your choice, choose quests and combat encounters, delve into dungeons, craft powerful items, and complain loudly to the GM.\n-------\nGalaxy of Pen & Paper is a turn-based RPG that takes the pen and paper games of your childhood and launches them into space. \n\nSet in the year 1999, a group of friends brave the perils of a strange new galaxy, armed with dice and unique skill sets.",
+    "publisher": "Plug In Digital",
+    "developer": null,
+    "base_release_date": 20200408,
     "first_update_release_date": 20200529,
     "latest_update_release_date": 20200529,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20200529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Board Game",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": "Get the three successful and award winning games Knights of Pen & Paper + Knights of Pen & Paper 2 + Galaxy of Pen and Paper in this discounted bundle!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to Sexual Violence"
+    ],
     "region": null
 }
