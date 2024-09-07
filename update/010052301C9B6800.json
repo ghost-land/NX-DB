@@ -1,11 +1,11 @@
 {
     "id": "010052301C9B6800",
     "base_tid": "010052301C9B6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "トリガーハート　エグゼリカ",
+    "description": "2006年アーケードゲームでリリースされ好評だった、あのメカ少⼥の傑作シューティングゲーム『トリガーハート　エグゼリカ』がNintendo Switch™にて、ついに復刻！！\n今回アーケードモードとストーリーモードにくわえて、アレンジモードとトレーニングモードも追加。もちろん縦画⾯モードやインターネットランキングモードも実装。アレンジ⾳源を追加したサウンドモードも収録予定。シューティングゲームファン納得の集⼤成の仕様です。",
+    "publisher": "コスモマキアー",
+    "developer": null,
+    "base_release_date": 20231214,
     "first_update_release_date": 20231208,
     "latest_update_release_date": 20240328,
     "latest_update": {
@@ -17,11 +17,16 @@
         "131072": 20240112,
         "196608": 20240328
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "シューティング",
+        "アーケード"
+    ],
+    "intro": "“勇気と信念の命ずるところ、心のトリガーを引け！”",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

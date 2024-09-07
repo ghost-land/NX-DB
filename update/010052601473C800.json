@@ -1,11 +1,11 @@
 {
     "id": "010052601473C800",
     "base_tid": "010052601473C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Preston Sterling and the Legend of Excalibur",
+    "description": "PRESTON STERLING AND THE LEGEND OF EXCALIBUR is an adventure that will transport you into the world of English myths and legends.\nTackle tricky puzzles and enjoy an exciting story, lovable characters and stunning scenes and locations!\n\nAN INNOVATIVE DESIGN\nThe game's quick-to-learn controls and gradually increasing level of difficulty make the adventure easy to grasp, even for beginners. It also offers dynamic help tools and optional tips to help you to successfully master frustrating stages of the game without missing out on the fun involved in solving the challenging tasks and activities faced by Preston.\n\nAN EXCITING ADVENTURE\nPreston Sterling is an adventurer, traveller and treasure-hunter all rolled into one. He's normally never afraid of a challenge, but his new job quickly tests him to his limits. Preston's latest task is to find the most mystical artefact in English mythology: Excalibur, the sword of the legendary King Arthur. Little does he know, however, that the hunt for this fabled treasure will involve far more danger than he could ever have imagined ...\n\nREALISTIC SCENES AND LOCATIONS\nExperience an amazingly detailed and lovingly created world of adventure. Every location on Preston's journey has its own special charm that contributes towards your exciting game experience.",
+    "publisher": "Miracle Box Games",
+    "developer": null,
+    "base_release_date": 20210513,
     "first_update_release_date": 20210519,
     "latest_update_release_date": 20210519,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210519
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

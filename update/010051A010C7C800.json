@@ -1,11 +1,11 @@
 {
     "id": "010051A010C7C800",
     "base_tid": "010051A010C7C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Breeder Homegrown: Director's Cut",
+    "description": "Breeder Homegrown is a short horror game about a family dealing with a strange creature over several generations. You will encounter some puzzles but the game relies mostly on atmosphere, music and dialogues.\n\nThe whole experience takes about 40-90 minutes depending on how much you want to explore.\n\nThis is the «Director's Cut» version of Breeder Homegrown. Dialogues have been streamlined, some issues have been fixed and if you look close enough, you might find some new little surprises.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20200307,
     "first_update_release_date": 20200320,
     "latest_update_release_date": 20200320,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20200320
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Other"
+    ],
+    "intro": "An old man escapes from the clinic where he spent his whole life and returns home. He remembers his childhood. His toys. His monsters.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Mature Themes",
+        "Violence"
+    ],
     "region": null
 }

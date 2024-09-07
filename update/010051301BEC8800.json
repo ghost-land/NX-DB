@@ -1,11 +1,11 @@
 {
     "id": "010051301BEC8800",
     "base_tid": "010051301BEC8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "GENSEISUIKODEN PLUS",
+    "description": "'Venture into the untamed realm of Ataho, the enigmatic protagonist, secluded within the heart of the rugged mountains. \nA fateful day dawns when a formidable tiger fist martial artist emerges, \nbeckoning Ataho to partake in an epic martial arts showdown, \nbut he gets caught up in unforeseen events...",
+    "publisher": "DAEWON MEDIA",
+    "developer": null,
+    "base_release_date": 20231130,
     "first_update_release_date": 20231207,
     "latest_update_release_date": 20240120,
     "latest_update": {
@@ -18,11 +18,23 @@
         "196608": 20231226,
         "262144": 20240120
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG"
+    ],
+    "intro": "Unleash the Fury of Tekken and Witness Rivulets of Sweat\nAn Action-Packed Martial Arts RPG",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
     "region": null
 }

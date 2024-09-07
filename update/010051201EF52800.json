@@ -1,11 +1,11 @@
 {
     "id": "010051201EF52800",
     "base_tid": "010051201EF52000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Alchemy: Origins",
+    "description": "Alchemy: Origins is a classic alchemy game that starts you with 4 basic elements and allows to connect them to create more and more elaborate items - all the way to reaching the stars.\n\nDiscover over 400 unique elements that can be combined in multiple ways. Can you find them all?",
+    "publisher": "Error300 Games",
+    "developer": null,
+    "base_release_date": 20240620,
     "first_update_release_date": 20240625,
     "latest_update_release_date": 20240625,
     "latest_update": {
@@ -15,11 +15,25 @@
     "versions": {
         "65536": 20240625
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Alchemy: Origins is a classic alchemy game that starts you with 4 basic elements and allows to connect them to create more and more elaborate items - all the way to reaching the stars.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Alcohol Reference"
+    ],
     "region": null
 }

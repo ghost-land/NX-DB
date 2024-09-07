@@ -1,11 +1,11 @@
 {
     "id": "010051801D498800",
     "base_tid": "010051801D498000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Coloring book series Zoo",
+    "description": "This coloring is the ideal way to learn about ZOO animals and have fun coloring!\nGet access to more than 150 new pictures including African Elephant, Moose, Alpaca, and Quokka.\nThey are all waiting to be brought to life in your color!\n\n■Coloring has never been easier!\nAll you need to do is tap the screen, so everyone can easily handle various types of tools and enjoy coloring.\n\n■Build your own gallery!\nYou can also exhibit your finished colorings in your gallery and enjoy them with family.\nEven if your child is not reading yet, you can show the collection and read the name to your child so they can begin identifying the animals!",
+    "publisher": "Imagineer",
+    "developer": null,
+    "base_release_date": 20231211,
     "first_update_release_date": 20231213,
     "latest_update_release_date": 20231213,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20231213
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Communication",
+        "Study",
+        "Lifestyle",
+        "Other"
+    ],
+    "intro": "Popular coloring game is back.\nCome see your favorite ZOO animals!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

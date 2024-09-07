@@ -1,11 +1,11 @@
 {
     "id": "01005140151C2800",
     "base_tid": "01005140151C2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TOEM",
+    "description": "Set off on a delightful expedition and use your photographic eye to uncover the mysteries of the magical TOEM in this hand-drawn adventure game. Chat with quirky characters, solve their problems by snapping neat photos, and make your way through a relaxing landscape!\n\nKey Features\n- Take photos with your camera to solve puzzles and help people!\n- Listen to chill beats and take in your surroundings!\n- Meet quirky characters and help them with their problems!\n\n\n",
+    "publisher": "Something We Made",
+    "developer": null,
+    "base_release_date": 20210917,
     "first_update_release_date": 20210902,
     "latest_update_release_date": 20230802,
     "latest_update": {
@@ -21,11 +21,27 @@
         "524288": 20221221,
         "655360": 20230802
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A photo adventure",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010052301F29A800",
     "base_tid": "010052301F29A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Burst Hero",
+    "description": "Rich Gameplay Combinations: 19 heroes, 41 weapons, 31 types of bullets, 76 cards, 17 talents, 5 challenging maps, and 20 difficulty mechanisms.\n\nFast-paced gameplay, easy to learn. Each battle lasts about 10 minutes, offering both casual and fun experiences.\n\nUnique weapon system and imaginative bullet designs. Different weapons and bullets have completely different mechanisms, parameters and skills.\n\nStrategic card system. Building your deck can create different gameplay styles.\n\nDiverse level challenges. Each level has different enemies and different mechanisms. Each game has a different experience. You can unlock the final dynamic level, and all the gameplay in the level is random.",
+    "publisher": "Happy Player",
+    "developer": null,
+    "base_release_date": 20240530,
     "first_update_release_date": 20240516,
     "latest_update_release_date": 20240516,
     "latest_update": {
@@ -15,11 +15,30 @@
     "versions": {
         "65536": 20240516
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG",
+        "Shooter",
+        "Strategy"
+    ],
+    "intro": "Deck-building Rogue-like shooting game. Imaginative featured bullets, 19 heroes, 41 weapons, 31 types of bullets, 76 cards. Both automatic aiming and manual aiming are allowed. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
     "region": null
 }

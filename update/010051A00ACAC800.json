@@ -1,11 +1,11 @@
 {
     "id": "010051A00ACAC800",
     "base_tid": "010051A00ACAC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Overdriven Reloaded: Special Edition",
+    "description": "Let's Destroy Huge Bosses and dodge thousand of bullets ...\nIt's time to save the universe one more time!\n\n7 modes:\n- Story (with 4 difficulties: EASY - NORMAL - HARD- NIGHTMARE), \n- Arcade, \n- Manic (no healthbar for player), \n- The Line, \n- 7 Challenges, \n- 56 Puzzle-Maps (Color-Reflex Mode / A Match 3 with bullets!)\n- Boss-Rush! \n\n- 2 spaceships (+ 1 unlockable), \n- 50 alien artifacts to collect, \n- 10 space cows to find, \n- 70 \"In Game Achievements\", \n- Local Leaderboards for all modes and difficulties, \n- A great original instrumental rock soundtrack! (Fully listenable from the game menu.)",
+    "publisher": "TOMAGameStudio",
+    "developer": null,
+    "base_release_date": 20181231,
     "first_update_release_date": 20181231,
     "latest_update_release_date": 20181231,
     "latest_update": {
@@ -15,11 +15,25 @@
     "versions": {
         "65536": 20181231
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "The HD shoot' em up: vertical, fast & fun! \nRelive the pleasures of arcade shoot'em ups in plenty\nof game modes, from 1 to 4 players in Local Co-op. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
     "region": null
 }

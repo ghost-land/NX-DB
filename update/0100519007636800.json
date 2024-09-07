@@ -1,11 +1,11 @@
 {
     "id": "0100519007636800",
     "base_tid": "0100519007636000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Cube Life: Island Survival",
+    "description": "In Survival Mode, the player must maintain health, explore caves, gather resources, and craft tools on an unknown island. Get food, explore and build during the day. Hide, fight, and surive as night falls on the island. \n\nIn Creative Mode, the game will allow players to build constructions in 3D generated game worlds. There is no limit to your imagination.\n\nFeatures:\nBlock building open-world\nSuper-Duper Realistic Graphics\nCreative Mode\nSurvival Mode\nSkin Editor\nDay/Night cycles\nTons of items and tools to discover\nCrafting\n",
+    "publisher": "Cypronia",
+    "developer": null,
+    "base_release_date": 20201227,
     "first_update_release_date": 20201214,
     "latest_update_release_date": 20201214,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20201214
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Other"
+    ],
+    "intro": "Explore, build, and craft in a block-building, survival game with Super-Duper realistic graphic.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
     "region": null
 }

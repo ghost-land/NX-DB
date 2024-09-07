@@ -1,11 +1,11 @@
 {
     "id": "010051400B17A800",
     "base_tid": "010051400B17A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fate/EXTELLA LINK",
+    "description": "「Fate」シリーズのサーヴァント26騎が作品の枠を越えて参戦し、戦いを繰り広げるアクションゲームがNintendo Switchに登場。\nNintendo Switch版ではTVモード、携帯モード、テーブルモードを切り替えて、家でも外でも好きなスタイルで楽しめる！\nさらに4VS4のチーム対戦が楽しめるマルチプレイがローカル通信に対応し、Nintendo Switch本体を持ち寄れば友達といつでもどこでも対戦可能に！\nネロ、玉藻の前、アルテラが着ぐるみのような姿になる新規衣装【ふにふに】も新たに収録。",
+    "publisher": "マーベラス",
+    "developer": null,
+    "base_release_date": 20190131,
     "first_update_release_date": 20190129,
     "latest_update_release_date": 20190227,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20190129,
         "131072": 20190227
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション"
+    ],
+    "intro": "Fate新作アクションがNintendo Switchに登場！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
     "region": null
 }

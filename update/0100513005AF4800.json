@@ -1,11 +1,11 @@
 {
     "id": "0100513005AF4800",
     "base_tid": "0100513005AF4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rock'N Racing Off Road DX",
+    "description": "Rock'N Racing Off Road DX offers the most entertaining and exciting races, with loads of skids, crashes and amazing jumps. You will have several modes of play, such as Cup mode, time trial and multi-player with the option of up to 4 Players at a time.\n\nOnline ranking table where you can compare your best times with friends and players from around the world.\n\nFeatures:\n\n- Wide variety of tracks.\n- Multi-player with 4 players!\n- Realistic physics for driving, jumps and crashes.\n- Loads of Rock'N Roll music.",
+    "publisher": "EnjoyUp Games",
+    "developer": null,
+    "base_release_date": 20171110,
     "first_update_release_date": 20180517,
     "latest_update_release_date": 20180517,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20180517
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation",
+        "Party"
+    ],
+    "intro": "Get ready to enjoy Off Road races with your friends and family!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

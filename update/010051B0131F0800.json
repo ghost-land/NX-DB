@@ -1,11 +1,11 @@
 {
     "id": "010051B0131F0800",
     "base_tid": "010051B0131F0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Monster Jam Steel Titans 2",
+    "description": "More Trucks! New Worlds! \n\nPlay with your friends in brand new online and split-screen multiplayer modes!\n\nExplore 5 huge outdoor worlds and unlock their secrets!\n\nChoose from 38 official trucks and upgrade them over the course of your career! \n\nCompete in authentic stadium events and race in various modes to become the ultimate champion!",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20210303,
     "first_update_release_date": 20210215,
     "latest_update_release_date": 20210225,
     "latest_update": {
@@ -16,11 +16,30 @@
         "65536": 20210215,
         "131072": 20210225
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online interactivity",
+        "General",
+        "In-game purchases"
+    ],
     "region": null
 }

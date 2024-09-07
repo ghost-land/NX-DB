@@ -1,11 +1,11 @@
 {
     "id": "010052000A574800",
     "base_tid": "010052000A574000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Drowning",
+    "description": "Walk through a variety of beautiful low-poly environments as a story unfolds about how he learns to live with his inner demon. You will play in the eyes of a young boy starting out high school in year 7, and play through his following years, where he learns that living with depression is like living with someone trying to put you down all the time. Walk through all the beautiful environments with a lovely soundtrack that suits the current mood of the game, and find all the hidden endings.",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20190131,
     "first_update_release_date": 20190201,
     "latest_update_release_date": 20190306,
     "latest_update": {
@@ -16,11 +16,19 @@
         "131072": 20190201,
         "196608": 20190306
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Other"
+    ],
+    "intro": "Drowning is a short game about a boy who quickly discovers he has depression in his earlier years of high school.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Coarse Language"
+    ],
     "region": null
 }

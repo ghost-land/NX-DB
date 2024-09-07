@@ -1,11 +1,11 @@
 {
     "id": "010051601DC3C800",
     "base_tid": "010051601DC3C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TV Studio Story",
+    "description": "Lights, camera, action! Get ready to enter the TV industry... Kairosoft style!\n\nIn this charming pixel art sim game, you'll create your own shows, deciding everything from the theme and genre down to the set and the performers who star in it. Experiment with different combinations, and you might just have a hit on your hands!\n\nWhere would a TV show be without its stars? Build rapport with different talent agencies, find performers that specialize in certain genres, and get the studio audience really fired up!\n\nPreparation is an important part of any production. Send your staff out to scout new locations, and they'll come back with new themes, genres, and decor items, giving you even more options to work with.\n\nOnce one show airs, you can start on another right away! Publicize it in magazines, on the radio, or on social media to win new fans. How high will the ratings on your next show be...?\n\nIt's time to take control of the airwaves and create a hit that will go down in TV history!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20240307,
     "first_update_release_date": 20240228,
     "latest_update_release_date": 20240228,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20240228
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "Create shows, sign stars, and dominate the airwaves in this TV studio sim.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

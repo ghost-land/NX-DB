@@ -1,11 +1,11 @@
 {
     "id": "01005160151EE800",
     "base_tid": "01005160151EE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Lambs on the road : The Beginning",
+    "description": "From the creators of Eternum EX, in collaboration with Gone Mad studio.\n\nLambs on the road is a survival horror story of a father looking for her daughter.\n\nHelp John to find her daughter, Mary, throught different dangers, lost in a post-apocalyptic world where the chaos reigns.\nTry to escape from the starving and desperate people, hide, run, fight and overall, never look back.\n\nFeatures:\n- A short heartbreaking story that will hold your heart in a fist\n- A personal journey of learning how to survive\n- A tale filled with horror and desperation\n- Colorful art to accompany your journey\n- A nice combination between platformer and adventure game",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20210715,
     "first_update_release_date": 20210620,
     "latest_update_release_date": 20210620,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20210620
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Puzzle"
+    ],
+    "intro": "Lambs on the road is a adventure platformer game with small puzzles. Help John to find her daughter in a post-apocalyptic world plenty of dangers.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
     "region": null
 }
