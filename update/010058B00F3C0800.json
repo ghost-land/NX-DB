@@ -1,11 +1,11 @@
 {
     "id": "010058B00F3C0800",
     "base_tid": "010058B00F3C0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Dreaming Canvas",
+    "description": "In Dreaming Canvas you are free to choose your destination and explore it at your own pace. Meet interesting other travelers along your journey, listen to inspirational art quotes from famous painters and locate canvasses scattered around the landscape...\nWhen you find a canvas, get ready to paint the landscape of your dreams...",
+    "publisher": "Playstige Interactive",
+    "developer": null,
+    "base_release_date": 20190927,
     "first_update_release_date": 20210416,
     "latest_update_release_date": 20210416,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20210416
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Education",
+        "Lifestyle"
+    ],
+    "intro": "Dreaming Canvas is a first-person adventure game where you can explore magical destinations, collect art-inspirations and paint pictures...",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

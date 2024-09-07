@@ -1,11 +1,11 @@
 {
     "id": "010057D013210800",
     "base_tid": "010057D013210000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Halloween Forever",
+    "description": "When an evil sorcerer plunges the world into a never ending Halloween, you must embark on an adventure to discover your destiny and answer the ultimate question; Why is everything so creepy? Help Pumpkin Man and friends fight their way through haunted graveyards, spooky mansions, and so much more across five bonkers worlds! \n\nExpect to see:\n\n• Challenging Boss Fights!\n• Undead sorcerers!\n• Chainsaw enthusiasts!\n• Disembodied flying heads!\n• Nasty good chiptunes!\n• And candy corn galore!\n\nLet the nightmare begin in Halloween Forever!",
+    "publisher": "Vitei Backroom",
+    "developer": null,
+    "base_release_date": 20210212,
     "first_update_release_date": 20210506,
     "latest_update_release_date": 20210506,
     "latest_update": {
@@ -15,11 +15,28 @@
     "versions": {
         "65536": 20210506
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Introducing Halloween Forever, the only pumpkinized retro platformer taking you back to simpler times.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
     "region": null
 }

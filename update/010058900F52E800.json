@@ -1,11 +1,11 @@
 {
     "id": "010058900F52E800",
     "base_tid": "010058900F52E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Clea",
+    "description": "Mum and Dad have been experimenting on Chaos Servants, but now, the monsters have been let loose. Clea, with her brother in tow, must escape from the Whitlock Mansion.\n\nWatch your back, Clea. Those closest to you may be the real terror.\n\nSkill-focused horror:\nClea is primarily a test of skills. Enemies roam the halls dynamically in real-time, reacting to the players' every noise. Clea is a challenging title, rewarding those who have mastered its mechanics.\n\nOutwit the Chaos Servants:\nThe Chaos Servants are on the hunt. Listen for their footsteps, peek under doors, and stay far, far away.\n\nEscape the Whitlock Mansion:\nThe Whitlock family has trapped Clea inside the mansion. Hunt down key items and solve the puzzles designed to lock you from the outside world.\n\nNo jump scares:\nNo prescripted scares, promise. Your skills and actions will determine Clea's fate.\n\nUnveil family history:\nThe Whitlock bloodline is filled with dark memories. Obtain memory orbs and uncover your family secrets through bonus chapters.",
+    "publisher": "Sekai Games",
+    "developer": null,
+    "base_release_date": 20201031,
     "first_update_release_date": 20201020,
     "latest_update_release_date": 20220105,
     "latest_update": {
@@ -19,11 +19,27 @@
         "262144": 20210511,
         "327680": 20220105
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Clea is a jump scare free, skill-based survival horror adventure.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes"
+    ],
     "region": null
 }

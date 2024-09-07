@@ -1,11 +1,11 @@
 {
     "id": "010057F013764800",
     "base_tid": "010057F013764000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Puzzle Plowing A Field",
+    "description": "Solve the puzzle in 50 extra levels.\nThe goal of the game is easy.\nGo through all the areas without leaving any and without going through it twice.\n",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210104,
     "first_update_release_date": 20210106,
     "latest_update_release_date": 20210106,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20210106
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

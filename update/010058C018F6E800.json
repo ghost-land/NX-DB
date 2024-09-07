@@ -1,11 +1,11 @@
 {
     "id": "010058C018F6E800",
     "base_tid": "010058C018F6E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "アルカディア・フォールン",
+    "description": "不本意ながら悪い精霊に縛り付けられることになる、若き錬金術師見習いの役を演じましょう。突然、人類と魔法の戦いに巻き込まれた彼らは、自らの運命から逃れるため、思いがけないヒーローたちの一団に加わり、世界を救わなければなりません。\n\n華麗な日本風アニメの美学と北欧の魅惑的なストーリーが融合した、美しいロールプレイング体験に没入しましょう。\n\nあなたが演じる錬金術師は、5人の仲間と旅をする中で、そのうちの4人と恋愛関係になることができます\n\n誰と恋愛をすることを選んでも、5番目の仲間で、新しい永遠の大親友になり得るマイムをはじめ、すべての人と有意義なプラトニックな関係を築くことができます！",
+    "publisher": "Galdra Studios",
+    "developer": null,
+    "base_release_date": 20221117,
     "first_update_release_date": 20221201,
     "latest_update_release_date": 20221201,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20221201
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング",
+        "パズル",
+        "シミュレーション",
+        "アドベンチャー"
+    ],
+    "intro": "『アルカディア・フォールン』はあなたの選択がキャラクターの人格を形成するモダンファンタジービジュアルノベルです。内気なキャラ、大胆なキャラ、それとも大のジョーク好き？あ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "性的ほのめかし",
+        "ののしり言葉 (軽度)"
+    ],
     "region": null
 }

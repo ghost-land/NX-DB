@@ -1,11 +1,11 @@
 {
     "id": "0100584016D94800",
     "base_tid": "0100584016D94000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Upaon: A Snake's Journey",
+    "description": "Every fruit collected increases the snake's size, so think carefully before eating averything in your way and... Please don't bite yourself.\n\nGame Features:\n- 100 handcrafted puzzles.\n- Find your own solution: Open-ended puzzles, every room have lots of ways to solve.\n- 3 hours gameplay with gameplay variations each world.\n- 5 worlds variety.\n- Original Soundtrack by Vincent Colavita.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220217,
     "first_update_release_date": 20220113,
     "latest_update_release_date": 20220113,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20220113
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Strategy",
+        "Adventure"
+    ],
+    "intro": "Upaon: A Snake's Journey is a casual puzzle game that mix the classic game Snake with Sokoban mechanics.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

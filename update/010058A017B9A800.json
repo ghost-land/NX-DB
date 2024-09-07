@@ -1,11 +1,11 @@
 {
     "id": "010058A017B9A800",
     "base_tid": "010058A017B9A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "나유타의 궤적 아드 아스트라",
+    "description": "세계의 끝에서 만난 소년과 소녀.\n이 세계에는 「끝」이 있다――. 우리는 예전부터 그렇게 배워 왔다.\n무한하게 보이는 바다도 확실한 끝이 있어, 그 너머로는 나아갈 수 없다.\n“세계는 평평하니까” 많은 학자들은 그렇게 단정하고 사람들은 그것을 믿는다. ……정말로 그럴까.\n아니, 분명 다를 거야. 세상에는 아직 많은 미지가 남아 있다. 「별의 조각」이 비추는 “그 광경”은 대체 무엇일까?\n그래서 나는 굳게 믿는다.그래, 세계는 더, 훨씬 더 넓을 거라고──.",
+    "publisher": "Clouded Leopard Entertainment",
+    "developer": null,
+    "base_release_date": 20220526,
     "first_update_release_date": 20220516,
     "latest_update_release_date": 20220516,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20220516
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "액션",
+        "RPG"
+    ],
+    "intro": "별과 인연을 순환하는 모험이 Nintendo Switch™로 등장!\n우리의 섬에는 별과 유적이 내린다.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "폭력성"
+    ],
     "region": null
 }

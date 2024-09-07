@@ -1,11 +1,11 @@
 {
     "id": "0100582010AE0800",
     "base_tid": "0100582010AE0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Crysis 2 Remastered",
+    "description": "Following the events of the groundbreaking original Crysis, aliens have returned to a world ravaged by climate disasters. As the invaders lay waste to New York and begin an assault that threatens the total annihilation of humankind, only you have the technology to lead the fightback. Playing as a super-soldier equipped with the upgraded Nanosuit 2.0, you must adapt to the battlefield using its game-changing Stealth, Armor, and Power abilities. Customize your Nanosuit and weapons in real-time and unlock incredible new powers as you battle for humanity's survival. ",
+    "publisher": "Crytek",
+    "developer": null,
+    "base_release_date": 20211015,
     "first_update_release_date": 20211021,
     "latest_update_release_date": 20220523,
     "latest_update": {
@@ -17,11 +17,28 @@
         "131072": 20211206,
         "196608": 20220523
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "First-Person Shooter"
+    ],
+    "intro": "Relive the legendary single-player campaign  from the classic first-person shooter, Crysis 2, optimized for today's hardware in Crysis 2 Remastered. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Strong Language",
+        "Violence"
+    ],
     "region": null
 }

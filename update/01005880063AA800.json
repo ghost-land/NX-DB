@@ -1,11 +1,11 @@
 {
     "id": "01005880063AA800",
     "base_tid": "01005880063AA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Violett",
+    "description": "Dragged by her parents, a young and rebellious teenage girl – Violett, moves to an old spooky house in the middle of nowhere. Forced away from her friends and life in the city; she imagines how boring life in countryside will be: spending day after day, bored in her room with absolutely nothing to do. But what she cannot imagine, is that in just few moments, she'll have the adventure of her life.",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20171026,
     "first_update_release_date": 20171128,
     "latest_update_release_date": 20171128,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20171128
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
     "region": null
 }

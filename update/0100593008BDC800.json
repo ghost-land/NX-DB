@@ -1,11 +1,11 @@
 {
     "id": "0100593008BDC800",
     "base_tid": "0100593008BDC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Can't Drive This",
+    "description": "Race your monster truck WHILE your mate builds the road. Go too slow, and you'll EXPLODE! And yes, it's as chaotic as it sounds – especially in four player split-screen.\n\nCan't Drive This is a competitive co-op (it's a thing) multiplayer party racing game. Drive your monster truck WHILE your mate builds the road in front of you! Oh, and don't go too slow, OR YOU'LL EXPLODE! Like in that Sandy B movie, in which she kinda does the same thing, but on a bus. Also, she doesn't explode (Spoiler alert).",
+    "publisher": "Pixel Maniacs",
+    "developer": null,
+    "base_release_date": 20210319,
     "first_update_release_date": 20210304,
     "latest_update_release_date": 20210511,
     "latest_update": {
@@ -17,11 +17,31 @@
         "131072": 20210317,
         "196608": 20210511
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Party",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "One player drives, the other one builds the road. At the same time!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
     "region": null
 }

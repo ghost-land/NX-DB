@@ -1,11 +1,11 @@
 {
     "id": "010058E014EBC800",
     "base_tid": "010058E014EBC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Popeye",
+    "description": "The official Popeye game in which you play the spinach eating sailor in this modernized adaptation of the classic arcade game. \n\nThe objective of the game is to get the highest score by completing  as many levels as you can by collecting hearts and letters thrown down by Olive all while trying to avoid the dangers of the witch, vulture and Popeye's rival Brutus.\n\nFind and eat the spinach and get the special powers needed to punch your enemies into the sea and become faster at collecting the items before they return.\n\nPopeye is a simple, pick up and play, fast action, fun game which anyone can play, but be warned winning a high score won't come easy.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20211104,
     "first_update_release_date": 20211104,
     "latest_update_release_date": 20211104,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20211104
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010057D00B612800",
     "base_tid": "010057D00B612000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Into the Breach",
+    "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.  \n\nFeatures:\n\nDefend the Cities: Civilian buildings power your mechs. Defend them from the Vek and watch your fire!\n\nPerfect Your Strategy: All enemy attacks are telegraphed in minimalistic, turn-based combat. Analyze your opponent's attack and come up with the perfect counter every turn.\n\nBuild the Ultimate Mech: Find powerful new weapons and unique pilots as you battle the Vek infestation across Corporate-Nation islands.\n\nAnother Chance: Failure is not an option. When you are defeated, send help back through time to save another timeline!",
+    "publisher": "Subset Games",
+    "developer": null,
+    "base_release_date": 20231019,
     "first_update_release_date": 20180906,
     "latest_update_release_date": 20230322,
     "latest_update": {
@@ -22,11 +22,32 @@
         "524288": 20221010,
         "589824": 20230322
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "RPG",
+        "Board Game",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Fantasy Violence",
+        "Language"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "0100592005164800",
     "base_tid": "0100592005164000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "UNBOX: Newbie's Adventure",
+    "description": "The ultimate postal service has arrived - self-delivering cardboard boxes! Unbox: Newbie’s Adventure is a unique physics-platformer. Enjoy an epic single player adventure or grab up to four friends for local multiplayer races, battles and challenges!\n\nThe Global Postal Service is nearing bankruptcy! To save themselves, they have created self-delivering boxes. Play as the GPS’ latest cardboard creation, Newbie, as you attempt to save the day. Dress to impress with a massive range of over 40,000 combinations of hats, clothes accessories and funny faces. Explore huge worlds full of challenges, collectibles and boxy boss battles as you compete against the dastardly Wild Cards!\n\nDon’t be a square! Think outside the box and create your very own cool cube! ",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20171011,
     "first_update_release_date": 20171013,
     "latest_update_release_date": 20180129,
     "latest_update": {
@@ -17,11 +17,21 @@
         "131072": 20171221,
         "196608": 20180129
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Very mild fantasy violence"
+    ],
     "region": null
 }

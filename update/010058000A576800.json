@@ -1,11 +1,11 @@
 {
     "id": "010058000A576800",
     "base_tid": "010058000A576000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Town of Light: Deluxe Edition",
+    "description": "Play through the eyes of Renée, a 16-year-old girl who suffers from the symptoms of mental illness. She is searching for answers to the many questions from her past, whilst exploring the place where she spent most of her youth. Guide Renée through a dark and emotional journey where the lines between entertainment, storytelling and reality blur.\n\nThis Deluxe Edition includes exclusive documentary content exploring the history of the Psychiatric Hospital of Volterra and the making of The Town of Light.",
+    "publisher": "Wired Productions",
+    "developer": null,
+    "base_release_date": 20200207,
     "first_update_release_date": 20200210,
     "latest_update_release_date": 20200210,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20200210
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to sexual violence"
+    ],
     "region": null
 }

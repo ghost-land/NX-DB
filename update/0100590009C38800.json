@@ -1,11 +1,11 @@
 {
     "id": "0100590009C38800",
     "base_tid": "0100590009C38000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SOL DIVIDE -SWORD OF DARKNESS- for Nintendo Switch",
+    "description": "Vorg heard a rumor that the army of Satan was searching for treasures called Seirei stones which led him to think that the time for revenge has come.\nIn addtion, he also knows that the one of the Seirei stones was entrusted secretly to King Silverna from Vorg's homeland, Miltia kingdam.\n\nVorg who was a holy knight in Western Kingdom, Miltia, was in the forest town of Neraphai working for a mission when the the king of Satan, Ifter,  invaded the Kingdom of Miltia with Dhatilos armies.\nUpon hearing the news, Vorg immediately returned to Miltia. But, the kingdom has been destroyed.\n\nAfter 7 years, a dark shadow went into the royal room inside the Silverna castle. That dark shadow was  Satan, Ifter.\nVorg heads to Silverna castle with his Helos. Satan owns the Sol Divide which is the pair of heilos.\nThe tale of magic, sword and vengeance starts now!!",
+    "publisher": "City Connection",
+    "developer": null,
+    "base_release_date": 20180323,
     "first_update_release_date": 20180404,
     "latest_update_release_date": 20190521,
     "latest_update": {
@@ -16,11 +16,19 @@
         "65536": 20180404,
         "131072": 20190521
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": "Psikyo is coming back!!\nSOL DIVIDE -SWORD OF DARKNESS- for Nintendo Switch",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010057D00ECE4800",
     "base_tid": "010057D00ECE4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nintendo 64™ - Nintendo Switch Online",
+    "description": "※要遊玩「ゴールデンアイ 007™」和「スターツインズ™」，須另行下載「Nintendo 64™ - Nintendo Switch Online 18+」。此軟體包含只准18歲或以上人士遊玩的遊戲內容。\n\n可以高解像析度的3D圖像遊玩Nintendo 64遊戲的「Nintendo Switch Online + 擴充包」限定遊戲軟體《Nintendo 64™ - Nintendo Switch Online》。\n\n只要從選單畫面選出想遊玩的遊戲就能立即啟動。具備了可隨時儲存的功能，就算只有丁點時間也能輕鬆遊玩。\n\n透過單機多人遊玩或網絡通訊，支援最多4人遊玩，可邀請遠方的朋友進行對戰。",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20211026,
     "first_update_release_date": 20211210,
     "latest_update_release_date": 20240424,
     "latest_update": {
@@ -32,11 +32,17 @@
         "1114112": 20231208,
         "1179648": 20240424
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "其他"
+    ],
+    "intro": "能在Nintendo Switch遊玩的Nintendo 64遊戲集",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

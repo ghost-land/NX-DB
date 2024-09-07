@@ -1,11 +1,11 @@
 {
     "id": "010058401223E800",
     "base_tid": "010058401223E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Ellipsis",
+    "description": "Be smart and be fast to overcome the challenges of your journey. \n\nYou will face countless enemies crossing your paths and a stunning universe unfolding before you.\n\nFly through levels, dodging and evading enemies before they have a chance to react. Or explore leisurely, mastering each world and uncovering all its secrets. Either way, Ellipsis will keep you on your toes with surprises from start to finish.\n\nGame features:\n• The game for all ages\n• Huge universe with 8 worlds, 150+ levels\n• Each level a unique experience – No filler!\n• Beautiful minimalist graphics",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220206,
     "first_update_release_date": 20200904,
     "latest_update_release_date": 20200904,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20200904
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Ellipsis is an action-packed puzzle game with minimalistic, yet powerful retro styled visuals. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

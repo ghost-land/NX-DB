@@ -1,11 +1,11 @@
 {
     "id": "010058C00E25A800",
     "base_tid": "010058C00E25A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pocket Harvest",
+    "description": "Leave the rat race behind and reap the joys of life on your very own farm in Pocket Harvest!\n\nCultivate crops with love, ranging from crisp lettuce to succulent strawberries, and refine them into prizewinning produce to bring orders from the local grocers flooding in. Adorable animal friends will lend a helping hoof too, providing milk, wool, eggs, and more!\n\nFeeling more ambitious? Boost your income and your image through tourism! From hot air balloons to sports facilities, you can build attractions in countless combinations to draw in high-spending city slickers.\n\nIn Pocket Harvest, you wear the overalls, so you call the shots! Grow your farm from the ground up into a flourishing cornucopia of fun!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20200402,
     "first_update_release_date": 20210308,
     "latest_update_release_date": 20240423,
     "latest_update": {
@@ -19,11 +19,24 @@
         "262144": 20230703,
         "327680": 20240423
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Puzzle",
+        "Study"
+    ],
+    "intro": "Reap the joys of country life and cultivate your farm and fame!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }
