@@ -1,11 +1,11 @@
 {
     "id": "010045E0142A4800",
     "base_tid": "010045E0142A4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Clea 2",
+    "description": "Four years have passed since the Whitlock Mansion tragedy. Florine, a former maid, is determined to resurrect the person who means everything to her. To succeed, she must travel past the third dimension and into the realms beyond. Otherworldly horrors lie in wait, but Florine is determined to soldier on.\n\nThis, after all, is her final chance at redemption.\n\n* * *\n\nSkill-focused horror:\n\nClea 2 is primarily a test of skills. Enemies roam the halls dynamically in real-time, reacting to the players' every noise. Clea is a challenging title, rewarding those who have mastered its mechanics.\n\nNo jump scares:\n\nClea 1 was a jump scare free experience, and the tradition continues here in this sequel.\n\nReplayability:\n\nUnlockable costumes/galleries/difficulty modes, multiple endings and even an arcade feature. Plenty of reasons for Florine to revisit her journey.\n\nFully voiced:\n\nEvery cutscene is fully voiced. Please enjoy the cast’s performance as we sink deeper into Clea’s lore than ever before.",
+    "publisher": "Sekai Games",
+    "developer": null,
+    "base_release_date": 20210325,
     "first_update_release_date": 20210310,
     "latest_update_release_date": 20220126,
     "latest_update": {
@@ -19,11 +19,28 @@
         "262144": 20210729,
         "327680": 20220126
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "A jump scare free, skill-based survival horror sequel to the 2019 adventure!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mature Themes",
+        "Violence"
+    ],
     "region": null
 }

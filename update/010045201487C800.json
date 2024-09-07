@@ -1,11 +1,11 @@
 {
     "id": "010045201487C800",
     "base_tid": "010045201487C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Aluna: Sentinel of the Shards",
+    "description": "From the heavens, mystic shards rain down upon the earth defying both time and space. Superstition, mysticism and fear of the unknown gave life to a path that went beyond the land of its birth.  We meet our heroine Aluna, who as a child has was given the most powerful of these shards that is said to contain the heart of her mother, the goddess of Earth Pachamama.   Through a series of circumstances, Aluna must leave her home and journey to the new world.  Aluna is fulfilling her destiny, but  so is the evil that seeks to fulfill theirs. Aluna's past guides her future and her enemies  will stop at nothing to steal the shard and take control of the world... ",
+    "publisher": "DIGIART INTERACTIVE",
+    "developer": null,
+    "base_release_date": 20220817,
     "first_update_release_date": 20211117,
     "latest_update_release_date": 20211117,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20211117
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG",
+        "Adventure",
+        "Fighting"
+    ],
+    "intro": "16th Century - an unknown danger plagues the land. You play this story-driven Action RPG as our heroine Aluna as she tries to defend a mystical shard with the power of earth within it.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Violence"
+    ],
     "region": null
 }

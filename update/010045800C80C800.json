@@ -1,11 +1,11 @@
 {
     "id": "010045800C80C800",
     "base_tid": "010045800C80C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SpellKeeper",
+    "description": "SpellKeeper is a unique logic game with dozens of challenging puzzles and beautifully hand-drawn graphics.\n\nTake on the role of the Chosen One and save butterflies trapped in magic cocoons. \n\nUse various types of Magic Spells and arrange them on the board in the right way. \n\nChallenge your brain and free all the butterflies!\n\nGame Features:\n- Easy to play\n- Challenging without the frustration\n- A non-violent game for everyone!\n- Hand-painted graphics and relaxing music.\n- Thirteen language versions.\n- English voice acting.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220207,
     "first_update_release_date": 20210519,
     "latest_update_release_date": 20210519,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20210519
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Train your brain with SpellKeeper!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

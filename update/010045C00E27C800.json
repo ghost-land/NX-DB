@@ -1,11 +1,11 @@
 {
     "id": "010045C00E27C800",
     "base_tid": "010045C00E27C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "We. The Revolution",
+    "description": "We. The Revolution is a unique game with a singular art style set in the blood-soaked and paranoid world of the French Revolution, where often you could not tell a friend from an enemy. As a judge of the Revolutionary Tribunal, you will pass sentences and play a dangerous political game. At the end of a day you will also confront your decisions with your family.\n\nThe power over human life and death is a heavy burden that can affect the fate of the revolution. Keep that in mind each time when passing sentence in the courtroom, while assigning tasks to your agents, and weaving political intrigue. We. The Revolution is addressed chiefly to players who enjoy moral dilemmas, complex personal choices, and want to immerse themselves in the world of sophisticated intrigue.",
+    "publisher": "Klabater",
+    "developer": null,
+    "base_release_date": 20231012,
     "first_update_release_date": 20190709,
     "latest_update_release_date": 20230331,
     "latest_update": {
@@ -18,11 +18,25 @@
         "196608": 20230331,
         "262144": 20230331
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "Unique game with a singular art style set in the blood-soaked and paranoid world of the French Revolution, where often you could not tell a friend from an enemy.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Simulated Gambling",
+        "Strong Language",
+        "Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004560063CA800",
     "base_tid": "01004560063CA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "媽媽把我的遊戲機藏起來了！",
+    "description": "找出被媽媽藏起來的遊戲機！\n\n是被藏在櫃子裡，還是書櫃上？或是沙發底下?\n\n到底在哪裡！？\n\n在各式各樣的關卡中運用道具找出你的「遊戲機」！\n\n這是一款輕鬆又惡搞的逃脫遊戲。",
+    "publisher": "hap Inc.",
+    "developer": null,
+    "base_release_date": 20200903,
     "first_update_release_date": 20240227,
     "latest_update_release_date": 20240227,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "131072": 20240227
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "冒險",
+        "益智"
+    ],
+    "intro": "不見了！我的遊戲機不見了！找出被媽媽藏起來的遊戲機！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

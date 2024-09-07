@@ -1,11 +1,11 @@
 {
     "id": "010045300516E800",
     "base_tid": "010045300516E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Snow Moto Racing Freedom",
+    "description": "Snowy races, spectacular stunts, split-screen and online multiplayer: experience all the intensity of extreme sports on your own or with friends.\n\nFun and competitive, Snow Moto Racing Freedom is a blast in 40 races, where you do awesome stunts and play against up to 7 opponents.\n\nOVER 40 TRACKS TO UNLOCK\nTake part in 24 championships in the Sprint League, Snocross and Freedom League divisions to try and win all of the gold medals.\n\n12 SNOWMOBILES WITH DIFFERENT POWER AND DESIGNS\nComplete races and events to unlock new snowmobiles. Choose the right vehicle for each race to have the best possible chance to come first!\n\n7 GAME MODES FOR ALL STYLES\nChampionship, Snocross, Freestyle, Sprint, Custom Race, Time Trial and Leisure.\n\nCHALLENGE YOUR FRIENDS\nWith up to 4 players on the same screen, or each with their own console in handheld mode for up to 8 players, challenge your friends anywhere, anytime! With the online feature, you can also take on up to 7 friends or other players from around the world.\n\nCUSTOMIZE YOUR AVATAR\nChoose your name, nationality, gear color and even the snowmobile color.\n\nDO UP TO 22 STUNTS\nBackflip, 360 Bodyflip, Frontflip, and Indian Air: discover the simple pleasure of a perfectly executed stunt.",
+    "publisher": "JUST FOR GAMES",
+    "developer": null,
+    "base_release_date": 20230525,
     "first_update_release_date": 20180104,
     "latest_update_release_date": 20180104,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20180104
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Racing"
+    ],
+    "intro": "Up to 8 players can dive into the snow-covered world of Snow Moto Racing Freedom and experience all the intensity of extreme sports!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

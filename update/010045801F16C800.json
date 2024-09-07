@@ -1,11 +1,11 @@
 {
     "id": "010045801F16C800",
     "base_tid": "010045801F16C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Greedy Snake",
+    "description": "Control the hungry snake on the hunt for food to grow longer and bigger. Be careful of other snakes while you're munching away!\n\nUnlock skins, gather boosters, dodge other snakes, and compete with friends for the top spot on the global leaderboard!\n\nEnjoy simple precise controls. \n5 addictive and viral gameplay.",
+    "publisher": "Max Interactive Studio",
+    "developer": null,
+    "base_release_date": 20240622,
     "first_update_release_date": 20240612,
     "latest_update_release_date": 20240612,
     "latest_update": {
@@ -15,11 +15,31 @@
     "versions": {
         "65536": 20240612
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "Snake escape from Garden of Eden",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
     "region": null
 }

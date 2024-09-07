@@ -1,11 +1,11 @@
 {
     "id": "010045A01A39C800",
     "base_tid": "010045A01A39C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "No Son Of Mine",
+    "description": "\"A tense and terrifying survival horror adventure where you'll dread the lights going out.\" - Alpha Beta Gamer\n\nFEATURES:\n▪ Find the Truth Or Die In Shame and Terror - enjoy a hardcore survival horror experience.\n▪ Face The Boy - overcome an unpredictable foe that can appear anywhere at any time.\n▪ Pay Attention - use the technology to your advantage and avoid confrontation.\n▪ Watch The Lights - …or prepare to fight.\n▪ Master the Mechanics - hone your skill in a game that does not hold your hand.\n\nNo Son Of Mine is a survival horror game focused on combat, stealth, exploration, puzzle solving, and uncovering a gruesome mystery. Can you face the unpredictable, deadly, and cruel foe and find the truth before HE finds you?\n\nUSER REVIEWS:\n\"Pretty amazing for a solo indie dev. If you love survival horror games, don't miss out on this little gem.\" - gyaaft\n\"The whole aura and ambiance of the game kept me on edge for my entire play through!\" - jillbo baggins\n\"I lost count how many times I died. If you are tad bored of puzzles-only horror game and love some bit of action, I'd say give this a try.\" - URB4N_D3CAY\n\"I Highly Recommend this game 100% its not crazy long and works perfect if you just want to have a good time getting scared.\" - GarmanIsBack",
+    "publisher": "Feardemic",
+    "developer": null,
+    "base_release_date": 20230906,
     "first_update_release_date": 20230829,
     "latest_update_release_date": 20231025,
     "latest_update": {
@@ -17,11 +17,27 @@
         "131072": 20230929,
         "196608": 20231025
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "First-Person Shooter",
+        "Puzzle"
+    ],
+    "intro": "He's intelligent, unpredictable, deadly, and cruel. Explore, fight, hide, and find the truth before HE finds you. You will be hunted. You will be terrorised. Can you survive? ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Intense Violence",
+        "Partial Nudity"
+    ],
     "region": null
 }

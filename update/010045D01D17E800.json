@@ -1,11 +1,11 @@
 {
     "id": "010045D01D17E800",
     "base_tid": "010045D01D17E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TEVI",
+    "description": "Embark on an epic action-adventure as you slash, dash, and combo your way through a sprawling land scarred by conflict. Explore and uncover hidden secrets. Customize your build to triumph in spectacular boss fights. Experience a tale of mystery, magic, and mayhem in TEVI, a bullet hell metroidvania!",
+    "publisher": "PM Studios",
+    "developer": null,
+    "base_release_date": 20231130,
     "first_update_release_date": 20231129,
     "latest_update_release_date": 20240710,
     "latest_update": {
@@ -21,11 +21,25 @@
         "393216": 20240524,
         "458752": 20240710
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Shooter"
+    ],
+    "intro": "Our fates entwine, embarking on a journey to find the gears that can change the world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Suggestive Themes"
+    ],
     "region": null
 }

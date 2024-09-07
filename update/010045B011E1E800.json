@@ -1,11 +1,11 @@
 {
     "id": "010045B011E1E800",
     "base_tid": "010045B011E1E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Piano",
+    "description": "Turn your Nintendo Switch™ into a mini piano and learn to play anywhere, anytime.\n\nPiano is a simple and fun game for kids and adults of all age, that will teach you how to play your favourite songs. \n\nChoose from one of the 9 included classic learning songs that will teach you how to play them like a professional by highlighting the keys. You will be surprised how easy it is to play something that sounds so amazing so quick.\n\nPiano also comes with a free play mode, so you can anything you want, maybe after enough practice in the learning mode you can play one of the included songs without any assistance and amaze you family and friends.\n\nPiano is the fun way for anyone to start learning to play the piano and improve ones hand eye co-ordination.",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20200515,
     "first_update_release_date": 20210712,
     "latest_update_release_date": 20210804,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20210712,
         "131072": 20210804
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Music",
+        "Party"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010045501E386800",
     "base_tid": "010045501E386000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Ultra Foodmess 2",
+    "description": "Grab your controller, and if you want, bring up to 3 of your friends – you’re going on a tasty, chaotic, and fun trip around the world! Everyone’s favorite foods are back in an even more epic competition - now with an extra spicy DASH ability to shake things up!\n\nShoot donuts at your foes in Hollywood, play Foodball in Brazil, avoid soy sauce beams in Japan… and more, in 10 wacky game modes!\n\nGood luck… And have fun!",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20240523,
     "first_update_release_date": 20240719,
     "latest_update_release_date": 20240719,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20240719
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "Arcade",
+        "Action",
+        "Other"
+    ],
+    "intro": "Get ready for delicious-looking fun - the Foodmess is back!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

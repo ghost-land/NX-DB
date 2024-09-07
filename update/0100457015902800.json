@@ -1,11 +1,11 @@
 {
     "id": "0100457015902800",
     "base_tid": "0100457015902000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Jessika",
+    "description": "What’s your job?\nIn this full motion video mystery adventure you are part of a group that specializes in processing digital footprints of deceased people - all on behalf of the relatives. What at first seems to be a job like any other quickly develops into a dark drama with twists and turns. \n\nAll you need is your laptop and some basic background info about the “victim” – in this case it’s all about Jessika. Access her database and browse her files by typing different search terms. These will give you access to video clips, audio files, notes, and news articles. Share those with the client and your colleagues to dig even deeper. Use your savvy and combine the facts to unfold the true story of Jessika. ",
+    "publisher": "Assemble Entertainment",
+    "developer": null,
+    "base_release_date": 20220825,
     "first_update_release_date": 20210903,
     "latest_update_release_date": 20221103,
     "latest_update": {
@@ -16,11 +16,27 @@
         "65536": 20210903,
         "131072": 20221103
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "In this full motion video mystery adventure you are part of a group that specializes in processing digital footprints of deceased people - all on behalf of the relatives.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Sexual Themes",
+        "Strong Language",
+        "Violence"
+    ],
     "region": null
 }

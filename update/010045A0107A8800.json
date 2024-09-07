@@ -1,11 +1,11 @@
 {
     "id": "010045A0107A8800",
     "base_tid": "010045A0107A8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "チキンライダー",
+    "description": "「チキンライダー」は自動進行型の横スクロールプラットフォーム・ゲーム。\n主人公の白くまは動物の「自由」を手に入れるべく、暗躍している。しかし、誤って緊急アラームを発動してしまう。\n脱出のため乗り込んだのは…まさかのニワトリ！？\nパワーアップアイテムを使い、様々なトラップや悪党を避けてハイスコアを目指そう！",
+    "publisher": "オーイズミ・アミュージオ",
+    "developer": null,
+    "base_release_date": 20200528,
     "first_update_release_date": 20200527,
     "latest_update_release_date": 20200527,
     "latest_update": {
@@ -15,11 +15,15 @@
     "versions": {
         "65536": 20200527
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション"
+    ],
+    "intro": "ハチャメチャプラットフォーム・ゲーム「チキンライダー」発売！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004570192D8800",
     "base_tid": "01004570192D8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Ruku's Heart Balloon",
+    "description": "A cute adventure story about a rabbit, Ruku, and a cat, Lish, just like in a picture book.\n\nMake a \"heart balloon\" with the flower puzzle.\nHow far can you fly in the sky?\n\n\n＜＜　Easy puzzle game to collect flowers　＞＞\n・Find two or more flowers of the same color next to each other.\n・Press \"A\" or \"touch\" when you find it.\nNow you can collect flowers and make heart balloons.\nLet's make as many heart balloons as our target number!\n\n\n＜＜　And much more　＞＞\n・Free Mode\" to continue to create heart balloons\n・Turn all the flowers that appear into heart balloons! Puzzle Mode\n・Gallery\" where you can see extra illustrations and sheet music\n\n\n＜＜　Can be played by two players　＞＞\nIn Free Mode, two players can play together by using a 'Joy-Con™ controllers', 'Nintendo Switch™ Pro Controller', etc.\nTwo players cooperate to achieve a common goal!",
+    "publisher": "G-MODE",
+    "developer": null,
+    "base_release_date": 20230303,
     "first_update_release_date": 20230403,
     "latest_update_release_date": 20230403,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20230403
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Training",
+        "Study"
+    ],
+    "intro": "A story about the adventures of Ruku and Lish\nWith a heart balloon made from a flower puzzle\nHow far can they go?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }

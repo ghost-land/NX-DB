@@ -1,11 +1,11 @@
 {
     "id": "0100459000302800",
     "base_tid": "0100459000302000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ドラゴンクエストⅩ　ベータテスト版",
+    "description": "ドラゴンクエストXのベータテスト版です。ベータテスターに当選された方のみご利用いただけます。",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20170718,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20170814,
     "latest_update": {
@@ -15,11 +15,15 @@
     "versions": {
         "327680": 20170814
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

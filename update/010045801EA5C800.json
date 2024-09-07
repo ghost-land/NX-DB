@@ -1,11 +1,11 @@
 {
     "id": "010045801EA5C800",
     "base_tid": "010045801EA5C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "PuzzMiX",
+    "description": "A fresh, exciting music puzzle game featuring The Muse, Lola!\nContains 19 songs and 1 BGM track.\n\nCollide and mix Lola spheres together to help them evolve!\nThe more they evolve, the greater the score!",
+    "publisher": "Inti Creates",
+    "developer": null,
+    "base_release_date": 20240405,
     "first_update_release_date": 20240404,
     "latest_update_release_date": 20240523,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20240404,
         "196608": 20240523
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "MiX it up through song and puzzles!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }
