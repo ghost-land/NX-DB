@@ -1,11 +1,11 @@
 {
     "id": "010056E014DF4800",
     "base_tid": "010056E014DF4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "マジカルナイトドリームズ コットンブーメラン サターントリビュート",
+    "description": "国宝「水ウィロー」を失ったパンプキン王国を舞台に\n宇宙一の食欲魔人コットンと王室一のおてんば娘アプリが繰り広げる\n脳味噌爆裂すちゃらかアクションシューティング。\n\nサクセスを代表するキャラクター「コットン」が活躍する\nファンタジーシューティングゲームシリーズ第5弾です。\n\n独自開発を行った「ゼブラエンジン」によりサターン時代の名作が復活。\n遊びやすさが超格段に進化する、ゲームの巻き戻しやスローモード、\nクイックセーブといった新機能も搭載。\nさらに、オンラインランキングも実装！",
+    "publisher": "サクセス",
+    "developer": null,
+    "base_release_date": 20210930,
     "first_update_release_date": 20220211,
     "latest_update_release_date": 20220211,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20220211
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アーケード",
+        "シューティング"
+    ],
+    "intro": "天然爆裂魔女っ娘シューティングゲーム\n「コットンブーメラン」が時を越えて復活！！\n今度はチーム戦で突き進め！！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル"
+    ],
     "region": null
 }

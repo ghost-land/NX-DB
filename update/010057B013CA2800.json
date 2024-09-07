@@ -1,11 +1,11 @@
 {
     "id": "010057B013CA2800",
     "base_tid": "010057B013CA2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bullet Trail",
+    "description": "Bullet Trail is a stunning puzzle and action game where you need to guide a bullet towards your target in order to win. You will need to use all your agility and attention in order to win and bring in the ultimate game experience. This is a very intense, fun gameplay idea that helps you test your aiming skills and reaction time.\nIf you love arcade games and puzzles, try out Bullet Trail today. You have lots of cool quests and interesting gameplay ideas you can check out. It’s a rewarding, yet intense game experience!\nFeatures:\nTest your puzzle and action game skills\nEliminate all your enemies with a single shot\nExperiment and find the best solution for every level",
+    "publisher": "Piotr Skalski",
+    "developer": null,
+    "base_release_date": 20210111,
     "first_update_release_date": 20210615,
     "latest_update_release_date": 20210615,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210615
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Puzzle",
+        "Arcade",
+        "Simulation"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

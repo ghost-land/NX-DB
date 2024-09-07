@@ -1,11 +1,11 @@
 {
     "id": "0100567011972800",
     "base_tid": "0100567011972000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "WRITHE",
+    "description": "WRITHE transports you to an alternate ‘70s Thailand, where an endless horde of mutant sago worms terrorise the good people of Bangkok. Suit up and lock ‘n’ load- it’s your duty as an exterminator to hold back this wriggling tide to the last breath.\n\nBlast your way through ceaseless swarms of grubs to a thumping industrial soundtrack, and throw yourself into an original arcade FPS that will test your mettle at every turn. Fight to survive for as long as you can and earn your place among top exterminators on the global leaderboards. WRITHE is about knowing when to run and when to gun in a desperate struggle for precious seconds.\n\n-\tRetro style graphics with a modern twist\n-\tEndless waves of grubs both big and small to exterminate\n-\tDual-wield a deadly shotgun and plasma rifle combo\n-\tThree unique arenas to take on\n-\tDefend your rank on the online leaderboards \n-\tSlay smoothly in both 30 and 60 FPS modes",
+    "publisher": "MissionCtrlStudios",
+    "developer": null,
+    "base_release_date": 20210115,
     "first_update_release_date": 20201208,
     "latest_update_release_date": 20210414,
     "latest_update": {
@@ -21,11 +21,24 @@
         "458752": 20210310,
         "524288": 20210414
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Grab your guns and paint the floor with GRUBJUICE!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

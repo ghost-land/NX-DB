@@ -1,11 +1,11 @@
 {
     "id": "010057801AA3E800",
     "base_tid": "010057801AA3E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Super Adventure Hand",
+    "description": "You, a former gloves sales-hand, suddenly find yourself alone. Your best friend Arm is no longer attached to your wrist!\n“It was those nasty feet, I know them like the back of my hand!” you assured yourself.  \n\nLet the hand do the walking and enjoy this gripping 3D platformer where you play as a handsome hand. Avoid dangerous obstacles and find your way to the magic mug at the end of each level.\n\nEnjoy 50 plus exciting, unique levels full of challenges! Avoid saw blades, fires, and other obstacles! Enjoy a handy 5 high friction digits which will allow you to climb walls and tubes, grab objects, explode bombs, and more.\n\nWe all know feet stink, but who in their right hand would steal someone’s arm? There must be a reason behind all of this. Lay your hands on Super Adventure Hand now and figure it out!",
+    "publisher": "Devm Games",
+    "developer": null,
+    "base_release_date": 20230921,
     "first_update_release_date": 20231123,
     "latest_update_release_date": 20231123,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20231123
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "Hands down the most adventurous and handsome hand in the world!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

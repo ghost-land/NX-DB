@@ -1,11 +1,11 @@
 {
     "id": "010056E00853A800",
     "base_tid": "010056E00853A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "A Hat in Time",
+    "description": "In A Hat in Time you play as a tiny space-travelling girl with a big tophat. Her adventure is halted when all her fuel, the Time Pieces, is lost and scattered across a nearby planet. Hat Kid must now jump, fight and stitch new hats to make her way into every nook and cranny of this new world in order to restore her fuel and resume her journey. On her way, she'll bump into the menacing Mafia of Cooks, the goofy birds of Dead Bird Studio, the spooky shadows of Subcon Forest, and more!",
+    "publisher": "Humble Games",
+    "developer": null,
+    "base_release_date": 20230630,
     "first_update_release_date": 20191010,
     "latest_update_release_date": 20200120,
     "latest_update": {
@@ -17,11 +17,27 @@
         "196608": 20191106,
         "262144": 20200120
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "A Hat in Time is a cute-as-heck 3D platformer featuring a little girl who stitches hats for wicked powers.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010056901AA16800",
     "base_tid": "010056901AA16000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 BONUS CONTENT",
+    "description": "Those who purchase Volume 1 will also have access to a variety of bonus content including the two regional versions of Metal Gear, the original version of Snake's Revenge, the first and second Digital Graphic Novels in video form, and a digital soundtrack.\n\n[Title lineup]\nMetal Gear (Western release version)\nMetal Gear (Japanese release version)\nSnake's Revenge\n\n[Video]\nMetal Gear Solid: Digital Graphic Novel\nMetal Gear Solid 2: Digital Graphic Novel\n\n*Available as additional downloads.\n\n[Soundtrack]\nMetal Gear Solid: Digital Soundtrack",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20231024,
     "first_update_release_date": 20231022,
     "latest_update_release_date": 20240328,
     "latest_update": {
@@ -18,11 +18,26 @@
         "458752": 20240109,
         "524288": 20240328
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "Tactical Espionage Action",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Drug Reference",
+        "Partial Nudity",
+        "Sexual Themes",
+        "Violence"
+    ],
     "region": null
 }

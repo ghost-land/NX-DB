@@ -1,11 +1,11 @@
 {
     "id": "010056601A70A800",
     "base_tid": "010056601A70A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Eden's Last Sunrise",
+    "description": "Eden's Last Sunrise is a retro tactical RPG like no other. Choose between the magic-wielding surface dwellers or the high-tech spacefarers, train and befriend your troops, and choose your path as the final days of the world wind down.\n\n-Enjoy classic turn-based isometric tactical RPG combat with adjustable difficulty and a unique action point system that let you make the most of every turn.\n-A rich story full of colorful characters and multiple story paths and endings.\n-Engage with your allies personally through visual novel-like story skits. Gain their trust and unlock their personal stories as you grow closer.\n-Create custom units, choose their colors/costume/voices, and lead them to victory alongside the main cast.",
+    "publisher": "Sungazer Software",
+    "developer": null,
+    "base_release_date": 20230727,
     "first_update_release_date": 20230804,
     "latest_update_release_date": 20230915,
     "latest_update": {
@@ -17,11 +17,20 @@
         "196608": 20230822,
         "262144": 20230915
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "A colorful tactical RPG with a twist!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Fantasy Violence",
+        "Suggestive Themes"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010057401A826800",
     "base_tid": "010057401A826000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bio Prototype",
+    "description": "When you woke up, you realized that you have been transformed into a monster. \nA wave of irrational experimentation rushes towards you.\nHurry up and mutate! evolution! Become scarier monsters than them! \nUse flesh and blood to bloom a way of survival! 19 characters, more than 40 kinds of organs, and endless build combinations！\n\nBuild unique skill combos\nCustomize your skill tree\nLink organs to your brain to create exponentially increasing combos\n\nCreate projectiles of various shapes\nBreed thousands of offspring to help you\nRelease the deadly virus and make the plague spread\nMore than 40 kinds of organs, 19 special designed character, and infinite combinations",
+    "publisher": "BD Games",
+    "developer": null,
+    "base_release_date": 20230518,
     "first_update_release_date": 20230814,
     "latest_update_release_date": 20230814,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "196608": 20230814
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A wave of irrational experimentation rushes towards you. Hurry up and mutate! evolution! Become scarier monsters than them! Use flesh and blood to bloom a way of survival",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

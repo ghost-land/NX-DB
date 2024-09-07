@@ -1,11 +1,11 @@
 {
     "id": "010056E0187FE800",
     "base_tid": "010056E0187FE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Construction Ramp Jumping",
+    "description": "You probably think that roadrollers can’t fly, and you are 100% right, but… They can jump, and when they fall… Oh my!  It’s a spectacle!\nImagine throwing 12 tons of metal into a building.  Lots of great locations, and really heavy vehicles are waiting for you to spread the art of destruction!",
+    "publisher": "BoomHits",
+    "developer": null,
+    "base_release_date": 20220721,
     "first_update_release_date": 20220720,
     "latest_update_release_date": 20220720,
     "latest_update": {
@@ -15,11 +15,30 @@
     "versions": {
         "65536": 20220720
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Racing",
+        "Simulation"
+    ],
+    "intro": "Jump into a roadroller and other heavy vehicles! Spread destruction!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010056D01174A800",
     "base_tid": "010056D01174A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Hell Sports（ヘルスポーツ）",
+    "description": "■3分決着でジゴクのトップリーグに挑め！\n・ルールは簡単！敵の妨害からザイニンを守り、ゴールを決めろ！\n・Hell Sportsを盛り上げる多彩なスキルでゴールを阻止せよ！\n・1ゲーム3分間2on2対戦プレイ！友達と共闘するもよし！一人で戦うもよし！\n\n\n■10体の個性豊かなキャラクターが登場！\n・プレイすることで新しいスタッフを解放して仲間に！\n・スタッフごとの多彩なスキンにも注目！\n\n■自分だけの戦略でスタッフをスターに育てよう！\n・所属選手のファンを増やしてHell Sportsトップチームを目指せ！\n・スタッフのスターレベルを上げて、よりハイレベルなリーグにチャレンジ！\n\n■多彩なゲームモードをご用意！\n・「リーグマッチ」で気軽に腕試し！\n・「チャレンジマッチ」でちょっと変わったルールでプレイ！\n・「フリーマッチ」で友達と一緒にバトル！\n・「オンラインマッチ」を通じてトッププレイヤーを目指せ！\n\n※クロスプラットフォーム対戦になります",
+    "publisher": "ネイロ",
+    "developer": null,
+    "base_release_date": 20201001,
     "first_update_release_date": 20201111,
     "latest_update_release_date": 20201111,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "65536": 20201111
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション",
+        "スポーツ",
+        "パーティー"
+    ],
+    "intro": "ジゴクのゴラク！？\n奈落の底でテッペンめざせ！！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "0100574009F9E800",
     "base_tid": "0100574009F9E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "嘘つき姫と盲目王子",
+    "description": "『嘘つき姫と盲目王子』は、狼の化け物と、人間の王子を主役としたアクションアドベンチャーです。\n\nプレイヤーが操作するのは、少女に変身する力を得た狼の化け物。\n異形の狼と少女の姿を使い分け、時に王子と協力しながら、森の奥にある魔女の館を目指します。\n風変わりな森を舞台にした謎解きアクション、絵本のように美しいビジュアル、\n異形と人間という異種族間の交流から生まれるドラマチックな物語をお楽しみいただけます。\n\n本作にはステージスキップ機能が搭載されており、\nパズルやアクションが苦手な方も、気軽に物語を進めることができます。\nなお、スキップしたステージには再度挑戦することが可能です。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20180531,
     "first_update_release_date": 20180627,
     "latest_update_release_date": 20180627,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20180627
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション",
+        "アドベンチャー",
+        "パズル"
+    ],
+    "intro": "本当のわたしでは　あなたに触れられない",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
     "region": null
 }

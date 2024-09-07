@@ -1,11 +1,11 @@
 {
     "id": "0100571016352800",
     "base_tid": "0100571016352000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pipe Fitter",
+    "description": "Pipe fitter is the best brain-teaser for every pipeline puzzle lover. If you are a big fan of pipe connection puzzle, do not miss this great pipeline puzzle game!\nEveryone can enjoy the fun of plumbing and connecting the right pipes in the right orientation! An amusing, inspiring pipe puzzle experience . All pipe plumbing fans, get ready for your exciting pipe plumbing puzzle journey in over 250 levels!\n\nFeatures :\n- 250 Levels\n- Different difficulties\n- Hint function",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210916,
     "first_update_release_date": 20211019,
     "latest_update_release_date": 20211019,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20211019
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Education",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

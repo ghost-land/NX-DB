@@ -1,11 +1,11 @@
 {
     "id": "010057A018246800",
     "base_tid": "010057A018246000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pet Rock",
+    "description": "Get ready to rock 'n roll - the official Pet Rock™ featured in “Minions: The Rise of Gru” is now available on the Nintendo Switch™ console!\n\nAdopt your very own Pet Rock™ to nurture from a baby pebble to a full grown stone-cold adult by regularly feeding, cleaning, training and keeping your Pet Rock™ happy by playing its favorite games - Rock Paper Scissors - all included here.\n\nDon't take your Pet Rock for granite!  Always remember to check in on your Pet Rock with the real-time monitor that displays your Pet Rock's vital stats and what needs attending to make sure it never hits rock bottom.\n\nAnd here's the best part - when the sun comes up for you, it's rise + shine for your Pet Rock.  And when it's bedtime, it’s nighty night for your Pet Rock too.  Your Pet Rock is ready to rock around the clock with you at all times no matter where you live on the biggest rock of 'em all - Planet Earth!  Rock on!\n",
+    "publisher": "Sabec",
+    "developer": null,
+    "base_release_date": 20220714,
     "first_update_release_date": 20220713,
     "latest_update_release_date": 20220713,
     "latest_update": {
@@ -15,11 +15,17 @@
     "versions": {
         "65536": 20220713
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

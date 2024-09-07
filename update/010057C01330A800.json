@@ -1,11 +1,11 @@
 {
     "id": "010057C01330A800",
     "base_tid": "010057C01330A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bonfire Peaks",
+    "description": "Move onwards, move upwards, and leave nothing behind.\nBonfire Peaks is a puzzle game about closure, by Corey Martin and published as well as co-produced by Draknek, creator of A Monster’s Expedition and Cosmic Express.\n\nNavigate over 200 expertly designed puzzles in a breathtakingly lovely voxel-based world. Filler content has been burned away to create a perfectly fine-tuned experience, filled with richly rewarding challenges and surprising new mechanics that’ll keep sparking your interest right through to the end.\n\nCreated by Pipe Push Paradise and Hiding Spot developer Corey Martin, co-designed with Alan Hazelden, and with art by Mari Khaleghi and Zach Soares.\n\n\"A serene puzzler that wants you to let the past burn.\" - Chris Schilling, Edge Magazine\n\n“I'm already sold on the absolute serenity of his voxel woods.” - Natalie Clayton, Rock Paper Shotgun\n\n“This is voxel art so unbelievably lush and gorgeous that, for at least a brief moment, it makes you forget that this is actually a puzzle game about burning stuff.” - Kyle LeClair, Hardcore Gamer",
+    "publisher": "Draknek",
+    "developer": null,
+    "base_release_date": 20210930,
     "first_update_release_date": 20210915,
     "latest_update_release_date": 20230720,
     "latest_update": {
@@ -25,11 +25,29 @@
         "786432": 20230417,
         "851968": 20230720
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "Set your belongings on fire on a beautiful voxel art puzzle island.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
     "region": null
 }

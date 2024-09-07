@@ -1,11 +1,11 @@
 {
     "id": "0100566012E9E800",
     "base_tid": "0100566012E9E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "GUNBIRD for Nintendo Switch",
+    "description": "19世紀歐洲，5名「GUNBIRD」為了實現各自的心願，收集「阿特勒的魔鏡」。\n魔鏡會聽取誰的願望呢... 還有是怎樣的願望呢...\n一切取決於你的實力。",
+    "publisher": "ARC SYSTEM WORKS",
+    "developer": null,
+    "base_release_date": 20201111,
     "first_update_release_date": 20210728,
     "latest_update_release_date": 20210728,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210728
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "街機",
+        "射擊"
+    ],
+    "intro": "個性十足的角色總動員！高完成度的傑作，搞笑奇幻射擊，《GUNBIRD》！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
     "ratingContent": [],
     "region": null
 }

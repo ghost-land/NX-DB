@@ -1,11 +1,11 @@
 {
     "id": "010056D00B0F4800",
     "base_tid": "010056D00B0F4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "MilkChoco",
+    "description": "[MilkChoco] is a 5 to 5 team shooting game.\nYou can play a number of heroes in the 'Assault', 'Deathmatch', and 'Escort' battlefields, and you can play various roles.\nEach hero can raise 'class' and 'ranking', and equip 'weapon' or 'dress'.\nThere are no pay-to-win weapons, heroes, or abilities. And you can get even gold bonuses via medals and victories.\nTherefore, all players in the game are equal.\n==== Features ====\n- Easy to Control\n- Low latency online FPS",
+    "publisher": "GameParadiso",
+    "developer": null,
+    "base_release_date": 20191018,
     "first_update_release_date": 20191009,
     "latest_update_release_date": 20240724,
     "latest_update": {
@@ -65,11 +65,34 @@
         "3276800": 20240703,
         "3342336": 20240724
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Multiplayer",
+        "First-Person Shooter",
+        "Shooter",
+        "Other"
+    ],
+    "intro": "Simple FPS Game",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Digital Purchases",
+        "Users Interact"
+    ],
     "region": null
 }

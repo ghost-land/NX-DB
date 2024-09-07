@@ -1,11 +1,11 @@
 {
     "id": "010056800B534800",
     "base_tid": "010056800B534000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Super Inefficient Golf",
+    "description": "Super Inefficient Golf builds on top of the most inefficient game ever conceived by making it even LESS efficient. Drop your silly golf stick and start using exploding mines to guide your ball! Place them, choose the right timing, and BOOM - Birdie!",
+    "publisher": "34BigThings",
+    "developer": null,
+    "base_release_date": 20180907,
     "first_update_release_date": 20181106,
     "latest_update_release_date": 20200206,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20181106,
         "131072": 20200206
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Arcade"
+    ],
+    "intro": "BOOM, Birdie!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

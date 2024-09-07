@@ -1,11 +1,11 @@
 {
     "id": "010056500CAD8800",
     "base_tid": "010056500CAD8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Beyond Enemy Lines: Covert Operations",
+    "description": "Think your way in, observe the enemies, sneak into their base and complete your objective. You have the total freedom to choose your path - guns blazing or silent assassin - it's your choice! Beyond Enemy Lines: Covert Operations is an unforgiving, intense experience where skill and tactical decisions matter!\n\nYou have the freedom to choose your path!\n\nYou are a Special Agent. Equipped with state of the art weapons and equipment, you operate in absolute secrecy as a lone wolf far beyond enemy lines. Scout the environment from an elevated position and plan your own tactical strategy. Do you go in silent and sneak around the guards or do you blast your way in? It’s yhour choice! The vast, nonlinear missions provides countless opportunities. Some are more obvious the other – so keep an eye open for a new and possible better rout to flank your opponents.\n\nContent:\n-\t8 mission long Singleplayer Campaign with 10+ hours playtime.\n-\t9 unique and different weapons ranging from Pistols over Assault Rifles to Sniper Rifles.\n-\tHuge replayability in vast, nonlinear missions.\n",
+    "publisher": "Polygon Art",
+    "developer": null,
+    "base_release_date": 20190423,
     "first_update_release_date": 20190516,
     "latest_update_release_date": 20190711,
     "latest_update": {
@@ -16,11 +16,19 @@
         "65536": 20190516,
         "131072": 20190711
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "You are a Special Agent. Equipped with state of the art weapons and equipment, you operate in absolute secrecy as a lone wolf far beyond enemy lines.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

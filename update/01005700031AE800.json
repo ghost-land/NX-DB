@@ -1,11 +1,11 @@
 {
     "id": "01005700031AE800",
     "base_tid": "01005700031AE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Disgaea 5 Complete",
+    "description": "Disgaea 5 Complete is a strategy RPG that offers hundreds of hours of over-the-top, award-winning gameplay, and marks the first time the core game is available on-the-go. The game includes all 8 bonus scenarios, 4 fan-favorite characters, and 3 character classes that were originally DLC in the PlayStation®4 release of Disgaea 5: Alliance of Vengeance.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20170602,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20210722,
     "latest_update": {
@@ -17,11 +17,20 @@
         "196608": 20171120,
         "262144": 20210722
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online interactivity",
+        "Sexualised imagery and innuendo",
+        "Dark themes"
+    ],
     "region": null
 }
