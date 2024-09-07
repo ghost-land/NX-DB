@@ -1,11 +1,11 @@
 {
     "id": "01004A40194C2800",
     "base_tid": "01004A40194C2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bus Driving Simulator 22",
+    "description": "Get behind the wheel and become a professional bus driver! This amazing bus simulator will allow you to transport passengers across three different cities (Rio de Janeiro, Munich and Los Angeles) using various bus models with realistic physics and graphics. Play this bus simulator in single-player with career and freeride modes or immerse yourself with friends in the online multiplayer mode. Bus Driving Simulator 22 is the defining bus simulator for Nintendo Switch™ console.\n\nHere is what you will find in the game:\n\n• Three different cities to drive through and transport passengers in as a professional bus driver: Rio de Janeiro (Brazil), Munich (Germany) and Los Angeles (The United States of America). Every city comes with both downtown and outside the city maps you can drive through;\n• Visit various sites, landmarks and points of interest in the cities while experiencing different weather conditions and a full day/night cycle;\n• AI-powered traffic featuring different types of vehicles, pedestrians, animals and diverse road network systems;\n• Next-generation physics engine that sets the new gold-standard for realism in bus simulation games. Feel the road bumps, see the suspensions working in real time, hear authentic sounds for vehicles and the environment and get as close as possible to a real bus driving experience;\n• This bus simulator allows you to choose from 3 distinct gameplay modes: advance through Career mode to unlock new buses and more challenging routes, drive freely inside and outside the cities with Freeride and play together with friends in Multiplayer;\n• Want to see how good your driving skills are? Use Leaderboards to see how you compare with other players. Bus Driving Simulator 22 is a driving skills based game, so you will be rewarded for following the rules in traffic and getting your passengers safely to their destination;\n• Four standard diesel-engine buses, one electric bus and one school bus are included and ready to drive. \n\nGet in the driver’s seat, start your engine and enjoy completing your routes successfully in this bus simulator!",
+    "publisher": "SC Ovilex Soft",
+    "developer": null,
+    "base_release_date": 20221005,
     "first_update_release_date": 20230208,
     "latest_update_release_date": 20230420,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20230208,
         "131072": 20230420
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Racing",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "Open-world bus driving simulator featuring realistic physics, next-gen graphics, a variety of bus models, three distinct regions to explore (US, Germany, Brazil), multiplayer and more",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004A6014788800",
     "base_tid": "01004A6014788000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "English rhythm game BeatTalk",
+    "description": "Do you find it difficult to understand spoken English or struggle to get your intended meaning across when speaking English?\nYou've been studying for years, but...why does it seem so hard?\nThe answer may be the difference in rhythm between Japanese and English.\nIn this game, you can easily visualize the timing of English pronunciation by using the rhythm game style of play! The characters in the game will boldly deliver English speeches for you.\nAs you play the rhythm game you will begin to experience the bouncy beat that English has.\nWhenever you press a button you can speak the word out loud along with the game's natural pronunciation.\nBefore you know it, you'll find yourself naturally saying a lot of English!\n\nMain Features\n- Comprehensive tutorials to help you overcome your weaknesses\n- Medal mode that allows you to practice progressively\n- Pro mode to try for high scores\n- 40 humorous and varied speeches\n- Expert supervision to ensure effective learning",
+    "publisher": "GIFT TEN INDUSTRY",
+    "developer": null,
+    "base_release_date": 20211111,
     "first_update_release_date": 20211110,
     "latest_update_release_date": 20240229,
     "latest_update": {
@@ -19,11 +19,25 @@
         "458752": 20220204,
         "524288": 20240229
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Study",
+        "Music",
+        "Training",
+        "Adventure"
+    ],
+    "intro": "A World First! English Listening and Speaking Training Through Rhythm Games\nLearn English rhythm by practicing with over 800 English ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Language"
+    ],
     "region": null
 }

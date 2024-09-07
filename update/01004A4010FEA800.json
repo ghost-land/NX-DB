@@ -1,11 +1,11 @@
 {
     "id": "01004A4010FEA800",
     "base_tid": "01004A4010FEA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bayonetta™ 3",
+    "description": "Bayonetta struts through multiple locations in an all-new, over-the-top climax action game. Sporting a wicked new ensemble and somehow familiar pigtails, the titular Umbra Witch must face a mysterious evil using her signature guns and time-slowing Witch Time ability. This time, invading manmade bioweapons called Homunculi find themselves in Bayonetta’s crosshairs. \n\nGet ready for a devilishly good time\n\nTap into Bayonetta’s naughtier side with Demon Masquerade, a new ability that channels the demon linked to her weapon allowing for some exciting action options, not to mention some hair-raising combos. She can also summon her demonic darlings like Gomorrah, Malphas, and Phantasmaraneae during battle, unleashing their demonic powers in the heat of combat and in new, larger-than-life battles where you directly control the action.\n\nA bounty of Bayonettas\n\nFight your way through the streets of Tokyo, the mountains of China, and many other locales! Along the way you’ll meet a virtual coven of Bayonettas, each more fabulous than the last. You’ll also slash and slay as Viola, a feisty witch in training who fights with a sword and a capricious companion, the demon Cheshire. Find out what fate awaits Bayonetta, and if this arcane alliance can really save reality!",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20221028,
     "first_update_release_date": 20221020,
     "latest_update_release_date": 20230110,
     "latest_update": {
@@ -16,11 +16,30 @@
         "65536": 20221020,
         "131072": 20230110
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "The witch is back and more powerful than ever!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Partial Nudity",
+        "Strong Language",
+        "Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

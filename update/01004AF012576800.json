@@ -1,11 +1,11 @@
 {
     "id": "01004AF012576800",
     "base_tid": "01004AF012576000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Solitaire Klondike Minimal",
+    "description": "- Beautiful minimalist design, nothing will disturb you from puzzle\n- 3 difficulty levels, 100% solvable\n- Draw-1 or draw-3-cards play modes\n- View your game stats on Statistics screen\n- Progress saving, pause game anytime\n- Play with touch screen, Joy-Con™ or Nintendo Switch™ Pro Controller\n- Relaxing music \n",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20200828,
     "first_update_release_date": 20210304,
     "latest_update_release_date": 20210304,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20210304
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game"
+    ],
+    "intro": "Good old card puzzle - all you need to challenge your brain!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

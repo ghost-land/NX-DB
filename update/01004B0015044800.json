@@ -1,11 +1,11 @@
 {
     "id": "01004B0015044800",
     "base_tid": "01004B0015044000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Papa's Quiz",
+    "description": "Papa’s Quiz is a party game for 1-8 players. Use phones or tablets as controllers and compete in multiple question types, where the smartest and fastest player will be the last standing victor!\n\nQuiz!\nWe crafted over 3000 original questions in 185 categories for this game.\n\nDress up!\nCreate your avatar, and give it a fun name! Dress it up with creative clothes and use it to express your victories in the game.\n\nFight for category!\nGive the other players a good fight for which category to play.\nTap, tap, tap to win!\n\nDance!\nChoose your dance moves to express your good fortune.",
+    "publisher": "Old Apes",
+    "developer": null,
+    "base_release_date": 20210730,
     "first_update_release_date": 20210901,
     "latest_update_release_date": 20210901,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20210901
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004A701E7F4800",
     "base_tid": "01004A701E7F4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "おさんぽひこにゃん",
+    "description": "「おさんぽひこにゃん」は、指一本でプレイができる簡単操作のラン＆ジャンプゲームです！\n\n自動で走るひこにゃんたちを上手く操作して、おだんごをたくさん集めて、障害物を乗り越えて、お気に入りの服を手に入れて、ハイスコアを目指しましょう！",
+    "publisher": "AMG GAMES",
+    "developer": null,
+    "base_release_date": 20240530,
     "first_update_release_date": 20240529,
     "latest_update_release_date": 20240529,
     "latest_update": {
@@ -15,11 +15,15 @@
     "versions": {
         "65536": 20240529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション"
+    ],
+    "intro": "ひこにゃん・わるにゃんこ将軍といっしょにおさんぽしよう！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004B1001D22800",
     "base_tid": "01004B1001D22000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TumbleSeed",
+    "description": "TumbleSeed is a deceptively deep roguelike about balancing a seed up a dangerous and ever-changing mountain.\n\nAvoid holes and defeat corrupted creatures in this dual-stick action adventure. Along your perilous trek you'll be forced to strategize, grow powerful with upgrades, and master the art of rolling to avoid the mountain's many dangers.\n\nTumbleSeed features 5 procedurally generated worlds and over 30 unique seed powers. Top your personal best or compete with the world in the daily challenge. The mountain holds many surprises, secrets, and adventures waiting to be explored — see you on the slopes!",
+    "publisher": "aeiowu",
+    "developer": null,
+    "base_release_date": 20170502,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20170814,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "131072": 20170814
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "A Rolly Roguelike",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

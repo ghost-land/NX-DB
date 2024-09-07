@@ -1,11 +1,11 @@
 {
     "id": "01004A600EB3E800",
     "base_tid": "01004A600EB3E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rest in Pieces",
+    "description": "Please save all the poor souls that have been trapped in the dream demons porcelain nightmares.\n\nAwake little Georgina from her evil clown dream, weaved of her worst fears. Help the drunken pirate Jack Parrot to vanquish the horrible sea monster Kraken. Save Father Lugosi from Count Draculas bloodthirsty fangs. Rest in Pieces includes many souls to save, and several frightening nightmares to wake up from.\n\n‣ Kill bosses to awake\n‣ Collect Gems and unlock new figurines\n‣ Each figurine has unique characteristics\n‣ Save all 18 souls\n‣ Unlock 6 deadly nightmares\n\nThe objective is to swing fragile porcelain figurines through horrid nightmares without smashing into anything. It is easy to learn, but only the most skilled players will manage to save them all!\n\nRest In Pieces\nTeam Itatake",
+    "publisher": "Itatake",
+    "developer": null,
+    "base_release_date": 20190913,
     "first_update_release_date": 20191016,
     "latest_update_release_date": 20191016,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20191016
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Swing fragile porcelain figurines through horrid nightmares... Without breaking.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Scary Scenes",
+        "In-Game Purchases"
+    ],
     "region": null
 }

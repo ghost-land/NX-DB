@@ -1,11 +1,11 @@
 {
     "id": "01004B5019FA0800",
     "base_tid": "01004B5019FA0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Dungeons of Aether",
+    "description": "Dungeons of Aether is a turn-based dungeon crawler designed by Nick ‘ampersandbear’ Blackwood from the Aether Studios team. While Rivals of Aether is known for its real-time combat, Dungeons of Aether allows you to take things at your own pace - but it’s just as challenging!  Every choice you make can lead you deeper into the dungeons or to an early demise. Will you carry out a treasure chest, or be carried out in a pine box?\n\nGame Features:\n- Meet four NEW HEROES from the world of Aether, each with their own unique skills and memorable personalities.\n- Play STORY MODE and travel to the steam-punk town of Julesvale and brave the sprawling caverns underneath it.\n- Explore each DUNGEON BIOME as you dive into Julesvale Mines, the Lava Caves, the Underground Oasis and the Mineral Deposits, collecting revealing Journal Entries along the way.\n- Brave the CHALLENGE DUNGEONS if you are looking for true roguelike difficulty to test your skills in the randomly generated dungeons.",
+    "publisher": "Dan Fornace",
+    "developer": null,
+    "base_release_date": 20230406,
     "first_update_release_date": 20230323,
     "latest_update_release_date": 20240818,
     "latest_update": {
@@ -19,11 +19,19 @@
         "262144": 20240419,
         "327680": 20240818
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Delve into the Dungeons of Aether and explore the world from Rivals of Aether like never before!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004A601D0E8800",
     "base_tid": "01004A601D0E8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Gates of The Mind",
+    "description": "Gates of The Mind - is 2D Hardcore Platformer. Game should search you in reaction and ingenuity in boss fights and locations.\nEach Boss fight and Location have a phases where you must be accurate in your actions and contains non-linear solutions for opening gates of mind.\n\nFeatures:\n● Hardcore gamplay\n● Boss fights\n● Non-linear solutions\n● Full Controls supporting",
+    "publisher": "GaGa Games Studio",
+    "developer": null,
+    "base_release_date": 20231218,
     "first_update_release_date": 20240112,
     "latest_update_release_date": 20240214,
     "latest_update": {
@@ -16,11 +16,31 @@
         "65536": 20240112,
         "131072": 20240214
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action",
+        "Fighting"
+    ],
+    "intro": "The average Canadian logger Miles completed his day. On the way home, he is attacked by a bear and Miles loses consciousness.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

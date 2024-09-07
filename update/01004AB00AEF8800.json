@@ -1,11 +1,11 @@
 {
     "id": "01004AB00AEF8800",
     "base_tid": "01004AB00AEF8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SNK 40th ANNIVERSARY COLLECTION",
+    "description": "2018 marks the 40th anniversary of legendary studio SNK! To celebrate this extraordinary milestone, a variety of classic arcade games from SNK's golden age are coming back together in one anthology on Nintendo Switch™. SNK 40th ANNIVERSARY COLLECTION is packed full of retro games and a treasure trove of features! ",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20181123,
     "first_update_release_date": 20181112,
     "latest_update_release_date": 20181211,
     "latest_update": {
@@ -16,11 +16,25 @@
         "65536": 20181112,
         "196608": 20181211
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild violence"
+    ],
     "region": null
 }
