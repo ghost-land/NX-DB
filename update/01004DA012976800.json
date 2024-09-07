@@ -1,11 +1,11 @@
 {
     "id": "01004DA012976800",
     "base_tid": "01004DA012976000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Area 86",
+    "description": "You are a fast-moving robot that can also do some stylish parkour tricks. Use the laws of physics to literally push your way through the station! Pick up items, activate switches, destroy the environment around you to escape. If you are looking for an extra challenge - you can also find secret items and clues to what happened.\n\nBut there is more! The space station AI has trapped other robots. Save them and form an all-powerful robot squad! Together you are powerful!\n\nEach level has multiple ways to complete it, and it's up to your imagination on how to escape. Don't worry if you get stuck - you can always request a hint, just like in any escape room!\n\nHave fun escaping and defeating the rogue AI!\n",
+    "publisher": "SimDevs",
+    "developer": null,
+    "base_release_date": 20201111,
     "first_update_release_date": 20201214,
     "latest_update_release_date": 20210602,
     "latest_update": {
@@ -18,11 +18,29 @@
         "196608": 20210521,
         "262144": 20210602
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Platformer"
+    ],
+    "intro": "Welcome to Area 86, a physics-based escape room puzzle game. The secret space station AI has gone rogue, and it's your task to stop it!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004D8007368800",
     "base_tid": "01004D8007368000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Vostok Inc.",
+    "description": "Do you love money? You’re the newly appointed CEO of Vostok Inc. As a greedy, space-capitalist your ultimate goal is to make as much as you can.\n\nRaise some start-up capital by twin-stick blasting enemies, asteroids and anything else that gets in your way; then embrace your new-found quest for moolah as you colonise, explore and exploit over 40 planets across 6 unique solar systems. Harvest planetary resources and rescue executives to multiply your profit margin, all while you stay blissfully entertained with a whole host of captivating retro mini games that will keep you coming back for more.\n\nBattle your way through each new solar system, take down evil bosses, enjoy a thumping customisable synth soundtrack, then kick back, relax and let the moolah roll in, to make you filthy, stinking, rich!",
+    "publisher": "Wired Productions",
+    "developer": null,
+    "base_release_date": 20171207,
     "first_update_release_date": 20171206,
     "latest_update_release_date": 20191209,
     "latest_update": {
@@ -17,11 +17,27 @@
         "131072": 20180517,
         "196608": 20191209
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "RPG"
+    ],
+    "intro": "The World’s First Twin-Stick Action Arcade Clicker",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild science fiction violence"
+    ],
     "region": null
 }

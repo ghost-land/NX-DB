@@ -1,11 +1,11 @@
 {
     "id": "01004DC00CFD2800",
     "base_tid": "01004DC00CFD2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Tales of the Orient - The Rising Sun",
+    "description": "Prove your skills in Challenge mode with limited moves. Experience the excitement of building an ancient Japanese village in this engaging Match 3 game. \n\nSee the beautiful scenery while listening to relaxing music inspired by this period in Japanese history. Dive into an epic story of honor and courage and help a Geisha and a Samurai save the day in Tales of the Orient - The Rising Sun!\n\n- Three game play modes: swap, pop, chain \n- Can you win in challenge mode? \n- Build an ancient Japanese village \n- Exciting adventure \n- Rotate the board make the best matches",
+    "publisher": "Joindots",
+    "developer": null,
+    "base_release_date": 20190215,
     "first_update_release_date": 20210507,
     "latest_update_release_date": 20210507,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "131072": 20210507
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Board Game",
+        "Strategy"
+    ],
+    "intro": "Travel to the Edo period in Japan and help Satsu and Miyamoto in an epic adventure to preserve ancient Japan.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

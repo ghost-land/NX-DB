@@ -1,11 +1,11 @@
 {
     "id": "01004E500A15C800",
     "base_tid": "01004E500A15C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TETRA's Escape",
+    "description": "Blocks named Tetras and it is down to the players to all that they can, to save them and make the most out of their special ability. Via the means of shape-shifting, Tetras can turn into different Tetrominos and used to fill holes and master puzzles, in an attempt to reach the portal on the other side of the level.\n\nBut, don’t just go expecting a linear adventure, as sometimes crafting a staircase to the heavens is the only way to make it to the end, so if you dare to dream big and go block mad, you might just have what it takes to bring all the Tetra’s back home!\n\nFeatures: \n- 7 hours’ worth of content, which includes 64 levels to beat\n- Increasing difficulty \n- Conventional 3 star system with Bonus Trophy\n- Explanatory images to walk you through Tetra’s abilities, which includes: Block Jumps, rotations, mirror effects, transformations, bombs for undoing transformations and more!\n- Original Soundtrack by Levi Bond",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20180810,
     "first_update_release_date": 20181105,
     "latest_update_release_date": 20181105,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20181105
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "TETRA’s Escape is a platforming puzzle-game all about blocks. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

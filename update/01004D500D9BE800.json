@@ -1,11 +1,11 @@
 {
     "id": "01004D500D9BE800",
     "base_tid": "01004D500D9BE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Not Not - A Brain Buster",
+    "description": "Downloaded 10 million times on mobiles, this Top 1 Puzzle game in 14 countries (including Australia, UK, USA and Canada) was remastered and features:\n• Exclusive Multiplayer Versus mode. Share the brain busting in NORMAL, HARD or EXTREME\n• Classic mode. Each level raises the difficulty up with new instructions\n• Challenge mode. Reach the best score in a bottomless pit of despair \n• Color blind accessibility mode\n\nThis misleading expert aims at crushing your brain's ability to think properly. Can yours handle it? Find out now.",
+    "publisher": "naptime.games",
+    "developer": null,
+    "base_release_date": 20190315,
     "first_update_release_date": 20190315,
     "latest_update_release_date": 20190408,
     "latest_update": {
@@ -16,11 +16,30 @@
         "65536": 20190315,
         "131072": 20190408
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Party",
+        "Education",
+        "Training"
+    ],
+    "intro": "Just go Up, Down, Left or Right. Easy, is it NOT?\nThe ultimate brain-busting challenge finally on Nintendo Switch and with a Multiplayer mode!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

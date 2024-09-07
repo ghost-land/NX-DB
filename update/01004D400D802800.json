@@ -1,11 +1,11 @@
 {
     "id": "01004D400D802800",
     "base_tid": "01004D400D802000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "데스티니 커넥트",
+    "description": "■스토리\n톱니바퀴와 전기의 도시, 클락니.\n새해가 밝아오던 그 순간, 도시의 시간이 멈춰버린다.\n그곳에 살고 있는 소녀 '쉐리'와 로봇 '아이작'은 이변의 원인을 찾기 위해 시간을 뛰어넘어 과거의 클락니로 여행을 떠나는데...\n\n■시스템\n전투는 심볼 인카운터 방식이며, 캐릭터별로 다른 스킬을 구사해 로봇들과 싸우게 된다. 또한, 아이작은 기어라는 부품을 장착하면 성능이 향상되거나 전투 스타일이 크게 바뀐다! 전황에 따라 스타일을 선택하자.",
+    "publisher": "Intragames",
+    "developer": null,
+    "base_release_date": 20190521,
     "first_update_release_date": 20190529,
     "latest_update_release_date": 20190529,
     "latest_update": {
@@ -15,11 +15,17 @@
     "versions": {
         "65536": 20190529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "어드벤처",
+        "전략"
+    ],
+    "intro": "어린아이였던 당신, \n소중한 이를 만나게 될 당신에게.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ko"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

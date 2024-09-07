@@ -1,11 +1,11 @@
 {
     "id": "01004D501230A800",
     "base_tid": "01004D501230A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Olija",
+    "description": "Armed with a legendary harpoon, he and other castaways try to leave this hostile country to return to their homelands.\n\nThrough adventurous exploration, narration and razor sharp combat, the player will discover a strange world and its inhabitants, including Olija, an enigmatic lady that Faraday finds himself bound to over time. Inspired by swashbuckling tales and cinematic adventure games, Olija is a story about facing the unknown in adversity.\n\n - Explore a mysterious and handcrafted world inspired by sailor's legends and Asian fantasy.\n\n - Wield the Harpoon of legend and rethink movement through platforming, puzzle and combat.\n\n - Rescue fellow castaways and meet curious characters to learn more about Terraphage and the enigmatic Olija.\n\n - Beautiful melancholic soundtrack inspired by Flamenco, lo-fi and traditional Japanese music.\n\n - Craft magic hats!\n",
+    "publisher": "Devolver Digital",
+    "developer": null,
+    "base_release_date": 20230613,
     "first_update_release_date": 20201214,
     "latest_update_release_date": 20210621,
     "latest_update": {
@@ -19,11 +19,31 @@
         "262144": 20210420,
         "327680": 20210621
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+    ],
+    "intro": "Olija is a game about Faraday's quest, a man shipwrecked then trapped in the mysterious country of Terraphage. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Fantasy Violence",
+        "Mild Language"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004DB00935A800",
     "base_tid": "01004DB00935A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Alteric",
+    "description": "Only Yesterday You Were A Man.\nToday Everything Has Changed.\nYou Died.\nBut your soul is still there. It’s a piece of light energy trapped in the alien space between two worlds.\n\nAlteric\nA single player 2D-platformer\nBright minimalistic graphics\nHardcore gameplay with physics, gravity and logic\n2 interconnected parallel worlds\nA variety of obstacles and dangerous bosses\nAtmospheric soundtrack",
+    "publisher": "Sometimes You",
+    "developer": null,
+    "base_release_date": 20180331,
     "first_update_release_date": 20180404,
     "latest_update_release_date": 20180404,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20180404
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "You are alone. Are you lonely? You're lost. Or stuck? Somewhere...but where? And most importantly, who are you?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004D800AAAC800",
     "base_tid": "01004D800AAAC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Yuso",
+    "description": "Yuso is a puzzle game where you have to clear the screen of Yuso! The game gets harder as you progress, introducing new colours and gadgets to help or harm you along the way.\n\nTake on the role of a space doctor travelling the Solar System. Moving from planet to planet, meeting the inhabitants and completing their stages. A quirky cast of characters will help you on your journey!\n\nYuso can look cute but don’t let them fool you! Levels get increasingly more difficult and later stages are tough. The game has an open progression system giving you the chance to progress and come back to difficult stages at will.\n\nFeatures:\n● 80+ level puzzler that’ll take you across the Solar System.\n● A cast of fun and quirky characters that you’ll meet along the way.\n● Clean and beautiful presentation.\n● Simple controls, the only thing that’s complicated are the puzzles!\n● Rewind, step back through a puzzle turn by turn at the push of a button.\n● Unique music; each planet has its own theme, bringing the worlds to life.\n● An open progression system, it’s possible to leave harder levels until later. So don’t feel frustrated for getting stuck!",
+    "publisher": "Vertical Reach",
+    "developer": null,
+    "base_release_date": 20180705,
     "first_update_release_date": 20190410,
     "latest_update_release_date": 20190410,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20190410
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle"
+    ],
+    "intro": "Puzzle Popping Action",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

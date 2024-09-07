@@ -1,11 +1,11 @@
 {
     "id": "01004DE00DD44800",
     "base_tid": "01004DE00DD44000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Monster Puzzle",
+    "description": "Far away, lost in another dimension, there’s a world where human dreams come to life. A land built upon sweet dreams where Trekkie and her friends live, safe from the bitter monsters inhabiting the dark world of nightmares. \n\nBut even all the fear and anguish in the land of the human aren't enough for the nightmare monsters, who are stealing the dreams of Trekkie‘s world, keeping them hidden while dreams are corrupted and transformed into nightmares. Help Trekkie ﬁnd their dreams before it‘s too late!\n",
+    "publisher": "Flynns Arcade",
+    "developer": null,
+    "base_release_date": 20190509,
     "first_update_release_date": 20190528,
     "latest_update_release_date": 20190528,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20190528
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Get all the dreams\n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

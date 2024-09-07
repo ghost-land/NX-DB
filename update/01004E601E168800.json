@@ -1,11 +1,11 @@
 {
     "id": "01004E601E168800",
     "base_tid": "01004E601E168000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fading Afternoon",
+    "description": "You play as Seiji Maruyama, a middle-aged yakuza recently released from prison. Old tropes are here but you can choose to not follow them. The question is — does anything really matter that much now?\n\nThe game features:\n- Multi-endings;\n- Complex beat'em up action;\n- Mini-games;\n- City to explore.",
+    "publisher": "CIRCLE Ent.",
+    "developer": null,
+    "base_release_date": 20240606,
     "first_update_release_date": 20240529,
     "latest_update_release_date": 20240905,
     "latest_update": {
@@ -17,11 +17,27 @@
         "131072": 20240810,
         "196608": 20240905
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Lifestyle",
+        "Fighting",
+        "RPG"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Nudity"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004DE013EDE800",
     "base_tid": "01004DE013EDE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Youtubers Life 2",
+    "description": "YOUR ROAD TO FAME STARTS NOW!\nExplore NewTube City to discover new trends and build new relationships with different characters to take your channel to new heights every day!\n\nDISCOVER WHAT'S TRENDING OUT THERE!\nEvery trend is a story to discover in NewTube City! Explore what's hot all over 3 different neighborhoods among special challenges, seasonal events, famous characters, and many more! Identify the best trends for your channel, find out why they are so popular, and create new content to keep growing your fan base and expand your possibilities!\n\nGROW YOUR NETWORK!\nFriends, rivals, or even lovers! Strike up new relationships with over 30 talented characters who can drive you to success. As you make friends with them, they will open up to you, ask you for help with their personal troubles, or tell you their secrets. Your network is your net worth!\n\nGRAB EXCLUSIVE PRIZES!\nCollect special rewards to relive your adventures and prove your reputation. Expand your creativity by grabbing characteristic customization items and unlocking new strengths that will enhance your personality. Level up your fandom and get closer to fame!\n\nPOST TRENDING CONTENT!\nKick off your path to success! Master the content you like to post: Gameplays, First Impressions, Interviews, Streamings, Unboxings, and many more! Post what you live and what you discover out there to earn tons of cash, and grow your expertise the way you want to become unique.",
+    "publisher": "Raiser Games",
+    "developer": null,
+    "base_release_date": 20211019,
     "first_update_release_date": 20211007,
     "latest_update_release_date": 20230714,
     "latest_update": {
@@ -21,11 +21,30 @@
         "393216": 20221020,
         "458752": 20230714
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "Every trend is a story to discover in NewTube City! Live new adventures by meeting over 30 charismatic characters who will drive you to success.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Animated Blood",
+        "Comic Mischief",
+        "Mild Fantasy Violence",
+        "Mild Language",
+        "Mild Suggestive Themes"
+    ],
     "region": null
 }

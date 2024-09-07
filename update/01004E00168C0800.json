@@ -1,11 +1,11 @@
 {
     "id": "01004E00168C0800",
     "base_tid": "01004E00168C0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Dungeons of Dreadrock",
+    "description": "The Spirit of 1980's home computer adventure games revived for contemporary audiences and platforms. Fight and puzzle your way through 100 handcrafted levels into the ancient depths of Dreadrock Mountain. Relive memories of oldschool dungeon crawlers from a new perspective.",
+    "publisher": "ChristophMinnameier",
+    "developer": null,
+    "base_release_date": 20220512,
     "first_update_release_date": 20220527,
     "latest_update_release_date": 20230426,
     "latest_update": {
@@ -16,11 +16,29 @@
         "65536": 20220527,
         "131072": 20230426
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Dungeons of Dreadrock is a puzzle adventure game in which you set out to save your little brother.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
     "region": null
 }

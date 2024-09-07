@@ -1,11 +1,11 @@
 {
     "id": "01004DB016962800",
     "base_tid": "01004DB016962000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Little Witch Nobeta",
+    "description": "小魔女諾貝塔是一款3D動作射擊遊戲。\n\n玩家將在未知的古堡中探險，並搭配不同的魔法元素與生魂戰鬥！\n\n遊戲採用偏日系舒服的美術風格，但戰鬥相當具有挑戰性。\n\n對上敵人要尋找弱點，太過隨性的攻擊會陷入苦戰。\n\n抓準時機攻擊、迴避，才能在戰鬥中取得優勢。",
+    "publisher": "JUSTDAN",
+    "developer": null,
+    "base_release_date": 20220929,
     "first_update_release_date": 20220926,
     "latest_update_release_date": 20231123,
     "latest_update": {
@@ -20,11 +20,20 @@
         "327680": 20230906,
         "393216": 20231123
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "動作",
+        "射擊"
+    ],
+    "intro": "操作可愛的小魔女諾貝塔，\n探索未知的神祕古堡，並逐步的發掘真相！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004E001B8AE800",
     "base_tid": "01004E001B8AE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "BlackJack Waifu Tour",
+    "description": "Feel lucky today! Now, you can play BLACKJACK Waifu Tour, your favorite 21 card game - anywhere and anytime.\n\nBet without spending money, and enjoy a unique experience!\nIf you are a fan of casino table games, you will love our black jack. \n\nToday, luck is on your side. Develop a good strategy and achieve victory!\n\nBecome a professional real blackjack 21 blitz player by betting just like in other casino table games without risking your real money! \n\nBLACKJACK FEATURES:\n♣ Bet without spending money. The best blackjack 21!\n♦ Real blackjack 21 card game to test your strategies, poker face and honing your abilities for a gambling adventure.\n♥ A wide range of chips that allow you to simulate the real blackjack 21 blitz experience!\n\nNow is the time to try your luck at our blackjack!\n\nPlace your bets, put all cards on the table and become a professional player of casino card game!",
+    "publisher": "Dolores Ent.",
+    "developer": null,
+    "base_release_date": 20230518,
     "first_update_release_date": 20230511,
     "latest_update_release_date": 20230511,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20230511
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Simulation",
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "Feel like in Las Vegas, gamble without spending money at our real blackjack!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling",
+        "Suggestive Themes"
+    ],
     "region": null
 }
