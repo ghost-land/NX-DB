@@ -1,11 +1,11 @@
 {
     "id": "0100534011012800",
     "base_tid": "0100534011012000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Relic Hunters Zero: Remix",
+    "description": "From the creators of the massively popular Relic Hunters Universe comes Relic Hunters Zero: Remix. Alongside a community of millions of fans from around the world, meet the Relic Hunters as they prepare for landing on their console debut!\n\nFollow the crew of the Spaceheart as they run, gun, and dodge their way through unrelenting force as they race for the ancient relics against the evil Ducans. Assume control as one of the Relic Hunters and venture through several different game modes in this frantic, 2D, twin-stick, shooting roguelike. Power-ups, a bounty of weapons, charmingly unique characters, and the support of a dedicated community perfectly blend together to create an experience that has been years in the making.\n\nFeature List\n• Seven Playable Characters - Each Relic Hunter comes equipped with unique stats, skills, and skins, allowing for diverse playstyle and combat\n• Multiple Explosive Game Modes - Classic 12-level \"Adventure\" Mode with unlockable relics and items; challenging \"Endless\" Mode with unique mechanics and economy; \"Storm\" Mode that progressively increases in difficulty and chaos\n• Daily Content - Show off your combat prowess and see how you rank against your fellow Hunters in Daily Mode, where everyone faces the same random challenge \n• Couch Co-Op - Up to 2 players can team up in local multiplayer for new strategies and battle tactics (Dual Joy-Con™ and Nintendo Switch™ Pro Controller support)\n• Progressive Original Chiptunes Soundtrack - Energetic tracks to amp you up as you beatdown swarms of Ducans\n• Overcome Tough Enemies & Mini-Bosses - Be cautious of the powerful Ducan commanders who will rise up to overwhelm you and your team\n• Powerful Community-Built Weapons - Explore the Asteroid Dungeon Nemesis riddled with a myriad of different weapons, some designed by members of the Relic Hunters community\n• In-Game Achievements - Track and unlock achievements for a variety of challenges you'll face",
+    "publisher": "Akupara Games",
+    "developer": null,
+    "base_release_date": 20221003,
     "first_update_release_date": 20200528,
     "latest_update_release_date": 20231013,
     "latest_update": {
@@ -16,11 +16,32 @@
         "65536": 20200528,
         "262144": 20231013
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "Run, gun, and dodge your way against the forces of the Ducan Empire as you excavate the hidden relics of power to foil their plans for universal conquest. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

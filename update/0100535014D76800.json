@@ -1,11 +1,11 @@
 {
     "id": "0100535014D76800",
     "base_tid": "0100535014D76000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Little Noah: Scion of Paradise",
+    "description": "Create unique teams and combos from 40+ recruitable allies in this casual but compelling game!\n\nPort Manacloud—a nation that owes its power and prosperity to its alchemists. Noah, an alchemical prodigy, is journeying across the skies in her airship when she discovers mysterious floating ruins. As she draws closer to investigate, a cat leaps on board. The cat accuses Noah of being a tomb raider and unleashes a storm that sends her vessel crashing down. In need of parts to repair her ship and driven by curiosity, Noah enters the ruins...\n\nA Casual Roguelite Action Game\nExplore dungeons that shift with each playthrough and sweep through foes along the way. Use recruitable allies, \"Lilliputs,\" and items you've collected to defeat the ruin bosses. If you get knocked out during your adventure, never fear—you can use the items you've earned to power up Noah and come back stronger than ever!\n\nRepair your Airship, Reap the Benefits\nAs you venture through the ruins, you'll collect mana to repair and upgrade facilities aboard your airship. These facilities will give you boosts to make your next adventure smoother. Each facility gives different boosts, so choose how you want to power up Noah.\n\nUnique Parties, Unique Combos\nRecruit the Lilliputs you've acquired into a dungeon crawling party. Attack combos change depending on the order of your lineup—choose from 40+ Lilliputs to customize your party and maximize your power.",
+    "publisher": "Cygames",
+    "developer": null,
+    "base_release_date": 20220628,
     "first_update_release_date": 20220628,
     "latest_update_release_date": 20230222,
     "latest_update": {
@@ -19,11 +19,28 @@
         "327680": 20221115,
         "393216": 20230222
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Platformer",
+        "RPG",
+        "Adventure"
+    ],
+    "intro": "Join the genius alchemist Noah and her cat companion Zipper as they explore ancient ruins to uncover the secrets hidden within! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Language"
+    ],
     "region": null
 }

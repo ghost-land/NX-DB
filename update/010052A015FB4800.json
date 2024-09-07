@@ -1,11 +1,11 @@
 {
     "id": "010052A015FB4800",
     "base_tid": "010052A015FB4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Storyteller",
+    "description": "Experience some of history's greatest stories like never before. Storyteller is an award-winning reactive puzzle game that lets you build the story.\n\nStoryteller's charming animations and comic-panel design allows for a unique puzzle mechanic. Use your wits to retell iconic tales — or experiment and find something new.\n\nPlay with a library full of characters and themes, featuring heroes and villains, dragons and vampires, infidelity and remorse, love, lies, madness, and more! Use the blank canvas to manipulate secrets and desires, slay monsters or terrorize people with them, betray lovers or bring them together. You know how the stories go — but this time you are the author.\n",
+    "publisher": "Annapurna Interactive",
+    "developer": null,
+    "base_release_date": 20230323,
     "first_update_release_date": 20230316,
     "latest_update_release_date": 20231013,
     "latest_update": {
@@ -17,11 +17,31 @@
         "131072": 20230926,
         "196608": 20231013
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "A puzzle game about building stories.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Use of Alcohol",
+        "Violence"
+    ],
     "region": null
 }

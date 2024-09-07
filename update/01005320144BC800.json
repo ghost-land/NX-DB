@@ -1,11 +1,11 @@
 {
     "id": "01005320144BC800",
     "base_tid": "01005320144BC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Reknum Cheri Dreamland",
+    "description": "REKNUM Fantasy of Dreams is an action, exploration and 2D platformer videogame, it is the latest installment in the \nREKNUM saga in which Cheri awakens from a fantasy to start\nthe real adventure!\nExplore the thematic levels, unlock new weapons and upgrade\nyour skills, fight fearsome bosses inspired by classic gameplay, decipher the poetic words of the ancestors when you travel through the dreamworld and reach the real final outcome.",
+    "publisher": "Nape Games",
+    "developer": null,
+    "base_release_date": 20210429,
     "first_update_release_date": 20210511,
     "latest_update_release_date": 20210511,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210511
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Platformer",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Face the fears from your dreams to save the kingdom in this 2D retro advenure!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Scary Scenes"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010052900DC7E800",
     "base_tid": "010052900DC7E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pocket Clothier",
+    "description": "Ever wanted to run your own clothing store? Now you can! \nLet your inner fashionista flower as you cultivate a quaint corner shop into a world-class super brand!\n\nPosition mannequins, run promotions, even set up an in-store crepe stand. Dream up other ways to stand out so that shoppers can't stay away!\n\nPatrons will also rely on your fashion sense to coordinate ensembles for big occasions. Elevating their style level will unlock new career paths for them--meaning more revenue for you!\n\nAre you ready to try your hand at the trade of trend?\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+    "publisher": "Kairosoft",
+    "developer": null,
+    "base_release_date": 20190905,
     "first_update_release_date": 20190913,
     "latest_update_release_date": 20210524,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20190913,
         "131072": 20210524
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Study",
+        "Communication",
+        "Other"
+    ],
+    "intro": "A clothing shop management sim. Go from quaint corner shop to world-class brand!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

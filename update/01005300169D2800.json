@@ -1,11 +1,11 @@
 {
     "id": "01005300169D2800",
     "base_tid": "01005300169D2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Castle Morihisa",
+    "description": "\"Castle Morihisa\" is a roguelike featuring strategic deckbuilder. You need to build up your deck through constant battles, acquire powerful talents, and wield the power of the Fallen Heroes to unveil the truth behind the rebellion in the Castle Morihisa.",
+    "publisher": "Thermite Games",
+    "developer": null,
+    "base_release_date": 20220210,
     "first_update_release_date": 20220206,
     "latest_update_release_date": 20220915,
     "latest_update": {
@@ -22,11 +22,28 @@
         "589824": 20220901,
         "655360": 20220915
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Board Game",
+        "Strategy",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Roguelike Deckbuilder\nCard Battler\nCard Game",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

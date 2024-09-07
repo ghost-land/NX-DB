@@ -1,11 +1,11 @@
 {
     "id": "010052A00B5D2800",
     "base_tid": "010052A00B5D2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "LEGO® Harry Potter™ Collection",
+    "description": "The LEGO® Harry Potter™ Collection brings LEGO® Harry Potter™: Years 1-4 and LEGO® Harry Potter™: Years 5-7 remastered! This compilation unites the creative prowess of LEGO and the expansive world of Harry Potter, with an exciting journey full of spell-casting, potion-making, puzzle-solving, lessons, dueling and much more for players of all ages to enjoy.\n",
+    "publisher": "WB Games",
+    "developer": null,
+    "base_release_date": 20220907,
     "first_update_release_date": 20180928,
     "latest_update_release_date": 20181212,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20180928,
         "131072": 20181212
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "es",
+        "fr",
+        "en",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Cartoon Violence",
+        "Crude Humor"
+    ],
     "region": null
 }

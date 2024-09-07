@@ -1,11 +1,11 @@
 {
     "id": "010053100B0EA800",
     "base_tid": "010053100B0EA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Akihabara - Feel the Rhythm Remixed",
+    "description": "Take a trip through engaging music and intense puzzle action, set in Tokyos Electric Town! Stack blocks to build combos, tap in rhythm with the music to break them. Play trough the campaigns, go for the high score!\n\nCan you master the rhythm in Akihabara?\n\n* Challenge yourself with intense, fast-paced rhythm gameplay\n* Several original soundtracks\n* Enjoy high-quality art\n* Earn achievements in different game modes\n* Master the beat in Tokyo’s own Electric Town",
+    "publisher": "JMJ Interactive",
+    "developer": null,
+    "base_release_date": 20181129,
     "first_update_release_date": 20181129,
     "latest_update_release_date": 20181129,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20181129
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Music",
+        "Puzzle",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "Intense rhythm and puzzle, set in Tokyos Electric Town! Can you feel the beat?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
     "region": null
 }

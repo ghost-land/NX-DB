@@ -1,11 +1,11 @@
 {
     "id": "010053101ACB8800",
     "base_tid": "010053101ACB8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Thank Goodness You're Here!",
+    "description": "After arriving early for a big meeting with the mayor of a bizarre Northern English town, a traveling salesman takes the time to explore and meet the locals, who are all very eager to give him a series of increasingly odd jobs… \n\n“Thank Goodness You’re Here!” is a comedy slapformer, which unfolds over time as the players' exploration and antics leave their mark on the strange town of Barnsworth. With each completed odd job, new areas of the town open up, stranger and stranger tasks become available, and the clock ticks towards our salesman’s big meeting. The town’s colorful inhabitants are brought to life with vibrant hand-drawn animation, fully voiced dialogue, and wall-to-wall double entendres.\n\nFeatures:\n- Bold, beautiful visual design that seamlessly blends side-scrolling action vignettes with top-down exploration in a chock-a-block open world\n- Progressively more involved and puzzling odd-jobs to complete: cut the grass, bake a pie, traverse the astral plane!\n- Hand-crafted animation and original story based on traditional Yorkshire folklore\n- Authentic regional dialects guaranteed to mek thi spit art thi tea laughin’\n- Oddly moving original soundtrack",
+    "publisher": "Panic",
+    "developer": null,
+    "base_release_date": 20240801,
     "first_update_release_date": 20240716,
     "latest_update_release_date": 20240819,
     "latest_update": {
@@ -17,11 +17,31 @@
         "131072": 20240716,
         "196608": 20240819
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Explore the strange town of Barnsworth in this cheeky comedy slapformer!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Crude Humor",
+        "Strong Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
     "region": null
 }

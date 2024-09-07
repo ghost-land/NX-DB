@@ -1,11 +1,11 @@
 {
     "id": "010052B015B74800",
     "base_tid": "010052B015B74000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Red Square Escape",
+    "description": "Red square escape is a top down 2D movement game where you are the red square and have to escape through different levels. Each level is spiked with traps and obstacles you need to overcome. Simple controls, simple art style and simple fun are guaranteed here. Have you got the skills to escape?\n\nFeatures :\n- Simple controls\n- 60 levels\n",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20210729,
     "first_update_release_date": 20210804,
     "latest_update_release_date": 20230502,
     "latest_update": {
@@ -18,11 +18,20 @@
         "196608": 20220613,
         "262144": 20230502
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Board Game"
+    ],
+    "intro": "A difficult 2D top down movement game with interesting level design and simple art style.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "0100534017DEC800",
     "base_tid": "0100534017DEC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Match Ventures",
+    "description": "Explore the dungeons of Cliffmont Castle in this unique new match-3 adventure! \nTraverse huge levels and overcome dozens of obstacles as you search the depths for valuable items to help rebuild the castle that was ravaged by the dark dragon master Dragor. \nFight off enemies, explore caves, and solve puzzles, all with the aid of your one ally Finley the Leprechaun and his company of dwarves. \nFulfill an ancient legend that would rid the land of darkness.\n\nFeatures:\n- Traverse enormous levels.\n- Encounter a myriad of environmental obstacles to overcome.\n- Fight enemies in the castle!\n- Rebuild the fabled castle of Cliffmont.\n- Gorgeous fantasy soundtrack.",
+    "publisher": "Ocean Media",
+    "developer": null,
+    "base_release_date": 20230126,
     "first_update_release_date": 20230126,
     "latest_update_release_date": 20230126,
     "latest_update": {
@@ -15,11 +15,16 @@
     "versions": {
         "65536": 20230126
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "Curse is set upon Cliffmon Castle. Show your magic skills and fight the darkness.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

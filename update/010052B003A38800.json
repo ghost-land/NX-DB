@@ -1,11 +1,11 @@
 {
     "id": "010052B003A38800",
     "base_tid": "010052B003A38000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Long Reach",
+    "description": "The Long Reach takes place in New Hampshire, in the fictional town of Baervox. The game draws its inspiration from Lone Survivor and The Cave and all the classical adventures (except that The Long Reach is set in the present day). You don't play in a post-apocalyptic world or explore a fairy-filled fantasy world. You’re in the thick of it, just around the corner from the place where you buy your groceries.",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20180315,
     "first_update_release_date": 20180516,
     "latest_update_release_date": 20180516,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20180516
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Other"
+    ],
+    "intro": "The Long Reach is an adventure game filled with colourful characters, puzzles, and a shock of discovery. Wait, weren't we supposed to say, “joy of discovery”? That can’t be right.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Sexual Themes",
+        "Strong Language",
+        "Use of Drugs",
+        "Violence"
+    ],
     "region": null
 }

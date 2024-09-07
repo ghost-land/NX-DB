@@ -1,11 +1,11 @@
 {
     "id": "0100530012364800",
     "base_tid": "0100530012364000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nonogram Minimal",
+    "description": "- Play 200 hand-crafted puzzles, from 5x5 to 25x25\n- Beautiful colorful and monochrome images\n- Random puzzle generator for infinite fun\n- Show your creativity in Level editor\n- Share and play user-made puzzles\n- Relaxing music ",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20220429,
     "first_update_release_date": 20220602,
     "latest_update_release_date": 20220602,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20220602
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Training"
+    ],
+    "intro": "Enjoy 200 hand-crafted puzzles, share and play user-made levels!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Users Interact"
+    ],
     "region": null
 }

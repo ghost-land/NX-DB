@@ -1,11 +1,11 @@
 {
     "id": "010053500F410800",
     "base_tid": "010053500F410000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Collar X Malice",
+    "description": "A dangerous shadow organization launches a campaign of fear and violence in the city of Shinjuku, pushing society to the brink of chaos. As a young police officer tasked with restoring order, you become the target of an attack, and have a poisonous collar attached to your neck. With the situation spiraling out of control and time running out, five mysterious strangers appear to aid you in your quest for the truth.",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20200625,
     "first_update_release_date": 20200625,
     "latest_update_release_date": 20200625,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20200625
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language",
+        "Sexual References",
+        "Violence"
+    ],
     "region": null
 }
