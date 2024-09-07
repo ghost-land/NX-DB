@@ -1,11 +1,11 @@
 {
     "id": "0100553006F36800",
     "base_tid": "0100553006F36000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ワンピース 海賊無双３ デラックスエディション",
+    "description": "「ONE PIECE」×「無双」、究極のコラボレーション！\n全世界シリーズ累計出荷数400万本以上の大人気シリーズ「ワンピース　海賊無双」シリーズが、ついにNintendo Switchで登場！\n\n●他機種版で配信されているコスチューム＆チャレンジエピソードなど、ダウンロードコンテンツを40種以上収録したデラックス版！\n\n●ルフィの冒険の始まりから「パンクハザード編」まで、麦わらの一味の冒険を追体験！ さらにゲームオリジナルの展開が楽しめる「ドレスローザ編」も収録！\n\n●「海賊無双」シリーズお馴染みの簡単操作＆爽快アクション！シンプル操作で無数の敵をなぎ倒す爽快アクションは健在！\n\n●コントローラーを2人分用意すれば、1台のNintendo Switchで2人協力プレイが可能！\n※本製品はJoy-Con横持ち(1本)での操作には対応しておりません。2人協力プレイ時には、2人分のJoy-Con(L)/(R)もしくはNintendo Switch Proコントローラー(別売)が必要です。",
+    "publisher": "バンダイナムコエンターテインメント",
+    "developer": null,
+    "base_release_date": 20171221,
     "first_update_release_date": 20180214,
     "latest_update_release_date": 20180214,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20180214
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション"
+    ],
+    "intro": "かつてないONE PIECEで泣き、遊べ。\n麦わらの一味の冒険と、爽快アクションを再び！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "犯罪"
+    ],
     "region": null
 }

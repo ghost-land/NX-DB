@@ -1,11 +1,11 @@
 {
     "id": "0100554012A34800",
     "base_tid": "0100554012A34000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Knight's Retreat",
+    "description": "Featuring:\n\n- 80 hand-crafted levels with increasing complexity.\n- A fun chess puzzle now available to everyone (even those who have never played chess)\n- Beautiful, abstract world inspired by Medieval Times;\n- Originally composed music to help you focus and relax while solving the puzzles",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230309,
     "first_update_release_date": 20211111,
     "latest_update_release_date": 20211111,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20211111
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Study"
+    ],
+    "intro": "A chess game without any chess. Rearrange your troops to bring your best Knights back to your Kingdom in an abstract medieval world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

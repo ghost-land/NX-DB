@@ -1,11 +1,11 @@
 {
     "id": "010055900FADA800",
     "base_tid": "010055900FADA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bloo Kid 2",
+    "description": "After rescuing his girlfriend from the hands of the evil wizard, Bloo Kid and Pink Girl enjoy life with their newborn \"Pink Kid\". But then, a whole new adventure starts just out of the bloo...\n\nRun, jump and swim your way through FIVE huge worlds with twelve levels each.\nMaster brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\n\nBloo Kid 2 features:\n- five worlds with twelve levels each\n- handcrafted, colorful pixel-graphics\n- a full chiptune soundtrack\n- epic boss battles\n- tons of secrets\n- ultra-precise controls",
+    "publisher": "winterworks",
+    "developer": null,
+    "base_release_date": 20230706,
     "first_update_release_date": 20191122,
     "latest_update_release_date": 20230621,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20191122,
         "131072": 20230621
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010056100E43C800",
     "base_tid": "010056100E43C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Five Nights at Freddy's 3",
+    "description": "Thirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\n\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...\n\nThe attraction now has one animatronic.",
+    "publisher": "Clickteam",
+    "developer": null,
+    "base_release_date": 20191130,
     "first_update_release_date": 20191219,
     "latest_update_release_date": 20240429,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20191219,
         "131072": 20240429
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "Childhood nightmares should remain in the past. But owners of the \"Fazbear's Fright: The Horror Attraction\" are unwittingly bringing the terror back...",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes"
+    ],
     "region": null
 }

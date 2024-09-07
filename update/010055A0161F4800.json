@@ -1,11 +1,11 @@
 {
     "id": "010055A0161F4800",
     "base_tid": "010055A0161F4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Go Rally",
+    "description": "Pit yourself against a huge variety of pre-made rally tracks across stunningly realistic deserts, arctic snowscapes, forests and arid outback landscapes. Each course delivers a fresh challenge, from glass-like ice to treacherous rocks and everything in-between.\n\nA CAREER IN RALLY!\nCareer mode lets you work up the ranks from Rookie to Master. Work your way up through 100 tracks around the world and become the rally champion of the world. Only the most daring drivers need apply!\n\nCHOOSE YOUR PERFECT CAR\nChoose from a cool collection of rally vehicles from ferocious muscle cars to powerful SUV’s. Customize with a stunning paint job so that no one will miss you roaring across the tracks.",
+    "publisher": "Inputwish",
+    "developer": null,
+    "base_release_date": 20230113,
     "first_update_release_date": 20230302,
     "latest_update_release_date": 20230302,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20230302
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation"
+    ],
+    "intro": "With loads of tracks, cars, a career mode, Go Rally is the only rally game you’ll ever need! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

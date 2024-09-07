@@ -1,11 +1,11 @@
 {
     "id": "0100560010E3E800",
     "base_tid": "0100560010E3E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "We should talk.",
+    "description": "We should talk is a short-form narrative game that will make you think carefully about the words you choose. Can your relationship survive the night?\n\nUsing a unique narrative choice mechanic, players craft sentences in response to the in-game characters in We should talk. Through this careful choice of words, players express themselves as they discuss ongoing problems about life and romance with their in-game partner over text messages, while also chatting with friends and strangers at their favorite local bar about what’s on their mind. The combination of words they choose impacts the conversations they have, how genuinely they can connect with their partner, and whether their relationship can survive the night.",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20220520,
     "first_update_release_date": 20200804,
     "latest_update_release_date": 20200804,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20200804
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Communication",
+        "Other",
+        "Adventure"
+    ],
+    "intro": "It's not what you say, it's how you say it.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexual Content",
+        "Strong Language",
+        "Use of Alcohol"
+    ],
     "region": null
 }

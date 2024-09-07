@@ -1,11 +1,11 @@
 {
     "id": "010055B009820800",
     "base_tid": "010055B009820000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Arcade Archives EXERION",
+    "description": "\"EXERION\" is a shooting game released by JALECO in 1983.\nPlayers must grapple with the inertial force of their fighter within a pseudo-3D space all while properly using dual and single beam weapons to destroy incoming enemies.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20200110,
     "first_update_release_date": 20210624,
     "latest_update_release_date": 20210624,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20210624
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Arcade"
+    ],
+    "intro": "A space wars game that feels set in another dimension!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

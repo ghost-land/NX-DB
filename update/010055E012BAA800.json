@@ -1,11 +1,11 @@
 {
     "id": "010055E012BAA800",
     "base_tid": "010055E012BAA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Joker Poker - Video Poker",
+    "description": "Play \"Joker Poker\" and test your skills on your favorite Video Poker game.\n\nIt's like having a small slice of Las Vegas on your console.\n\n* Simple and clean design.\n* Fast and easy game play.\n* Gamble your winnings.\n* View statistics.\n* Climb the Leaderboard and earn bragging rights.",
+    "publisher": "eSolutions Nordic",
+    "developer": null,
+    "base_release_date": 20220512,
     "first_update_release_date": 20210421,
     "latest_update_release_date": 20210421,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210421
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Simulation",
+        "Strategy",
+        "Training"
+    ],
+    "intro": "Enjoy the Casino Experience!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
     "region": null
 }

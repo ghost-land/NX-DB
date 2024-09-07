@@ -1,11 +1,11 @@
 {
     "id": "010055D009F78800",
     "base_tid": "010055D009F78000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fire Emblem™: Three Houses",
+    "description": "War is coming to the continent of Fódlan. Here, order is maintained by the Church of Seiros, which hosts the prestigious Officer’s Academy within its headquarters. You are invited to teach one of its three mighty houses, each comprised of students brimming with personality and represented by a royal from one of three territories. As their professor, you must lead your students in their academic lives and in turn-based, tactical RPG battles wrought with strategic, new twists to overcome. Which house, and which path, will you choose? ",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20190726,
     "first_update_release_date": 20190723,
     "latest_update_release_date": 20200212,
     "latest_update": {
@@ -19,11 +19,30 @@
         "262144": 20191218,
         "327680": 20200212
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Three territories. Three houses. Your very own journey.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }

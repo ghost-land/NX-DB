@@ -1,11 +1,11 @@
 {
     "id": "0100552013832800",
     "base_tid": "0100552013832000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pajama Sam: No Need to Hide When It's Dark Outside",
+    "description": "Sam is an ordinary kid who, with the help of his red cape, turns into \"superhero\" Pajama Sam. In No Need to Hide When It’s Dark Outside, Pajama Sam journeys into the land of darkness (his closet) to face his fears. Help Pajama Sam figure out who or what is behind the darkness and realize that there is no need to hide when it’s dark outside!\n\n• Think, listen, explore - fun learning encourages critical thinking, fosters listening and memory skills, and reinforces good social skills.\n• Like the real world, Pajama Sam's world changes every time you play.\n• Everything comes to life: appliances sing, furniture dances, trees talk.\n• Out of time? You can save the game and finish it later.",
+    "publisher": "UFO Interactive",
+    "developer": null,
+    "base_release_date": 20220210,
     "first_update_release_date": 20220126,
     "latest_update_release_date": 20220126,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20220126
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Education"
+    ],
+    "intro": "There's no reason to be afraid of the dark, as Sam's about to find out...",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief"
+    ],
     "region": null
 }

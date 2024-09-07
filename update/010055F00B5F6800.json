@@ -1,11 +1,11 @@
 {
     "id": "010055F00B5F6800",
     "base_tid": "010055F00B5F6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "魯弗蘭的地下迷宮與魔女的旅團",
+    "description": "玩家將扮演魔女「朵洛妮亞」所擁有的「一本書」，\n遵從她的命令，前往攻略傳說中的地下迷宮。\n沉默不語的人偶兵們和一本書所集結而成的特異團隊「魔女的旅團」向迷宮展開挑戰之時，\n以奇異的都市為舞台，超越想像的不可思議故事便就此上演。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180927,
     "first_update_release_date": 20180926,
     "latest_update_release_date": 20181128,
     "latest_update": {
@@ -16,11 +16,15 @@
         "65536": 20180926,
         "131072": 20181128
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "角色扮演"
+    ],
+    "intro": "『魯弗蘭的地下迷宮與魔女的旅團』在Nintendo Switch登場！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "0100559011740800",
     "base_tid": "0100559011740000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "MONSTER HUNTER RISE",
+    "description": "在充滿魅力的世界觀中，將帶來大量全新的動作、魔物以及原野。前所未有的狩獵體驗正在等待獵人們！\n\n帶上Nintendo Switch到狩獵場上集合吧！\n\n※本遊戲支援繁簡中文字幕。",
+    "publisher": "CAPCOM",
+    "developer": null,
+    "base_release_date": 20210326,
     "first_update_release_date": 20210318,
     "latest_update_release_date": 20240122,
     "latest_update": {
@@ -41,11 +41,25 @@
         "2162688": 20230714,
         "2228224": 20240122
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "動作"
+    ],
+    "intro": "超大型擴充內容體驗版現已發佈！\n※於本頁面下載的體驗版中，包含超大型擴充內容《MONSTER HUNTER RISE: SUNBREAK》部份新增要素。",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

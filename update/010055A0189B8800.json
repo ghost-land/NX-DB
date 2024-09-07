@@ -1,11 +1,11 @@
 {
     "id": "010055A0189B8800",
     "base_tid": "010055A0189B8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Orebody: Binder's Tale",
+    "description": "Orebody: Binder’s Tale is a run and gun shooter that takes place on the alien world of Orebody. \n\nBuilt using the constraints of classic 8-bit games, Binder’s Tale provides an authentic old school experience for young and old players alike. \n\nAs an orphaned battle bot named Binder, players run, jump, and blast their way across Orebody in order to reach the Floating City of Galvanstad, a hovering A.I. fortress, to confront their makers and avenge the death of their mentor.",
+    "publisher": "Nami Tentou",
+    "developer": null,
+    "base_release_date": 20230330,
     "first_update_release_date": 20231204,
     "latest_update_release_date": 20231204,
     "latest_update": {
@@ -15,11 +15,31 @@
     "versions": {
         "65536": 20231204
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Orebody: Binder’s Tale is a run and gun shooter that takes place on the sci-fi fantasy world of Orebody.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

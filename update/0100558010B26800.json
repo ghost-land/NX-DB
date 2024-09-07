@@ -1,11 +1,11 @@
 {
     "id": "0100558010B26800",
     "base_tid": "0100558010B26000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Behold the Kickmen",
+    "description": "BEHOLD THE KICKMEN is a football game made by someone who has no understanding of, or interest in, what is affectionately known as \"The Wonderful Game\".\n\nStart at the bottom of the Big Boring British Football Spreadsheet system and grind your way up, gruelling match after gruelling match, to become the best at the football that anyone's ever seen, and win the World Cup for your mantelpiece.\n\nFEATURES: Kicking, Passing, Tackling, Squad Management and Doing Goals over and over. There's even a full Story mode, crammed with overblown melodrama and inane decisions to be made.",
+    "publisher": "Ant Workshop",
+    "developer": null,
+    "base_release_date": 20200618,
     "first_update_release_date": 20200804,
     "latest_update_release_date": 20200804,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20200804
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Sports"
+    ],
+    "intro": "ULTIMATE FOOTBALL EDITION",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Coarse Language"
+    ],
     "region": null
 }

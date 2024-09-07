@@ -1,11 +1,11 @@
 {
     "id": "010055F01A242800",
     "base_tid": "010055F01A242000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Mechanic 8230: Escape From Ilgrot",
+    "description": "Even the tiniest coin can prove vital in this adventure. Remember – the only weapon at your disposal is your mind!\n\nWHAT’S THE POINT?\n\nDive into the past of the post-apocalyptic world of Bifrostia and those who led it to ruin. Why do they want the RO-2 unit? Before you find that out, you need to make a daring escape from under their noses.\n\nDON’T TRUST THE RUST\n\nThe rusted city of Ilgrot is not the best place to live. Especially, if you find yourself with the wrong droid, at the worst possible moment. Make a run for it and “point & click” your way to safety. Escape this devastated land!\n\n\nKEY FEATURES:\n\n— A classic Point & Click formula\n— Demanding puzzles\n— Logical solutions\n— Unique aesthetic\n— A gear punk ambiance",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230519,
     "first_update_release_date": 20240605,
     "latest_update_release_date": 20240605,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20240605
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Strategy"
+    ],
+    "intro": "Mechanic 8230: Escape from Ilgrot is a puzzle point & click adventure, set in the ruined city of Ilgrot. Use anything you can find to progress through the story. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Use of Tobacco"
+    ],
     "region": null
 }

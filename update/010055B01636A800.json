@@ -1,11 +1,11 @@
 {
     "id": "010055B01636A800",
     "base_tid": "010055B01636A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Hoplegs",
+    "description": "Hoplegs is a different kind of platform game where you control your character using 4 different legs.  Looks easy?  Each of the four gamepad buttons where you usually jump, interact, crouch and change weapons are now your legs!  Master the unique controls, and navigate through loads of developer and community-created levels! \n\nCustomise your look with stylish hats, boxes and legs - even new faces! Keep your eyes open for rare and special items in secret hidden areas!  Can you find them all?",
+    "publisher": "WhyKev",
+    "developer": null,
+    "base_release_date": 20211112,
     "first_update_release_date": 20211112,
     "latest_update_release_date": 20220121,
     "latest_update": {
@@ -16,11 +16,27 @@
         "65536": 20211112,
         "196608": 20220121
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Party",
+        "Multiplayer",
+        "Puzzle"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

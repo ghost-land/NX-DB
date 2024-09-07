@@ -1,11 +1,11 @@
 {
     "id": "010055200E87E800",
     "base_tid": "010055200E87E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Metamorphosis",
+    "description": "You wake up one morning to find that you are rather inconveniently transforming into a tiny bug, while your friend Joseph is being arrested for reasons unknown.  \n\nTo save him and to find the answers you seek, you must embark on a journey through a world which, like yourself, has become twisted and unfamiliar.\n\nWhat once seemed like mundane dwellings have become an expansive obstacle course, and now you’ll have to chart your path through the dingy nooks and crannies that exist within the cracks of civilization. \n\nUse your wits to unravel the truth, and regain the life you once knew.\n\nA bug's perspective in first person - experience the world in a whole new way\nChallenging environmental puzzles - parkour, wall climb, search for clues, and overcome obstacles\nUnique movement mechanics - make full use of your tiny body and sticky limbs\nA story inspired by Kafka’s imagination - meet eccentric characters in a hand-painted world, as you journey through surrealist landscapes towards The Tower",
+    "publisher": "Untold Tales",
+    "developer": null,
+    "base_release_date": 20220325,
     "first_update_release_date": 20200805,
     "latest_update_release_date": 20200805,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20200805
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Platformer",
+        "Action"
+    ],
+    "intro": "A first-person adventure game whose mysterious story was inspired by the imagination of Franz Kafka.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Drug Reference",
+        "Use of Alcohol and Tobacco"
+    ],
     "region": null
 }

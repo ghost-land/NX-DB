@@ -1,11 +1,11 @@
 {
     "id": "010055B01AA08800",
     "base_tid": "010055B01AA08000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "CRYMACHINA",
+    "description": "In a world where humans went extinct thousands of years ago, synthetic beings known as Dei ex Machina have been tasked to bring mankind back. Join three E.V.E., the recreated psyche of deceased humans instilled in synthetic bodies, as they seek their full-fledged humanity and explore Eden to discover the secrets hidden within. \n\nFlashy, action-packed combat paired with in-depth weapon customization creates a visually stunning RPG experience. Dark scenery and striking sci-fi visuals bring the world of CRYMACHINA to life.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20231024,
     "first_update_release_date": 20230912,
     "latest_update_release_date": 20240730,
     "latest_update": {
@@ -17,11 +17,21 @@
         "131072": 20231123,
         "196608": 20240730
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "With flesh shorn, in steel reborn",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Language",
+        "Suggestive Themes",
+        "Violence"
+    ],
     "region": null
 }

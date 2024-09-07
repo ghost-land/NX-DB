@@ -1,11 +1,11 @@
 {
     "id": "010056201862C800",
     "base_tid": "010056201862C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Touhou Shoujo Tale of Beautiful Memories",
+    "description": "You can run or jump to avoid annoying enemies, or shoot them from afar to defeat them!\nIf you come in contact with an enemy, an action packed command-based battle begins!\nUse various controls, press buttons at specific timing, charge your power, and more to fight!\nControl Reimu and her friends (?) in this dreamy Gensoukyou drama!\n\nCharacters: Reimu Hakurei, Koishi Komeiji, Tenshi Hinanawi, Sakuya Izayoi, Nitori Kawashiro, Reisen Udongein Inaba, Doremy Sweet, and Yukari Yakumo.\n\nEach character fights with unique weapons and attacks!",
+    "publisher": "Mediascape",
+    "developer": null,
+    "base_release_date": 20220928,
     "first_update_release_date": 20230608,
     "latest_update_release_date": 20240312,
     "latest_update": {
@@ -16,11 +16,23 @@
         "131072": 20230608,
         "196608": 20240312
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "The stage is set in the isometric Gensoukyou as you run, jump, and shoot your way through an adventure in this action RPG!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Suggestive Themes",
+        "Use of Alcohol"
+    ],
     "region": null
 }
