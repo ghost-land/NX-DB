@@ -1,11 +1,11 @@
 {
     "id": "01004D1007926800",
     "base_tid": "01004D1007926000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "10 Second Run RETURNS",
+    "description": "The legendary action game, \"10 Second Run\" is back! The rules (and controls) are simple: \"Move Sideways\" and \"Jump & Dash\" to get to the finish line in under 10 seconds! Unlock different types of stick figures as you clear the stages! Run solo or race against others in multiplayer mode! Any time, any where, with anyone, simply run, run, run! You'll be surprised how much excitement is packed in 10 seconds- and how long 10 seconds can be!",
+    "publisher": "Edia",
+    "developer": null,
+    "base_release_date": 20180222,
     "first_update_release_date": 20180124,
     "latest_update_release_date": 20211027,
     "latest_update": {
@@ -17,11 +17,23 @@
         "131072": 20180228,
         "196608": 20211027
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Racing",
+        "Party",
+        "Other"
+    ],
+    "intro": "Reach the finish line in 10 seconds!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Users Interact"
+    ],
     "region": null
 }

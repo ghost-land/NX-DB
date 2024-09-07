@@ -1,11 +1,11 @@
 {
     "id": "01004C1013548800",
     "base_tid": "01004C1013548000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Apple Knight",
+    "description": "Apple Knight is a beautiful action platformer RPG for all ages. Explore vast levels filled with secrets, quests and loot. Defeat tough bosses. Fight wizards, knights, and monsters - or use traps to take them out from a safe distance. ",
+    "publisher": "Limitless",
+    "developer": null,
+    "base_release_date": 20210909,
     "first_update_release_date": 20220107,
     "latest_update_release_date": 20220107,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20220107
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "intro": "Epic Action Platformer!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

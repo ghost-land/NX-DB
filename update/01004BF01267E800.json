@@ -1,11 +1,11 @@
 {
     "id": "01004BF01267E800",
     "base_tid": "01004BF01267E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "GEMINI ARMS",
+    "description": "50 years have passed since humans started living in space. Yet even in space, we keep fighting for resources and conflict develops between earthborn and spaceborn. Federal force has developed a huge laser weapon that could destroy colonies.\nIn response, the ultimate weapon GEMINI ARMS was developed secretly.\nSwitch between robot and fighter modes and defeat the Federal force army in space and return to a peaceful life between the people of the universe!",
+    "publisher": "MoonGlass",
+    "developer": null,
+    "base_release_date": 20200827,
     "first_update_release_date": 20200925,
     "latest_update_release_date": 20211027,
     "latest_update": {
@@ -18,11 +18,24 @@
         "196608": 20211014,
         "262144": 20211027
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "Get inside the ultimate weapon, GEMINI ARMS, and save the world from the Federal force deadly laser weapon.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

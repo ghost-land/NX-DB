@@ -1,11 +1,11 @@
 {
     "id": "01004D0012D28800",
     "base_tid": "01004D0012D28000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Arcade Archives BEN BERO BEH",
+    "description": "\"BEN BERO BEH\" is an action game released by TAITO in 1984.\nAvoid obstacles and put out fires to rescue NAO-Chan from the flames.\nFull of unique characters such as the enemy from \"ELEVATOR ACTION\" and Chack'n from \"Chack'n Pop\".\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+    "publisher": "HAMSTER",
+    "developer": null,
+    "base_release_date": 20201001,
     "first_update_release_date": 20201102,
     "latest_update_release_date": 20210305,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20201102,
         "131072": 20210305
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Put out the fires! Avoid the obstacles! Rescue your beloved NAO-Chan!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

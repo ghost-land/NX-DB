@@ -1,11 +1,11 @@
 {
     "id": "01004BC00B5A0800",
     "base_tid": "01004BC00B5A0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "說謊公主與盲眼王子",
+    "description": "玩家所操作的角色是獲得少女變身之力的狼怪物。\n在前往魔女大宅的路途中，必須因應狀況使用狼與少女的不同姿態，\n有時還要與人類的王子攜手合作。敬請在遊戲中盡情享受以不可思議森林\n為舞台的動作解謎內容，如同繪本般美麗的圖像設計，以及高潮迭起的故事劇情。",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180823,
     "first_update_release_date": 20180822,
     "latest_update_release_date": 20180822,
     "latest_update": {
@@ -15,11 +15,15 @@
     "versions": {
         "65536": 20180822
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "冒險"
+    ],
+    "intro": "真正的我　無法被你碰觸",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

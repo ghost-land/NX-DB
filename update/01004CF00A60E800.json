@@ -1,11 +1,11 @@
 {
     "id": "01004CF00A60E800",
     "base_tid": "01004CF00A60E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Super Saurio Fly",
+    "description": "“Super Saurio Fly” is a 2D arcade platformer and adventure video game. Players will move along the stages crossing different parts of the world by using Super Saurio´s ability to fly, dodge traps and defeat other dinosaurs. The storyline puts the player on the role of Saurio, a cute and clumsy tiny pterodactyl whose eggs were stolen. Saurio will have to look for his eggs around the world and defeat the evil kidnappers.",
+    "publisher": "FraxelGames",
+    "developer": null,
+    "base_release_date": 20180428,
     "first_update_release_date": 20180907,
     "latest_update_release_date": 20190313,
     "latest_update": {
@@ -16,11 +16,22 @@
         "65536": 20180907,
         "131072": 20190313
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

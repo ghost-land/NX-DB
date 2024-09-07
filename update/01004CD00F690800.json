@@ -1,11 +1,11 @@
 {
     "id": "01004CD00F690800",
     "base_tid": "01004CD00F690000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Knowledge Trainer: Trivia",
+    "description": "Each lesson tests your wits with 10 questions from 10 different categories. The difficulty level depends on you. Get an answer right and you'll move up a level. A wrong answer leads to an easier question. But you'll want to move up to improve your Knowledge Quotient, which is recalculated after every round. In a multiplayer game, up to 4 players can compete.\n \nMore features:\n• Optimized for playing in a small group in front of a TV, sharing one or more controllers \n• 6000+ questions = fewer repeats\n• 5 difficulty levels, 10 categories\n• Review function for missed questions\n• American, British, Australian, German, Swiss, Austrian & French gameplay modes",
+    "publisher": "the binary family",
+    "developer": null,
+    "base_release_date": 20191128,
     "first_update_release_date": 20191114,
     "latest_update_release_date": 20191122,
     "latest_update": {
@@ -16,11 +16,21 @@
         "65536": 20191114,
         "131072": 20191122
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Education",
+        "Party",
+        "Study"
+    ],
+    "intro": "The quiz app for smart people. It’s designed to stimulate your brain with over 6,000 high-quality, challenging, and informative questions. For one or more players. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

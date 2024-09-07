@@ -1,11 +1,11 @@
 {
     "id": "01004CC018D22800",
     "base_tid": "01004CC018D22000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Monster destroyer",
+    "description": "This is a game where the main task is survival. Here you have nowhere to hide, the constant stream of attacking monsters will only make you stronger.\nWith each completed level, you will discover new powers.\nAccept the challenge - defeat all the monsters and you will know all your power.",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20220806,
     "first_update_release_date": 20220930,
     "latest_update_release_date": 20220930,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "131072": 20220930
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "Survive and Roguelike\n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

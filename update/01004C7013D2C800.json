@@ -1,11 +1,11 @@
 {
     "id": "01004C7013D2C800",
     "base_tid": "01004C7013D2C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "クラッシュ・バンディクー™4: とんでもマルチバース",
+    "description": "デジタル版を購入して、クラッシュとココの80年代スキンをゲットしよう*。\n\nシリーズ続編となる『クラッシュ・バンディクー™4: とんでもマルチバース』がついに登場！クラッシュや仲間達と、時空を超えた大冒険に乗り出そう！\n\n懲りないネオ・コルテックスとエヌ・トロピーは、世界征服では飽きたらずマルチバースの征服に挑戦！世界を救うために立ち上がったクラッシュとココは、4つのマスクを集めて時空の歪みを直そうとします。\n\n新しいアビリティ、様々なプレイアブルキャラクター、異次元の世界、そしてユニークなボス戦を楽しもう！シリーズお馴染みのアクション満載、でも今回は世界があべこべ！\n\n\n*ステージ2のクリア時に利用可能。",
+    "publisher": "Activision",
+    "developer": null,
+    "base_release_date": 20210312,
     "first_update_release_date": 20210302,
     "latest_update_release_date": 20210408,
     "latest_update": {
@@ -16,11 +16,16 @@
         "65536": 20210302,
         "131072": 20210408
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "その他"
+    ],
+    "intro": "クラッシュ・バンディクーシリーズ続編となる『とんでもマルチバース』で時空を駆け抜けよう！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

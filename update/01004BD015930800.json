@@ -1,11 +1,11 @@
 {
     "id": "01004BD015930800",
     "base_tid": "01004BD015930000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "We Know the Devil",
+    "description": "Anyone can kill the devil; that’s why they always make teens the vampire slayers, the magical girls. But some kids can’t even get that right; and that’s why meangirl Neptune, tomboy Jupiter, and shy shy Venus have to endure one more week of summer camp and each other, singing boring songs about jesus, doing busywork for adults, and hoping god’s radio can’t hear them.\n\nBefore they can leave the summer scouts, they’ve got to spend twelve hours in the loneliest cabin in the woods and wait for the devil to come and live through the night--or not. You know.\n\nTwo will become closer, but what will happen to the one left out?",
+    "publisher": "Pillow Fight",
+    "developer": null,
+    "base_release_date": 20210730,
     "first_update_release_date": 20210730,
     "latest_update_release_date": 20210730,
     "latest_update": {
@@ -15,11 +15,17 @@
     "versions": {
         "65536": 20210730
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "A visual novel set in a surreal summer camp dystopia. Follow three teens as they become friends and prepare to fight the real, actual devil.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Coarse Language"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004D10020F2800",
     "base_tid": "01004D10020F2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Graceful Explosion Machine",
+    "description": "Skillfully pilot the Graceful Explosion Machine, a fighter ship armed with a ludicrously overpowered quad-weapon array! Lost in deep space, you'll shoot, dash and combo your way through jewel-hued alien worlds, fighting crystalline enemies to find a way home.\n\nThe GEM fighter is the most advanced single pilot fighter in the galaxy, offering precise controls, nimble movement, and devastating firepower.\n\n- A blisteringly intense side-scrolling arcade shooter experience\n- The quad-weapon array gives the player four unique and devastatingly powerful weapons at all times\n- 30+ levels across 4 unique worlds\n- Visuals bursting with vibrant colour, bold lines, and geometric enemy designs\n- Analogue and digital synthesizer driven soundtrack\n- Extensive ranking and stats for each level encourages replay to perfect the game’s combo systems\n- Score attack mode: a finely-tuned experience for wracking up big scores!",
+    "publisher": "Vertex Pop Inc.",
+    "developer": null,
+    "base_release_date": 20170406,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20200616,
     "latest_update": {
@@ -17,11 +17,24 @@
         "262144": 20171130,
         "327680": 20200616
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

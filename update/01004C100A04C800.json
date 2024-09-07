@@ -1,11 +1,11 @@
 {
     "id": "01004C100A04C800",
     "base_tid": "01004C100A04C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "This Is the Police 2",
+    "description": "Interpret the law as you see fit! Run the sheriff’s department, manage your cops, make tough decisions – and try to keep out of prison yourself – in this story-driven mixture of adventure, strategy, and turn-based tactical combat. ",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20180925,
     "first_update_release_date": 20181031,
     "latest_update_release_date": 20181031,
     "latest_update": {
@@ -15,11 +15,28 @@
     "versions": {
         "131072": 20181031
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "References to sexual violence"
+    ],
     "region": null
 }

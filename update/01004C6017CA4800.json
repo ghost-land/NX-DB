@@ -1,11 +1,11 @@
 {
     "id": "01004C6017CA4800",
     "base_tid": "01004C6017CA4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "TENSEI",
+    "description": "TENSEI is a very casual endless action game.\n\nIn a journey of repeated leaps and descents, you ascend slowly into the sky, like a brush tracing on paper.\nTENSEI offers you a moment to leave your busy daily life behind and become mindless.\n\nPlay features\n[A unique play feel with a sense of floating in low gravity].\nProject your consciousness into the game and immerse yourself in the game while relaxing.\n\n[Cleansing of distractions]\nDamage zones can be purified by applying a drop (plunge).\nConcentrate on your aim and aim high to avoid damage.\n\n[Become a majestic dragon].\nUse the 3-step jump to collect orbs (drops of ink) on the field while jumping from one scaffold to another. ",
+    "publisher": "NEURON･AGE",
+    "developer": null,
+    "base_release_date": 20240801,
     "first_update_release_date": 20240829,
     "latest_update_release_date": 20240829,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20240829
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Other"
+    ],
+    "intro": "Experience facing the mind with a peaceful Zen landscape.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

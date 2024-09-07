@@ -1,11 +1,11 @@
 {
     "id": "01004C301E77E800",
     "base_tid": "01004C301E77E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Go Kart Mania",
+    "description": "\"Go Kart Mania\" the ultimate kart racing game brings the thrill ride right to your Nintendo Switch™.\n\nRace through 36 uniquely challenging tracks in iconic locations from Europe, China, and Australia, each offering a distinct racing experience. \n\nCustomize your kart to outsmart competitors. \n\nEngage in heart-pounding competition across the world, or treat yourself to a quick solo race to become a karting legend.\n\n\"Go Kart Mania\" is your ticket to a world of high-speed excitement and adventure. \n\nDon't miss out - start your engines for an unforgettable racing journey!",
+    "publisher": "Baltoro Minis",
+    "developer": null,
+    "base_release_date": 20240329,
     "first_update_release_date": 20240821,
     "latest_update_release_date": 20240821,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "131072": 20240821
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports",
+        "Simulation",
+        "Adventure"
+    ],
+    "intro": "Your Ticket to World Kart Racing!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

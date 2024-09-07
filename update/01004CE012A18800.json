@@ -1,11 +1,11 @@
 {
     "id": "01004CE012A18800",
     "base_tid": "01004CE012A18000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Discolored",
+    "description": "Discolored is a strange and surreal puzzle adventure, taking place over two-or-so hours in a single desolate location. Your mission: restore the color to this once-vibrant world. What caused the colors to disappear? How can they be brought back? As you explore, you'll solve an array of inventive puzzles and uncover a selection of clues - leading you to discover the deeper secrets of this strange place at the end of an abandoned highway.\n\nFeatures:\nFirst-person exploration fused with intricate and inventive puzzle-solving \nA single environment that changes and expands as you play\nA striking, pared-back aesthetic, with a beautiful haunting soundtrack\nDesigned to be experienced in a single sitting - playable in two-or-so hours",
+    "publisher": "Godbey Games",
+    "developer": null,
+    "base_release_date": 20210701,
     "first_update_release_date": 20210904,
     "latest_update_release_date": 20210904,
     "latest_update": {
@@ -15,11 +15,28 @@
     "versions": {
         "65536": 20210904
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Locals whisper of a roadside diner that’s lost its color. You are sent to investigate.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

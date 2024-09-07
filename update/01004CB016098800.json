@@ -1,11 +1,11 @@
 {
     "id": "01004CB016098800",
     "base_tid": "01004CB016098000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "グランド・セフト・オート：バイスシティ：決定版",
+    "description": "最先端のアップデートで色鮮やかに蘇る、ジャンルに金字塔を打ち立てた名作を体験しよう。新たなライティング、環境面のアップグレード、高解像度テクスチャ、描画距離の向上、『グランド・セフト・オートV』のスタイルを採用した操作性や照準などを追加。\n\n1980年代へようこそ。派手な髪形やパステルスーツに彩られる時代を舞台に、1人の男が裏社会の頂点に登りつめるまでが描かれる。裏切りと復讐のトミー・ヴェルセッティの物語とともに、あの「グランド・セフト・オート」が帰ってきた。ネオンが眩しい常夏の町は可能性に満ち溢れている。\n\n開発はロックスター・ゲームス、アダプテーションはGrove Street Gamesが担当。",
+    "publisher": "テイクツー・インタラクティブ・ジャパン",
+    "developer": null,
+    "base_release_date": 20211112,
     "first_update_release_date": 20211102,
     "latest_update_release_date": 20221018,
     "latest_update": {
@@ -20,11 +20,20 @@
         "327680": 20220307,
         "393216": 20221018
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
     "region": null
 }

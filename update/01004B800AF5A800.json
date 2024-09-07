@@ -1,11 +1,11 @@
 {
     "id": "01004B800AF5A800",
     "base_tid": "01004B800AF5A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bloodstained: Curse of the Moon",
+    "description": "Play as Zangetsu, a demon slayer bearing a deep grudge, who must travel through perilous lands to defeat a powerful demon lurking in a dark castle. Zangetsu will meet fellow travelers along the way, who can join your journey as playable characters.\n\nSwitching to these characters with their unique abilities will unlock new paths through the treacherous stages. Your choices in recruiting these adventurers will change the difficulty of the game, and may even affect the ending!\n\n*This game is the mini-game promised as a stretch goal of the 2015 Kickstarter campaign for \"Bloodstained: Ritual of the Night.\" ",
+    "publisher": "Inti Creates",
+    "developer": null,
+    "base_release_date": 20180524,
     "first_update_release_date": 20180524,
     "latest_update_release_date": 20230802,
     "latest_update": {
@@ -17,11 +17,18 @@
         "131072": 20190514,
         "196608": 20230802
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "Battle with swords and whips in this retro-style action game brought to you by game creator Koji Igarashi and Inti Creates!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

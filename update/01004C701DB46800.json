@@ -1,11 +1,11 @@
 {
     "id": "01004C701DB46800",
     "base_tid": "01004C701DB46000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "EGGCONSOLE Ys PC-8801mkIISR",
+    "description": "This is an action RPG released by Nihon Falcom in 1987. \n\nPlayers take on the role of Adol Christin, a red-haired adventurer, as he embarks on a journey to seek the six Books of Ys.\n\nAt the time of its release, the PC gaming industry was saturated with challenging RPGs. However, Nihon Falcom took a different approach with this game, releasing it with the concept of \"\"Now, it's the era to bring kindness in RPGs,\"\" aiming to create an RPG that everyone could enjoy.\n\nThe game features clever level-up settings that eliminate the hassle of grinding for experience points, the removal of unreasonable traps, and agile characters that move smoothly. With numerous thoughtful design choices, the game can be enjoyed comfortably, and it is not an exaggeration to say that it is filled with \"\"kindness,\"\" as the tagline suggests.\n\n*The main game and gallery screen (*Gallery) are in Japanese version.\n*Other menu screens and \"\"How to play\"\" screens are in English.\n",
+    "publisher": "D4 Enterprise",
+    "developer": null,
+    "base_release_date": 20240216,
     "first_update_release_date": 20240214,
     "latest_update_release_date": 20240229,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20240214,
         "131072": 20240229
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "The landmark first game of an ongoing popular title. Master the 'half-character shift' and embark on an adventure in the land of Esteria!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Nudity",
+        "Mild Violence"
+    ],
     "region": null
 }
