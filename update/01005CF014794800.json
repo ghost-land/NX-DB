@@ -1,11 +1,11 @@
 {
     "id": "01005CF014794800",
     "base_tid": "01005CF014794000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "GetsuFumaDen",
+    "description": "Discover the 1987 Japan-exclusive GetsuFumaDen, now available globally for the first time with the release of GetsuFumaDen: Undying Moon! \n\n◆ Story\nOur tale starts in the year 14672 A.D., with the great demon king Ryukotsuki arising from a long slumber. Coveting the earthly realm, Ryukotsuki threatens to invade the land wisely ruled over by the Getsu clan for generations. Armed with the legendary Hado blades, the 3 sons of the powerful Getsu Clan resolved to fight the hellish creature, only for the youngest brother to survive the battle. Now alone and without the legendary weapons stolen during the fight, Fuma heads out on a perilous journey to reclaim the blades and avenge his fallen kin.\n\n◆New Features\nQuick save\nCustomizable controls\nOriginal Japanese manual\nMultiple screen modes: 1:1, 4:3, 16:9, analogue TV, pixel perfect, smooth and wallpaper options available\n\n◆ How to play\nTravel through the demon islands to recover the 3 Hado blades stolen and secreted away by Ryukotsuki. Buy weapons from shops along the way to defeat the many enemies on your path to revenge, acquire information at shrines and find the Kimen-fu to continue onto the next island. Defeat Ryukotsuki and reclaim your honor!\n\n◆ Notes\nThis content is available through bundle purchase with GetsuFumaDen: Undying Moon Digital Deluxe Edition - not sold separately. Menu languages: English and Japanese. Dialogue language: Japanese only.",
+    "publisher": "KONAMI",
+    "developer": null,
+    "base_release_date": 20220209,
     "first_update_release_date": 20220526,
     "latest_update_release_date": 20220526,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20220526
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action"
+    ],
+    "intro": "Go forth Fuma, and defeat the Ryukotsuki to appease the souls of your brothers who had their lives stolen from them!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
     "region": null
 }

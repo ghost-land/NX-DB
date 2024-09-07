@@ -1,11 +1,11 @@
 {
     "id": "01005C700990A800",
     "base_tid": "01005C700990A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "返校 -Detention-",
+    "description": "返校 –Detention- は東アジア、主に台湾の文化と宗教観、風習などを取り込んだホラーアドベンチャーゲームです。\n1960年代の白色テロ下の台湾を舞台にしており、プレイヤーは冥府の存在が跋扈する朽ちた学校の中を歩き回り、この恐るべき場所に隠された真実を探し出すことになります。\nストーリーは少年と少女の出会いから始まり、体制と衝突する時代の台湾史を奇妙な形で追体験できます。オリジナル音楽とサウンド、写実的なアートが融合し、息が詰まりそうな雰囲気を作り出しています。",
+    "publisher": "RED CANDLE GAMES",
+    "developer": null,
+    "base_release_date": 20180301,
     "first_update_release_date": 20180921,
     "latest_update_release_date": 20180921,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20180921
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アドベンチャー",
+        "パズル"
+    ],
+    "intro": "紙飛行機が私の夢を運んでくれて… 次に目覚めたら知らない国にいて…\n見知らぬ町で新しい人生を始められたら… そうだったらいいのに。",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
     "region": null
 }

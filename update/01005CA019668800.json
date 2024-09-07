@@ -1,11 +1,11 @@
 {
     "id": "01005CA019668800",
     "base_tid": "01005CA019668000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Alice in Wonderland - A jigsaw puzzle tale",
+    "description": "A new jigsaw puzzle game to remember a beloved classic story. With 12 beautiful illustrations created by Katia Numakura, with inspiration from “Alice in Wonderland” by Lewis Carroll. \n\n- Complete the jigsaw puzzle scenes at five different levels of difficulty - from 60 to 735 pieces.\n- Relax with a comforting and exclusive soundtrack .\n- Features include zooming the scene, highlighting border pieces, highlighting pieces from a specific quadrant, shuffling the remaining pieces, previewing the scene, dragging the board;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20230209,
     "first_update_release_date": 20230224,
     "latest_update_release_date": 20230224,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "65536": 20230224
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Board Game",
+        "Strategy",
+        "Study"
+    ],
+    "intro": "Set up the jigsaw puzzles in a refreshing reinterpretation created in a beautiful style of wonderland!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Use of Tobacco",
+        "Violent References"
+    ],
     "region": null
 }

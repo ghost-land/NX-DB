@@ -1,11 +1,11 @@
 {
     "id": "01005CF01E784800",
     "base_tid": "01005CF01E784000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
+    "description": "When Splinter is kidnapped by Shredder, mysterious portals simultaneously appear across NYC. With April and Metalhead analysing recovered artifacts for clues, the Turtles battle to recover their father from the clutches of the Foot Clan. However, as the gang gets ever closer to Splinter’s otherworldly location, an even greater threat lingers in the shadows…\n\nIn Splintered Fate, brace yourself for fast-paced, roguelike action where no two runs are the same. With randomised power-ups, room layouts, and boss modifiers, the excitement never ends. Take control of all four Turtles, each wielding unique powers, and team up with friends for bodacious co-op gameplay. Explore iconic NYC locations, upgrade your Turtle powers, and prepare to face off against formidable enemies.\n\nWith thrilling combat and endless challenges, Splintered Fate promises to keep you engaged in the FIGHT, ADAPT, REPEAT portal loop. Be ready to restore peace to the city!",
+    "publisher": "Super Evil Mega Corp",
+    "developer": null,
+    "base_release_date": 20240717,
     "first_update_release_date": 20240705,
     "latest_update_release_date": 20240819,
     "latest_update": {
@@ -17,11 +17,31 @@
         "131072": 20240730,
         "196608": 20240819
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "intro": "Unleash the Turtles in a roguelike quest to rescue Splinter from the Foot Clan!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

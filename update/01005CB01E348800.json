@@ -1,11 +1,11 @@
 {
     "id": "01005CB01E348800",
     "base_tid": "01005CB01E348000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Cyber Citizen Shockman 3: The princess from another world",
+    "description": "Originally released in 1992, Cyber Citizen Shockman 3: The princess from another world brings another blast from the past!\n\nAfter Sonya wins a big prize in the lottery, she and Arnold travel to a tropical southern island to enjoy some well-deserved holidays.\n\nHowever, paradise soon turns into hell when a strange spaceship appears all of a sudden and starts attacking the city.\n\nUnable to just sit around and do nothing while chaos unfolds, Arnold and Sonya transform into Shockman and head to battle this new mysterious enemy!\n\n\nFeatures:\n* Play through a big variety of stages that include platform stages as well as scrolling shooting stages\n* Fight powerful bosses alone or with a friend with the 2-player mode\n* Brand new English translation plus original Japanese text\n* Image gallery from hand-made scans\n* Handy emulation features such us rewind/forward, save states and crt filters",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20240503,
     "first_update_release_date": 20240613,
     "latest_update_release_date": 20240613,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "65536": 20240613
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Multiplayer"
+    ],
+    "intro": "Sonya and Arnold battle a new mysterious enemy in Shockman 3!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood"
+    ],
     "region": null
 }

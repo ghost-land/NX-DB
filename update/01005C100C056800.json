@@ -1,11 +1,11 @@
 {
     "id": "01005C100C056800",
     "base_tid": "01005C100C056000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ARK: Survival Evolved",
+    "description": "漂流到一座奇異島嶼的你在沙灘上甦醒過來……\n該如何在這個世界生存下去？是要狩獵或者馴養島上的生物？與其他生存者攜手合作還是彼此相殺？一切都由你自己決定。\n於每一個當下做出合適的決斷，在恐龍橫行的世界求生吧！",
+    "publisher": "Spike Chunsoft",
+    "developer": null,
+    "base_release_date": 20230224,
     "first_update_release_date": 20230209,
     "latest_update_release_date": 20240820,
     "latest_update": {
@@ -21,11 +21,25 @@
         "393216": 20240731,
         "458752": 20240820
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "動作"
+    ],
+    "intro": "全世界累計賣出超過兩千萬套的大作\n開放世界恐龍生存動作遊戲\n終於登陸Nintendo Switch™！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

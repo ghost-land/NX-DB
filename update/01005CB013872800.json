@@ -1,11 +1,11 @@
 {
     "id": "01005CB013872800",
     "base_tid": "01005CB013872000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fall Gummies",
+    "description": "Fall Gummies is a relaxing, colorful 3D puzzle game. The story takes place in a fantastic world of happy jellies. Unfortunately one day a huge meteorite hit the planet pushing it towards the black hole. It sucked all the emotions out of the planet and then collapsed. Help our little friends to regain their happiness by collecting the magical essence through the labyrinth!\n\n• 1000 challenging puzzles to complete\n• Customize your characters appearance\n• Create profiles for each Jelly\n• Cute and colorful graphics\n• Intuitive controls\n• Chilling music\n\nBECOME A FRIEND OF GUMMIES AND MAKE THEM HAPPY AGAIN!",
+    "publisher": "Prison Games",
+    "developer": null,
+    "base_release_date": 20201120,
     "first_update_release_date": 20201208,
     "latest_update_release_date": 20210728,
     "latest_update": {
@@ -16,11 +16,29 @@
         "65536": 20201208,
         "131072": 20210728
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

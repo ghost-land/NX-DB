@@ -1,11 +1,11 @@
 {
     "id": "01005CD00F85A800",
     "base_tid": "01005CD00F85A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Underhero",
+    "description": "Underhero is an RPG-platformer where the chosen hero has failed, and an underling of the evil king reluctantly takes his place as the new hero. Use timing-based combat to defeat enemies as you venture across the land, face off against quirky bosses, and save the Chestnut Kingdom from your own evil boss, Mr Stitches!\n\nKey Features:\n\nA side-scrolling RPG adventure, complete with lush pixel art and cartoony aesthetics\n\nJump, slash, evade, talk, and bribe your way through a fantasy adventure with a satirical twist\n\nTurn-based combat… without the turns! Precisely timed actions are your most powerful weapons\n\nLevel up, solve puzzles, find secrets in a world full of friends, foes, and weird inhabitants\n\nA wonderful original soundtrack composed by Stijn van Wakeren\n\nA story full of humor and mysteries awaits!",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20200228,
     "first_update_release_date": 20200212,
     "latest_update_release_date": 20200617,
     "latest_update": {
@@ -18,11 +18,20 @@
         "262144": 20200513,
         "327680": 20200617
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "RPG",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "The hero journey turned on its head! \n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

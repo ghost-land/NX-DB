@@ -1,11 +1,11 @@
 {
     "id": "01005CD00A2A2800",
     "base_tid": "01005CD00A2A2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Suicide Guy",
+    "description": "Suicide Guy is set in the incredibile and extraordinary dreams of its protagonist. What would you do in order to save the thing you love most? \nImmerse yourself into his weird dreams and help him to wake up before it's too late.\n\nFeatures:\n\n• 25 levels set inside Suicide Guy's mind\n• Story-driven game\n• Physics based levels\n• Ultimate moves: be able to pick up items, throw them, activate mechanisms and even burp.\n• Funny creatures to annoy\n• Vehicles to drive\n• An important mission to accomplish\n• Collectible items to find\n\nGamers will have to use different items in every kind of situation by solving original brain teasers.\nDespite the title, the game is NOT at all about suicide or depression.",
+    "publisher": "ChubbyPixel",
+    "developer": null,
+    "base_release_date": 20230216,
     "first_update_release_date": 20181010,
     "latest_update_release_date": 20181010,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20181010
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Wake up to save your beloved one!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Strong Language"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005D10128D2800",
     "base_tid": "01005D10128D2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "碧藍航線 Crosswave",
+    "description": "《碧藍航線 Crosswave》是以知名手機遊戲《碧藍航線》為題材製作的「進擊海戰角色扮演遊戲」。\n\n四大陣營中的「皇家」、「白鹰」、「重櫻」及「鐵血」不斷有新血加入，而大家也在良好的友誼下持續每日的練習。就在此時，四大陣營決定聯合舉辦「聯合演習」，而只有被挑選上的成員才能夠參加這次的活動，因此每一位成員都顯得鬥志高昂！然而...突如其來的活動究竟是為何？演習的背後究竟又有什麼樣的陰謀或是主使者呢？重重謎團、遭遇以及隱藏的巨大野心，一場前所未有的全新海上戰爭就此揭開序幕。\n",
+    "publisher": "JUSTDAN",
+    "developer": null,
+    "base_release_date": 20201022,
     "first_update_release_date": 20201130,
     "latest_update_release_date": 20201130,
     "latest_update": {
@@ -15,11 +15,15 @@
     "versions": {
         "65536": 20201130
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "角色扮演"
+    ],
+    "intro": "進擊海戰角色扮演遊戲\n強化攝影模式！\n收錄追加角色「大鳳」、「可畏」",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

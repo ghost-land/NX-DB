@@ -1,11 +1,11 @@
 {
     "id": "01005C2013B00800",
     "base_tid": "01005C2013B00000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Cresteaju",
+    "description": "[Game Play]\nThis is a JRPG where you fight on battlefields rendered in 3D graphics.\nThe characters' positions are important in battle, and their magic will be affected by where they stand, and they can also protect other friends.\nEach character has LP(Life Point) and MC(Magic Capacity), and uses magic by consuming MC. Consecutive weapon attacks will recover more MC.\nMagic can be learned by using Ability Points and choosing what you want.\n\n\n[Plot]\nLuna's home city of Cresfield has been overrun by Eternal, an armed cult that believes in false God.\nEternal is trying to conquer many towns by deceiving people into believing in \" Eternal happiness to All\".\nLuna meets Dithen, a traveler, Nack, a priest, Xavier, a scholar, and Layzel, a comedian, and together they fight against Eternal.",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20211022,
     "first_update_release_date": 20210317,
     "latest_update_release_date": 20221213,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20210317,
         "131072": 20221213
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Adventure",
+        "Simulation"
+    ],
+    "intro": "This is a remastered version of a JRPG that was popular in the early days of the Internet in Japan.\nBattles take place in a voxel-shaped field.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Use of Alcohol"
+    ],
     "region": null
 }

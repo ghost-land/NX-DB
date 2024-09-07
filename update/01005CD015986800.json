@@ -1,11 +1,11 @@
 {
     "id": "01005CD015986800",
     "base_tid": "01005CD015986000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "rRootage Reloaded",
+    "description": "The classic bullet hell is back!\nrRootage Reloaded is a remastered version of the original rRootage by Kenta Cho. Featuring untouched gameplay from the original version, this remaster has been adapted for the features of the Nintendo Switch™. Featuring stable 60 FPS with low battery usage, HD graphics, and multiple control methods. \n\nPlay 4 different game modes, each of them with 40 levels, to a total of 160 unique levels. \n\nPlay using touchscreen, Joy-Con™, both on your TV and on the go.",
+    "publisher": "PERZIUR",
+    "developer": null,
+    "base_release_date": 20211021,
     "first_update_release_date": 20211104,
     "latest_update_release_date": 20211104,
     "latest_update": {
@@ -15,11 +15,18 @@
     "versions": {
         "65536": 20211104
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Defeat autocreated battleships in this remastered classic shoot em up by Kenta Cho. Featuring 4 different game modes and 160 stages to test your bullet hell skills.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

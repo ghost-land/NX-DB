@@ -1,11 +1,11 @@
 {
     "id": "01005D00107E8800",
     "base_tid": "01005D00107E8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Dog Duty",
+    "description": "Control a squad of misfits as they go up against some evil bigwig Octopus Commander and his army who are threatening world-peace. In this fun, fast-paced Real Time Tactics game, you go into combat and use guerrilla warfare to eliminate all octo-scum. Fight on top of your moving vehicle as you go from island to island to liberate outposts and defeat wicked bosses in their crazy octo-machines. Wreck those squids up, but beware, they’re well-armed.\n\nFeatures:\nAssemble a 3-person anti squid-squad and fight in Real Time Squid combat\nLiberate outposts to cut-off weapon, armor and other octo-supplies\nDefeat epic bosses and kill your way to the Evil Octopus Commander\nFight on top of your armored, octo-frying vehicle while driving",
+    "publisher": "Soedesco",
+    "developer": null,
+    "base_release_date": 20200917,
     "first_update_release_date": 20200820,
     "latest_update_release_date": 20201208,
     "latest_update": {
@@ -17,11 +17,29 @@
         "131072": 20200923,
         "196608": 20201208
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "As some evil bigwig Octopus Commander and his army are threatening world-peace, it’s up to you and your squad of misfits to eliminate that octo-scum.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

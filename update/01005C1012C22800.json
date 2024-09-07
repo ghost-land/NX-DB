@@ -1,11 +1,11 @@
 {
     "id": "01005C1012C22800",
     "base_tid": "01005C1012C22000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Jet Set Knights",
+    "description": "The king has gone away for a while, making the kingdom ripe for attack by theforces from the dark underworld. Princess Kitty and her subjects are now in danger!\n\nCan you save the day!? Control one of the four brave knights, face hundreds of evil creatures and protect the princess at all costs!\n\nJet Set Knights is an old-school arcade action platformer inspired by classics from the golden age! Experience a new take on the classic with unique tower defense and RPG elements!\n\nFeatures:\n* Pick up and play controls\n* Choose from four Knights, each with unique abilities\n* Save the princess solo or with friends locally\n* Unlock secret characters, weapons, and spells\n",
+    "publisher": "Ratalaika Games",
+    "developer": null,
+    "base_release_date": 20200925,
     "first_update_release_date": 20201019,
     "latest_update_release_date": 20201019,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20201019
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer",
+        "RPG"
+    ],
+    "intro": "When the king is away, evil beings will play!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Simulated Gambling"
+    ],
     "region": null
 }

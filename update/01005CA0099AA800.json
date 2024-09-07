@@ -1,11 +1,11 @@
 {
     "id": "01005CA0099AA800",
     "base_tid": "01005CA0099AA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "1917 - The Alien Invasion DX",
+    "description": "You are in the role of Dr. Brunhild Stahlmüller, an acomplished weapon scientist who upgrades a WW1 triplane with superior alien technology to attack the invaders. You will avenge mankind and take the battle into the darkness of space until you reach an ancient alien world.\n\nFeatures\n•\tFight from Verdun to the heart of the alien world!\n•\tMajestic and extravagant pixel art inspired by the golden age of arcades.\n•\tAccessible with a fair difficulty curve.\n•\tIntense action and highly polished gameplay\n•\t8 stages with huge boss encounters.\n•\tBloodshed and gore.\n•\tPsychedelic soundtrack.\n\nStory\nThe year is 1917 - war engulfed the earth. Billions were slaughtered at the hands of unprecedented technology in the name of fanaticism. Yet all previous atrocities were as preambles to an even greater, unforeseeable catastrophe. When on the 15th of April, a host of aliens descended from war-torn skies and opened fire indiscriminately on soldier and civilian alike, the foundations of the world were shaken and mankind would face his darkest hour. Against such a terrifying, overwhelming foe, the scrambling, exhausted nations of Earth had no choice but to put aside their old grudges and fight side by side if they wanted to avert total extinction – or worse. Still, courage and unity were not enough to match the sheer power of a species so advanced that the very cosmos proved no obstacle to them.\n\nMeanwhile Dr. Brunhild Stahlmüller, an accomplished scientist, worked tirelessly with her assistant, Harmuth Griesgram, on developing an experimental airplane codenamed the Red Beezlebub. Based not only on existing aeronautical technology but also on fragments of alien wrecks from the recent battlefields, this new invention is capable of prolonged atmospheric flight as well as deep, interstellar travel. Finding no pilots left in any condition – bodily or mentally – to take the pilot seat, the brave doctor dons the helmet herself and takes the Red Beezlebub on her virgin flight; to the battlefields of Verdun. Her target: the Chessmaster, the new, self-crowned king of humanity. An usurper and abomination. Fueled by gasoline and hatred, her Valkyrie's flight will end either in blood-soaked victory or glorious death. Little did she know that he himself is only a piece on the real player's board, and she is watching Brunhild's every move with greedy, leering eyes…",
+    "publisher": "KORION",
+    "developer": null,
+    "base_release_date": 20180622,
     "first_update_release_date": 20180802,
     "latest_update_release_date": 20180802,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20180802
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Shooter",
+        "Action"
+    ],
+    "intro": "1917 - The Alien Invasion is a memorization shooter combined with the fast and frantic action of bullet hell shoot 'em ups.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Violence"
+    ],
     "region": null
 }
