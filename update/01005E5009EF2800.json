@@ -1,11 +1,11 @@
 {
     "id": "01005E5009EF2800",
     "base_tid": "01005E5009EF2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Guts & Glory",
+    "description": "Welcome to Guts and Glory—The craziest game show on earth, where ordinary people compete in extraordinary challenges of life and death, for glory!\nThe objective is simple: Race to the finish line while everything tries to kill you.\nDodge spinning saw blades, deadly spikes, explosives, turrets, and a growing list of other hazards—while navigating insane tracks set in a wide variety of environments. A game full of LOLs and WTFs and OMGs, where failing can be just as much fun as winning. Do it to prove your awesomeness. Do it for the laughs. Do it for the glory!",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20180719,
     "first_update_release_date": 20191127,
     "latest_update_release_date": 20191127,
     "latest_update": {
@@ -15,11 +15,30 @@
     "versions": {
         "65536": 20191127
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "The objective is simple: Race to the finish line while everything tries to kill you.\t",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
     "region": null
 }

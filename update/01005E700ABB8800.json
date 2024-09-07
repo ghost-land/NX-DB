@@ -1,11 +1,11 @@
 {
     "id": "01005E700ABB8800",
     "base_tid": "01005E700ABB8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Oddworld: New 'n' Tasty",
+    "description": "A mudokon chosen by the fickle finger of fate, Abe was a first class Floor-Waxer for RuptureFarms who was catapulted into a life of adventure. Late one night he overheard plans from his boss, Molluck the Glukkon, to turn Abe and his fellow Mudokons into Tasty Treats as a final effort to rescue Molluck's failing meatpacking empire! Can Abe change the fate of thousands and rescue the Mudokons? Can he escape the dark recesses of RuptureFarms and the desolate, uninviting, and downright terrifying surrounding environment?",
+    "publisher": "Oddworld Inhabitants",
+    "developer": null,
+    "base_release_date": 20201027,
     "first_update_release_date": 20210121,
     "latest_update_release_date": 20210121,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20210121
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Puzzle",
+        "Action"
+    ],
+    "intro": "Abe’s back on the menu!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence",
+        "Online interactivity"
+    ],
     "region": null
 }

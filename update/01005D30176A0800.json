@@ -1,11 +1,11 @@
 {
     "id": "01005D30176A0800",
     "base_tid": "01005D30176A0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Formula Retro Racing",
+    "description": "Featuring the fast and exciting gameplay that the genre is known for, Formula Retro Racing captures the essence of old school racing games with low poly graphics, a retro soundtrack and high speed action. This revival of the classic-arcade racer takes advantage of modern hardware with smooth high-frame rate visuals as well as improved car handling and physics.\n \nRace through a diverse range of tracks across multiple game modes and car classes to beat your personal best times and compete in the global online leaderboards!\n\nFeatures\n• Retro arcade-racing action\n• 8 unique tracks each with varying difficulty\n• Classic arcade checkpoint racing game mode\n• New ‘Eliminator’ game mode\n• High frame rate and retro visuals\n• Destructible cars with crazy crash physics\n• Best Lap and Race Time online leaderboards for each track \n• Up to 4 player split screen local multiplayer",
+    "publisher": "CGA Studio Games",
+    "developer": null,
+    "base_release_date": 20220415,
     "first_update_release_date": 20220405,
     "latest_update_release_date": 20220502,
     "latest_update": {
@@ -18,11 +18,28 @@
         "196608": 20220427,
         "262144": 20220502
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Arcade",
+        "Action",
+        "Simulation"
+    ],
+    "intro": "Formula Retro Racing is a 8-circuit retro style racing game influenced by the classic arcade racers of the early 90’s.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

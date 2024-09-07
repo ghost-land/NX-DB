@@ -1,11 +1,11 @@
 {
     "id": "01005DE00D05C800",
     "base_tid": "01005DE00D05C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "EA SPORTS™ FIFA 20 Nintendo Switch™ Legacy Edition",
+    "description": "EA SPORTS™ FIFA 20 Legacy Edition launches September 27th on Nintendo Switch™ featuring the latest kits, clubs, and squads from some of top leagues around the world. It will also feature some of the world’s most famous stadiums, including some brand new to FIFA 20. Gameplay features and modes will have parity with FIFA 19 on Nintendo Switch.",
+    "publisher": "Electronic Arts",
+    "developer": null,
+    "base_release_date": 20190927,
     "first_update_release_date": 20190925,
     "latest_update_release_date": 20191203,
     "latest_update": {
@@ -17,11 +17,28 @@
         "131072": 20191105,
         "196608": 20191203
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports"
+    ],
+    "intro": "A legacy in football excellence in FIFA 20. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "es",
+        "pt",
+        "en",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "No Descriptors",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }

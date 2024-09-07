@@ -1,11 +1,11 @@
 {
     "id": "01005D200C9AA800",
     "base_tid": "01005D200C9AA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Koloro",
+    "description": "Embrace a unique one-button gameplay, lovable characters, a wonderful art style and a captivating soundtrack. \n\nPlay the adventure alone or with a friend as a team in a cooperative mode. Once this is over, a hard mode will keep challenging you! \n\nDo you have the courage to face the world of dreams and nightmares?\n\nFeatures:\n- A dreamlike art and captivating soundtrack\n- Unique and easy-to-learn gameplay\n- Over 300 levels\n- Friendship and love\n- Great for kids and family\n- Huge bosses and hidden bonuses\n- Coop mode for 2 players\n- Time trial challenges",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20181223,
     "first_update_release_date": 20200203,
     "latest_update_release_date": 20200529,
     "latest_update": {
@@ -17,11 +17,25 @@
         "131072": 20200227,
         "196608": 20200529
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Platformer",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Between dreams and nightmares, Koloro tells the tale of a young pink hair girl named Kora who embarks on a quest to find her missing sister through a stunning Puzzle-Platformer.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

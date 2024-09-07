@@ -1,11 +1,11 @@
 {
     "id": "01005D301E34E800",
     "base_tid": "01005D301E34E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nudel Tag",
+    "description": "Nudel Tag is a party game with 10 maps and 2 game modes where you must serve as many customers as possible within the allotted time. Be careful, anything goes and you will have to be cunning to avoid attacks from other servers.",
+    "publisher": "Antoine Cherel",
+    "developer": null,
+    "base_release_date": 20240404,
     "first_update_release_date": 20240404,
     "latest_update_release_date": 20240618,
     "latest_update": {
@@ -16,11 +16,25 @@
         "65536": 20240404,
         "131072": 20240618
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Party",
+        "Multiplayer"
+    ],
+    "intro": "Compete with your friends to see who is the best waiter ! 2 to 4 players locally.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

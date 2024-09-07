@@ -1,11 +1,11 @@
 {
     "id": "01005D301432E800",
     "base_tid": "01005D301432E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Dark Fantasy: Jigsaw Puzzle",
+    "description": "Enjoy jigsaw puzzles with an epic atmosphere!\n\n- 20 different jigsaw puzzles to complete\n- Each puzzle with 12, 24, 48, 96 and 192 pieces\n- Very high play time, it really takes hours!\n- Fantastic graphics for its genre\n- Great musics and atmosphere\n- Customizable frame colors\n- You can save your puzzle progress\n- Available gallery inside the game",
+    "publisher": "NAISU",
+    "developer": null,
+    "base_release_date": 20210603,
     "first_update_release_date": 20210630,
     "latest_update_release_date": 20210803,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20210630,
         "131072": 20210803
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Board Game",
+        "Puzzle",
+        "RPG",
+        "Simulation"
+    ],
+    "intro": "Jigsaw puzzles have never been this atmospheric! Dark Fantasy will take you on a journey through gloomy portraits.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
     "region": null
 }

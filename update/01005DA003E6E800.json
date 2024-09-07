@@ -1,11 +1,11 @@
 {
     "id": "01005DA003E6E800",
     "base_tid": "01005DA003E6E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Morphies Law",
+    "description": "Morphies Law is a 3rd person 3D shooter where you can steal mass from other players making them shrink while you grow, which balances the game. Size affects everything! What you can do, how you can navigate the different maps, how to play each gamemode and more. \nCustomize your Morphie, make your weapons and go steal some mass!",
+    "publisher": "Cosmoscope",
+    "developer": null,
+    "base_release_date": 20180821,
     "first_update_release_date": 20180819,
     "latest_update_release_date": 20191029,
     "latest_update": {
@@ -20,11 +20,30 @@
         "458752": 20191014,
         "524288": 20191029
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Multiplayer",
+        "Action"
+    ],
+    "intro": "A mass stealing, robot morphing shooter where size matters",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Themes",
+        "Mild Violence"
+    ],
     "region": null
 }

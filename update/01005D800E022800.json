@@ -1,11 +1,11 @@
 {
     "id": "01005D800E022800",
     "base_tid": "01005D800E022000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Where the Water Tastes Like Wine",
+    "description": "Where the Water Tastes Like Wine is a Narrative-Adventure game about traveling, sharing stories, and surviving manifest destiny. Featuring gorgeous hand-drawn illustrations, Where the Water Tastes Like Wine combines 2D visuals with a 3D overworld US map.\n\nPlayers wander across a folkloric Depression era United States at their own pace, meeting strangers with their own stories to tell. Through these interactions, players will be able to collect unique stories which can then be re-told to unlock new interactions. In this way the in-game stories themselves act as a currency to progress through the game, and it’s up to the player to pair the right story with the unique needs of each of the characters that you will encounter throughout your travels. Only through these right pairings will characters reveal their true selves, and bestow you with the most powerful stories, the true ones which reveal something about their own lives. In Where The Water Tastes Like Wine, stories organically take on a life of their own as they grow larger and transform as they're told- and re-told.",
+    "publisher": "Serenity Forge",
+    "developer": null,
+    "base_release_date": 20231020,
     "first_update_release_date": 20211209,
     "latest_update_release_date": 20211209,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "131072": 20211209
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "RPG",
+        "Puzzle"
+    ],
+    "intro": "A narrative-adventure game about traveling, sharing stories, and surviving manifest destiny.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Language"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005E100A4F0800",
     "base_tid": "01005E100A4F0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Phoenotopia : Awakening",
+    "description": "Join Gail, a simple villager, who must heed the call for adventure when a great star ship appears in the night sky and abducts all the adults. As the new oldest member of her fragmented community, she must set out to solve this great mystery. Little does she know of the grand adventure before her, the evil lurking in the shadows, and the role she would play in the fight for Earth’s very existence!\n\nFeatures:\n- A narrative-driven single player adventure filled with charming characters, vibrant towns, and dangerous dungeons.\n- Over 10 different weapons & tools with which to combat enemies and solve puzzles. Fly with rocket boots! Blast with bombs! Play the flute!\n- Fight against over 50 different enemy types and 12 boss encounters.\n- A world brimming with secrets! Find 33 Energy Gems, 55 Heart Pieces and 111 Moonstones. \n- An achievement system, with 33 badges to earn, for players seeking extra challenge and replayability.\n- Over 60 original songs ranging from mellow piano and orchestra to raging synth/metal rockers and bagpipes!\n- A main campaign length estimated at 25 hours of playtime. 50 hours for completionists.\n\nSolve the great mystery of the Phoenix!",
+    "publisher": "Cape Cosmic",
+    "developer": null,
+    "base_release_date": 20200820,
     "first_update_release_date": 20200911,
     "latest_update_release_date": 20210920,
     "latest_update": {
@@ -22,11 +22,31 @@
         "458752": 20210823,
         "524288": 20210920
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Embark on Adventure!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence",
+        "Mild Language",
+        "Use of Alcohol"
+    ],
     "region": null
 }

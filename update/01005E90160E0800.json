@@ -1,11 +1,11 @@
 {
     "id": "01005E90160E0800",
     "base_tid": "01005E90160E0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Hidden Paws",
+    "description": "Open cars and boxes, rummage through piles of wood, search the forests. Cats are well hidden but they meow when you get near so listen closely and you might just be able to find them all.\n\nFeatures 12+ charming winter landscapes with over 120 little cats to find.",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20220127,
     "first_update_release_date": 20220201,
     "latest_update_release_date": 20221116,
     "latest_update": {
@@ -16,11 +16,26 @@
         "65536": 20220201,
         "131072": 20221116
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Party",
+        "Other"
+    ],
+    "intro": "It's winter and cats are still outside. Cold and alone. Find them and bring them home.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

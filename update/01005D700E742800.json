@@ -1,11 +1,11 @@
 {
     "id": "01005D700E742800",
     "base_tid": "01005D700E742000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "DOOM 64",
+    "description": "Celebrate DOOM's 25th anniversary  with DOOM 64, originally released on Nintendo 64 in 1997. Take the fight to Hell at home or on-the-go with DOOM 64's triumphant return to Nintendo Switch™!\n\nFight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+    "publisher": "Bethesda",
+    "developer": null,
+    "base_release_date": 20210920,
     "first_update_release_date": 20200319,
     "latest_update_release_date": 20210422,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20200319,
         "131072": 20210422
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "First-Person Shooter",
+        "Action"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood and Gore",
+        "Violence"
+    ],
     "region": null
 }

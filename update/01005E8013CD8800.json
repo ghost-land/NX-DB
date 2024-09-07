@@ -1,11 +1,11 @@
 {
     "id": "01005E8013CD8800",
     "base_tid": "01005E8013CD8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Cotton Reboot!",
+    "description": "Japan’s favorite shooter mascot finds her way into a beautiful HD game with stunning graphics and remixed soundtracks. This is the original “Cute ‘em up”, and will test your skills as well as tug on the heartstrings as Cotton and her friends are finally back in the ultimate celebration of one of Japan’s most beloved gaming mascots. Choose between the HD Reboot mode or go legit with the X68000 original mode with pixel perfect graphics from the iconic Japanese home computer.\n\nFeatures:\n• Play the brand-new HD Reboot mode or the fantastic retro X68000 mode\n• Cute ‘em Up action based on one of Japan’s longest running game series\n• Enjoy the awesome soundtrack either fully arranged or in its original home computer form\n• Guide Cotton and her friend Silk in a highly approachable game! Easy to play, but difficult to master!\n• Compete online for high scores\n",
+    "publisher": "ININ Games",
+    "developer": null,
+    "base_release_date": 20210720,
     "first_update_release_date": 20210718,
     "latest_update_release_date": 20210718,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "131072": 20210718
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Action",
+        "Other"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
     "region": null
 }

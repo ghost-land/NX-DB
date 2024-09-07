@@ -1,11 +1,11 @@
 {
     "id": "01005E101122E800",
     "base_tid": "01005E101122E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Spirit of the North",
+    "description": "Spirit of the North is a single-player 3rd-person adventure game inspired by the breathtaking and mysterious landscapes of Iceland. \n\nThe story takes root from various pieces of Nordic folklore. The game is unique in that it purposefully has no dialogue or narrative. Players must breathe in their surroundings to solve various puzzles and speculate the meaning of a lost ancient civilization. \n\nPlay as an ordinary red fox whose story becomes entwined with the guardian of the Northern Lights, a female spirit fox. As you journey over the mountains and under red-stained skies, you’ll discover more about your companion and a land left in ruin.",
+    "publisher": "Merge Games",
+    "developer": null,
+    "base_release_date": 20200507,
     "first_update_release_date": 20200507,
     "latest_update_release_date": 20200917,
     "latest_update": {
@@ -19,11 +19,27 @@
         "262144": 20200818,
         "327680": 20200917
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Awaken… begin a quiet journey of discovery and companionship after rousing the slumbering Spirit of the North.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes"
+    ],
     "region": null
 }

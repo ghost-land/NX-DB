@@ -1,11 +1,11 @@
 {
     "id": "01005E5011696800",
     "base_tid": "01005E5011696000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Waifu Uncovered",
+    "description": "Eight beautiful maidens are under threat of alien attack. Their lives and the fate of the world now rest in your hands. In this simple yet rewarding shoot’em up, take command of multiple ship types, each balanced for a different play style, and blast away clothing that’s been deeply infected by a deadly virus. Evade and destroy enemies as they feverishly work against you, team up in multiplayer or bravely battle alone, save the girl of your dreams and perhaps even unlock a convenient one-finger mode.\n\nFeatures:\n\n• Meet 8 female characters presented in high-quality hand-drawn style.\n• Undress your targets to save them from lethal infection!\n• Select different ships focused on speed, power or add-ons.\n• Take down enemies and bosses unique to each stage.\n• Play solo or team up with a friend for cooperative action.\n• Unlock more revealing content as you progress!",
+    "publisher": "eastasiasoft",
+    "developer": null,
+    "base_release_date": 20200716,
     "first_update_release_date": 20200804,
     "latest_update_release_date": 20200909,
     "latest_update": {
@@ -16,11 +16,25 @@
         "65536": 20200804,
         "131072": 20200909
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "intro": "Destroy the clothes, save the waifus!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Nudity"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005E5013862800",
     "base_tid": "01005E5013862000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "英雄傳說 零之軌跡：改",
+    "description": "系列累積銷售超過500萬套的人氣RPG軌跡系列登陸Nintendo Switch™！\n相當於克洛斯貝爾篇第一章的『零之軌跡：改』以塞姆利亞大陸西部的克洛斯貝爾自治州為舞台，描寫被分發至克洛斯貝爾警察的新部門《特務支援課》的四位年輕人，如何在面對嚴苛現實的同時，合力對抗困難的經過。",
+    "publisher": "Clouded Leopard Entertainment",
+    "developer": null,
+    "base_release_date": 20210225,
     "first_update_release_date": 20210224,
     "latest_update_release_date": 20210224,
     "latest_update": {
@@ -15,11 +15,16 @@
     "versions": {
         "65536": 20210224
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "角色扮演"
+    ],
+    "intro": "讓一切回歸為零──",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

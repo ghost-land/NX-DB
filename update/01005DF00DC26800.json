@@ -1,11 +1,11 @@
 {
     "id": "01005DF00DC26800",
     "base_tid": "01005DF00DC26000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SWORD ART ONLINE: FATAL BULLET Complete Edition",
+    "description": "Packed to the rim with content, the SWORD ART ONLINE: FATAL BULLET Complete Edition includes the main game, three DLC packs, the expansion \"Dissonance of the Nexus,\" and bonus in-game items. Now on the Nintendo Switch™! \n\nYour choices are heavier and faster than a bullet.\nCreate your own character and log in to Gun Gale Online, a world of guns and steel, where a chance encounter partners you with a rare support AI called ArFA-sys as you both are caught up in a tempestuous story of fate.\nExperience the thrilling battles of a third-person shooter (TPS) together with the story and progression of an RPG in this first-ever \"TPSRPG\" from Sword Art Online!\nCustomize your avatar and master a wide array of weapons and skills!\nChoose from over 30 playable characters in online PvP, ranging from Alice and Eugeo from \"Alicization,\" season 3 of the SAO anime, to Eiji and Yuna from Sword Art Online the Movie: Ordinal Scale!",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "developer": null,
+    "base_release_date": 20211126,
     "first_update_release_date": 20190821,
     "latest_update_release_date": 20200202,
     "latest_update": {
@@ -16,11 +16,27 @@
         "65536": 20190821,
         "131072": 20200202
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "RPG"
+    ],
+    "intro": "Your choices are heavier and faster than a bullet.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Language",
+        "Suggestive Themes",
+        "Violence",
+        "Users Interact"
+    ],
     "region": null
 }
