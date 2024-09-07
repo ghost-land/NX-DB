@@ -1,11 +1,11 @@
 {
     "id": "01005EE0140AE800",
     "base_tid": "01005EE0140AE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "LEGO® Builder's Journey",
+    "description": "\"LEGO Builder's Journey is perhaps the most authentic, earnest Lego game there's ever been, capturing every joyful aspect of its source material.”\nPC Gamer\n\n“It's pretty much the perfect LEGO video game”\nKotaku\n\n“The bricks here look better than in the real-world”\nRock Paper Shotgun\n\nLEGO Builder’s Journey is an atmospheric, geometric puzzle game that asks us to sometimes follow the instructions… and sometimes to break the rules.\n\nTake your time to experiment with free-form puzzle solving while immersing yourself in a poetic world of LEGO® bricks. Throughout the narrative, there will be ups and downs, challenges, and celebrations. Figuring out who we are and what we become is the Builder’s Journey.\n\nIn Creative Mode, you can build your own models. Choose a themed build plate and get creative. Build a race car, a pirate ship or perhaps a new scene from the game. Enter Photo Mode where you can adjust the camera angle, change the mood, and take a picture for you to share with friends.\n\nThe breathtaking LEGO brick world is brought to life with the most accurately rendered LEGO elements yet to feature on screens.",
+    "publisher": "LEGO System",
+    "developer": null,
+    "base_release_date": 20210622,
     "first_update_release_date": 20210707,
     "latest_update_release_date": 20220414,
     "latest_update": {
@@ -16,11 +16,29 @@
         "65536": 20210707,
         "131072": 20220414
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "LEGO Builder’s Journey is an atmospheric, geometric puzzle game that asks us to sometimes follow the instructions… and sometimes to break the rules.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

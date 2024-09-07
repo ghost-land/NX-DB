@@ -1,11 +1,11 @@
 {
     "id": "01005FA015D68800",
     "base_tid": "01005FA015D68000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Milli & Greg",
+    "description": "In the all levels made by hand, Milli will face a lot of obstacles that will difficult her pass, like a classic action-adventure platform game.\n\nThe game also has some basic mechanics, like jump, slide and dash. However, with a physics feature that can change the gravity of your jumps, the player will have more challenges than he expects.\n\nAdditional Features:\n\n• Insane and rewarding challenges;\n• Collect items;\n• Some little secrets;",
+    "publisher": "QUByte Interactive",
+    "developer": null,
+    "base_release_date": 20211028,
     "first_update_release_date": 20220113,
     "latest_update_release_date": 20220315,
     "latest_update": {
@@ -16,11 +16,21 @@
         "65536": 20220113,
         "131072": 20220315
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Strategy"
+    ],
+    "intro": "A challenging platform with a love story between a girl and her cat that is missing through than 100 stages that the player will face it. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

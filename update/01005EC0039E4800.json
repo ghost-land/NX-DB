@@ -1,11 +1,11 @@
 {
     "id": "01005EC0039E4800",
     "base_tid": "01005EC0039E4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Poi: Explorer Edition",
+    "description": "- Explore magical worlds in search of 100+ Explorer Medallions\n- Unlock special items and costumes fit for any explorer\n- Master classic platforming moves like wall jumps, triple jumps, and long jumps\n- Collect fossils; take photos, fly through the air, and much more!\n\n\"Explorer Edition\" Exclusives:\n- Unlockable Soundtrack and Digital Art Book\n- New costumes and hats only available within the \"Explorer Edition\"\n- Joy-Con™ motion control and HD rumble support",
+    "publisher": "PolyKid",
+    "developer": null,
+    "base_release_date": 20171125,
     "first_update_release_date": 20171024,
     "latest_update_release_date": 20171024,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20171024
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure"
+    ],
+    "intro": "Embark on a classic 3D platforming adventure as you set sail on an airship to collect Explorer Medallions and unravel the mysteries of the Milky Way Globe. Explore uncharted lands, and meet wild new characters, while on a journey to collect all the medallions and become a true Master Explorer!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Themes",
+        "Very Mild Violence"
+    ],
     "region": null
 }

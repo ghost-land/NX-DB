@@ -1,11 +1,11 @@
 {
     "id": "01005ED00AD0C800",
     "base_tid": "01005ED00AD0C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SNKヒロインズ Tag Team Frenzy",
+    "description": "ボタンひとつで多彩な必殺技を繰り出せる操作システムや、\n展開を左右するアイテム、独自の決着方式など、\n新たな魅力を満載した格闘アクションが登場！ \n\nさらに3種類の衣装、4種類のボイス、140以上のアクセサリーで\nヒロインたちを自分好みにできるカスタマイズ機能も充実。\n\nオンライン対戦が楽しい！\n最大8人が参加できるルームで2人～4人の対戦を楽しむ「ROOM MATCH」や、\nゲーム内通貨を賭けた対戦もできる「QUICK MATCH」を搭載。\nもちろんカスタマイズしたキャラクターでの対戦も可能！\n仲間と一緒にワイワイ盛り上がろう！",
+    "publisher": "SNK",
+    "developer": null,
+    "base_release_date": 20180906,
     "first_update_release_date": 20180905,
     "latest_update_release_date": 20190308,
     "latest_update": {
@@ -20,11 +20,27 @@
         "327680": 20181212,
         "393216": 20190308
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "格闘",
+        "アクション"
+    ],
+    "intro": "SNKのヒロインたちがセクシー＆キュートな姿で戦う\n夢のタッグマッチが開幕！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "セクシャル"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005EE0036EC800",
     "base_tid": "01005EE0036EC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rocket League®",
+    "description": "Download and compete in the high-octane hybrid of arcade-style soccer and vehicular mayhem! Unlock items in Rocket Pass, climb the Competitive Ranks, compete in Competitive Tournaments, complete Challenges, enjoy cross-platform progression and more! The field is waiting. Take your shot! ",
+    "publisher": "Epic Games",
+    "developer": null,
+    "base_release_date": 20210916,
     "first_update_release_date": 20171109,
     "latest_update_release_date": 20240903,
     "latest_update": {
@@ -112,11 +112,28 @@
         "6356992": 20240724,
         "6422528": 20240903
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Racing",
+        "Action"
+    ],
+    "intro": "PLAY ROCKET LEAGUE FOR FREE!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Lyrics",
+        "Users Interact"
+    ],
     "region": null
 }

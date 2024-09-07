@@ -1,11 +1,11 @@
 {
     "id": "01005FC010EB2800",
     "base_tid": "01005FC010EB2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Potata: Fairy Flower",
+    "description": "Potata is a puzzle-platformer adventure story about a little girl’s magical journey through a world filled with good and evil. Play as the oddly-named Potata, a novice witch who is still getting a handle on her powers. Help Potata save her village from stinky spores, evil mushrooms, spiders, and other dark forest spirits.\nThe game world is inhabited by fantastic creatures, each with their own personality and story. Learn what secrets your village is hiding and make new friends — or maybe new enemies.\nGameplay involves traditional platformer mechanics, puzzles, boss battles, conversations with village inhabitants and forest exploration. Some careful thought is necessary, and the hardest moments may leave you racking your brain to find the solution.",
+    "publisher": "OverGamez",
+    "developer": null,
+    "base_release_date": 20200606,
     "first_update_release_date": 20200623,
     "latest_update_release_date": 20200623,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "131072": 20200623
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Reveal secrets, uncover hidden treasure, and don’t forget to save the world!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

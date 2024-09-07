@@ -1,11 +1,11 @@
 {
     "id": "01005F0017566800",
     "base_tid": "01005F0017566000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "蠟筆小新\n我與博士的暑假\n～永不結束的七日之旅～",
+    "description": "配合廣志的九州出差行程，野原家決定前往熊本的阿素，在美冴的故友家叨擾一週。\n他們前往阿素時，在熊本車站遇見一位奇怪的阿伯，並以試用為前提，拿到了他發明的神奇相機。\n\n小新拿著相機穿梭在美麗的山林和田地，爽爽過暑假。他到處捕捉春日部沒有的生物、協助鎮上的居民，還迅速交到了新朋友。\n但這裡的朋友卻與幼稚園的死黨長得好像……這到底是為什麼呢？\n某天晚上，小新到戶外乘涼時，在滿月下撞見了巨大生物，而在一旁大笑的男子……\n竟然是那個在車站給他們相機的奇怪阿伯。\n他的名字叫「斜二博士」，自從小新遇見他之後，就遭遇了一連串不可思議的事情……",
+    "publisher": "neos",
+    "developer": null,
+    "base_release_date": 20220504,
     "first_update_release_date": 20220503,
     "latest_update_release_date": 20220622,
     "latest_update": {
@@ -16,11 +16,18 @@
         "65536": 20220503,
         "131072": 20220622
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "冒險",
+        "其他"
+    ],
+    "intro": "小新要放暑假啦！　小新和其他野原家的成員在充滿綠意的城鎮「阿素」將經歷有點神奇的暑假大冒險\n（本作對應粵語及國語配音）",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

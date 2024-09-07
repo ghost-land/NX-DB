@@ -1,11 +1,11 @@
 {
     "id": "01005EB01363C800",
     "base_tid": "01005EB01363C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Super Star Panda",
+    "description": "Join Super Star Panda on its big space adventure now!\n\nBeat numerous levels by showing skills and planning. Evade obstacles, deadly rockets, and cosmic lasers.\n\nUnlock new heroes as you progress through more and more challenging planets.\n\nCollect stars and power-ups along your journey unlocking exciting new galaxies.\n\nThis simple, yet challenging arcade game will have you trying and having \"one more time\" moments over and over again!\n\nEnjoy with your children! It is violence-free fun for everyone to play and master.\n\nSee you in space!",
+    "publisher": "Ultimate Games",
+    "developer": null,
+    "base_release_date": 20201113,
     "first_update_release_date": 20210112,
     "latest_update_release_date": 20210112,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20210112
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "A classic arcade game, from young and old - for old and young.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

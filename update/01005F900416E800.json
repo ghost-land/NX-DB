@@ -1,11 +1,11 @@
 {
     "id": "01005F900416E800",
     "base_tid": "01005F900416E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pic-a-Pix Deluxe",
+    "description": "The ultimate edition of the popular picture crossword game, featuring:\n* 300 exclusive new puzzles!\n* Touchscreen handheld mode!\n* 2-4 player co-op mode!\n* Bigger puzzles than ever before!\n\nPic-a-Pix are exciting logic puzzles that form whimsical pixel-art pictures when solved.  Pic-a-Pix are sometimes known by other names, such as Picross, Nonogram, Paint by Numbers, Griddlers, Hanjie and many more.\n\nSolve puzzles with a friend - or the whole family - with co-op play for up to 4 players using any combination of controllers!  In handheld mode, immerse yourself with intuitive touchscreen controls.\n\nPic-a-Pix Deluxe now includes classic black and white picross, as well as colour puzzles, which use colour-coded clues to add a new dimension to the game.\n\nThere are 150 colour and 150 classic puzzles, all designed by Conceptis Ltd and all brand new!  Puzzles range in difficulty and size from introductory 5x5 pictures up to challenging 35x25 grids!\n\nContent previously available in Pic-a-Pix Colour on Nintendo 3DS and Wii U can be downloaded as DLC, and extra add-on packs will be released regularly.",
+    "publisher": "Lightwood Games",
+    "developer": null,
+    "base_release_date": 20180105,
     "first_update_release_date": 20180208,
     "latest_update_release_date": 20180810,
     "latest_update": {
@@ -16,11 +16,24 @@
         "65536": 20180208,
         "131072": 20180810
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Party",
+        "Strategy",
+        "Education"
+    ],
+    "intro": "Pic-a-Pix is bigger and better than ever!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Digital Purchases"
+    ],
     "region": null
 }

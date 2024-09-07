@@ -1,11 +1,11 @@
 {
     "id": "01005F901566E800",
     "base_tid": "01005F901566E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Football Battle",
+    "description": "Live your football story! \n\nEnter the field, decimate your opponent with various powerful kicks and fun and quirky powerups. \n\nFinally let them know who is the boss with the emotes system - become a football legend today!\n\nFeatures:\n- Ten divisions to climb\n- Hundreds of cosmetic items\n- Fun and exciting powerups\n- Easy and fluid controls",
+    "publisher": "Silesia Games",
+    "developer": null,
+    "base_release_date": 20211202,
     "first_update_release_date": 20221115,
     "latest_update_release_date": 20221115,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20221115
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Party",
+        "Multiplayer",
+        "Arcade"
+    ],
+    "intro": "Enter a match, defeat your opponent and claim your trophies! Climb the divisions, collect powerups and dominate the field.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "pt",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

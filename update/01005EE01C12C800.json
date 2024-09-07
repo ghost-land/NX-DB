@@ -1,11 +1,11 @@
 {
     "id": "01005EE01C12C800",
     "base_tid": "01005EE01C12C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Wetory",
+    "description": "In a world where all colors have been stolen by a villain,\na child, who has been abandoned by the world,\nrealizes that their unique ability—the power of the paint emanating from their feet—can defeat this villain.\nJoin this child on an epic journey to confront the villain,\nretrieve the stolen colors, and restore beauty to the world once again!",
+    "publisher": "Gravity",
+    "developer": null,
+    "base_release_date": 20231026,
     "first_update_release_date": 20231025,
     "latest_update_release_date": 20231025,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20231025
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

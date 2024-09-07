@@ -1,11 +1,11 @@
 {
     "id": "01005F4009112800",
     "base_tid": "01005F4009112000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nightmare Boy",
+    "description": "This story takes place in Donorok, in the state of Noctum. After the King of Noctum, Aster, disappears, chaos rules over the world. The relationships between Monsters, Mongos and Dreamers are completely unstable, and Donorok - the land so heavily affected by the chaos - slowly absorbs terrain from the surrounding regions.",
+    "publisher": "BUMBLE3",
+    "developer": null,
+    "base_release_date": 20180117,
     "first_update_release_date": 20180320,
     "latest_update_release_date": 20181217,
     "latest_update": {
@@ -16,11 +16,23 @@
         "65536": 20180320,
         "196608": 20181217
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Platformer",
+        "Adventure",
+        "Arcade"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

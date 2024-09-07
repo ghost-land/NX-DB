@@ -1,11 +1,11 @@
 {
     "id": "01005F300C1A8800",
     "base_tid": "01005F300C1A8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Revertia",
+    "description": "By turning over the panel and sandwiching the others like Reversi, you can see various actions such as making footholds, erasing obstacles, beating and dropping enemies.\n\nMake full use of the actions and solve puzzles to get to the goal!",
+    "publisher": "PLiCy",
+    "developer": null,
+    "base_release_date": 20181220,
     "first_update_release_date": 20181228,
     "latest_update_release_date": 20181228,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "131072": 20181228
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Puzzle",
+        "Board Game"
+    ],
+    "intro": "2D puzzle action like Reversi!\nEnjoy it casually and feel the handwriting world!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

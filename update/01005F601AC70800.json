@@ -1,11 +1,11 @@
 {
     "id": "01005F601AC70800",
     "base_tid": "01005F601AC70000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Stones Keeper",
+    "description": "The Order of the Griffin has at its disposal a floating island-fortress on which its castle sits. As you develop your castle, you will have the opportunity to hire new warriors, equip them with weapons, armor, and elixirs. You can upgrade the castle's core systems to fight off pirate ships, artillery, and other flying islands. While moving your castle around the map, you explore and participate in story quests, discover ancient ruins, secrets, rewards, and artifacts.\n\nStones Keeper uses a turn-based combat system, which lets you use environmental objects as protection against your enemies. As well as the ability to break some of the environmental objects down to move faster, which, in turn, opens up a lot of strategic possibilities.\n\nYou can customize your squad by recruiting new companions with multiple specializations, skills and weapon preferences. Missions and battles will be just as diverse: Command your warriors to besiege enemy settlements or defend yours, protect your order's churches, escort civilian wagons, lay siege to enemy castles, aid your allies, and capture new technologies to upgrade your castle.\n\nFeatures:\n\n- Explore a world filled with secrets, mysterious lands, dangerous creatures and unexpected discoveries.\n- Immerse yourself in the epic story of the Order of the Griffin with a single-player campaign spanning over 15 hours, consisting of 45 missions full of intrigue, action, and tension.\n- Manage your own flying castle, fight other castles, unlock upgrades, and develop its systems.\n- Form alliances or fight with other factions inhabiting this world.\n- Conquer your enemies with over 55 unique units such as Gryphon Riders, Elven Witches, Diamond Golems, Dragons, and Ents.\n- You can choose one of four sides to fight against in the castle skirmish mode.\n- Build your own formidable army and determine the fate of the Order.\n\nAn epic tale of loyalty and betrayal.\n\nAssume the role of Princess Elizabeth, who became ruler after the death of her father King Aurelius. You will command the army of the Order of the Griffin. Dark days have come to the lands of the Order after the death of the king. Undead hordes of the Circle of Unquenchable Thirst are advancing from the cursed lands, elves are attacking small towns, orcs and goblins from the steppes appear on the borders. And in the forests ordinary people are better off not appearing without armed guards at all. Elizabeth is faced with a difficult decision, whether to trust the Inquisition, who served faithfully her father for many years, or to take control of her own destiny. Since the head of the church and the Inquisition may have his own plans for the Order of the Griffin and its lands.",
+    "publisher": "Valkyrie Initiative",
+    "developer": null,
+    "base_release_date": 20230324,
     "first_update_release_date": 20230411,
     "latest_update_release_date": 20230627,
     "latest_update": {
@@ -16,11 +16,21 @@
         "65536": 20230411,
         "131072": 20230627
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "RPG"
+    ],
+    "intro": "Explore a detailed fantasy world, lead the Order of the Griffin, recruit and enhance your fighters, control a flying island, search for artifacts, and learn the secrets of the ancients.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt",
+        "ru"
+    ],
+    "numberOfPlayers": 3,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01005F600CB0E800",
     "base_tid": "01005F600CB0E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SEGA AGES Puyo Puyo",
+    "description": "Return to the game that started the successful Puyo Puyo series, one of the most celebrated games in Japan. Strategically stack Puyos to chain your combos while sending devastating Puyos to hinder your opponent. First to clear the screen wins!\n\nRevived for the Nintendo Switch™, experience a new spin on classic Puyo Puyo with online network battles, rankings, and reverse rotate control.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190822,
     "first_update_release_date": 20210127,
     "latest_update_release_date": 20210127,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20210127
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Multiplayer"
+    ],
+    "intro": "SEGA's beloved puzzle game returns in its classic form on SEGA AGES for Nintendo Switch™.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

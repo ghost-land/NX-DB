@@ -1,11 +1,11 @@
 {
     "id": "01005F3012748800",
     "base_tid": "01005F3012748000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Batbarian: Testament of the Primordials",
+    "description": "Batbarian: Testament of the Primordials is a snarky action-adventure puzzle game with a good dose of humor. Explore hundreds of secret-filled rooms, fight big bosses, gather companions for your party and use the powers of Pip -your bat buddy- to solve puzzles and escape the eldritch abyss!\n\n*Crash* ...That was the sound of you landing face first in an abyss filled with monsters, traps, and eldritch secrets. But hey, it's ok barbarian, you are not alone: Pip, your best friend -and mysteriously luminous bat- is with you. And it's only by truly working together that you'll be able to solve the abyss' puzzles, fight off its hungry denizens, discover its true purpose and maybe -just maybe- make it out alive with the secrets of the primordials.\n\n\nKey Features\n\n- Gain new skills for your barbarian and elemental powers for Pip, the (magic) bat!\n\n- A narrative-driven metroidvania with dialogue choices and plenty of humor and snark.\n\n- Big numbers! 400+ rooms, 20+ hours of evolving gameplay, 10+ boss, 60+ minutes of music and almost 30,000 words of text that a barbarian would never bother to read!\n\n- Puzzles.\n\n- RPG elements with a level-up minigame.\n\n- Contains more fruit throwing than probably any other game.\n\n- Companions that join you in your quest and help you out in fights.\n\n- Multiple endings based on your choices and actions.\n\n- The thrown fruits are NOT wasted, they are eaten by the bat (who is magic).\n\n- A ton of secrets and hidden loot just about everywhere.\n\n- The (magic) bat has a whopping FIVE different squeaking sounds!\n\n- Fewer repetitive jokes than this description has.",
+    "publisher": "DANGEN Entertainment",
+    "developer": null,
+    "base_release_date": 20201015,
     "first_update_release_date": 20201013,
     "latest_update_release_date": 20240309,
     "latest_update": {
@@ -25,11 +25,28 @@
         "720896": 20220608,
         "786432": 20240309
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "Sometimes fighting malevolence requires brave souls and a bunch of smelly fruit.\n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
     "region": null
 }
