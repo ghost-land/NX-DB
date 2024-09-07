@@ -1,10 +1,10 @@
 {
     "id": "010054300D288800",
     "base_tid": "010054300D288000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
+    "name": "Aces of the Luftwaffe - Squadron Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
     "base_release_date": null,
     "first_update_release_date": 20210623,
     "latest_update_release_date": 20210623,
@@ -15,11 +15,13 @@
     "versions": {
         "65536": 20210623
     },
-    "category": [],
-    "intro": "",
-    "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Mild Swearing"
+    ],
     "region": null
 }

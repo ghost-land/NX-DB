@@ -1,11 +1,11 @@
 {
     "id": "010054B016D22800",
     "base_tid": "010054B016D22000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nature",
+    "description": "Nature is a relaxing game for modern people tired of everyday life.\nBecome a dandelion seed and soar to the sky.\nEnjoy nature by listening to beautiful music.\nFly farther and higher by interacting with nature.\nHeal your weary heart by playing Nature.",
+    "publisher": "Game Museum",
+    "developer": null,
+    "base_release_date": 20220120,
     "first_update_release_date": 20220119,
     "latest_update_release_date": 20220119,
     "latest_update": {
@@ -15,11 +15,25 @@
     "versions": {
         "65536": 20220119
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Simulation",
+        "Platformer",
+        "Other"
+    ],
+    "intro": "Become a dandelion seed and soar to the sky.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

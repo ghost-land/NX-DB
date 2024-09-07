@@ -1,11 +1,11 @@
 {
     "id": "010054E0168A6800",
     "base_tid": "010054E0168A6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pixel Game Maker Series JEWELiNX",
+    "description": "\"Pixel Game Maker Series JEWELiNX is a retro-flavored falling object puzzle game.\nIt's a puzzle game with a simple rule: if you put two blocks of the same type in a row or on top of each other, they disappear.\nHowever, if two blocks are easily erased, a penalty gauge will accumulate and a block in the way will appear.\nIt's a little different from the traditional falling puzzle games, where you have to pile up the blocks in order to keep them from disappearing.\n\nThe \"Pixel Game Maker Series\" is a series of games created using the action game creation software \"Pixel Game Maker MV\" that can be enjoyed on the Nintendo Switch.",
+    "publisher": "Gotcha Gotcha Games",
+    "developer": null,
+    "base_release_date": 20211216,
     "first_update_release_date": 20231026,
     "latest_update_release_date": 20231026,
     "latest_update": {
@@ -15,11 +15,17 @@
     "versions": {
         "65536": 20231026
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Puzzle"
+    ],
+    "intro": "The second installment in the fictional \"GAME BUDDY\" portable game series! A retro-style Falling block puzzle!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

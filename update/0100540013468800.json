@@ -1,11 +1,11 @@
 {
     "id": "0100540013468800",
     "base_tid": "0100540013468000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Secret Neighbor",
+    "description": "Secret Neighbor is an evergrowing multiplayer Social Horror game set in the Hello Neighbor universe.\n\nYour group has one goal - sneak around the house, collecting the keys in order to unlock the basement door. The only problem is - one of you is the Neighbor, a traitor in disguise!\n\nPLAY AS THE INTRUDERS:\n\nCooperate with your teammates, stay together or tactically split up, use your perks and abilities, and drop those basement door locks one by one.\n\nPLAY AS THE NEIGHBOR:\n\nStop the intruders! Use your disguise to gain their trust, set up traps, and dispose of those pesky intruders one by one. Convince your friends someone else is the Neighbor and let the witch hunt begin. Your secret must remain safe!",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20211220,
     "first_update_release_date": 20210819,
     "latest_update_release_date": 20240304,
     "latest_update": {
@@ -21,11 +21,31 @@
         "393216": 20231123,
         "458752": 20240304
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Multiplayer",
+        "Other"
+    ],
+    "intro": "Explore the Hello Neighbor house with your friends, but beware - one of you is the Neighbor in disguise. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010053D0001BE800",
     "base_tid": "010053D0001BE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "魔法氣泡 TETRIS®",
+    "description": "國民級、世界級的動作益智遊戲「魔法氣泡」與「俄羅斯方塊」。眾人皆知的２大動作益智遊戲的頂上對戰終於在『魔法氣泡俄羅斯方塊』實現了。「魔法氣泡」「俄羅斯方塊」的對戰能以各式各樣的規則來遊玩。當然，也能進行「魔法氣泡」對「魔法氣泡」、「俄羅斯方塊」對「俄羅斯方塊」的對戰，並收錄魔法氣泡與四格骨牌會一起出現在同1個場地上的新規則。夢幻共演組合就在這1款遊戲中！",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20180620,
     "first_update_release_date": 20170814,
     "latest_update_release_date": 20171130,
     "latest_update": {
@@ -18,11 +18,16 @@
         "196608": 20171004,
         "262144": 20171130
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "益智"
+    ],
+    "intro": "「魔法氣泡 TETRIS」繁體中文版將在Nintendo Switch™登場！！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

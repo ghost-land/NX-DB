@@ -1,11 +1,11 @@
 {
     "id": "0100542012884800",
     "base_tid": "0100542012884000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Nongunz: Doppelganger Edition",
+    "description": "Nongunz is a nihilistic action-platformer roguelike.\n\nObscure in both gameplay and theme, it’s a riddle that demands sacrifice.\n\nRebuilt from the ground-up, the Doppelganger Edition is a remastered version of the original, never previously released on console, and features two all-new modes: Arena and Local Co-op.\n\nKey Features:\nUnforgiving gameplay that will challenge both your skill and your wits\n\nThe whole game is a riddle. Unveil the mystery behind the nihilistic universe of Nongunz\n\nBeautifully crafted black and white pixel environments and characters\n\nHundreds of levels plagued with dozens of different enemies\n\nMany weapons, items, and equipment to unlock and master\n\nThe potential to change your perception about existence, violence, and mankind\n\nNew for the Doppelganger Edition! Join forces with your double in Local Co-op mode\n\nNew for the Doppelganger Edition! Survive an eternity of enemies in Arena mode",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20210506,
     "first_update_release_date": 20210429,
     "latest_update_release_date": 20210429,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20210429
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Platformer",
+        "Shooter"
+    ],
+    "intro": "Enter an ever-changing dungeon of nightmares",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Themes",
+        "Strong Violence"
+    ],
     "region": null
 }

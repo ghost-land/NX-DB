@@ -1,11 +1,11 @@
 {
     "id": "01005500158D0800",
     "base_tid": "01005500158D0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Minigolf Adventure",
+    "description": "With 100+ holes, 3 handcrafted environments, and great ball physics, you get to test your prowess and see how good you really are at mini-golf.\n\nMinigolf Adventure delivers incredible visuals and a lot of gameplay time. Put the ball into the hole but be careful because danger lurks at every turn! It’s the ultimate experience for everyone that wants an exciting, fun, and rewarding casual game.\n\nWith Minigolf Adventure, you can train, play against friends or just enjoy your time. Become the ultimate mini-golf player today!\n\nFeatures:\n- 5 game modes \n- Handcrafted levels with stunning graphics\n- Incredible attention to detail\n- Various balls to choose from \n- 100+ unique levels\n- 3 environments with varied physics",
+    "publisher": "Revulo Games",
+    "developer": null,
+    "base_release_date": 20211022,
     "first_update_release_date": 20211018,
     "latest_update_release_date": 20230310,
     "latest_update": {
@@ -19,11 +19,25 @@
         "262144": 20220928,
         "327680": 20230310
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Arcade",
+        "Multiplayer",
+        "Party"
+    ],
+    "intro": "Tough day, week, year? Just relax and play Minigolf Adventure, a beautiful game with engaging and relaxing gameplay - up to 4 players in multiplayer.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010053C014E1A800",
     "base_tid": "010053C014E1A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Heart Chain Kitty",
+    "description": "Heart Chain Kitty is a surreal 3D platformer where Kittey embarks on an epic adventure in search of his parents – learning new abilities along the way.  When a heart-shaped stranger arrives on Kitty Island with news, Kittey begins his search. Deep below the world, Darkside awaits – and possibly a nightmare or two – but Kittey will be fine … he'll just have to find more of these mysterious hearts. Hearts are love, and love gives us strength!\n\nFeatures:\n\n●Explore more than 40 levels.\n●Visit large, surreal, and colorful worlds.\n●Get around using a variety of Kittey’s abilities – like a bottle rocket, zooming, launch rings, swimming, pole-climbing, and more!\n●Jump between dimensions and complete additional  challenging 2D levels.\n●Complete quests and collect items. \n●Try to unlock the multiple endings, secret levels, and hidden bosses!",
+    "publisher": "Origamihero Games",
+    "developer": null,
+    "base_release_date": 20210820,
     "first_update_release_date": 20210728,
     "latest_update_release_date": 20210913,
     "latest_update": {
@@ -17,11 +17,24 @@
         "131072": 20210826,
         "196608": 20210913
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Help Kittey find his parents! They may be lost in a dream ... but dreaming is just what young Kittey does best.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

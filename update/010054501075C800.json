@@ -1,11 +1,11 @@
 {
     "id": "010054501075C800",
     "base_tid": "010054501075C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Curious Cases",
+    "description": "3 Chapters\nThe game consists of [b][u]3 chapters[/u][/b], each chapter unlocks at the end of the previous one. Once a chapter is unlocked, players can jump to it, to continue where they left off.\n\nStory\nA scientist has gone missing, after claiming they made a groundbreaking discovery! Vanished from a locked office with only one exit this extraordinary case immediately grabs Detective Moore’s attention. A modern day legend, Detective Thomas Moore has solved more cases than one can count, where others hit dead-ends, he gets to work. Some cases are more difficult than others, but he always comes through, but this time is different... Something seems off about this case, it is almost as if greater forces are in play...\n",
+    "publisher": "OnSkull Development",
+    "developer": null,
+    "base_release_date": 20200115,
     "first_update_release_date": 20200210,
     "latest_update_release_date": 20210827,
     "latest_update": {
@@ -18,11 +18,30 @@
         "196608": 20201124,
         "262144": 20210827
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure",
+        "First-Person Shooter"
+    ],
+    "intro": "In this 3 chapter story, you play as a modern day legend, Detective Thomas Moore. He has solved more cases than one can count, where others hit dead-ends, he gets to work.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Horror Themes",
+        "Mature Themes",
+        "Violence"
+    ],
     "region": null
 }

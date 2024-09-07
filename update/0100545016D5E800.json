@@ -1,11 +1,11 @@
 {
     "id": "0100545016D5E800",
     "base_tid": "0100545016D5E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "NASCAR Rivals",
+    "description": "Featuring the 2022 official teams, drivers, cars, and regular season and playoff schedule from the world’s most popular stock car racing series.  \n\nCreate your own legacy with Career Mode, compete as your favorite driver at any track in Race Now, beat your rivals in online, local and split-screen multiplayer, try your best to beat real-life challenges and customize your own driver and paint scheme. \n\nStart your rivalry on the track or wherever you go with NASCAR Rivals!  \n",
+    "publisher": "Motorsport Games",
+    "developer": null,
+    "base_release_date": 20221014,
     "first_update_release_date": 20221001,
     "latest_update_release_date": 20230811,
     "latest_update": {
@@ -19,11 +19,21 @@
         "262144": 20230124,
         "327680": 20230811
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Multiplayer",
+        "Simulation",
+        "Sports"
+    ],
+    "intro": "NASCAR Rivals, the officially licensed video game of the 2022 season, puts the fun and intensity of the NASCAR Cup Series in the palm of your hands.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Alcohol Reference",
+        "Mild Lyrics"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010054A0085CA800",
     "base_tid": "010054A0085CA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
+    "description": "【画面を下にスクロールして「セット商品」欄からお買い求めください】\n2019年9月27日(金)に発売された『ドラゴンクエストXI　過ぎ去りし時を求めて S』とダウンロードコンテンツがセットになって、お求めやすい新価格で再登場！\n\n■WEBサイト上でご覧の方\n本作をお求めの方はこちらまで⇒\nhttps://store-jp.nintendo.com/list/software/70070000006461.html\n\n※通常版の販売は終了しておりますのでご了承ください。",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20190927,
     "first_update_release_date": 20190919,
     "latest_update_release_date": 20191122,
     "latest_update": {
@@ -18,11 +18,15 @@
         "196608": 20191023,
         "262144": 20191122
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "新価格となって再登場‼",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

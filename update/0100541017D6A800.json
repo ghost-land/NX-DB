@@ -1,11 +1,11 @@
 {
     "id": "0100541017D6A800",
     "base_tid": "0100541017D6A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Pixel Artist",
+    "description": "Unleash your inner artist and create beautiful works of art. Choose a blank canvas from one of the 8 categories and paint by number. Fill your art gallery with over 100 paintings of different shapes and sizes. Need an extra hand? Use boosters or play with friends in local co-op multiplayer.\n \n- Play a relaxing game alone, or with up to 4 players and paint together\n \n- 8 categories: Animals, Flowers, Food, Home, Love, Sports, Travel and Vehicles\n \n- Choose a canvas from 3060 pixels all the way up to 20550 pixels \n \n- Made a mistake? No problem! Use the eraser functionality to easily correct mistakes\n \n- Use boosters to quickly paint many pixels",
+    "publisher": "Mindscape",
+    "developer": null,
+    "base_release_date": 20221027,
     "first_update_release_date": 20220930,
     "latest_update_release_date": 20221027,
     "latest_update": {
@@ -16,11 +16,29 @@
         "65536": 20220930,
         "131072": 20221027
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Training",
+        "Multiplayer"
+    ],
+    "intro": "Paint by number and create over 100 beautiful paintings in pixel art style!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
     "ratingContent": [],
     "region": null
 }

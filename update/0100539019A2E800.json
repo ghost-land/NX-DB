@@ -1,11 +1,11 @@
 {
     "id": "0100539019A2E800",
     "base_tid": "0100539019A2E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "METAL NINJA",
+    "description": "Use time energy to bounce off walls and ceilings in every direction, defeating enemies with combos!\nMultiple endings with scenario branching depending on the choices you make along the way!\nWhat future will you choose when you find out the true reason why the world was destroyed?",
+    "publisher": "LYUS",
+    "developer": null,
+    "base_release_date": 20221021,
     "first_update_release_date": 20221207,
     "latest_update_release_date": 20221207,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "65536": 20221207
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Stop the time, and Go.\nNew style 2D scrolling action game.\nNinja who came from 2036 to save the world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence",
+        "Scary Scenes"
+    ],
     "region": null
 }

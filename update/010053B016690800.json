@@ -1,11 +1,11 @@
 {
     "id": "010053B016690800",
     "base_tid": "010053B016690000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Box that ball",
+    "description": "Box that ball is a ball physics puzzle game. You place the ball into the squared area and apply a force by dragging back in the right angle to throw it into the open box and hit the white star.\n\nFeatures:\n- Simple gameplay\n- Over 100  levels\n- different balls to unlock",
+    "publisher": "Kistler Studios",
+    "developer": null,
+    "base_release_date": 20211102,
     "first_update_release_date": 20220222,
     "latest_update_release_date": 20220222,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20220222
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Arcade",
+        "Board Game",
+        "Study"
+    ],
+    "intro": "The round goes into the square",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

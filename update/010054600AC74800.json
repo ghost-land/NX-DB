@@ -1,11 +1,11 @@
 {
     "id": "010054600AC74800",
     "base_tid": "010054600AC74000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "LOST ORBIT: Terminal Velocity",
+    "description": "LOST ORBIT centers around the exploration of space. Players take control of a lone astronaut who sets off on a dangerous journey to rejoin his civilization, armed with only an improvised set of equipment and a relentless spirit. Without the help of his ship, Harrison will need to use his jetpack to boost, dodge and barrel roll through deadly obstacles to find his way home. \n\nYou will encounter fast paced challenges, make unlikely friendships and test the bonds of family as you take on the forces of the universe, alien invasions and space pirates.\n \nSet in a world rich with comedy, tragedy and adventure, LOST ORBIT is a game filled with risk, loneliness, wonder, and death\n\nA personal story -  A fully narrated story delivers a deep and entertaining experience exploring death, loneliness and madness.\n\nBeautiful Worlds - Traverse fantastical interstellar worlds on a quest to reunite with civilization and uncover the mysteries of the disaster that left Harrison stranded. \n\nFast Paced - Travel through space at breakneck speeds! \n\nChallenge - 50 intense levels across 5 systems and over 15 extreme challenge levels\n",
+    "publisher": "PixelNAUTS Games",
+    "developer": null,
+    "base_release_date": 20190716,
     "first_update_release_date": 20191217,
     "latest_update_release_date": 20191217,
     "latest_update": {
@@ -15,11 +15,24 @@
     "versions": {
         "65536": 20191217
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Adventure"
+    ],
+    "intro": "Stranded after his ship is destroyed in deep space, Harrison, a lowly maintenance worker and our hero, must struggle to find his way home...",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
     "region": null
 }

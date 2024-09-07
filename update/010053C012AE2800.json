@@ -1,11 +1,11 @@
 {
     "id": "010053C012AE2800",
     "base_tid": "010053C012AE2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Kakurasu World",
+    "description": "Kakurasu World - beautiful puzzler, great addition to your logic game collection. \n\nSelect squares until the row and column totals match the clues.\n\n- 90 kakurasu puzzles, Easy/Medium/Hard difficulty levels\n- Pleasant light & dark color themes\n- Relaxing music",
+    "publisher": "Hook Games",
+    "developer": null,
+    "base_release_date": 20201024,
     "first_update_release_date": 20210305,
     "latest_update_release_date": 20210305,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20210305
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Training"
+    ],
+    "intro": "Simple rules, challenging solutions - excellent brain trainer!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
     "region": null
 }

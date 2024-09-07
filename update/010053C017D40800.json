@@ -1,11 +1,11 @@
 {
     "id": "010053C017D40800",
     "base_tid": "010053C017D40000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fotress S",
+    "description": "'Since its inception as an online PC game in the 2000s, the Fortress series has been a fan favorite, spawning sequels on a variety of platforms, including mobile. The latest addition, Fortress S, includes a story mode in which you can go on a journey to collect 29 different tanks, a battle mode for up to four players simultaneously, and a classic mode that retains the original turn-based actions.\n\nThere's also a music player with classic BGM, including the Sky Map theme song, and ten different sorts of minigames to keep you pleasantly entertained.",
+    "publisher": "DAEWON MEDIA",
+    "developer": null,
+    "base_release_date": 20230427,
     "first_update_release_date": 20230628,
     "latest_update_release_date": 20230628,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20230628
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Action",
+        "Party"
+    ],
+    "intro": "The lastest installment in the beloved Fortress series, a fresh take on the artillery shooter genre is now available on Nintendo Switch™!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

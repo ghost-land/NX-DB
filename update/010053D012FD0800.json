@@ -1,11 +1,11 @@
 {
     "id": "010053D012FD0800",
     "base_tid": "010053D012FD0000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Kana Quest",
+    "description": "A Kawaii Kana Match-Em Up.\nAre you sick of educational games that are glorified pop-quizzes? Do you just want to play an awesome game and have a new real world skill at the end of it? Do you want to learn how to read Hiragana and Katakana?\n\nWell then, Kana Quest is for you!\n\n\"But how does it work\" I hear you think. Excellent question! In Japanese, each phonetic letter is called a Kana. Kana that have a shared sound will match. When all Kana in a level are connected by matches, it will be complete.\n",
+    "publisher": "Whitethorn Digital",
+    "developer": null,
+    "base_release_date": 20230328,
     "first_update_release_date": 20230328,
     "latest_update_release_date": 20230328,
     "latest_update": {
@@ -15,11 +15,25 @@
     "versions": {
         "65536": 20230328
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Study"
+    ],
+    "intro": "A Kawaii Kana Match-Em Up. Learn Japanese. Match Kana (Japanese letters) with their sounds. Solve Puzzles. Your quest to learn Japanese starts now!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

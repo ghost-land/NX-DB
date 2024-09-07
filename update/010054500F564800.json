@@ -1,11 +1,11 @@
 {
     "id": "010054500F564800",
     "base_tid": "010054500F564000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Bookbound Brigade",
+    "description": "Bookbound Brigade is a new take on the established Metroidvania genre where classic stories and well-known characters get the video game treatment, and where the player gets to lead a colorful bunch of real and fictional heroes through a 2D side-scrolling platform-adventure in a quest to battle overwhelming hordes of monsters and bring order back to the literary world. \n\nKEY FEATURES: \nExplore, fight, backtrack, grow your skills and tackle challenging quests and puzzles, as in any Metroidvania game worthy of its name, but get ready for a twist... \n\nThere is no single hero in Bookbound Brigade: play as a party of unique characters, each with their own traits and skills, who move in formation and fight as one.\n\nExpect to meet some familiar and less familiar faces, as all the characters, both playing and non-playing, are drawn from the pages of history and literature.\n\nEnjoy distinctive hand-drawn visuals, inspired by book illustration from all time and straying far from the pixel art dominating the Metroidvania genre.",
+    "publisher": "Intragames",
+    "developer": null,
+    "base_release_date": 20200130,
     "first_update_release_date": 20201125,
     "latest_update_release_date": 20201125,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "131072": 20201125
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "intro": "What if all the protagonists of books lost their memory? Venture into their world and beat the hell out of historical and literary characters you studied in school! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

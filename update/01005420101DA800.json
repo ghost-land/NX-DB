@@ -1,11 +1,11 @@
 {
     "id": "01005420101DA800",
     "base_tid": "01005420101DA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Legend of Heroes: Trails of Cold Steel III",
+    "description": "Rean Schwarzer uncovers a dark plot that threatens his homeland. To face their enemies, he must prepare a new generation of heroes as an instructor at a new branch campus and guide them towards victory.",
+    "publisher": "NIS America",
+    "developer": null,
+    "base_release_date": 20200707,
     "first_update_release_date": 20200418,
     "latest_update_release_date": 20200418,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20200418
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Action",
+        "Adventure"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "fr"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy violence and sexual themes"
+    ],
     "region": null
 }

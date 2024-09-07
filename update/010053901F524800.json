@@ -1,11 +1,11 @@
 {
     "id": "010053901F524800",
     "base_tid": "010053901F524000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "WAKUSEI",
+    "description": "Wakusei is a relaxing physics puzzle game about dropping and merging planets.\n\nDrop planets around an eclipse to merge same planets into new ones. This might cause the extinction of some civilisations but it's okay, we asked them first.\n\nThe 360° gameplay makes for an interesting new experience and new strategies.\n\nUnlock upgrades, new events and additional game modes.\n\nPut the universe into a jar in Classic Mode or experience how the game must've felt like before gravity got invented in the Anti Gravity Mode.",
+    "publisher": "FULL STEAM STUDIOS",
+    "developer": null,
+    "base_release_date": 20240603,
     "first_update_release_date": 20240604,
     "latest_update_release_date": 20240613,
     "latest_update": {
@@ -16,11 +16,17 @@
         "65536": 20240604,
         "131072": 20240613
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Puzzle",
+        "Other"
+    ],
+    "intro": "Wakusei is a relaxing physics puzzle game about dropping and merging planets in a 360° environment.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010054400D2E6800",
     "base_tid": "010054400D2E6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "SEGA AGES Virtua Racing",
+    "description": "Experience the herald of modern racing games, Virtua Racing! It's a race against time, but be careful, running into opponents and obstacles will slow you down. Can you beat the clock? \n\nNow featuring rankings and replays, online 2-player races, offline multiplayer races (up to 8-players at once on a single Nintendo Switch), the crash-disabling helper mode, and motion controls.",
+    "publisher": "SEGA",
+    "developer": null,
+    "base_release_date": 20190627,
     "first_update_release_date": 20210127,
     "latest_update_release_date": 20210127,
     "latest_update": {
@@ -15,11 +15,21 @@
     "versions": {
         "65536": 20210127
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Racing",
+        "Sports",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": "The retro-racing arcade game returns in SEGA AGES for Nintendo Switch™! ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Sexualised Imagery"
+    ],
     "region": null
 }

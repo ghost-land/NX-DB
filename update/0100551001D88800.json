@@ -1,11 +1,11 @@
 {
     "id": "0100551001D88800",
     "base_tid": "0100551001D88000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Battle Chasers: Nightwar",
+    "description": "Battle Chasers: Nightwar is an RPG inspired by the console genre-greats, featuring deep dungeon diving, turn-based combat presented in classic JRPG format, and a rich story driven by exploration of the world.\n\nTraditional turn-based combat with a unique overcharge mana system and incredible Battle Bursts.\n\nExplore an overworld peppered with hidden dungeons, rare bosses and randomly appearing friends and foes. \n\nAction oriented, randomly-generated dungeons loaded with traps, puzzles and secrets. Use each hero's unique dungeon skills to survive\n\nBuild your adventuring party by choosing three of six available heroes from the famed Battle Chasers comic series, each with unique abilities, perks, items and dungeon skills\n\nDive into the deep crafting system, using the unique ingredient-overloading system to create epic items!\n\nThe best-selling comic book Battle Chasers was first released in the late 90s and quickly generated a passionate cult following. ",
+    "publisher": "THQ Nordic",
+    "developer": null,
+    "base_release_date": 20180515,
     "first_update_release_date": 20180430,
     "latest_update_release_date": 20180514,
     "latest_update": {
@@ -16,11 +16,27 @@
         "65536": 20180430,
         "131072": 20180514
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "RPG",
+        "Action"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence"
+    ],
     "region": null
 }

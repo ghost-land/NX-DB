@@ -1,11 +1,11 @@
 {
     "id": "0100550019D00800",
     "base_tid": "0100550019D00000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Fury Fight: Gangsters of City",
+    "description": "Choose your hero and fight!\n\nBoris, Sofia, Harvey and Maria - each of them has their own unique fighting style. Check out their skills. Change your choice whenever you want.\n\nBe tough\n\nPunch and kick your way out of any danger. Use your skills to defeat all criminals. Last one standing wins!\n\nTake care of yourself\n\nThis fighting game lets you find powerful weapons or.... cookies, donuts and ice cream to help you regain your health.\n\nKey Features:\n\n- Over 50 varied levels\n- Combo type combat system\n- Unique enemies\n- Stylized 3D graphics\n\n",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20230113,
     "first_update_release_date": 20221212,
     "latest_update_release_date": 20221212,
     "latest_update": {
@@ -15,11 +15,26 @@
     "versions": {
         "65536": 20221212
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Fighting",
+        "Strategy",
+        "Other"
+    ],
+    "intro": "Violent crime lords have taken over the city. Defeat them and bring their underlings to justice in an excellent beat 'em up action game.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pt",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }
