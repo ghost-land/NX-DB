@@ -1,11 +1,11 @@
 {
     "id": "010050F017AAC800",
     "base_tid": "010050F017AAC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Feral Flowers",
+    "description": "Feral Flowers is a lightning-fast romp through 92 levels of botanical platforming mayhem.\n\nPlaying as Quigley the Gardener, you'll battle hordes of pollen-spewing flowers. Owing to his rather unfortunate pollen allergy, you'll need to battle against the clock to beat them before the air gets too dense and you sneeze yourself all the way back to the first stage. In other words: if you don't move fast, you'll be fighting through bullet hell!\n\nBe warned, Game Overs will feature heavily for most players - but for those who venture far enough, you'll find ways of quickly recouping your progress…",
+    "publisher": "Starriver",
+    "developer": null,
+    "base_release_date": 20220429,
     "first_update_release_date": 20220802,
     "latest_update_release_date": 20220802,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20220802
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Platformer"
+    ],
+    "intro": "Perennial platforming action",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Comic Mischief",
+        "Fantasy Violence"
+    ],
     "region": null
 }

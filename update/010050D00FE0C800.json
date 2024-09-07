@@ -1,11 +1,11 @@
 {
     "id": "010050D00FE0C800",
     "base_tid": "010050D00FE0C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Portal Dogs",
+    "description": "As king of the dogs, your mission is to find all your loyal subjects and guide them to the portal. The second you wake up another dog, he will simultaneously follow your movements. You succeed by finding your way to the portal. You are mastering the mission if you save all your loyal subjects, find the golden bone and get to the portal.\n",
+    "publisher": "Brain Connected",
+    "developer": null,
+    "base_release_date": 20200226,
     "first_update_release_date": 20200310,
     "latest_update_release_date": 20200310,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20200310
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Platformer",
+        "Arcade",
+        "Action",
+        "Puzzle"
+    ],
+    "intro": "In the puzzle platformer Portal Dogs, a horde of dogs are following their king through the portal world. The catch: you play with all dogs simultaneously.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Crude Humour"
+    ],
     "region": null
 }

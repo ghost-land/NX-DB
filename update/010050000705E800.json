@@ -1,11 +1,11 @@
 {
     "id": "010050000705E800",
     "base_tid": "010050000705E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "ドラゴンクエストビルダーズ２　破壊神シドーとからっぽの島",
+    "description": "本作は、「ブロック」で出来た世界で、「モノづくり」の力で物語を紡いでいくブロックメイクRPG。「破壊」を崇拝し、「モノづくり」を敵視する邪教の集団「ハーゴン教団」が勢力を伸ばしつつある世界で、ビルダー見習いである主人公はビルダーとして成長をしていくことに。相棒である記憶喪失の少年シドーと共に世界をめぐり、深く強くなる2人の絆。主人公が一人前のビルダーになった暁には！？そして相棒であるシドーとの行く先は……。オリジナルのストーリーに加え、前作よりパワーアップした「モノづくり」、マルチプレイにもご期待ください。",
+    "publisher": "スクウェア・エニックス",
+    "developer": null,
+    "base_release_date": 20181220,
     "first_update_release_date": 20181218,
     "latest_update_release_date": 20240820,
     "latest_update": {
@@ -28,11 +28,16 @@
         "983040": 20200318,
         "1048576": 20240820
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング",
+        "アクション"
+    ],
+    "intro": "世界をつくれ、運命をこわせ\n",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

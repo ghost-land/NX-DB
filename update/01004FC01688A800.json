@@ -1,11 +1,11 @@
 {
     "id": "01004FC01688A800",
     "base_tid": "01004FC01688A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "RazerWire: Nanowars",
+    "description": "FIGHT, DIE, UPGRADE AND FIGHT AGAIN\n\nSurvive the endless waves of invading aliens, and when you lose, use the resources you've gained to upgrade RazerWire and keep fighting!\n\nRazerWire: Nanowars is a unique bullet-hell style game where you don't so much shoot enemies as use a wire connected to a generator as a weapon, cutting through enemies with a sharp monomolecular filament.\n\nWith each wave, the difficulty level increases! Opponents with new weapons and better armour appear, and this is where upgrades come to the rescue. With the points you earn, you can upgrade your weapon and also buy useful powerups.\n\nIN THE FUTURE, FAR, FAR AWAY\n\nHumanity has conquered most of the galaxy. Unfortunately, a new threat has emerged in our universe, but this time he is invisible to the human eye...\n\nThis threat turned out to be nano-sized aliens, reminiscent of viruses, destroying everything in their path while being almost impossible to detect.\n\nScientists led by Dr.Illerotsap have created a lethal weapon based on medical tools with a monomolecular filament used for microscale surgery - they call it... RazeWire\n\nKEY FEATURES:\n- Arcade-style gameplay with rogue-like progression.\n- A unique mechanic in which you use a super-sharp wire connected to a generator as a weapon.\n- Endless waves of attackers with increasing difficulty.\n- Many enemy types with several variants on each.\n- Multiple unlockable upgrades and powerups.",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20211119,
     "first_update_release_date": 20211203,
     "latest_update_release_date": 20240605,
     "latest_update": {
@@ -16,11 +16,20 @@
         "65536": 20211203,
         "131072": 20240605
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter",
+        "Simulation"
+    ],
+    "intro": "Go back to the 80s with RazerWire: Nanowars - a true tribute to retro arcade-style gaming with modern rogue-like progression.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Very Mild Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "01004FD00D7C8800",
     "base_tid": "01004FD00D7C8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rollin' Eggz",
+    "description": "Children and parents alike, this one is for you!\n\nCollect the eggz from the chickens before they fall down! But careful, every now and then there is a nasty rotten egg to avoid. Or maybe a shiny golden egg to snag and restore a heart to keep playing. Try the oldie but goldie gameplay with a fresh and colorful look and a revamped game design! Flash eggz, bombs, ladybugs and even a shy snail are here to complete the experience!\n\nBut wait, there's more! Double more! Besides the classic Rolling game mode, you also get the Raining and Rainbow modes, for a 3-in-1 ultimate eggz catching experience! Did we even mention the three playable characters?\n\nWhat are you waiting for? Join the eggz craze and help Philip, Terry and Maggie fill their baskets!\n\nFEATURES\n* 3 game modes\n* 3 playable characters\n* Unlock Terry and Maggie with your hard earned coins\n* Colorful visuals, perfect for some family friendly fun\n* Special eggz and power-ups\n* 2 difficulty options\n* Can you beat your family's high score?\n* Play in English, French, Italian, Spanish, German, Portuguese or Turkish",
+    "publisher": "GRIMTALIN",
+    "developer": null,
+    "base_release_date": 20220922,
     "first_update_release_date": 20190506,
     "latest_update_release_date": 20190506,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20190506
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Adventure",
+        "Puzzle",
+        "Education"
+    ],
+    "intro": "Eggz catching joy, the perfect family toy!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

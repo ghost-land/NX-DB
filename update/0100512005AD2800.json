@@ -1,11 +1,11 @@
 {
     "id": "0100512005AD2800",
     "base_tid": "0100512005AD2000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "リディー＆スールのアトリエ ～不思議な絵画の錬金術士～",
+    "description": "アダレット王国の首都、メルヴェイユ。\nそこには「国いちばんのアトリエ」を目指す双子の錬金術士、リディーとスールが住んでいます。\n\nある日ふたりが見つけた絵の中には、夢のように不思議な世界が広がり、見たこともない材料が山のようにありました。\nこの不思議な絵画との出会いが、双子たちの夢を一気に現実へと近付けます。\n\n「アトリエ」シリーズの20周年を記念する新たな物語！\n双子と一緒に、不思議な絵画の世界を巡りましょう！",
+    "publisher": "コーエーテクモゲームス",
+    "developer": null,
+    "base_release_date": 20171221,
     "first_update_release_date": 20180111,
     "latest_update_release_date": 20210421,
     "latest_update": {
@@ -21,11 +21,19 @@
         "393216": 20181010,
         "458752": 20210421
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "「アトリエ」シリーズ20周年記念作品！\nやっぱり世界を救わない、日常系RPG！",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル"
+    ],
     "region": null
 }

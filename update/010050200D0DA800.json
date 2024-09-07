@@ -1,10 +1,10 @@
 {
     "id": "010050200D0DA800",
     "base_tid": "010050200D0DA000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
+    "name": "Fitness Boxing Demo",
+    "description": null,
+    "publisher": null,
+    "developer": null,
     "base_release_date": null,
     "first_update_release_date": 20190205,
     "latest_update_release_date": 20221006,
@@ -16,11 +16,13 @@
         "65536": 20190205,
         "131072": 20221006
     },
-    "category": [],
-    "intro": "",
-    "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "category": null,
+    "intro": null,
+    "isDemo": true,
+    "languages": null,
+    "numberOfPlayers": null,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

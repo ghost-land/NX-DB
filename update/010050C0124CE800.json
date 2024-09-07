@@ -1,11 +1,11 @@
 {
     "id": "010050C0124CE800",
     "base_tid": "010050C0124CE000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Mini Island Challenge Bundle",
+    "description": "Choose your character, gather power-ups, and beat the bosses! Run through the four worlds and face the threat - run, shoot, dodge!\nExplore the four islands, each with a unique theme, and beat their challenges. Casual-friendly mechanics, straight forward gameplay, and the unique art style make the perfect, easy-to-grab entertainment.\n\nNo time to waste - choose your arsenal, build your character with power-ups, and beat the Mini Island Challenge Bundle!\n\nFEATURES\n- power-ups to build your character\n- 4 unique islands\n- boss-rush\n- intense and challenging gameplay",
+    "publisher": "Forever Entertainment",
+    "developer": null,
+    "base_release_date": 20200723,
     "first_update_release_date": 20200821,
     "latest_update_release_date": 20200821,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20200821
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Mini Island Challenge Bundle is an intense, 2D boss-rush game, that will put your skills to the test!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ko"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

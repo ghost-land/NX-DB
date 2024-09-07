@@ -1,11 +1,11 @@
 {
     "id": "0100501006494800",
     "base_tid": "0100501006494000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Slayaway Camp: Butcher's Cut",
+    "description": "A killer puzzle game where you control Skullface, a psychotic slasher hell-bent on revenge. Slide this adorably demented murderer around hundreds of isometric puzzle levels to squash, flay, and decapitate hapless victims in this darkly comic homage to 80s horror movies.\n\nExperience a new dimension of gut-churning terror as an unspeakable force of skull-faced killing maims and murders his way through smart-mouthed, over-sexed, substance-abusing young adults. No teenager is safe in the summer horror blockbuster smash hit of 1984.\n\nThis special console-only Butcher’s Cut edition is the biggest and bloodiest version of Slayaway Camp EVER! More puzzles. More killers. More gore.\n\nGAME FEATURES\n300+ Fiendish puzzle levels to massacre your way through\n60+ Killers to cause comical carnage with\n90+ Gorepacks with delightfully OTT kill scenes to shock and entertain\t\nCan be played using touch screen controls when using Nintendo Switch™ in handheld mode\nIntense finger action! Play using touch screen controls in handheld mode\nStarring Mark Meer as “Skullface” and Derek Mears as “Jessica”\n",
+    "publisher": "Digerati",
+    "developer": null,
+    "base_release_date": 20180322,
     "first_update_release_date": 20180510,
     "latest_update_release_date": 20180510,
     "latest_update": {
@@ -15,11 +15,23 @@
     "versions": {
         "65536": 20180510
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "intro": "The most violentest puzzle game ever made.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "fr",
+        "de",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Horror Themes",
+        "Strong Violence"
+    ],
     "region": null
 }

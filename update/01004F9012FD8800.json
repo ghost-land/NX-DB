@@ -1,11 +1,11 @@
 {
     "id": "01004F9012FD8800",
     "base_tid": "01004F9012FD8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Estranged: The Departure",
+    "description": "Experience what the island has in store as you uncover the secretive Arque Corporation, burrowing ever deeper into their dangerous and haphazard operations.\n\n• Experience the unique first person adventure\n• Immerse yourself in the rich narrative and unique characters\n• Interact with items, computers and audio logs for environmental storytelling\n• Protect yourself with guns and melee weapons, with familiar shooter combat\n\nThis game was developed by one person in their spare time over 6 years, with help from a community of translators and testers. It is a standalone sequel to Estranged: Act I, which followed our hero's adventure in a search for a way to get home.",
+    "publisher": "Alan Edwardes",
+    "developer": null,
+    "base_release_date": 20210305,
     "first_update_release_date": 20210302,
     "latest_update_release_date": 20210302,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20210302
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "First-Person Shooter",
+        "Action",
+        "Adventure",
+        "Puzzle"
+    ],
+    "intro": "Follow the story of a fisherman, stranded on a mysterious island during a violent storm. Little does he know his adventure has just begun, and the island is home to more than it seems.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Violence"
+    ],
     "region": null
 }

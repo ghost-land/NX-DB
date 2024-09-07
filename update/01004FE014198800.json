@@ -1,11 +1,11 @@
 {
     "id": "01004FE014198800",
     "base_tid": "01004FE014198000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Maiden & Spell",
+    "description": "Maiden & Spell is a one-on-one magical girl aerial projectile battler, featuring a colorful cast of ladies fighting with fantastic spells.\n\nBattling with magic is simple! Fire your spells, hit your opponent, and don't get hit yourself! Each maiden is color-coded and has a set of abilities unique to them, activated at a press of a button. There aren't any complicated combos or intricate inputs or grabs or melee attacks or block buttons! Just a 3-pixels-wide hitbox, a lot of shiny bullets, and your own dodging skills.\n\nYou can fight against a friend in Versus Mode, or test your skill against a series of opponents and bullet hell boss attacks in Story Mode.",
+    "publisher": "NIHONICHI",
+    "developer": null,
+    "base_release_date": 20210408,
     "first_update_release_date": 20210630,
     "latest_update_release_date": 20210630,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20210630
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Shooter",
+        "Fighting",
+        "Arcade",
+        "Multiplayer"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Violence",
+        "Sexualised Imagery",
+        "Users Interact"
+    ],
     "region": null
 }

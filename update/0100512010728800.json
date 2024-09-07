@@ -1,11 +1,11 @@
 {
     "id": "0100512010728800",
     "base_tid": "0100512010728000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Totally Reliable Delivery Service",
+    "description": "Delivery attempted, that's a Totally Reliable Delivery Service guarantee!\n\nFEATURES:\n\nLocal and Online Multiplayer: Go it alone to ensure the safety of your deliveries, or join your friends and put your teamwork to the test.\n\nControlled Noodly Chaos: Unpredictable ragdoll physics meets snappy platforming. Sprint, leap, dive, and grapple with ease, but collide with something and you'll be knocked out cold!\n\nA World of Distractions: Take a break from deliveries and play around! The world is chock full of toys, vehicles, and machines that can be used for work or play.\n\nRagtag Crew: Customize your blue-collar workers and get your rear into gear, it's time to deliver!",
+    "publisher": "tinyBuild Games",
+    "developer": null,
+    "base_release_date": 20211220,
     "first_update_release_date": 20200402,
     "latest_update_release_date": 20210824,
     "latest_update": {
@@ -20,11 +20,30 @@
         "327680": 20210629,
         "393216": 20210824
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Multiplayer",
+        "Simulation",
+        "Action"
+    ],
+    "intro": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three of your friends and haphazardly get the job done in an interactive sandbox world.",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Crude Humor",
+        "Mild Fantasy Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "010050D018B7E800",
     "base_tid": "010050D018B7E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "英雄伝説 零の軌跡：改",
+    "description": "累計700万本以上の販売本数を誇る大人気RPG「軌跡」シリーズより、『英雄伝説 零の軌跡：改』がNintendo Switch™に登場！\nシリーズタイトルではあるものの、本作は舞台やキャラクターが一新されているため、シリーズを遊んだことがない方でも安心してお楽しみいただけます。\n\n■大都市を舞台とした《特務支援課》による壮大な物語\n光と闇の混雑する魔都“クロスベル”。\n特務支援課に配属された新米捜査官 ロイドと仲間たちは、大都市の光と闇に挑みます。\n\n――これは、《壁》を乗り越えようとする若者たちと、大都市の光と闇に生きる人々の生き様を描いた物語。",
+    "publisher": "日本一ソフトウェア",
+    "developer": null,
+    "base_release_date": 20230831,
     "first_update_release_date": 20230830,
     "latest_update_release_date": 20230830,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20230830
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "ロールプレイング"
+    ],
+    "intro": "Nintendo Switch™で蘇る“特務支援課”の物語――",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "セクシャル",
+        "暴力",
+        "犯罪",
+        "麻薬"
+    ],
     "region": null
 }

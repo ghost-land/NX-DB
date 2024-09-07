@@ -1,11 +1,11 @@
 {
     "id": "01004FD00382A800",
     "base_tid": "01004FD00382A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Moon Hunters",
+    "description": "When the moon does not rise over Issaria, monsters to infest the land and cause chaos. You must set out alone or with the other chosen children of the Moon to solve the mystery and restore balance. You have only 5 days before King Mardokh and the Sun Cultists declare war. Multiple playthroughs uncover characters, conflicts, and decisions. Each of the five tribes responds differently to the crisis and looks for different qualities in their heroes. \n\nEvery action and choice you make contributes to your legend as a constellation in the night sky. Future generations will build upon the mythology you create. How will you be remembered?",
+    "publisher": "Kitfox Games",
+    "developer": null,
+    "base_release_date": 20171027,
     "first_update_release_date": 20171221,
     "latest_update_release_date": 20180314,
     "latest_update": {
@@ -16,11 +16,27 @@
         "65536": 20171221,
         "131072": 20180314
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Party",
+        "RPG",
+        "Action"
+    ],
+    "intro": "Personality test RPG. How will you be remembered?",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Mild Violence"
+    ],
     "region": null
 }

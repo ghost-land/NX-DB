@@ -1,11 +1,11 @@
 {
     "id": "0100500012AB4800",
     "base_tid": "0100500012AB4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Life is Strange: True Colors™",
+    "description": "A bold new era of the award-winning Life is Strange begins, with an all-new playable lead character and a thrilling mystery to solve!\n\nAlex Chen has long suppressed her 'curse': the supernatural ability to experience, absorb and manipulate the strong emotions of others, which she sees as blazing, colored auras. \n\nWhen her brother dies in a so-called accident, Alex must embrace her volatile power to find the truth – and uncover the dark secrets buried by a small town.",
+    "publisher": "Square Enix Europe LTD",
+    "developer": null,
+    "base_release_date": 20211207,
     "first_update_release_date": 20211203,
     "latest_update_release_date": 20220224,
     "latest_update": {
@@ -17,11 +17,30 @@
         "196608": 20220106,
         "262144": 20220224
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure"
+    ],
+    "intro": "The Truth Will Hurt",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Drug Reference",
+        "Strong Language",
+        "Suggestive Themes",
+        "Use of Alcohol",
+        "Violence",
+        "In-Game Purchases"
+    ],
     "region": null
 }

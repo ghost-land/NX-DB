@@ -1,11 +1,11 @@
 {
     "id": "01004FD01A012800",
     "base_tid": "01004FD01A012000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Raindrop Sprinters",
+    "description": "\"Raindrop Sprinters\" is a retro fixed-screen action game where you run across passages while avoiding the rain.\n\nMove left and right. Press a button for slow-motion. The controls are simple, but the game is filled with fun secrets! You'll need to make risky plays to find them. First, try running non-stop to the goal four times!\n\nThis game has four different game modes.\n\n- Standard: Just avoid the rain\n- Customize: Choose your own items and obstacles\n- Onrush: Enjoy playing with slow-motion\n- Maverick: Keep catching the rain\n\nGet the hang of each mode and aim for one million points! Reach the goal five times at the max level to see the ending!\n\nFeatures:\n- Network rankings\n- Vertical (tate) mode\n- Pixel-perfect option",
+    "publisher": "Mediascape",
+    "developer": null,
+    "base_release_date": 20230906,
     "first_update_release_date": 20230822,
     "latest_update_release_date": 20240207,
     "latest_update": {
@@ -17,11 +17,19 @@
         "131072": 20240129,
         "196608": 20240207
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Arcade",
+        "Action"
+    ],
+    "intro": "Avoid rain, get stars,\nand run across the passage!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
     "region": null
 }

@@ -1,11 +1,11 @@
 {
     "id": "0100510004D2C800",
     "base_tid": "0100510004D2C000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Disc Jam",
+    "description": "Online servers for Disc Jam will shut down on September 30th 2022. All online features for this game (including online multiplayer modes) will cease on that date. You will still be able to play and enjoy this game in single player and local offline modes. However, from September 30th 2022, all online functionality will no longer be accessible in this game.\n\nDisc Jam is a fast-paced action-sports game that pits 2-4 players against each other in a frantic mix of air hockey and tennis. Players scramble to retrieve and throw a glowing disc while unleashing devastating abilities and defending their end zone. An exciting blend of strategy and skill, this arcade-inspired title boasts a zany roster of characters to compete with friends!",
+    "publisher": "High Horse Games",
+    "developer": null,
+    "base_release_date": 20180209,
     "first_update_release_date": 20180207,
     "latest_update_release_date": 20190523,
     "latest_update": {
@@ -18,11 +18,21 @@
         "196608": 20181221,
         "262144": 20190523
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Arcade",
+        "Action",
+        "Party"
+    ],
+    "intro": "Play locally or compete online!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "Online Interactivity",
+        "Digital Purchases"
+    ],
     "region": null
 }

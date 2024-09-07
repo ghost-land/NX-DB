@@ -1,11 +1,11 @@
 {
     "id": "010050101435A800",
     "base_tid": "010050101435A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "R-Type Final 2",
+    "description": "邁向最終任務的彼端\n與外星生物之間的戰鬥尚未結束…\n\n經典橫向捲軸射擊遊戲《R-TYPE》系列\n最新力作強勢回歸！\n\n遊戲畫面全面升級，歷代次元戰鬥機嶄新登場，\n同時追加新關卡與武器…\n多種全新要素將帶給玩家們前所未有、\n爽快感十足的遊戲體驗。\n\n玩家必須充分利用可裝備於機體前後方的次元兵器「Force」並適時發動蓄力攻擊「波動炮」才能攻略各大關卡，其獨樹一幟的遊戲玩法，以及融合生物與機械元素所打造出來的獨特世界觀設定是本作最大的特色。",
+    "publisher": "JUSTDAN",
+    "developer": null,
+    "base_release_date": 20210429,
     "first_update_release_date": 20210426,
     "latest_update_release_date": 20240729,
     "latest_update": {
@@ -28,11 +28,23 @@
         "983040": 20240120,
         "1048576": 20240729
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "射擊"
+    ],
+    "intro": "經典橫向捲軸射擊遊戲\n系列最新力作強勢回歸！\n歷代次元戰鬥機嶄新登場",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }

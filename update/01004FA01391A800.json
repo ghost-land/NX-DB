@@ -1,11 +1,11 @@
 {
     "id": "01004FA01391A800",
     "base_tid": "01004FA01391A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "War of stealth - assassin",
+    "description": "It is stealth action, top-down shooter with armed soldiers and zombies which has sci fi style and rude and rectilinear humor. You play for a soldier who must come in to a secret base and take information about they work. But the main hero doesn`t expected that a base has many secrets from which blood getting cold in veins. The game is gived thrills with possibility to play by quite and stealth but also you can shoot if you ready to it.",
+    "publisher": "Elusor",
+    "developer": null,
+    "base_release_date": 20210422,
     "first_update_release_date": 20210407,
     "latest_update_release_date": 20210407,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "131072": 20210407
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Shooter",
+        "Other",
+        "Adventure"
+    ],
+    "intro": "Sci-fi stealth action with zombies and shooting",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "ru"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Strong Violence"
+    ],
     "region": null
 }
