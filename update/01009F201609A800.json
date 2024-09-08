@@ -1,11 +1,11 @@
 {
     "id": "01009F201609A800",
     "base_tid": "01009F201609A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "グランド・セフト・オート：サンアンドレアス：決定版",
+    "description": "最先端のアップデートで色鮮やかに蘇る、大ヒットを記録したあの名作を体験しよう。新たなライティング、環境面のアップグレード、高解像度テクスチャ、描画距離の向上、『グランド・セフト・オートV』のスタイルを採用した操作性や照準などを追加。\n\n5年前、カール・ジョンソン(CJ)は鬱々としたサンアンドレアス州ロスサントスを飛び出した。そこはギャングやドラッグ、汚職のトラブルで崩壊寸前の街…時は流れて90年代初頭。カールは故郷に戻ることにした。母親が殺され、家族は離ればなれ。幼なじみの仲間たちは破滅に向かっていた。カールが帰郷を果たすと、警官たちは彼に殺人の罪を着せようとする。そんな状況の中、家族を救い、街の覇権を握るため、サンアンドレアス州を股にかけたCJの壮大なドラマと人生を変えることになる物語が今、幕を開ける。\n\n開発はロックスター・ゲームス、アダプテーションはGrove Street Gamesが担当。",
+    "publisher": "テイクツー・インタラクティブ・ジャパン",
+    "developer": null,
+    "base_release_date": 20211112,
     "first_update_release_date": 20211102,
     "latest_update_release_date": 20221018,
     "latest_update": {
@@ -20,11 +20,20 @@
         "393216": 20220307,
         "458752": 20221018
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "アクション",
+        "アドベンチャー"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力",
+        "犯罪"
+    ],
     "region": null
 }
