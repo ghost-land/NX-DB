@@ -1,11 +1,11 @@
 {
     "id": "0100DAA02088A800",
     "base_tid": "0100DAA02088A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Santa's Spot It",
+    "description": "Embrace Christmas villages. Your mission? To spot the differences between two seemingly identical scenes to progress.\n\nSanta’s Spot It offers a delightful blend of challenge and charm, with multiple levels that increase in difficulty as you progress. Every scene is packed with festive details that will keep you on your toes. Whether you’re a seasoned spot-the-difference pro or a first-time player, the game’s intuitive design ensures fun for the whole family.",
+    "publisher": "SURPRISED HOTDOG",
+    "developer": null,
+    "base_release_date": 20241102,
     "first_update_release_date": 20240829,
     "latest_update_release_date": 20240829,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20240829
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Simulation",
+        "Puzzle"
+    ],
+    "intro": "Get ready to dive into the magic of Christmas with Santa’s Spot It, the ultimate holiday themed puzzle game that’s perfect for all ages!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }
