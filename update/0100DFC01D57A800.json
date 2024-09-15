@@ -1,11 +1,11 @@
 {
     "id": "0100DFC01D57A800",
     "base_tid": "0100DFC01D57A000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Worms Armageddon: Anniversary Edition",
+    "description": "It's been twenty five years since the intrepid invertebrates flung themselves onto our screens. To celebrate this we have brought the much loved title back with Worms™ Armageddon Anniversary edition.\n\nRe-live 1999 with this faithful rendition of Worms™ Armageddon. With all the hilarious fun and madness you know and love. \n\nNew Display features to suit modern hardware. An interactive documentary about Worms Armageddon alongside a museum timeline charting the history of the series. Also included is a fully playable version of the game for the world's most popular retro handheld.\n\nUse over 55 classically weird and wonderful weapons and tools including Earthquake, Freeze and French Sheep Strike.\n\nPlay single-player Deathmatch plus an exciting 40+ mission campaign\n\nOver 30 custom and comedy sound banks (including stiff upper lip, Cyberworms and more).\n\nBeloved features from the multi-player mode: Handicapping (add or deduct energy for a team), Allied Teams (team up with others to target another player), ‘Worms Disease’, Home Runs and many, many more.",
+    "publisher": "Team17",
+    "developer": null,
+    "base_release_date": 20240926,
     "first_update_release_date": 20240907,
     "latest_update_release_date": 20240907,
     "latest_update": {
@@ -15,11 +15,31 @@
     "versions": {
         "65536": 20240907
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Strategy",
+        "Multiplayer",
+        "Shooter"
+    ],
+    "intro": "Re-live 1999 with this faithful rendition of Worms™ Armageddon. With all the hilarious fun and madness you know and love. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru"
+    ],
+    "numberOfPlayers": 6,
+    "ratingContent": [
+        "Crude Humor",
+        "Fantasy Violence",
+        "Mild Blood",
+        "Mild Language",
+        "Mild Suggestive Themes",
+        "Users Interact"
+    ],
     "region": null
 }
