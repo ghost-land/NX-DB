@@ -1,4 +1,31 @@
 {
     "id": "01004210041AE800",
-    "version": 0
+    "base_tid": "01004210041AE000",
+    "name": "レイジングループ",
+    "description": "「おおかみ」信仰の息づく地・休水（やすみず）に夕霧が立つとき、殺人儀式「黄泉忌みの宴」が開かれる！\n幾多の狂気と死の果てに、「死に戻る男」房石陽明は事件を解決できるのか？\n大人気テーブルゲーム「人狼（汝は人狼なりや？）」を大胆解釈した、フルボイス・ホラーサスペンスノベルADV巨編です。",
+    "publisher": "ケムコ",
+    "developer": null,
+    "base_release_date": 20170803,
+    "first_update_release_date": 20240913,
+    "latest_update_release_date": 20240913,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20240913
+    },
+    "versions": {
+        "65536": 20240913
+    },
+    "category": [
+        "アドベンチャー"
+    ],
+    "intro": "「現実（リアル）の人狼」。その恐怖を体感せよ。",
+    "isDemo": false,
+    "languages": [
+        "ja"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "暴力"
+    ],
+    "region": null
 }
