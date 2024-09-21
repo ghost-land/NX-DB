@@ -1,11 +1,11 @@
 {
     "id": "01008CF01BAAC800",
     "base_tid": "01008CF01BAAC000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "description": "The people of Hyrule are being stolen away by strange rifts that have appeared, and with a certain swordsman among those missing, it’s up to Princess Zelda to save her kingdom.\n\nTeam up with the mysterious fairy, Tri, and use the power of the Tri Rod to learn how to create echoes, imitations of things found in the environment. You can then recreate those echoes whenever you like to solve puzzles and defeat enemies.",
+    "publisher": "Nintendo",
+    "developer": null,
+    "base_release_date": 20240926,
     "first_update_release_date": 20240918,
     "latest_update_release_date": 20240918,
     "latest_update": {
@@ -15,11 +15,29 @@
     "versions": {
         "65536": 20240918
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Action"
+    ],
+    "intro": "Save the kingdom of Hyrule – this time with the wisdom of Princess Zelda – in The Legend of Zelda: Echoes of Wisdom",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild fantasy themes and violence"
+    ],
     "region": null
 }
