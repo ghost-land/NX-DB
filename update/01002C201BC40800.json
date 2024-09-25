@@ -1,11 +1,11 @@
 {
     "id": "01002C201BC40800",
     "base_tid": "01002C201BC40000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "MONOPOLY®",
+    "description": "這款遊戲忠實改編自陪伴我們成長的桌遊，快來買賣和交易房地產，拓展你的企業帝國吧！擲出骰子，開始遊戲，深入探索這座多采多姿的全 3D 動畫城市。\n\n真實生動的桌遊圖版\n《MONOPOLY 地產大亨》提供次世代畫質和精細的 3D 城市，將經典遊戲系列提高到全新層次。\n- 在圖版上移動來探索城市和其中各式各樣的社區，或者在下一次行動之前觀察對手的動作。\n- 藉由日夜與天氣交替，欣賞城市景色從陽光明媚的早晨轉變成風雨交加的夜晚。\n\n原汁原味的桌遊體驗\n- 買賣、交易、規劃致富之道，在每一步行動中感受桌遊的精髓。\n- 玩家現可操縱自己的角色指示物，讓它移動和跳躍。想要報破產的仇嗎？那就弄倒罪魁禍首的角色指示物吧！被抓去坐牢了？把整個遊戲圖版掀了吧！\n\n家庭遊戲夜必備\n- 可在客廳與多達六名玩家一起遊玩，或參加線上比賽*，與來自全世界的地產大亨一較高下。《MONOPOLY 地產大亨》也支援跨平台遊玩功能！\n- 選擇所有玩家共用一個控制器或每個玩家各用一個控制器！\n- 自訂你的骰子組，以全新觀點發掘你最喜歡的角色指示物。",
+    "publisher": "Ubisoft",
+    "developer": null,
+    "base_release_date": 20240926,
     "first_update_release_date": 20240919,
     "latest_update_release_date": 20240919,
     "latest_update": {
@@ -15,11 +15,27 @@
     "versions": {
         "65536": 20240919
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "桌上遊戲",
+        "派對"
+    ],
+    "intro": "《MONOPOLY 地產大亨》隆重回歸，獻上全新外觀和遊戲體驗改良。",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 6,
     "ratingContent": [],
     "region": null
 }
