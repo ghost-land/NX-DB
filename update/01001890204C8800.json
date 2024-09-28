@@ -1,11 +1,11 @@
 {
     "id": "01001890204C8800",
     "base_tid": "01001890204C8000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Hide 'N Seek!",
+    "description": "Remember the good old game of hide and seek? Prepare for something a little more extreme!\n\nDive into classic gameplay where you can hide or seek. Count down before setting off to find the Hiders, or blend into the environment, stay silent, and outsmart the Seeker to win!\n\nFeatures:\n- Hide and run away from the seekers\n- Find and capture all the hiders\n- Enjoy multiplayer mode for up to 4 players!\n- Use powerups to gain an advantage\n- Collect coins to buy skins and pets!\n\nSimple, fun, and dynamic—Hide 'N Seek brings the joy of this beloved childhood game to life!\n",
+    "publisher": "QubicGames",
+    "developer": null,
+    "base_release_date": 20241004,
     "first_update_release_date": 20240925,
     "latest_update_release_date": 20240925,
     "latest_update": {
@@ -15,11 +15,20 @@
     "versions": {
         "65536": 20240925
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Action",
+        "Multiplayer",
+        "Party",
+        "Strategy"
+    ],
+    "intro": "...8, 9, 10. Ready or not, here I come!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 4,
+    "ratingContent": [
+        "In-Game Purchases"
+    ],
     "region": null
 }
