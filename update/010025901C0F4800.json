@@ -1,11 +1,11 @@
 {
     "id": "010025901C0F4800",
     "base_tid": "010025901C0F4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Ynglet",
+    "description": "浮動非平台遊戲\n在這個實驗平台中，我們取消了該類型最基本的構建塊：平台。\n\n移至凹槽\n憑藉動態、反應、精美複雜的配樂，您的每一個動作都會創造出新的旋律。\n\n\n令人著迷的運動\n學習新的方法，讓你的注意力集中在相互關聯的空間上，順流而下，衝進反光墊，並在安全可靠的氣泡中休息。\n\n塗鴉變得栩栩如生\n手繪藝術風格喚起了你在學校筆記本頁邊空白處繪製的每一張心不在焉的圖畫。\n\n液體困難\n快速重生和精細難度意味著各種形狀和大小的挑戰都會到來——甚至是變形蟲烏賊的形狀和大小。",
+    "publisher": "Akupara Games",
+    "developer": null,
+    "base_release_date": 20241017,
     "first_update_release_date": 20240925,
     "latest_update_release_date": 20240925,
     "latest_update": {
@@ -16,11 +16,28 @@
         "65536": 20240925,
         "131072": 20240925
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "街機",
+        "益智",
+        "冒險",
+        "其他"
+    ],
+    "intro": "在 Ynglet 中，你可以跳躍、衝刺、滑行、彈跳和漂浮，穿過抽象而活躍的天空。融入反應靈敏的動態配樂中，美麗的色彩讓每一刻都成為視覺享受。",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "pt",
+        "fr",
+        "de",
+        "it",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }
