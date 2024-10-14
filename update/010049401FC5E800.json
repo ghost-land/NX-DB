@@ -1,0 +1,32 @@
+{
+    "id": "010049401FC5E800",
+    "base_tid": "010049401FC5E000",
+    "name": "Behold Battle",
+    "description": "비홀드 배틀은 무작위로 생성되는 전투에서 영웅과 몬스터가 죽을 때까지 싸우는 간단한 자동 전투 게임입니다.\n\n특징\n\n■ 군대의 복잡성이 증가하는 20라운드로 구성된 일반 게임 모드입니다. 계속하려면 정확하게 맞히거나 너무 많이 틀릴 경우 게임을 오버하세요.\n■ 두 군대를 생성하고 전투를 지켜볼 수 있는 시뮬레이터.\n■ 72개의 다양한 유닛, 언데드 하수인 생성 등 독특한 공격을 가진 유닛도 있습니다.\n■ 소규모 전투부터 대규모 전투까지, 예측력을 테스트할 수 있는 다양한 난이도.\n■ 골드 베팅 모드와 각 진영이 무작위 주문을 받는 주문 모드.\n■ 더 많은 관중을 획득하기 위해 도전을 완료하세요.",
+    "publisher": "Samustai",
+    "developer": null,
+    "base_release_date": 20241003,
+    "first_update_release_date": 20241013,
+    "latest_update_release_date": 20241013,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20241013
+    },
+    "versions": {
+        "65536": 20241013
+    },
+    "category": [
+        "전략"
+    ],
+    "intro": "어느 군대가 승리할지 맞추고, 재미있게 싸우는 모습을 지켜보세요.",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "폭력성"
+    ],
+    "region": null
+}
