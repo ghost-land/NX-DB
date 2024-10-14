@@ -1,11 +1,11 @@
 {
     "id": "01007780205B4800",
     "base_tid": "01007780205B4000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Magic Cats Pots",
+    "description": "Restore broken porcelain and reveal hidden magic in Magic Cats Pots puzzles!\n\nStep into the magical world of Magic Cats Pots and breathe new life into old treasures!\n\n\nAWAKEN YOUR COZY IMAGINATION\nImagine a cozy autumn morning, where the sun still warmly touches the faces of passersby. On the corner of a quiet street, behind a shop window, a cat named Seba lazily basks in the soft rays of sunlight. Inside the shop, shelves are filled with beautiful porcelain pieces – both new and those waiting for a second chance. \n\nVisitors can come to the shop with their broken treasures, and with a touch of magic, these items can be brought back to life. But this isn’t just any life – these objects are home to divine creatures: cats.\n\n\nREPAIR AND BRING TO LIFE AGAIN\nIn Magic Cats Pots, your goal is to repair broken teapots, cups, plates, and other porcelain items. As you piece them back together, you may discover magical cats hidden within. Each restored item reveals its secrets, and with every successful repair, you unlock more challenges and new treasures.\n\nWith 126 different porcelain items to repair, each divided into specific categories, the magic never ends. As you progress, you unlock more complex challenges and discover new fluffy companions hidden within the ceramics.\n\n\nENDLESS POSSIBILITIES\nThe game offers a peaceful, relaxing journey through the world of porcelain and magical cats. With three different difficulty levels, you can enjoy simple, laid-back puzzles or tackle more intricate and demanding repairs. \n\nThe levels are procedurally generated, meaning no two puzzles are ever the same. Even after completing a level and earning all the stars, you can replay it, with each attempt offering a fresh new experience. This ensures that the game remains engaging and never repetitive.",
+    "publisher": "RedDeer.Games",
+    "developer": null,
+    "base_release_date": 20241031,
     "first_update_release_date": 20240926,
     "latest_update_release_date": 20240926,
     "latest_update": {
@@ -15,11 +15,19 @@
     "versions": {
         "65536": 20240926
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Puzzle",
+        "Lifestyle",
+        "Strategy",
+        "Arcade"
+    ],
+    "intro": "Repair magical pots with cats!",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
     "ratingContent": [],
     "region": null
 }
