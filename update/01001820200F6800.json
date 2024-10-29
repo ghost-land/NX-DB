@@ -1,11 +1,11 @@
 {
     "id": "01001820200F6800",
     "base_tid": "01001820200F6000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Zero to Dance Hero",
+    "description": "Become a Dance Hero from Zero! \n\nGrab your Joy-Con™ controllers, and get your body moving to the beat! \nLearn popular hip-hop dance moves from basic to complex.\nBut you won't be alone on your dancing journey. Four instructors help along the way!\n\n- Start off with the basics - Lesson Mode will take you through 30 lessons that will have you moving and grooving in no time!\n\n- In Free Mode, put your dancing skills to the test, and follow your instructor through six original choreographed dances!\n\n- Turn on Camera Mode and rotate the angle during lessons to see steps in detail!",
+    "publisher": "Aksys Games",
+    "developer": null,
+    "base_release_date": 20241121,
     "first_update_release_date": 20241013,
     "latest_update_release_date": 20241013,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20241013
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Sports",
+        "Simulation",
+        "Action"
+    ],
+    "intro": null,
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "No Descriptors"
+    ],
     "region": null
 }
