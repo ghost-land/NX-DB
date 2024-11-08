@@ -1,11 +1,11 @@
 {
     "id": "010044901F00E800",
     "base_tid": "010044901F00E000",
-    "name": "",
-    "description": "",
-    "publisher": "",
-    "developer": "",
-    "base_release_date": null,
+    "name": "Rec Room",
+    "description": "Party up with friends from all around the world to chat, hang out, explore player-created rooms, or build something new and amazing to share with us all.\n\n- Customize and dress up your cute Rec Room avatar to express your style\n- Discover challenging, fun or straight up weird games made by creators just like you\n- Try your skill with the Maker Pen, the tool used by Rec Room creators to build everything from puppies to helicopters to entire worlds!\n- Join the best community - Rec Room is a fun and welcoming place for people from all walks of life! Let us help you find people you’ll LOVE to hang out with.",
+    "publisher": "Rec Room",
+    "developer": null,
+    "base_release_date": 20241106,
     "first_update_release_date": 20241026,
     "latest_update_release_date": 20241026,
     "latest_update": {
@@ -15,11 +15,22 @@
     "versions": {
         "65536": 20241026
     },
-    "category": [],
-    "intro": "",
+    "category": [
+        "Adventure",
+        "Multiplayer",
+        "Party",
+        "Action"
+    ],
+    "intro": "Rec Room is the best place to build and play games together. ",
     "isDemo": false,
-    "languages": [],
-    "numberOfPlayers": 0,
-    "ratingContent": [],
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact",
+        "In-Game Purchases"
+    ],
     "region": null
 }
