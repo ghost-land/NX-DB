@@ -1,0 +1,24 @@
+{
+    "description": "This Go game software features a \"game console-exclusive AI\" optimized purely for strength and analytical power, focusing on match functionality.\n\n● 14 Levels of Difficulty from Beginner to 4 Dan\nThe computer's strength is divided into 14 levels.\nYou can play against opponents tailored to your skill level, ranging from \"Beginner\" for newcomers to \"4th Dan\" for those seeking the ultimate challenge.\n\n●\"Analysis\"  Feature that shows how the AI would play.\nThe AI analyzes your game and displays suggested moves to show how it would play in your position.\nSelect your thinking level from \"1 Dan\" to \"4 Dan\" and display [win rate display] and [good move/bad move display].\nFrom the graph for each move, you can find out which moves led to wins and losses, and where improvements are needed.\nWinning rate display: Displays the winning rate analyzed by AI in a graph for each move.\nGood/bad move display: AI analyzes the moves you made and displays good/bad moves.\n\n● \"Reading Lines\" Feature to View the Basis of Suggested You can view the reasoning behind the AI's suggested moves through its Reading Lines.\nSelect thinking levels from 1 Dan to 4 Dan and preview sequences 3, 5, 7, 9, or 11 moves ahead.\nThis helps clarify why the AI made certain decisions.\n\n● Additional Features\nJoseki Display: Shows common opening patterns.\nHint Function: Provides suggestions during the game.\n2-Player Matches: Play against another person.\nReal-Time Territory Estimation: Displays territory as the game progresses.\nGame Record Save and Load: Save your game records or resume a game from a saved state.\nGame Record Input: Manually input moves for review or analysis.",
+    "id": "01009640216B4000",
+    "name": "GINSEI IGO: AI Teaches You How to Play Go",
+    "publisher": "SILVERSTAR",
+    "releaseDate": 20250220,
+    "version": 0,
+    "category": [
+        "Board Game",
+        "Training"
+    ],
+    "developer": null,
+    "intro": "Push the Limits of Strength with a Dedicated Game Console AI!",
+    "isDemo": false,
+    "languages": [
+        "en",
+        "zh"
+    ],
+    "nsuId": 70010000090887,
+    "numberOfPlayers": 2,
+    "ratingContent": [],
+    "region": null,
+    "rightsId": null
+}
