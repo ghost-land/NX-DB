@@ -7,14 +7,16 @@
     "developer": null,
     "base_release_date": 20201030,
     "first_update_release_date": 20201124,
-    "latest_update_release_date": 20230621,
+    "latest_update_release_date": 20250618,
     "latest_update": {
-        "version": "131072",
-        "release_date": 20230621
+        "version": "262144",
+        "release_date": 20250618
     },
     "versions": {
         "65536": 20201124,
-        "131072": 20230621
+        "131072": 20230621,
+        "196608": 20250610,
+        "262144": 20250618
     },
     "category": [
         "Action",

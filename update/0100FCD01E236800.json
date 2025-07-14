@@ -1,0 +1,40 @@
+{
+    "id": "0100FCD01E236800",
+    "base_tid": "0100FCD01E236000",
+    "name": "Crystal Breaker",
+    "description": "Shoot the enemy at close range! Crystal Breaker is a vertically scrolling shmup that focuses on close range attack.\n\nStory\nIn the year 248 of the Space Era, an abnormality occurred in the defense system that supported human life. Unmanned weapons began destroying orbital industrial plants. The space government, which relied on computers, was powerless to do anything about the situation. Suddenly, an unknown fighter jet appeared, fighting against the unmanned weapons. The words CRYSTAL BREAKER were written on the side of the cockpit.\n\nOverall\nThis game is an aggressive shmup where close range attacks and quick destruction are important for both stage clear and score attacks.\n\nCrystal break by close range attack\nCrystals appear when you shoot an enemy at close range (Crystal Break). You can get bonuses by getting a certain number of crystals.\n\nActively overlap and attack the enemy\nYou will not receive damage even if you come into contact with the enemy body. It is effective to quickly approach the enemies that appear and destroy them by overlapping them.\n\nMove fast with boost\nYou can move at high speed by pressing the boost button. You can quickly approach and destroy enemies or avoid enemy sniper bullets by moving fast.\n\nThe player can be selected from two players with different abilities\nYou can choose from two types: standard type and short range power type.\n\nScore attack for each stage\nThere are multiple stages, and by clearing a stage, the next stage will be released. Also, it is possible to attack the score for each stage.\n",
+    "publisher": "TERARIN GAMES",
+    "developer": null,
+    "base_release_date": 20241129,
+    "first_update_release_date": 20241116,
+    "latest_update_release_date": 20241217,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20241217
+    },
+    "versions": {
+        "65536": 20241116,
+        "131072": 20241217
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Shooter"
+    ],
+    "intro": "Close-range battle vertical scrolling shmup",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Violence"
+    ],
+    "region": null
+}

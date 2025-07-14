@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20231117,
     "first_update_release_date": 20231123,
-    "latest_update_release_date": 20240320,
+    "latest_update_release_date": 20250626,
     "latest_update": {
-        "version": "393216",
-        "release_date": 20240320
+        "version": "655360",
+        "release_date": 20250626
     },
     "versions": {
         "65536": 20231123,
@@ -18,7 +18,9 @@
         "196608": 20240111,
         "262144": 20240221,
         "327680": 20240222,
-        "393216": 20240320
+        "393216": 20240320,
+        "589824": 20250610,
+        "655360": 20250626
     },
     "category": [
         "Multiplayer",

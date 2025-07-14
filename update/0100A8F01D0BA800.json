@@ -1,0 +1,40 @@
+{
+    "id": "0100A8F01D0BA800",
+    "base_tid": "0100A8F01D0BA000",
+    "name": "Matsuro Palette",
+    "description": "A mystery horror visual novel game where you must survive seven days with a cursed painting.\n\nThe protagonist, trapped in a gloomy studio for seven days, must contend with a cursed painting of a girl to survive. Rely on notes from past victims and manage to successfully paint her portrait. Be careful not to upset her, or you'll quickly find yourself facing an unfortunate fate!\n\nWill you be the one to finally finish her?",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20241114,
+    "first_update_release_date": 20241116,
+    "latest_update_release_date": 20241204,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20241204
+    },
+    "versions": {
+        "65536": 20241116,
+        "131072": 20241204
+    },
+    "category": [
+        "Adventure",
+        "Puzzle",
+        "Simulation"
+    ],
+    "intro": "Survive seven days with a cursed painting! Will you be able to finish her?",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "de",
+        "ko",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
+}

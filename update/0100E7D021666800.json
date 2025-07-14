@@ -1,0 +1,38 @@
+{
+    "id": "0100E7D021666800",
+    "base_tid": "0100E7D021666000",
+    "name": "Golden Warden",
+    "description": "Golden Warden is a rogue-like battle game set in a dungeon generated like the Japanese board game of sugoroku. Choose Action Cards that combine dice movement with various attacks using swords, magic, bows, bombs, and even blunderbusses. \n\nConquer dungeons full of traps that change each time you enter. Get upgrades, collect gold to strengthen your weapons, take down (or avoid) enemies, and aim for the depths of the dungeon to claim the treasure that Golden Warden is said to guard.\n\nAction Cards:\nChoose one Action Card each turn that combines movement and attack. Choose wisely as it's what will get you out of your predicaments!\n\nDungeons of Tiles:\nThe dungeons are filled with tiles containing various effects. Use the effects of the tiles to your advantage and wipe out the enemy.\n\nVarying Playstyle:\nAs you progress through the dungeon, you can acquire new weapons and upgrades, gradually morphing the way you play. Find the playstyle that suits you and aim for the dungeon's depths.",
+    "publisher": "Waku Waku Games",
+    "developer": null,
+    "base_release_date": 20250306,
+    "first_update_release_date": 20250314,
+    "latest_update_release_date": 20250610,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20250610
+    },
+    "versions": {
+        "65536": 20250314,
+        "131072": 20250320,
+        "196608": 20250501,
+        "262144": 20250610
+    },
+    "category": [
+        "RPG",
+        "Strategy"
+    ],
+    "intro": "Pick a card each turn as you aim for the dungeon depths and attempt to claim the treasure that the Golden Warden protects as your own.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
+}

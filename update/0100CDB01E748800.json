@@ -7,16 +7,21 @@
     "developer": null,
     "base_release_date": 20240912,
     "first_update_release_date": 20240929,
-    "latest_update_release_date": 20241101,
+    "latest_update_release_date": 20250331,
     "latest_update": {
-        "version": "327680",
-        "release_date": 20241101
+        "version": "655360",
+        "release_date": 20250331
     },
     "versions": {
         "65536": 20240929,
         "196608": 20241001,
         "262144": 20241013,
-        "327680": 20241101
+        "327680": 20241101,
+        "393216": 20241130,
+        "458752": 20241225,
+        "524288": 20250131,
+        "589824": 20250228,
+        "655360": 20250331
     },
     "category": [
         "角色扮演",

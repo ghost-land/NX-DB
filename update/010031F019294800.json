@@ -7,16 +7,19 @@
     "developer": null,
     "base_release_date": 20240625,
     "first_update_release_date": 20240527,
-    "latest_update_release_date": 20240917,
+    "latest_update_release_date": 20250325,
     "latest_update": {
-        "version": "262144",
-        "release_date": 20240917
+        "version": "458752",
+        "release_date": 20250325
     },
     "versions": {
         "65536": 20240527,
         "131072": 20240719,
         "196608": 20240728,
-        "262144": 20240917
+        "262144": 20240917,
+        "327680": 20241126,
+        "393216": 20250128,
+        "458752": 20250325
     },
     "category": [
         "Arcade",

@@ -1,4 +1,39 @@
 {
     "id": "0100F0700CD8E800",
-    "version": 65536
+    "base_tid": "0100F0700CD8E000",
+    "name": "Alvastia Chronicles",
+    "description": "After encountering the man who killed their parents ten years prior, Elmia and her brother Alan set out to avenge their deaths as they fight to stem the tide of monsters flooding into the upper world, and restore peace to Alvastia.\n\nHowever, in their quest to amass an army of diverse companions with the same goal, will they really be able to gain the strength necessary to bring their parents' killer to justice, and save the world...?\n\nEncounter more than 100 companions as Alan and Elmia travel the world. Do you have what it takes to recruit them all? Engage in heated turn-based battles with up to 13 party members. Unlock bonds connected to companions and utilize various effects! Weapon upgrades, a battle arena, and quests are only the beginning of what is in store!",
+    "publisher": "KEMCO",
+    "developer": null,
+    "base_release_date": 20190215,
+    "first_update_release_date": 20241206,
+    "latest_update_release_date": 20241206,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20241206
+    },
+    "versions": {
+        "131072": 20241206
+    },
+    "category": [
+        "RPG",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+    ],
+    "intro": "RPG with over 100 companions?! Set out on an adventure in a retro-styled world!",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Online Interactivity",
+        "Mild Coarse Language",
+        "Mild Themes",
+        "Scary Scenes",
+        "Digital Purchases"
+    ],
+    "region": null
 }

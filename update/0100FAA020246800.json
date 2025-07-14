@@ -7,13 +7,18 @@
     "developer": null,
     "base_release_date": 20241112,
     "first_update_release_date": 20241031,
-    "latest_update_release_date": 20241031,
+    "latest_update_release_date": 20250426,
     "latest_update": {
-        "version": "65536",
-        "release_date": 20241031
+        "version": "393216",
+        "release_date": 20250426
     },
     "versions": {
-        "65536": 20241031
+        "65536": 20241031,
+        "131072": 20241220,
+        "196608": 20250117,
+        "262144": 20250226,
+        "327680": 20250402,
+        "393216": 20250426
     },
     "category": [
         "Puzzle",

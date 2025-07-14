@@ -7,10 +7,10 @@
     "developer": "",
     "base_release_date": null,
     "first_update_release_date": 20240724,
-    "latest_update_release_date": 20241031,
+    "latest_update_release_date": 20250331,
     "latest_update": {
-        "version": "458752",
-        "release_date": 20241031
+        "version": "786432",
+        "release_date": 20250331
     },
     "versions": {
         "65536": 20240724,
@@ -19,7 +19,12 @@
         "262144": 20240821,
         "327680": 20240831,
         "393216": 20240930,
-        "458752": 20241031
+        "458752": 20241031,
+        "524288": 20241130,
+        "589824": 20241225,
+        "655360": 20250131,
+        "720896": 20250228,
+        "786432": 20250331
     },
     "category": [],
     "intro": "",

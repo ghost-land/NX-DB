@@ -7,14 +7,16 @@
     "developer": null,
     "base_release_date": 20230525,
     "first_update_release_date": 20230524,
-    "latest_update_release_date": 20230628,
+    "latest_update_release_date": 20250610,
     "latest_update": {
-        "version": "131072",
-        "release_date": 20230628
+        "version": "262144",
+        "release_date": 20250610
     },
     "versions": {
         "65536": 20230524,
-        "131072": 20230628
+        "131072": 20230628,
+        "196608": 20250129,
+        "262144": 20250610
     },
     "category": [
         "角色扮演",

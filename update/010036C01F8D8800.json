@@ -7,13 +7,15 @@
     "developer": null,
     "base_release_date": 20241107,
     "first_update_release_date": 20241017,
-    "latest_update_release_date": 20241017,
+    "latest_update_release_date": 20250109,
     "latest_update": {
-        "version": "65536",
-        "release_date": 20241017
+        "version": "196608",
+        "release_date": 20250109
     },
     "versions": {
-        "65536": 20241017
+        "65536": 20241017,
+        "131072": 20241122,
+        "196608": 20250109
     },
     "category": [
         "Shooter",

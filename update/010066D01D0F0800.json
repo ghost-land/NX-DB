@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20240522,
     "first_update_release_date": 20240412,
-    "latest_update_release_date": 20241004,
+    "latest_update_release_date": 20250610,
     "latest_update": {
-        "version": "458752",
-        "release_date": 20241004
+        "version": "786432",
+        "release_date": 20250610
     },
     "versions": {
         "65536": 20240412,
@@ -18,7 +18,10 @@
         "196608": 20240603,
         "262144": 20240605,
         "393216": 20240719,
-        "458752": 20241004
+        "458752": 20241004,
+        "524288": 20241104,
+        "589824": 20250203,
+        "786432": 20250610
     },
     "category": [
         "Strategy",

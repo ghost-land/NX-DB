@@ -7,16 +7,20 @@
     "developer": null,
     "base_release_date": 20240829,
     "first_update_release_date": 20240808,
-    "latest_update_release_date": 20241015,
+    "latest_update_release_date": 20250203,
     "latest_update": {
-        "version": "262144",
-        "release_date": 20241015
+        "version": "524288",
+        "release_date": 20250203
     },
     "versions": {
         "65536": 20240808,
         "131072": 20240918,
         "196608": 20241007,
-        "262144": 20241015
+        "262144": 20241015,
+        "327680": 20241125,
+        "393216": 20241218,
+        "458752": 20250120,
+        "524288": 20250203
     },
     "category": [
         "Racing",

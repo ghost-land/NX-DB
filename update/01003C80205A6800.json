@@ -7,13 +7,16 @@
     "developer": null,
     "base_release_date": 20241107,
     "first_update_release_date": 20241105,
-    "latest_update_release_date": 20241105,
+    "latest_update_release_date": 20250319,
     "latest_update": {
-        "version": "65536",
-        "release_date": 20241105
+        "version": "262144",
+        "release_date": 20250319
     },
     "versions": {
-        "65536": 20241105
+        "65536": 20241105,
+        "131072": 20250219,
+        "196608": 20250227,
+        "262144": 20250319
     },
     "category": [
         "策略",

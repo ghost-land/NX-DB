@@ -7,14 +7,16 @@
     "developer": null,
     "base_release_date": 20210311,
     "first_update_release_date": 20210928,
-    "latest_update_release_date": 20211208,
+    "latest_update_release_date": 20241105,
     "latest_update": {
-        "version": "131072",
-        "release_date": 20211208
+        "version": "262144",
+        "release_date": 20241105
     },
     "versions": {
         "65536": 20210928,
-        "131072": 20211208
+        "131072": 20211208,
+        "196608": 20241105,
+        "262144": 20241105
     },
     "category": [
         "Adventure",

@@ -1,0 +1,41 @@
+{
+    "id": "010075801F788800",
+    "base_tid": "010075801F788000",
+    "name": "Mostroscopy",
+    "description": "Mostroscopy is a fighting video game that takes up the aesthetics of the horror and Luchador films of Mexican cinema from the 1950s, with an eclectic roster of monsters and masked Luchadores and a simple gameplay style with a retro presentation.",
+    "publisher": "Seashell Studio",
+    "developer": null,
+    "base_release_date": 20250516,
+    "first_update_release_date": 20250503,
+    "latest_update_release_date": 20250503,
+    "latest_update": {
+        "version": "65536",
+        "release_date": 20250503
+    },
+    "versions": {
+        "65536": 20250503
+    },
+    "category": [
+        "Fighting",
+        "Arcade",
+        "Action",
+        "Multiplayer"
+    ],
+    "intro": "Monsters. Masks. Mayhem.\nA retro-style brawler inspired by 1950s Mexican Lucha & Monsters.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "pt"
+    ],
+    "numberOfPlayers": 2,
+    "ratingContent": [
+        "Blood",
+        "Violence"
+    ],
+    "region": null
+}

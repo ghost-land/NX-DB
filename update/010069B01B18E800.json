@@ -7,17 +7,21 @@
     "developer": null,
     "base_release_date": 20240619,
     "first_update_release_date": 20240612,
-    "latest_update_release_date": 20240930,
+    "latest_update_release_date": 20250616,
     "latest_update": {
-        "version": "524288",
-        "release_date": 20240930
+        "version": "786432",
+        "release_date": 20250616
     },
     "versions": {
         "65536": 20240612,
         "131072": 20240617,
         "327680": 20240731,
         "393216": 20240819,
-        "524288": 20240930
+        "524288": 20240930,
+        "589824": 20241127,
+        "655360": 20241209,
+        "720896": 20250203,
+        "786432": 20250616
     },
     "category": [
         "RPG",

@@ -1,0 +1,40 @@
+{
+    "id": "0100B08020F56800",
+    "base_tid": "0100B08020F56000",
+    "name": "Kosmo Skirmish",
+    "description": "Kosmo Skirmish is a multiplayer space combat game. Choose your arsenal carefully to take down your opponents!\n\nFeatures:\n• From 2 to 8 players: on the same screen, online - or both at the same time.\n• Procedurally generated destructible terrain.\n• Select your equipment of 4 weapons from an arsenal of 12 weapons and tools.\n• Several game modes: Each for themselves or as a team.\n• Hostile environments: Lava rise, death laser, meteorites, gas balls.\n• Game settings: victory points, time, placement.",
+    "publisher": "Jeremy Entressangle",
+    "developer": null,
+    "base_release_date": 20250109,
+    "first_update_release_date": 20250403,
+    "latest_update_release_date": 20250403,
+    "latest_update": {
+        "version": "131072",
+        "release_date": 20250403
+    },
+    "versions": {
+        "131072": 20250403
+    },
+    "category": [
+        "Multiplayer",
+        "Action",
+        "Arcade",
+        "Party"
+    ],
+    "intro": "A multiplayer space combat game. From 2 to 8 players, take on your friends on the various destructible planets.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+    ],
+    "numberOfPlayers": 8,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Users Interact"
+    ],
+    "region": null
+}

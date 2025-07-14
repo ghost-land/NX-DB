@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20240730,
     "first_update_release_date": 20240731,
-    "latest_update_release_date": 20241107,
+    "latest_update_release_date": 20250305,
     "latest_update": {
-        "version": "458752",
-        "release_date": 20241107
+        "version": "720896",
+        "release_date": 20250305
     },
     "versions": {
         "65536": 20240731,
@@ -18,7 +18,11 @@
         "196608": 20240828,
         "262144": 20240913,
         "393216": 20241024,
-        "458752": 20241107
+        "458752": 20241107,
+        "524288": 20241212,
+        "589824": 20241220,
+        "655360": 20250218,
+        "720896": 20250305
     },
     "category": [
         "Simulation",

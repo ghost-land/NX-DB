@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20231006,
     "first_update_release_date": 20231010,
-    "latest_update_release_date": 20240903,
+    "latest_update_release_date": 20250331,
     "latest_update": {
-        "version": "655360",
-        "release_date": 20240903
+        "version": "917504",
+        "release_date": 20250331
     },
     "versions": {
         "65536": 20231010,
@@ -21,7 +21,10 @@
         "458752": 20240510,
         "524288": 20240719,
         "589824": 20240729,
-        "655360": 20240903
+        "655360": 20240903,
+        "786432": 20241125,
+        "851968": 20241225,
+        "917504": 20250331
     },
     "category": [
         "テーブル",

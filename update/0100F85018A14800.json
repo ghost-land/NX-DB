@@ -7,15 +7,22 @@
     "developer": null,
     "base_release_date": 20241003,
     "first_update_release_date": 20240920,
-    "latest_update_release_date": 20241023,
+    "latest_update_release_date": 20250702,
     "latest_update": {
-        "version": "196608",
-        "release_date": 20241023
+        "version": "655360",
+        "release_date": 20250702
     },
     "versions": {
         "65536": 20240920,
         "131072": 20241001,
-        "196608": 20241023
+        "196608": 20241023,
+        "262144": 20241120,
+        "327680": 20250108,
+        "393216": 20250121,
+        "458752": 20250213,
+        "524288": 20250402,
+        "589824": 20250426,
+        "655360": 20250702
     },
     "category": [
         "動作",

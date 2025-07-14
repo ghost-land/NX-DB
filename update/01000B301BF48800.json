@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20231103,
     "first_update_release_date": 20231123,
-    "latest_update_release_date": 20241101,
+    "latest_update_release_date": 20250128,
     "latest_update": {
-        "version": "589824",
-        "release_date": 20241101
+        "version": "786432",
+        "release_date": 20250128
     },
     "versions": {
         "131072": 20231123,
@@ -19,7 +19,10 @@
         "393216": 20240328,
         "458752": 20240425,
         "524288": 20240530,
-        "589824": 20241101
+        "589824": 20241101,
+        "655360": 20241116,
+        "720896": 20241128,
+        "786432": 20250128
     },
     "category": [
         "シミュレーション"

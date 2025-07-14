@@ -7,10 +7,10 @@
     "developer": null,
     "base_release_date": 20231114,
     "first_update_release_date": 20231106,
-    "latest_update_release_date": 20240812,
+    "latest_update_release_date": 20250610,
     "latest_update": {
-        "version": "655360",
-        "release_date": 20240812
+        "version": "917504",
+        "release_date": 20250610
     },
     "versions": {
         "65536": 20231106,
@@ -22,7 +22,11 @@
         "458752": 20240406,
         "524288": 20240422,
         "589824": 20240618,
-        "655360": 20240812
+        "655360": 20240812,
+        "720896": 20241107,
+        "786432": 20241217,
+        "851968": 20250224,
+        "917504": 20250610
     },
     "category": [
         "Platformer",

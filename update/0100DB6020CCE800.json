@@ -1,0 +1,47 @@
+{
+    "id": "0100DB6020CCE800",
+    "base_tid": "0100DB6020CCE000",
+    "name": "Little Droid",
+    "description": "Little Droid is an adventure platformer that takes you to a world of mysteries, tough enemies, and hidden dangers. The journey is packed with challenges, requiring careful battery management to keep the droid energized at crucial moments. Explore a richly detailed environment, collect weapons to overcome various obstacles, and uncover secrets as you pursue the source of a mysterious signal.\n",
+    "publisher": "Stamina Zero",
+    "developer": null,
+    "base_release_date": 20250410,
+    "first_update_release_date": 20250328,
+    "latest_update_release_date": 20250616,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20250616
+    },
+    "versions": {
+        "131072": 20250328,
+        "196608": 20250430,
+        "262144": 20250616
+    },
+    "category": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Platformer"
+    ],
+    "intro": "Little Droid is an adventure platformer that takes you to a world of mysteries, tough enemies, and hidden dangers.",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "it",
+        "nl",
+        "ru",
+        "ko",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Mild Fantasy Violence"
+    ],
+    "region": null
+}

@@ -1,0 +1,43 @@
+{
+    "id": "0100E710214E6800",
+    "base_tid": "0100E710214E6000",
+    "name": "Vault of the Void",
+    "description": "Vault of the Void is a single-player, low-RNG roguelike deckbuilder designed to put the power into your hands. Continuously build, transform and iterate on your fixed 20 card deck as you progress through your run - or even before each battle. Preview which enemies you’ll be battling before each encounter, giving you a chance to carefully plan your strategy. With no random events, your success is in your hands - and your creativity and skill define your chances of victory!\n\nFEATURES\n* Choose from 4 different classes, each one with a completely different playstyle!\n* Constantly iterate on your deck with 440+ different cards!\n* Battle 90+ fearsome monsters as you make your way to The Void.\n* Change up your playstyle with 320+ Artifacts.\n* Infuse your cards with different Void Stones - leading to endless combinations!\n* A roguelike CCG where the power’s in your hands, and without RNG.\n\nVault of the Void features a plethora of unique mechanics and quality-of-life changes designed to alleviate the RNG of the roguelike deckbuilder experience, and encourage creative deckbuilding!\n\nBad Hand? No Problem!\nIn Vault of the Void, fast-paced combat is the name of the game. Discard your unnecessary cards to give yourself more energy, fuelling high-powered combos!\n\nThreat: Damage Made Simple!\nAs creatures attack during their turn, they’ll increase your Threat level. At the end of your next turn, your Threat stack will trigger, dealing damage to your hit points equal to its total value. Play Block cards to reduce your Threat reactively, and make the hard choice between damage, or survival.\n\nWith threat, there’s no need to calculate how much damage you’re going to take at the end of your turn - it’s right there in front of you!",
+    "publisher": "Spider Nest Games",
+    "developer": null,
+    "base_release_date": 20250404,
+    "first_update_release_date": 20250401,
+    "latest_update_release_date": 20250610,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20250610
+    },
+    "versions": {
+        "65536": 20250401,
+        "131072": 20250502,
+        "262144": 20250610
+    },
+    "category": [
+        "Strategy",
+        "Board Game",
+        "Puzzle",
+        "RPG"
+    ],
+    "intro": "No luck, just skill. Focus on planning and strategy in this unique, low-RNG take on deckbuilding. ",
+    "isDemo": false,
+    "languages": [
+        "ja",
+        "en",
+        "fr",
+        "pt",
+        "es",
+        "de",
+        "zh",
+        "zh"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "General"
+    ],
+    "region": null
+}

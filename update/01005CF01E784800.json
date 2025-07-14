@@ -7,15 +7,23 @@
     "developer": null,
     "base_release_date": 20240717,
     "first_update_release_date": 20240705,
-    "latest_update_release_date": 20240819,
+    "latest_update_release_date": 20250626,
     "latest_update": {
-        "version": "196608",
-        "release_date": 20240819
+        "version": "917504",
+        "release_date": 20250626
     },
     "versions": {
         "65536": 20240705,
         "131072": 20240730,
-        "196608": 20240819
+        "196608": 20240819,
+        "262144": 20241106,
+        "393216": 20250205,
+        "458752": 20250224,
+        "524288": 20250324,
+        "589824": 20250328,
+        "655360": 20250411,
+        "720896": 20250610,
+        "917504": 20250626
     },
     "category": [
         "Action",

@@ -7,15 +7,17 @@
     "developer": null,
     "base_release_date": 20241017,
     "first_update_release_date": 20241008,
-    "latest_update_release_date": 20241024,
+    "latest_update_release_date": 20250110,
     "latest_update": {
-        "version": "196608",
-        "release_date": 20241024
+        "version": "393216",
+        "release_date": 20250110
     },
     "versions": {
         "65536": 20241008,
         "131072": 20241016,
-        "196608": 20241024
+        "196608": 20241024,
+        "327680": 20241206,
+        "393216": 20250110
     },
     "category": [
         "Fighting",

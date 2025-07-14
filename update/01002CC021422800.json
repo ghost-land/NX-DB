@@ -1,0 +1,37 @@
+{
+    "id": "01002CC021422800",
+    "base_tid": "01002CC021422000",
+    "name": "Starlair",
+    "description": "Starlair is a never-ending adventure game where you'll take on an entire galaxy's worth of planets. Fly your ship through an infinite galaxy finding new challenges along the way. Every planet in the galaxy was created by a player. \n\nWhen you land on a planet, the game turns into a side-scrolling adventure filled with puzzles, bosses, and power-ups. Each world houses a secret relic which can be used to unravel the mystery surrounding the ever-expanding universe.\n\nYou can play or create - or both! Build massive worlds, write music, create bosses, and share them with the world.",
+    "publisher": "Dynamic Voltage Games",
+    "developer": null,
+    "base_release_date": 20250116,
+    "first_update_release_date": 20250109,
+    "latest_update_release_date": 20250625,
+    "latest_update": {
+        "version": "262144",
+        "release_date": 20250625
+    },
+    "versions": {
+        "65536": 20250109,
+        "131072": 20250117,
+        "262144": 20250625
+    },
+    "category": [
+        "Adventure",
+        "RPG",
+        "Platformer"
+    ],
+    "intro": "Enter a massive galaxy of adventures created by the players. Build your own worlds, write music, create bosses - or take on the winding dungeons created by other players.",
+    "isDemo": false,
+    "languages": [
+        "en"
+    ],
+    "numberOfPlayers": 1,
+    "ratingContent": [
+        "Fantasy Violence",
+        "Mild Blood",
+        "Users Interact"
+    ],
+    "region": null
+}
